@@ -1,0 +1,97 @@
+[
+  {
+    "id": "yt-engaged-views-2026-09",
+    "title": "YouTube ha cambiato cosa conta come \"visualizzazione\": i podcast trattengono solo il 64% come view reali",
+    "source": "YouTube (policy, 24 ago 2026) + analisi Podtrac (3 set 2026), riprese da Forbes India, Digiday, ppc.land, Podnews",
+    "affidabilita": "primaria",
+    "target": 8,
+    "date": "2026-09-03",
+    "brief": "Dal 24 agosto YouTube conta una \"view\" dal primo istante di riproduzione, spostando la vecchia metrica (rinominata \"engaged view\", quella che conta ancora per guadagni e Partner Program) fuori dalle pagine pubbliche. L'analisi di Podtrac del 3 settembre, su 84,2 milioni di visualizzazioni, mostra che gli episodi podcast trattengono solo il 64% come \"engaged view\" contro il 58% degli altri video dello stesso canale: un divario di 36 punti tra il numero mostrato in pubblico e quello reale.",
+    "angles": [
+      "Perché il numero di views sotto il tuo episodio da fine agosto racconta una storia diversa (e come spiegarlo a uno sponsor)",
+      "Come leggere le metriche vere di ascolto su YouTube senza farti ingannare dal numero grande",
+      "Cosa cambia per chi vende sponsorizzazioni basandosi sulle views di YouTube"
+    ],
+    "hooks": [
+      "Hai controllato le views del tuo episodio stamattina? Sappi che YouTube te ne mostra il 36% in più di quelle vere.",
+      "Ti sei vantato con lo sponsor per le views esplose questo mese? Da fine agosto contano anche quelli che guardano mezzo secondo e scappano.",
+      "Pensi che il tuo podcast stia crescendo perché le views su YouTube sono raddoppiate? Forse hanno solo cambiato il righello."
+    ]
+  },
+  {
+    "id": "uk-top25-q2-2026",
+    "title": "Classifica UK Top 25 podcast Q2 2026: chi sale, chi debutta e perché",
+    "source": "Edison Research / SSRS via Podnews (6 set 2026)",
+    "affidabilita": "primaria",
+    "target": 6,
+    "date": "2026-09-06",
+    "brief": "Joe Rogan Experience, Diary of a CEO e The Rest Is Politics restano sul podio. The Rest Is Football sale al quinto posto, massimo storico, dopo l'accordo con Netflix e il Mondiale per club FIFA. The Louis Theroux Podcast fa il balzo più grande della classifica, dal 65° al 24° posto dopo il ritorno con l'ottava stagione. Debutta in Top 25 anche \"Dish\", podcast di cucina targato Waitrose.",
+    "angles": [
+      "Cosa insegna il balzo di Louis Theroux: tornare dopo una lunga pausa può funzionare se hai già un pubblico fedele",
+      "Perché un brand come Waitrose lancia un podcast e finisce in classifica: il branded podcast come porta d'accesso",
+      "Il legame tra eventi reali (Mondiale, ritorni di stagione) e impennate di ascolto: pianificare gli episodi intorno a un calendario vero"
+    ],
+    "hooks": [
+      "Pensi che riprendere il podcast dopo una pausa lunga sia un suicidio d'ascolti? Theroux è risalito di 41 posizioni facendo esattamente questo.",
+      "Hai un brand e pensi 'noi non potremmo mai fare un podcast'? Waitrose l'ha fatto con uno chef ed è finito in classifica nazionale.",
+      "Ti chiedi perché il tuo podcast sportivo non decolla? Guarda quando escono i tuoi episodi rispetto al calendario delle partite vere."
+    ]
+  },
+  {
+    "id": "spotify-skip-ahead-2026-08",
+    "title": "Spotify testa \"Skip Ahead\": un tap e l'ascoltatore salta tutto il blocco pubblicitario",
+    "source": "Digital Music News, Android Authority, Forbes, Barrett Media (test rilevato da inizio agosto 2026, Premium US/UK)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-08-04",
+    "brief": "Spotify sta testando su alcuni utenti Premium USA/UK un pulsante che compare a inizio blocco pubblicitario o sponsorizzazione e lo salta con un tap solo, al posto dei nove tap necessari con lo skip da 15 secondi. Il pulsante non tocca la pubblicità venduta direttamente da Spotify. Secondo l'azienda di analytics Bumper, oggi meno del 10% dei blocchi viene saltato manualmente: se la funzione diventasse permanente, cambierebbe le basi su cui si vendono le sponsorizzazioni negli show indipendenti.",
+    "angles": [
+      "Cosa significa per chi vive di sponsor letti in prima persona se il pubblico può saltarli con un dito",
+      "Perché conviene integrare la sponsorizzazione nel racconto invece di isolarla in un blocco riconoscibile e saltabile",
+      "Come spiegare a un cliente/sponsor il rischio \"skip\" e negoziare di conseguenza"
+    ],
+    "hooks": [
+      "Fai leggere lo sponsor in un blocco isolato a inizio episodio? Spotify sta testando un tasto che lo salta con un dito.",
+      "Hai uno sponsor che ti paga a episodio? Se passa questo test, tra un po' ti paga per un ascolto che in tanti salteranno con un tap.",
+      "Pensavi che il problema fosse trovare sponsor? Il problema vero sta arrivando: farli ascoltare quando basta un tap per saltarli."
+    ]
+  },
+  {
+    "id": "save-our-voices-now-2026-08",
+    "title": "Oltre 80 attori firmano \"Save Our Voices Now\" contro la clonazione vocale AI senza consenso",
+    "source": "ITV News, Variety, Irish Times (28 ago 2026), ripreso da Deadline a settembre",
+    "affidabilita": "primaria",
+    "target": 5,
+    "date": "2026-08-28",
+    "brief": "Nicola Coughlan, Hugh Bonneville, Matt Lucas e oltre 80 altri nomi dello spettacolo britannico hanno lanciato una lettera aperta e una petizione al governo UK per chiedere che la voce diventi un diritto di proprietà tutelato per legge contro la clonazione AI non autorizzata. Il DCMS britannico ha annunciato l'apertura di una consultazione sul tema.",
+    "angles": [
+      "Cosa significa per chi registra la propria voce ogni settimana: dove finiscono i tuoi file audio e chi potrebbe clonarli",
+      "Come tutelarti già oggi nei contratti con host, ospiti o doppiatori con clausole sull'uso vocale e l'AI",
+      "AI voice cloning come strumento (dubbing, voci di sintesi per intro) contro rischio consenso: dove tracciare il confine"
+    ],
+    "hooks": [
+      "Hai mai pensato a chi potrebbe usare la tua voce senza chiedertelo? Ottanta attori UK hanno appena chiesto una legge apposta.",
+      "Fai firmare un consenso ai tuoi ospiti prima di pubblicare l'episodio? Forse è ora di aggiungerci una riga anche sull'AI.",
+      "Ti sembra fantascienza la clonazione vocale? Non lo è più: c'è una petizione al governo britannico che lo conferma."
+    ]
+  },
+  {
+    "id": "kids-podcasts-app-2026-09",
+    "title": "Arriva l'app iPhone \"Kids Podcasts\": libreria bloccata, scelgono solo i genitori",
+    "source": "Podnews, comunicato del 6 set 2026, ripreso da ppc.land",
+    "affidabilita": "secondaria",
+    "target": 3,
+    "date": "2026-09-06",
+    "brief": "Morrill Creative LLC ha lanciato un'app gratuita per iPhone che mostra ai bambini solo i podcast approvati da un genitore, tra oltre 200 show selezionati a mano per la fascia 2-12+. Niente ricerca libera, niente consigliati automatici, niente pubblicità né SDK di terze parti.",
+    "angles": [
+      "Il pubblico kids/famiglia come nicchia podcast ancora poco affollata: cosa serve davvero per entrarci",
+      "Cosa significa \"scoperta curata dal genitore\" per la distribuzione: perché il solo RSS pubblico non basta in questa nicchia",
+      "Niente ads, niente SDK terzi: uno standard di sicurezza che sta diventando un criterio di qualità percepita anche fuori dal target bambini"
+    ],
+    "hooks": [
+      "Fai un podcast per bambini e nessuno lo trova? È appena uscita un'app che lo mostra solo se un genitore lo sceglie a mano.",
+      "Pensi che il pubblico kids sia troppo di nicchia per valerne la pena? Duecento show ci sono già dentro un'app dedicata.",
+      "Ti lamenti degli algoritmi che decidono chi ascolta cosa? Qui l'algoritmo l'hanno tolto del tutto e ci hanno messo un genitore al comando."
+    ]
+  }
+]
