@@ -1,97 +1,97 @@
 [
   {
-    "id": "yt-engaged-views-2026-09",
-    "title": "YouTube ha cambiato cosa conta come \"visualizzazione\": i podcast trattengono solo il 64% come view reali",
-    "source": "YouTube (policy, 24 ago 2026) + analisi Podtrac (3 set 2026), riprese da Forbes India, Digiday, ppc.land, Podnews",
+    "id": "buzzsprout-directories-2026-09",
+    "title": "Buzzsprout scopre che la maggior parte dei podcast attivi manca da almeno una directory di ascolto",
+    "source": "Buzzsprout (comunicato ufficiale, 13 ago 2026), ripreso da Podnews e Joycast (3 set 2026)",
     "affidabilita": "primaria",
-    "target": 8,
-    "date": "2026-09-03",
-    "brief": "Dal 24 agosto YouTube conta una \"view\" dal primo istante di riproduzione, spostando la vecchia metrica (rinominata \"engaged view\", quella che conta ancora per guadagni e Partner Program) fuori dalle pagine pubbliche. L'analisi di Podtrac del 3 settembre, su 84,2 milioni di visualizzazioni, mostra che gli episodi podcast trattengono solo il 64% come \"engaged view\" contro il 58% degli altri video dello stesso canale: un divario di 36 punti tra il numero mostrato in pubblico e quello reale.",
-    "angles": [
-      "Perché il numero di views sotto il tuo episodio da fine agosto racconta una storia diversa (e come spiegarlo a uno sponsor)",
-      "Come leggere le metriche vere di ascolto su YouTube senza farti ingannare dal numero grande",
-      "Cosa cambia per chi vende sponsorizzazioni basandosi sulle views di YouTube"
-    ],
-    "hooks": [
-      "Hai controllato le views del tuo episodio stamattina? Sappi che YouTube te ne mostra il 36% in più di quelle vere.",
-      "Ti sei vantato con lo sponsor per le views esplose questo mese? Da fine agosto contano anche quelli che guardano mezzo secondo e scappano.",
-      "Pensi che il tuo podcast stia crescendo perché le views su YouTube sono raddoppiate? Forse hanno solo cambiato il righello."
-    ]
-  },
-  {
-    "id": "uk-top25-q2-2026",
-    "title": "Classifica UK Top 25 podcast Q2 2026: chi sale, chi debutta e perché",
-    "source": "Edison Research / SSRS via Podnews (6 set 2026)",
-    "affidabilita": "primaria",
-    "target": 6,
-    "date": "2026-09-06",
-    "brief": "Joe Rogan Experience, Diary of a CEO e The Rest Is Politics restano sul podio. The Rest Is Football sale al quinto posto, massimo storico, dopo l'accordo con Netflix e il Mondiale per club FIFA. The Louis Theroux Podcast fa il balzo più grande della classifica, dal 65° al 24° posto dopo il ritorno con l'ottava stagione. Debutta in Top 25 anche \"Dish\", podcast di cucina targato Waitrose.",
-    "angles": [
-      "Cosa insegna il balzo di Louis Theroux: tornare dopo una lunga pausa può funzionare se hai già un pubblico fedele",
-      "Perché un brand come Waitrose lancia un podcast e finisce in classifica: il branded podcast come porta d'accesso",
-      "Il legame tra eventi reali (Mondiale, ritorni di stagione) e impennate di ascolto: pianificare gli episodi intorno a un calendario vero"
-    ],
-    "hooks": [
-      "Pensi che riprendere il podcast dopo una pausa lunga sia un suicidio d'ascolti? Theroux è risalito di 41 posizioni facendo esattamente questo.",
-      "Hai un brand e pensi 'noi non potremmo mai fare un podcast'? Waitrose l'ha fatto con uno chef ed è finito in classifica nazionale.",
-      "Ti chiedi perché il tuo podcast sportivo non decolla? Guarda quando escono i tuoi episodi rispetto al calendario delle partite vere."
-    ]
-  },
-  {
-    "id": "spotify-skip-ahead-2026-08",
-    "title": "Spotify testa \"Skip Ahead\": un tap e l'ascoltatore salta tutto il blocco pubblicitario",
-    "source": "Digital Music News, Android Authority, Forbes, Barrett Media (test rilevato da inizio agosto 2026, Premium US/UK)",
-    "affidabilita": "secondaria",
     "target": 7,
-    "date": "2026-08-04",
-    "brief": "Spotify sta testando su alcuni utenti Premium USA/UK un pulsante che compare a inizio blocco pubblicitario o sponsorizzazione e lo salta con un tap solo, al posto dei nove tap necessari con lo skip da 15 secondi. Il pulsante non tocca la pubblicità venduta direttamente da Spotify. Secondo l'azienda di analytics Bumper, oggi meno del 10% dei blocchi viene saltato manualmente: se la funzione diventasse permanente, cambierebbe le basi su cui si vendono le sponsorizzazioni negli show indipendenti.",
+    "date": "2026-08-13",
+    "brief": "Buzzsprout ha rilevato che la maggior parte dei podcast attivi non è presente in una o più directory di ascolto, e ha ridisegnato il proprio strumento di distribuzione per permettere l'iscrizione automatica a 16 directory audio con un solo click. La notizia è stata ripresa il 3 settembre da Podnews e Joycast.",
     "angles": [
-      "Cosa significa per chi vive di sponsor letti in prima persona se il pubblico può saltarli con un dito",
-      "Perché conviene integrare la sponsorizzazione nel racconto invece di isolarla in un blocco riconoscibile e saltabile",
-      "Come spiegare a un cliente/sponsor il rischio \"skip\" e negoziare di conseguenza"
+      "Perché \"l'ho caricato su Spotify\" non basta: la lista minima di directory dove deve stare un podcast",
+      "Come verificare in 10 minuti su quali directory manca il tuo show",
+      "Distribuzione come primo passo, non ultimo: va pianificata prima di registrare il primo episodio"
     ],
     "hooks": [
-      "Fai leggere lo sponsor in un blocco isolato a inizio episodio? Spotify sta testando un tasto che lo salta con un dito.",
-      "Hai uno sponsor che ti paga a episodio? Se passa questo test, tra un po' ti paga per un ascolto che in tanti salteranno con un tap.",
-      "Pensavi che il problema fosse trovare sponsor? Il problema vero sta arrivando: farli ascoltare quando basta un tap per saltarli."
+      "Hai caricato il podcast su Spotify e pensi di aver finito? Su un'altra directory potrebbe non esistere nemmeno.",
+      "Ti chiedi perché nessuno trova il tuo show? Forse perché sta comodamente in una sola directory su sedici possibili.",
+      "Pensavi che pubblicare fosse l'ultimo passo? Buzzsprout ha appena scoperto che per la maggior parte dei podcast è un passo lasciato a metà."
     ]
   },
   {
-    "id": "save-our-voices-now-2026-08",
-    "title": "Oltre 80 attori firmano \"Save Our Voices Now\" contro la clonazione vocale AI senza consenso",
-    "source": "ITV News, Variety, Irish Times (28 ago 2026), ripreso da Deadline a settembre",
+    "id": "listnr-flightcast-2026-09",
+    "title": "Il gruppo radiofonico australiano SCA sposta oltre 150 podcast su Flightcast per gestire audio e video insieme",
+    "source": "Podnews, Mumbrella, B&T (comunicato e riprese, inizio settembre 2026)",
     "affidabilita": "primaria",
     "target": 5,
-    "date": "2026-08-28",
-    "brief": "Nicola Coughlan, Hugh Bonneville, Matt Lucas e oltre 80 altri nomi dello spettacolo britannico hanno lanciato una lettera aperta e una petizione al governo UK per chiedere che la voce diventi un diritto di proprietà tutelato per legge contro la clonazione AI non autorizzata. Il DCMS britannico ha annunciato l'apertura di una consultazione sul tema.",
+    "date": "2026-09-02",
+    "brief": "LiSTNR, il network podcast del gruppo radiofonico SCA (Australia), lascia Omny Studio per passare a Flightcast, piattaforma \"video-first\" lanciata da Steven Bartlett, diventandone il cliente più grande. L'obiettivo dichiarato è unificare pubblicazione e analytics per audio e video su YouTube, Apple Podcasts e Spotify.",
     "angles": [
-      "Cosa significa per chi registra la propria voce ogni settimana: dove finiscono i tuoi file audio e chi potrebbe clonarli",
-      "Come tutelarti già oggi nei contratti con host, ospiti o doppiatori con clausole sull'uso vocale e l'AI",
-      "AI voice cloning come strumento (dubbing, voci di sintesi per intro) contro rischio consenso: dove tracciare il confine"
+      "Anche i grandi network stanno riorganizzando il flusso di lavoro attorno al video: cosa significa per chi produce in piccolo",
+      "Hosting unico per audio+video vs workflow separati: pro e contro per chi è agli inizi",
+      "Cosa guardare quando scegli una piattaforma di hosting oggi, non solo dove pubblichi ma come gestisci le versioni video"
     ],
     "hooks": [
-      "Hai mai pensato a chi potrebbe usare la tua voce senza chiedertelo? Ottanta attori UK hanno appena chiesto una legge apposta.",
-      "Fai firmare un consenso ai tuoi ospiti prima di pubblicare l'episodio? Forse è ora di aggiungerci una riga anche sull'AI.",
-      "Ti sembra fantascienza la clonazione vocale? Non lo è più: c'è una petizione al governo britannico che lo conferma."
+      "Pensi che video e audio del tuo podcast li gestisci sempre separati? Un network con 150 show li ha appena messi sotto lo stesso tetto.",
+      "Hai due flussi di lavoro diversi per audio e video? Un gruppo radiofonico intero ha appena deciso che è tempo perso.",
+      "Ti sembra un dettaglio tecnico l'hosting che scegli? Non lo è, se un network con 150 show ha appena cambiato piattaforma solo per questo."
     ]
   },
   {
-    "id": "kids-podcasts-app-2026-09",
-    "title": "Arriva l'app iPhone \"Kids Podcasts\": libreria bloccata, scelgono solo i genitori",
-    "source": "Podnews, comunicato del 6 set 2026, ripreso da ppc.land",
+    "id": "everywhere-agency-2026-09",
+    "title": "Tre ex dirigenti di Audioboom e Global lanciano Everywhere, agenzia per monetizzare creator su audio, video e social insieme",
+    "source": "Podnews Social, everywherecreators.com (2 set 2026)",
     "affidabilita": "secondaria",
-    "target": 3,
-    "date": "2026-09-06",
-    "brief": "Morrill Creative LLC ha lanciato un'app gratuita per iPhone che mostra ai bambini solo i podcast approvati da un genitore, tra oltre 200 show selezionati a mano per la fascia 2-12+. Niente ricerca libera, niente consigliati automatici, niente pubblicità né SDK di terze parti.",
+    "target": 4,
+    "date": "2026-09-02",
+    "brief": "Andy Goldsmith, Craig Eastwood e Mike Wooller (ex Audioboom, Adelicious, Global) hanno lanciato Everywhere, agenzia che si propone come partner commerciale esclusivo per creator e publisher, per vendere sponsorizzazioni trattando insieme l'audience di audio, video e social invece che come pubblici separati.",
     "angles": [
-      "Il pubblico kids/famiglia come nicchia podcast ancora poco affollata: cosa serve davvero per entrarci",
-      "Cosa significa \"scoperta curata dal genitore\" per la distribuzione: perché il solo RSS pubblico non basta in questa nicchia",
-      "Niente ads, niente SDK terzi: uno standard di sicurezza che sta diventando un criterio di qualità percepita anche fuori dal target bambini"
+      "Cosa significa vendere \"un'audience unica\" invece di \"spazi pubblicitari nel podcast\": come cambia il pitch a uno sponsor",
+      "Il mercato della monetizzazione si sta consolidando: cosa serve sapere prima di firmare con un'agenzia",
+      "Diversificare i formati (audio, video, social) non è solo strategia di crescita, è già un argomento di vendita"
     ],
     "hooks": [
-      "Fai un podcast per bambini e nessuno lo trova? È appena uscita un'app che lo mostra solo se un genitore lo sceglie a mano.",
-      "Pensi che il pubblico kids sia troppo di nicchia per valerne la pena? Duecento show ci sono già dentro un'app dedicata.",
-      "Ti lamenti degli algoritmi che decidono chi ascolta cosa? Qui l'algoritmo l'hanno tolto del tutto e ci hanno messo un genitore al comando."
+      "Vendi ancora lo spazio pubblicitario del tuo podcast come se fosse solo audio? C'è chi ha appena fondato un'agenzia per venderlo insieme a video e social.",
+      "Pensi che gli sponsor si cerchino show per show? Tre ex manager di grandi network scommettono che il futuro è venderti come un pacchetto unico.",
+      "Ti sei mai chiesto chi decide quanto vale la tua sponsorizzazione? Sta nascendo un intero settore apposta per questo."
+    ]
+  },
+  {
+    "id": "ilpod-piacenza-2026-09",
+    "title": "Italian Podcast Awards, quinta edizione il 23 settembre a Piacenza: nasce anche la Piacenza Podcast Academy",
+    "source": "Askanews, Piacenza24, Comune di Piacenza (annuncio 21 lug 2026)",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-09-23",
+    "brief": "La quinta edizione degli Italian Podcast Awards si terrà il 23 settembre in Piazza Cavalli a Piacenza, in apertura del Festival del Pensare Contemporaneo. Nasce quest'anno anche la Piacenza Podcast Academy, percorso formativo gratuito sul podcast come linguaggio creativo e professionale, aperto ai 14-25 anni.",
+    "angles": [
+      "Un premio di settore più una scuola gratuita nella stessa città: un modello che altre città italiane potrebbero copiare",
+      "Cosa guardare quando valuti se un premio o un'academy vale la candidatura o la partecipazione",
+      "Perché parlare di podcast come \"linguaggio\" a scuola cambia la percezione del mezzo tra i più giovani"
+    ],
+    "hooks": [
+      "Pensi che in Italia il podcasting non abbia ancora un vero riconoscimento di settore? Il 23 settembre a Piacenza si assegna la quinta edizione di un premio nazionale.",
+      "Hai tra i 14 e i 25 anni e vuoi imparare a fare podcast gratis? A Piacenza sta partendo una scuola fatta apposta.",
+      "Ti lamenti che in Italia mancano percorsi seri sul podcasting? Da quest'anno ce n'è uno gratuito, nato dentro un festival che esiste già."
+    ]
+  },
+  {
+    "id": "raiplay-scuola-spalla-2026-09",
+    "title": "\"La scuola in spalla\": nuovo podcast RaiPlay Sound su un viaggio di 1000 km fatto da otto adolescenti, dal 15 settembre",
+    "source": "L'Opinionista, Telecorriere, Strade Maestre (settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-09-15",
+    "brief": "Dal 15 settembre debutta su RaiPlay Sound \"La scuola in spalla\", podcast in 10 puntate di Andrea Cocco: otto adolescenti attraversano oltre 1000 km in 20 regioni italiane nell'ambito del progetto di scuola itinerante \"Strade Maestre\". Durante il cammino i ragazzi hanno partecipato a un laboratorio radiofonico, scrivendo, registrando e montando parte del podcast stesso.",
+    "angles": [
+      "Un case study reale di podcast didattico \"sul campo\": cosa serve davvero per far registrare e montare un podcast a chi non l'ha mai fatto",
+      "Il podcast documentaristico di viaggio come formato: come si tiene insieme una narrazione su dieci puntate registrate in movimento",
+      "RAI investe su format podcast originali fatti da non professionisti: cosa dice sul valore percepito del mezzo oggi"
+    ],
+    "hooks": [
+      "Pensi che serva esperienza per registrare un podcast decente? Otto adolescenti l'hanno fatto camminando 1000 km, e RAI lo pubblica dal 15 settembre.",
+      "Hai paura che il tuo podcast \"amatoriale\" non sia abbastanza professionale? C'è un podcast RAI in uscita fatto in gran parte da ragazzi al primo montaggio.",
+      "Ti chiedi come si tiene insieme una storia lunga dieci puntate? \"La scuola in spalla\" lo fa seguendo un cammino vero, non un copione in studio."
     ]
   }
 ]

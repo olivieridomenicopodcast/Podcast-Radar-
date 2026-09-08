@@ -1,0 +1,56 @@
+[
+  {
+    "id": "nerd-state-of-play-sett2026-09",
+    "title": "PlayStation State of Play di settembre 2026: data per Final Fantasy VII Revelation e annuncio di Rhapsody in Scarlet",
+    "source": "GameSpot, Game Informer (3 set 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-03",
+    "brief": "Sony ha trasmesso un nuovo State of Play il 3 settembre, con la data d'uscita (aprile 2027) di Final Fantasy VII Revelation, un'anteprima del film di Resident Evil e l'annuncio di Rhapsody in Scarlet di Konami, seguito da uno show dedicato ai giochi asiatici in sviluppo.",
+    "tipo": "showcase digitale editoriale (annunci videogiochi)"
+  },
+  {
+    "id": "nerd-nintendo-direct-zelda40-2026-09",
+    "title": "Nintendo Direct e Direct dedicato ai 40 anni di Zelda, il 9 settembre",
+    "source": "Nintendo Life (comunicazione ufficiale Nintendo)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-09",
+    "brief": "Nintendo ha confermato un Direct dedicato al 40° anniversario di The Legend of Zelda, seguito 24 ore dopo da un Nintendo Direct generalista di 45 minuti focalizzato sui giochi Switch 2 in arrivo nell'inverno, con Treehouse: Live a seguire.",
+    "tipo": "annuncio di showcase videoludico ufficiale"
+  },
+  {
+    "id": "nerd-culdcept-first-2026-09",
+    "title": "Culdcept The First, remaster del capostipite Saturn, esce oggi su PS5, Xbox Series e Switch",
+    "source": "Gematsu",
+    "affidabilita": "secondaria",
+    "date": "2026-09-08",
+    "brief": "Culdcept The First, remaster/tributo al capostipite Saturn della serie strategica a carte di Bandai Namco/Omiya Soft, esce oggi su PS5, PS4, Xbox Series X|S e Switch (la versione Steam era uscita il 30 luglio).",
+    "tipo": "uscita videogioco"
+  },
+  {
+    "id": "nerd-spiel-essen-2026-09",
+    "title": "SPIEL Essen 2026: già venduta metà dei biglietti giornalieri a un mese dall'apertura",
+    "source": "spiel-essen.de (comunicato ufficiale)",
+    "affidabilita": "primaria",
+    "date": "2026-09-03",
+    "brief": "A poco più di un mese dall'apertura (22-25 ottobre), gli organizzatori annunciano che metà dei biglietti giornalieri da giovedì a sabato risultano già venduti, con attese fino a 230.000 visitatori, 921 espositori da 53 paesi e oltre 1.500 novità; da oggi è online anche la lista ufficiale delle novità integrata nell'app SPIEL.",
+    "tipo": "comunicato ufficiale fiera internazionale di giochi da tavolo"
+  },
+  {
+    "id": "nerd-lucca-comics-biglietti-2026-09",
+    "title": "Lucca Comics & Games 2026: aperta la vendita di biglietti e abbonamenti per la 60ª edizione",
+    "source": "sito ufficiale Lucca 2026, Fumettologica, LuccaInDiretta",
+    "affidabilita": "primaria",
+    "date": "2026-09-01",
+    "brief": "È partita il 1° settembre la vendita di biglietti e abbonamenti per la 60ª edizione (28 ottobre - 1° novembre, tema \"Legacy\"), con biglietti giornalieri online da 26,50 a 34,50 euro e abbonamento 5 giorni a 95 euro; dal 2 settembre disponibili anche pacchetti per comitive da almeno 20 persone.",
+    "tipo": "comunicato ufficiale fiera (Lucca Comics & Games)"
+  },
+  {
+    "id": "nerd-lucca-bandai-naruto-tcg-2026-09",
+    "title": "A Lucca 2026 padiglione Bandai dedicato ai TCG e anteprima italiana della demo di Naruto Card Game",
+    "source": "pagina ufficiale news Lucca 2026, illibraio",
+    "affidabilita": "primaria",
+    "date": "2026-09-01",
+    "brief": "A Lucca 2026 aprirà in Piazza Santa Maria un padiglione monografico Bandai dedicato ai trading card game (One Piece, Gundam, Dragon Ball Super Card Game, Digimon) e sarà presentata in anteprima assoluta italiana la demo di Naruto Card Game, nuovo TCG Bandai atteso a livello mondiale nell'estate 2027. Confermata anche la celebrazione dei 30 anni di Pokémon con il Pokémon Play Lab rinnovato.",
+    "tipo": "annuncio ufficiale fiera / gioco di carte collezionabili"
+  }
+]

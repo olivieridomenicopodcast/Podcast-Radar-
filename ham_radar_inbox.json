@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ham-wrtc2026-rescoring-2026-09",
+    "title": "Frode confermata e ripunteggio ufficiale del WRTC 2026 nel Regno Unito",
+    "source": "RSGB (GB2RS Headlines), ripreso da Amateur Radio Newsline Report 2549 (4 set 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-04",
+    "brief": "Il Judging Committee del World Radiosport Team Championship 2026 (tenutosi a inizio luglio nel Regno Unito) ha accertato uno schema a tre fasi con 15 nominativi pirata usati per fornire contatti-moltiplicatore fraudolenti ad alcuni team. Sono stati squalificati quattro team e i punteggi sono stati ricalcolati; lo stesso schema è stato rilevato anche nei log del WRTC 2023 in Italia, mai contestato nei tre anni precedenti."
+  },
+  {
+    "id": "ham-iaru-r1-fieldday-2026-09",
+    "title": "Concluso l'IARU Region 1 Field Day SSB",
+    "source": "DARC, gestore ufficiale del contest per IARU Region 1",
+    "affidabilita": "primaria",
+    "date": "2026-09-06",
+    "brief": "Il Field Day SSB di IARU Region 1, tradizionale test per stazioni portatili e di emergenza in Europa, si è svolto dal 5 settembre (ore 13:00 UTC) al 6 settembre (ore 12:59 UTC). I risultati ufficiali sono attesi per il 13 settembre."
+  },
+  {
+    "id": "ham-dxpedition-stkitts-2026-09",
+    "title": "DX-pedition V47YA/V47RCX a Saint Kitts & Nevis",
+    "source": "DX-World.net, confermata da 425 DX News #1843 (28 ago 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-09",
+    "brief": "Tom K0YA (nominativo V47YA) e Toni W5RCX (V47RCX) operano da Saint Kitts in stile \"holiday\" dal 9 al 30 settembre, su 160-6m in CW, SSB e FT8, con QSL via LoTW."
+  },
+  {
+    "id": "ham-dxpedition-samoa-2026-09",
+    "title": "DX-pedition KH8WW dall'isola di Aunu'u, Samoa Americane",
+    "source": "DX-World.net",
+    "affidabilita": "secondaria",
+    "date": "2026-09-10",
+    "brief": "Yuris YL2GM ed Eugene EA5EL saranno attivi come KH8WW dall'isola di Aunu'u dal 10 al 24 settembre: un'entità rara e molto ricercata dai DXer per il conteggio DXCC/IOTA."
+  },
+  {
+    "id": "ham-haarp-campaign-2026-09",
+    "title": "Campagna di ricerca ionosferica HAARP sulle HF basse (2,8-10 MHz)",
+    "source": "Notice of transmission ufficiale HAARP (Gakona, Alaska), ripresa da Amateur Radio Daily",
+    "affidabilita": "primaria",
+    "date": "2026-09-08",
+    "brief": "HAARP conduce una campagna di ricerca dall'8 all'11 settembre, con trasmissioni tra 2,8 e 10 MHz e orari variabili in base alle condizioni ionosferiche e geomagnetiche in tempo reale. HAARP invita gli operatori a inviare rapporti di ricezione tramite il modulo ufficiale."
+  },
+  {
+    "id": "ham-iaru-r1-conference-vienna-2026-09",
+    "title": "27ª Conferenza Generale IARU Region 1 a Vienna",
+    "source": "IARU Region 1 (fonte ufficiale)",
+    "affidabilita": "primaria",
+    "date": "2026-09-19",
+    "brief": "La conferenza generale triennale di IARU Region 1 si terrà a Vienna dal 19 al 23 settembre (arrivo delegati il 18). Alla chiusura delle iscrizioni risultavano registrati 97 delegati di 39 società membre: è l'evento normativo più rilevante in calendario per il radioamatorismo europeo."
+  },
+  {
+    "id": "ham-sdrpp-iak-android-2026-09",
+    "title": "SDR++ IAK pubblicato su Google Play Store",
+    "source": "Aggregatore Amateur Radio Daily / hamweekly",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-01",
+    "brief": "Segnalata la pubblicazione su Google Play Store di \"SDR++ IAK\", una variante modificata del noto software SDR open-source SDR++, per uso su dispositivi Android. Notizia minore, non ancora verificata su fonte primaria dello sviluppatore."
+  }
+]
