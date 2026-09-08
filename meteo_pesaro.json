@@ -1,0 +1,41 @@
+{
+  "aggiornato": "2026-09-08",
+  "citta": "Pesaro (PU), Marche, Italia",
+  "fonti": [
+    "3B Meteo (3bmeteo.com)",
+    "Allerta Meteo Regione Marche - Protezione Civile (allertameteo.regione.marche.it)",
+    "Il Resto del Carlino"
+  ],
+  "previsioni": [
+    {
+      "data": "2026-09-08",
+      "giorno": "oggi, martedì",
+      "temp_min_c": 21,
+      "temp_max_c": 30,
+      "condizioni": "cielo sereno o poco nuvoloso per l'intera giornata, nessuna precipitazione prevista",
+      "vento": "mattina debole da Sudovest; pomeriggio moderato da Est-Nordest",
+      "mare": "quasi calmo",
+      "allerta": "nessuna allerta ufficiale Protezione Civile attiva per le Marche; 3bmeteo segnala solo disagio da afa"
+    },
+    {
+      "data": "2026-09-09",
+      "giorno": "domani, mercoledì",
+      "temp_min_c": 23,
+      "temp_max_c": 30,
+      "condizioni": "poco nuvoloso al mattino, nubi in aumento in serata fino a nuvoloso/molto nuvoloso, con piogge e rovesci anche temporaleschi (circa 4 mm attesi)",
+      "vento": "mattina moderato da Sudovest; pomeriggio moderato da Est",
+      "mare": "poco mosso",
+      "allerta": "nessun bollettino di allerta colorata attivo al momento della ricerca, ma fonti giornalistiche segnalano rischio di temporali forti, grandine e vento di burrasca tra il 9 e il 10 settembre sulle Marche, incluso il Pesarese: verificare aggiornamenti su allertameteo.regione.marche.it"
+    },
+    {
+      "data": "2026-09-10",
+      "giorno": "dopodomani, giovedì",
+      "temp_min_c": 22,
+      "temp_max_c": 26,
+      "condizioni": "giornata perturbata con piogge e rovesci diffusi, anche a carattere temporalesco (circa 23 mm di pioggia attesi), netto calo termico rispetto ai giorni precedenti",
+      "vento": "mattina moderato da Nordovest; pomeriggio moderato da Nord",
+      "mare": "poco mosso",
+      "allerta": "peggioramento in corso legato a una perturbazione atlantica in transito su Marche e Italia centrale, condizioni compatibili con possibile allerta gialla per temporali: da confermare sul portale ufficiale regionale"
+    }
+  ]
+}
