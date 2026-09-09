@@ -1,41 +1,37 @@
 {
-  "aggiornato": "2026-09-08",
+  "aggiornato": "2026-09-09",
   "citta": "Pesaro (PU), Marche, Italia",
-  "fonti": [
-    "3B Meteo (3bmeteo.com)",
-    "Allerta Meteo Regione Marche - Protezione Civile (allertameteo.regione.marche.it)",
-    "Il Resto del Carlino"
-  ],
+  "fonti": ["3bmeteo.com", "ilmeteo.it", "meteo.it", "allertameteo.regione.marche.it", "adnkronos.com", "qds.it"],
   "previsioni": [
     {
-      "data": "2026-09-08",
-      "giorno": "oggi, martedì",
-      "temp_min_c": 21,
-      "temp_max_c": 30,
-      "condizioni": "cielo sereno o poco nuvoloso per l'intera giornata, nessuna precipitazione prevista",
-      "vento": "mattina debole da Sudovest; pomeriggio moderato da Est-Nordest",
-      "mare": "quasi calmo",
-      "allerta": "nessuna allerta ufficiale Protezione Civile attiva per le Marche; 3bmeteo segnala solo disagio da afa"
-    },
-    {
       "data": "2026-09-09",
-      "giorno": "domani, mercoledì",
+      "giorno": "oggi, mercoledì",
       "temp_min_c": 23,
       "temp_max_c": 30,
-      "condizioni": "poco nuvoloso al mattino, nubi in aumento in serata fino a nuvoloso/molto nuvoloso, con piogge e rovesci anche temporaleschi (circa 4 mm attesi)",
-      "vento": "mattina moderato da Sudovest; pomeriggio moderato da Est",
-      "mare": "poco mosso",
-      "allerta": "nessun bollettino di allerta colorata attivo al momento della ricerca, ma fonti giornalistiche segnalano rischio di temporali forti, grandine e vento di burrasca tra il 9 e il 10 settembre sulle Marche, incluso il Pesarese: verificare aggiornamenti su allertameteo.regione.marche.it"
+      "condizioni": "Cielo sereno al mattino, poco nuvoloso nel resto della giornata; caldo ancora estivo",
+      "vento": "Deboli da Nord al mattino (6-12 km/h), moderati da Est-Nord-Est al pomeriggio (14-25 km/h), moderati da Sud-Sud-Est in serata (12-25 km/h)",
+      "mare": "Poco mosso",
+      "allerta": "Nessuna allerta colorata ufficiale attiva per le Marche secondo il Bollettino di criticità 174/2026 (valido dalle 00:00 del 09/09/2026) della Protezione Civile Marche. Fonti giornalistiche nazionali (Adnkronos, QDS) segnalano per oggi allerta arancione in Emilia-Romagna, Lombardia e Veneto e allerta gialla in altre regioni del Nord/Centro Italia per rischio temporali, con fenomeni sparsi attesi anche verso Toscana, Umbria e Marche occidentali, ma senza un bollettino colorato ufficiale specifico per la provincia di Pesaro-Urbino."
     },
     {
       "data": "2026-09-10",
-      "giorno": "dopodomani, giovedì",
-      "temp_min_c": 22,
-      "temp_max_c": 26,
-      "condizioni": "giornata perturbata con piogge e rovesci diffusi, anche a carattere temporalesco (circa 23 mm di pioggia attesi), netto calo termico rispetto ai giorni precedenti",
-      "vento": "mattina moderato da Nordovest; pomeriggio moderato da Nord",
-      "mare": "poco mosso",
-      "allerta": "peggioramento in corso legato a una perturbazione atlantica in transito su Marche e Italia centrale, condizioni compatibili con possibile allerta gialla per temporali: da confermare sul portale ufficiale regionale"
+      "giorno": "domani, giovedì",
+      "temp_min_c": 23,
+      "temp_max_c": 30,
+      "condizioni": "Giornata instabile: cieli poco nuvolosi nella prima parte, nuvolosità in aumento dalla sera con rovesci e possibili temporali (circa 4mm di pioggia attesi)",
+      "vento": "Venti in intensificazione, tendenza a rinfrescare con il passaggio del fronte perturbato",
+      "mare": "Mosso in peggioramento serale",
+      "allerta": "Nessun bollettino di allerta colorata ufficiale specifico trovato per Pesaro-Urbino relativo al 10/09/2026 al momento della ricerca. Fonti giornalistiche (3bmeteo, PisaToday) segnalano l'arrivo di un fronte instabile tra Toscana, Umbria e Marche con rischio di temporali anche forti, grandine e locali nubifragi: si raccomanda di verificare aggiornamenti su allertameteo.regione.marche.it."
+    },
+    {
+      "data": "2026-09-11",
+      "giorno": "dopodomani, venerdì",
+      "temp_min_c": 15,
+      "temp_max_c": 21,
+      "condizioni": "Mattino nuvoloso con schiarite locali, pomeriggio a tratti nuvoloso con possibili piogge deboli (probabilità di precipitazioni: 30% mattina, 60% pomeriggio), serata e notte più stabili; deciso calo termico rispetto ai giorni precedenti",
+      "vento": "Deboli da Nord-Nord-Est, 7-8 nodi",
+      "mare": "Poco mosso",
+      "allerta": "Nessun bollettino di allerta colorata ufficiale specifico trovato per Pesaro-Urbino relativo all'11/09/2026 al momento della ricerca. Si segnala solo un rischio generico di instabilità residua al Centro-Sud Italia riportato da fonti giornalistiche; si raccomanda verifica diretta su allertameteo.regione.marche.it per eventuali aggiornamenti."
     }
   ]
 }

@@ -1,97 +1,97 @@
 [
   {
-    "id": "buzzsprout-directories-2026-09",
-    "title": "Buzzsprout scopre che la maggior parte dei podcast attivi manca da almeno una directory di ascolto",
-    "source": "Buzzsprout (comunicato ufficiale, 13 ago 2026), ripreso da Podnews e Joycast (3 set 2026)",
+    "id": "audacity-4-rilascio-2026-09",
+    "title": "Audacity 4.0: il più grande aggiornamento in 26 anni per l'editor audio gratuito",
+    "source": "Muse Group, blog ufficiale (5 settembre 2026); ripreso da MusicRadar, The Register, PCWorld, Engadget, Adafruit, Digital Production (settembre 2026)",
     "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-08-13",
-    "brief": "Buzzsprout ha rilevato che la maggior parte dei podcast attivi non è presente in una o più directory di ascolto, e ha ridisegnato il proprio strumento di distribuzione per permettere l'iscrizione automatica a 16 directory audio con un solo click. La notizia è stata ripresa il 3 settembre da Podnews e Joycast.",
+    "target": 8,
+    "date": "2026-09-05",
+    "brief": "Audacity, l'editor audio gratuito e open source più usato al mondo, ha rilasciato la versione 4.0: interfaccia completamente riscritta su Qt, nuovo modello di editing dei clip, temi chiaro/scuro nativi, toolbar e pannelli personalizzabili salvabili come 'Workspace'. È il cambiamento più profondo nella storia del programma, ma alcune funzioni storiche (Time Track, Mixer, Macro Manager, hosting VAMP/LADSPA) non sono ancora tornate nella nuova versione.",
     "angles": [
-      "Perché \"l'ho caricato su Spotify\" non basta: la lista minima di directory dove deve stare un podcast",
-      "Come verificare in 10 minuti su quali directory manca il tuo show",
-      "Distribuzione come primo passo, non ultimo: va pianificata prima di registrare il primo episodio"
+      "Vale la pena aggiornare subito o meglio aspettare che si stabilizzi, viste le funzioni ancora mancanti?",
+      "Tour pratico delle novità per chi monta podcast in Audacity: cosa cambia davvero nel flusso di lavoro",
+      "Perché un editor gratuito che si reinventa dopo 26 anni conta parecchio per chi inizia senza budget"
     ],
     "hooks": [
-      "Hai caricato il podcast su Spotify e pensi di aver finito? Su un'altra directory potrebbe non esistere nemmeno.",
-      "Ti chiedi perché nessuno trova il tuo show? Forse perché sta comodamente in una sola directory su sedici possibili.",
-      "Pensavi che pubblicare fosse l'ultimo passo? Buzzsprout ha appena scoperto che per la maggior parte dei podcast è un passo lasciato a metà."
+      "Usi ancora Audacity solo perché è gratis e ti sei rassegnato all'interfaccia da anni 2000? Hanno appena rifatto tutto, letteralmente.",
+      "Hai finalmente imparato a usare i quattro strumenti di selezione di Audacity? Sono spariti. Ora il puntatore capisce da solo cosa vuoi fare.",
+      "Pensavi che il tuo editor audio gratuito fosse arrivato al capolinea? Ha appena avuto il redesign più grande della sua storia."
     ]
   },
   {
-    "id": "listnr-flightcast-2026-09",
-    "title": "Il gruppo radiofonico australiano SCA sposta oltre 150 podcast su Flightcast per gestire audio e video insieme",
-    "source": "Podnews, Mumbrella, B&T (comunicato e riprese, inizio settembre 2026)",
-    "affidabilita": "primaria",
-    "target": 5,
-    "date": "2026-09-02",
-    "brief": "LiSTNR, il network podcast del gruppo radiofonico SCA (Australia), lascia Omny Studio per passare a Flightcast, piattaforma \"video-first\" lanciata da Steven Bartlett, diventandone il cliente più grande. L'obiettivo dichiarato è unificare pubblicazione e analytics per audio e video su YouTube, Apple Podcasts e Spotify.",
-    "angles": [
-      "Anche i grandi network stanno riorganizzando il flusso di lavoro attorno al video: cosa significa per chi produce in piccolo",
-      "Hosting unico per audio+video vs workflow separati: pro e contro per chi è agli inizi",
-      "Cosa guardare quando scegli una piattaforma di hosting oggi, non solo dove pubblichi ma come gestisci le versioni video"
-    ],
-    "hooks": [
-      "Pensi che video e audio del tuo podcast li gestisci sempre separati? Un network con 150 show li ha appena messi sotto lo stesso tetto.",
-      "Hai due flussi di lavoro diversi per audio e video? Un gruppo radiofonico intero ha appena deciso che è tempo perso.",
-      "Ti sembra un dettaglio tecnico l'hosting che scegli? Non lo è, se un network con 150 show ha appena cambiato piattaforma solo per questo."
-    ]
-  },
-  {
-    "id": "everywhere-agency-2026-09",
-    "title": "Tre ex dirigenti di Audioboom e Global lanciano Everywhere, agenzia per monetizzare creator su audio, video e social insieme",
-    "source": "Podnews Social, everywherecreators.com (2 set 2026)",
+    "id": "spotify-skip-ahead-ads-2026-08",
+    "title": "Spotify testa un tasto per saltare gli sponsor letti dai podcaster: i creator la chiamano una minaccia",
+    "source": "Semafor (9 agosto 2026); confermato da Forbes, The Hollywood Reporter, TechRadar, Dataconomy, Gizmodo (agosto 2026)",
     "affidabilita": "secondaria",
-    "target": 4,
-    "date": "2026-09-02",
-    "brief": "Andy Goldsmith, Craig Eastwood e Mike Wooller (ex Audioboom, Adelicious, Global) hanno lanciato Everywhere, agenzia che si propone come partner commerciale esclusivo per creator e publisher, per vendere sponsorizzazioni trattando insieme l'audience di audio, video e social invece che come pubblici separati.",
+    "target": 8,
+    "date": "2026-08-09",
+    "brief": "Spotify sta testando 'Skip Ahead', una funzione che riduce da nove tap a uno solo il salto degli sponsor letti direttamente dal podcaster (non quelli venduti da Spotify stessa). Podnews l'ha definita una 'minaccia significativa' per gli show che vivono di pubblicità diretta; Spotify sostiene che la funzione aumenti l'ascolto complessivo e dice di essere ancora in fase di test, raccogliendo feedback dagli editori.",
     "angles": [
-      "Cosa significa vendere \"un'audience unica\" invece di \"spazi pubblicitari nel podcast\": come cambia il pitch a uno sponsor",
-      "Il mercato della monetizzazione si sta consolidando: cosa serve sapere prima di firmare con un'agenzia",
-      "Diversificare i formati (audio, video, social) non è solo strategia di crescita, è già un argomento di vendita"
+      "Cosa cambia per chi vive di sponsorizzazioni lette a voce nel proprio show",
+      "Come strutturare gli ad-read per renderli meno 'skippabili', integrandoli nel contenuto invece che isolandoli",
+      "La differenza tra pubblicità venduta da Spotify e pubblicità venduta direttamente dal creator, e perché ora conta più di prima"
     ],
     "hooks": [
-      "Vendi ancora lo spazio pubblicitario del tuo podcast come se fosse solo audio? C'è chi ha appena fondato un'agenzia per venderlo insieme a video e social.",
-      "Pensi che gli sponsor si cerchino show per show? Tre ex manager di grandi network scommettono che il futuro è venderti come un pacchetto unico.",
-      "Ti sei mai chiesto chi decide quanto vale la tua sponsorizzazione? Sta nascendo un intero settore apposta per questo."
+      "Hai appena registrato lo sponsor di puntata con tutta la cura del mondo? Spotify sta testando un tasto che lo salta con un dito solo.",
+      "Pensi che le tue sponsorizzazioni siano al sicuro perché le leggi tu e non un jingle preregistrato? Da agosto Spotify sta rendendo facili da saltare anche quelle.",
+      "Ti sei mai chiesto perché conviene infilare lo sponsor dentro il contenuto invece che isolarlo? Ora c'è un motivo tecnico in più, e si chiama Skip Ahead."
     ]
   },
   {
-    "id": "ilpod-piacenza-2026-09",
-    "title": "Italian Podcast Awards, quinta edizione il 23 settembre a Piacenza: nasce anche la Piacenza Podcast Academy",
-    "source": "Askanews, Piacenza24, Comune di Piacenza (annuncio 21 lug 2026)",
+    "id": "youtube-viste-gonfiate-podcast-2026-09",
+    "title": "YouTube conta le view dal primo fotogramma: Podtrac dice che per i podcast gonfia i numeri del 36%",
+    "source": "Podtrac, analisi pubblicata il 3 settembre 2026; ripresa da InsideRadio, Podnews, Tubefilter (agosto-settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-09-03",
+    "brief": "Dal 24 agosto 2026 YouTube conta una 'view' pubblica dal primissimo fotogramma di riproduzione, anche in caso di autoplay in home. Podtrac ha analizzato 84,2 milioni di visualizzazioni di episodi podcast (27-28 agosto) e trovato che le 'Engaged Views' reali sono in media il 64% del totale: il resto sono ascolti che si interrompono quasi subito. Le metriche usate per la monetizzazione restano legate alle Engaged Views, non al nuovo numero pubblico.",
+    "angles": [
+      "Perché il numero di visualizzazioni che vedi ora su YouTube dice poco sull'ascolto reale del tuo show",
+      "Come guardare le Engaged Views invece delle view pubbliche quando valuti la crescita di un podcast video",
+      "Cosa NON cambia (guadagni, idoneità al programma partner) rispetto a cosa cambia (il numero che vede uno sponsor)"
+    ],
+    "hooks": [
+      "Ti sei svegliato con più visualizzazioni su YouTube senza aver fatto niente di diverso? Non sei diventato bravo di colpo, hanno solo cambiato come contano.",
+      "Stai per mandare le statistiche del tuo podcast video a un possibile sponsor? Un terzo di quelle view, secondo Podtrac, sono persone sparite dopo un fotogramma.",
+      "Pensi che più view pubbliche vogliano dire più ascoltatori veri? Da fine agosto YouTube conta anche chi scrolla via un secondo dopo."
+    ]
+  },
+  {
+    "id": "italian-podcast-awards-piacenza-2026-09",
+    "title": "Italian Podcast Awards a Piacenza il 23 settembre: nasce anche una Podcast Academy per chi inizia",
+    "source": "askanews, Piacenza24, Comune di Piacenza, QuotidianPost (21 luglio 2026)",
     "affidabilita": "secondaria",
     "target": 6,
     "date": "2026-09-23",
-    "brief": "La quinta edizione degli Italian Podcast Awards si terrà il 23 settembre in Piazza Cavalli a Piacenza, in apertura del Festival del Pensare Contemporaneo. Nasce quest'anno anche la Piacenza Podcast Academy, percorso formativo gratuito sul podcast come linguaggio creativo e professionale, aperto ai 14-25 anni.",
+    "brief": "Il 23 settembre a Piacenza torna IlPod - Italian Podcast Awards, quinta edizione: per la prima volta la selezione è affidata a un Comitato Editoriale di professionisti del settore invece che al solo voto popolare. In parallelo nasce la Piacenza Podcast Academy, un progetto di formazione dedicato a chi vuole avvicinarsi al podcasting come linguaggio creativo e professionale.",
     "angles": [
-      "Un premio di settore più una scuola gratuita nella stessa città: un modello che altre città italiane potrebbero copiare",
-      "Cosa guardare quando valuti se un premio o un'academy vale la candidatura o la partecipazione",
-      "Perché parlare di podcast come \"linguaggio\" a scuola cambia la percezione del mezzo tra i più giovani"
+      "Cosa cambia quando un premio italiano passa dal voto popolare a un comitato editoriale di esperti",
+      "Cosa aspettarsi da una nuova 'Podcast Academy' italiana e a chi può interessare seguirla",
+      "Quali show italiani sono nella selezione di quest'anno e cosa dicono delle tendenze del settore"
     ],
     "hooks": [
-      "Pensi che in Italia il podcasting non abbia ancora un vero riconoscimento di settore? Il 23 settembre a Piacenza si assegna la quinta edizione di un premio nazionale.",
-      "Hai tra i 14 e i 25 anni e vuoi imparare a fare podcast gratis? A Piacenza sta partendo una scuola fatta apposta.",
-      "Ti lamenti che in Italia mancano percorsi seri sul podcasting? Da quest'anno ce n'è uno gratuito, nato dentro un festival che esiste già."
+      "Pensavi che gli unici premi podcast fossero quelli americani? Il 23 settembre Piacenza fa la sua quinta edizione, e stavolta scelgono gli esperti, non i voti social.",
+      "Vuoi imparare il podcasting da qualcuno che non sia l'ennesimo video generico su YouTube? A Piacenza sta per aprire una scuola dedicata solo a questo.",
+      "Ti chiedi se in Italia esiste un percorso serio per chi vuole fare podcast di mestiere? Nasce proprio adesso, insieme al premio più quotato del settore."
     ]
   },
   {
-    "id": "raiplay-scuola-spalla-2026-09",
-    "title": "\"La scuola in spalla\": nuovo podcast RaiPlay Sound su un viaggio di 1000 km fatto da otto adolescenti, dal 15 settembre",
-    "source": "L'Opinionista, Telecorriere, Strade Maestre (settembre 2026)",
+    "id": "festival-podcasting-milano-2026-10",
+    "title": "Il Festival del Podcasting compie 10 anni: il 2 e 3 ottobre a Milano tra industry e creator",
+    "source": "ANSA, Spot and Web, Media Key, ItaliaOggi, Radiospeaker (21 luglio 2026)",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-15",
-    "brief": "Dal 15 settembre debutta su RaiPlay Sound \"La scuola in spalla\", podcast in 10 puntate di Andrea Cocco: otto adolescenti attraversano oltre 1000 km in 20 regioni italiane nell'ambito del progetto di scuola itinerante \"Strade Maestre\". Durante il cammino i ragazzi hanno partecipato a un laboratorio radiofonico, scrivendo, registrando e montando parte del podcast stesso.",
+    "date": "2026-10-02",
+    "brief": "Il Festival del Podcasting, il più longevo evento italiano dedicato al settore, festeggia dieci anni il 2 e 3 ottobre a Milano: venerdì Industry Day per aziende e professionisti, sabato dedicato alla community dei creator con podcast live, workshop e il Podcast Pitch. Durante l'evento sarà presentata in anteprima la nuova ricerca NielsenIQ per Audible sull'ascolto podcast in Italia (l'ultima rilevazione disponibile, del 2025, parlava di 18 milioni di ascoltatori, +75% dal 2018).",
     "angles": [
-      "Un case study reale di podcast didattico \"sul campo\": cosa serve davvero per far registrare e montare un podcast a chi non l'ha mai fatto",
-      "Il podcast documentaristico di viaggio come formato: come si tiene insieme una narrazione su dieci puntate registrate in movimento",
-      "RAI investe su format podcast originali fatti da non professionisti: cosa dice sul valore percepito del mezzo oggi"
+      "Cosa aspettarsi dai nuovi dati NielsenIQ-Audible 2026 sull'ascolto podcast in Italia, visto il trend degli ultimi anni",
+      "Perché la giornata dedicata ai creator (workshop, podcast live, Podcast Pitch) può interessare anche chi è alle prime armi",
+      "Come si è evoluto in dieci anni il principale evento podcast italiano, da nicchia a industry vera e propria"
     ],
     "hooks": [
-      "Pensi che serva esperienza per registrare un podcast decente? Otto adolescenti l'hanno fatto camminando 1000 km, e RAI lo pubblica dal 15 settembre.",
-      "Hai paura che il tuo podcast \"amatoriale\" non sia abbastanza professionale? C'è un podcast RAI in uscita fatto in gran parte da ragazzi al primo montaggio.",
-      "Ti chiedi come si tiene insieme una storia lunga dieci puntate? \"La scuola in spalla\" lo fa seguendo un cammino vero, non un copione in studio."
+      "Pensi che il podcasting in Italia sia ancora una nicchia per pochi appassionati? Il 2 e 3 ottobre a Milano il settore festeggia dieci anni con due giornate piene, un industry day e un pitch per creator.",
+      "Ti stai chiedendo se in Italia il podcast sta davvero crescendo o è solo percezione? Tra poche settimane escono i nuovi numeri ufficiali, e l'ultima rilevazione parlava di +75% di ascoltatori dal 2018.",
+      "Hai mai pensato di presentare la tua idea di podcast dal vivo a chi lavora nel settore? A Milano c'è un pitch apposta, e non serve essere già famosi per iscriversi."
     ]
   }
 ]
