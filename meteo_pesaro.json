@@ -1,37 +1,37 @@
 {
-  "aggiornato": "2026-09-09",
+  "aggiornato": "2026-09-10",
   "citta": "Pesaro (PU), Marche, Italia",
-  "fonti": ["3bmeteo.com", "ilmeteo.it", "meteo.it", "allertameteo.regione.marche.it", "adnkronos.com", "qds.it"],
+  "fonti": ["3bmeteo.com", "ilmeteo.it", "ilrestodelcarlino.it", "occhioallanotizia.it", "corriereadriatico.it", "allertameteo.regione.marche.it"],
   "previsioni": [
     {
-      "data": "2026-09-09",
-      "giorno": "oggi, mercoledì",
-      "temp_min_c": 23,
-      "temp_max_c": 30,
-      "condizioni": "Cielo sereno al mattino, poco nuvoloso nel resto della giornata; caldo ancora estivo",
-      "vento": "Deboli da Nord al mattino (6-12 km/h), moderati da Est-Nord-Est al pomeriggio (14-25 km/h), moderati da Sud-Sud-Est in serata (12-25 km/h)",
-      "mare": "Poco mosso",
-      "allerta": "Nessuna allerta colorata ufficiale attiva per le Marche secondo il Bollettino di criticità 174/2026 (valido dalle 00:00 del 09/09/2026) della Protezione Civile Marche. Fonti giornalistiche nazionali (Adnkronos, QDS) segnalano per oggi allerta arancione in Emilia-Romagna, Lombardia e Veneto e allerta gialla in altre regioni del Nord/Centro Italia per rischio temporali, con fenomeni sparsi attesi anche verso Toscana, Umbria e Marche occidentali, ma senza un bollettino colorato ufficiale specifico per la provincia di Pesaro-Urbino."
-    },
-    {
       "data": "2026-09-10",
-      "giorno": "domani, giovedì",
+      "giorno": "oggi, giovedì",
       "temp_min_c": 23,
-      "temp_max_c": 30,
-      "condizioni": "Giornata instabile: cieli poco nuvolosi nella prima parte, nuvolosità in aumento dalla sera con rovesci e possibili temporali (circa 4mm di pioggia attesi)",
-      "vento": "Venti in intensificazione, tendenza a rinfrescare con il passaggio del fronte perturbato",
-      "mare": "Mosso in peggioramento serale",
-      "allerta": "Nessun bollettino di allerta colorata ufficiale specifico trovato per Pesaro-Urbino relativo al 10/09/2026 al momento della ricerca. Fonti giornalistiche (3bmeteo, PisaToday) segnalano l'arrivo di un fronte instabile tra Toscana, Umbria e Marche con rischio di temporali anche forti, grandine e locali nubifragi: si raccomanda di verificare aggiornamenti su allertameteo.regione.marche.it."
+      "temp_max_c": 31,
+      "condizioni": "Parzialmente nuvoloso al mattino, cielo che si copre nel pomeriggio fino a diventare coperto in serata con rovesci (circa 9mm di pioggia attesi) al passaggio di un fronte instabile",
+      "vento": "Moderati da Sud-Ovest al mattino, deboli da Sud-Ovest al pomeriggio, con raffiche durante il passaggio del fronte temporalesco",
+      "mare": "Poco mosso",
+      "allerta": "ATTIVA - Allerta arancione (bollettino di criticità Protezione Civile Marche n. 046/2026, valido dalle 14:00 di mercoledì 9 alle 00:00 di venerdì 11 settembre) per temporali forti e rischio idrogeologico/idraulico: zone settentrionali interne e collinari-costiere, che includono Pesaro-Urbino, in arancione, resto della regione in giallo. Rischio nubifragi, grandine, fulmini frequenti e forti raffiche di vento."
     },
     {
       "data": "2026-09-11",
-      "giorno": "dopodomani, venerdì",
-      "temp_min_c": 15,
-      "temp_max_c": 21,
-      "condizioni": "Mattino nuvoloso con schiarite locali, pomeriggio a tratti nuvoloso con possibili piogge deboli (probabilità di precipitazioni: 30% mattina, 60% pomeriggio), serata e notte più stabili; deciso calo termico rispetto ai giorni precedenti",
-      "vento": "Deboli da Nord-Nord-Est, 7-8 nodi",
-      "mare": "Poco mosso",
-      "allerta": "Nessun bollettino di allerta colorata ufficiale specifico trovato per Pesaro-Urbino relativo all'11/09/2026 al momento della ricerca. Si segnala solo un rischio generico di instabilità residua al Centro-Sud Italia riportato da fonti giornalistiche; si raccomanda verifica diretta su allertameteo.regione.marche.it per eventuali aggiornamenti."
+      "giorno": "domani, venerdì",
+      "temp_min_c": 21,
+      "temp_max_c": 25,
+      "condizioni": "Cielo da poco nuvoloso a nuvoloso, con rovesci e temporali residui in attenuazione entro sera",
+      "vento": "Moderati da Nord-Ovest al mattino, moderati da Nord-Nord-Est al pomeriggio",
+      "mare": "Mosso, temperatura dell'acqua intorno ai 27,5°C",
+      "allerta": "Il bollettino arancione scade alle 00:00 di venerdì 11; al momento della ricerca non risulta un nuovo bollettino colorato specifico per Pesaro-Urbino per la giornata, anche se la stampa segnala la perturbazione ancora attiva sul Centro Italia."
+    },
+    {
+      "data": "2026-09-12",
+      "giorno": "dopodomani, sabato",
+      "temp_min_c": 20,
+      "temp_max_c": 28,
+      "condizioni": "Dati parzialmente discordanti tra le fonti: alcune indicano tempo in prevalenza nuvoloso con schiarite, altre un minimo depressionario in approfondimento con nuvolosità in aumento dal mattino e peggioramento pomeridiano con rovesci sparsi, specie sulla costa settentrionale",
+      "vento": "Deboli da Nord-Ovest in rotazione a Nord-Est, con possibili raffiche fino a 41 km/h da Est secondo alcune fonti",
+      "mare": "Da poco mosso a mosso, temperatura dell'acqua intorno ai 27,1°C",
+      "allerta": "Nessun bollettino di allerta colorata specifico trovato per Pesaro-Urbino per sabato; la stampa nazionale descrive il weekend come la fine dell'ondata di caldo estivo con instabilità residua su Centro-Sud Italia, ma è una tendenza generale, non un bollettino confermato."
     }
   ]
 }

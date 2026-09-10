@@ -1,58 +1,58 @@
 [
   {
-    "id": "ham-tempesta-geomagnetica-2026-09",
-    "title": "Tempesta geomagnetica in arrivo: CME multiple minacciano la propagazione HF",
-    "source": "NOAA/NWS Space Weather Prediction Center (spaceweather.gov, watch G2 moderata) ripreso da The Watchers (7 settembre 2026) ed EarthSky.org",
+    "id": "ham-tempesta-geomagnetica-g2-2026-09",
+    "title": "Tempesta geomagnetica G2 in arrivo: CME multiple minacciano la propagazione HF",
+    "source": "NOAA/SWPC via The Watchers (7 settembre 2026) e Nature World News (9 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-09",
-    "brief": "Almeno quattro espulsioni di massa coronale (CME) partite dalla regione attiva AR4524 stanno raggiungendo la Terra tra l'8 e il 9 settembre. Gli enti di previsione indicano tempesta geomagnetica da G1 (minore) a G2 (moderata), con possibilità di picchi G3 (forte) il 9 settembre. Gli operatori HF devono attendersi fading e blackout radio alle alte latitudini nelle prossime ore."
+    "brief": "Almeno quattro espulsioni di massa coronale partite dalla regione attiva AR4524 hanno raggiunto la Terra tra l'8 e il 9 settembre. Il NOAA Space Weather Prediction Center ha alzato il watch da G1 (minore) a G2 (moderata), con possibilità di picchi G3 il 9 settembre, e una probabilità del 15% di blackout radio HF di livello R1-R2 nel periodo 8-10 settembre."
   },
   {
     "id": "ham-dxpedition-st-kitts-v47-2026-09",
     "title": "Al via la DXpedition a St Kitts (V47YA/V47RCX)",
-    "source": "DX-World.net, timeline DXpedition settembre 2026",
-    "affidabilita": "secondaria",
+    "source": "DX-World.net, DXpedition Timeline settembre 2026",
+    "affidabilita": "primaria",
     "date": "2026-09-09",
-    "brief": "Tom K0YA (come V47YA) e Toni W5RCX (come V47RCX) iniziano oggi, 9 settembre, l'attivazione da St Kitts, nei Caraibi, che proseguirà fino al 30 settembre 2026 su varie bande HF."
+    "brief": "Tom K0YA (come V47YA) e Toni W5RCX (come V47RCX) sono attivi da St Kitts, nei Caraibi, dal 9 al 30 settembre 2026 su varie bande HF."
+  },
+  {
+    "id": "ham-dxpedition-samoa-americana-kh8ww-2026-09",
+    "title": "Parte oggi la DXpedition ad Aunu'u, Samoa Americana (KH8WW)",
+    "source": "DX-World.net, DXpedition Timeline settembre 2026",
+    "affidabilita": "primaria",
+    "date": "2026-09-10",
+    "brief": "Yuris YL2GM ed Eugene EA5EL iniziano oggi, 10 settembre, l'attivazione come KH8WW dall'isola di Aunu'u, Samoa Americana, che proseguirà fino al 24 settembre 2026."
   },
   {
     "id": "ham-dxpedition-cipro-bcc-2026-09",
-    "title": "Il Bavarian Contest Club attiva 5B da Cipro, poi in gara al WAE come PC3R",
-    "source": "425 DX News bollettino n. 1844 (4 settembre 2026), ripreso da SWARL.org",
+    "title": "Il Bavarian Contest Club attiva 5B da Cipro",
+    "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-10",
-    "brief": "Membri del Bavarian Contest Club saranno attivi come 5B/DD1MAT, 5B/DJ5MO, 5B/DL7AT e 5B/DM6DX da Cipro dal 10 al 16 settembre in CW, SSB e RTTY su 160-10 metri, con partecipazione al WAE DX SSB Contest del 12-13 settembre come PC3R."
+    "brief": "Membri del Bavarian Contest Club sono attivi come 5B/DD1MAT, 5B/DJ5MO, 5B/DL7AT e 5B/DM6DX da Cipro dal 10 al 16 settembre in CW, SSB e RTTY su 160-10 metri."
   },
   {
     "id": "ham-dxpedition-seychelles-dl2sby-2026-09",
     "title": "Kasimir DL2SBY torna alle Seychelles come S79/DL2SBY",
-    "source": "425 DX News bollettino n. 1844 (4 settembre 2026)",
+    "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-11",
-    "brief": "Dall'11 al 21 settembre 2026 Kasimir sarà attivo da Mahe (AF-024) in CW, SSB e FT8 sulle bande HF e in 6 metri con un yagi a 5 elementi. QSL via LoTW o OQRS di Club Log."
+    "brief": "Dall'11 al 21 settembre 2026 Kasimir sarà attivo da Mahé (AF-024) in CW, SSB e FT8 sulle bande HF. QSL via LoTW o OQRS di Club Log."
   },
   {
-    "id": "ham-contest-wae-ssb-2026-09",
-    "title": "Nel weekend il WAE DX SSB Contest",
-    "source": "425 DX News bollettino n. 1844 (4 settembre 2026); calendario contest WA7BNM",
-    "affidabilita": "secondaria",
-    "date": "2026-09-12",
-    "brief": "Il Worked All Europe DX Contest in fonia si svolge il 12-13 settembre 2026: numerose stazioni europee, comprese diverse DXpedition attive in quei giorni (es. PC3R da Cipro), parteciperanno alla gara organizzata dal DARC."
+    "id": "ham-hamlib-4-7-2-security-2026-06",
+    "title": "Hamlib 4.7.2 corregge bug di sicurezza e problemi su FTX-1 e IC-7600/7610",
+    "source": "Hamlib, release notes su GitHub",
+    "affidabilita": "primaria",
+    "date": "2026-06-21",
+    "brief": "La versione 4.7.2 di Hamlib, libreria open source molto usata per il controllo remoto di apparati radio, ha corretto la gestione dei canali su FTX-1, le routine di clock su IC-7600/IC-7610 e patchato bug di sicurezza tra cui una scrittura fuori dai limiti dello stack (CVE-2026-54634) nel demone rigctld. È in programma una versione 5.0.0 non retrocompatibile, senza data definita."
   },
   {
     "id": "ham-iaru-r1-conferenza-vienna-2026-09",
     "title": "Conferenza generale IARU Region 1 a Vienna dal 19 settembre",
-    "source": "IARU Region 1 (iaru-r1.org), news and events; ICQ Amateur Radio Podcast (19 agosto 2026)",
+    "source": "IARU Region 1 (iaru-r1.org); RSGB GB2RS (luglio 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-19",
-    "brief": "Dal 19 al 23 settembre 2026 si tiene a Vienna la Conferenza Generale IARU Region 1, ospitata dalla società austriaca ÖVSV nel suo centenario. In agenda band plan, spettro, EMC e questioni satellitari, incluso il documento RSGB sull'uso dello spettro amatoriale UHF da parte di AST SpaceMobile."
-  },
-  {
-    "id": "ham-haarp-campagna-ricerca-2026-09",
-    "title": "Campagna di trasmissione HAARP tra 2,8 e 10 MHz",
-    "source": "HAARP - High-frequency Active Auroral Research Program (haarp.gi.alaska.edu, notice of transmission), ripreso da Amateur Radio Daily",
-    "affidabilita": "primaria",
-    "date": "2026-09-08",
-    "brief": "L'impianto HAARP in Alaska conduce una campagna di ricerca dall'8 all'11 settembre 2026, trasmettendo su frequenze comprese tra 2,8 e 10 MHz con orari variabili in base alle condizioni ionosferiche. Gli organizzatori invitano i radioamatori a inviare rapporti di ricezione."
+    "brief": "Dal 19 al 23 settembre 2026 si tiene a Vienna la 27ª Conferenza Generale IARU Region 1, ospitata dalla società austriaca ÖVSV nel suo centenario, con oltre 97 delegati registrati da 39 società. In agenda band plan, spettro, EMC e documenti sullo spettro VHF/UHF/SHF da ratificare."
   }
 ]
