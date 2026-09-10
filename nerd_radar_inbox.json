@@ -1,56 +1,56 @@
 [
   {
-    "id": "zelda-40-anniversary-direct-2026-09",
-    "title": "Nintendo festeggia i 40 anni di Zelda con un Direct dedicato: annunciato il remake di Ocarina of Time",
-    "source": "Nintendo (Direct ufficiale, 8 settembre 2026); ripreso da Gematsu e Nintendo Everything",
-    "affidabilita": "primaria",
-    "date": "2026-09-08",
-    "brief": "Nintendo ha trasmesso un Direct speciale dedicato ai 40 anni della serie The Legend of Zelda, mostrando il remake di Ocarina of Time in arrivo a novembre su Switch 2, una console Switch 2 a tema Zelda e il primo trailer del film live-action della saga, previsto per il 30 aprile 2027.",
-    "tipo": "evento/comunicato ufficiale + annuncio videogioco"
-  },
-  {
-    "id": "nintendo-direct-settembre-2026",
-    "title": "Nintendo Direct generale del 9 settembre: focus sui giochi Switch 2 dell'inverno",
-    "source": "Nintendo (comunicato ufficiale sito Nintendo, 9 settembre 2026)",
+    "id": "kirby-world-beyond-annuncio-2026-09",
+    "title": "Nintendo annuncia Kirby and the World Beyond, primo capitolo a mondo libero della serie",
+    "source": "GameInformer, Anime News Network (9 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-09",
-    "brief": "Il giorno dopo il Direct dedicato a Zelda, Nintendo ha trasmesso un Nintendo Direct generale di circa 45 minuti incentrato sui titoli Switch 2 in uscita nella stagione invernale, seguito da un Nintendo Treehouse: Live con approfondimenti di gameplay sui giochi annunciati.",
-    "tipo": "evento ufficiale / conferenza digitale"
+    "brief": "Durante un Nintendo Direct, Nintendo e HAL Laboratory hanno rivelato Kirby and the World Beyond, nuovo platform 3D per Switch 2 con design a mondo libero, una prima assoluta per la serie. Il gioco è previsto per la primavera 2027, in coincidenza con il 35° anniversario di Kirby.",
+    "tipo": "annuncio videogioco"
   },
   {
-    "id": "valheim-1-0-console-launch-2026-09",
-    "title": "Valheim lascia l'accesso anticipato e arriva su PS5 e Switch 2",
-    "source": "Comunicato sviluppatori Iron Gate/Coffee Stain, ripreso da GameWatcher e AllKeyShop, 9 settembre 2026",
+    "id": "monster-hunter-wilds-switch2-2026-09",
+    "title": "Monster Hunter Wilds arriva su Nintendo Switch 2 a dicembre",
+    "source": "GameInformer (9 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-09",
-    "brief": "Dopo oltre cinque anni di accesso anticipato, Valheim ha raggiunto la versione 1.0 introducendo il nuovo bioma Deep North e debuttando ufficialmente anche su PlayStation 5 e Nintendo Switch 2, con crossplay completo tra PC, Xbox, PS5 e Switch 2.",
-    "tipo": "uscita videogioco (1.0 / lancio multipiattaforma)"
+    "brief": "Capcom ha confermato durante il Nintendo Direct una versione per Switch 2 di Monster Hunter Wilds, in uscita il 4 dicembre 2026, con tutti gli aggiornamenti di contenuto già pubblicati e supporto al gioco in locale.",
+    "tipo": "annuncio videogioco (porting console)"
   },
   {
-    "id": "mewgenics-console-release-2026-09",
-    "title": "Mewgenics, il nuovo gioco dei creatori di The Binding of Isaac, arriva su console",
-    "source": "Gematsu, RPG Site, Shacknews, Gaming Trend, 8 settembre 2026",
-    "affidabilita": "secondaria",
+    "id": "witcher3-remastered-switch2-espansione-2026-09",
+    "title": "The Witcher 3: Wild Hunt Remastered su Switch 2 dal 29 settembre, annunciata una nuova espansione",
+    "source": "GoNintendo, Nintendo Everything (9 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-09",
+    "brief": "CD Projekt Red ha annunciato l'arrivo di The Witcher 3: Wild Hunt Remastered su Switch 2 dal 29 settembre 2026 (upgrade gratuito per chi possiede già il gioco su Switch), oltre a una nuova espansione completa, 'Songs of the Past', sviluppata con Fool's Theory e prevista per il 2027.",
+    "tipo": "annuncio videogioco + espansione"
+  },
+  {
+    "id": "zelda-ocarina-time-remake-data-2026-09",
+    "title": "Fissata la data del remake di Ocarina of Time: 5 novembre su Switch 2",
+    "source": "Nintendo, comunicato ufficiale (Direct dedicato ai 40 anni di Zelda, 8 settembre 2026); Nintendo Life",
+    "affidabilita": "primaria",
     "date": "2026-09-08",
-    "brief": "Mewgenics, il titolo di Edmund McMillen (creatore di The Binding of Isaac) e Tyler Glaiel uscito su Steam a febbraio 2026, è ora disponibile anche su PS5, Xbox Series X|S e Nintendo Switch 2, come annunciato inizialmente durante la gamescom Opening Night Live.",
-    "tipo": "uscita videogioco (porting console)"
+    "brief": "Durante lo speciale Direct per i 40 anni di The Legend of Zelda, Nintendo ha confermato che il remake di Ocarina of Time uscirà il 5 novembre 2026 su Switch 2, con un bundle speciale console/Pro Controller disponibile dal 29 ottobre e un tour da concerto orchestrale nel 2027.",
+    "tipo": "annuncio videogioco / evento ufficiale"
   },
   {
-    "id": "halloween-the-game-release-2026-09",
-    "title": "Esce Halloween: The Game, sparatoria asimmetrica ispirata al film del 1978",
-    "source": "Copertura Simulation Daily e testate specializzate, 8 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-08",
-    "brief": "È uscito Halloween: The Game, titolo multiplayer asimmetrico in cui un giocatore veste i panni di Michael Myers mentre gli altri devono sopravvivere nella Haddonfield del film originale; disponibile su PC e console, ottimizzato per Xbox Series X|S.",
-    "tipo": "uscita videogioco"
+    "id": "essen-spiel-2026-espansione-record-2026-09",
+    "title": "SPIEL '26 di Essen si espande in una nuova sala: attesi 230mila visitatori",
+    "source": "Comunicato ufficiale organizzatori, spiel-essen.de (3 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-03",
+    "brief": "La fiera Essen Spiel (SPIEL '26, 22-25 ottobre 2026) occuperà per la prima volta anche una nuova Hall 8, con attese circa 230.000 presenze, 921 espositori da 53 paesi e oltre 1.500 giochi nuovi presentati.",
+    "tipo": "fiera di settore / novità organizzative"
   },
   {
-    "id": "pax-west-2026-civilization-vii-recap",
-    "title": "PAX West 2026 chiude a Seattle: il colpo grosso è Civilization VII con Arc of Tomorrow ed Earthrise",
-    "source": "GameDaily (recap PAX West 2026), evento conclusosi il 7 settembre 2026",
+    "id": "lucca-comics-awards-2026-finalisti-2026-09",
+    "title": "Lucca Comics Awards 2026: annunciati i 33 fumetti finalisti su oltre 200 candidature",
+    "source": "Fumettologica, CorriereNerd, SpazioGames (9 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-07",
-    "brief": "Si è chiusa a Seattle l'edizione 2026 di PAX West. L'annuncio più rilevante della fiera è arrivato da Firaxis/2K per i 35 anni di Civilization: il free update Arc of Tomorrow (nuova Era Atomica) e la prima espansione a pagamento Earthrise, entrambi previsti nel 2027; sul piano indie spiccavano Persona 4 Revival, Astonishia Story e Mayday: The Survival Island.",
-    "tipo": "fiera videoludica / recap annunci"
+    "date": "2026-09-09",
+    "brief": "Sono state selezionate 33 opere, su oltre 200 candidature, per gli Yellow Kid e i Gran Guinigi, i massimi riconoscimenti del fumetto assegnati durante Lucca Comics & Games. La premiazione è fissata per il 29 ottobre al Teatro del Giglio, nell'ambito dell'edizione 'LEGACY' per i 60 anni della manifestazione.",
+    "tipo": "fiera di settore / premio fumetti"
   }
 ]
