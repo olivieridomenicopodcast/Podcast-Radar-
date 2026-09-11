@@ -1,35 +1,43 @@
 [
   {
-    "id": "ham-tempesta-geomagnetica-g2-2026-09",
-    "title": "Tempesta geomagnetica G2 in arrivo: CME multiple minacciano la propagazione HF",
-    "source": "NOAA/SWPC via The Watchers (7 settembre 2026) e Nature World News (9 settembre 2026)",
+    "id": "ham-tempesta-geomagnetica-ar4524-2026-09",
+    "title": "Prosegue l'instabilità geomagnetica da AR4524: aurore fino a UK e Francia",
+    "source": "NOAA/SWPC via The Watchers (7 settembre 2026), EarthSky e Daily Galaxy (9-10 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-09",
-    "brief": "Almeno quattro espulsioni di massa coronale partite dalla regione attiva AR4524 hanno raggiunto la Terra tra l'8 e il 9 settembre. Il NOAA Space Weather Prediction Center ha alzato il watch da G1 (minore) a G2 (moderata), con possibilità di picchi G3 il 9 settembre, e una probabilità del 15% di blackout radio HF di livello R1-R2 nel periodo 8-10 settembre."
-  },
-  {
-    "id": "ham-dxpedition-st-kitts-v47-2026-09",
-    "title": "Al via la DXpedition a St Kitts (V47YA/V47RCX)",
-    "source": "DX-World.net, DXpedition Timeline settembre 2026",
-    "affidabilita": "primaria",
-    "date": "2026-09-09",
-    "brief": "Tom K0YA (come V47YA) e Toni W5RCX (come V47RCX) sono attivi da St Kitts, nei Caraibi, dal 9 al 30 settembre 2026 su varie bande HF."
-  },
-  {
-    "id": "ham-dxpedition-samoa-americana-kh8ww-2026-09",
-    "title": "Parte oggi la DXpedition ad Aunu'u, Samoa Americana (KH8WW)",
-    "source": "DX-World.net, DXpedition Timeline settembre 2026",
-    "affidabilita": "primaria",
     "date": "2026-09-10",
-    "brief": "Yuris YL2GM ed Eugene EA5EL iniziano oggi, 10 settembre, l'attivazione come KH8WW dall'isola di Aunu'u, Samoa Americana, che proseguirà fino al 24 settembre 2026."
+    "brief": "La regione attiva AR4524 ha lanciato almeno quattro espulsioni di massa coronale, la cui seconda ondata ha colpito la Terra circa 10 ore dopo la prima nel weekend dell'8-9 settembre. NOAA/SWPC prevedeva condizioni da quiete a instabili il 10 e l'11 settembre con possibili nuovi picchi G1-G2, e le aurore sono state avvistate fino agli USA settentrionali, Regno Unito e Francia del nord. Per gli operatori HF questo significa possibili blackout radio R1-R2 intermittenti e propagazione instabile sulle bande alte nei giorni scorsi."
+  },
+  {
+    "id": "ham-dxpedition-franz-josef-land-ri1fjz-2026-09",
+    "title": "Nuova DXpedition artica: RI1FJZ attiva da Zemlja Frantsa-Iosifa",
+    "source": "DX-World.net e cq.sk/DXZone (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-09",
+    "brief": "Un team russo composto da Vasily RA1ZZ, Vladimir R9LR, Dima RA9USU, Alex R9LM, Nick R3CN ed Eugene RW6MD e attivo come RI1FJZ dall'isola Alexandra, arcipelago della Terra di Francesco Giuseppe, dal 9 al 25 settembre 2026. Operano con fino a 7 radio (CW, SSB, digitali) su HF/VHF e sono previste anche attivita EME, satellite QO-100 e LEO da una delle DXCC piu difficili al mondo. QSL via Club Log OQRS e LoTW."
+  },
+  {
+    "id": "ham-dxpedition-samos-j48s-2026-09",
+    "title": "Dirk ON5CT attivo un mese da Samos come J48S",
+    "source": "DX-World.net e 425 DX News, bollettino n. 1844 (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-11",
+    "brief": "Dirk, ON5CT, opera come J48S dall'isola greca di Samos (EU-049) dall'11 settembre al 10 ottobre 2026 su 80-10 metri in SSB, RTTY, FT8/FT4 e un po' di CW. Il bollettino 425 DX News segnala anche la sua probabile partecipazione al CQ WW DX RTTY Contest del 26-27 settembre."
+  },
+  {
+    "id": "ham-contest-wae-ssb-2026-09",
+    "title": "Weekend di gara: WAE DX Contest SSB il 12-13 settembre",
+    "source": "DARC, regolamento ufficiale del WAE DX Contest (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-12",
+    "brief": "Il DARC (Deutscher Amateur Radio Club) organizza il WAE DX Contest, fase SSB, dalle 0000Z del 12 settembre alle 2359Z del 13 settembre 2026 su 80-10 metri. Contano solo i collegamenti tra stazioni europee e stazioni extra-europee; la fase RTTY dello stesso contest e in programma per il 14-15 novembre."
   },
   {
     "id": "ham-dxpedition-cipro-bcc-2026-09",
-    "title": "Il Bavarian Contest Club attiva 5B da Cipro",
+    "title": "Il Bavarian Contest Club attivo come 5B da Cipro fino al 16 settembre",
     "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-10",
-    "brief": "Membri del Bavarian Contest Club sono attivi come 5B/DD1MAT, 5B/DJ5MO, 5B/DL7AT e 5B/DM6DX da Cipro dal 10 al 16 settembre in CW, SSB e RTTY su 160-10 metri."
+    "brief": "Membri del Bavarian Contest Club sono attivi come 5B/DD1MAT, 5B/DJ5MO, 5B/DL7AT e 5B/DM6DX da Cipro dal 10 al 16 settembre 2026 in CW, SSB e RTTY su 160-10 metri, con partecipazione prevista al WAE DX Contest SSB del 12-13 settembre."
   },
   {
     "id": "ham-dxpedition-seychelles-dl2sby-2026-09",
@@ -37,22 +45,14 @@
     "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-11",
-    "brief": "Dall'11 al 21 settembre 2026 Kasimir sarà attivo da Mahé (AF-024) in CW, SSB e FT8 sulle bande HF. QSL via LoTW o OQRS di Club Log."
+    "brief": "Dall'11 al 21 settembre 2026 Kasimir sara attivo da Mahe (AF-024), Seychelles, in CW, SSB e FT8 sulle bande HF e sui 6 metri. QSL via LoTW o OQRS di Club Log, oppure diretta al nominativo di casa."
   },
   {
-    "id": "ham-hamlib-4-7-2-security-2026-06",
-    "title": "Hamlib 4.7.2 corregge bug di sicurezza e problemi su FTX-1 e IC-7600/7610",
-    "source": "Hamlib, release notes su GitHub",
+    "id": "ham-dxpedition-mozambico-c8k-2026-09",
+    "title": "Il Czech DX Team porta C8K in Mozambico tra settembre e ottobre",
+    "source": "DX-World.net (pagina dedicata C8K, aggiornamento settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-06-21",
-    "brief": "La versione 4.7.2 di Hamlib, libreria open source molto usata per il controllo remoto di apparati radio, ha corretto la gestione dei canali su FTX-1, le routine di clock su IC-7600/IC-7610 e patchato bug di sicurezza tra cui una scrittura fuori dai limiti dello stack (CVE-2026-54634) nel demone rigctld. È in programma una versione 5.0.0 non retrocompatibile, senza data definita."
-  },
-  {
-    "id": "ham-iaru-r1-conferenza-vienna-2026-09",
-    "title": "Conferenza generale IARU Region 1 a Vienna dal 19 settembre",
-    "source": "IARU Region 1 (iaru-r1.org); RSGB GB2RS (luglio 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-19",
-    "brief": "Dal 19 al 23 settembre 2026 si tiene a Vienna la 27ª Conferenza Generale IARU Region 1, ospitata dalla società austriaca ÖVSV nel suo centenario, con oltre 97 delegati registrati da 39 società. In agenda band plan, spettro, EMC e documenti sullo spettro VHF/UHF/SHF da ratificare."
+    "date": "2026-09-11",
+    "brief": "Il Czech DX Team sara attivo come C8K dal Mozambico tra settembre e ottobre 2026, dopo un rinvio rispetto alla finestra originaria di gennaio-febbraio per completare la squadra e la logistica. Operativita prevista da 160 a 6 metri piu satelliti QO-100, RS-44 e IO-117, in CW, SSB e modi digitali; QSL via OQRS di OK6DJ e LoTW."
   }
 ]

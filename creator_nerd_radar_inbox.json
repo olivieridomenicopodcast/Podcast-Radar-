@@ -1,56 +1,47 @@
 [
   {
-    "id": "modena-nerd-2026-record-2026-09",
-    "title": "Modena Nerd chiude la decima edizione con oltre 29mila presenze",
-    "source": "ModenaToday (7 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-06",
-    "brief": "La decima edizione di Modena Nerd, andata in scena il 5-6 settembre 2026 a ModenaFiere, ha chiuso con un record di circa 29.000 presenze, in crescita rispetto alle 28mila del 2025. Tra gli ospiti il concerto di Giorgio Vanni e un meet&greet con il doppiatore e content creator Maurizio Merluzzo.",
-    "rilevanza": "Conferma la crescita costante delle fiere nerd italiane e il ruolo dei content creator come richiamo di pubblico, oltre a doppiatori e fumettisti."
-  },
-  {
-    "id": "milano-comics-games-2026-creator-2026-09",
-    "title": "Milano Comics & Games conferma i content creator RichardHTT, Xiuder ed Edoardo Brugnoli",
-    "source": "VareseNoi (7 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-07",
-    "brief": "Per la 22ª edizione (12-13 settembre, Malpensa Fiere) sono confermati come ospiti lo streamer/gamer Xiuder, l'illustratore e YouTuber RichardHTT e Edoardo Brugnoli, 'il Pianista degli Anime', con un format live di quiz musicale a tema anime.",
-    "rilevanza": "Esempio diretto di content creator italiani nerd/gaming come protagonisti di un grande evento fieristico imminente."
-  },
-  {
-    "id": "riftbound-showdown-lucca-2026-09",
-    "title": "A Lucca il primo torneo italiano Showdown Series di Riftbound",
-    "source": "LuccaInDiretta, ProjectNerd (luglio-agosto 2026)",
+    "id": "terni-comics-dario-moccia-2026-09",
+    "title": "Dario Moccia tra gli ospiti del Terni Comics 2026, al via oggi",
+    "source": "TerniToday, Terni Tomorrow (7-11 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-11",
-    "brief": "Il Polo Fiere di Lucca ospita dall'11 al 13 settembre il primo Showdown Series italiano di Riftbound, il TCG di Riot Games ambientato nell'universo di League of Legends, con qualificazioni dirette al Regional Championship europeo.",
-    "rilevanza": "Evento centrale per la community italiana di TCG e gaming competitivo, terreno frequentato anche da creator e streamer di settore."
+    "brief": "Il Terni Comics 2026, in programma dall'11 al 13 settembre al PalaTerni-Umbria Forum, apre oggi con Dario Moccia tra gli ospiti confermati: il content creator ed educatore, già presente alla seconda edizione, torna a incontrare la community tra fumetti, animazione, collezionismo e cultura pop. La manifestazione, presentata in conferenza stampa il 5 settembre, prevede anche il concerto di apertura di Giorgio Vanni venerdì 11.",
+    "rilevanza": "Conferma il ruolo crescente dei content creator come richiamo per le fiere nerd di provincia, accanto agli ospiti storici del mondo del fumetto e della musica per bambini/ragazzi."
   },
   {
-    "id": "lucca-comics-awards-finalisti-creator-2026-09",
-    "title": "Lucca Comics Awards 2026: svelati i 33 fumetti finalisti",
-    "source": "Fumettologica, CorriereNerd, SpazioGames (9 settembre 2026)",
+    "id": "milano-comics-games-meet-greet-2026-09",
+    "title": "Milano Comics & Games 2026: svelato il programma di meet & greet con i content creator",
+    "source": "CorriereNerd, VareseNoi, GazzettaDiMilano (7 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-09",
-    "brief": "Selezionate 33 opere su oltre 200 candidature per gli Yellow Kid e i Gran Guinigi, i massimi riconoscimenti del fumetto italiano. La premiazione è il 29 ottobre al Teatro del Giglio, nell'edizione 'LEGACY' per i 60 anni della manifestazione.",
-    "rilevanza": "Notizia cardine per la community fumetti/manga italiana, con ricadute su tutti i creator e recensori che coprono il settore in vista di Lucca Comics 2026."
+    "date": "2026-09-07",
+    "brief": "Per la 22ª edizione del 12-13 settembre a Malpensa Fiere sono stati resi noti gli orari degli incontri con i content creator: The Veil (Federico Vitale) sabato 12 dalle 14 alle 16, Stibazzi dalle 15 alle 16 e 151eg dalle 17 alle 18, oltre a un panel sul Main Stage con 151eg e Stibazzi sui 'segreti dell'animazione' e uno show comico di Giulia (Storie de mai na gioia).",
+    "rilevanza": "Dettaglia la presenza dei creator digitali italiani come attrazione centrale delle fiere di settore, con un programma di meet & greet strutturato e orari precisi."
   },
   {
-    "id": "magico-mondo-cosplay-20-anni-2026-09",
-    "title": "Il Magico Mondo del Cosplay festeggia 20 anni al Parco Giardino Sigurtà",
-    "source": "CorriereNerd, Cosplayers Italiani (settembre 2026)",
+    "id": "palermo-comic-convention-2026-09",
+    "title": "Palermo Comic Convention 2026 al via, tra fumetto storico e content creator digitali",
+    "source": "Giornale di Sicilia, MonrealePress, IlModeratore (5 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-10",
+    "brief": "L'undicesima edizione di Palermo Comic Convention, dal 10 al 13 settembre ai Cantieri Culturali alla Zisa, affianca grandi nomi storici del fumetto come Leo Ortolani e Charlie Adlard a autrici attive anche come content creator digitali, tra cui l'illustratrice palermitana Giulia Adragna (Disney, Panini Comics), che pubblica regolarmente il proprio lavoro online.",
+    "rilevanza": "Mostra l'intreccio, sempre più stretto nelle fiere italiane, tra fumetto tradizionale e creator che costruiscono pubblico anche sui social."
+  },
+  {
+    "id": "riftbound-lucca-creator-program-2026-09",
+    "title": "Riftbound Showdown Series a Lucca: un Creator Program per i content creator del TCG",
+    "source": "A6 Fanzine (settembre 2026)",
     "affidabilita": "segnale debole",
-    "date": "2026-09-06",
-    "brief": "Il più importante raduno cosplay d'Italia ha festeggiato la ventesima edizione (4-6 settembre) con sfilate, musica e ospiti come Giorgio Vanni, Gem Boy e Omar Fantini, richiamando migliaia di appassionati di anime, fumetti e cultura pop.",
-    "rilevanza": "Principale vetrina italiana per cosplayer-creator, molti dei quali attivi anche su YouTube, TikTok e Instagram."
+    "date": "2026-09-11",
+    "brief": "Al Polo Fiere di Lucca, dove dall'11 al 13 settembre si gioca il primo Showdown Series italiano di Riftbound (il TCG di Riot Games ambientato nell'universo di League of Legends) con qualificazioni al Regional Championship europeo, sarebbe stato attivato un Creator Program aperto ai content creator interessati a raccontare l'evento.",
+    "rilevanza": "Segnale, da confermare con altre fonti, dell'interesse degli organizzatori a coinvolgere creator italiani nella copertura di un torneo TCG di rilievo internazionale."
   },
   {
-    "id": "giochi-tavolo-novita-settimana-2026-09",
-    "title": "Le novità dei giochi da tavolo della settimana secondo Geek.pizza",
+    "id": "geekpizza-novita-tavolo-settimana-2026-09",
+    "title": "Geek.pizza pubblica le novità ludiche della settimana 7-11 settembre",
     "source": "Geek.pizza (9 settembre 2026)",
     "affidabilita": "segnale debole",
     "date": "2026-09-09",
-    "brief": "La rassegna settimanale del sito italiano Geek.pizza segnala tra le uscite ludiche della settimana la nuova edizione grafica di Ticket to Ride Europa e il cooperativo Archeo, finalista dell'As d'Or 2026.",
-    "rilevanza": "Segnale debole ma utile per inquadrare i contenuti su cui i creator e recensori italiani di giochi da tavolo stanno probabilmente pubblicando in questi giorni."
+    "brief": "La rubrica settimanale del sito italiano Geek.pizza, curata dal ludografo Luca Canese, segnala tra le uscite della settimana 1960 - Making of the President, il cooperativo Archeo (finalista As d'Or 2026), i due nuovi Profiler (Omicidio all'Opera e Tragedia a Mykonos) e Rory's Story Cubes Action.",
+    "rilevanza": "Indica i titoli su cui i creator e recensori italiani di giochi da tavolo stanno probabilmente concentrando le proprie recensioni in questi giorni."
   }
 ]

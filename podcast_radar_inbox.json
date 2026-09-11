@@ -1,132 +1,135 @@
 [
   {
-    "id": "youtube-engaged-views-gonfiate-2026-09",
-    "title": "YouTube conta le view dal primo fotogramma: Podtrac dice che i podcast escono gonfiati del 36%",
-    "source": "Podtrac, analisi pubblicata il 3 settembre 2026; ripresa da Podnews, ppc.land e Inside Radio (settembre 2026)",
+    "id": "audacity-4-2026-09",
+    "title": "Audacity si rifà il trucco: arriva la versione 4.0 con dark mode ed editing non distruttivo",
+    "source": "Engadget, The Register, 9to5Linux, OMG Ubuntu (3 settembre 2026); changelog e annuncio ufficiali Audacity/Muse Group",
     "affidabilita": "primaria",
     "target": 8,
     "date": "2026-09-03",
-    "brief": "Dal 24 agosto 2026 YouTube conta una 'view' pubblica dal primissimo fotogramma di riproduzione, incluso l'autoplay in home. Podtrac ha analizzato 84,2 milioni di visualizzazioni di episodi podcast e trovato che le 'Engaged Views' reali sono in media il 64% del totale. Le metriche usate per la monetizzazione restano legate alle Engaged Views, non al nuovo numero pubblico.",
+    "brief": "Il 3 settembre 2026 Audacity ha rilasciato la versione 4.0, il più grande aggiornamento dai tempi della 3.0: nuova interfaccia riscritta in Qt con dark mode e temi, editing non distruttivo esteso (clip sovrapponibili, trim reversibile), layout 'Workspaces' salvabili per passare da montaggio a registrazione senza riconfigurare tutto, e supporto ASIO ufficiale su Windows. La notizia è stata ripresa da numerose testate tech indipendenti.",
     "angles": [
-      "Perché il numero di view che vedi ora su YouTube dice poco sull'ascolto reale del tuo show",
-      "Come guardare le Engaged Views invece delle view pubbliche quando valuti la crescita di un podcast video",
-      "Cosa NON cambia (guadagni, idoneità al programma partner) rispetto a cosa cambia (il numero che vede uno sponsor)"
+      "Perché Audacity resta lo strumento giusto per chi inizia senza budget, e cosa cambia con la 4.0",
+      "Tutorial pratico: sfruttare l'editing non distruttivo per non avere più paura di 'rovinare' la registrazione",
+      "Workspaces: come organizzare la sessione di montaggio in un layout su misura invece di riconfigurare ogni volta"
     ],
     "hooks": [
-      "Ti sei svegliato con più visualizzazioni su YouTube senza aver cambiato una virgola? Non sei diventato bravo di colpo, hanno solo cambiato come contano.",
-      "Stai per mandare le tue statistiche YouTube a un possibile sponsor? Un terzo di quelle view, dice Podtrac, sono gente sparita dopo un fotogramma.",
-      "Pensi che più view pubbliche vogliano dire più ascoltatori veri? Da fine agosto YouTube conta anche chi scappa un secondo dopo aver cliccato play."
+      "Hai sempre avuto paura di tagliare l'audio e rovinare tutto per sempre? Con l'editing non distruttivo della nuova Audacity puoi tornare indietro anche dopo aver tagliato.",
+      "Usi ancora Audacity con quella grafica da primi anni 2000? Da settembre ha la dark mode e finalmente non sembra un programma abbandonato nel 2005.",
+      "Ti scoraggi ogni volta che devi riconfigurare il programma per registrare invece che montare? Ora puoi salvarti dei layout diversi e passare dall'uno all'altro con un clic."
     ]
   },
   {
-    "id": "buzzsprout-directory-mancanti-2026-08",
-    "title": "Buzzsprout scopre che il 70% dei podcast attivi manca da alcune directory",
-    "source": "Buzzsprout, comunicato ufficiale (13 agosto 2026)",
+    "id": "youtube-stations-podcast-2026-08",
+    "title": "YouTube estende 'Stations', lo streaming continuo con chat live, anche a creator e podcast",
+    "source": "Primaonline (24 agosto 2026); The Follow Up News (agosto 2026)",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-08-24",
+    "brief": "YouTube ha esteso la funzione Stations, un flusso di contenuti continuo attivo 24 ore su 24 in stile canale lineare, anche a creator, canali media e podcast, oltre ai contenuti musicali per cui era nata. La funzione integra una chat in tempo reale che permette al pubblico di commentare durante la visione condivisa, a differenza di una semplice playlist o dell'autoplay classico.",
+    "angles": [
+      "Cosa significa per un podcast avere un proprio 'canale lineare' sempre acceso su YouTube",
+      "Chat live durante l'ascolto: nuova occasione di community o solo distrazione dal contenuto",
+      "Come pensare i propri episodi per un formato 'sempre in onda' invece che a scarico singolo"
+    ],
+    "hooks": [
+      "Pensi che il tuo podcast su YouTube sia solo un elenco di video da cliccare uno a uno? YouTube sta trasformando i canali in flussi continui tipo tv, con la chat accesa sopra.",
+      "Ti sei mai chiesto cosa succede al tuo pubblico quando finisce un episodio e nessuno gli propone il prossimo? Con Stations la risposta della piattaforma è: non deve mai finire.",
+      "Credi che la chat live sia roba solo da streamer di videogiochi? YouTube la sta portando anche sui podcast, e cambia il modo in cui la gente ti ascolta."
+    ]
+  },
+  {
+    "id": "apple-podcasts-video-mac-2026-06",
+    "title": "Apple Podcasts porta il video su Mac e Apple TV, con Picture in Picture e ricerca migliorata",
+    "source": "Apple Newsroom, comunicato ufficiale; MacRumors (9 giugno 2026)",
     "affidabilita": "primaria",
-    "target": 8,
-    "date": "2026-08-13",
-    "brief": "Buzzsprout ha rilevato che oltre il 70% dei podcast attivi sulla piattaforma non è presente in tutte le directory audio disponibili, e ha lanciato una funzione di invio automatico a 16 directory con un clic. In due settimane oltre 5.200 show hanno aggiunto almeno una directory mancante.",
+    "target": 6,
+    "date": "2026-06-09",
+    "brief": "Apple ha esteso a Mac e Apple TV l'esperienza video podcast introdotta su iPhone e iPad a inizio 2026: gli utenti possono guardare gli episodi video, passare alla visione a schermo intero e usare il Picture in Picture per continuare a guardare mentre fanno altro. È arrivata anche una funzione di ricerca migliorata all'interno dell'app.",
     "angles": [
-      "L'errore da principianti più sottovalutato: pubblicare senza controllare dove il podcast è davvero visibile",
-      "Checklist di distribuzione da rifare a ogni episodio pubblicato",
-      "Come verificare la presenza del proprio show su Apple, Spotify, Amazon, Podcast Index"
+      "Perché anche chi fa 'solo audio' dovrebbe iniziare a registrare almeno in video da ora in poi",
+      "Come funziona la fruizione ibrida audio/video pensata da Apple e cosa cambia per chi produce",
+      "Checklist minima per pubblicare un video podcast decente senza diventare un video editor"
     ],
     "hooks": [
-      "Hai pubblicato il tuo podcast e pensi che ora sia ovunque? Buzzsprout dice che 7 show su 10 mancano da almeno una directory importante, magari anche il tuo.",
-      "Ti chiedi perché nessuno trova il tuo show cercandolo su un'app diversa da quella che usi tu? Probabilmente non ce l'hai mai mandato, e non sei il solo.",
-      "Pensavi che bastasse un host per essere 'su tutte le piattaforme'? A quanto pare no, e la buona notizia è che si sistema con un clic."
+      "Registri ancora solo l'audio pensando che tanto nessuno guarda i podcast? Apple ha appena messo il video anche su Mac e Apple TV, con tanto di Picture in Picture.",
+      "Hai il terrore di dover montare video oltre che audio? Buona notizia: puoi lasciare la telecamera fissa e la gente lo guarda comunque mentre fa altro, grazie al Picture in Picture.",
+      "Pensi che video podcast voglia dire per forza produzione complicata? Le piattaforme stanno rendendo il video sempre più uno standard di base, non un lusso."
     ]
   },
   {
-    "id": "descript-jump-cut-scheduling-2026-08",
-    "title": "Descript rifà i jump cut e aggiunge la registrazione programmata",
-    "source": "Descript, blog e changelog ufficiali (5 agosto 2026)",
+    "id": "spreaker-record-share-hosting-2026-08",
+    "title": "Spreaker tocca un massimo storico di quota tra le piattaforme di hosting podcast",
+    "source": "Podnews, rilevazione dati piattaforme di hosting (fine agosto 2026) - fonte singola, dato non confermato da una seconda fonte indipendente",
+    "affidabilita": "segnale debole",
+    "target": 5,
+    "date": "2026-08-31",
+    "brief": "Secondo un rilevamento di Podnews sulle piattaforme di hosting podcast, Spreaker - nata in Italia e oggi parte di iHeartMedia - avrebbe raggiunto un massimo storico per il 2026 con una quota del 13,6% degli episodi pubblicati, mentre la maggior parte degli altri host avrebbe perso quota nello stesso mese, con l'eccezione del nuovo entrante Firstory. Il dato arriva da una sola fonte reperita in ricerca e non è stato verificato su un secondo report indipendente, va quindi preso con cautela.",
+    "angles": [
+      "Cosa significa la crescita di una piattaforma 'italiana' nel panorama globale dell'hosting",
+      "Come leggere le classifiche di quota di mercato tra gli host senza prenderle per oro colato",
+      "Perché la scelta dell'host non decide da sola il successo di un podcast"
+    ],
+    "hooks": [
+      "Usi Spreaker e ti chiedi se hai scelto la piattaforma sbagliata? Pare proprio di no: secondo alcuni dati di settore starebbe vivendo il suo momento migliore di sempre.",
+      "Pensi che le piattaforme di hosting siano tutte uguali? Guarda come cambiano le quote di mercato mese dopo mese, e chiediti se conta più la piattaforma o quello che ci metti dentro.",
+      "Ti fidi ciecamente di ogni statistica che leggi sul podcasting? Anche questa te la do con beneficio d'inventario: una fonte sola, non due che si confermano a vicenda."
+    ]
+  },
+  {
+    "id": "festival-podcasting-milano-2026-10",
+    "title": "Il Festival del Podcasting compie 10 anni: il 2-3 ottobre a Milano con una giornata dedicata al business",
+    "source": "Ansa (21 luglio 2026); Il Sole 24 Ore",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-10-02",
+    "brief": "Il Festival del Podcasting, il più longevo evento italiano dedicato al settore, torna il 2 e 3 ottobre 2026 a Milano, nell'area Parco Experience, per la sua decima edizione. La novità principale è una giornata interamente dedicata all'industria con brand, aziende e agenzie sull'uso strategico del podcast, oltre a panel, podcast live, workshop e al debutto dell'Audioboost Award per il miglior branded podcast. Durante l'evento verranno presentati in anteprima nuovi dati NielsenIQ per Audible sull'ascolto in Italia.",
+    "angles": [
+      "Perché vale la pena andare a un evento di settore anche se sei ancora all'inizio",
+      "Cosa aspettarsi dai nuovi dati NielsenIQ/Audible sull'ascolto podcast in Italia",
+      "Il branded podcast come sbocco professionale per chi sa già scrivere e montare audio"
+    ],
+    "hooks": [
+      "Pensi che gli eventi sui podcast siano solo palchi per chi ha già milioni di ascolti? Il 2 e 3 ottobre a Milano c'è spazio anche per chi vuole solo capire come funziona il mestiere.",
+      "Ti sei mai chiesto quanti italiani ascoltano davvero i podcast? A inizio ottobre escono nuovi dati ufficiali, ed è la scusa perfetta per aggiornare quello che pensi di sapere sul settore.",
+      "Hai sempre pensato al podcast come hobby e non come lavoro vero? A Milano quest'anno dedicano una giornata intera a brand e aziende che ci investono soldi veri."
+    ]
+  },
+  {
+    "id": "riverside-rebrand-ai-hub-2026-05",
+    "title": "Riverside.fm diventa solo Riverside: il tool di registrazione si trasforma in hub AI per i contenuti",
+    "source": "PR Newswire, comunicato ufficiale (20 maggio 2026); ripreso da citybiz e testate locali USA",
+    "affidabilita": "primaria",
+    "target": 6,
+    "date": "2026-05-20",
+    "brief": "Riverside.fm ha ufficialmente eliminato il '.fm' dal nome, diventando semplicemente Riverside e trasferendo il sito su riverside.com. Il cambio riflette l'espansione della piattaforma oltre la registrazione remota: editing, livestreaming e riadattamento dei contenuti (repurposing) sono ora integrati in un unico prodotto, con un assistente AI chiamato Co-Creator per generare reel e newsletter a partire dagli episodi.",
+    "angles": [
+      "Da tool di registrazione a piattaforma tutto-in-uno: cosa comporta per chi lavora da solo",
+      "Quanto conviene affidarsi a un solo strumento AI per tutta la filiera, dalla registrazione al reel",
+      "Il nome è cambiato ma la promessa di base resta: registrare in alta qualità da remoto"
+    ],
+    "hooks": [
+      "Registri ancora le interviste da remoto con mille programmi diversi per audio, editing e clip? Riverside ha appena provato a mettere tutto in un solo posto, cambiando pure nome.",
+      "Hai paura di dipendere troppo dall'AI per tagliare i tuoi contenuti in reel? Il nuovo assistente di Riverside lo fa chiacchierandoci come con un collega, nel bene e nel male.",
+      "Ti stai ancora chiedendo se ti serve un tool 'tutto in uno' o tanti strumenti separati? Anche chi ha costruito la sua fama sulla sola registrazione ora scommette sul tutto-in-uno."
+    ]
+  },
+  {
+    "id": "adobe-podcast-enhance-speech-v2-2026-03",
+    "title": "Adobe Podcast aggiorna Enhance Speech: ora separa voce, rumore e musica in tracce distinte",
+    "source": "Adobe Podcast, guida ufficiale 'What's new in Adobe Podcast' (marzo 2026, giorno esatto non specificato dalla fonte)",
     "affidabilita": "primaria",
     "target": 7,
-    "date": "2026-08-05",
-    "brief": "Descript ha rilasciato jump cut ricostruiti (con opzione per rigenerare separatamente video, audio o entrambi e ridurre gli stacchi visibili), la possibilità di programmare in anticipo una Room di registrazione, editing delle immagini disegnandoci sopra e supporto ai modelli AI più recenti.",
+    "date": "2026-03-01",
+    "brief": "Adobe ha aggiornato lo strumento gratuito Enhance Speech di Adobe Podcast introducendo la separazione delle sorgenti: la registrazione viene scomposta in tracce distinte per voce, rumore ambientale e musica, regolabili singolarmente o scaricabili come stem separati. L'aggiornamento include anche il 'Room Modeling', che permette di conservare alcune caratteristiche acustiche dell'ambiente invece di appiattire completamente il suono.",
     "angles": [
-      "Tutorial pratico per ottenere jump cut puliti quando monti da solo",
-      "La funzione di scheduling è utile per chi organizza interviste da remoto",
-      "Quando l'editing AI aiuta davvero e quando serve ancora l'orecchio umano"
+      "Quando l'AI di pulizia audio aiuta davvero un principiante e quando toglie 'carattere' alla voce",
+      "Come recuperare una registrazione fatta in un ambiente rumoroso senza uno studio",
+      "Stem separati: un trucco da post-produzione professionale ora alla portata di tutti, gratis"
     ],
     "hooks": [
-      "Odi quel salto brutto quando tagli una pausa troppo lunga? Descript ha appena rifatto il modo in cui gestisce i jump cut, proprio per quello.",
-      "Ti scordi sempre di mandare in tempo il link della registrazione all'ospite? Ora puoi programmare la Room con giorni di anticipo e toglierti il pensiero.",
-      "Pensi che l'editing con l'AI sia solo un trucco da markettari? Anche gli strumenti seri ci stanno investendo, la domanda è quando conviene usarlo davvero."
-    ]
-  },
-  {
-    "id": "everywhere-agenzia-creator-multipiattaforma-2026-09",
-    "title": "Nasce Everywhere, l'agenzia UK che tratta i creator come multipiattaforma, non solo podcast",
-    "source": "The Media Leader UK (2 settembre 2026); ripreso da Joycast (3 settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-02",
-    "brief": "Tre veterani dell'audio digitale (ex Acast, Audioboom, BBC, Global) hanno lanciato Everywhere, agenzia commerciale per creator che si muovono tra YouTube, TikTok, podcast, newsletter ed eventi live invece che restare legati al solo feed RSS.",
-    "angles": [
-      "Il podcast come parte di un ecosistema multicanale, non prodotto isolato",
-      "Perché pensare oltre l'RSS feed conviene anche a chi inizia in piccolo"
-    ],
-    "hooks": [
-      "Continui a pensare al tuo podcast come a 'solo audio da mettere su Spotify'? A Londra hanno appena fondato un'agenzia che tratta i creator come roba multipiattaforma, punto e basta.",
-      "Hai un feed RSS e ti sembra già abbastanza? Chi il mestiere lo fa da vent'anni ora scommette sui creator che vivono ovunque, non in un solo posto.",
-      "Ti stai chiedendo se il podcast basta da solo per costruire un pubblico? Pare che nemmeno chi ha lavorato per Acast e BBC ci creda più."
-    ]
-  },
-  {
-    "id": "youtube-headline-partner-ipa-londra-2026-09",
-    "title": "YouTube diventa sponsor principale degli Independent Podcast Awards di Londra",
-    "source": "Podnews, comunicato ufficiale (9 settembre 2026)",
-    "affidabilita": "primaria",
-    "target": 5,
-    "date": "2026-09-09",
-    "brief": "YouTube è stata annunciata come Headline Partner degli Independent Podcast Awards britannici: un rappresentante della piattaforma rivelerà il vincitore assoluto dell'Independent Podcast of the Year alla cerimonia del 4 novembre 2026 a Kings Place, Londra.",
-    "angles": [
-      "Quanto le grandi piattaforme stiano investendo nel riconoscimento dei podcast indipendenti",
-      "Perché candidarsi a premi e contest può essere un obiettivo concreto per chi inizia ora"
-    ],
-    "hooks": [
-      "Pensi che i premi per i podcast siano roba solo per chi ha già uno studio da mille euro? A novembre a Londra ne assegnano uno con YouTube come sponsor principale, e la candidatura non chiede fama.",
-      "Ti sembra che il tuo podcast da cameretta non conti niente per nessuno? Gli Independent Podcast Awards esistono apposta per chi non ha budget da network.",
-      "Hai mai pensato di candidare il tuo show a un premio? Da quest'anno lo fa anche YouTube, mettendoci la faccia come partner principale."
-    ]
-  },
-  {
-    "id": "italian-podcast-awards-piacenza-2026-09",
-    "title": "IlPod - Italian Podcast Awards, quinta edizione il 23 settembre a Piacenza",
-    "source": "PiacenzaSera, IlPiacenza (10 settembre 2026); AskaNews (luglio 2026)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-23",
-    "brief": "Il 23 settembre, in Piazza Cavalli a Piacenza, torna IlPod - Italian Podcast Awards a ingresso libero: tra le categorie Podcast dell'Anno, Podcast Indie dell'Anno, il Premio dell'Academy assegnato dai ragazzi della Piacenza Podcast Academy, e il Premio Storia del Podcast 2026, vinto quest'anno da 'Tintoria' di Daniele Tinti e Stefano Rapone.",
-    "angles": [
-      "Cosa rende un podcast italiano 'da premio' secondo la giuria di quest'anno",
-      "Case study sulla longevità editoriale di 'Tintoria'",
-      "Invito alla community a seguire l'evento come benchmark del settore italiano"
-    ],
-    "hooks": [
-      "Pensi che i premi per podcast siano solo roba americana? Il 23 settembre a Piacenza va in scena la quinta edizione di quello italiano, e si entra gratis.",
-      "Ti chiedi cosa serva davvero per fare un podcast che dura nel tempo? Il premio Storia del Podcast di quest'anno lo danno a chi lo fa da anni senza fermarsi mai.",
-      "Segui ancora solo i soliti nomi americani quando pensi al podcasting? A Piacenza c'è una scena italiana viva, con tanto di academy per chi vuole imparare da zero."
-    ]
-  },
-  {
-    "id": "raiplay-sound-nuova-stagione-original-2026-07",
-    "title": "RaiPlay Sound rilancia i podcast Original con tre nuove serie a firma di volti noti",
-    "source": "TalkyMedia, LifestyleBlog (luglio 2026)",
-    "affidabilita": "secondaria",
-    "target": 5,
-    "date": "2026-07-13",
-    "brief": "Rai ha presentato tre nuovi podcast Original su RaiPlay Sound: 'Fantastiche' con Manila Nazzaro dedicato alle icone della tv italiana, 'Spiritual Hub' con la medium Elisabetta Lupano, e 'Dialogare Oggi' sull'adolescenza contemporanea curato dallo psicoterapeuta Filippo Pergola, con episodi usciti dal 6 luglio 2026.",
-    "angles": [
-      "Come un editore pubblico costruisce un palinsesto podcast per target diversi",
-      "Format 'a tema' con conduttore-personaggio noto vs format tecnico-verticale: due strade diverse per chi inizia"
-    ],
-    "hooks": [
-      "Pensi che la Rai coi podcast non ci capisca niente? Ha appena lanciato tre show Original con nomi noti dietro al microfono, mica gente a caso.",
-      "Ti sembra che il servizio pubblico sia sempre un passo indietro rispetto ai podcast indipendenti? RaiPlay Sound ha rilanciato il suo palinsesto proprio quest'estate, con tre format diversi tra loro.",
-      "Cerchi ispirazione per un format 'con conduttore' invece che il solito duo di amici al microfono? Guarda cosa ha messo in piedi la Rai con volti già conosciuti dal pubblico."
+      "Hai registrato un episodio con il ventilatore acceso e ora te ne penti? Il nuovo Adobe Podcast riesce a separare voce, rumore e musica in tracce diverse, gratis.",
+      "Pensi che ripulire l'audio voglia dire per forza appiattire tutto e sembrare finti? Ora c'è un'opzione che tiene un po' dell'acustica vera della stanza, invece di cancellarla del tutto.",
+      "Ti manca uno studio insonorizzato e pensi che si senta sempre? Con la separazione delle tracce puoi isolare la tua voce anche da una registrazione fatta in cucina."
     ]
   }
 ]
