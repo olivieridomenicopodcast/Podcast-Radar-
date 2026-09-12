@@ -1,132 +1,135 @@
 [
   {
-    "id": "youtube-engaged-views-gonfiate-2026-09",
-    "title": "YouTube conta le view dal primo fotogramma: Podtrac dice che i podcast escono gonfiati del 36%",
-    "source": "Podtrac, analisi pubblicata il 3 settembre 2026; ripresa da Podnews, ppc.land e Inside Radio (settembre 2026)",
+    "id": "audacity-4-0-major-update-2026-09",
+    "title": "Audacity 4.0 è finalmente qui: la storica app gratuita per l'editing audio si rifà da capo",
+    "source": "Audacity, changelog e comunicato ufficiale (3 settembre 2026); ripreso da guide comparative Adobe Podcast vs Descript (settembre 2026)",
     "affidabilita": "primaria",
     "target": 8,
     "date": "2026-09-03",
-    "brief": "Dal 24 agosto 2026 YouTube conta una 'view' pubblica dal primissimo fotogramma di riproduzione, incluso l'autoplay in home. Podtrac ha analizzato 84,2 milioni di visualizzazioni di episodi podcast e trovato che le 'Engaged Views' reali sono in media il 64% del totale. Le metriche usate per la monetizzazione restano legate alle Engaged Views, non al nuovo numero pubblico.",
+    "brief": "Audacity ha rilasciato la versione 4.0.0, il primo major update in anni per l'editor audio gratuito più usato da chi inizia a fare podcast. Porta una revisione dell'interfaccia e degli strumenti di editing di base, restando il punto d'ingresso più economico per chi non vuole o non può pagare un abbonamento.",
     "angles": [
-      "Perché il numero di view che vedi ora su YouTube dice poco sull'ascolto reale del tuo show",
-      "Come guardare le Engaged Views invece delle view pubbliche quando valuti la crescita di un podcast video",
-      "Cosa NON cambia (guadagni, idoneità al programma partner) rispetto a cosa cambia (il numero che vede uno sponsor)"
+      "Perché Audacity resta la scelta giusta per chi ha budget zero, e cosa è davvero cambiato in questa versione",
+      "Confronto pratico: cosa puoi fare gratis su Audacity 4.0 vs cosa ti serve davvero pagare su Descript o Adobe Podcast",
+      "Tutorial: le prime 3 cose da provare nella nuova versione se vieni dalla 3.x"
     ],
     "hooks": [
-      "Ti sei svegliato con più visualizzazioni su YouTube senza aver cambiato una virgola? Non sei diventato bravo di colpo, hanno solo cambiato come contano.",
-      "Stai per mandare le tue statistiche YouTube a un possibile sponsor? Un terzo di quelle view, dice Podtrac, sono gente sparita dopo un fotogramma.",
-      "Pensi che più view pubbliche vogliano dire più ascoltatori veri? Da fine agosto YouTube conta anche chi scappa un secondo dopo aver cliccato play."
+      "Stai ancora usando Audacity solo perché è quello gratis? Hanno appena rifatto l'app da capo, e forse è il momento di dargli una seconda occasione.",
+      "Hai paura di spendere soldi in software prima ancora di sapere se il podcast ti piace davvero? Buone notizie: l'editor gratuito storico si è appena aggiornato sul serio.",
+      "Pensi che editing gratuito voglia dire editing scadente per forza? Audacity ha rilasciato la versione 4.0, e no, non è più il programma bruttino che ricordi tu."
     ]
   },
   {
-    "id": "buzzsprout-directory-mancanti-2026-08",
-    "title": "Buzzsprout scopre che il 70% dei podcast attivi manca da alcune directory",
-    "source": "Buzzsprout, comunicato ufficiale (13 agosto 2026)",
+    "id": "youtube-engaged-views-podtrac-2026-09",
+    "title": "Podtrac: le tue view su YouTube sono gonfiate in media del 36%, ecco come leggerle davvero",
+    "source": "Podtrac, analisi pubblicata il 3 settembre 2026; ripresa da Podnews e Inside Radio (settembre 2026)",
     "affidabilita": "primaria",
     "target": 8,
-    "date": "2026-08-13",
-    "brief": "Buzzsprout ha rilevato che oltre il 70% dei podcast attivi sulla piattaforma non è presente in tutte le directory audio disponibili, e ha lanciato una funzione di invio automatico a 16 directory con un clic. In due settimane oltre 5.200 show hanno aggiunto almeno una directory mancante.",
+    "date": "2026-09-03",
+    "brief": "Dal 24 agosto 2026 YouTube conta una 'view' pubblica dal primissimo fotogramma, anche in autoplay. Podtrac ha analizzato 84,2 milioni di visualizzazioni di episodi podcast e trovato che le Engaged View reali, cioè chi resta oltre pochi secondi, sono in media solo il 64% del numero pubblico. Guadagni e idoneità al Partner Program restano legati alle Engaged View, non al numero mostrato in pubblico.",
     "angles": [
-      "L'errore da principianti più sottovalutato: pubblicare senza controllare dove il podcast è davvero visibile",
-      "Checklist di distribuzione da rifare a ogni episodio pubblicato",
-      "Come verificare la presenza del proprio show su Apple, Spotify, Amazon, Podcast Index"
+      "Come spiegare a un ospite o a uno sponsor perché il numero pubblico di YouTube non è il tuo ascolto reale",
+      "Dove trovare le Engaged View nello Studio invece di fidarti del contatore che vedi in home",
+      "Perché confrontare due show solo sulle view pubbliche di YouTube oggi è un errore metodologico"
     ],
     "hooks": [
-      "Hai pubblicato il tuo podcast e pensi che ora sia ovunque? Buzzsprout dice che 7 show su 10 mancano da almeno una directory importante, magari anche il tuo.",
-      "Ti chiedi perché nessuno trova il tuo show cercandolo su un'app diversa da quella che usi tu? Probabilmente non ce l'hai mai mandato, e non sei il solo.",
-      "Pensavi che bastasse un host per essere 'su tutte le piattaforme'? A quanto pare no, e la buona notizia è che si sistema con un clic."
+      "Hai controllato le view del tuo episodio su YouTube e ti sei sentito un genio? Da fine agosto contano anche chi scappa dopo un secondo, quindi rilassati un attimo.",
+      "Stai per scrivere a un sponsor vantando le tue view su YouTube? Podtrac dice che un terzo di quel numero sono persone che non hanno ascoltato niente.",
+      "Ti confronti sempre con altri podcast guardando solo le view pubbliche su YouTube? Da agosto quel numero non significa più quello che pensavi, e vale per tutti, non solo per te."
     ]
   },
   {
-    "id": "descript-jump-cut-scheduling-2026-08",
-    "title": "Descript rifà i jump cut e aggiunge la registrazione programmata",
-    "source": "Descript, blog e changelog ufficiali (5 agosto 2026)",
+    "id": "spotify-creator-analytics-engagement-2026-06",
+    "title": "Spotify aggiorna le analytics dei creator: il play conta solo dopo 30 secondi, e arriva la tab Engagement",
+    "source": "Spotify Newsroom, 'New Standard for Podcast Plays and Upgraded Creator Analytics' (11 giugno 2026)",
     "affidabilita": "primaria",
     "target": 7,
-    "date": "2026-08-05",
-    "brief": "Descript ha rilasciato jump cut ricostruiti (con opzione per rigenerare separatamente video, audio o entrambi e ridurre gli stacchi visibili), la possibilità di programmare in anticipo una Room di registrazione, editing delle immagini disegnandoci sopra e supporto ai modelli AI più recenti.",
+    "date": "2026-06-11",
+    "brief": "Spotify ha cambiato la definizione di 'play' per un episodio: conta solo chi ascolta o guarda per almeno 30 secondi. Ha anche introdotto una tab Engagement che separa il pubblico che ti ascolta per la prima volta da chi torna, e confronta ogni episodio con lo storico del tuo show.",
     "angles": [
-      "Tutorial pratico per ottenere jump cut puliti quando monti da solo",
-      "La funzione di scheduling è utile per chi organizza interviste da remoto",
-      "Quando l'editing AI aiuta davvero e quando serve ancora l'orecchio umano"
+      "Come leggere il rapporto tra ascoltatori nuovi e ascoltatori fedeli per capire se stai crescendo o solo bruciando pubblico nuovo",
+      "Perché uno standard comune di 'play' aiuta chi confronta il proprio show con altri simili",
+      "Cosa guardare per primo la mattina dopo aver pubblicato un episodio"
     ],
     "hooks": [
-      "Odi quel salto brutto quando tagli una pausa troppo lunga? Descript ha appena rifatto il modo in cui gestisce i jump cut, proprio per quello.",
-      "Ti scordi sempre di mandare in tempo il link della registrazione all'ospite? Ora puoi programmare la Room con giorni di anticipo e toglierti il pensiero.",
-      "Pensi che l'editing con l'AI sia solo un trucco da markettari? Anche gli strumenti seri ci stanno investendo, la domanda è quando conviene usarlo davvero."
-    ]
-  },
-  {
-    "id": "everywhere-agenzia-creator-multipiattaforma-2026-09",
-    "title": "Nasce Everywhere, l'agenzia UK che tratta i creator come multipiattaforma, non solo podcast",
-    "source": "The Media Leader UK (2 settembre 2026); ripreso da Joycast (3 settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-02",
-    "brief": "Tre veterani dell'audio digitale (ex Acast, Audioboom, BBC, Global) hanno lanciato Everywhere, agenzia commerciale per creator che si muovono tra YouTube, TikTok, podcast, newsletter ed eventi live invece che restare legati al solo feed RSS.",
-    "angles": [
-      "Il podcast come parte di un ecosistema multicanale, non prodotto isolato",
-      "Perché pensare oltre l'RSS feed conviene anche a chi inizia in piccolo"
-    ],
-    "hooks": [
-      "Continui a pensare al tuo podcast come a 'solo audio da mettere su Spotify'? A Londra hanno appena fondato un'agenzia che tratta i creator come roba multipiattaforma, punto e basta.",
-      "Hai un feed RSS e ti sembra già abbastanza? Chi il mestiere lo fa da vent'anni ora scommette sui creator che vivono ovunque, non in un solo posto.",
-      "Ti stai chiedendo se il podcast basta da solo per costruire un pubblico? Pare che nemmeno chi ha lavorato per Acast e BBC ci creda più."
-    ]
-  },
-  {
-    "id": "youtube-headline-partner-ipa-londra-2026-09",
-    "title": "YouTube diventa sponsor principale degli Independent Podcast Awards di Londra",
-    "source": "Podnews, comunicato ufficiale (9 settembre 2026)",
-    "affidabilita": "primaria",
-    "target": 5,
-    "date": "2026-09-09",
-    "brief": "YouTube è stata annunciata come Headline Partner degli Independent Podcast Awards britannici: un rappresentante della piattaforma rivelerà il vincitore assoluto dell'Independent Podcast of the Year alla cerimonia del 4 novembre 2026 a Kings Place, Londra.",
-    "angles": [
-      "Quanto le grandi piattaforme stiano investendo nel riconoscimento dei podcast indipendenti",
-      "Perché candidarsi a premi e contest può essere un obiettivo concreto per chi inizia ora"
-    ],
-    "hooks": [
-      "Pensi che i premi per i podcast siano roba solo per chi ha già uno studio da mille euro? A novembre a Londra ne assegnano uno con YouTube come sponsor principale, e la candidatura non chiede fama.",
-      "Ti sembra che il tuo podcast da cameretta non conti niente per nessuno? Gli Independent Podcast Awards esistono apposta per chi non ha budget da network.",
-      "Hai mai pensato di candidare il tuo show a un premio? Da quest'anno lo fa anche YouTube, mettendoci la faccia come partner principale."
+      "Guardi ancora solo il numero totale di ascolti e ti sembra tutto ok? Spotify ora ti dice quanti sono nuovi e quanti tornano, e la seconda cifra conta più della prima.",
+      "Ti sei mai chiesto se il tuo pubblico ti segue o ti scopre e sparisce? Da giugno c'è una tab apposta su Spotify for Creators, e forse fa più paura di quanto pensi.",
+      "Pensi che un play sia un play e basta? Da giugno Spotify lo conta solo dopo 30 secondi, quindi qualche numero di prima era gonfiato pure lì."
     ]
   },
   {
     "id": "italian-podcast-awards-piacenza-2026-09",
-    "title": "IlPod - Italian Podcast Awards, quinta edizione il 23 settembre a Piacenza",
-    "source": "PiacenzaSera, IlPiacenza (10 settembre 2026); AskaNews (luglio 2026)",
+    "title": "Quinta edizione degli Italian Podcast Awards il 23 settembre a Piacenza, ingresso libero in piazza",
+    "source": "PiacenzaSera, IlPiacenza, QuotidianPost (10 settembre 2026)",
     "affidabilita": "secondaria",
     "target": 6,
     "date": "2026-09-23",
-    "brief": "Il 23 settembre, in Piazza Cavalli a Piacenza, torna IlPod - Italian Podcast Awards a ingresso libero: tra le categorie Podcast dell'Anno, Podcast Indie dell'Anno, il Premio dell'Academy assegnato dai ragazzi della Piacenza Podcast Academy, e il Premio Storia del Podcast 2026, vinto quest'anno da 'Tintoria' di Daniele Tinti e Stefano Rapone.",
+    "brief": "Il 23 settembre in Piazza Cavalli a Piacenza torna IlPod - Italian Podcast Awards, quinta edizione, con Podcast dell'Anno, Podcast Indie dell'Anno, il Premio dell'Academy assegnato dai ragazzi della Piacenza Podcast Academy e il nuovo Premio Storia del Podcast 2026. La Piacenza Podcast Academy, nata nel 2026, ha fatto lavorare per cinque mesi ragazzi tra 14 e 25 anni insieme a professionisti del settore su scrittura, registrazione e montaggio.",
     "angles": [
-      "Cosa rende un podcast italiano 'da premio' secondo la giuria di quest'anno",
-      "Case study sulla longevità editoriale di 'Tintoria'",
-      "Invito alla community a seguire l'evento come benchmark del settore italiano"
+      "Cosa vuol dire che esiste già un'academy gratuita per ragazzi che vogliono imparare a fare podcast",
+      "Perché seguire i premi di settore aiuta a capire cosa la community italiana considera fatto bene",
+      "Format replicabile: come un comune può costruire una scena podcast locale partendo da zero"
     ],
     "hooks": [
-      "Pensi che i premi per podcast siano solo roba americana? Il 23 settembre a Piacenza va in scena la quinta edizione di quello italiano, e si entra gratis.",
-      "Ti chiedi cosa serva davvero per fare un podcast che dura nel tempo? Il premio Storia del Podcast di quest'anno lo danno a chi lo fa da anni senza fermarsi mai.",
-      "Segui ancora solo i soliti nomi americani quando pensi al podcasting? A Piacenza c'è una scena italiana viva, con tanto di academy per chi vuole imparare da zero."
+      "Pensi che imparare a fare podcast richieda soldi che non hai? A Piacenza c'è un'academy gratuita per ragazzi tra 14 e 25 anni, e il 23 settembre si vede il risultato in piazza.",
+      "Ti sembra che i premi per i podcast siano roba solo da grandi network americani? Il 23 settembre a Piacenza ne assegnano uno anche a chi ha appena iniziato, categoria Indie compresa.",
+      "Cerchi la prova che in Italia si può imparare il podcasting sul serio anche fuori da Milano o Roma? Guarda cosa hanno messo in piedi a Piacenza in cinque mesi."
     ]
   },
   {
-    "id": "raiplay-sound-nuova-stagione-original-2026-07",
-    "title": "RaiPlay Sound rilancia i podcast Original con tre nuove serie a firma di volti noti",
-    "source": "TalkyMedia, LifestyleBlog (luglio 2026)",
+    "id": "osservatorio-confcommercio-ascolto-podcast-italia-2026",
+    "title": "Un italiano su tre ascolta podcast: il dato dell'Osservatorio Impresa Cultura Italia-Confcommercio",
+    "source": "Osservatorio Impresa Cultura Italia-Confcommercio (dati pubblicati marzo 2026); dato ripreso nella copertura degli Italian Podcast Awards (settembre 2026)",
     "affidabilita": "secondaria",
-    "target": 5,
-    "date": "2026-07-13",
-    "brief": "Rai ha presentato tre nuovi podcast Original su RaiPlay Sound: 'Fantastiche' con Manila Nazzaro dedicato alle icone della tv italiana, 'Spiritual Hub' con la medium Elisabetta Lupano, e 'Dialogare Oggi' sull'adolescenza contemporanea curato dallo psicoterapeuta Filippo Pergola, con episodi usciti dal 6 luglio 2026.",
+    "target": 6,
+    "date": "2026-09-10",
+    "brief": "Secondo l'Osservatorio Impresa Cultura Italia-Confcommercio, il 36% degli italiani ascolta podcast, in crescita di 6 punti percentuali rispetto al 2022: un italiano su tre ha integrato l'ascolto di podcast nelle proprie abitudini quotidiane. Il dato torna a circolare in questi giorni legato alla copertura degli Italian Podcast Awards di Piacenza.",
     "angles": [
-      "Come un editore pubblico costruisce un palinsesto podcast per target diversi",
-      "Format 'a tema' con conduttore-personaggio noto vs format tecnico-verticale: due strade diverse per chi inizia"
+      "Perché il mercato italiano dei podcast non è più di nicchia, e cosa significa per chi vuole iniziare ora",
+      "Come usare un dato di crescita per convincere un cliente o un ospite scettico a fare un podcast",
+      "Il gap tra percezione (il podcast come cosa per pochi) e realtà (un terzo della popolazione)"
     ],
     "hooks": [
-      "Pensi che la Rai coi podcast non ci capisca niente? Ha appena lanciato tre show Original con nomi noti dietro al microfono, mica gente a caso.",
-      "Ti sembra che il servizio pubblico sia sempre un passo indietro rispetto ai podcast indipendenti? RaiPlay Sound ha rilanciato il suo palinsesto proprio quest'estate, con tre format diversi tra loro.",
-      "Cerchi ispirazione per un format 'con conduttore' invece che il solito duo di amici al microfono? Guarda cosa ha messo in piedi la Rai con volti già conosciuti dal pubblico."
+      "Pensi ancora che il podcast in Italia lo ascolti solo una nicchia di smanettoni? Un dato di quest'anno dice che è uno su tre, e cresce ogni anno.",
+      "Ti hanno detto che il podcasting italiano è morto prima di nascere? I numeri dell'Osservatorio Confcommercio raccontano una crescita di 6 punti, mica un crollo.",
+      "Devi convincere qualcuno che vale la pena investire tempo in un podcast? Portagli questo numero: un italiano su tre lo ascolta già, non serve inventarsi il mercato."
+    ]
+  },
+  {
+    "id": "podcast-video-audio-hybrid-trend-2026",
+    "title": "Video sì, ma non solo: l'80% di chi ascolta podcast guarda e ascolta insieme, solo il 7% resta sul solo video",
+    "source": "Analisi di settore Podbean e Podcast.co sui trend 2026 (report pubblicati nel corso del 2026)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-09-01",
+    "brief": "Secondo i principali report di trend 2026, il podcasting è ormai un formato audio-video ibrido: la maggioranza degli show viene registrata in video e poi declinata anche in audio, e l'80% del pubblico guarda e ascolta secondo il contesto, mentre solo il 7% consuma esclusivamente in video. I clip verticali estratti dagli episodi lunghi restano la leva principale per la promozione sui social.",
+    "angles": [
+      "Perché non devi scegliere tra solo audio e solo video, ma pensare in ibrido fin dal setup",
+      "Come organizzare la registrazione video pensando già ai clip verticali da tagliare dopo",
+      "I limiti reali del formato video: cosa perdi (tempo, attrezzatura) e cosa guadagni (distribuzione)"
+    ],
+    "hooks": [
+      "Ti stai ancora chiedendo se il tuo podcast deve avere una telecamera? La maggior parte del pubblico oggi guarda E ascolta secondo il momento, non uno o l'altro.",
+      "Hai paura di investire in una webcam pensando che nessuno guardi i podcast in video? Solo il 7% guarda solo video, ma l'80% lo fa insieme all'audio: significa che perdi qualcosa se non lo prevedi.",
+      "Pensi che il video sia solo per chi vuole fare clip virali su TikTok? È anche per chi vuole essere trovato da chi, quel giorno, preferisce guardare invece di ascoltare."
+    ]
+  },
+  {
+    "id": "errori-principianti-microfono-ambiente-2026",
+    "title": "L'errore più comune di chi inizia: sbagliare microfono o ignorare la stanza in cui registra",
+    "source": "Guide comparative su microfoni per podcast, StoryGenius e MigliorMicrofono.it (2026)",
+    "affidabilita": "segnale debole",
+    "target": 6,
+    "date": "2026-09-01",
+    "brief": "Le guide più consultate per chi inizia a fare podcast in Italia segnalano due errori ricorrenti: spendere troppo su un microfono che non si saprà mai sfruttare, o comprarne uno sbagliato e doverlo cambiare, e registrare in una stanza piena di superfici dure che riverberano, ignorando l'effetto di tappeti, tende e librerie piene nel ridurre l'eco.",
+    "angles": [
+      "Contenuto evergreen da coach: i due errori che vedo sempre nei primi episodi di chi inizia",
+      "Prima il microfono o prima la stanza? Perché la seconda conta più di quanto pensi",
+      "Test pratico: registra lo stesso audio in due stanze diverse e fai sentire la differenza"
+    ],
+    "hooks": [
+      "Hai appena comprato un microfono da 300 euro e pensi che il problema audio sia risolto? Se registri in una stanza vuota con pavimento e vetri, quel microfono sta solo catturando meglio l'eco.",
+      "Ti sei convinto che serva il microfono giusto prima di iniziare? Il 90% del suono di merda che sento nei podcast dei principianti viene dalla stanza, non dal microfono.",
+      "Stai per comprare il terzo microfono in un anno perché quello prima non andava bene? Forse il problema non è mai stato il microfono."
     ]
   }
 ]

@@ -1,37 +1,37 @@
 {
-  "aggiornato": "2026-09-10",
+  "aggiornato": "2026-09-12",
   "citta": "Pesaro (PU), Marche, Italia",
-  "fonti": ["3bmeteo.com", "ilmeteo.it", "ilrestodelcarlino.it", "occhioallanotizia.it", "corriereadriatico.it", "allertameteo.regione.marche.it"],
+  "fonti": ["meteo.it", "corriereadriatico.it", "meteolive.it", "maremmaoggi.net", "allertameteo.regione.marche.it", "protezionecivile.gov.it"],
   "previsioni": [
     {
-      "data": "2026-09-10",
-      "giorno": "oggi, giovedì",
-      "temp_min_c": 23,
-      "temp_max_c": 31,
-      "condizioni": "Parzialmente nuvoloso al mattino, cielo che si copre nel pomeriggio fino a diventare coperto in serata con rovesci (circa 9mm di pioggia attesi) al passaggio di un fronte instabile",
-      "vento": "Moderati da Sud-Ovest al mattino, deboli da Sud-Ovest al pomeriggio, con raffiche durante il passaggio del fronte temporalesco",
-      "mare": "Poco mosso",
-      "allerta": "ATTIVA - Allerta arancione (bollettino di criticità Protezione Civile Marche n. 046/2026, valido dalle 14:00 di mercoledì 9 alle 00:00 di venerdì 11 settembre) per temporali forti e rischio idrogeologico/idraulico: zone settentrionali interne e collinari-costiere, che includono Pesaro-Urbino, in arancione, resto della regione in giallo. Rischio nubifragi, grandine, fulmini frequenti e forti raffiche di vento."
-    },
-    {
-      "data": "2026-09-11",
-      "giorno": "domani, venerdì",
-      "temp_min_c": 21,
-      "temp_max_c": 25,
-      "condizioni": "Cielo da poco nuvoloso a nuvoloso, con rovesci e temporali residui in attenuazione entro sera",
-      "vento": "Moderati da Nord-Ovest al mattino, moderati da Nord-Nord-Est al pomeriggio",
-      "mare": "Mosso, temperatura dell'acqua intorno ai 27,5°C",
-      "allerta": "Il bollettino arancione scade alle 00:00 di venerdì 11; al momento della ricerca non risulta un nuovo bollettino colorato specifico per Pesaro-Urbino per la giornata, anche se la stampa segnala la perturbazione ancora attiva sul Centro Italia."
-    },
-    {
       "data": "2026-09-12",
-      "giorno": "dopodomani, sabato",
+      "giorno": "oggi, venerdì",
+      "temp_min_c": 19,
+      "temp_max_c": 25,
+      "condizioni": "Nuvolosità di passaggio, senza fenomeni significativi previsti",
+      "vento": "Moderato da Ovest-Nord-Ovest al mattino (19-28 km/h), moderato da Nord-Nord-Ovest al pomeriggio (19-29 km/h)",
+      "mare": "Poco mosso",
+      "allerta": "Nessuna allerta attiva per Pesaro-Urbino secondo il bollettino di criticità della Protezione Civile; il bollettino di vigilanza nazionale non segnala fenomeni avversi per la giornata. Resta memoria dell'allerta arancione per temporali forti scattata il 10 settembre, ormai rientrata."
+    },
+    {
+      "data": "2026-09-13",
+      "giorno": "domani, sabato",
       "temp_min_c": 20,
-      "temp_max_c": 28,
-      "condizioni": "Dati parzialmente discordanti tra le fonti: alcune indicano tempo in prevalenza nuvoloso con schiarite, altre un minimo depressionario in approfondimento con nuvolosità in aumento dal mattino e peggioramento pomeridiano con rovesci sparsi, specie sulla costa settentrionale",
-      "vento": "Deboli da Nord-Ovest in rotazione a Nord-Est, con possibili raffiche fino a 41 km/h da Est secondo alcune fonti",
-      "mare": "Da poco mosso a mosso, temperatura dell'acqua intorno ai 27,1°C",
-      "allerta": "Nessun bollettino di allerta colorata specifico trovato per Pesaro-Urbino per sabato; la stampa nazionale descrive il weekend come la fine dell'ondata di caldo estivo con instabilità residua su Centro-Sud Italia, ma è una tendenza generale, non un bollettino confermato."
+      "temp_max_c": 29,
+      "condizioni": "Miglioramento con ampio ritorno del sole, pomeriggio soleggiato e molto caldo; residua instabilità con qualche rovescio possibile sui rilievi dell'entroterra, improbabile sulla costa",
+      "vento": "Deboli, a regime di brezza",
+      "mare": "Poco mosso o calmo",
+      "allerta": "Nessun bollettino di allerta colorata per Pesaro-Urbino al momento della ricerca"
+    },
+    {
+      "data": "2026-09-14",
+      "giorno": "dopodomani, domenica",
+      "temp_min_c": 21,
+      "temp_max_c": 32,
+      "condizioni": "Dati parzialmente discordanti tra le fonti: alcune previsioni indicano un ritorno a valori nella norma stagionale (26-30 gradi) con fine dell'ondata di caldo, altre una nuova fiammata con massime fino a 28-34 gradi sul settore adriatico; al mattino ampie schiarite sull'Adriatico, pomeriggio soleggiato lungo la costa",
+      "vento": "Deboli da Nord-Ovest in rotazione a Nord-Est, con possibili raffiche più intense secondo alcune fonti",
+      "mare": "Da poco mosso a mosso",
+      "allerta": "Nessun bollettino di allerta colorata specifico trovato per Pesaro-Urbino per domenica; solo tendenze generali di stampa, non un bollettino confermato"
     }
   ]
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "archgoat-nightbringer-lightbringer-2026-09",
+    "title": "Gli Archgoat pubblicano 'Nightbringer, Lightbringer' via Debemur Morti",
+    "source": "Ghost Cult Magazine, 'New Music Friday' (11 settembre 2026); The Razor's Edge",
+    "affidabilita": "primaria",
+    "date": "2026-09-11",
+    "brief": "La band finlandese di black/death metal Archgoat ha pubblicato l'11 settembre il nuovo album 'Nightbringer, Lightbringer' per Debemur Morti Productions, tra le principali uscite metal della settimana insieme a decine di altri titoli di nicchia."
+  },
+  {
+    "id": "anthrax-cursum-perficio-annuncio-2026-09",
+    "title": "Anthrax annunciano 'Cursum Perficio', in uscita il 18 settembre",
+    "source": "Wikipedia (voce album), Loudwire 2026 Hard Rock + Metal Album Release Calendar",
+    "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "Gli Anthrax hanno in calendario l'uscita del nuovo album 'Cursum Perficio' per il 18 settembre 2026, uno degli album più attesi della fascia metà settembre secondo i calendari di settore."
+  },
+  {
     "id": "slipknot-arsenal-2026-09",
     "title": "Slipknot pubblicano a sorpresa 'Arsenal', primo inedito in oltre tre anni",
     "source": "Blabbermouth.net, Consequence, Kerrang.com, Loudersound (9 settembre 2026)",
@@ -13,7 +29,15 @@
     "source": "Blabbermouth.net, Loudersound, live-metal.com (7-8 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-08",
-    "brief": "Gli Spiritbox hanno pubblicato senza preavviso 'Mourning', il primo inedito dopo il secondo album 'Tsunami Sea', con video diretto dal chitarrista Mike Stringer e Alex Bemis. Esce pochi giorni prima del tour europeo/UK della band con Jinjer e Dying Wish, che parte il 12 settembre a Glasgow."
+    "brief": "Gli Spiritbox hanno pubblicato senza preavviso 'Mourning', il primo inedito dopo il secondo album 'Tsunami Sea', con video diretto dal chitarrista Mike Stringer e Alex Bemis. Esce pochi giorni prima del tour europeo/UK della band con Jinjer e Dying Wish, partito il 12 settembre da Glasgow."
+  },
+  {
+    "id": "architects-machine-teaser-2026-09",
+    "title": "Gli Architects annunciano il nuovo singolo 'Machine' in uscita il 16 settembre",
+    "source": "theprp.com (9 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-16",
+    "brief": "La band metalcore britannica Architects ha pubblicato un teaser confermando che il nuovo brano 'Machine' uscirà mercoledì 16 settembre 2026, primo assaggio di materiale inedito dopo l'ultimo ciclo di album e tour."
   },
   {
     "id": "havok-ultimate-weapon-milano-2026-09",
@@ -21,30 +45,14 @@
     "source": "Blabbermouth.net, live-metal.com (8-9 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-08",
-    "brief": "I thrasher del Colorado Havok hanno pubblicato il singolo 'The Ultimate Weapon' proprio mentre parte il loro tour europeo (con Blood Red Throne, Xonor, Eradikated), iniziato il 10 settembre a Francoforte e con tappa italiana il 27 settembre al Lime Club di Milano."
+    "brief": "I thrasher del Colorado Havok hanno pubblicato il singolo 'The Ultimate Weapon' proprio mentre parte il loro tour europeo con Blood Red Throne, Xonor ed Eradikated, iniziato il 10 settembre a Francoforte e con tappa italiana il 27 settembre al Lime Club di Milano."
   },
   {
-    "id": "architects-machine-teaser-2026-09",
-    "title": "Gli Architects annunciano il nuovo singolo 'Machine' in uscita il 16 settembre",
-    "source": "theprp.com (9 settembre 2026)",
+    "id": "behemoth-dimmu-borgir-dark-funeral-milano-2026-10",
+    "title": "Behemoth, Dimmu Borgir e Dark Funeral insieme all'Alcatraz di Milano il 13 ottobre",
+    "source": "Metal Hammer Italia, sezione Eventi; TicketOne",
     "affidabilita": "secondaria",
-    "date": "2026-09-09",
-    "brief": "La band metalcore britannica Architects ha pubblicato un teaser confermando che il nuovo brano 'Machine' uscirà mercoledì 16 settembre 2026, primo assaggio di materiale inedito dopo l'ultimo ciclo di album e tour."
-  },
-  {
-    "id": "enterprise-earth-neo-promethean-2026-09",
-    "title": "Enterprise Earth pubblicano 'Neo-Promethean' prima del tour europeo",
-    "source": "theprp.com, Lambgoat (8 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-08",
-    "brief": "La band deathcore Enterprise Earth ha pubblicato 'Neo-Promethean', il primo inedito del 2026 prodotto dal chitarrista Gabe Mangold, in vista del prossimo tour europeo/UK a supporto di Humanity's Last Breath e Vildhjarta."
-  },
-  {
-    "id": "neurosis-nuove-date-tour-2026-09",
-    "title": "I Neurosis annunciano nuove date di tour per 2026-2027",
-    "source": "Blabbermouth.net, theprp.com (9 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-09",
-    "brief": "I veterani del post-metal Neurosis hanno aggiunto nuove date negli Stati Uniti (tra cui Brooklyn, Chicago, Portland, Seattle e una data a Boston nell'ambito del 'Saddest Day' dei Converge) più una tappa a Los Angeles il 2 gennaio 2027 e due set al Roadburn Festival di aprile 2027, a supporto dell'album 'An Undying Love for a Burning World'. La prevendita generale parte l'11 settembre."
+    "date": "2026-10-13",
+    "brief": "Il 13 ottobre l'Alcatraz di Milano ospita un cartellone di peso per il black metal internazionale, con Behemoth, Dimmu Borgir e Dark Funeral sullo stesso palco."
   }
 ]

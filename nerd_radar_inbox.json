@@ -1,56 +1,65 @@
 [
   {
-    "id": "kirby-world-beyond-annuncio-2026-09",
-    "title": "Nintendo annuncia Kirby and the World Beyond, primo capitolo a mondo libero della serie",
-    "source": "GameInformer, Anime News Network (9 settembre 2026)",
+    "id": "terni-comics-2026-quarta-edizione",
+    "title": "Terni Comics 2026: quarta edizione dall'11 al 13 settembre al PalaTerni",
+    "source": "TerniToday, La Nazione Umbria, Terni Tomorrow (7-11 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-11",
+    "brief": "Al PalaTerni - Umbria Forum si svolge dall'11 al 13 settembre la quarta edizione di Terni Comics, con il concerto di apertura di Giorgio Vanni il giorno 11, quattro grandi ospiti internazionali e un roster ampio di content creator italiani del fumetto e della cultura pop.",
+    "tipo": "fiera di settore"
+  },
+  {
+    "id": "milano-comics-games-2026-22esima-edizione",
+    "title": "Milano Comics & Games, 22ª edizione il 12 e 13 settembre a Malpensa Fiere",
+    "source": "VareseNoi (7 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-12",
+    "brief": "Malpensa Fiere ospita il 12 e 13 settembre la 22ª edizione di Milano Comics & Games, con ospiti confermati lo streamer e gamer Xiuder, l'illustratore e YouTuber RichardHTT ed Edoardo Brugnoli, 'il Pianista degli Anime', con un format live di quiz musicale a tema anime.",
+    "tipo": "fiera di settore"
+  },
+  {
+    "id": "nintendo-direct-40-anni-zelda-kirby-2026-09",
+    "title": "Doppio Nintendo Direct: remake di Ocarina of Time datato al 5 novembre, annunciato Kirby a mondo aperto",
+    "source": "Nintendo, comunicati ufficiali (Direct 8 e 9 settembre 2026); Nintendo Life, GameInformer",
     "affidabilita": "primaria",
     "date": "2026-09-09",
-    "brief": "Durante un Nintendo Direct, Nintendo e HAL Laboratory hanno rivelato Kirby and the World Beyond, nuovo platform 3D per Switch 2 con design a mondo libero, una prima assoluta per la serie. Il gioco è previsto per la primavera 2027, in coincidenza con il 35° anniversario di Kirby.",
+    "brief": "Nello speciale Direct per i 40 anni di The Legend of Zelda, Nintendo ha fissato al 5 novembre 2026 l'uscita su Switch 2 del remake di Ocarina of Time. Il giorno dopo, in un Direct generico, HAL Laboratory ha rivelato Kirby and the World Beyond, primo capitolo a mondo libero della serie, previsto per la primavera 2027.",
     "tipo": "annuncio videogioco"
   },
   {
-    "id": "monster-hunter-wilds-switch2-2026-09",
-    "title": "Monster Hunter Wilds arriva su Nintendo Switch 2 a dicembre",
-    "source": "GameInformer (9 settembre 2026)",
+    "id": "ea-sports-nhl-27-uscita-2026-09",
+    "title": "EA Sports NHL 27 esce l'11 settembre con nuova modalità Connected Franchise",
+    "source": "EA Sports, comunicato ufficiale (settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-09",
-    "brief": "Capcom ha confermato durante il Nintendo Direct una versione per Switch 2 di Monster Hunter Wilds, in uscita il 4 dicembre 2026, con tutti gli aggiornamenti di contenuto già pubblicati e supporto al gioco in locale.",
-    "tipo": "annuncio videogioco (porting console)"
+    "date": "2026-09-11",
+    "brief": "EA Sports NHL 27 è uscito l'11 settembre su PS5 e Xbox Series X|S, con maggiore realismo nelle arene, una nuova modalità Connected Franchise e Macklin Celebrini in copertina.",
+    "tipo": "uscita videogioco"
   },
   {
-    "id": "witcher3-remastered-switch2-espansione-2026-09",
-    "title": "The Witcher 3: Wild Hunt Remastered su Switch 2 dal 29 settembre, annunciata una nuova espansione",
-    "source": "GoNintendo, Nintendo Everything (9 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-09",
-    "brief": "CD Projekt Red ha annunciato l'arrivo di The Witcher 3: Wild Hunt Remastered su Switch 2 dal 29 settembre 2026 (upgrade gratuito per chi possiede già il gioco su Switch), oltre a una nuova espansione completa, 'Songs of the Past', sviluppata con Fool's Theory e prevista per il 2027.",
-    "tipo": "annuncio videogioco + espansione"
+    "id": "giochi-tavolo-uscite-11-settembre-2026-09",
+    "title": "Disney Villainous 'Come, We Fly!' tra le novità ludiche uscite l'11 settembre",
+    "source": "Giochi sul Nostro Tavolo, House of Games (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-11",
+    "brief": "L'11 settembre sono arrivati nei negozi Disney Villainous - Come, We Fly! e Spectacular, tra le uscite ludiche del mese. Segnalato anche Archeo, gioco cooperativo per famiglie, finalista dell'As d'Or 2026 nella categoria Kids.",
+    "tipo": "uscita gioco da tavolo"
   },
   {
-    "id": "zelda-ocarina-time-remake-data-2026-09",
-    "title": "Fissata la data del remake di Ocarina of Time: 5 novembre su Switch 2",
-    "source": "Nintendo, comunicato ufficiale (Direct dedicato ai 40 anni di Zelda, 8 settembre 2026); Nintendo Life",
-    "affidabilita": "primaria",
-    "date": "2026-09-08",
-    "brief": "Durante lo speciale Direct per i 40 anni di The Legend of Zelda, Nintendo ha confermato che il remake di Ocarina of Time uscirà il 5 novembre 2026 su Switch 2, con un bundle speciale console/Pro Controller disponibile dal 29 ottobre e un tour da concerto orchestrale nel 2027.",
-    "tipo": "annuncio videogioco / evento ufficiale"
-  },
-  {
-    "id": "essen-spiel-2026-espansione-record-2026-09",
+    "id": "essen-spiel-2026-nuova-sala-record-2026-09",
     "title": "SPIEL '26 di Essen si espande in una nuova sala: attesi 230mila visitatori",
     "source": "Comunicato ufficiale organizzatori, spiel-essen.de (3 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-03",
-    "brief": "La fiera Essen Spiel (SPIEL '26, 22-25 ottobre 2026) occuperà per la prima volta anche una nuova Hall 8, con attese circa 230.000 presenze, 921 espositori da 53 paesi e oltre 1.500 giochi nuovi presentati.",
-    "tipo": "fiera di settore / novità organizzative"
+    "brief": "La fiera Essen Spiel, SPIEL '26 dal 22 al 25 ottobre, occuperà per la prima volta anche una nuova Hall 8, con attese circa 230.000 presenze, 921 espositori da 53 paesi e oltre 1.500 giochi nuovi presentati.",
+    "tipo": "fiera di settore"
   },
   {
-    "id": "lucca-comics-awards-2026-finalisti-2026-09",
+    "id": "lucca-comics-awards-2026-finalisti",
     "title": "Lucca Comics Awards 2026: annunciati i 33 fumetti finalisti su oltre 200 candidature",
     "source": "Fumettologica, CorriereNerd, SpazioGames (9 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-09",
-    "brief": "Sono state selezionate 33 opere, su oltre 200 candidature, per gli Yellow Kid e i Gran Guinigi, i massimi riconoscimenti del fumetto assegnati durante Lucca Comics & Games. La premiazione è fissata per il 29 ottobre al Teatro del Giglio, nell'ambito dell'edizione 'LEGACY' per i 60 anni della manifestazione.",
+    "brief": "Sono state selezionate 33 opere, su oltre 200 candidature, per gli Yellow Kid e i Gran Guinigi, i massimi riconoscimenti del fumetto assegnati durante Lucca Comics & Games. La premiazione è fissata per il 29 ottobre al Teatro del Giglio, nell'edizione LEGACY per i 60 anni della manifestazione.",
     "tipo": "fiera di settore / premio fumetti"
   }
 ]

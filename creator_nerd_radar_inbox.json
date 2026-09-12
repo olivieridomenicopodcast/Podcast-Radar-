@@ -1,56 +1,56 @@
 [
   {
-    "id": "modena-nerd-2026-record-2026-09",
-    "title": "Modena Nerd chiude la decima edizione con oltre 29mila presenze",
-    "source": "ModenaToday (7 settembre 2026)",
+    "id": "terni-comics-2026-creator-italiani",
+    "title": "Terni Comics 2026: tanti content creator italiani sul palco insieme a Dario Moccia",
+    "source": "TerniToday, La Nazione Umbria (7-11 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-06",
-    "brief": "La decima edizione di Modena Nerd, andata in scena il 5-6 settembre 2026 a ModenaFiere, ha chiuso con un record di circa 29.000 presenze, in crescita rispetto alle 28mila del 2025. Tra gli ospiti il concerto di Giorgio Vanni e un meet&greet con il doppiatore e content creator Maurizio Merluzzo.",
-    "rilevanza": "Conferma la crescita costante delle fiere nerd italiane e il ruolo dei content creator come richiamo di pubblico, oltre a doppiatori e fumettisti."
+    "date": "2026-09-11",
+    "brief": "Dall'11 al 13 settembre, al PalaTerni, Dario Moccia torna come content creator e divulgatore condividendo il palco con Marco Marzocca, in un roster di ospiti che include Mansikawaii, Redez, Novara, Arkantos, Zergantis, Emanuele Gregori, Jtaz e Poly.",
+    "rilevanza": "Fotografia diretta della scena content creator nerd italiana che si ritrova dal vivo in una fiera di medie dimensioni, fuori dai soliti grandi appuntamenti di Milano o Lucca."
   },
   {
-    "id": "milano-comics-games-2026-creator-2026-09",
-    "title": "Milano Comics & Games conferma i content creator RichardHTT, Xiuder ed Edoardo Brugnoli",
+    "id": "milano-comics-games-2026-creator",
+    "title": "Milano Comics & Games conferma i content creator Xiuder, RichardHTT ed Edoardo Brugnoli",
     "source": "VareseNoi (7 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-07",
-    "brief": "Per la 22ª edizione (12-13 settembre, Malpensa Fiere) sono confermati come ospiti lo streamer/gamer Xiuder, l'illustratore e YouTuber RichardHTT e Edoardo Brugnoli, 'il Pianista degli Anime', con un format live di quiz musicale a tema anime.",
-    "rilevanza": "Esempio diretto di content creator italiani nerd/gaming come protagonisti di un grande evento fieristico imminente."
+    "date": "2026-09-12",
+    "brief": "Per la 22ª edizione, il 12 e 13 settembre a Malpensa Fiere, sono confermati come ospiti lo streamer e gamer Xiuder, l'illustratore e YouTuber RichardHTT ed Edoardo Brugnoli, 'il Pianista degli Anime', con un format live di quiz musicale a tema anime.",
+    "rilevanza": "Esempio diretto di content creator italiani nerd e gaming come protagonisti di un grande evento fieristico in corso in questi giorni."
   },
   {
-    "id": "riftbound-showdown-lucca-2026-09",
-    "title": "A Lucca il primo torneo italiano Showdown Series di Riftbound",
+    "id": "riftbound-showdown-lucca-creator-2026-09",
+    "title": "A Lucca il primo torneo italiano Showdown Series di Riftbound, terreno per creator e streamer TCG",
     "source": "LuccaInDiretta, ProjectNerd (luglio-agosto 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-11",
-    "brief": "Il Polo Fiere di Lucca ospita dall'11 al 13 settembre il primo Showdown Series italiano di Riftbound, il TCG di Riot Games ambientato nell'universo di League of Legends, con qualificazioni dirette al Regional Championship europeo.",
-    "rilevanza": "Evento centrale per la community italiana di TCG e gaming competitivo, terreno frequentato anche da creator e streamer di settore."
+    "brief": "Il Polo Fiere di Lucca ospita dall'11 al 13 settembre il primo Showdown Series italiano di Riftbound, il TCG di Riot Games ambientato nell'universo di League of Legends, con qualificazioni dirette al Regional Championship europeo di Stoccarda.",
+    "rilevanza": "Evento centrale per la community italiana di TCG e gaming competitivo, terreno frequentato anche da creator e streamer di settore che ne coprono i risultati sui propri canali."
+  },
+  {
+    "id": "polemica-conflitto-interessi-recensori-videogiochi-2026-09",
+    "title": "Conflitto d'interessi tra recensori di videogiochi: scoppia la polemica tra Pregianza e Falconero",
+    "source": "OA Plus, 'Il conflitto d'interessi scuote i contents creators' (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-03",
+    "brief": "A inizio settembre il giornalista Pregianza, di Multiplayer.it, ha attaccato duramente in diretta il collega content creator Falconero (Davide Persiani), accusandolo di aver compromesso il mondo delle recensioni videoludiche italiane. Il caso ha riacceso il dibattito sul conflitto d'interessi tra recensori e case produttrici sponsor, e resta oggetto di discussione nei giorni successivi.",
+    "rilevanza": "Dibattito ancora vivo nella community italiana di gaming content creator, con ricadute sulla credibilità del settore delle recensioni sponsorizzate."
+  },
+  {
+    "id": "andrea-lombardi-caffe-amaro-videogiocatori-2026-09",
+    "title": "Andrea Lombardi attacca i videogiocatori nel format 'Caffè amaro', dibattito nella community",
+    "source": "YouTube, canale Andrea Lombardi; ripreso da forum e community gaming italiane (inizio settembre 2026)",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-02",
+    "brief": "Il content creator Andrea Lombardi ha pubblicato due episodi del suo format 'Caffè amaro' criticando duramente i videogiocatori italiani, alimentando un dibattito tra creator e community sul rapporto tra pubblico e industria.",
+    "rilevanza": "Segnale utile per capire i temi divisivi di cui i creator nerd italiani stanno discutendo in queste settimane, in continuità con la polemica sui recensori."
   },
   {
     "id": "lucca-comics-awards-finalisti-creator-2026-09",
-    "title": "Lucca Comics Awards 2026: svelati i 33 fumetti finalisti",
+    "title": "Lucca Comics Awards 2026: svelati i 33 fumetti finalisti, riflettori sui recensori italiani",
     "source": "Fumettologica, CorriereNerd, SpazioGames (9 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-09",
-    "brief": "Selezionate 33 opere su oltre 200 candidature per gli Yellow Kid e i Gran Guinigi, i massimi riconoscimenti del fumetto italiano. La premiazione è il 29 ottobre al Teatro del Giglio, nell'edizione 'LEGACY' per i 60 anni della manifestazione.",
-    "rilevanza": "Notizia cardine per la community fumetti/manga italiana, con ricadute su tutti i creator e recensori che coprono il settore in vista di Lucca Comics 2026."
-  },
-  {
-    "id": "magico-mondo-cosplay-20-anni-2026-09",
-    "title": "Il Magico Mondo del Cosplay festeggia 20 anni al Parco Giardino Sigurtà",
-    "source": "CorriereNerd, Cosplayers Italiani (settembre 2026)",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-06",
-    "brief": "Il più importante raduno cosplay d'Italia ha festeggiato la ventesima edizione (4-6 settembre) con sfilate, musica e ospiti come Giorgio Vanni, Gem Boy e Omar Fantini, richiamando migliaia di appassionati di anime, fumetti e cultura pop.",
-    "rilevanza": "Principale vetrina italiana per cosplayer-creator, molti dei quali attivi anche su YouTube, TikTok e Instagram."
-  },
-  {
-    "id": "giochi-tavolo-novita-settimana-2026-09",
-    "title": "Le novità dei giochi da tavolo della settimana secondo Geek.pizza",
-    "source": "Geek.pizza (9 settembre 2026)",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-09",
-    "brief": "La rassegna settimanale del sito italiano Geek.pizza segnala tra le uscite ludiche della settimana la nuova edizione grafica di Ticket to Ride Europa e il cooperativo Archeo, finalista dell'As d'Or 2026.",
-    "rilevanza": "Segnale debole ma utile per inquadrare i contenuti su cui i creator e recensori italiani di giochi da tavolo stanno probabilmente pubblicando in questi giorni."
+    "brief": "Selezionate 33 opere su oltre 200 candidature per gli Yellow Kid e i Gran Guinigi, i massimi riconoscimenti del fumetto italiano. La premiazione è il 29 ottobre al Teatro del Giglio, nell'edizione LEGACY per i 60 anni della manifestazione.",
+    "rilevanza": "Notizia cardine per la community fumetti e manga italiana, con ricadute su tutti i creator e recensori che coprono il settore in vista di Lucca Comics 2026."
   }
 ]

@@ -1,58 +1,50 @@
 [
   {
-    "id": "ham-tempesta-geomagnetica-g2-2026-09",
-    "title": "Tempesta geomagnetica G2 in arrivo: CME multiple minacciano la propagazione HF",
-    "source": "NOAA/SWPC via The Watchers (7 settembre 2026) e Nature World News (9 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-09",
-    "brief": "Almeno quattro espulsioni di massa coronale partite dalla regione attiva AR4524 hanno raggiunto la Terra tra l'8 e il 9 settembre. Il NOAA Space Weather Prediction Center ha alzato il watch da G1 (minore) a G2 (moderata), con possibilità di picchi G3 il 9 settembre, e una probabilità del 15% di blackout radio HF di livello R1-R2 nel periodo 8-10 settembre."
-  },
-  {
-    "id": "ham-dxpedition-st-kitts-v47-2026-09",
-    "title": "Al via la DXpedition a St Kitts (V47YA/V47RCX)",
-    "source": "DX-World.net, DXpedition Timeline settembre 2026",
-    "affidabilita": "primaria",
-    "date": "2026-09-09",
-    "brief": "Tom K0YA (come V47YA) e Toni W5RCX (come V47RCX) sono attivi da St Kitts, nei Caraibi, dal 9 al 30 settembre 2026 su varie bande HF."
-  },
-  {
-    "id": "ham-dxpedition-samoa-americana-kh8ww-2026-09",
-    "title": "Parte oggi la DXpedition ad Aunu'u, Samoa Americana (KH8WW)",
-    "source": "DX-World.net, DXpedition Timeline settembre 2026",
+    "id": "ham-propagazione-autunnale-2026-09",
+    "title": "Le condizioni HF virano verso l'autunno: MUF in salita, geomagnetismo instabile dal 14 al 16",
+    "source": "Norfolk Amateur Radio Club, Propagation News (10 settembre 2026); NOAA/SWPC",
     "affidabilita": "primaria",
     "date": "2026-09-10",
-    "brief": "Yuris YL2GM ed Eugene EA5EL iniziano oggi, 10 settembre, l'attivazione come KH8WW dall'isola di Aunu'u, Samoa Americana, che proseguirà fino al 24 settembre 2026."
+    "brief": "Il bollettino di propagazione segnala l'avvicinarsi delle condizioni HF autunnali, con la MUF (frequenza massima utilizzabile) in salita durante il giorno e più occasioni di DX, anche se ci vorranno ancora alcune settimane per un cambio netto. Il flusso solare (SFI) dovrebbe restare tra 105 e 115; atteso un periodo di geomagnetismo instabile dal 14 al 16 settembre con Kp previsto a 4, mentre il resto della settimana dovrebbe restare calmo con Kp 2-3."
   },
   {
-    "id": "ham-dxpedition-cipro-bcc-2026-09",
-    "title": "Il Bavarian Contest Club attiva 5B da Cipro",
-    "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
-    "affidabilita": "secondaria",
+    "id": "ham-dxpeditions-meta-settembre-2026-09",
+    "title": "Attività DX intensa a metà settembre: Terra di Francesco Giuseppe, St Kitts e Samoa Americana in aria",
+    "source": "DX-World.net e DXZone.com, calendario DXpedition settembre 2026",
+    "affidabilita": "primaria",
     "date": "2026-09-10",
-    "brief": "Membri del Bavarian Contest Club sono attivi come 5B/DD1MAT, 5B/DJ5MO, 5B/DL7AT e 5B/DM6DX da Cipro dal 10 al 16 settembre in CW, SSB e RTTY su 160-10 metri."
+    "brief": "Il team RI1FJL è attivo per 15 giorni da Heiss Island, Terra di Francesco Giuseppe (EU-014). Tom K0YA e Toni W5RCX operano da St Kitts come V47YA e V47RCX dal 9 al 30 settembre. Yuris YL2GM ed Eugene EA5EL sono attivi come KH8WW da Aunu'u, Samoa Americana, dal 10 al 24 settembre."
   },
   {
-    "id": "ham-dxpedition-seychelles-dl2sby-2026-09",
-    "title": "Kasimir DL2SBY torna alle Seychelles come S79/DL2SBY",
-    "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
+    "id": "ham-dxpeditions-namibia-grenada-cipro-seychelles-2026-09",
+    "title": "Si chiudono a metà settembre le attivazioni da Namibia e Grenada, mentre partono Cipro e Seychelles",
+    "source": "DXZone.com e 425 DX News, bollettino n. 1844 (settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-11",
-    "brief": "Dall'11 al 21 settembre 2026 Kasimir sarà attivo da Mahé (AF-024) in CW, SSB e FT8 sulle bande HF. QSL via LoTW o OQRS di Club Log."
+    "brief": "Hanspeter HB9BFM conclude il 20 settembre l'attivazione come V5/HB9BFM da diverse località della Namibia, iniziata il 26 agosto. Graham MM8IJU ed Eric GM5RDX chiudono invece il 12 settembre l'operazione da Grenada come J38DX e J38LD su 80-6 metri. Nel frattempo il Bavarian Contest Club è attivo come 5B da Cipro dal 10 al 16 settembre, e Kasimir DL2SBY è tornato alle Seychelles come S79/DL2SBY dall'11 al 21 settembre."
   },
   {
-    "id": "ham-hamlib-4-7-2-security-2026-06",
-    "title": "Hamlib 4.7.2 corregge bug di sicurezza e problemi su FTX-1 e IC-7600/7610",
-    "source": "Hamlib, release notes su GitHub",
-    "affidabilita": "primaria",
-    "date": "2026-06-21",
-    "brief": "La versione 4.7.2 di Hamlib, libreria open source molto usata per il controllo remoto di apparati radio, ha corretto la gestione dei canali su FTX-1, le routine di clock su IC-7600/IC-7610 e patchato bug di sicurezza tra cui una scrittura fuori dai limiti dello stack (CVE-2026-54634) nel demone rigctld. È in programma una versione 5.0.0 non retrocompatibile, senza data definita."
-  },
-  {
-    "id": "ham-iaru-r1-conferenza-vienna-2026-09",
-    "title": "Conferenza generale IARU Region 1 a Vienna dal 19 settembre",
-    "source": "IARU Region 1 (iaru-r1.org); RSGB GB2RS (luglio 2026)",
+    "id": "ham-iaru-r1-vienna-2026-09",
+    "title": "Dal 19 settembre a Vienna la 27ª Conferenza Generale IARU Region 1",
+    "source": "IARU Region 1 (iaru-r1.org); RSGB GB2RS",
     "affidabilita": "primaria",
     "date": "2026-09-19",
-    "brief": "Dal 19 al 23 settembre 2026 si tiene a Vienna la 27ª Conferenza Generale IARU Region 1, ospitata dalla società austriaca ÖVSV nel suo centenario, con oltre 97 delegati registrati da 39 società. In agenda band plan, spettro, EMC e documenti sullo spettro VHF/UHF/SHF da ratificare."
+    "brief": "Dal 19 al 23 settembre si tiene a Vienna la 27ª Conferenza Generale IARU Region 1, ospitata dalla società austriaca ÖVSV nel suo centenario, con oltre 97 delegati registrati da 39 società. In agenda band plan, gestione dello spettro, compatibilità elettromagnetica e documenti VHF/UHF/SHF da ratificare."
+  },
+  {
+    "id": "ham-normativa-italiana-patente-novice-2026-09",
+    "title": "Novità normative in Italia: patente Novice, vanity call e nuovo portale del Ministero",
+    "source": "Il mondo di Paolettopn (6 marzo 2026); MIMIT, Portale Radioamatori",
+    "affidabilita": "secondaria",
+    "date": "2026-07-31",
+    "brief": "Il Decreto Ministeriale del 26 gennaio 2026, pubblicato in Gazzetta Ufficiale il 3 marzo, introduce in Italia l'autorizzazione di classe N (Novizio) e i vanity call, allineando la normativa nazionale a quella internazionale. Dall'11 maggio è online il nuovo Portale Radioamatori del Ministero delle Imprese e del Made in Italy, e dal 31 luglio sono cambiate le modalità di pagamento di contributi e marca da bollo per le istanze radioamatoriali."
+  },
+  {
+    "id": "ham-contest-arrl-vhf-settembre-2026-09",
+    "title": "Al via oggi l'ARRL September VHF Contest",
+    "source": "WA7BNM Contest Calendar; ARRL",
+    "affidabilita": "primaria",
+    "date": "2026-09-12",
+    "brief": "Da oggi, 12 settembre alle 1800Z, fino al 14 settembre alle 0300Z si svolge l'ARRL September VHF Contest: le stazioni di Stati Uniti e Canada lavorano quante più celle Maidenhead 2°x1° possibile sulle frequenze autorizzate sopra i 50 MHz."
   }
 ]
