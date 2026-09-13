@@ -1,58 +1,50 @@
 [
   {
-    "id": "ham-tempesta-geomagnetica-g2-2026-09",
-    "title": "Tempesta geomagnetica G2 in arrivo: CME multiple minacciano la propagazione HF",
-    "source": "NOAA/SWPC via The Watchers (7 settembre 2026) e Nature World News (9 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-09",
-    "brief": "Almeno quattro espulsioni di massa coronale partite dalla regione attiva AR4524 hanno raggiunto la Terra tra l'8 e il 9 settembre. Il NOAA Space Weather Prediction Center ha alzato il watch da G1 (minore) a G2 (moderata), con possibilità di picchi G3 il 9 settembre, e una probabilità del 15% di blackout radio HF di livello R1-R2 nel periodo 8-10 settembre."
-  },
-  {
-    "id": "ham-dxpedition-st-kitts-v47-2026-09",
-    "title": "Al via la DXpedition a St Kitts (V47YA/V47RCX)",
-    "source": "DX-World.net, DXpedition Timeline settembre 2026",
+    "id": "ham-noaa-g2-watch-13set-2026-09",
+    "title": "NOAA/SWPC emette un watch per tempesta geomagnetica G2 (moderata) per il 13 settembre",
+    "source": "NOAA Space Weather Prediction Center, spaceweather.gov (13 settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-09",
-    "brief": "Tom K0YA (come V47YA) e Toni W5RCX (come V47RCX) sono attivi da St Kitts, nei Caraibi, dal 9 al 30 settembre 2026 su varie bande HF."
+    "date": "2026-09-13",
+    "brief": "Lo SWPC ha emesso un watch per una tempesta geomagnetica di classe G2 prevista per il 13 settembre 2026, dopo un precedente watch G2 emesso e poi cancellato a inizio settimana. La regione attiva 4521 ha prodotto brillamenti di classe C nei giorni scorsi, con l'arrivo di CME che ha già causato due tempeste G1 minori."
   },
   {
-    "id": "ham-dxpedition-samoa-americana-kh8ww-2026-09",
-    "title": "Parte oggi la DXpedition ad Aunu'u, Samoa Americana (KH8WW)",
-    "source": "DX-World.net, DXpedition Timeline settembre 2026",
-    "affidabilita": "primaria",
-    "date": "2026-09-10",
-    "brief": "Yuris YL2GM ed Eugene EA5EL iniziano oggi, 10 settembre, l'attivazione come KH8WW dall'isola di Aunu'u, Samoa Americana, che proseguirà fino al 24 settembre 2026."
-  },
-  {
-    "id": "ham-dxpedition-cipro-bcc-2026-09",
-    "title": "Il Bavarian Contest Club attiva 5B da Cipro",
-    "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
+    "id": "ham-propagation-news-10set-2026-09",
+    "title": "Propagazione HF stabile: SFI intorno a 100, possibile Kp 4 dal 14 al 16 settembre",
+    "source": "Norfolk Amateur Radio Club, bollettino di propagazione settimanale (10 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-10",
-    "brief": "Membri del Bavarian Contest Club sono attivi come 5B/DD1MAT, 5B/DJ5MO, 5B/DL7AT e 5B/DM6DX da Cipro dal 10 al 16 settembre in CW, SSB e RTTY su 160-10 metri."
+    "brief": "Il bollettino settimanale segnala condizioni ionosferiche tranquille (SFI ~100, Kp 1-2) e una sola brillamento di classe M nella settimana. SWPC prevede SFI in salita a 105-115 e un possibile Kp 4 tra il 14 e il 16 settembre, con MUF diurno in aumento tipico della transizione autunnale."
   },
   {
-    "id": "ham-dxpedition-seychelles-dl2sby-2026-09",
-    "title": "Kasimir DL2SBY torna alle Seychelles come S79/DL2SBY",
-    "source": "425 DX News, bollettino n. 1844 (settembre 2026)",
-    "affidabilita": "secondaria",
+    "id": "ham-425dxnews-1845-cipro-2026-09",
+    "title": "425 DX News #1845: il Bavarian Contest Club attivo da Cipro fino al 16 settembre",
+    "source": "425 DX News, bollettino n. 1845 (11 settembre 2026)",
+    "affidabilita": "primaria",
     "date": "2026-09-11",
-    "brief": "Dall'11 al 21 settembre 2026 Kasimir sarà attivo da Mahé (AF-024) in CW, SSB e FT8 sulle bande HF. QSL via LoTW o OQRS di Club Log."
+    "brief": "Membri del Bavarian Contest Club sono attivi come 5B/DD1MAT, 5B/DJ5MO, 5B/DL7AT e 5B/DM6DX da Cipro dal 10 al 16 settembre in CW, SSB e RTTY sulle bande 160-10 metri."
   },
   {
-    "id": "ham-hamlib-4-7-2-security-2026-06",
-    "title": "Hamlib 4.7.2 corregge bug di sicurezza e problemi su FTX-1 e IC-7600/7610",
-    "source": "Hamlib, release notes su GitHub",
-    "affidabilita": "primaria",
-    "date": "2026-06-21",
-    "brief": "La versione 4.7.2 di Hamlib, libreria open source molto usata per il controllo remoto di apparati radio, ha corretto la gestione dei canali su FTX-1, le routine di clock su IC-7600/IC-7610 e patchato bug di sicurezza tra cui una scrittura fuori dai limiti dello stack (CVE-2026-54634) nel demone rigctld. È in programma una versione 5.0.0 non retrocompatibile, senza data definita."
+    "id": "ham-dxpeditions-attive-metasettembre-2026-09",
+    "title": "Tre DXpedition attive in contemporanea: Grenada, Samoa Americana e St Kitts",
+    "source": "DX-World.net, DXpedition Timeline settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-10",
+    "brief": "Attive a metà settembre: J38 a Grenada (Graham MM8IJU e Eric GM5RDX, fino al 12/9, 80-6m), KH8WW ad Aunu'u, Samoa Americana (Yuris YL2GM ed Eugene EA5EL, 10-24 settembre), V47 a St Kitts (Tom K0YA e Toni W5RCX, 9-30 settembre)."
   },
   {
-    "id": "ham-iaru-r1-conferenza-vienna-2026-09",
-    "title": "Conferenza generale IARU Region 1 a Vienna dal 19 settembre",
-    "source": "IARU Region 1 (iaru-r1.org); RSGB GB2RS (luglio 2026)",
+    "id": "ham-arrl-september-vhf-contest-2026-09",
+    "title": "Al via l'ARRL September VHF Contest (12-14 settembre)",
+    "source": "WA7BNM Contest Calendar",
+    "affidabilita": "secondaria",
+    "date": "2026-09-12",
+    "brief": "Il contest VHF/UHF nordamericano, che si svolge dalle 18:00 UTC del 12 settembre alle 03:00 UTC del 14, premia chi lavora il maggior numero di quadrati Maidenhead sopra i 50 MHz; nello stesso periodo restano attivi anche altri QSO party minori."
+  },
+  {
+    "id": "ham-iaru-r1-indonesia-emergenza-2026-09",
+    "title": "IARU Region 1: reti di emergenza attive in Indonesia fino al 24 settembre per attività vulcanica",
+    "source": "IARU Region 1, comunicato ufficiale (11 settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-19",
-    "brief": "Dal 19 al 23 settembre 2026 si tiene a Vienna la 27ª Conferenza Generale IARU Region 1, ospitata dalla società austriaca ÖVSV nel suo centenario, con oltre 97 delegati registrati da 39 società. In agenda band plan, spettro, EMC e documenti sullo spettro VHF/UHF/SHF da ratificare."
+    "date": "2026-09-11",
+    "brief": "A seguito di un'attività vulcanica in corso, ORARI (Organisasi Amatir Radio Indonesia) ha attivato reti di comunicazione di emergenza dall'11 al 24 settembre 2026; IARU-R1 chiede ai radioamatori di evitare interferenze e dare priorità al traffico di emergenza sulle frequenze designate."
   }
 ]

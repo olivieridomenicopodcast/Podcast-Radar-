@@ -1,132 +1,127 @@
 [
   {
-    "id": "youtube-engaged-views-gonfiate-2026-09",
-    "title": "YouTube conta le view dal primo fotogramma: Podtrac dice che i podcast escono gonfiati del 36%",
-    "source": "Podtrac, analisi pubblicata il 3 settembre 2026; ripresa da Podnews, ppc.land e Inside Radio (settembre 2026)",
+    "id": "hard-fork-roose-newton-deal-2026-09",
+    "title": "Kevin Roose e Casey Newton lasciano il New York Times per un podcast indipendente da circa 5 milioni di dollari l'anno",
+    "source": "Bloomberg (10 settembre 2026); ripreso da Variety, Nieman Lab e Mediagazer",
     "affidabilita": "primaria",
-    "target": 8,
-    "date": "2026-09-03",
-    "brief": "Dal 24 agosto 2026 YouTube conta una 'view' pubblica dal primissimo fotogramma di riproduzione, incluso l'autoplay in home. Podtrac ha analizzato 84,2 milioni di visualizzazioni di episodi podcast e trovato che le 'Engaged Views' reali sono in media il 64% del totale. Le metriche usate per la monetizzazione restano legate alle Engaged Views, non al nuovo numero pubblico.",
-    "angles": [
-      "Perché il numero di view che vedi ora su YouTube dice poco sull'ascolto reale del tuo show",
-      "Come guardare le Engaged Views invece delle view pubbliche quando valuti la crescita di un podcast video",
-      "Cosa NON cambia (guadagni, idoneità al programma partner) rispetto a cosa cambia (il numero che vede uno sponsor)"
-    ],
-    "hooks": [
-      "Ti sei svegliato con più visualizzazioni su YouTube senza aver cambiato una virgola? Non sei diventato bravo di colpo, hanno solo cambiato come contano.",
-      "Stai per mandare le tue statistiche YouTube a un possibile sponsor? Un terzo di quelle view, dice Podtrac, sono gente sparita dopo un fotogramma.",
-      "Pensi che più view pubbliche vogliano dire più ascoltatori veri? Da fine agosto YouTube conta anche chi scappa un secondo dopo aver cliccato play."
-    ]
-  },
-  {
-    "id": "buzzsprout-directory-mancanti-2026-08",
-    "title": "Buzzsprout scopre che il 70% dei podcast attivi manca da alcune directory",
-    "source": "Buzzsprout, comunicato ufficiale (13 agosto 2026)",
-    "affidabilita": "primaria",
-    "target": 8,
-    "date": "2026-08-13",
-    "brief": "Buzzsprout ha rilevato che oltre il 70% dei podcast attivi sulla piattaforma non è presente in tutte le directory audio disponibili, e ha lanciato una funzione di invio automatico a 16 directory con un clic. In due settimane oltre 5.200 show hanno aggiunto almeno una directory mancante.",
-    "angles": [
-      "L'errore da principianti più sottovalutato: pubblicare senza controllare dove il podcast è davvero visibile",
-      "Checklist di distribuzione da rifare a ogni episodio pubblicato",
-      "Come verificare la presenza del proprio show su Apple, Spotify, Amazon, Podcast Index"
-    ],
-    "hooks": [
-      "Hai pubblicato il tuo podcast e pensi che ora sia ovunque? Buzzsprout dice che 7 show su 10 mancano da almeno una directory importante, magari anche il tuo.",
-      "Ti chiedi perché nessuno trova il tuo show cercandolo su un'app diversa da quella che usi tu? Probabilmente non ce l'hai mai mandato, e non sei il solo.",
-      "Pensavi che bastasse un host per essere 'su tutte le piattaforme'? A quanto pare no, e la buona notizia è che si sistema con un clic."
-    ]
-  },
-  {
-    "id": "descript-jump-cut-scheduling-2026-08",
-    "title": "Descript rifà i jump cut e aggiunge la registrazione programmata",
-    "source": "Descript, blog e changelog ufficiali (5 agosto 2026)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-08-05",
-    "brief": "Descript ha rilasciato jump cut ricostruiti (con opzione per rigenerare separatamente video, audio o entrambi e ridurre gli stacchi visibili), la possibilità di programmare in anticipo una Room di registrazione, editing delle immagini disegnandoci sopra e supporto ai modelli AI più recenti.",
-    "angles": [
-      "Tutorial pratico per ottenere jump cut puliti quando monti da solo",
-      "La funzione di scheduling è utile per chi organizza interviste da remoto",
-      "Quando l'editing AI aiuta davvero e quando serve ancora l'orecchio umano"
-    ],
-    "hooks": [
-      "Odi quel salto brutto quando tagli una pausa troppo lunga? Descript ha appena rifatto il modo in cui gestisce i jump cut, proprio per quello.",
-      "Ti scordi sempre di mandare in tempo il link della registrazione all'ospite? Ora puoi programmare la Room con giorni di anticipo e toglierti il pensiero.",
-      "Pensi che l'editing con l'AI sia solo un trucco da markettari? Anche gli strumenti seri ci stanno investendo, la domanda è quando conviene usarlo davvero."
-    ]
-  },
-  {
-    "id": "everywhere-agenzia-creator-multipiattaforma-2026-09",
-    "title": "Nasce Everywhere, l'agenzia UK che tratta i creator come multipiattaforma, non solo podcast",
-    "source": "The Media Leader UK (2 settembre 2026); ripreso da Joycast (3 settembre 2026)",
-    "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-02",
-    "brief": "Tre veterani dell'audio digitale (ex Acast, Audioboom, BBC, Global) hanno lanciato Everywhere, agenzia commerciale per creator che si muovono tra YouTube, TikTok, podcast, newsletter ed eventi live invece che restare legati al solo feed RSS.",
+    "date": "2026-09-10",
+    "brief": "I due conduttori di 'Hard Fork', il podcast tech del New York Times, hanno lasciato il giornale e stanno trattando con l'agenzia UTA un accordo indipendente da circa 5 milioni di dollari l'anno per un nuovo show sull'intelligenza artificiale, puntando a costruire una società di media propria invece di restare dipendenti di una testata.",
     "angles": [
-      "Il podcast come parte di un ecosistema multicanale, non prodotto isolato",
-      "Perché pensare oltre l'RSS feed conviene anche a chi inizia in piccolo"
+      "Cosa significa davvero 'possedere' il proprio podcast invece di farlo per un editore che ne detiene i diritti",
+      "Perché due giornalisti affermati lasciano un lavoro sicuro per scommettere su un progetto indipendente"
     ],
     "hooks": [
-      "Continui a pensare al tuo podcast come a 'solo audio da mettere su Spotify'? A Londra hanno appena fondato un'agenzia che tratta i creator come roba multipiattaforma, punto e basta.",
-      "Hai un feed RSS e ti sembra già abbastanza? Chi il mestiere lo fa da vent'anni ora scommette sui creator che vivono ovunque, non in un solo posto.",
-      "Ti stai chiedendo se il podcast basta da solo per costruire un pubblico? Pare che nemmeno chi ha lavorato per Acast e BBC ci creda più."
+      "Pensi che fare podcast dentro un grande giornale sia il massimo della sicurezza? Due dei conduttori più seguiti del New York Times hanno appena mollato tutto per farsi il loro show da soli, con un contratto a sette zeri dietro.",
+      "Ti chiedi se conviene restare dipendente o buttarti in proprio col podcast? Chiedilo a chi ha lasciato uno dei giornali più importanti al mondo per farlo da indipendente, e non sembra pentito.",
+      "Hai paura che senza un editore dietro il tuo podcast valga meno? C'è chi pensa esattamente il contrario, e ci ha messo la carriera per dimostrarlo."
     ]
   },
   {
-    "id": "youtube-headline-partner-ipa-londra-2026-09",
-    "title": "YouTube diventa sponsor principale degli Independent Podcast Awards di Londra",
-    "source": "Podnews, comunicato ufficiale (9 settembre 2026)",
-    "affidabilita": "primaria",
+    "id": "raiplay-sound-violante-ferite-coraggio-2026-09",
+    "title": "RaiPlay Sound lancia 'Italia: le ferite e il coraggio', podcast Original di Luciano Violante sulla memoria civile",
+    "source": "danielemignardi.it, Megamodo (settembre 2026); citato anche da Maridacaterini.it",
+    "affidabilita": "secondaria",
     "target": 5,
     "date": "2026-09-09",
-    "brief": "YouTube è stata annunciata come Headline Partner degli Independent Podcast Awards britannici: un rappresentante della piattaforma rivelerà il vincitore assoluto dell'Independent Podcast of the Year alla cerimonia del 4 novembre 2026 a Kings Place, Londra.",
+    "brief": "Dal 9 settembre è disponibile su RaiPlay Sound 'Italia: le ferite e il coraggio', 7 episodi scritti e raccontati da Luciano Violante con la partecipazione di Gianfranco Zinzilli, dedicati a stragi, terrorismo, mafia e Costituzione nella memoria civile italiana.",
     "angles": [
-      "Quanto le grandi piattaforme stiano investendo nel riconoscimento dei podcast indipendenti",
-      "Perché candidarsi a premi e contest può essere un obiettivo concreto per chi inizia ora"
+      "Come un editore pubblico costruisce un podcast 'a tema serio' affidandolo a un narratore-personaggio noto",
+      "Format a episodi tematici brevi per raccontare argomenti complessi senza perdere l'ascoltatore"
     ],
     "hooks": [
-      "Pensi che i premi per i podcast siano roba solo per chi ha già uno studio da mille euro? A novembre a Londra ne assegnano uno con YouTube come sponsor principale, e la candidatura non chiede fama.",
-      "Ti sembra che il tuo podcast da cameretta non conti niente per nessuno? Gli Independent Podcast Awards esistono apposta per chi non ha budget da network.",
-      "Hai mai pensato di candidare il tuo show a un premio? Da quest'anno lo fa anche YouTube, mettendoci la faccia come partner principale."
+      "Pensi che i podcast 'seri' siano noiosi per forza? La Rai ne ha appena lanciato uno su stragi e mafia raccontato come una serie, non come un documentario scolastico.",
+      "Ti sembra che il servizio pubblico non sappia fare podcast? Ha appena messo un ex presidente della Camera a raccontare la storia italiana in 7 episodi, mica un tema da poco.",
+      "Cerchi un format per argomenti pesanti che non facciano scappare chi ascolta? Guarda come RaiPlay Sound ha strutturato un intero podcast sulla memoria civile italiana."
+    ]
+  },
+  {
+    "id": "raiplay-sound-secondo-ascolto-2026-09",
+    "title": "'Secondo Ascolto': Alessandro Greco e Alessandro Migliaccio rileggono canzoni italiane su RaiPlay Sound",
+    "source": "danielemignardi.it, FM-World (settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-09-14",
+    "brief": "Dal 14 settembre debutta su RaiPlay Sound 'Secondo Ascolto', 8 episodi in cui Alessandro Greco e Alessandro Migliaccio usano altrettante canzoni italiane come pretesto per raccontare esperienze personali e temi universali. RaiPlay Sound arriva così a un catalogo di oltre 2.000 titoli, di cui circa 500 Original.",
+    "angles": [
+      "Il 'gancio' musicale come struttura narrativa per un podcast di racconto personale",
+      "Cosa vuol dire per chi inizia avere 500 podcast Original italiani come benchmark diretto"
+    ],
+    "hooks": [
+      "Hai un podcast di chiacchiere e non sai come dargli una struttura? RaiPlay Sound ne lancia uno che usa una canzone diversa a episodio come pretesto per raccontare la vita vera.",
+      "Ti sembra che serva sempre un tema 'da esperti' per fare un podcast? Guarda cosa hanno messo in piedi partendo solo da canzoni italiane e ricordi personali.",
+      "Pensi che RaiPlay Sound faccia solo roba istituzionale? Da domani lancia uno show che sembra uscito da una chiacchierata al bar, con 500 Original già in catalogo a fargli da concorrenza interna."
     ]
   },
   {
     "id": "italian-podcast-awards-piacenza-2026-09",
-    "title": "IlPod - Italian Podcast Awards, quinta edizione il 23 settembre a Piacenza",
-    "source": "PiacenzaSera, IlPiacenza (10 settembre 2026); AskaNews (luglio 2026)",
+    "title": "IlPod - Italian Podcast Awards, quinta edizione il 23 settembre a Piacenza con un nuovo comitato scientifico",
+    "source": "AgenziaCult, PiacenzaSera, IlPiacenza.it (settembre 2026)",
     "affidabilita": "secondaria",
     "target": 6,
     "date": "2026-09-23",
-    "brief": "Il 23 settembre, in Piazza Cavalli a Piacenza, torna IlPod - Italian Podcast Awards a ingresso libero: tra le categorie Podcast dell'Anno, Podcast Indie dell'Anno, il Premio dell'Academy assegnato dai ragazzi della Piacenza Podcast Academy, e il Premio Storia del Podcast 2026, vinto quest'anno da 'Tintoria' di Daniele Tinti e Stefano Rapone.",
+    "brief": "Il 23 settembre, in Piazza Cavalli a Piacenza, la quinta edizione di IlPod - Italian Podcast Awards assegna Podcast dell'Anno, Podcast Indipendente dell'Anno, Premio Academy (riservato agli allievi della Piacenza Podcast Academy) e Premio Storia del Podcast 2026, con un comitato scientifico introdotto per la prima volta quest'anno.",
     "angles": [
-      "Cosa rende un podcast italiano 'da premio' secondo la giuria di quest'anno",
-      "Case study sulla longevità editoriale di 'Tintoria'",
-      "Invito alla community a seguire l'evento come benchmark del settore italiano"
+      "Cosa valuta un comitato scientifico per un premio podcast, utile per capire cosa 'conta' davvero in uno show",
+      "La nascita di academy locali come segnale di un settore che si struttura anche fuori dalle grandi città"
     ],
     "hooks": [
-      "Pensi che i premi per podcast siano solo roba americana? Il 23 settembre a Piacenza va in scena la quinta edizione di quello italiano, e si entra gratis.",
-      "Ti chiedi cosa serva davvero per fare un podcast che dura nel tempo? Il premio Storia del Podcast di quest'anno lo danno a chi lo fa da anni senza fermarsi mai.",
-      "Segui ancora solo i soliti nomi americani quando pensi al podcasting? A Piacenza c'è una scena italiana viva, con tanto di academy per chi vuole imparare da zero."
+      "Pensi che i premi per podcast li decida sempre lo stesso giro di addetti ai lavori? Quest'anno a Piacenza hanno messo su un comitato scientifico apposta, roba nuova.",
+      "Ti chiedi chi decide cosa rende un podcast 'da premio'? Il 23 settembre lo scopri in Piazza Cavalli, ingresso libero, altro che gala blindato.",
+      "Segui ancora solo i soliti podcast americani come metro di paragone? A Piacenza c'è una academy che forma podcaster da zero, e il premio lo consegna proprio a loro."
     ]
   },
   {
-    "id": "raiplay-sound-nuova-stagione-original-2026-07",
-    "title": "RaiPlay Sound rilancia i podcast Original con tre nuove serie a firma di volti noti",
-    "source": "TalkyMedia, LifestyleBlog (luglio 2026)",
-    "affidabilita": "secondaria",
-    "target": 5,
-    "date": "2026-07-13",
-    "brief": "Rai ha presentato tre nuovi podcast Original su RaiPlay Sound: 'Fantastiche' con Manila Nazzaro dedicato alle icone della tv italiana, 'Spiritual Hub' con la medium Elisabetta Lupano, e 'Dialogare Oggi' sull'adolescenza contemporanea curato dallo psicoterapeuta Filippo Pergola, con episodi usciti dal 6 luglio 2026.",
+    "id": "festival-podcasting-milano-decennale-2026-09",
+    "title": "Il Festival del Podcasting compie 10 anni: torna il 2-3 ottobre a Milano",
+    "source": "ANSA, Il Sole 24 Ore, ItaliaOggi (luglio-settembre 2026)",
+    "affidabilita": "primaria",
+    "target": 7,
+    "date": "2026-10-02",
+    "brief": "L'undicesima edizione del Festival del Podcasting, che festeggia il decimo anniversario, si terrà il 2-3 ottobre a Cascina Triulza (MIND Milano), con eventi locali dal 21 al 30 settembre su discoverability, video podcast, distribuzione, monetizzazione e branded podcast.",
     "angles": [
-      "Come un editore pubblico costruisce un palinsesto podcast per target diversi",
-      "Format 'a tema' con conduttore-personaggio noto vs format tecnico-verticale: due strade diverse per chi inizia"
+      "Un evento italiano interamente dedicato al mestiere del podcasting come benchmark per chi vuole imparare",
+      "I temi in programma (discoverability, monetizzazione, video podcast) come mappa di cosa studiare quest'anno"
     ],
     "hooks": [
-      "Pensi che la Rai coi podcast non ci capisca niente? Ha appena lanciato tre show Original con nomi noti dietro al microfono, mica gente a caso.",
-      "Ti sembra che il servizio pubblico sia sempre un passo indietro rispetto ai podcast indipendenti? RaiPlay Sound ha rilanciato il suo palinsesto proprio quest'estate, con tre format diversi tra loro.",
-      "Cerchi ispirazione per un format 'con conduttore' invece che il solito duo di amici al microfono? Guarda cosa ha messo in piedi la Rai con volti già conosciuti dal pubblico."
+      "Ti stai chiedendo se in Italia esiste un posto serio dove imparare il mestiere del podcast? Il Festival del Podcasting compie 10 anni e torna a Milano a inizio ottobre, con un programma fatto apposta per chi vuole capire come si fa davvero.",
+      "Pensi che discoverability e monetizzazione siano parole buone solo per i grandi network? Sono proprio i temi al centro del festival italiano di settore che compie un decennio quest'anno.",
+      "Hai sempre guardato solo alle conferenze americane per capire dove va il podcasting? C'è un festival italiano che lo fa da 10 anni, e il programma di quest'edizione vale la pena segnarselo."
+    ]
+  },
+  {
+    "id": "agcom-dati-comunicazione-italiani-2026-09",
+    "title": "AGCOM: internet prima fonte di informazione per il 55,8% degli italiani, radio sempre più 'prodotto multipiattaforma'",
+    "source": "agcom.it, ripreso da NanoTV (4 settembre 2026)",
+    "affidabilita": "primaria",
+    "target": 5,
+    "date": "2026-09-04",
+    "brief": "L'Osservatorio sulle Comunicazioni AGCOM n.1/2026 conferma che internet è la prima fonte di informazione per il 55,8% degli italiani, con la radio sempre più letta come 'prodotto multipiattaforma' che include ascolto on demand e podcast, anche se il dato non isola una cifra specifica sui soli podcast.",
+    "angles": [
+      "Perché 'radio multipiattaforma' nei dati ufficiali è il segnale che il podcast è ormai mainstream, non nicchia",
+      "I limiti di questi dati: capire cosa NON dicono, per non vendere numeri gonfiati a un cliente"
+    ],
+    "hooks": [
+      "Pensi che i dati ufficiali italiani ignorino ancora i podcast? L'ultimo Osservatorio AGCOM parla ormai di radio come 'prodotto multipiattaforma', e il podcast ci è dentro.",
+      "Ti serve un numero vero da citare quando qualcuno dice che 'in Italia i podcast non li ascolta nessuno'? AGCOM certifica che internet è la prima fonte di informazione per più di un italiano su due.",
+      "Vuoi vendere il podcasting a un cliente scettico con dati seri invece che sensazioni? Parti da un report ufficiale AGCOM, non dall'ennesima statistica americana tradotta male."
+    ]
+  },
+  {
+    "id": "youtube-studio-app-deprecation-2026-09",
+    "title": "YouTube smette di supportare le vecchie versioni dell'app YouTube Studio dal 9 settembre",
+    "source": "Pagina di supporto ufficiale YouTube 'Creator updates' — segnale debole, fonte singola non verificata con lettura diretta della pagina",
+    "affidabilita": "segnale debole",
+    "target": 3,
+    "date": "2026-09-09",
+    "brief": "Secondo la pagina di supporto YouTube, dal 9 settembre 2026 le versioni dell'app YouTube Studio fino alla 24.31.6 non sono più supportate: chi gestisce un podcast video su YouTube dall'app mobile deve aggiornare per continuare a caricare e gestire episodi senza problemi.",
+    "angles": [
+      "Promemoria pratico: controllare la versione dell'app prima che smetta di funzionare a metà caricamento"
+    ],
+    "hooks": [
+      "Carichi i tuoi episodi video da telefono con l'app YouTube Studio? Da pochi giorni le versioni vecchie non sono più supportate: controlla di essere aggiornato prima di scoprirlo a caricamento a metà.",
+      "Ti si è mai bloccato un caricamento su YouTube Studio senza motivo apparente? Potrebbe essere proprio l'app vecchia: hanno tagliato il supporto alle versioni fino alla 24.31.6.",
+      "Pensi che basti scaricare un'app una volta e non pensarci più? YouTube Studio dice il contrario: aggiornala, o rischi di restare tagliato fuori proprio quando devi pubblicare."
     ]
   }
 ]

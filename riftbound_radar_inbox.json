@@ -1,56 +1,65 @@
 [
   {
+    "id": "riftbound-singapore-akali-gorica-2026-09",
+    "title": "Gorica vince la Regional Qualifier di Singapore con un mazzo Akali, primo grande scossone al dominio di Kennen",
+    "source": "GameDaily, Yahoo Sports (sindacazione), riftbound.gg (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-06",
+    "brief": "Al Regional Qualifier di Singapore (5-6 settembre, montepremi 6.000$) Gorica ha vinto giocando Akali, Rogue Assassin, sconfiggendo in finale un mazzo Kennen con un record Swiss di 11-1-1 e tre vittorie su Kennen nel Top 8.",
+    "rilevanza": "Prima crepa reale nel dominio di Kennen, Heart of the Tempest che caratterizzava il meta post-Vendetta: mostra una contro-strategia concreta e cambia le scelte di deck per i prossimi tornei."
+  },
+  {
+    "id": "riftbound-meta-tier-list-post-singapore-2026-09",
+    "title": "Nuova meta tier list post-Singapore: Kennen resta al vertice ma Akali si conferma vera sfidante",
+    "source": "riftbound.gg, 'Riftbound Meta Tier List – Best Decks for Vendetta' (12 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-12",
+    "brief": "L'aggiornamento della tier list community, pubblicato subito dopo la Regional Qualifier di Singapore, conferma Kennen come Legend dominante ma segnala l'ascesa di Akali come sfidante concreta, con i mazzi midrange che stanno superando le strategie aggressive nei round finali.",
+    "rilevanza": "È il riferimento più aggiornato per chi vuole costruire un mazzo competitivo in questo momento del formato."
+  },
+  {
     "id": "riftbound-vendetta-drawing-2-2026-09",
-    "title": "Aperta la seconda estrazione per acquistare i Booster Display di Vendetta",
-    "source": "playriftbound.com, 'September Merch Store Update' e 'Vendetta 2.0 Drawing FAQ' (settembre 2026)",
+    "title": "Aperta la seconda estrazione per acquistare i Booster Display di Vendetta sul Riot Merch Store",
+    "source": "playriftbound.com, 'September Merch Store Update' (settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-10",
-    "brief": "Riot ha aperto sul Riot Merch Store la seconda estrazione per l'acquisto di un Booster Display di Vendetta (24 buste da 14 carte, 119,99$/127,99€ più spedizione). Le iscrizioni via email sono aperte dall'8 al 10 settembre alle 9:00 Pacific Time, riservate a Nord America ed Europa; le selezioni iniziano il 14 settembre, con checkout entro 24 ore dalla notifica.",
+    "brief": "Riot ha aperto la seconda estrazione (drawing) per l'acquisto di un Booster Display di Vendetta riservata a Nord America ed Europa, con iscrizioni chiuse alle 9:00 Pacific Time del 10 settembre; i vincitori vengono selezionati a partire dal 14 settembre, con 24 ore di tempo per completare l'ordine.",
     "rilevanza": "È il canale ufficiale principale per procurarsi display di Vendetta a prezzo MSRP in un mercato dove il prodotto fisico va spesso sold-out."
   },
   {
-    "id": "riftbound-rq-singapore-risultati-2026-09",
-    "title": "Akali vince il Regional Qualifier di Singapore, Kennen domina i Top 8",
-    "source": "playriftbound.com, 'Singapore's Top Decks'; riftbound.gg; Liquipedia Riftbound RQ Singapore 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-06",
-    "brief": "Il Regional Qualifier di Singapore (4-6 settembre, Singapore EXPO, montepremi 25.000$) è stato vinto dal giocatore Gorica su un deck Akali, Rogue Assassin, che ha battuto in finale un deck Kennen, Heart of the Tempest. Nel Top 8, 5 seggi su 8 erano occupati da mazzi Kennen.",
-    "rilevanza": "Conferma Kennen come legend dominante del formato competitivo, con Akali che resta comunque una valida contro-scelta ai massimi livelli."
-  },
-  {
-    "id": "riftbound-radiance-preorder-2026-09",
-    "title": "Aperti i preordini di Radiance, il quinto set: nuove Legend Seraphine, Evelynn, Ekko, Ziggs e Jarvan IV",
-    "source": "riftbound.gg, 'Riftbound: Radiance'; ICv2, 'Riot Games Unveils New Deets on Riftbound: Radiance' (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "brief": "Sono stati aperti oggi i preordini di Radiance, quinto set principale del gioco (180 carte), con uscita fissata al 23 ottobre 2026 in inglese, cinese e francese. Confermate cinque nuove Legend (Seraphine, Evelynn, Ekko, Ziggs, Jarvan IV) più un prodotto Showdown Deck Seraphine vs Evelynn; altri quattro campioni restano da annunciare durante le anteprime dal 25 settembre al 9 ottobre.",
-    "rilevanza": "Dà a rivenditori e collezionisti una finestra d'acquisto concreta prima del lancio di ottobre, e la lineup di campioni orienta già la speculazione sul prossimo metagame costruito."
+    "id": "riftbound-regional-championship-stoccarda-creator-2026-09",
+    "title": "Scade oggi la candidatura creator per il Regional Championship europeo di Stoccarda",
+    "source": "playriftbound.com, account ufficiale @playriftbound; ripreso da Geeknative e Gamesmarket",
+    "affidabilita": "primaria",
+    "date": "2026-09-13",
+    "brief": "Il primo Regional Championship europeo di Riftbound si terrà il 6-8 novembre a Stoccarda con un montepremi di 50.000$; scade oggi, 13 settembre, la finestra per candidarsi come content creator, cosplayer o caster per attività come Trivia e Meet & Beats durante l'evento.",
+    "rilevanza": "Occasione diretta per creator e community europea di partecipare ufficialmente al più grande evento competitivo del gioco in Europa."
   },
   {
     "id": "riftbound-corea-lancio-18-settembre-2026-09",
     "title": "Confermato il lancio coreano di Riftbound il 18 settembre, con carta esclusiva Ahri",
-    "source": "playriftbound.com, 'Korea's Rift Opens on September 18'; Inven Global (settembre 2026)",
+    "source": "playriftbound.com, 'Korea's Rift Opens on September 18'; Inven Global, Sports Khan",
     "affidabilita": "primaria",
     "date": "2026-09-18",
-    "brief": "Riftbound: Origins debutterà in lingua coreana il 18 settembre 2026, con eventi di lancio a Seul (GGX di Dongdaemun dal 18 al 23, IPARK Mall Yongsan dal 18 al 30) e una carta promozionale esclusiva del mercato coreano, Ahri, Nine-Tailed Fox. Poiché la Corea parte da Origins mentre il resto del mondo è già su Vendetta, Riot introduce un formato temporaneo 'Korean Standard' il cui pool si allarga a ogni uscita coreana.",
-    "rilevanza": "Apre un nuovo mercato regionale asiatico con una propria struttura di formato e una carta esclusiva molto seguita dai collezionisti internazionali."
+    "brief": "Riftbound: Origins debutterà in lingua coreana il 18 settembre 2026, con eventi di lancio a Seul (GenG GGX dal 18 al 23, IPark Mall Yongsan) e una carta promozionale esclusiva del mercato coreano, Ahri, Nine-Tailed Fox. Il set Spiritforged arriverà in Corea a dicembre.",
+    "rilevanza": "Apre un nuovo mercato regionale asiatico con una carta esclusiva molto seguita dai collezionisti internazionali."
   },
   {
-    "id": "riftbound-meta-kennen-settembre-2026-09",
-    "title": "Kennen resta la Legend più giocata e con il miglior win rate dopo il Regional Qualifier di Barcellona",
-    "source": "playriftbound.com, 'August 2026 State of the Game'; riftbound.gg, 'Barcelona Regional Qualifier Results'",
-    "affidabilita": "primaria",
-    "date": "2026-09-03",
-    "brief": "Secondo i dati ufficiali, Kennen, Heart of the Tempest è stata la Legend più giocata al Regional Qualifier di Barcellona (271 iscritti), con il miglior win rate e tasso di conversione e tre posti in Top 8, dominio confermato pochi giorni dopo anche nel Top 8 di Singapore.",
-    "rilevanza": "Fotografa lo stato del meta competitivo in vista di Radiance: senza patch di bilanciamento in stile TCG digitali, il dominio di Kennen potrebbe reggere fino all'arrivo di nuova tecnologia dal prossimo set."
+    "id": "riftbound-radiance-reveal-season-2026-09",
+    "title": "Riftbound: Radiance, il quinto set, apre la reveal season il 21 settembre con uscita fissata al 23 ottobre",
+    "source": "riftbound.gg, ICv2, Yahoo Tech, Escapist Magazine (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-21",
+    "brief": "Radiance (180 carte) uscirà il 23 ottobre in inglese, cinese e francese; la reveal season delle carte parte il 21 settembre, con anteprime dal vivo alla Regional Qualifier di Los Angeles (25-27 settembre). Confermate finora cinque Legend su nove: Seraphine, Evelynn, Ekko, Ziggs e Jarvan IV, più un prodotto Showdown Deck Seraphine vs Evelynn.",
+    "rilevanza": "Dà a rivenditori e collezionisti una finestra concreta prima del lancio di ottobre, e la lineup di campioni orienta già la speculazione sul prossimo metagame."
   },
   {
-    "id": "riftbound-errata-filosofia-2026-09",
-    "title": "Riot ribadisce: le errata di Riftbound correggono le carte, non bilanciano il metagame",
-    "source": "riftbound.gg, 'Card Errata'; playriftbound.com, hub errata ufficiale",
+    "id": "riftbound-nuovo-sito-organized-play-2026-09",
+    "title": "Riot lancia il nuovo PlayRiftbound.com per l'Organized Play, con login Riot ID e ricerca eventi rinnovata",
+    "source": "playriftbound.com, ripreso da UVS Games (settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-08",
-    "brief": "Riot ha ribadito che le errata di Riftbound servono a correggere interazioni non volute o testi ambigui, non a indebolire carte forti per bilanciare il metagame, un approccio diverso rispetto alle patch dei TCG digitali. Le ultime correzioni riguardano carte di Spiritforged, Unleashed e Vendetta.",
-    "rilevanza": "Chiarisce alla community che una Legend dominante come Kennen non verrà 'nerfata' via errata: eventuali cambi di equilibrio dovranno arrivare da nuove carte nei prossimi set."
+    "date": "2026-09-14",
+    "brief": "Riot ha rifatto il sito per l'Organized Play con login tramite Riot account, ricerca eventi aggiornata, registrazione con Riot ID e gestione di pairing e risultati da smartphone; per il 2027 sono previsti strumenti per giudici/organizzatori, supporto 2v2 e decklist digitali.",
+    "rilevanza": "Cambia concretamente il flusso di iscrizione e gestione per chi organizza o partecipa a tornei locali e regionali."
   }
 ]
