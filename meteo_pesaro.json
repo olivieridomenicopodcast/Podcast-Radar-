@@ -1,37 +1,37 @@
 {
-  "aggiornato": "2026-09-13",
+  "aggiornato": "2026-09-14",
   "citta": "Pesaro (PU), Marche, Italia",
-  "fonti": ["3bmeteo.com", "meteo-domani.com", "ilrestodelcarlino.it", "corriereadriatico.it", "allertameteo.regione.marche.it"],
+  "fonti": ["ilmeteo.it", "meteo.it", "3bmeteo.com", "meteo-domani.com", "allertameteo.regione.marche.it"],
   "previsioni": [
     {
-      "data": "2026-09-13",
-      "giorno": "oggi, domenica",
-      "temp_min_c": 18,
-      "temp_max_c": 26,
-      "condizioni": "Correnti settentrionali secche e stabili, cielo sereno o poco nuvoloso per l'intera giornata, nessuna pioggia prevista. Possibile fenomeno di brezza di terra ('borino') al mattino sulla costa, brezza costante nel pomeriggio. Nota: una fonte alternativa (meteo-domani.com) indica un range leggermente più ampio, max 24-27°C e min 15-18°C, non pienamente coincidente con 3bmeteo.",
-      "vento": "Debole al mattino da Ovest-Sudovest, moderato al pomeriggio da Nord",
-      "mare": "Poco mosso",
-      "allerta": "Nessuna allerta attiva. Il bollettino di criticità n.175/2026 della Protezione Civile Marche, valido dalle 00:00 del 12/09, non segnala criticità per la provincia di Pesaro-Urbino."
-    },
-    {
       "data": "2026-09-14",
-      "giorno": "domani, lunedì",
-      "temp_min_c": 18,
-      "temp_max_c": 27,
-      "condizioni": "Prevalentemente sereno o poco nuvoloso per l'intera giornata, nessuna pioggia prevista. Attenzione: una ricerca su un'altra fonte (meteo.it) ha restituito per i giorni successivi massime indicate tra 28 e 34°C, un dato nettamente più alto e non chiaramente datato al 14/09 in modo univoco: da verificare direttamente sul sito prima di darlo per certo.",
-      "vento": "Debole al mattino da Ovest-Sudovest, debole al pomeriggio da Est-Nordest",
-      "mare": "Quasi calmo",
-      "allerta": "Nessuna allerta attiva risulta per questa data dai bollettini consultati."
+      "giorno": "oggi, lunedì",
+      "temp_min_c": 19,
+      "temp_max_c": 25,
+      "condizioni": "Nuvolosità di passaggio, non sono previste piogge significative (ilmeteo.it). Qualità dell'aria buona, indice UV massimo 6.",
+      "vento": "Al mattino moderato da Ovest-Nordovest (19-28 km/h), al pomeriggio moderato da Nord-Nordovest (19-29 km/h), in serata debole da Nord-Est (circa 11 km/h)",
+      "mare": "Leggermente mosso, altezza onde intorno a 35 cm (ilmeteo.it)",
+      "allerta": "Nessuna allerta attiva secondo l'ultimo bollettino di criticità della Protezione Civile Marche reperito (n. 175/2026, valido dal 00:00 del 12/09/2026, senza criticità); si segnala instabilità nei giorni precedenti (allerta arancione il 9/09/2026), quindi si consiglia di verificare eventuali aggiornamenti su allertameteo.regione.marche.it"
     },
     {
       "data": "2026-09-15",
-      "giorno": "dopodomani, martedì",
-      "temp_min_c": 17,
+      "giorno": "domani, martedì",
+      "temp_min_c": 18,
       "temp_max_c": 26,
-      "condizioni": "Bel tempo, sole pieno per l'intera giornata, nessuna pioggia prevista",
-      "vento": "Moderato al mattino da Sud-Sudest, moderato al pomeriggio da Est",
+      "condizioni": "Fonti discordanti: meteo.it indica cielo sereno/poco nuvoloso senza piogge (mattino 18°C, pomeriggio 26°C, sera 23°C); 3bmeteo.com indica invece nuvolosità in aumento dal pomeriggio con temperature massime fino a 33°C e possibili temporali in serata (circa 4mm di pioggia). Si riportano i valori della maggioranza delle fonti (meteo.it/ilmeteo.it), segnalando la possibilità di temporali serali secondo 3bmeteo.com",
+      "vento": "Secondo 3bmeteo: moderato da Sud-Ovest al mattino, moderato da Est al pomeriggio",
+      "mare": "Poco mosso, temperatura del mare intorno a 28°C (3bmeteo.com)",
+      "allerta": "Nessuna allerta ufficiale rilevata al momento della ricerca; vista la possibile evoluzione temporalesca segnalata da 3bmeteo.com per la serata, si raccomanda di controllare gli aggiornamenti su allertameteo.regione.marche.it"
+    },
+    {
+      "data": "2026-09-16",
+      "giorno": "dopodomani, mercoledì",
+      "temp_min_c": 18,
+      "temp_max_c": 26,
+      "condizioni": "Bel tempo con sole prevalente per l'intera giornata, non sono previste piogge (meteo-domani.com/ilmeteo.it)",
+      "vento": "Al mattino debole da Ovest, al pomeriggio debole da Nord-Nordest",
       "mare": "Poco mosso",
-      "allerta": "Nessuna allerta attiva risulta per questa data dai bollettini consultati. Nota di contesto: il Corriere Adriatico segnala che la 'sesta ondata di calore del 2026' dovrebbe lasciare spazio a una fase più perturbata con rovesci e temporali attesi a partire da giovedì 17 settembre, quindi fuori dalla finestra dei 3 giorni qui coperta."
+      "allerta": "Nessuna allerta attiva rilevata al momento della ricerca"
     }
   ]
 }

@@ -1,127 +1,116 @@
 [
   {
-    "id": "hard-fork-roose-newton-deal-2026-09",
-    "title": "Kevin Roose e Casey Newton lasciano il New York Times per un podcast indipendente da circa 5 milioni di dollari l'anno",
-    "source": "Bloomberg (10 settembre 2026); ripreso da Variety, Nieman Lab e Mediagazer",
-    "affidabilita": "primaria",
-    "target": 6,
-    "date": "2026-09-10",
-    "brief": "I due conduttori di 'Hard Fork', il podcast tech del New York Times, hanno lasciato il giornale e stanno trattando con l'agenzia UTA un accordo indipendente da circa 5 milioni di dollari l'anno per un nuovo show sull'intelligenza artificiale, puntando a costruire una società di media propria invece di restare dipendenti di una testata.",
-    "angles": [
-      "Cosa significa davvero 'possedere' il proprio podcast invece di farlo per un editore che ne detiene i diritti",
-      "Perché due giornalisti affermati lasciano un lavoro sicuro per scommettere su un progetto indipendente"
-    ],
-    "hooks": [
-      "Pensi che fare podcast dentro un grande giornale sia il massimo della sicurezza? Due dei conduttori più seguiti del New York Times hanno appena mollato tutto per farsi il loro show da soli, con un contratto a sette zeri dietro.",
-      "Ti chiedi se conviene restare dipendente o buttarti in proprio col podcast? Chiedilo a chi ha lasciato uno dei giornali più importanti al mondo per farlo da indipendente, e non sembra pentito.",
-      "Hai paura che senza un editore dietro il tuo podcast valga meno? C'è chi pensa esattamente il contrario, e ci ha messo la carriera per dimostrarlo."
-    ]
-  },
-  {
-    "id": "raiplay-sound-violante-ferite-coraggio-2026-09",
-    "title": "RaiPlay Sound lancia 'Italia: le ferite e il coraggio', podcast Original di Luciano Violante sulla memoria civile",
-    "source": "danielemignardi.it, Megamodo (settembre 2026); citato anche da Maridacaterini.it",
-    "affidabilita": "secondaria",
-    "target": 5,
-    "date": "2026-09-09",
-    "brief": "Dal 9 settembre è disponibile su RaiPlay Sound 'Italia: le ferite e il coraggio', 7 episodi scritti e raccontati da Luciano Violante con la partecipazione di Gianfranco Zinzilli, dedicati a stragi, terrorismo, mafia e Costituzione nella memoria civile italiana.",
-    "angles": [
-      "Come un editore pubblico costruisce un podcast 'a tema serio' affidandolo a un narratore-personaggio noto",
-      "Format a episodi tematici brevi per raccontare argomenti complessi senza perdere l'ascoltatore"
-    ],
-    "hooks": [
-      "Pensi che i podcast 'seri' siano noiosi per forza? La Rai ne ha appena lanciato uno su stragi e mafia raccontato come una serie, non come un documentario scolastico.",
-      "Ti sembra che il servizio pubblico non sappia fare podcast? Ha appena messo un ex presidente della Camera a raccontare la storia italiana in 7 episodi, mica un tema da poco.",
-      "Cerchi un format per argomenti pesanti che non facciano scappare chi ascolta? Guarda come RaiPlay Sound ha strutturato un intero podcast sulla memoria civile italiana."
-    ]
-  },
-  {
-    "id": "raiplay-sound-secondo-ascolto-2026-09",
-    "title": "'Secondo Ascolto': Alessandro Greco e Alessandro Migliaccio rileggono canzoni italiane su RaiPlay Sound",
-    "source": "danielemignardi.it, FM-World (settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-14",
-    "brief": "Dal 14 settembre debutta su RaiPlay Sound 'Secondo Ascolto', 8 episodi in cui Alessandro Greco e Alessandro Migliaccio usano altrettante canzoni italiane come pretesto per raccontare esperienze personali e temi universali. RaiPlay Sound arriva così a un catalogo di oltre 2.000 titoli, di cui circa 500 Original.",
-    "angles": [
-      "Il 'gancio' musicale come struttura narrativa per un podcast di racconto personale",
-      "Cosa vuol dire per chi inizia avere 500 podcast Original italiani come benchmark diretto"
-    ],
-    "hooks": [
-      "Hai un podcast di chiacchiere e non sai come dargli una struttura? RaiPlay Sound ne lancia uno che usa una canzone diversa a episodio come pretesto per raccontare la vita vera.",
-      "Ti sembra che serva sempre un tema 'da esperti' per fare un podcast? Guarda cosa hanno messo in piedi partendo solo da canzoni italiane e ricordi personali.",
-      "Pensi che RaiPlay Sound faccia solo roba istituzionale? Da domani lancia uno show che sembra uscito da una chiacchierata al bar, con 500 Original già in catalogo a fargli da concorrenza interna."
-    ]
-  },
-  {
     "id": "italian-podcast-awards-piacenza-2026-09",
-    "title": "IlPod - Italian Podcast Awards, quinta edizione il 23 settembre a Piacenza con un nuovo comitato scientifico",
-    "source": "AgenziaCult, PiacenzaSera, IlPiacenza.it (settembre 2026)",
+    "title": "Il 23 settembre torna a Piacenza il Podcast Awards italiano, stavolta senza autocandidature",
+    "source": "Comune di Piacenza / IlPod (pagina evento); AskaNews (21/07/2026); AgenziaCult, IlPiacenza.it, PiacenzaSera (settembre 2026)",
     "affidabilita": "secondaria",
     "target": 6,
     "date": "2026-09-23",
-    "brief": "Il 23 settembre, in Piazza Cavalli a Piacenza, la quinta edizione di IlPod - Italian Podcast Awards assegna Podcast dell'Anno, Podcast Indipendente dell'Anno, Premio Academy (riservato agli allievi della Piacenza Podcast Academy) e Premio Storia del Podcast 2026, con un comitato scientifico introdotto per la prima volta quest'anno.",
+    "brief": "La quinta edizione degli Italian Podcast Awards (IlPod) si terrà il 23 settembre in Piazza Cavalli a Piacenza, evento gratuito e aperto al pubblico. La novità dell'anno è il metodo di selezione: niente più autocandidature, i finalisti sono scelti da un comitato editoriale. In programma premi come Podcast dell'anno, Podcast Indie dell'anno, Premio Academy e il nuovo Premio Storia del Podcast 2026.",
     "angles": [
-      "Cosa valuta un comitato scientifico per un premio podcast, utile per capire cosa 'conta' davvero in uno show",
-      "La nascita di academy locali come segnale di un settore che si struttura anche fuori dalle grandi città"
+      "Cosa cambia per chi fa podcast indie ora che la selezione passa a un comitato e non più all'autocandidatura",
+      "Le categorie premiate come specchio di cosa il settore italiano considera rilevante oggi",
+      "Il valore di un evento dal vivo per una community che vive perlopiù online"
     ],
     "hooks": [
-      "Pensi che i premi per podcast li decida sempre lo stesso giro di addetti ai lavori? Quest'anno a Piacenza hanno messo su un comitato scientifico apposta, roba nuova.",
-      "Ti chiedi chi decide cosa rende un podcast 'da premio'? Il 23 settembre lo scopri in Piazza Cavalli, ingresso libero, altro che gala blindato.",
-      "Segui ancora solo i soliti podcast americani come metro di paragone? A Piacenza c'è una academy che forma podcaster da zero, e il premio lo consegna proprio a loro."
+      "Avevi già preparato il modulo per autocandidare il tuo podcast agli Italian Podcast Awards? Quest'anno decide un comitato editoriale, quindi puoi risparmiarti la fatica e concentrarti sulla puntata.",
+      "Se il 23 settembre sei dalle parti di Piacenza e non sai cosa fare la sera, in Piazza Cavalli c'è gratis tutto il meglio del podcasting italiano su un palco.",
+      "Ti stai chiedendo se il tuo podcast conta davvero qualcosa nel panorama italiano? Guarda le categorie premiate agli IlPod, è una fotografia abbastanza onesta di cosa il settore prende sul serio."
     ]
   },
   {
-    "id": "festival-podcasting-milano-decennale-2026-09",
-    "title": "Il Festival del Podcasting compie 10 anni: torna il 2-3 ottobre a Milano",
-    "source": "ANSA, Il Sole 24 Ore, ItaliaOggi (luglio-settembre 2026)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-10-02",
-    "brief": "L'undicesima edizione del Festival del Podcasting, che festeggia il decimo anniversario, si terrà il 2-3 ottobre a Cascina Triulza (MIND Milano), con eventi locali dal 21 al 30 settembre su discoverability, video podcast, distribuzione, monetizzazione e branded podcast.",
+    "id": "raiplay-sound-violante-podcast-2026-09",
+    "title": "RaiPlay Sound lancia un podcast Original in sette episodi scritto da Luciano Violante",
+    "source": "Daniele Mignardi (danielemignardi.it); MegaModo (settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 4,
+    "date": "2026-09-09",
+    "brief": "Dal 9 settembre è disponibile su RaiPlay Sound 'Italia: le ferite e il coraggio', podcast Original in sette episodi scritto e narrato da Luciano Violante con Gianfranco Zinzilli, dedicato a snodi controversi della storia italiana. È un altro segnale di come il servizio pubblico stia investendo in podcast narrativi pensati apposta per l'audio, non solo in repliche di programmi radiofonici.",
     "angles": [
-      "Un evento italiano interamente dedicato al mestiere del podcasting come benchmark per chi vuole imparare",
-      "I temi in programma (discoverability, monetizzazione, video podcast) come mappa di cosa studiare quest'anno"
+      "Il podcast narrativo storico-civile come genere che la Rai sta spingendo con firme autorevoli",
+      "Cosa insegna sulla struttura in episodi un progetto editoriale scritto da zero per sette puntate tematiche",
+      "Broadcaster tradizionali che producono per il podcast come formato a sé, non come sottoprodotto della radio"
     ],
     "hooks": [
-      "Ti stai chiedendo se in Italia esiste un posto serio dove imparare il mestiere del podcast? Il Festival del Podcasting compie 10 anni e torna a Milano a inizio ottobre, con un programma fatto apposta per chi vuole capire come si fa davvero.",
-      "Pensi che discoverability e monetizzazione siano parole buone solo per i grandi network? Sono proprio i temi al centro del festival italiano di settore che compie un decennio quest'anno.",
-      "Hai sempre guardato solo alle conferenze americane per capire dove va il podcasting? C'è un festival italiano che lo fa da 10 anni, e il programma di quest'edizione vale la pena segnarselo."
+      "Pensi che il podcast narrativo serio sia roba da indie con budget zero e tanta buona volontà? La Rai ha appena messo online sette episodi scritti da un ex presidente della Camera.",
+      "Se stai litigando con la scaletta della tua serie a puntate, guarda come questo progetto ha diviso sette temi scomodi in sette episodi distinti: non è un caso, è struttura editoriale.",
+      "Hai sempre considerato il podcast una cosa 'giovane e indie' per definizione? Anche le istituzioni ci stanno mettendo la voce, e non stiamo parlando di un ripostiglio di contenuti radio riciclati."
     ]
   },
   {
-    "id": "agcom-dati-comunicazione-italiani-2026-09",
-    "title": "AGCOM: internet prima fonte di informazione per il 55,8% degli italiani, radio sempre più 'prodotto multipiattaforma'",
-    "source": "agcom.it, ripreso da NanoTV (4 settembre 2026)",
+    "id": "podcast-italia-36percento-ascolto-2026-03",
+    "title": "Un italiano su tre ascolta podcast, secondo l'Osservatorio Confcommercio-SWG",
+    "source": "ANSA (13/03/2026); Arena Digitale (16/03/2026) — dati Osservatorio Impresa Cultura Italia-Confcommercio con SWG",
     "affidabilita": "primaria",
     "target": 5,
-    "date": "2026-09-04",
-    "brief": "L'Osservatorio sulle Comunicazioni AGCOM n.1/2026 conferma che internet è la prima fonte di informazione per il 55,8% degli italiani, con la radio sempre più letta come 'prodotto multipiattaforma' che include ascolto on demand e podcast, anche se il dato non isola una cifra specifica sui soli podcast.",
+    "date": "2026-03-13",
+    "brief": "Secondo l'Osservatorio Impresa Cultura Italia-Confcommercio realizzato con SWG, ripreso da ANSA, il 36% degli italiani ascolta podcast, sei punti in più rispetto al 2022. Chi ascolta lo fa soprattutto per aumentare le proprie conoscenze, ricevere stimoli intellettuali e scoprire nuovi argomenti, e la fruizione resta in gran parte gratuita.",
     "angles": [
-      "Perché 'radio multipiattaforma' nei dati ufficiali è il segnale che il podcast è ormai mainstream, non nicchia",
-      "I limiti di questi dati: capire cosa NON dicono, per non vendere numeri gonfiati a un cliente"
+      "Il pubblico cresce ma la fruizione resta soprattutto gratuita: cosa significa per chi punta a monetizzare subito",
+      "Le motivazioni di ascolto (imparare, scoprire) come bussola per scegliere il taglio dei contenuti",
+      "Un terzo scarso della popolazione ascolta podcast: tanto spazio, ma anche concorrenza in aumento"
     ],
     "hooks": [
-      "Pensi che i dati ufficiali italiani ignorino ancora i podcast? L'ultimo Osservatorio AGCOM parla ormai di radio come 'prodotto multipiattaforma', e il podcast ci è dentro.",
-      "Ti serve un numero vero da citare quando qualcuno dice che 'in Italia i podcast non li ascolta nessuno'? AGCOM certifica che internet è la prima fonte di informazione per più di un italiano su due.",
-      "Vuoi vendere il podcasting a un cliente scettico con dati seri invece che sensazioni? Parti da un report ufficiale AGCOM, non dall'ennesima statistica americana tradotta male."
+      "Ti chiedi se in Italia il podcast sia ancora roba di nicchia per quattro persone con un microfono da 30 euro? Un italiano su tre ormai ascolta podcast, quindi la risposta è no.",
+      "Se il tuo piano è 'apro un abbonamento e vivo di rendita dal primo mese', sappi che qui la gente ascolta podcast soprattutto gratis: forse conviene rivedere i tempi.",
+      "Vuoi sapere perché la gente dovrebbe ascoltarti? Non è solo intrattenimento puro, la gente cerca soprattutto di imparare qualcosa: tienilo a mente quando scrivi la scaletta."
     ]
   },
   {
-    "id": "youtube-studio-app-deprecation-2026-09",
-    "title": "YouTube smette di supportare le vecchie versioni dell'app YouTube Studio dal 9 settembre",
-    "source": "Pagina di supporto ufficiale YouTube 'Creator updates' — segnale debole, fonte singola non verificata con lettura diretta della pagina",
-    "affidabilita": "segnale debole",
-    "target": 3,
-    "date": "2026-09-09",
-    "brief": "Secondo la pagina di supporto YouTube, dal 9 settembre 2026 le versioni dell'app YouTube Studio fino alla 24.31.6 non sono più supportate: chi gestisce un podcast video su YouTube dall'app mobile deve aggiornare per continuare a caricare e gestire episodi senza problemi.",
+    "id": "iab-forecast-podcast-advertising-2026-09",
+    "title": "L'IAB alza le stime sulla pubblicità podcast negli USA: crescita all'8,7% nel 2026",
+    "source": "IAB, comunicato ufficiale del 10/09/2026; MediaPost, InsideAudioMarketing, InsideRadio (10-11/09/2026)",
+    "affidabilita": "primaria",
+    "target": 5,
+    "date": "2026-09-10",
+    "brief": "Il 10 settembre l'IAB ha rivisto al rialzo le stime di spesa pubblicitaria digitale per il 2026, portando la crescita attesa della pubblicità podcast negli Stati Uniti all'8,7%, più del doppio rispetto al resto dell'audio digitale. La revisione arriva dopo un primo semestre più forte del previsto, trainato anche da grandi eventi live come Olimpiadi invernali e Mondiali.",
     "angles": [
-      "Promemoria pratico: controllare la versione dell'app prima che smetta di funzionare a metà caricamento"
+      "Perché gli inserzionisti continuano a spostare budget sui podcast più che sul resto dell'audio digitale",
+      "Cosa significa per chi cerca sponsor: il mercato cresce, ma la torta si divide tra sempre più show",
+      "Il divario tra hype mediatico sul video e la realtà dei numeri pubblicitari, che premiano ancora il podcast come formato"
     ],
     "hooks": [
-      "Carichi i tuoi episodi video da telefono con l'app YouTube Studio? Da pochi giorni le versioni vecchie non sono più supportate: controlla di essere aggiornato prima di scoprirlo a caricamento a metà.",
-      "Ti si è mai bloccato un caricamento su YouTube Studio senza motivo apparente? Potrebbe essere proprio l'app vecchia: hanno tagliato il supporto alle versioni fino alla 24.31.6.",
-      "Pensi che basti scaricare un'app una volta e non pensarci più? YouTube Studio dice il contrario: aggiornala, o rischi di restare tagliato fuori proprio quando devi pubblicare."
+      "Ti hanno detto che con la pubblicità nei podcast ormai non ci guadagna più nessuno? L'IAB dice che il budget destinato ai podcast cresce più del doppio rispetto al resto dell'audio digitale.",
+      "Se stai aspettando 'il momento giusto' per proporti a uno sponsor, i dati dicono che il mercato pubblicitario dei podcast sta ancora salendo: forse il momento giusto è adesso, non quando avrai più ascolti.",
+      "Hai un podcast piccolo e pensi che la pubblicità sia roba per i grandi nomi? Il comparto cresce per tutti, ma la fetta si divide tra sempre più show: è il momento di differenziarti, non di aspettare."
+    ]
+  },
+  {
+    "id": "podnews-report-card-youtube-creator-2026-05",
+    "title": "Il sondaggio Podnews 2026 certifica il sorpasso di YouTube su Spotify tra i creator",
+    "source": "Podnews Report Card 2026 (podnews.net, maggio 2026); PodcastVideos.com (ripresa secondaria)",
+    "affidabilita": "primaria",
+    "target": 7,
+    "date": "2026-05-20",
+    "brief": "Il Podnews Report Card 2026, sondaggio annuale rivolto alla community dei creator, registra per la prima volta il sorpasso di YouTube su Spotify come piattaforma preferita per pubblicare podcast, dietro solo ad Apple Podcasts. I creator citano soprattutto la scopribilità e il dettaglio delle analitiche di YouTube come motivi della preferenza, mentre la scopribilità in generale resta la preoccupazione numero uno del settore.",
+    "angles": [
+      "Perché pubblicare anche su YouTube non è più un'opzione accessoria se vuoi essere trovato",
+      "Cosa cercano davvero i creator in una piattaforma: non solo download, ma dati e scopribilità",
+      "La scopribilità resta il problema irrisolto del podcasting, qualunque piattaforma tu scelga"
+    ],
+    "hooks": [
+      "Continui a trattare YouTube come 'quel posto dove carico il video del podcast e via'? I creator lo hanno appena messo davanti a Spotify nelle preferenze, e non è un caso.",
+      "Se ti lamenti che nessuno trova il tuo podcast, non sei da solo: la scopribilità resta il problema numero uno per chi lo fa di mestiere, secondo il sondaggio più seguito del settore.",
+      "Hai scelto dove pubblicare solo guardando dove sono già i tuoi amici? I creator dicono che le analitiche dettagliate contano più di quanto pensi, vale la pena dare un'occhiata a cosa ti dice davvero YouTube di chi ti ascolta."
+    ]
+  },
+  {
+    "id": "video-podcast-supera-audio-only-2026-06",
+    "title": "Per la prima volta negli USA il video supera l'audio-only tra gli ascoltatori settimanali di podcast",
+    "source": "Edison Research / SSRS, \"The Podcast Consumer 2026\" (giugno 2026); Radio Ink, InsideRadio, InsideAudioMarketing (ripresa secondaria)",
+    "affidabilita": "primaria",
+    "target": 8,
+    "date": "2026-06-04",
+    "brief": "Secondo lo studio 'The Podcast Consumer 2026' di Edison Research, la quota di ascoltatori settimanali di podcast negli Stati Uniti che guarda anche una versione video ha superato per la prima volta quella di chi ascolta solo audio, un sorpasso iniziato nel terzo trimestre 2025 e confermato nei mesi successivi. L'audio-only conserva comunque un pubblico enorme: i due formati convivono più che sostituirsi a vicenda.",
+    "angles": [
+      "Video sì, ma non significa abbandonare l'audio: i due pubblici coesistono e vanno serviti entrambi",
+      "Cosa cambia per chi registra: pensare all'inquadratura non è più un vezzo da youtuber",
+      "L'engagement è diverso tra video e audio: il pubblico video multitaska meno di quello solo audio"
+    ],
+    "hooks": [
+      "Stai ancora registrando col telefono buttato lì su una pila di libri, tanto 'il mio è un podcast audio'? Ormai chi ascolta ogni settimana guarda anche il video quasi quanto ascolta solo audio.",
+      "Hai paura che fare anche il video rovini il tuo podcast 'puro'? Rilassati, l'audio-only non sta sparendo: i due pubblici convivono, non si stanno sostituendo a vicenda.",
+      "Ti sembra che chi guarda il video sia meno attento, tanto lo fa con la metà dell'occhio mentre scrolla? I dati dicono il contrario: chi guarda multitaska meno di chi ascolta solo l'audio."
     ]
   }
 ]

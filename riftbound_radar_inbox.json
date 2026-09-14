@@ -1,65 +1,56 @@
 [
   {
-    "id": "riftbound-singapore-akali-gorica-2026-09",
-    "title": "Gorica vince la Regional Qualifier di Singapore con un mazzo Akali, primo grande scossone al dominio di Kennen",
-    "source": "GameDaily, Yahoo Sports (sindacazione), riftbound.gg (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-06",
-    "brief": "Al Regional Qualifier di Singapore (5-6 settembre, montepremi 6.000$) Gorica ha vinto giocando Akali, Rogue Assassin, sconfiggendo in finale un mazzo Kennen con un record Swiss di 11-1-1 e tre vittorie su Kennen nel Top 8.",
-    "rilevanza": "Prima crepa reale nel dominio di Kennen, Heart of the Tempest che caratterizzava il meta post-Vendetta: mostra una contro-strategia concreta e cambia le scelte di deck per i prossimi tornei."
-  },
-  {
-    "id": "riftbound-meta-tier-list-post-singapore-2026-09",
-    "title": "Nuova meta tier list post-Singapore: Kennen resta al vertice ma Akali si conferma vera sfidante",
-    "source": "riftbound.gg, 'Riftbound Meta Tier List – Best Decks for Vendetta' (12 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-12",
-    "brief": "L'aggiornamento della tier list community, pubblicato subito dopo la Regional Qualifier di Singapore, conferma Kennen come Legend dominante ma segnala l'ascesa di Akali come sfidante concreta, con i mazzi midrange che stanno superando le strategie aggressive nei round finali.",
-    "rilevanza": "È il riferimento più aggiornato per chi vuole costruire un mazzo competitivo in questo momento del formato."
-  },
-  {
-    "id": "riftbound-vendetta-drawing-2-2026-09",
-    "title": "Aperta la seconda estrazione per acquistare i Booster Display di Vendetta sul Riot Merch Store",
-    "source": "playriftbound.com, 'September Merch Store Update' (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-10",
-    "brief": "Riot ha aperto la seconda estrazione (drawing) per l'acquisto di un Booster Display di Vendetta riservata a Nord America ed Europa, con iscrizioni chiuse alle 9:00 Pacific Time del 10 settembre; i vincitori vengono selezionati a partire dal 14 settembre, con 24 ore di tempo per completare l'ordine.",
-    "rilevanza": "È il canale ufficiale principale per procurarsi display di Vendetta a prezzo MSRP in un mercato dove il prodotto fisico va spesso sold-out."
-  },
-  {
-    "id": "riftbound-regional-championship-stoccarda-creator-2026-09",
-    "title": "Scade oggi la candidatura creator per il Regional Championship europeo di Stoccarda",
-    "source": "playriftbound.com, account ufficiale @playriftbound; ripreso da Geeknative e Gamesmarket",
-    "affidabilita": "primaria",
-    "date": "2026-09-13",
-    "brief": "Il primo Regional Championship europeo di Riftbound si terrà il 6-8 novembre a Stoccarda con un montepremi di 50.000$; scade oggi, 13 settembre, la finestra per candidarsi come content creator, cosplayer o caster per attività come Trivia e Meet & Beats durante l'evento.",
-    "rilevanza": "Occasione diretta per creator e community europea di partecipare ufficialmente al più grande evento competitivo del gioco in Europa."
-  },
-  {
-    "id": "riftbound-corea-lancio-18-settembre-2026-09",
-    "title": "Confermato il lancio coreano di Riftbound il 18 settembre, con carta esclusiva Ahri",
-    "source": "playriftbound.com, 'Korea's Rift Opens on September 18'; Inven Global, Sports Khan",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Riftbound: Origins debutterà in lingua coreana il 18 settembre 2026, con eventi di lancio a Seul (GenG GGX dal 18 al 23, IPark Mall Yongsan) e una carta promozionale esclusiva del mercato coreano, Ahri, Nine-Tailed Fox. Il set Spiritforged arriverà in Corea a dicembre.",
-    "rilevanza": "Apre un nuovo mercato regionale asiatico con una carta esclusiva molto seguita dai collezionisti internazionali."
-  },
-  {
-    "id": "riftbound-radiance-reveal-season-2026-09",
-    "title": "Riftbound: Radiance, il quinto set, apre la reveal season il 21 settembre con uscita fissata al 23 ottobre",
-    "source": "riftbound.gg, ICv2, Yahoo Tech, Escapist Magazine (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-21",
-    "brief": "Radiance (180 carte) uscirà il 23 ottobre in inglese, cinese e francese; la reveal season delle carte parte il 21 settembre, con anteprime dal vivo alla Regional Qualifier di Los Angeles (25-27 settembre). Confermate finora cinque Legend su nove: Seraphine, Evelynn, Ekko, Ziggs e Jarvan IV, più un prodotto Showdown Deck Seraphine vs Evelynn.",
-    "rilevanza": "Dà a rivenditori e collezionisti una finestra concreta prima del lancio di ottobre, e la lineup di campioni orienta già la speculazione sul prossimo metagame."
-  },
-  {
-    "id": "riftbound-nuovo-sito-organized-play-2026-09",
-    "title": "Riot lancia il nuovo PlayRiftbound.com per l'Organized Play, con login Riot ID e ricerca eventi rinnovata",
-    "source": "playriftbound.com, ripreso da UVS Games (settembre 2026)",
+    "id": "riftbound-nuova-piattaforma-organized-play-2026-09",
+    "title": "PlayRiftbound.com diventa la nuova casa dell'Organized Play",
+    "source": "playriftbound.com, \"Introducing the New PlayRiftbound.com\" (14 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-14",
-    "brief": "Riot ha rifatto il sito per l'Organized Play con login tramite Riot account, ricerca eventi aggiornata, registrazione con Riot ID e gestione di pairing e risultati da smartphone; per il 2027 sono previsti strumenti per giudici/organizzatori, supporto 2v2 e decklist digitali.",
-    "rilevanza": "Cambia concretamente il flusso di iscrizione e gestione per chi organizza o partecipa a tornei locali e regionali."
+    "brief": "Riot ha reso PlayRiftbound.com la piattaforma ufficiale per trovare, registrarsi e gestire eventi di Organized Play, sostituendo il precedente sistema basato su carde.io. Il sito integra ricerca eventi, accoppiamenti (pairing) e registrazione risultati durante i tornei, con accesso tramite Riot ID senza bisogno di collegare account esterni.",
+    "rilevanza": "Cambia il modo in cui giocatori e negozi organizzano e trovano tornei locali, semplificando l'accesso all'Organized Play in vista delle prossime qualificazioni regionali e dei campionati."
+  },
+  {
+    "id": "riftbound-regional-championship-stoccarda-2026-09",
+    "title": "Chiuse le candidature creator per il Regional Championship europeo di Stoccarda",
+    "source": "playriftbound.com / account X ufficiale @playriftbound (annuncio Regional Championship Europa); riftboundguide.com",
+    "affidabilita": "primaria",
+    "date": "2026-09-13",
+    "brief": "Riot ha confermato che il primo Regional Championship europeo si terrà a Stoccarda, in Germania, dal 6 all'8 novembre 2026, e ha chiuso il 13 settembre le candidature per i badge riservati ai content creator che vogliono seguire l'evento dal vivo.",
+    "rilevanza": "Segna una tappa importante del circuito competitivo europeo di Riftbound e anticipa uno degli eventi più attesi della stagione per i giocatori agonisti del continente."
+  },
+  {
+    "id": "riftbound-regional-qualifier-los-angeles-2026-09",
+    "title": "Pubblicate le informazioni ufficiali per la Regional Qualifier di Los Angeles",
+    "source": "riftbound.gg, \"Los Angeles Regional Qualifier 2026 Event Information\" (pubblicato a settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Riot ha diffuso la guida \"Know Before You Go\" per l'ultima Regional Qualifier del 2026, in programma dal 25 al 27 settembre al Los Angeles Convention Center, con inviti al Regional Championship e un montepremi in palio, oltre ad affrontare alcune criticità logistiche emerse a Barcellona e Singapore.",
+    "rilevanza": "È una delle ultime occasioni del 2026 per qualificarsi ai Regional Championship, quindi rilevante per i giocatori competitivi che puntano al circuito ufficiale."
+  },
+  {
+    "id": "riftbound-radiance-set-5-anteprime-2026-09",
+    "title": "Al via le anteprime del quinto set Riftbound: Radiance",
+    "source": "ICv2, \"Riot Games Unveils New Deets on 'Riftbound: Radiance'\"; riftbound.gg pagina dedicata a Radiance",
+    "affidabilita": "primaria",
+    "date": "2026-09-28",
+    "brief": "Le anteprime di carte del quinto set, Radiance, iniziano in concomitanza con la Regional Qualifier di Los Angeles e proseguono fino al 9 ottobre, in attesa degli eventi Pre-Rift (16-22 ottobre) e dell'uscita globale prevista per il 23 ottobre 2026. Il set introduce nuovi Leggenda campioni tra cui Seraphine, Ziggs, Jarvan IV, Ekko ed Evelynn.",
+    "rilevanza": "L'inizio delle anteprime è il momento in cui la community comincia a valutare l'impatto sul meta delle nuove carte, decisivo per chi pianifica acquisti e mazzi in vista del lancio."
+  },
+  {
+    "id": "riftbound-tier-list-meta-settembre-2026-09",
+    "title": "Aggiornata la tier list del meta con Kennen, Master Yi, Azir e Akali in vetta",
+    "source": "riftbound.gg tier list e riftdecks.com (aggiornamento dell'11 settembre 2026, basato sui risultati dei tornei)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-11",
+    "brief": "Le principali piattaforme di analisi del meta hanno aggiornato la classifica dei Leggenda più forti dopo la diffusione globale del set Vendetta, collocando Kennen, Master Yi, Azir e Akali in Tier 1, seguiti da un gruppo di Tier 2 che include Irelia, Rengar, Fiora, Ornn, Jayce, Diana, Kha'Zix ed Ezreal.",
+    "rilevanza": "Fornisce ai giocatori competitivi un riferimento aggiornato su quali Leggenda e mazzi puntare in vista delle ultime Regional Qualifier di stagione."
+  },
+  {
+    "id": "riftbound-corea-lancio-2026-09",
+    "title": "Riftbound Origins debutta in Corea del Sud il 18 settembre",
+    "source": "playriftbound.com, \"Korea's Rift Opens on September 18\" (annuncio ufficiale)",
+    "affidabilita": "primaria",
+    "date": "2026-09-18",
+    "brief": "Il set Origins arriva sugli scaffali coreani con due eventi di lancio a Seoul, promo esclusive di Jinx e Yasuo e una variante speciale di Ahri riservata al mercato coreano. La regione adotterà come formato di riferimento un \"Korean Standard\" temporaneo, che si amplierà con le localizzazioni successive.",
+    "rilevanza": "Segna l'espansione del gioco in un nuovo mercato chiave per i TCG, di interesse sia per i collezionisti che seguono le release regionali sia per chi valuta l'espansione competitiva del gioco a livello globale."
   }
 ]

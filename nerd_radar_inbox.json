@@ -1,56 +1,65 @@
 [
   {
-    "id": "playstation-kojima-physint-xbox-2026-09",
-    "title": "PlayStation rompe con Kojima Productions: 'Physint' diventa esclusiva Xbox",
-    "source": "GameInformer (10 settembre 2026); ripreso da TechRadar, TechSpot, Gizmodo, GameRant",
-    "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "brief": "Sony ha interrotto la collaborazione con Kojima Productions su 'Physint', decisione presa secondo Hideo Kojima circa tre mesi prima per motivi di budget/ritorno economico. Microsoft ha rilevato la pubblicazione del gioco, che diventa così esclusiva Xbox, chiudendo uno dei sodalizi creativi più longevi tra PlayStation e Kojima.",
-    "tipo": "annuncio videogioco (industria/editoria)"
-  },
-  {
-    "id": "blizzcon-2026-annunci-2026-09",
-    "title": "BlizzCon 2026: annunciati un nuovo StarCraft open-world, Diablo 5 e l'espansione WoW: Forever",
-    "source": "Blizzard, comunicato ufficiale (12 settembre 2026); ripreso da GameSpot, PC Gamer, GamesRadar",
+    "id": "blizzcon-2026-diablo-5-starcraft-wow-forever",
+    "title": "BlizzCon torna dopo tre anni: annunciati Diablo 5, un nuovo StarCraft open-world e World of Warcraft Forever",
+    "source": "GamesRadar, Escapist Magazine, Beebom, AllKeyShop (12 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-12",
-    "brief": "Durante la cerimonia di apertura di BlizzCon 2026, Blizzard ha rivelato un nuovo StarCraft in forma di sparatutto open-world (uscita 2030, ambientato 70 anni dopo Legacy of the Void), Diablo 5 (2029), l'espansione World of Warcraft: Forever/The Last Titan e la nuova eroina Xal'atah per Heroes of the Storm.",
-    "tipo": "annuncio videogioco / evento ufficiale"
+    "brief": "BlizzCon è tornata il 12 settembre 2026 alla Anaheim Convention Center dopo tre anni di assenza. Blizzard ha confermato Diablo 5 con uscita prevista nel 2029, un nuovo capitolo di StarCraft in forma di sparatutto open-world atteso nel 2030, e World of Warcraft Forever, una versione rimasterizzata dell'esperienza WoW del primo anno bloccata al livello 60. Annunciata anche una partnership con Netflix per una serie animata su Diablo.",
+    "tipo": "fiera di settore / annuncio videogioco"
   },
   {
-    "id": "tokyo-game-show-2026-record-2026-09",
-    "title": "Tokyo Game Show 2026 verso il record: 1.138 aziende espositrici da 53 paesi",
-    "source": "CESA (organizzatore), ripreso da Inven Global (10 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "brief": "CESA ha diffuso i dati definitivi pre-evento del Tokyo Game Show 2026 (17-21 settembre, Makuhari Messe): 1.138 aziende espositrici (540 giapponesi, 598 estere) da 53 paesi, 3.999 stand, per la prima volta 5 giorni di fiera con l'aggiunta della TKP Tokyo Bay Makuhari Hall.",
-    "tipo": "fiera di settore / dati organizzativi"
-  },
-  {
-    "id": "munchkin-rpg-annuncio-2026-09",
-    "title": "Munchkin diventa un gioco di ruolo compatibile con la 5.5E",
-    "source": "Tribality (10 settembre 2026); ripreso da TechRaptor, Bell of Lost Souls, GeekNative",
-    "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "brief": "Lynnvander Studios, in licenza ufficiale con Steve Jackson Games, ha annunciato 'Munchkin 5.5E RPG', un gioco di ruolo completo basato sul celebre gioco di carte, con specie giocabili (inclusi i Mimic) e sottoclassi parodistiche; il crowdfunding su BackerKit è previsto per ottobre 2026.",
-    "tipo": "annuncio gioco da tavolo / gioco di ruolo"
-  },
-  {
-    "id": "milano-comics-games-2026-evento-2026-09",
-    "title": "Milano Comics & Games 2026: nuova area dedicata a Trading Card Game e wargame",
-    "source": "fieredelfumetto.it, CorriereNerd (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-12",
-    "brief": "La 22ª edizione di Milano Comics & Games (12-13 settembre, MalpensaFiere) porta come novità un'area dedicata a Trading Card Games, wargame e giochi di ruolo ('Cards, Miniature e Avventure'), oltre ai consueti spazi su fumetti, manga, anime, cosplay e K-pop.",
+    "id": "tokyo-game-show-2026-record-espositori",
+    "title": "Tokyo Game Show 2026 al via il 17 settembre con record di espositori per il 30° anniversario",
+    "source": "Stevivor, Inven Global, sito ufficiale TGS/CESA (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-17",
+    "brief": "Il Tokyo Game Show 2026 si tiene dal 17 al 21 settembre al Makuhari Messe, per la prima volta esteso a cinque giorni consecutivi in occasione del trentesimo anniversario della fiera. Gli organizzatori CESA hanno confermato un numero record di espositori provenienti da decine di paesi, con grandi publisher come Bandai Namco, Capcom, SEGA e Square Enix presenti in forze.",
     "tipo": "fiera di settore"
   },
   {
-    "id": "playism-game-show-tgs-preview-2026-09",
-    "title": "PLAYISM Game Show anticipa 11 giochi in vista del Tokyo Game Show",
-    "source": "Gematsu, Noisy Pixel (10 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "brief": "Il publisher PLAYISM ha trasmesso uno show di 10 minuti con 11 giochi tra nuovi annunci e gameplay esteso, in vista del Tokyo Game Show 2026 di Makuhari (17-21 settembre).",
+    "id": "square-enix-tgs-2026-lineup-final-fantasy-kingdom-hearts",
+    "title": "Square Enix svela la line-up per il Tokyo Game Show 2026: Kingdom Hearts IV e Final Fantasy VII Revelation tra i protagonisti",
+    "source": "Gematsu, Nintendo Life, RPG Site (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-09",
+    "brief": "In vista del Tokyo Game Show 2026, Square Enix ha annunciato la propria selezione di titoli in mostra, che include Kingdom Hearts IV, Final Fantasy VII Revelation e il nuovo Final Fantasy Resonance, entrambi con demo giocabili, oltre a Dragon Quest VII Reimagined presente nell'area Family Game Park.",
     "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "nintendo-direct-settembre-2026-metroid-ravenous-kirby",
+    "title": "Nintendo Direct del 9 settembre: annunciati Metroid Ravenous e Kirby and the World Beyond",
+    "source": "Nintendo Life, GameSpot, mxdwn Games (9 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-09",
+    "brief": "Nintendo ha trasmesso un Direct il 9 settembre 2026, il giorno dopo lo speciale dedicato al 40° anniversario di Zelda. Tra gli annunci principali, Metroid Ravenous, nuovo capitolo 2D che segue gli eventi di Metroid Dread, in uscita a gennaio 2027, e Kirby and the World Beyond, un nuovo Kirby 3D non lineare previsto per la primavera 2027.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "essen-spiel-2026-otto-sale-golden-demon",
+    "title": "Essen Spiel 2026 occuperà per la prima volta tutte le otto sale della fiera",
+    "source": "Sito ufficiale spiel-essen.de, BoardGameGeek (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-10",
+    "brief": "La fiera SPIEL di Essen, in programma dal 22 al 25 ottobre 2026, occuperà per la prima volta nella sua storia tutti gli otto padiglioni della Messe Essen. L'artista americano Peter Mohrbacher è stato annunciato come ambasciatore dell'edizione 2026, mentre il Golden Demon europeo, competizione di pittura di miniature, tornerà come evento collegato alla manifestazione.",
+    "tipo": "fiera di settore"
+  },
+  {
+    "id": "milan-games-week-cartoomics-2026-tema-in-motion",
+    "title": "Milan Games Week & Cartoomics 2026: svelati tema \"In Motion\" e il poster ufficiale firmato da Posuka Demizu",
+    "source": "GameSource, Orgoglio Nerd (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-08",
+    "brief": "Sono state comunicate le prime novità di Milan Games Week & Cartoomics 2026, in programma dal 27 al 29 novembre a Fiera Milano Rho. L'edizione si espande a quattro padiglioni con il tema dell'acqua e il claim \"In Motion\", e per la prima volta il poster ufficiale porta la firma della mangaka giapponese Posuka Demizu, autrice di The Promised Neverland, ospite d'onore dell'evento.",
+    "tipo": "fiera di settore"
+  },
+  {
+    "id": "giochi-tavolo-italia-novita-settimana-settembre-2026",
+    "title": "Giochi da tavolo, le novità italiane della settimana: Archeo finalista As d'Or 2026 tra le uscite di settembre",
+    "source": "Geek.pizza (9 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-09",
+    "brief": "Il consueto riepilogo settimanale delle novità ludiche italiane segnala tra le uscite di settembre 2026 titoli come Archeo, gioco cooperativo per bambini finalista al premio As d'Or 2026 nella categoria Kids, insieme ad altre novità come 1960 - Making of the President e la serie Profiler dedicata ai casi di omicidio da risolvere.",
+    "tipo": "annuncio gioco da tavolo"
   }
 ]
