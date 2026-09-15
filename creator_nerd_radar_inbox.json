@@ -1,56 +1,47 @@
 [
   {
-    "id": "lucca-comics-2026-cydonia-neoran-valley",
-    "title": "Lucca Comics & Games 2026: il content creator Cydonia sarà Creative Director di Wonderful Neoran Valley",
+    "id": "lollolacustre-aci-comics-sicilia-2026-09",
+    "title": "LolloLacustre per la prima volta in Sicilia per il taglio del nastro di Aci Comics & Games 2026",
+    "source": "Free Press Online, \"Aci Comics & Games 2026, il festival cresce: LolloLacustre arriva in Sicilia\" (14 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-14",
+    "brief": "Lo streamer e content creator LolloLacustre sarà per la prima volta in Sicilia in occasione della quarta edizione di Aci Comics & Games, dal 18 al 20 settembre al Palavolcan di Acireale, ed è annunciato al taglio del nastro di venerdì 18 settembre alle 11.30.",
+    "rilevanza": "Mostra come i grandi eventi di fumetti e gaming del Sud Italia riescano ormai a portare in presenza creator nazionali di primo piano, non solo ospiti locali."
+  },
+  {
+    "id": "zeronikib-copresentatrice-aci-comics-2026-09",
+    "title": "Zeronikib annunciata co-presentatrice di Aci Comics & Games 2026",
+    "source": "Sito ufficiale palermocomicconvention.it e comunicati stampa Aci Comics & Games (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-13",
+    "brief": "La cosplayer e content creator legata al mondo gaming Zeronikib è stata annunciata come co-presentatrice della quarta edizione di Aci Comics & Games, in programma dal 18 al 20 settembre ad Acireale.",
+    "rilevanza": "Conferma il ruolo dei content creator come volto ufficiale delle fiere nerd regionali, non più solo ospiti tra il pubblico ma parte dello staff di presentazione."
+  },
+  {
+    "id": "the-black-boys-primo-canale-gaming-italia-2026",
+    "title": "The Black Boys si confermano il canale gaming italiano più seguito su YouTube",
+    "source": "HypeAuditor, \"Top Video games YouTube Channels in Italy\" (dati 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-06-01",
+    "brief": "Secondo la classifica HypeAuditor dei canali YouTube italiani dedicati ai videogiochi, The Black Boys risultano al primo posto con 2,3 milioni di iscritti, davanti a Sbriser al secondo posto, confermando la propria posizione di riferimento nella nicchia gaming del panorama creator italiano.",
+    "rilevanza": "Fotografa chi comanda davvero nella nicchia gaming italiana su YouTube, un dato di riferimento per chi valuta collaborazioni o vuole capire i format che funzionano nel settore."
+  },
+  {
+    "id": "cydonia-wonderful-neoran-valley-lucca-2026-09",
+    "title": "Cydonia Creative Director di Wonderful Neoran Valley, in mostra a Lucca Comics 2026",
     "source": "ilvideogiocatore.it (13 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-13",
-    "brief": "Tra gli ospiti dell'area videogiochi della 60esima edizione di Lucca Comics & Games (28 ottobre - 1 novembre) compare il progetto Wonderful Neoran Valley di Nara Studio, che vede il content creator italiano Cydonia come Creative Director, con meet & greet previsti in fiera. Il titolo, nato da una delle campagne Kickstarter italiane di maggior successo nel settore videoludico, sarà disponibile via app dal 24 settembre.",
+    "brief": "Tra gli ospiti dell'area videogiochi di Lucca Comics & Games 2026 (28 ottobre - 1 novembre) compare Wonderful Neoran Valley di Nara Studio, che vede il content creator italiano Cydonia come Creative Director, con meet & greet previsti in fiera. Il titolo, nato da una delle campagne Kickstarter italiane di maggior successo nel settore videoludico, sarà disponibile via app dal 24 settembre.",
     "rilevanza": "Mostra un content creator italiano passare da youtuber a ruolo creativo diretto in un progetto videoludico protagonista a uno dei principali eventi nerd del paese."
   },
   {
-    "id": "palermo-comic-convention-2026-mozzy-lionification",
-    "title": "Palermo Comic Convention 2026 chiude con i content creator Mozzy e Lionification tra gli ospiti",
-    "source": "palermocomicconvention.it, ilmoderatore.it, besicilymag.it (10-13 settembre 2026)",
+    "id": "modena-play-anteprima-stampa-creator-2026-09",
+    "title": "Play - Festival del Gioco di Modena apre venerdì 26 settembre a giornalisti e content creator di settore",
+    "source": "IoGioco.it (settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-13",
-    "brief": "L'undicesima edizione della Palermo Comic Convention, svoltasi dal 10 al 13 settembre ai Cantieri Culturali alla Zisa, ha ospitato tra gli altri i content creator Mozzy, palermitano noto per interviste ironiche e provocatorie sulla sua città, e Lionification (Gaetano Chiara), videomaker catanese legato al mondo Beyblade X e alla cultura nerd. L'evento ha visto anche grandi nomi del fumetto come Leo Ortolani e Charlie Adlard.",
-    "rilevanza": "Conferma il ruolo crescente dei content creator locali come attrazione autonoma nelle fiere fumettistiche regionali, accanto ad autori affermati."
-  },
-  {
-    "id": "palombara-comix-2026-creator-giappone-disney",
-    "title": "Palombara Comix 2026: content creator sul palco raccontano Giappone e fiabe Disney",
-    "source": "Ansa.it, RomaToday (10-13 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-13",
-    "brief": "Nella due giorni del Palombara Comix (12-13 settembre) al Castello Savelli, i content creator Supereroi Senza Superpoteri e Japan Lila sono saliti sul palco per raccontare i loro \"shock culturali\" nell'incontro con la cultura giapponese, mentre Cristiana Nerd Arte ha guidato il pubblico alla scoperta delle radici di alcune celebri fiabe Disney. Il programma ha incluso anche un Cosplay Contest e un K-pop Show.",
-    "rilevanza": "Esempio di come i content creator nerd italiani vengano invitati come relatori negli eventi di settore, portando dal digitale al palco fisico i propri format."
-  },
-  {
-    "id": "zerocalcare-vignetta-sepsi-2026",
-    "title": "Zerocalcare firma una vignetta inedita per la campagna nazionale contro la sepsi",
-    "source": "Ansa.it, La Nazione (11 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-11",
-    "brief": "In occasione della Giornata mondiale della sepsi, la Società Italiana di Anestesia, Analgesia, Rianimazione e Terapia Intensiva (Siaarti) ha diffuso una vignetta inedita del fumettista Zerocalcare per sensibilizzare sul tema, con il messaggio \"Se domani peggioro ancora, chiamo il medico; ma con la sepsi il tempo conta\".",
-    "rilevanza": "Mostra come un autore di riferimento della scena fumettistica/nerd italiana metta la propria opera al servizio di campagne di utilità sociale, uscendo dal circuito editoriale abituale."
-  },
-  {
-    "id": "tana-dei-goblin-kickstarter-meta-settembre-2026",
-    "title": "La Tana dei Goblin pubblica la rassegna dei Kickstarter di giochi da tavolo di metà settembre 2026",
-    "source": "goblins.net - La Tana dei Goblin (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-12",
-    "brief": "Il portale italiano di giochi da tavolo La Tana dei Goblin ha pubblicato il consueto articolo della rubrica \"Kalcio d'inizio\" con la rassegna delle campagne Kickstarter di metà settembre 2026, segnalando tra gli altri Burning Skies di Atlantis Studio, gioco di battaglie tra vascelli volanti pensato come apripista della linea Sky Realms of Atlantis.",
-    "rilevanza": "Testimonia l'attività editoriale regolare di uno dei principali content creator/community italiani dedicati ai giochi da tavolo nel segnalare nuovi progetti crowdfunded."
-  },
-  {
-    "id": "grenbaud-lollolacustre-kick-twitch-dibattito",
-    "title": "Dibattito tra streamer italiani su Kick e Twitch: Lollolacustre critica la scelta di Grenbaud",
-    "source": "Video YouTube/TikTok di Lollolacustre e Grenbaud; commento su Substack di Charlotte Matteini",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-01",
-    "brief": "Dopo che lo streamer Grenbaud ha reso pubblici i termini economici di una collaborazione con la piattaforma Kick, lo streamer Lollolacustre lo ha criticato pubblicamente definendo la scelta una questione di etica e responsabilità verso il pubblico, aprendo un dibattito tra creator italiani su Kick come alternativa a Twitch. La collocazione temporale esatta dello scambio non è verificabile con certezza dalle fonti disponibili.",
-    "rilevanza": "Riflette un dibattito ricorrente nella community italiana di streaming/gaming sulle implicazioni etiche degli accordi con piattaforme alternative a Twitch, sebbene i dettagli e la data precisa restino incerti."
+    "date": "2026-09-26",
+    "brief": "In vista della due giorni pubblica del 27-28 settembre, Play - Festival del Gioco di ModenaFiere riserva la giornata di venerdì 26 settembre a un'anteprima stampa dedicata a giornalisti e operatori del settore, tra cui i content creator che seguono abitualmente le novità ludiche italiane per i propri canali.",
+    "rilevanza": "Conferma il ruolo dei content creator di giochi da tavolo come canale di anteprima ufficiale per le case editrici italiane, al pari della stampa specializzata tradizionale."
   }
 ]

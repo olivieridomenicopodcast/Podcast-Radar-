@@ -1,19 +1,19 @@
 [
   {
-    "id": "propagazione-hf-fori-coronali-settembre-2026",
-    "title": "Fori coronali attivi spingono il campo geomagnetico verso livelli disturbati",
-    "source": "The Watchers (watchers.news), 12 settembre 2026; NOAA SWPC",
+    "id": "twin-coronal-holes-g1-storm-window-2026-09",
+    "title": "Due fori coronali gemelli aprono una finestra di tempesta geomagnetica G1 fino a martedì",
+    "source": "Tech Times, \"Twin Coronal Holes Aim Solar Wind at Earth: G1 Storm Window Through Tuesday\" (14/09/2026); NOAA SWPC",
     "affidabilita": "secondaria",
-    "date": "2026-09-12",
-    "brief": "Due fori coronali di polarità negativa (uno nell'emisfero nord, uno nell'emisfero sud) sono transitati vicino al meridiano centrale solare tra il 10 e il 14 settembre. NOAA SWPC prevede per il campo geomagnetico condizioni da quiete a poco disturbate il 12 settembre, con possibilità di livelli da poco disturbati a tempesta minore (G1) tra il 13 e il 17 settembre a causa dei venti solari ad alta velocità originati da queste strutture. La regione attiva AR4521 ha prodotto solo brillamenti di classe B non diretti verso la Terra."
+    "date": "2026-09-14",
+    "brief": "Due fori coronali stanno indirizzando vento solare ad alta velocità verso la Terra: il primo flusso ha iniziato a raggiungere il pianeta il 14 settembre, il secondo è atteso il 15. NOAA prevede un Kp massimo di 4 (soglia G1) tra il 14 e il 16 settembre, con probabilità crescente di tempesta il 16 quando un ulteriore flusso ad alta velocità arriverà in posizione geoefficace; nessun brillamento significativo è previsto nel frattempo."
   },
   {
-    "id": "watch-tempesta-g1-g2-cme-inizio-settembre-2026",
-    "title": "Serie di CME da AR4524 innesca watch di tempesta geomagnetica G1/G2",
-    "source": "NOAA/SWPC (spaceweather.gov); The Watchers, 7-9 settembre 2026",
-    "affidabilita": "primaria",
-    "date": "2026-09-08",
-    "brief": "Diverse espulsioni di massa coronale originate dalla regione attiva AR4524 hanno raggiunto la Terra tra l'8 e il 9 settembre, causando tempeste geomagnetiche minori (G1) con possibile estensione a G2 (moderata). Il relativo watch G2, emesso l'8 settembre, è stato poi cancellato il 9 settembre non essendosi più verificate le condizioni previste. Nessun brillamento di classe X è stato registrato nella prima metà di settembre 2026: i picchi sono stati di classe M (M1.2 il 4 settembre, M1.0 il 5 settembre)."
+    "id": "dxpedition-ri1fjl-terra-francesco-giuseppe-2026-09",
+    "title": "RI1FJL attivi dall'isola di Heiss, Terra di Francesco Giuseppe, per 15 giorni",
+    "source": "DX-World.net (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-10",
+    "brief": "Il team RI1FJL è in attività dall'isola di Heiss (IOTA EU-014), nell'arcipelago russo della Terra di Francesco Giuseppe, per un'operazione di 15 giorni a settembre 2026. Si tratta di una delle entità più remote e rare dell'Artico, raramente attivata per via delle difficoltà logistiche."
   },
   {
     "id": "dxpedition-kh8ww-american-samoa-settembre-2026",
@@ -25,34 +25,34 @@
   },
   {
     "id": "dxpedition-v47ya-v47rcx-saint-kitts-settembre-2026",
-    "title": "V47YA e V47RCX in QRV da Saint Kitts per tutto settembre",
+    "title": "V47YA e V47RCX in QRV da Saint Kitts fino al 30 settembre",
     "source": "DX-World.net; 425 DX News #1843",
     "affidabilita": "secondaria",
     "date": "2026-09-09",
     "brief": "Tom K0YA (nominativo V47YA) e Toni W5RCX (nominativo V47RCX) operano da Saint Kitts dal 9 al 30 settembre 2026 in stile vacanza, QRV 160-6 metri in CW, SSB e FT8, con QSL via LoTW per entrambi i nominativi. È già annunciato anche un secondo soggiorno da febbraio a marzo 2027."
   },
   {
-    "id": "contest-wae-dx-ssb-settembre-2026",
-    "title": "WAE DX Contest SSB disputato nel weekend del 12-13 settembre",
-    "source": "DARC (Worked All Europe DX Contest); contestcalendar.com",
+    "id": "iaru-r1-eop-quarta-edizione-2026",
+    "title": "IARU Region 1 pubblica la quarta edizione dell'Ethics and Operating Procedures",
+    "source": "IARU Region 1 (comunicazione ufficiale, 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-12",
-    "brief": "Il WAE DX Contest in fonia, organizzato dal DARC tedesco, si è svolto dalle 0000Z di sabato 12 settembre alle 2359Z di domenica 13 settembre 2026, nel secondo weekend pieno del mese come da tradizione per il Worked All Europe."
+    "date": "2026-09-01",
+    "brief": "IARU Region 1 ha annunciato la pubblicazione della quarta edizione di \"Ethics and Operating Procedures for the Radio Amateur\" (EOP), il documento internazionale di riferimento su principi etici e corrette procedure operative nel servizio di radioamatore, aggiornato per riflettere modi digitali e pratiche operative più recenti."
   },
   {
-    "id": "contest-arrl-september-vhf-2026",
-    "title": "ARRL September VHF Contest nel weekend del 12-14 settembre",
-    "source": "ARRL (arrl.org/september-vhf); contests.arrl.org",
+    "id": "mimit-sperimentazione-160m-4m-proroga-2026",
+    "title": "Il MIMIT proroga a fine 2026 la sperimentazione delle bande dei 160 e dei 4 metri",
+    "source": "PianetaRadio.it; MIMIT (autorizzazioni temporanee 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-12",
-    "brief": "Il contest ARRL September VHF si è tenuto dalle 1800 UTC di sabato 12 settembre alle 0259 UTC di lunedì 14 settembre 2026. Novità di regolamento: i contatti nelle categorie FM Only ora possono includere anche 902 MHz e 1,2 GHz, oltre alle quattro bande VHF inferiori (50, 144, 222 e 432 MHz) precedentemente previste."
+    "date": "2026-09-01",
+    "brief": "Il Ministero delle Imprese e del Made in Italy ha confermato, valide fino al 31 dicembre 2026, le autorizzazioni temporanee alla sperimentazione radioamatoriale sulle frequenze 1810-1830 kHz (160 metri) e 70.100/70.200/70.300 MHz (4 metri), entrambe con potenza massima di 10 W e larghezza di banda limitata a 25 kHz per il segmento a 70 MHz."
   },
   {
-    "id": "hamlib-premio-software-2026",
-    "title": "Hamlib vince l'Amateur Radio Software Award 2026",
-    "source": "Ham Radio Daily (daily.hamweekly.com), aprile 2026; GitHub Hamlib/Hamlib",
-    "affidabilita": "secondaria",
-    "date": "2026-04-01",
-    "brief": "Il progetto Hamlib, libreria open source per il controllo di ricetrasmettitori, rotori e amplificatori, è stato premiato con l'Amateur Radio Software Award 2026. L'ultima release stabile, la 4.7.2, risale al 21 giugno 2026 e include correzioni di sicurezza per vulnerabilità in rigctld; una versione 5.0 con cambiamenti maggiori è in sviluppo senza data di rilascio definita."
+    "id": "contest-state-qso-party-settembre-2026",
+    "title": "Weekend di State QSO Party negli USA: la guida ai contest di settembre",
+    "source": "OnAllBands.com / ARRL, \"Guide to September 2026 Ham Radio Contests—State QSO Party Edition\"",
+    "affidabilita": "primaria",
+    "date": "2026-09-01",
+    "brief": "La guida ARRL ai contest di settembre 2026 segnala il tradizionale susseguirsi di State QSO Party nel corso del mese, occasioni per lavorare contee ed entità statali statunitensi spesso poco attive fuori da questi eventi, utili sia per punti contest sia per completare award geografici."
   }
 ]

@@ -1,11 +1,35 @@
 [
   {
     "id": "anthrax-cursum-perficio-2026-09",
-    "title": "Anthrax pronti a pubblicare il nuovo album Cursum Perficio",
-    "source": "Blabbermouth.net, Nuclear Blast, Consequence (settembre 2026)",
+    "title": "Anthrax pronti a pubblicare il nuovo album Cursum Perficio il 18 settembre",
+    "source": "Blabbermouth.net, Nuclear Blast, Loudwire (settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-18",
     "brief": "Cursum Perficio, il dodicesimo album in studio degli Anthrax e il primo dopo For All Kings del 2016, esce il 18 settembre 2026 tramite Nuclear Blast. L'album, prodotto da Jay Ruston, è stato anticipato dai singoli \"It's For the Kids\", \"The Edge of Perfection\" ed \"Everybody's Got a Plan\"."
+  },
+  {
+    "id": "metalitalia-festival-warmup-mezzago-2026-09",
+    "title": "Metalitalia Festival: Warm Up Party il 25 settembre al Bloom di Mezzago con Paradise Lost",
+    "source": "Rockol.it, \"Metalitalia Festival 2026: la line-up completa\" (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Il Metalitalia Festival sarà anticipato dal Warm Up Party del 25 settembre al Bloom di Mezzago, con i Paradise Lost protagonisti di uno show speciale \"by request\" insieme ad Amenra, Harakiri For The Sky, Novembre, 1914 e Nero Di Marte. Il festival vero e proprio, a fine mese, avrà tra gli headliner Coroner, Fear Factory, Demolition Hammer, Sadist, Fulci, Allegaeon e Gorod."
+  },
+  {
+    "id": "arcanum-fest-verona-2026-09",
+    "title": "Arcanum Fest a Verona con Hellripper, Mercyless, Whiskey Ritual e Duir",
+    "source": "MetalSkunk.com, \"La pianura pagana: i concerti metal di settembre 2026 nel Nord Italia\"",
+    "affidabilita": "secondaria",
+    "date": "2026-09-01",
+    "brief": "Tra gli appuntamenti metal del Nord Italia a settembre 2026 spicca l'Arcanum Fest di Verona, con sul palco Hellripper, Mercyless, Whiskey Ritual e Duir, uno dei concerti extreme metal più segnalati del mese dalle testate di settore."
+  },
+  {
+    "id": "concerti-nord-italia-feffarkorn-metalburg-2026-09",
+    "title": "Feffarkorn in Veneto e Metalburg a Montebello Vicentino tra i live metal del mese",
+    "source": "MetalSkunk.com, \"La pianura pagana: i concerti metal di settembre 2026 nel Nord Italia\"",
+    "affidabilita": "secondaria",
+    "date": "2026-09-01",
+    "brief": "A settembre il Nord Italia ospita diversi live minori ma seguiti dalla community: il Feffarkorn in Veneto con i Paddy and the Rats e il Metalburg 2026 a Montebello Vicentino con Necromass, Menace, Reckless e Barbarian, segnalati tra gli appuntamenti da non perdere per chi segue la scena metal dal vivo del territorio."
   },
   {
     "id": "green-lung-necropolitan-2026-09",
@@ -14,29 +38,5 @@
     "affidabilita": "primaria",
     "date": "2026-09-11",
     "brief": "La band britannica Green Lung ha pubblicato l'11 settembre 2026 il suo quarto album, Necropolitan, per Nuclear Blast Records. Il disco, prodotto da Tom Dalgety (già al lavoro con Opeth e Ghost) e registrato ai Rockfield Studios, è stato incluso tra le uscite più rilevanti della settimana da Metal Injection."
-  },
-  {
-    "id": "dreadnought-wars-of-spirit-2026-09",
-    "title": "Dreadnought escono con Wars Of Spirit // Wards Of Light",
-    "source": "Metal Injection, Metal Blade Records (11 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-11",
-    "brief": "La band statunitense Dreadnought ha pubblicato l'11 settembre 2026 il suo sesto album, Wars Of Spirit // Wards Of Light, tramite Metal Blade Records. Il disco è stato segnalato da Metal Injection tra le uscite settimanali più interessanti nell'ambito del post-metal/progressive."
-  },
-  {
-    "id": "archgoat-nightbringer-lightbringer-2026-09",
-    "title": "Gli Archgoat pubblicano Nightbringer, Lightbringer",
-    "source": "Debemur Morti Productions e testate di settore (11 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-11",
-    "brief": "La black/death metal band finlandese Archgoat ha pubblicato l'11 settembre 2026 il nuovo album Nightbringer, Lightbringer tramite l'etichetta Debemur Morti Productions, confermato da più testate specializzate come tra le uscite metal estreme della settimana."
-  },
-  {
-    "id": "blind-channel-milano-febbraio-2027",
-    "title": "Blind Channel annunciano una data a Milano nel febbraio 2027",
-    "source": "truemetal.it, imusicfun, Longliverocknroll.it (1 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-01",
-    "brief": "I finlandesi Blind Channel hanno annunciato una data italiana ai Magazzini Generali di Milano per il 18 febbraio 2027, a supporto del nuovo album Painstream in uscita per Century Media il 30 ottobre. Sul palco anche i Block Of Flats come ospiti; i biglietti sono gestiti da MC2Live e Vivaticket."
   }
 ]

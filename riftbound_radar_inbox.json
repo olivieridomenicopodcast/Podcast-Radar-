@@ -1,48 +1,48 @@
 [
   {
-    "id": "riftbound-nuova-piattaforma-organized-play-2026-09",
-    "title": "PlayRiftbound.com diventa la nuova casa dell'Organized Play",
-    "source": "playriftbound.com, \"Introducing the New PlayRiftbound.com\" (14 settembre 2026)",
+    "id": "riftbound-ban-ekko-recurrent-stacked-deck-2026-09-15",
+    "title": "Riot banna Ekko Recurrent e Stacked Deck: prima ban wave a colpire insieme Standard e 2v2",
+    "source": "riftbound.gg, \"Ban List Updates – September 18, 2026\" (annuncio del 15 settembre 2026); playriftbound.com",
     "affidabilita": "primaria",
-    "date": "2026-09-14",
-    "brief": "Riot ha reso PlayRiftbound.com la piattaforma ufficiale per trovare, registrarsi e gestire eventi di Organized Play, sostituendo il precedente sistema basato su carde.io. Il sito integra ricerca eventi, accoppiamenti (pairing) e registrazione risultati durante i tornei, con accesso tramite Riot ID senza bisogno di collegare account esterni.",
-    "rilevanza": "Cambia il modo in cui giocatori e negozi organizzano e trovano tornei locali, semplificando l'accesso all'Organized Play in vista delle prossime qualificazioni regionali e dei campionati."
+    "date": "2026-09-15",
+    "brief": "Riot ha annunciato il 15 settembre il bando di Ekko Recurrent e Stacked Deck, effettivo dal 18 settembre, per gli scenari Standard e 2v2 Constructed. È la prima ondata di ban a colpire entrambi i formati contemporaneamente fin dal giorno di annuncio, invece di richiedere un'aggiunta separata per il 2v2. Riot motiva la scelta con il pattern di gioco 'solitario' e le finestre di interazione limitate create dalla combo, oltre al suo impatto nei tornei.",
+    "rilevanza": "È una delle decisioni di bilanciamento più importanti della stagione, arrivata a ridosso delle ultime qualificazioni regionali: costringe chi gioca la combo a rivedere il mazzo in vista dei tornei di fine settembre."
+  },
+  {
+    "id": "riftbound-reddit-reazione-banlist-2026-09",
+    "title": "La community su r/riftboundtcg reagisce al bando: speculazioni su come cambierà il meta",
+    "source": "Thread \"New banned cards\" su r/riftboundtcg (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-15",
+    "brief": "Dopo l'annuncio ufficiale del bando di Ekko Recurrent e Stacked Deck, sul subreddit r/riftboundtcg si è aperto un thread di reazione con opinioni contrastanti sulla severità della decisione e teorie della community su quali mazzi guadagneranno terreno una volta rimossa la combo dal meta.",
+    "rilevanza": "Mostra il termometro reale della community competitiva subito dopo un cambio di bilanciamento, utile per capire il sentiment prima ancora che escano le prime tier list aggiornate."
+  },
+  {
+    "id": "riftbound-la-qualifier-logistica-2026-09",
+    "title": "Pubblicati i dettagli logistici della Regional Qualifier di Los Angeles (25-27 settembre)",
+    "source": "riftbound.gg, \"Los Angeles Regional Qualifier 2026 Event Information\"; Eventbrite/UVS Games; playriftbound.com \"All Eyes on Los Angeles\"",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "La Regional Qualifier di Los Angeles, in programma dal 25 al 27 settembre al Los Angeles Convention Center (West Hall A), mette in palio inviti al Regional Championship e 25.000 dollari di montepremi. Per il Main Event serve un badge Competitor o Premium Competitor con Riot Account valido; il weekend include anche eventi collaterali, vendor e attività per la community.",
+    "rilevanza": "È una delle ultime occasioni del 2026 per qualificarsi ai Regional Championship, quindi rilevante per chi punta al circuito competitivo ufficiale e vuole organizzarsi in tempo con biglietti e badge."
+  },
+  {
+    "id": "riftbound-radiance-recruit-ultimate-rare-2026-09",
+    "title": "Radiance: confermati il nuovo keyword Recruit e una carta Ultimate Rare inedita",
+    "source": "riftbound.gg, pagina dedicata a Radiance; The Escapist, \"Riftbound Radiance release date confirmed\" (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Il quinto set Radiance (180 carte, 66 Showcase) apre le anteprime il 25 settembre in concomitanza con la Regional Qualifier di Los Angeles, fino al 9 ottobre. Riot ha confermato il nuovo keyword Recruit, svelato sulla carta di Seraphine, e l'introduzione di un tipo di carta Ultimate Rare mai visto prima nel gioco, oltre ai Leggenda già noti Ziggs, Jarvan IV, Ekko ed Evelynn.",
+    "rilevanza": "L'inizio delle anteprime è il momento in cui la community comincia a valutare l'impatto delle nuove meccaniche sul meta, decisivo per chi pianifica acquisti e mazzi in vista del lancio del 23 ottobre."
   },
   {
     "id": "riftbound-regional-championship-stoccarda-2026-09",
-    "title": "Chiuse le candidature creator per il Regional Championship europeo di Stoccarda",
+    "title": "Confermato il Regional Championship europeo a Stoccarda, chiuse le candidature creator",
     "source": "playriftbound.com / account X ufficiale @playriftbound (annuncio Regional Championship Europa); riftboundguide.com",
     "affidabilita": "primaria",
     "date": "2026-09-13",
     "brief": "Riot ha confermato che il primo Regional Championship europeo si terrà a Stoccarda, in Germania, dal 6 all'8 novembre 2026, e ha chiuso il 13 settembre le candidature per i badge riservati ai content creator che vogliono seguire l'evento dal vivo.",
     "rilevanza": "Segna una tappa importante del circuito competitivo europeo di Riftbound e anticipa uno degli eventi più attesi della stagione per i giocatori agonisti del continente."
-  },
-  {
-    "id": "riftbound-regional-qualifier-los-angeles-2026-09",
-    "title": "Pubblicate le informazioni ufficiali per la Regional Qualifier di Los Angeles",
-    "source": "riftbound.gg, \"Los Angeles Regional Qualifier 2026 Event Information\" (pubblicato a settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Riot ha diffuso la guida \"Know Before You Go\" per l'ultima Regional Qualifier del 2026, in programma dal 25 al 27 settembre al Los Angeles Convention Center, con inviti al Regional Championship e un montepremi in palio, oltre ad affrontare alcune criticità logistiche emerse a Barcellona e Singapore.",
-    "rilevanza": "È una delle ultime occasioni del 2026 per qualificarsi ai Regional Championship, quindi rilevante per i giocatori competitivi che puntano al circuito ufficiale."
-  },
-  {
-    "id": "riftbound-radiance-set-5-anteprime-2026-09",
-    "title": "Al via le anteprime del quinto set Riftbound: Radiance",
-    "source": "ICv2, \"Riot Games Unveils New Deets on 'Riftbound: Radiance'\"; riftbound.gg pagina dedicata a Radiance",
-    "affidabilita": "primaria",
-    "date": "2026-09-28",
-    "brief": "Le anteprime di carte del quinto set, Radiance, iniziano in concomitanza con la Regional Qualifier di Los Angeles e proseguono fino al 9 ottobre, in attesa degli eventi Pre-Rift (16-22 ottobre) e dell'uscita globale prevista per il 23 ottobre 2026. Il set introduce nuovi Leggenda campioni tra cui Seraphine, Ziggs, Jarvan IV, Ekko ed Evelynn.",
-    "rilevanza": "L'inizio delle anteprime è il momento in cui la community comincia a valutare l'impatto sul meta delle nuove carte, decisivo per chi pianifica acquisti e mazzi in vista del lancio."
-  },
-  {
-    "id": "riftbound-tier-list-meta-settembre-2026-09",
-    "title": "Aggiornata la tier list del meta con Kennen, Master Yi, Azir e Akali in vetta",
-    "source": "riftbound.gg tier list e riftdecks.com (aggiornamento dell'11 settembre 2026, basato sui risultati dei tornei)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-11",
-    "brief": "Le principali piattaforme di analisi del meta hanno aggiornato la classifica dei Leggenda più forti dopo la diffusione globale del set Vendetta, collocando Kennen, Master Yi, Azir e Akali in Tier 1, seguiti da un gruppo di Tier 2 che include Irelia, Rengar, Fiora, Ornn, Jayce, Diana, Kha'Zix ed Ezreal.",
-    "rilevanza": "Fornisce ai giocatori competitivi un riferimento aggiornato su quali Leggenda e mazzi puntare in vista delle ultime Regional Qualifier di stagione."
   },
   {
     "id": "riftbound-corea-lancio-2026-09",
