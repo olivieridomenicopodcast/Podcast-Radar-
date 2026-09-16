@@ -1,58 +1,58 @@
 [
   {
-    "id": "twin-coronal-holes-g1-storm-window-2026-09",
-    "title": "Due fori coronali gemelli aprono una finestra di tempesta geomagnetica G1 fino a martedì",
-    "source": "Tech Times, \"Twin Coronal Holes Aim Solar Wind at Earth: G1 Storm Window Through Tuesday\" (14/09/2026); NOAA SWPC",
+    "id": "fori-coronali-g1-2026-09-16",
+    "title": "Due fori coronali gemelli alimentano una tempesta geomagnetica minore G1, propagazione HF instabile",
+    "source": "NOAA SWPC (Space Weather Prediction Center); ripreso da TechTimes",
     "affidabilita": "secondaria",
-    "date": "2026-09-14",
-    "brief": "Due fori coronali stanno indirizzando vento solare ad alta velocità verso la Terra: il primo flusso ha iniziato a raggiungere il pianeta il 14 settembre, il secondo è atteso il 15. NOAA prevede un Kp massimo di 4 (soglia G1) tra il 14 e il 16 settembre, con probabilità crescente di tempesta il 16 quando un ulteriore flusso ad alta velocità arriverà in posizione geoefficace; nessun brillamento significativo è previsto nel frattempo."
+    "date": "2026-09-16",
+    "brief": "Due ampi fori coronali in posizione geoefficace stanno inviando flussi di vento solare ad alta velocità verso la Terra, con il NOAA SWPC che prevede periodi isolati di tempesta geomagnetica minore G1 fino a martedì, con probabilità in aumento il 16 settembre per l'arrivo di un ulteriore flusso da foro coronale. Per i radioamatori HF questo comporta possibile instabilità della propagazione sulle rotte polari/alte latitudini e finestre di apertura variabili su 20-10 metri."
   },
   {
-    "id": "dxpedition-ri1fjl-terra-francesco-giuseppe-2026-09",
-    "title": "RI1FJL attivi dall'isola di Heiss, Terra di Francesco Giuseppe, per 15 giorni",
-    "source": "DX-World.net (settembre 2026)",
-    "affidabilita": "secondaria",
+    "id": "dxpedition-kh8ww-samoa-2026-09-10",
+    "title": "DXpedition KH8WW da Aunu'u, Samoa Americane, attiva fino al 24 settembre",
+    "source": "DX-World.net; DXZone",
+    "affidabilita": "primaria",
     "date": "2026-09-10",
-    "brief": "Il team RI1FJL è in attività dall'isola di Heiss (IOTA EU-014), nell'arcipelago russo della Terra di Francesco Giuseppe, per un'operazione di 15 giorni a settembre 2026. Si tratta di una delle entità più remote e rare dell'Artico, raramente attivata per via delle difficoltà logistiche."
+    "brief": "Yuris YL2GM ed Eugene EA5EL sono attivi come KH8WW dall'isola di Aunu'u (American Samoa, IOTA OC-045) dal 10 al 24 settembre 2026, in CW, SSB e FT8 su tutte le bande da 160 a 6 metri. QSL via Club Log OQRS o YL2GN, upload su LoTW previsto sei mesi dopo la spedizione. L'operazione è inserita nel DXpedition Trophy 2026."
   },
   {
-    "id": "dxpedition-kh8ww-american-samoa-settembre-2026",
-    "title": "KH8WW attivi da Aunu'u, American Samoa, fino al 24 settembre",
-    "source": "DX-World.net; lral.lv/kh8ww",
-    "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "brief": "Yuris YL2GM ed Eugene EA5EL sono in attività dall'isola di Aunu'u (IOTA OC-045, DXCC American Samoa) come KH8WW dal 10 al 24 settembre 2026, su più bande e modi. L'operazione è inserita nella lista dei DXpedition Trophy 2026, rendendola un'attivazione di interesse per i cacciatori di entità rare del Pacifico."
-  },
-  {
-    "id": "dxpedition-v47ya-v47rcx-saint-kitts-settembre-2026",
-    "title": "V47YA e V47RCX in QRV da Saint Kitts fino al 30 settembre",
-    "source": "DX-World.net; 425 DX News #1843",
-    "affidabilita": "secondaria",
-    "date": "2026-09-09",
-    "brief": "Tom K0YA (nominativo V47YA) e Toni W5RCX (nominativo V47RCX) operano da Saint Kitts dal 9 al 30 settembre 2026 in stile vacanza, QRV 160-6 metri in CW, SSB e FT8, con QSL via LoTW per entrambi i nominativi. È già annunciato anche un secondo soggiorno da febbraio a marzo 2027."
-  },
-  {
-    "id": "iaru-r1-eop-quarta-edizione-2026",
-    "title": "IARU Region 1 pubblica la quarta edizione dell'Ethics and Operating Procedures",
-    "source": "IARU Region 1 (comunicazione ufficiale, 2026)",
+    "id": "dxpedition-pj2-k5sl-curacao-2026-09-18",
+    "title": "Randy K5SL in arrivo a Curaçao come PJ2/K5SL dal 18 settembre",
+    "source": "DX-World.net (DXpedition Timeline settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-01",
-    "brief": "IARU Region 1 ha annunciato la pubblicazione della quarta edizione di \"Ethics and Operating Procedures for the Radio Amateur\" (EOP), il documento internazionale di riferimento su principi etici e corrette procedure operative nel servizio di radioamatore, aggiornato per riflettere modi digitali e pratiche operative più recenti."
+    "date": "2026-09-18",
+    "brief": "Randy, K5SL, sarà attivo da Curaçao con nominativo PJ2/K5SL dal 18 al 26 settembre 2026, secondo il calendario DXpedition di DX-World.net aggiornato a inizio mese. L'operazione si inserisce in un mese ricco di attività caraibiche, insieme a V47YA/V47RCX da Saint Kitts (9-30 settembre)."
   },
   {
-    "id": "mimit-sperimentazione-160m-4m-proroga-2026",
-    "title": "Il MIMIT proroga a fine 2026 la sperimentazione delle bande dei 160 e dei 4 metri",
-    "source": "PianetaRadio.it; MIMIT (autorizzazioni temporanee 2026)",
+    "id": "dxpedition-9t0md-congo-2026-08-10",
+    "title": "Sponsor tecnici confermati per la mega DXpedition 9T0MD in Congo (30 set - 11 ott)",
+    "source": "DX Engineering / OnAllBands; MDXC (Mediterraneo DX Club)",
     "affidabilita": "primaria",
-    "date": "2026-09-01",
-    "brief": "Il Ministero delle Imprese e del Made in Italy ha confermato, valide fino al 31 dicembre 2026, le autorizzazioni temporanee alla sperimentazione radioamatoriale sulle frequenze 1810-1830 kHz (160 metri) e 70.100/70.200/70.300 MHz (4 metri), entrambe con potenza massima di 10 W e larghezza di banda limitata a 25 kHz per il segmento a 70 MHz."
+    "date": "2026-08-10",
+    "brief": "DX Engineering si aggiunge a FlexRadio e Aziloop tra gli sponsor tecnici della DXpedition 9T0MD nella Repubblica Democratica del Congo, fornendo alimentatori RigExpert Shackmaster Power 600. Il team multi-operatore del Mediterraneo DX Club sarà attivo dal 30 settembre all'11 ottobre 2026 su 160-6m in CW/SSB/RTTY/FT8, oltre a EME e satellite CQ-100, con il raro prefisso 9T mai andato in onda prima d'ora."
   },
   {
-    "id": "contest-state-qso-party-settembre-2026",
-    "title": "Weekend di State QSO Party negli USA: la guida ai contest di settembre",
-    "source": "OnAllBands.com / ARRL, \"Guide to September 2026 Ham Radio Contests—State QSO Party Edition\"",
+    "id": "contest-sac-cw-2026-09-19",
+    "title": "Scandinavian Activity Contest CW nel weekend del 19-20 settembre",
+    "source": "SAC - Scandinavian Activity Contest (sactest.net)",
     "affidabilita": "primaria",
-    "date": "2026-09-01",
-    "brief": "La guida ARRL ai contest di settembre 2026 segnala il tradizionale susseguirsi di State QSO Party nel corso del mese, occasioni per lavorare contee ed entità statali statunitensi spesso poco attive fuori da questi eventi, utili sia per punti contest sia per completare award geografici."
+    "date": "2026-09-19",
+    "brief": "La sezione CW dello Scandinavian Activity Contest (SAC) si svolge dalle 12:00 UTC di sabato 19 alle 11:59 UTC di domenica 20 settembre 2026, secondo il regolamento ufficiale pubblicato sul sito del contest. La sezione SSB seguirà invece il 10-11 ottobre. Contest molto seguito per i collegamenti con le stazioni scandinave su HF."
+  },
+  {
+    "id": "mimit-rinnovo-sperimentazioni-2026-07-31",
+    "title": "MIMIT conferma il rinnovo delle sperimentazioni sulle bande 160m, 4m e 8m fino a fine 2026",
+    "source": "ARI - Associazione Radioamatori Italiani; PianetaRadio.it; IU2FRL",
+    "affidabilita": "primaria",
+    "date": "2026-07-31",
+    "brief": "Con protocollo n. 5536/2026, il Ministero delle Imprese e del Made in Italy (MIMIT) ha confermato ad ARI il rinnovo delle sperimentazioni sulle gamme 1810-1830 kHz, 40.660-40.700 MHz e 70.100-70.400 MHz fino al 31 dicembre 2026. Resta obbligatorio l'uso del portale sperimentazioni.ari.it per il monitoraggio di interferenze e la raccolta dei log delle attività, con bandplan aggiornati disponibili sul sito ARI."
+  },
+  {
+    "id": "hamlib-4-7-2-release-2026-06-21",
+    "title": "Hamlib 4.7.2 resta la versione stabile di riferimento per il controllo remoto degli apparati",
+    "source": "GitHub - Hamlib/Hamlib (release ufficiali)",
+    "affidabilita": "primaria",
+    "date": "2026-06-21",
+    "brief": "La versione 4.7.2 di Hamlib, rilasciata da Nate Bargmann N0NB il 21 giugno 2026, include aggiornamenti al backend per il Flex FTX-1, correzioni al clock di IC-7600/IC-7610, supporto per il Kenwood Hamgeek uSGX e importanti fix di sicurezza in rigctld (buffer overflow e bypass di autenticazione). È tuttora la release stabile più recente usata da software come WSJT-X e continua a essere monitorata attivamente dalla comunità a metà settembre 2026."
   }
 ]

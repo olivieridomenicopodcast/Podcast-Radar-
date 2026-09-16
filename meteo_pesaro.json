@@ -1,37 +1,37 @@
 {
-  "aggiornato": "2026-09-15",
+  "aggiornato": "2026-09-16",
   "citta": "Pesaro (PU), Marche, Italia",
-  "fonti": ["meteo.it", "ilmeteo.it", "3bmeteo.com", "allertameteo.regione.marche.it"],
+  "fonti": ["meteo.it", "ilmeteo.it", "3bmeteo.com", "meteogiornale.it", "allertameteo.regione.marche.it"],
   "previsioni": [
     {
-      "data": "2026-09-15",
-      "giorno": "oggi, martedì",
-      "temp_min_c": 16,
-      "temp_max_c": 26,
-      "condizioni": "Nubi sparse alternate a schiarite per l'intera giornata con tendenza ad ampi rasserenamenti in serata, non sono previste piogge (meteo.it)",
-      "vento": "Assente sia al mattino che al pomeriggio secondo le fonti consultate",
-      "mare": "Poco mosso",
-      "allerta": "Nessuna allerta meteo attiva; il bollettino di criticità della Protezione Civile Marche non segnala criticità dal 12/09/2026"
-    },
-    {
       "data": "2026-09-16",
-      "giorno": "domani, mercoledì",
-      "temp_min_c": 17,
-      "temp_max_c": 27,
-      "condizioni": "Cielo sereno per l'intera giornata, non sono previste piogge",
-      "vento": "Dati sul vento non disponibili nelle fonti consultate per questo giorno",
-      "mare": "Dati non disponibili nelle fonti consultate per questo giorno",
-      "allerta": "Nessuna allerta attiva rilevata al momento della ricerca"
+      "giorno": "oggi, mercoledì",
+      "temp_min_c": 15,
+      "temp_max_c": 26,
+      "condizioni": "Cieli in prevalenza sereni o poco nuvolosi per l'intera giornata, non sono previste piogge",
+      "vento": "Moderato da Sudest al mattino, moderato da Est al pomeriggio",
+      "mare": "Poco mosso",
+      "allerta": "Nessuna allerta attiva per la provincia di Pesaro e Urbino"
     },
     {
       "data": "2026-09-17",
-      "giorno": "dopodomani, giovedì",
-      "temp_min_c": 17,
+      "giorno": "domani, giovedì",
+      "temp_min_c": 19,
       "temp_max_c": 27,
-      "condizioni": "Bel tempo con sole prevalente per l'intera giornata (mattino 17°C, pomeriggio 27°C, sera 23°C), non sono previste piogge",
+      "condizioni": "Cielo nuvoloso, non sono previste piogge significative",
       "vento": "Dati sul vento non disponibili nelle fonti consultate per questo giorno",
       "mare": "Dati non disponibili nelle fonti consultate per questo giorno",
       "allerta": "Nessuna allerta attiva rilevata al momento della ricerca"
+    },
+    {
+      "data": "2026-09-18",
+      "giorno": "dopodomani, venerdì",
+      "temp_min_c": 18,
+      "temp_max_c": 26,
+      "condizioni": "Dati dettagliati sulle condizioni non disponibili nelle fonti consultate, temperature in linea con i giorni precedenti",
+      "vento": "Dati sul vento non disponibili nelle fonti consultate per questo giorno",
+      "mare": "Dati non disponibili nelle fonti consultate per questo giorno",
+      "allerta": "Nessuna allerta attiva rilevata per il 18/09; risulta invece un'allerta arancione della Protezione Civile Marche prevista dalle 00:00 del 19 settembre alle 00:00 del 20 settembre, fuori dal periodo di queste previsioni"
     }
   ]
 }
