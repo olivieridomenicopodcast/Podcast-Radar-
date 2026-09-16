@@ -1,135 +1,135 @@
 [
   {
-    "id": "agcom-relazione-annuale-podcast-41percento-2026",
-    "title": "La Relazione Annuale AGCOM 2026 misura per la prima volta il podcast: coinvolge il 41% degli italiani",
-    "source": "AGCOM, Relazione Annuale 2026 (luglio 2026); Confindustria Radio TV, Newslinet (riprese secondarie, settembre 2026)",
+    "id": "spotify-skip-ahead-ads-2026-08",
+    "title": "Spotify testa un tasto che salta gli spot venduti direttamente dai podcaster",
+    "source": "Digital Music News (4 agosto 2026); ripreso da Semafor, TechRadar, Forbes, Gizmodo (agosto 2026)",
+    "affidabilita": "secondaria",
+    "target": 8,
+    "date": "2026-08-04",
+    "brief": "Spotify ha attivato per un gruppo limitato di abbonati Premium un pulsante 'Skip Ahead' che salta automaticamente sponsorizzazioni, promo e contenuti pubblicitari inseriti direttamente dai creator, ma non gli spot venduti da Spotify stessa. La funzione riduce da nove tocchi a uno il gesto necessario per superare un blocco pubblicitario ed è ancora in fase di test. Editori e testate di settore l'hanno definita una minaccia seria per i podcast che si finanziano con sponsorizzazioni dirette.",
+    "angles": [
+      "Come integrare gli ad-read nel racconto (non come blocco separato) per resistere allo skip",
+      "Perché diversificare le entrate oltre alla pubblicità diretta è ormai urgente",
+      "Spiegare ai propri allievi la differenza tra download e metriche di ascolto reale degli spot"
+    ],
+    "hooks": [
+      "Hai appena chiuso il primo sponsor e sei fierissimo dell'ad-read che hai scritto col cuore? Da agosto su Spotify c'è un tasto che lo salta con un solo click.",
+      "Ti sei mai chiesto perché il tuo numero di download conta sempre meno agli occhi di chi ti paga? Ora esiste pure un bottone pensato per far saltare proprio la parte che ti fa guadagnare.",
+      "Pensavi che l'unico nemico del tuo podcast fosse il silenzio imbarazzato in fase di montaggio? Da quest'estate hai anche un pulsante di Spotify contro di te."
+    ]
+  },
+  {
+    "id": "audacity-4-release-2026-09",
+    "title": "Audacity 4 è arrivato: il redesign più grande in 26 anni del programma gratuito",
+    "source": "Bedroom Producers Blog (5 settembre 2026); ripreso da MusicRadar, PCWorld, GearNews, NetGuide (settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 9,
+    "date": "2026-09-05",
+    "brief": "È uscita Audacity 4.0, l'aggiornamento più grande nella storia dell'editor audio gratuito e open source. Introduce montaggio non distruttivo con clip sovrapponibili e raggruppabili, le 'Workspaces' per salvare configurazioni di interfaccia personalizzate per compiti diversi, e supporto ampliato ai plugin VST3/AU/LV2. Il programma resta completamente gratuito.",
+    "angles": [
+      "Tutorial pratico su come usare le nuove Workspaces per velocizzare il montaggio",
+      "Confronto onesto tra Audacity 4 e strumenti a pagamento (Descript, Adobe Podcast) per chi parte con budget zero",
+      "Perché il montaggio non distruttivo cambia l'approccio di chi ha paura di 'rompere' l'episodio tagliando"
+    ],
+    "hooks": [
+      "Hai paura di aprire Audacity perché l'interfaccia ti sembra ferma a dieci anni fa? Da settembre non è più un problema, l'hanno rifatta da zero.",
+      "Continui a tagliare l'audio a fette come un salame perché non sai come si fa il montaggio 'morbido'? La nuova versione di Audacity lo fa gratis e senza distruggere niente.",
+      "Ti sei convinto che per editare bene un podcast serva per forza un abbonamento mensile? Audacity 4, uscito proprio questo mese, non è d'accordo."
+    ]
+  },
+  {
+    "id": "edison-podcast-consumer-2026-video",
+    "title": "Negli USA chi guarda i podcast in video ha ormai raggiunto chi ascolta solo l'audio",
+    "source": "Edison Research/SSRS, 'The Podcast Consumer 2026' (4 giugno 2026); dati ancora citati a settembre 2026 da InsideRadio, Podnews e VAB",
     "affidabilita": "primaria",
+    "target": 8,
+    "date": "2026-06-04",
+    "brief": "Lo studio annuale di Edison Research segna una svolta: il 58% degli americani sopra i 12 anni ascolta almeno un podcast al mese (167 milioni di persone), un record storico, e per la prima volta tra gli ascoltatori settimanali la quota di chi guarda anche il video ha pareggiato quella di chi resta sul solo audio. Tra chi ha mai provato un podcast, il 57% alterna ascolto e visione, mentre solo il 21% consuma esclusivamente in audio. I dati continuano a essere citati a settembre 2026 in report pubblicitari come quello della VAB.",
+    "angles": [
+      "Come impostare un setup minimo per registrare anche in video senza stravolgere il flusso di lavoro audio",
+      "Spiegare ai clienti perché 'solo audio' oggi è una scelta consapevole, non più il default",
+      "Usare questi dati per convincere sponsor o collaboratori a investire nel formato video"
+    ],
+    "hooks": [
+      "Continui a pensare che il tuo podcast debba restare 'solo audio' perché è più semplice da gestire? Negli Stati Uniti ormai metà di chi ascolta ogni settimana guarda anche il video.",
+      "Ti sei mai chiesto se vale la pena accendere la telecamera mentre registri? Uno dei report più seri del settore dice che chi lo fa non sta perdendo tempo, sta solo inseguendo il pubblico che c'è già.",
+      "Pensi ancora che YouTube sia il posteggio dove carichi l'audio controvoglia? I dati più recenti dicono che il sorpasso del video è già cominciato, e non sta rallentando."
+    ]
+  },
+  {
+    "id": "podchaser-class-of-2026-podfade",
+    "title": "153mila podcast nati nel primo semestre 2026, ma 4 su 10 si sono già fermati",
+    "source": "Podchaser, 'Podcasting's Class of 2026' (settembre 2026); ripreso da Talker News (8 settembre 2026), InsideRadio, Podcast News Daily",
+    "affidabilita": "primaria",
+    "target": 9,
+    "date": "2026-09-08",
+    "brief": "L'analisi di Podchaser su 153.767 nuovi podcast lanciati nel primo semestre 2026 - il numero più basso in otto anni, -14% sull'anno precedente - mostra che il 41,7% ha già smesso di pubblicare a pochi mesi dal debutto e solo lo 0,7% ha raggiunto un buon punteggio di rilevanza. Solo il 14,7% dei nuovi show ha ospiti regolari, segno che i formati solisti o narrativi stanno superando l'intervista classica.",
+    "angles": [
+      "Costruire un piano editoriale minimo per non finire tra il 42% dei podcast abbandonati",
+      "La 'qualità sopra la quantità' come nuovo standard: modulo di coaching sul perché non serve più pubblicare per forza ogni settimana",
+      "Usare questi dati come argomento per convincere un cliente a impegnarsi su un calendario editoriale serio prima ancora di comprare un microfono"
+    ],
+    "hooks": [
+      "Hai appena pubblicato il primo episodio e ti senti già un podcaster vero? Uno studio dice che 4 podcast su 10 nati quest'anno si sono già fermati dopo pochi mesi.",
+      "Ti stai chiedendo se ha ancora senso aprire un podcast nel 2026? La risposta è sì, ma solo se hai capito che l'era del 'lo apro e poi si vede' è ufficialmente finita.",
+      "Pensavi che il problema fosse trovare il tempo per registrare? Il vero killer dei podcast nuovi, dati alla mano, è quello che succede - o non succede - dopo l'episodio tre."
+    ]
+  },
+  {
+    "id": "festival-podcasting-milano-2026-10",
+    "title": "Il Festival del Podcasting compie 10 anni: il 2-3 ottobre a Milano con Industry Day e dati Nielsen inediti",
+    "source": "ANSA, Il Sole 24 Ore, ItaliaOggi, Podnews (luglio 2026)",
+    "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-07-14",
-    "brief": "La Relazione Annuale 2026 di AGCOM misura per la prima volta in modo sistematico il coinvolgimento dei podcast, che raggiungono il 41% degli italiani, mentre il mercato radiofonico complessivo cresce a 634 milioni di euro di ricavi nel 2025 (+1,6% sul 2024). Il regolatore ha inoltre approvato criteri per estendere la misurazione delle audience anche a podcast e streaming, allo stesso livello di tv e radio.",
+    "date": "2026-07-21",
+    "brief": "Il Festival del Podcasting, il più longevo evento italiano dedicato al settore, festeggia la decima edizione il 2 e 3 ottobre 2026 a Cascina Triulza (MIND, Milano). Debutta l'Industry Day con nuovi premi, tra cui il Premio Audioboost per il miglior branded podcast e il Premio Pod24 per il miglior podcast indipendente di inchiesta, e verranno presentati in anteprima dati NielsenIQ per Audible sulle abitudini di ascolto degli italiani.",
     "angles": [
-      "Il podcast entra ufficialmente nei numeri che contano per il regolatore, non più solo nelle chiacchiere da settore",
-      "Cosa significa avere un dato ufficiale di coinvolgimento al 41% quando cerchi di convincere uno sponsor",
-      "Radio e podcast crescono insieme: la convergenza tra i due mondi non è più solo teoria da conferenza"
+      "Consigliare ai propri allievi/clienti di partecipare come occasione di networking e content per i social",
+      "Anticipare cosa aspettarsi dai dati Nielsen/Audible presentati in anteprima al festival",
+      "Usare l'Industry Day come spunto per parlare di podcast come business, non solo come hobby creativo"
     ],
     "hooks": [
-      "Ti dicono ancora che il podcast in Italia è 'roba di nicchia'? AGCOM ha appena messo nero su bianco che coinvolge il 41% degli italiani, forse è ora di aggiornare la battuta.",
-      "Stai cercando un argomento serio da portare a un possibile sponsor? Il regolatore italiano delle comunicazioni misura ormai il tuo settore con lo stesso metro di tv e radio.",
-      "Pensi che nessuno tenga il conto di quanto cresce il podcasting in Italia? AGCOM lo fa, e il numero che ha scritto è più alto di quanto probabilmente immaginavi."
+      "Pensi ancora che il podcasting in Italia sia roba per pochi smanettoni in cameretta? A ottobre Milano ospita la decima edizione di un festival che racconta un'altra storia.",
+      "Ti sei mai chiesto come ascoltano davvero i podcast gli italiani, non quello che si dice al bar sotto casa? A ottobre escono dati Nielsen inediti proprio su questo.",
+      "Pensi che i premi ai podcast siano solo vanità da influencer? Il Festival del Podcasting di Milano ha appena aggiunto un riconoscimento dedicato alle inchieste indipendenti."
     ]
   },
   {
-    "id": "festival-podcasting-milano-decennale-2026",
-    "title": "Il Festival del Podcasting compie 10 anni: il 2 e 3 ottobre torna a Milano con una giornata industry",
-    "source": "Ansa.it (21/07/2026); Spot and Web, Media Key, Radiospeaker.it (riprese, settembre 2026)",
-    "affidabilita": "primaria",
-    "target": 5,
-    "date": "2026-10-02",
-    "brief": "Il Festival del Podcasting, principale evento italiano del settore, festeggia il decimo anniversario il 2 e 3 ottobre a Milano. Novità 2026: per la prima volta una giornata è riservata all'industry, mentre creator e nuovi talenti sono protagonisti del Podcast Pitch, di workshop su scrittura e storytelling e dei premi dedicati alle produzioni indipendenti e branded.",
-    "angles": [
-      "Dieci anni di un festival di settore raccontano quanto il podcasting italiano sia diventato un'industria vera, non più un hobby da nerd dell'audio",
-      "Il Podcast Pitch come occasione concreta per chi è alle prime armi di farsi notare da editori e piattaforme",
-      "La giornata industry separata dal resto segna la maturità (e la stratificazione) del settore in Italia"
-    ],
-    "hooks": [
-      "Hai un podcast nel cassetto e non sai mai a chi mostrarlo per farti notare da chi conta davvero? Il 2 e 3 ottobre a Milano c'è un pitch pensato apposta per i nuovi talenti.",
-      "Pensi che il podcasting italiano sia ancora quattro amici con un microfono in salotto? Il festival di settore compie dieci anni e quest'anno apre pure una giornata solo per l'industry.",
-      "Vuoi imparare scrittura e storytelling per la tua serie senza pagare un master? A Milano il 2-3 ottobre ci sono workshop pensati proprio per questo, altro che corsi da 300 euro su Instagram."
-    ]
-  },
-  {
-    "id": "youtube-supera-spotify-uk-podcast-2026-09",
-    "title": "Anche nel Regno Unito YouTube supera Spotify come piattaforma preferita per i podcast",
-    "source": "Edison Research (luglio 2026); Podnews, Music Ally, Search Engine Journal (riprese)",
+    "id": "agcom-relazione-annuale-2026-podcast",
+    "title": "AGCOM: i podcast raggiungono il 41% della popolazione italiana, mercato radio a 634 milioni di euro",
+    "source": "AGCOM, Relazione annuale 2026 (14 luglio 2026)",
     "affidabilita": "primaria",
     "target": 7,
-    "date": "2026-07-09",
-    "brief": "Secondo una ricerca Edison Research, il 29% degli ascoltatori settimanali di podcast nel Regno Unito indica YouTube come piattaforma preferita, contro il 28% di Spotify, il 15% di BBC Sounds e il 10% di Apple Podcasts. La quota YouTube è salita dal 20% del 2024 al 29% attuale, mentre quella di Spotify è scesa dal 34% al 28%: lo stesso sorpasso avvenuto negli USA due anni fa si ripete ora in un secondo grande mercato.",
+    "date": "2026-07-14",
+    "brief": "Nella Relazione annuale 2026 presentata da AGCOM, il mercato radiofonico italiano vale 634 milioni di euro di ricavi, in crescita dell'1,6% rispetto ai 624 milioni dell'anno precedente, e i podcast risultano ormai utilizzati dal 41% della popolazione. Il dato ufficiale conferma la crescita del formato come estensione digitale della radio tradizionale, non come suo concorrente.",
     "angles": [
-      "Il sorpasso di YouTube non è più un fenomeno solo americano: si allarga a un secondo mercato chiave",
-      "Perché i dati sui download, dove Apple resta primo, raccontano una storia diversa da quelli sull'ascolto reale",
-      "Cosa cambia nella strategia di pubblicazione se il pubblico preferisce sempre più guardare, non solo ascoltare"
+      "Usare il dato del 41% come argomento per convincere un brand o un cliente italiano a investire in un podcast",
+      "Contestualizzare la crescita della radio insieme a quella del podcast come ecosistema unico, non come sfida tra vecchio e nuovo",
+      "Materiale pronto per un post 'il podcast in Italia in numeri' rivolto ai propri allievi"
     ],
     "hooks": [
-      "Continui a pensare che YouTube sia solo 'il posto dove carico il video, il vero podcast resta su Spotify'? Nel Regno Unito ormai la pensa così solo una minoranza degli ascoltatori.",
-      "Ti stai chiedendo se pubblicare anche su YouTube valga davvero il tempo che ci metti? La sua quota di preferenza è passata dal 20 al 29% in due anni, e non solo negli Stati Uniti.",
-      "Hai puntato tutto su Spotify perché 'è dove sono tutti'? Attento: la sua quota di preferenza sta scendendo ovunque la misurino, mentre quella di YouTube continua a salire."
+      "Ti hanno mai detto che il podcast in Italia resta roba per pochi appassionati? Un'autorità pubblica dice che ormai lo usa 4 italiano su 10.",
+      "Pensi che la radio tradizionale sia agli sgoccioli e il podcast sia tutt'altra cosa? I dati ufficiali del 2026 raccontano un mercato che cresce insieme, non uno a scapito dell'altro.",
+      "Ti sei mai chiesto se in Italia conviene davvero investire tempo in un podcast? Qualcuno l'ha appena misurato per te, e il numero è più alto di quanto pensavi."
     ]
   },
   {
-    "id": "spotify-distribution-api-video-hosting-2026-09",
-    "title": "Spotify apre la distribuzione video ad altri host: Libsyn, Podigee, Audioboom e altri",
-    "source": "Netinfluencer.com (settembre 2026); comunicazioni ufficiali Spotify for Creators",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-10",
-    "brief": "Libsyn, Podigee, Audioboom, Audiomeans e Podspace sono ora collegati alla Spotify Distribution API, che permette ai creator ospitati su queste piattaforme di distribuire contenuti video direttamente su Spotify e monetizzarli tramite lo Spotify Partner Program, senza caricare manualmente i file su Spotify for Creators. Entro fine anno anche Spotify for Creators e Megaphone supporteranno la tecnologia video HLS usata da Apple Podcasts.",
-    "angles": [
-      "Se usi uno di questi host, non devi più duplicare il lavoro di pubblicazione tra hosting e Spotify",
-      "La distribuzione video diventa un pezzo di infrastruttura standard, non più una scelta accessoria per pochi",
-      "Il collegamento diretto tra host e piattaforme abbassa la barriera tecnica per chi vuole aggiungere il video senza impazzire"
-    ],
-    "hooks": [
-      "Carichi ancora a mano lo stesso episodio video sia sull'host che su Spotify separatamente? Se usi Libsyn, Podigee o Audioboom, quel doppio lavoro ora non serve più.",
-      "Ti sei sempre detto 'il video lo faccio quando avrò tempo per gestire un'altra piattaforma'? Con questa integrazione diretta il tempo che ti serve si è appena ridotto parecchio.",
-      "Se il tuo obiettivo è monetizzare anche il video senza cambiare host, questa integrazione con lo Spotify Partner Program è probabilmente la scorciatoia che stavi aspettando."
-    ]
-  },
-  {
-    "id": "apple-podcasts-hls-video-audio-switch-2026-09",
-    "title": "Apple Podcasts porta lo switch audio/video in-app grazie alla tecnologia HLS",
-    "source": "Netinfluencer.com, comunicazioni Apple (settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-08",
-    "brief": "Apple ha annunciato che gli utenti di Apple Podcasts potranno presto passare in modo fluido da audio a video (e viceversa) nella stessa app grazie alla tecnologia HTTP Live Streaming (HLS), incluso lo scaricamento degli episodi video per l'ascolto offline. È lo stesso standard tecnico che Spotify for Creators e Megaphone adotteranno entro fine anno, segno di una convergenza tra piattaforme sul formato video.",
-    "angles": [
-      "Le piattaforme stanno convergendo sullo stesso standard tecnico video: prepararsi ora conviene più che rincorrere dopo",
-      "Il download offline del video toglie una delle ultime scuse per non pubblicare anche in video",
-      "Cosa cambia lato produzione se il pubblico può passare da audio a video a metà ascolto"
-    ],
-    "hooks": [
-      "Hai sempre pensato che il video sul podcast fosse solo una cosa da YouTube? Pure Apple Podcasts sta per farti passare da audio a video dentro la stessa app, senza cambiare piattaforma.",
-      "Ti scarichi ancora solo l'audio per il viaggio in metro senza campo? Con lo scaricamento offline dei video su Apple Podcasts, quella scusa per non guardare sta per sparire.",
-      "Se pensavi che ogni piattaforma avesse il suo standard video incompatibile con le altre, sappi che Apple e Spotify si stanno allineando sulla stessa tecnologia: un motivo in più per iniziare a pensare all'inquadratura."
-    ]
-  },
-  {
-    "id": "youtube-conteggio-visualizzazioni-primo-frame-2026-08",
-    "title": "YouTube cambia il conteggio delle visualizzazioni: contano dal primo fotogramma",
-    "source": "Netinfluencer.com, PodcastVideos.com (settembre 2026, in vigore dal 24 agosto 2026)",
+    "id": "ilpod-italian-podcast-awards-2026",
+    "title": "Italian Podcast Awards: il 23 settembre Piacenza premia i migliori podcast italiani, anche gli indipendenti",
+    "source": "AskaNews (21 luglio 2026); PiacenzaSera, IlPiacenza, Libertà (settembre 2026)",
     "affidabilita": "secondaria",
     "target": 5,
-    "date": "2026-08-24",
-    "brief": "Da fine agosto 2026 YouTube conta una visualizzazione pubblica non appena il video inizia a essere riprodotto, dal primo fotogramma, invece che dopo qualche secondo come in precedenza. La regola vale in tutto il mondo per Shorts, video lunghi, podcast e dirette, e cambia quindi anche le metriche di chi pubblica episodi di podcast in video su YouTube.",
+    "date": "2026-09-23",
+    "brief": "Il 23 settembre 2026 Piazza Cavalli a Piacenza ospita la quinta edizione di IlPod - Italian Podcast Awards, con le categorie Podcast dell'Anno, Podcast Indie dell'Anno, Premio dell'Academy e Premio Storia del Podcast 2026. L'evento, condotto da Rossella Pivanti con Maura Gancitano, apre con un episodio live di Scanner di Valerio Nicolosi per Fanpage.it.",
     "angles": [
-      "Le tue statistiche di visualizzazione stanno per cambiare aspetto anche senza che tu abbia fatto nulla di diverso",
-      "Perché confrontare i numeri di prima e dopo il 24 agosto senza tener conto della regola porta a conclusioni sbagliate",
-      "Un piccolo cambiamento tecnico che però pesa su come si racconta la crescita di un canale podcast video"
+      "Segnalare l'evento ai propri clienti/allievi come vetrina e occasione di networking nel settore italiano",
+      "Usare le categorie del premio per spiegare cosa distingue un podcast 'notato' da uno che resta invisibile",
+      "Seguire e raccontare l'evento sui social per posizionarsi come voce esperta del podcasting italiano"
     ],
     "hooks": [
-      "Hai notato un'impennata di visualizzazioni sul tuo podcast video da fine agosto senza aver cambiato niente? Non sei impazzito, YouTube ha appena cambiato come conta una view.",
-      "Stai per vantarti con lo sponsor di un balzo di visualizzazioni? Controlla prima se non dipenda solo dal fatto che YouTube ora conta la view dal primo fotogramma invece che dopo qualche secondo.",
-      "Se confronti le tue metriche di agosto con quelle di settembre pensando siano comparabili, occhio: la definizione stessa di 'visualizzazione' è cambiata a metà strada."
-    ]
-  },
-  {
-    "id": "adobe-podcast-enhance-speech-v2-room-modeling-2026",
-    "title": "Adobe Podcast aggiorna Enhance Speech: separazione delle tracce e nuovo Room Modeling",
-    "source": "The Podcast Consultant, AIUnpacking (recensioni 2026); podcast.adobe.com (changelog ufficiale, marzo 2026 e aggiornamenti successivi)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-03-01",
-    "brief": "L'aggiornamento di Adobe Podcast avviato a marzo 2026, con miglioramenti proseguiti nel corso dell'anno, porta la funzione Enhance Speech alla versione 2: ora separa voce, rumore di fondo e musica in tracce distinte esportabili, invece di appiattire tutto in un unico missaggio ripulito. La novità 'Room Modeling' mantiene le caratteristiche acustiche naturali di uno spazio invece di renderlo artificialmente 'da studio', e lato Studio è possibile caricare audio e video multitraccia con sincronizzazione automatica.",
-    "angles": [
-      "La differenza tra 'ripulire tutto' e 'separare le tracce' cambia cosa puoi ancora correggere dopo la registrazione",
-      "Il Room Modeling risponde a una critica classica agli strumenti AI: il suono 'troppo pulito da sembrare finto'",
-      "La sincronizzazione automatica multitraccia toglie uno dei lavori più noiosi del montaggio per interviste registrate separatamente"
-    ],
-    "hooks": [
-      "Hai mai desiderato togliere solo il ronzio del frigo senza rovinare la tua voce nella stessa traccia? Adobe Podcast ora separa voce, rumore e musica in tracce distinte che puoi scaricare separatamente.",
-      "Ti sei sempre lamentato che l'audio 'ripulito dall'AI' suona finto, tipo cabina insonorizzata? La nuova funzione Room Modeling di Adobe Podcast mantiene apposta un po' dell'acustica reale della stanza.",
-      "Perdi ore a sincronizzare a mano l'audio e il video di ospiti registrati con dispositivi diversi? Il caricamento multitraccia di Adobe Podcast Studio ora lo fa in automatico."
+      "Hai un podcast indie fatto in cameretta e pensi che nessuno se ne accorgerà mai? A Piacenza il 23 settembre c'è un premio pensato apposta per progetti come il tuo.",
+      "Ti sei mai chiesto se in Italia esistono davvero gli 'Oscar del podcast'? Esistono, si chiamano IlPod, e quest'anno arrivano alla quinta edizione.",
+      "Pensi che per farsi notare in Italia serva per forza un editore grosso alle spalle? Il premio dedicato ai podcast indipendenti dice che non è così scontato."
     ]
   }
 ]
