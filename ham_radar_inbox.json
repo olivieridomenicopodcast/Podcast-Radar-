@@ -1,58 +1,58 @@
 [
   {
-    "id": "fori-coronali-g1-2026-09-16",
-    "title": "Due fori coronali gemelli alimentano una tempesta geomagnetica minore G1, propagazione HF instabile",
-    "source": "NOAA SWPC (Space Weather Prediction Center); ripreso da TechTimes",
+    "id": "tempesta-geomagnetica-g1-2026-09-17",
+    "title": "Watch di tempesta geomagnetica G1 per l'arrivo di una CME",
+    "source": "NOAA SWPC (Space Weather Prediction Center)",
+    "affidabilita": "primaria",
+    "date": "2026-09-17",
+    "brief": "NOAA SWPC ha emesso un watch per una tempesta geomagnetica minore (G1) attesa tra il 16 e il 17 settembre a seguito dell'arrivo di un'espulsione di massa coronale (CME). Possibili effetti su propagazione HF alle alte latitudini e aurore visibili nelle zone polari. L'attività solare di fondo nel periodo restava su livelli bassi/moderati."
+  },
+  {
+    "id": "iaru-r1-conferenza-vienna-2026-09-19",
+    "title": "27ª Conferenza Generale IARU Region 1 a Vienna",
+    "source": "IARU Region 1 (iaru-r1.org)",
+    "affidabilita": "primaria",
+    "date": "2026-09-19",
+    "brief": "Dal 19 al 23 settembre si tiene a Vienna la 27ª Conferenza Generale IARU Region 1, in concomitanza con il centenario della società ospitante ÖVSV. Risultano registrati 97 delegati provenienti da 39 società membre, per discutere le politiche regionali su spettro e attività radioamatoriale."
+  },
+  {
+    "id": "orari-indonesia-emergenza-vulcano-2026-09-11",
+    "title": "ORARI attiva le comunicazioni di emergenza in Indonesia",
+    "source": "IARU / ORARI (Organisasi Amatir Radio Indonesia)",
     "affidabilita": "secondaria",
-    "date": "2026-09-16",
-    "brief": "Due ampi fori coronali in posizione geoefficace stanno inviando flussi di vento solare ad alta velocità verso la Terra, con il NOAA SWPC che prevede periodi isolati di tempesta geomagnetica minore G1 fino a martedì, con probabilità in aumento il 16 settembre per l'arrivo di un ulteriore flusso da foro coronale. Per i radioamatori HF questo comporta possibile instabilità della propagazione sulle rotte polari/alte latitudini e finestre di apertura variabili su 20-10 metri."
+    "date": "2026-09-11",
+    "brief": "A seguito di un'attività vulcanica in corso, la società radioamatoriale indonesiana ORARI ha attivato operazioni di comunicazione di emergenza dall'11 al 24 settembre. L'attivazione risulta tuttora in corso a metà settembre, a supporto del coordinamento locale in caso di interruzione delle reti convenzionali."
   },
   {
-    "id": "dxpedition-kh8ww-samoa-2026-09-10",
-    "title": "DXpedition KH8WW da Aunu'u, Samoa Americane, attiva fino al 24 settembre",
-    "source": "DX-World.net; DXZone",
-    "affidabilita": "primaria",
-    "date": "2026-09-10",
-    "brief": "Yuris YL2GM ed Eugene EA5EL sono attivi come KH8WW dall'isola di Aunu'u (American Samoa, IOTA OC-045) dal 10 al 24 settembre 2026, in CW, SSB e FT8 su tutte le bande da 160 a 6 metri. QSL via Club Log OQRS o YL2GN, upload su LoTW previsto sei mesi dopo la spedizione. L'operazione è inserita nel DXpedition Trophy 2026."
+    "id": "dxpedition-kh8ww-samoa-2026-09-17",
+    "title": "KH8WW attiva da Samoa Americana fino al 24 settembre",
+    "source": "DX-World.net / NG3K Announced DX Operations",
+    "affidabilita": "secondaria",
+    "date": "2026-09-17",
+    "brief": "Yuris YL2GM ed Eugene EA5EL operano come KH8WW dall'isola di Aunu'u (Samoa Americana, IOTA OC-045) dal 10 al 24 settembre. La DX-pedition è attiva a metà settembre e rappresenta un'entità DXCC ricercata per molti operatori."
   },
   {
-    "id": "dxpedition-pj2-k5sl-curacao-2026-09-18",
-    "title": "Randy K5SL in arrivo a Curaçao come PJ2/K5SL dal 18 settembre",
-    "source": "DX-World.net (DXpedition Timeline settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Randy, K5SL, sarà attivo da Curaçao con nominativo PJ2/K5SL dal 18 al 26 settembre 2026, secondo il calendario DXpedition di DX-World.net aggiornato a inizio mese. L'operazione si inserisce in un mese ricco di attività caraibiche, insieme a V47YA/V47RCX da Saint Kitts (9-30 settembre)."
+    "id": "dxpedition-v47-st-kitts-2026-09-17",
+    "title": "V47YA e V47RCX operativi da Saint Kitts",
+    "source": "DX-World.net",
+    "affidabilita": "secondaria",
+    "date": "2026-09-17",
+    "brief": "Tom K0YA (V47YA) e Toni W5RCX (V47RCX) sono attivi da Saint Kitts dal 9 al 30 settembre, in CW, SSB e FT8 dai 160 ai 6 metri. L'operazione risulta in corso durante le ultime 48 ore e prosegue ancora per diversi giorni."
   },
   {
-    "id": "dxpedition-9t0md-congo-2026-08-10",
-    "title": "Sponsor tecnici confermati per la mega DXpedition 9T0MD in Congo (30 set - 11 ott)",
-    "source": "DX Engineering / OnAllBands; MDXC (Mediterraneo DX Club)",
-    "affidabilita": "primaria",
-    "date": "2026-08-10",
-    "brief": "DX Engineering si aggiunge a FlexRadio e Aziloop tra gli sponsor tecnici della DXpedition 9T0MD nella Repubblica Democratica del Congo, fornendo alimentatori RigExpert Shackmaster Power 600. Il team multi-operatore del Mediterraneo DX Club sarà attivo dal 30 settembre all'11 ottobre 2026 su 160-6m in CW/SSB/RTTY/FT8, oltre a EME e satellite CQ-100, con il raro prefisso 9T mai andato in onda prima d'ora."
-  },
-  {
-    "id": "contest-sac-cw-2026-09-19",
-    "title": "Scandinavian Activity Contest CW nel weekend del 19-20 settembre",
+    "id": "sac-cw-contest-2026-09-19",
+    "title": "Scandinavian Activity Contest CW 2026 il prossimo fine settimana",
     "source": "SAC - Scandinavian Activity Contest (sactest.net)",
     "affidabilita": "primaria",
     "date": "2026-09-19",
-    "brief": "La sezione CW dello Scandinavian Activity Contest (SAC) si svolge dalle 12:00 UTC di sabato 19 alle 11:59 UTC di domenica 20 settembre 2026, secondo il regolamento ufficiale pubblicato sul sito del contest. La sezione SSB seguirà invece il 10-11 ottobre. Contest molto seguito per i collegamenti con le stazioni scandinave su HF."
+    "brief": "La sezione CW dello Scandinavian Activity Contest 2026 si svolgerà dal 19 al 20 settembre (12:00 UTC sabato - 11:59 UTC domenica), come da regolamento pubblicato sul sito ufficiale. È uno dei principali contest imminenti segnalati questa settimana dai calendari contest internazionali."
   },
   {
-    "id": "mimit-rinnovo-sperimentazioni-2026-07-31",
-    "title": "MIMIT conferma il rinnovo delle sperimentazioni sulle bande 160m, 4m e 8m fino a fine 2026",
-    "source": "ARI - Associazione Radioamatori Italiani; PianetaRadio.it; IU2FRL",
-    "affidabilita": "primaria",
-    "date": "2026-07-31",
-    "brief": "Con protocollo n. 5536/2026, il Ministero delle Imprese e del Made in Italy (MIMIT) ha confermato ad ARI il rinnovo delle sperimentazioni sulle gamme 1810-1830 kHz, 40.660-40.700 MHz e 70.100-70.400 MHz fino al 31 dicembre 2026. Resta obbligatorio l'uso del portale sperimentazioni.ari.it per il monitoraggio di interferenze e la raccolta dei log delle attività, con bandplan aggiornati disponibili sul sito ARI."
-  },
-  {
-    "id": "hamlib-4-7-2-release-2026-06-21",
-    "title": "Hamlib 4.7.2 resta la versione stabile di riferimento per il controllo remoto degli apparati",
-    "source": "GitHub - Hamlib/Hamlib (release ufficiali)",
-    "affidabilita": "primaria",
-    "date": "2026-06-21",
-    "brief": "La versione 4.7.2 di Hamlib, rilasciata da Nate Bargmann N0NB il 21 giugno 2026, include aggiornamenti al backend per il Flex FTX-1, correzioni al clock di IC-7600/IC-7610, supporto per il Kenwood Hamgeek uSGX e importanti fix di sicurezza in rigctld (buffer overflow e bypass di autenticazione). È tuttora la release stabile più recente usata da software come WSJT-X e continua a essere monitorata attivamente dalla comunità a metà settembre 2026."
+    "id": "icom-ic7300-mk2-firmware-2026-09-03",
+    "title": "Icom rilascia il firmware v1.03 per l'IC-7300 Mark II",
+    "source": "Icom (tramite Wimo.com / HamNieuws)",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-03",
+    "brief": "Icom ha pubblicato la versione firmware 1.03 per l'IC-7300 Mark II, il primo aggiornamento dal lancio del modello (fine 2025). L'update corregge un problema di degrado della qualità del segnale in alcune condizioni e regola la gestione del backup dell'orologio interno. Data di rilascio riportata da fonti secondarie come indicativa, non confermata su pagina ufficiale Icom raggiungibile in questa sessione."
   }
 ]

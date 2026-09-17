@@ -1,56 +1,56 @@
 [
   {
-    "id": "ban-ekko-recurrent-stackeddeck-2026-09-15",
-    "title": "Riot bandisce Ekko, Recurrent e Stacked Deck in Standard e 2v2",
-    "source": "playriftbound.com, comunicato ufficiale \"September Ban List Updates (Effective September 18, 2026)\", 15 settembre 2026; ripreso da Star City Games il 15 settembre 2026",
+    "id": "ban-ekko-recurrent-stacked-deck-2026-09-15",
+    "title": "Riftbound banna Ekko, Recurrent e Stacked Deck in Standard e 2v2 Constructed",
+    "source": "playriftbound.com (annuncio ufficiale \"September Ban List Updates\") e riftbound.gg, 15 settembre 2026",
     "affidabilita": "primaria",
     "date": "2026-09-15",
-    "brief": "Riot Games ha annunciato il bando di Ekko, Recurrent e della carta Stacked Deck nei formati Standard e 2v2 Constructed, con effetto dal 18 settembre 2026. La motivazione riguarda il combo infinito abilitato da Ekko (mazzo Lux) giudicato poco interattivo e \"solitario\", e il ruolo di Stacked Deck nel motore di pescate di Kennen.",
-    "rilevanza": "È un cambiamento diretto alle liste competitive: chi gioca Lux-combo o Kennen deve rivedere il proprio mazzo prima dei prossimi eventi regionali."
+    "brief": "Riot Games ha annunciato il ban di Ekko, Recurrent (Mind) e Stacked Deck (Chaos) nei formati Standard e 2v2 Constructed, con effetto dal 18 settembre 2026. La motivazione ufficiale è fermare il combo infinito Lux/Ekko, giudicato poco interattivo, e ridimensionare il dominio di Kennen/Chaos abilitato da Stacked Deck.",
+    "rilevanza": "È il secondo grande wave di ban nella storia del gioco e ridefinisce subito gli archetipi competitivi principali, proprio alla vigilia delle ultime qualifiche regionali del 2026: chi ha un mazzo Mind o Chaos deve rivederlo prima dei prossimi tornei."
   },
   {
-    "id": "la-regional-qualifier-annuncio-2026-09-11",
-    "title": "Annunciato il Regional Qualifier di Los Angeles, ultimo evento stagionale",
-    "source": "playriftbound.com, articolo ufficiale \"All Eyes on Los Angeles\", pubblicato l'11 settembre 2026",
+    "id": "reddit-reazione-ban-2026-09-16",
+    "title": "La community su r/riftboundtcg si divide sull'efficacia del ban a Stacked Deck",
+    "source": "Reddit r/riftboundtcg, riprese e commento su RiftCompare, 16 settembre 2026",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-16",
+    "brief": "Sul subreddit non ufficiale del gioco i giocatori commentano il banlist appena annunciato: ampio consenso sul ban a Ekko/Recurrent (\"il combo infinito di Lux è morto\"), ma pareri opposti su Stacked Deck, con alcuni che lo giudicano insufficiente contro Kennen e altri che lo vedono come un colpo eccessivo a tutti i mazzi Chaos.",
+    "rilevanza": "È opinione di community, non un fatto ufficiale, ma indica dove si concentrerà il dibattito sul meta e quali mazzi/carte potrebbero perdere appeal (e valore) tra i collezionisti nelle prossime settimane."
+  },
+  {
+    "id": "analisi-meta-post-ban-2026-09-16",
+    "title": "Prime analisi indipendenti sul meta post-ban: Chaos rallenta, Mind si adatta",
+    "source": "riftbound.gg e riftcompare.com, analisi indipendenti pubblicate intorno al 16 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-16",
+    "brief": "Siti di analisi non ufficiali hanno pubblicato le prime letture del metagame dopo l'annuncio dei ban: senza Stacked Deck come pescata garantita, i mazzi Chaos legati a Kennen dovrebbero perdere consistenza, mentre i mazzi Mind diversi dal combo Lux-Ekko sarebbero toccati solo marginalmente.",
+    "rilevanza": "Sono previsioni di analisti esterni a Riot, quindi opinioni e non fatti certi, ma utili a chi deve decidere quale mazzo costruire o quali carte comprare/vendere in vista delle ultime qualifiche regionali del 2026."
+  },
+  {
+    "id": "hangzhou-regional-open-2026-09-14",
+    "title": "Hangzhou Regional Open chiude la Stagione 1 cinese: vittoria per YoungNewNew",
+    "source": "riftbound.gg e runesandrift.com, evento del 13-14 settembre 2026, report pubblicati nei giorni successivi",
+    "affidabilita": "secondaria",
+    "date": "2026-09-14",
+    "brief": "A Hangzhou si è tenuto il quarto e ultimo Regional Open cinese di Stagione 1 (dopo Guangzhou, Beijing e Chongqing), con 510 partecipanti. Nel Day 1 Kai'Sa ha dominato la distribuzione dei mazzi (circa il 30,6% degli iscritti) e il torneo è stato vinto dal giocatore noto come YoungNewNew.",
+    "rilevanza": "Conferma Kai'Sa come legend di riferimento nel circuito cinese proprio nei giorni immediatamente precedenti al nuovo banlist, un dato di contesto utile per chi segue il metagame competitivo globale in vista delle qualifiche regionali finali."
+  },
+  {
+    "id": "korea-lancio-origins-2026-09-16",
+    "title": "Riftbound arriva ufficialmente in Corea del Sud il 18 settembre con il set Origins",
+    "source": "playriftbound.com (annuncio ufficiale \"Korea's Rift Opens on September 18\") e Inven Global, circa 16 settembre 2026",
     "affidabilita": "primaria",
-    "date": "2026-09-11",
-    "brief": "Riot ha pubblicato i dettagli del Regional Qualifier di Los Angeles (25-27 settembre 2026), l'ultimo qualificatore regionale dell'anno, organizzato da UVS Games con un montepremi complessivo di 25.000 dollari e inviti al Regional Championship in palio.",
-    "rilevanza": "È l'ultima occasione dell'anno per qualificarsi al Regional Championship, quindi rilevante per i giocatori competitivi che puntano ancora a un invito."
+    "date": "2026-09-16",
+    "brief": "Riot Games ha confermato il lancio in lingua coreana del primo set Origins per il 18 settembre 2026, con una carta esclusiva \"Ahri, Nine-Tailed Fox\" dedicata al mercato coreano ed eventi di lancio a Seoul, incluso uno ospitato da Gen.G dal 18 al 23 settembre.",
+    "rilevanza": "Per i collezionisti è una nuova esclusiva regionale da monitorare (carta promo unica per il mercato coreano), mentre per i giocatori segna l'espansione ufficiale del supporto competitivo di Riftbound in un nuovo mercato asiatico."
   },
   {
-    "id": "shenyang-regional-open-risultati-2026-09-13",
-    "title": "Shenyang Regional Open: Akali prima Legend a vincere due regionali nell'era Vendetta",
-    "source": "Riftbound.gg (sito/database community di settore), recap torneo, 12-13 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-13",
-    "brief": "Il Regional Open di Shenyang, disputato il 12-13 settembre 2026 con 1.191 partecipanti, ha incoronato un mazzo Akali, che diventa la prima Legend a vincere due regionali diversi nell'era del set Vendetta.",
-    "rilevanza": "Conferma la forza di Akali nel meta attuale e offre dati concreti (tassi di popolarità e conversione) utili a chi costruisce mazzi competitivi in vista dei prossimi regionali."
-  },
-  {
-    "id": "meta-post-ban-analisi-2026-09-15",
-    "title": "Analisi community: dopo i ban il dominio Calm (Master Yi, Irelia, Akali, Azir) è atteso salire",
-    "source": "Riftbound.gg, analisi community post-ban, 15-16 settembre 2026",
-    "affidabilita": "secondaria",
+    "id": "rq-los-angeles-radiance-preview-2026-09-15",
+    "title": "RQ Los Angeles (25-27 settembre) darà ufficialmente il via alla preview season di Radiance",
+    "source": "playriftbound.com, articolo \"All Eyes on Los Angeles\", pubblicato a metà settembre 2026",
+    "affidabilita": "primaria",
     "date": "2026-09-15",
-    "brief": "All'indomani dell'annuncio dei ban, analisti e community prevedono che il dominio Calm (con Master Yi, Irelia, Akali e Azir) diventi la sinergia dominante nel meta, mentre i mazzi Chaos/Kennen dovranno adattarsi senza Stacked Deck come auto-include.",
-    "rilevanza": "Utile per chi deve aggiornare il proprio mazzo in vista dei tornei di fine settembre, poiché indica quali archetipi potrebbero salire o scendere di tier dopo i ban."
-  },
-  {
-    "id": "radiance-preview-season-annuncio-2026-09-13",
-    "title": "Riftbound: Radiance, la preview season parte il 21 settembre con tre carte già rivelate",
-    "source": "Account community/report \"Riftbound Report\" su X, circa 11-13 settembre 2026; dettagli calendario confermati da Star City Games e riftbound.gg",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-13",
-    "brief": "In attesa dell'inizio ufficiale della preview season del quinto set Radiance (dal 21 settembre, con anteprime concentrate al Regional Qualifier di Los Angeles del 25-27 settembre), la community segnala che Riot ha già rivelato tre carte del set prima dell'apertura ufficiale delle rivelazioni, tra i Legend confermati Seraphine, Evelynn ed Ekko.",
-    "rilevanza": "Anticipa i contenuti del prossimo set (uscita 23 ottobre 2026) e indica dove seguire le prime rivelazioni ufficiali di carte per chi vuole pianificare pre-release e collezione."
-  },
-  {
-    "id": "tier-list-vendetta-kennen-2026-09-11",
-    "title": "Tier list community aggiornata: Kennen resta il mazzo di riferimento dell'era Vendetta",
-    "source": "riftdecks.com / riftbound.gg, tier list community aggiornata l'11 settembre 2026",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-11",
-    "brief": "Le tier list gestite dalla community, aggiornate all'11 settembre 2026 dopo l'uscita globale del set Vendetta, collocano Kennen, Heart of the Tempest in Tier 1 con circa il 10% di metashare, seguito da Master Yi e Irelia.",
-    "rilevanza": "Fotografa il meta immediatamente prima dei ban del 18 settembre, utile come termine di paragone per capire quanto cambierà l'equilibrio tra i mazzi dopo la rimozione di Stacked Deck."
+    "brief": "Riot ha annunciato i dettagli dell'ultima Regional Qualifier del 2026, a Los Angeles dal 25 al 27 settembre, con 25.000 dollari di montepremi e inviti al Regional Championship in palio. Un panel venerdì alle 15:00 Pacific darà ufficialmente il via alla preview season del nuovo set Radiance, in uscita il 23 ottobre.",
+    "rilevanza": "È l'ultima grande occasione competitiva prima dei Regional Championship e il momento in cui inizieranno le rivelazioni ufficiali delle carte di Radiance, un evento chiave sia per i giocatori competitivi sia per chi vuole anticipare gli acquisti da collezione."
   }
 ]

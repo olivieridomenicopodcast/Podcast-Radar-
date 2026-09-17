@@ -1,37 +1,48 @@
 {
-  "aggiornato": "2026-09-16",
+  "aggiornato": "2026-09-17",
   "citta": "Pesaro (PU), Marche, Italia",
-  "fonti": ["meteo.it", "ilmeteo.it", "3bmeteo.com", "meteogiornale.it", "allertameteo.regione.marche.it"],
+  "fonti": [
+    "https://www.3bmeteo.com/meteo/pesaro",
+    "https://www.ilmeteo.it/meteo/pesaro",
+    "https://previsioni.meteogiornale.it/meteo/pesaro?d=9",
+    "https://allertameteo.regione.marche.it/",
+    "https://www.oltrefano.it/cronaca/fano/allerta-gialla-per-temporali-nella-provincia-di-pesaro-urbino.html",
+    "https://etvmarche.it/16/09/2026/temporali-in-arrivo-nelle-marche-allerta-gialla-per-giovedi/",
+    "https://www.fanpage.it/attualita/maltempo-allerta-meteo-arancione-e-gialla-domani-giovedi-17-settembre-per-temporali-le-regioni-colpite/",
+    "https://it.windfinder.com/forecast/pesaro",
+    "https://it.sea-forecast.com/italy/pesaro",
+    "https://www.meteo.it/meteo-mare/pesaro-41044"
+  ],
   "previsioni": [
     {
-      "data": "2026-09-16",
-      "giorno": "oggi, mercoledì",
-      "temp_min_c": 15,
-      "temp_max_c": 26,
-      "condizioni": "Cieli in prevalenza sereni o poco nuvolosi per l'intera giornata, non sono previste piogge",
-      "vento": "Moderato da Sudest al mattino, moderato da Est al pomeriggio",
-      "mare": "Poco mosso",
-      "allerta": "Nessuna allerta attiva per la provincia di Pesaro e Urbino"
-    },
-    {
       "data": "2026-09-17",
-      "giorno": "domani, giovedì",
+      "giorno": "oggi, giovedì",
       "temp_min_c": 19,
       "temp_max_c": 27,
-      "condizioni": "Cielo nuvoloso, non sono previste piogge significative",
-      "vento": "Dati sul vento non disponibili nelle fonti consultate per questo giorno",
-      "mare": "Dati non disponibili nelle fonti consultate per questo giorno",
-      "allerta": "Nessuna allerta attiva rilevata al momento della ricerca"
+      "condizioni": "Nuvoloso, con rovesci e temporali anche forti nel pomeriggio in spostamento dai monti verso la costa; schiarite in serata",
+      "vento": "Moderato dai quadranti settentrionali (Nord / Nord-Nord-Est, 11-21 km/h), possibili rinforzi e raffiche durante i temporali",
+      "mare": "Da poco mosso a mosso nel pomeriggio in concomitanza con i temporali",
+      "allerta": "ALLERTA GIALLA della Protezione Civile Marche per temporali forti nella provincia di Pesaro e Urbino, valida dalle 00:00 del 17/09 alle 00:00 del 18/09"
     },
     {
       "data": "2026-09-18",
-      "giorno": "dopodomani, venerdì",
+      "giorno": "domani, venerdì",
       "temp_min_c": 18,
       "temp_max_c": 26,
-      "condizioni": "Dati dettagliati sulle condizioni non disponibili nelle fonti consultate, temperature in linea con i giorni precedenti",
-      "vento": "Dati sul vento non disponibili nelle fonti consultate per questo giorno",
-      "mare": "Dati non disponibili nelle fonti consultate per questo giorno",
-      "allerta": "Nessuna allerta attiva rilevata per il 18/09; risulta invece un'allerta arancione della Protezione Civile Marche prevista dalle 00:00 del 19 settembre alle 00:00 del 20 settembre, fuori dal periodo di queste previsioni"
+      "condizioni": "Cielo irregolarmente nuvoloso, aumento della nuvolosità dal tardo mattino, nuvoloso nel pomeriggio con schiarite in serata; possibili precipitazioni sparse dal tardo mattino",
+      "vento": "Al mattino brezza tesa da Ovest; al pomeriggio e in serata moderato da Nord-Est",
+      "mare": "Calmo / poco mosso",
+      "allerta": "Nessuna allerta attiva risultante dalle fonti consultate al momento della ricerca"
+    },
+    {
+      "data": "2026-09-19",
+      "giorno": "dopodomani, sabato",
+      "temp_min_c": 19,
+      "temp_max_c": 24,
+      "condizioni": "non disponibile in dettaglio nelle fonti consultate (dato disponibile solo su temperature, in lieve calo rispetto ai giorni precedenti)",
+      "vento": "Debole/moderato, variabile dai quadranti occidentali (Ovest, Ovest-Nord-Ovest, Nord-Ovest, 6-15 km/h)",
+      "mare": "Poco mosso (altezza onde stimata 24-27 cm)",
+      "allerta": "Nessuna allerta attiva risultante dalle fonti consultate al momento della ricerca"
     }
   ]
 }

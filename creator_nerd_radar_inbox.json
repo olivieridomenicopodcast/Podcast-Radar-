@@ -1,56 +1,47 @@
 [
   {
-    "id": "palermo-comic-convention-2026-09-14",
-    "title": "Palermo Comic Convention 2026 chiude con un record di presenze",
-    "source": "PalermoToday, Palermomania.it, Sicilia20News, Il Moderatore",
+    "id": "palermo-comic-convention-record-2026-09-14",
+    "title": "Palermo Comic Convention 2026 chiude con un record di 59.000 presenze",
+    "source": "PalermoToday / Sicilia20News / Il Moderatore / Giornale L'Ora",
+    "affidabilita": "primaria",
+    "date": "2026-09-14",
+    "brief": "L'undicesima edizione della Palermo Comic Convention, svoltasi ai Cantieri Culturali alla Zisa dal 10 al 13 settembre, si è chiusa con circa 59.000 tagliandi staccati in quattro giorni, dato di affluenza più alto nella storia della manifestazione. L'evento ha ospitato panel con youtuber e content creator seguiti dal pubblico nerd, oltre a fumettisti come Leo Ortolani e Charlie Adlard.",
+    "rilevanza": "Conferma la crescita del pubblico italiano per gli eventi di cultura pop/nerd, contesto in cui operano molti content creator che animano panel e incontri con i fan."
+  },
+  {
+    "id": "lele-draw-pcc-championship-2026-09-14",
+    "title": "Lele Draw vince il PCC Championship 2026 di cosplay a Palermo",
+    "source": "Giornale L'Ora",
     "affidabilita": "secondaria",
     "date": "2026-09-14",
-    "brief": "L'undicesima edizione della Palermo Comic Convention, ai Cantieri Culturali alla Zisa, si è chiusa con un nuovo record di 59.000 tagliandi staccati in quattro giorni. Tra i momenti clou il PCC Championship 2026 di cosplay, vinto dalla content creator Lele Draw, con aree gaming curate da creator come PlayerInside e Save a Gamer.",
-    "rilevanza": "Conferma la crescita del pubblico nerd italiano dal vivo e il ruolo sempre più centrale di content creator e cosplayer come ambasciatori delle fiere pop."
+    "brief": "Nell'ambito della Palermo Comic Convention 2026, il content creator e cosplayer Lele Draw ha vinto la competizione cosplay ufficiale della manifestazione, il PCC Championship 2026, con interpretazioni ispirate a fumetti, anime e videogiochi.",
+    "rilevanza": "Segnala il peso crescente dei content creator cosplay nelle convention italiane di cultura pop, con competizioni ufficiali dedicate al loro lavoro."
   },
   {
-    "id": "dario-moccia-terni-comics-2026-09-13",
-    "title": "Dario Moccia protagonista al Terni Comics 2026",
-    "source": "TerniToday, Corriere dell'Umbria",
-    "affidabilita": "secondaria",
+    "id": "giulia-vaiana-nerd-kitchen-palermo-2026-09-13",
+    "title": "Giulia Vaiana (Nerd Kitchen) tra gli ospiti della Palermo Comic Convention 2026",
+    "source": "Palermo Comic Convention (sito ufficiale) / PalermoToday",
+    "affidabilita": "primaria",
     "date": "2026-09-13",
-    "brief": "Il content creator e divulgatore Dario Moccia è stato tra gli ospiti principali della quarta edizione del Terni Comics (11-13 settembre, PalaTerni), incontrando la community tra fumetti, animazione, collezionismo e cultura pop, e condividendo il palco anche con Marco Marzocca.",
-    "rilevanza": "Mostra come i grandi content creator gaming/nerd italiani siano ormai headliner fissi delle fiere regionali, trainando afflusso e visibilità mediatica."
-  },
-  {
-    "id": "milano-comics-games-creator-2026-09-13",
-    "title": "Milano Comics & Games 2026: content creator protagonisti nella 22esima edizione",
-    "source": "Fiere del Fumetto, MondoJapan",
-    "affidabilita": "secondaria",
-    "date": "2026-09-13",
-    "brief": "La fiera Milano Comics & Games (12-13 settembre, Malpensa Fiere) ha ospitato diversi content creator italiani della sfera nerd tra meet&greet e panel, tra cui 151EG (Enrico Gamba), Stibazzi e Giulia di 'Storie de mai na gioia'.",
-    "rilevanza": "Conferma il peso crescente dei creator digitali nel richiamare pubblico alle fiere di fumetti e cultura pop, affiancando ospiti tradizionali come doppiatori e disegnatori."
-  },
-  {
-    "id": "edoardo-brugnoli-podcast-2026-09-13",
-    "title": "Edoardo Brugnoli, 'il pianista degli anime', apre il nuovo podcast di Fiere del Fumetto",
-    "source": "CorriereNerd.it, A6 Fanzine, Fiere del Fumetto",
-    "affidabilita": "secondaria",
-    "date": "2026-09-13",
-    "brief": "Il content creator Edoardo Brugnoli, noto per le sue reinterpretazioni al pianoforte delle colonne sonore anime (oltre 130mila follower su TikTok), è stato il primo ospite di 'Pillole di Comics', il nuovo format podcast di Fiere del Fumetto, ed era presente a Milano Comics & Games per un quiz musicale dal vivo.",
-    "rilevanza": "Segnala l'espansione dei format podcast dedicati al backstage nerd italiano, con i content creator come volto trainante dei nuovi progetti editoriali di settore."
+    "brief": "La content creator palermitana Giulia Vaiana, autrice del canale YouTube Nerd Kitchen che unisce cucina e cultura nerd, è stata tra gli ospiti della Palermo Comic Convention 2026 (10-13 settembre) ai Cantieri Culturali alla Zisa.",
+    "rilevanza": "Esempio di content creator italiana nerd/food che porta il proprio format a un evento fisico di cultura pop, rafforzando il legame tra community online e fiere di settore."
   },
   {
     "id": "cydonia-lucca-comics-2026-09-13",
-    "title": "Cydonia porta Wonderful Neoran Valley a Lucca Comics & Games 2026",
-    "source": "IlVideogiocatore.it",
+    "title": "Cydonia, content creator e Creative Director di Wonderful Neoran Valley, annunciata a Lucca Comics & Games 2026",
+    "source": "Il Videogiocatore",
     "affidabilita": "secondaria",
     "date": "2026-09-13",
-    "brief": "È stato confermato che il content creator Cydonia (Francesco Cilurzo), host ufficiale di Lucca Comics & Games dal 2022, porterà alla 60esima edizione del festival (28 ottobre-1 novembre) attività dedicate a Wonderful Neoran Valley, il suo monster-collector roguelite sviluppato con Nara Studio, reduce da una campagna Kickstarter record per un team italiano.",
-    "rilevanza": "Esempio di content creator italiano che passa dalla produzione di contenuti allo sviluppo di un videogioco proprio, con un progetto che ha già superato il milione di dollari su Kickstarter."
+    "brief": "Tra le novità dell'area videogiochi di Lucca Comics & Games 2026 (28 ottobre - 1 novembre) è stata annunciata la presenza del team di Wonderful Neoran Valley, progetto Nara Studio guidato dal content creator Cydonia, con meet & greet dedicati ai fan. Il gioco ha raccolto oltre un milione di dollari su Kickstarter.",
+    "rilevanza": "Mostra come i content creator italiani stiano diventando protagonisti diretti dello sviluppo videoludico, con progetti crowdfunded che arrivano ai grandi eventi di settore."
   },
   {
-    "id": "tana-goblin-kickstarter-2026-09-12",
+    "id": "goblins-kickstarter-tavolo-2026-09-12",
     "title": "La Tana dei Goblin pubblica la rassegna dei Kickstarter di giochi da tavolo di metà settembre",
-    "source": "Goblins.net (La Tana dei Goblin)",
+    "source": "La Tana dei Goblin (goblins.net)",
     "affidabilita": "primaria",
     "date": "2026-09-12",
-    "brief": "Il portale/content creator italiano La Tana dei Goblin ha pubblicato la consueta rubrica 'Kalcio d'inizio', segnalando le campagne Kickstarter di giochi da tavolo più interessanti di metà settembre 2026, tra cui la nuova espansione di Clank! in arrivo dal 29 settembre.",
-    "rilevanza": "Rappresenta l'attività editoriale ricorrente di uno dei principali content creator italiani nel settore giochi da tavolo, punto di riferimento per la community di settore."
+    "brief": "Il sito italiano di settore La Tana dei Goblin ha pubblicato il consueto articolo 'Kalcio d'inizio', rassegna periodica delle campagne di crowdfunding su Kickstarter e Gamefound per giochi da tavolo, con una panoramica dei progetti attivi a metà settembre 2026.",
+    "rilevanza": "Rappresenta l'attività editoriale continuativa dei content creator/media italiani specializzati in giochi da tavolo, che orientano gli acquisti della community verso il crowdfunding."
   }
 ]
