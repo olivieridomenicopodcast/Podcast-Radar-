@@ -1,58 +1,58 @@
 [
   {
-    "id": "twin-coronal-holes-g1-storm-window-2026-09",
-    "title": "Due fori coronali gemelli aprono una finestra di tempesta geomagnetica G1 fino a martedì",
-    "source": "Tech Times, \"Twin Coronal Holes Aim Solar Wind at Earth: G1 Storm Window Through Tuesday\" (14/09/2026); NOAA SWPC",
-    "affidabilita": "secondaria",
-    "date": "2026-09-14",
-    "brief": "Due fori coronali stanno indirizzando vento solare ad alta velocità verso la Terra: il primo flusso ha iniziato a raggiungere il pianeta il 14 settembre, il secondo è atteso il 15. NOAA prevede un Kp massimo di 4 (soglia G1) tra il 14 e il 16 settembre, con probabilità crescente di tempesta il 16 quando un ulteriore flusso ad alta velocità arriverà in posizione geoefficace; nessun brillamento significativo è previsto nel frattempo."
+    "id": "buchi-coronali-tempesta-g1-sett2026",
+    "title": "Due buchi coronali generano tempesta geomagnetica minore G1",
+    "source": "NOAA SWPC / SpaceWeatherLive (17 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-17",
+    "brief": "Due buchi coronali affacciati verso la Terra stanno inviando flussi di vento solare successivi che mantengono condizioni da tempesta geomagnetica minore G1 tra il 16 e il 17 settembre, con Kp massimo atteso di 4,67 secondo le previsioni NOAA SWPC. Per il 18 settembre le previsioni indicano condizioni da quiete a instabili in progressiva attenuazione. Possibili aurore alle alte latitudini e degradazione della propagazione HF sulle rotte polari."
   },
   {
-    "id": "dxpedition-ri1fjl-terra-francesco-giuseppe-2026-09",
-    "title": "RI1FJL attivi dall'isola di Heiss, Terra di Francesco Giuseppe, per 15 giorni",
+    "id": "dxpedition-ri1fjz-terra-francesco-giuseppe",
+    "title": "DX-pedition RI1FJZ attiva dalla Terra di Francesco Giuseppe",
+    "source": "DX-World.net (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-09",
+    "brief": "Il team russo composto da Vasily RA1ZZ, Vladimir R9LR, Dima RA9USU, Alex R9LM, Nick R3CN ed Eugene RW6MD opera come RI1FJZ dall'Isola Aleksandra, nell'arcipelago artico Terra di Francesco Giuseppe, dal 9 al 25 settembre 2026. Utilizzano fino a 7 postazioni radio in CW, SSB e digitali, con collegamenti anche via EME, satelliti LEO e QO-100."
+  },
+  {
+    "id": "dxpedition-kh8ww-samoa-americane",
+    "title": "DX-pedition KH8WW attiva dalle Samoa Americane",
     "source": "DX-World.net (settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-10",
-    "brief": "Il team RI1FJL è in attività dall'isola di Heiss (IOTA EU-014), nell'arcipelago russo della Terra di Francesco Giuseppe, per un'operazione di 15 giorni a settembre 2026. Si tratta di una delle entità più remote e rare dell'Artico, raramente attivata per via delle difficoltà logistiche."
+    "brief": "Yuris YL2GM ed Eugene EA5EL sono attivi come KH8WW dall'isola di Aunu'u, Samoa Americane (IOTA OC-045), dal 10 al 24 settembre 2026. Operano in CW, SSB e modi digitali da 160 a 6 metri con 2-3 stazioni contemporanee; QSL preferibilmente tramite OQRS di Club Log."
   },
   {
-    "id": "dxpedition-kh8ww-american-samoa-settembre-2026",
-    "title": "KH8WW attivi da Aunu'u, American Samoa, fino al 24 settembre",
-    "source": "DX-World.net; lral.lv/kh8ww",
+    "id": "dxpedition-9t0md-congo-annuncio",
+    "title": "Annunciata la DX-pedition 9T0MD nella Rep. Dem. del Congo",
+    "source": "DX Engineering / DX-World.net (agosto-settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "brief": "Yuris YL2GM ed Eugene EA5EL sono in attività dall'isola di Aunu'u (IOTA OC-045, DXCC American Samoa) come KH8WW dal 10 al 24 settembre 2026, su più bande e modi. L'operazione è inserita nella lista dei DXpedition Trophy 2026, rendendola un'attivazione di interesse per i cacciatori di entità rare del Pacifico."
+    "date": "2026-09-30",
+    "brief": "Un team internazionale sarà attivo come 9T0MD dalla Repubblica Democratica del Congo dal 30 settembre all'11 ottobre 2026, utilizzando per la prima volta in assoluto il prefisso 9T. Operatività prevista da 160 a 6 metri in CW, SSB, FT8 e RTTY, con debutto anche su satellite ed EME; la spedizione ha ricevuto un grant NCDXF ed è supportata da DX Engineering."
   },
   {
-    "id": "dxpedition-v47ya-v47rcx-saint-kitts-settembre-2026",
-    "title": "V47YA e V47RCX in QRV da Saint Kitts fino al 30 settembre",
-    "source": "DX-World.net; 425 DX News #1843",
-    "affidabilita": "secondaria",
-    "date": "2026-09-09",
-    "brief": "Tom K0YA (nominativo V47YA) e Toni W5RCX (nominativo V47RCX) operano da Saint Kitts dal 9 al 30 settembre 2026 in stile vacanza, QRV 160-6 metri in CW, SSB e FT8, con QSL via LoTW per entrambi i nominativi. È già annunciato anche un secondo soggiorno da febbraio a marzo 2027."
-  },
-  {
-    "id": "iaru-r1-eop-quarta-edizione-2026",
-    "title": "IARU Region 1 pubblica la quarta edizione dell'Ethics and Operating Procedures",
-    "source": "IARU Region 1 (comunicazione ufficiale, 2026)",
+    "id": "contest-arrl-10ghz-round2",
+    "title": "In arrivo il 10 GHz & Up Contest, seconda tornata",
+    "source": "ARRL Contest Calendar (2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-01",
-    "brief": "IARU Region 1 ha annunciato la pubblicazione della quarta edizione di \"Ethics and Operating Procedures for the Radio Amateur\" (EOP), il documento internazionale di riferimento su principi etici e corrette procedure operative nel servizio di radioamatore, aggiornato per riflettere modi digitali e pratiche operative più recenti."
+    "date": "2026-09-20",
+    "brief": "Il 10 GHz & Up Contest, seconda tornata dell'anno, si svolge dal 20 al 22 settembre 2026 (19-21 settembre UTC) secondo il calendario ufficiale ARRL. È dedicato alle bande radioamatoriali superiori ai 10 GHz per gli operatori nordamericani."
   },
   {
-    "id": "mimit-sperimentazione-160m-4m-proroga-2026",
-    "title": "Il MIMIT proroga a fine 2026 la sperimentazione delle bande dei 160 e dei 4 metri",
-    "source": "PianetaRadio.it; MIMIT (autorizzazioni temporanee 2026)",
+    "id": "icom-ic7300mk2-firmware-103",
+    "title": "Icom rilascia il firmware v1.03 per IC-7300MK2",
+    "source": "Icom Inc. (settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-01",
-    "brief": "Il Ministero delle Imprese e del Made in Italy ha confermato, valide fino al 31 dicembre 2026, le autorizzazioni temporanee alla sperimentazione radioamatoriale sulle frequenze 1810-1830 kHz (160 metri) e 70.100/70.200/70.300 MHz (4 metri), entrambe con potenza massima di 10 W e larghezza di banda limitata a 25 kHz per il segmento a 70 MHz."
+    "date": "2026-09-11",
+    "brief": "Icom ha pubblicato la versione firmware 1.03 per il ricetrasmettitore IC-7300MK2, il primo aggiornamento dall'introduzione del modello a fine 2025. Corregge un problema di degrado della qualità del segnale in determinate condizioni e regola il funzionamento del backup dell'orologio interno. Disponibile per il download dai siti ufficiali Icom Japan e Icom America."
   },
   {
-    "id": "contest-state-qso-party-settembre-2026",
-    "title": "Weekend di State QSO Party negli USA: la guida ai contest di settembre",
-    "source": "OnAllBands.com / ARRL, \"Guide to September 2026 Ham Radio Contests—State QSO Party Edition\"",
+    "id": "mimit-patente-classe-n",
+    "title": "MIMIT introduce la nuova patente radioamatoriale di Classe N",
+    "source": "MIMIT / Gazzetta Ufficiale n. 51 (3 marzo 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-01",
-    "brief": "La guida ARRL ai contest di settembre 2026 segnala il tradizionale susseguirsi di State QSO Party nel corso del mese, occasioni per lavorare contee ed entità statali statunitensi spesso poco attive fuori da questi eventi, utili sia per punti contest sia per completare award geografici."
+    "date": "2026-03-03",
+    "brief": "Il Decreto Ministeriale 26 gennaio 2026, pubblicato in Gazzetta Ufficiale il 3 marzo 2026, introduce in Italia la nuova patente di Classe N per radioamatori, ispirata al modello svizzero HB3, con esame semplificato (soglia di superamento 60%). Dall'11 maggio 2026 è operativo il nuovo portale Radioamatori del MIMIT e dal 31 luglio 2026 i pagamenti dei contributi avvengono tramite pagoPA direttamente sul portale."
   }
 ]

@@ -1,65 +1,65 @@
 [
   {
-    "id": "marvels-wolverine-uscita-2026-09-15",
-    "title": "Marvel's Wolverine di Insomniac Games esce oggi su PlayStation 5",
-    "source": "Everyeye.it, NextGenTech.it (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-15",
-    "brief": "Marvel's Wolverine, nuovo capitolo action-adventure di Insomniac Games ambientato nello stesso universo narrativo di Marvel's Spider-Man, arriva oggi su PlayStation 5. Il titolo racconta il ritorno di Logan dopo tre anni di pensione, con una trama pensata come avventura autonoma che attinge liberamente dal materiale d'origine a fumetti.",
-    "tipo": "uscita videogioco"
-  },
-  {
-    "id": "sega-netflix-partnership-crazy-taxi-sonic-2026-09",
-    "title": "SEGA rinnova la partnership con Netflix: film live-action e nuova serie animata di Sonic",
-    "source": "Automoto.it / rassegna settimanale gaming (14 settembre 2026)",
+    "id": "tgs-2026-apertura",
+    "title": "Tokyo Game Show 2026 apre le porte per il suo 30° anniversario",
+    "source": "The National (17 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-14",
-    "brief": "SEGA e Netflix rinnovano la loro collaborazione con l'annuncio di due film live-action, dedicati a Crazy Taxi e a Stranger Than Heaven, oltre a una nuova serie animata dedicata a Sonic. L'accordo conferma la strategia di SEGA di trasformare i propri franchise videoludici storici in prodotti audiovisivi per una piattaforma globale.",
-    "tipo": "annuncio videogioco / franchise"
+    "date": "2026-09-17",
+    "brief": "Il Tokyo Game Show 2026 ha aperto al Makuhari Messe di Chiba, in Giappone, con un'edizione allungata a cinque giorni (17-21 settembre) per la prima volta nella sua storia, in occasione del 30° anniversario della fiera. Gli organizzatori hanno annunciato la partecipazione di 759 espositori da 51 paesi e regioni, distribuiti su quasi 4.000 stand.",
+    "tipo": "fiera di settore"
   },
   {
-    "id": "play-festival-gioco-modena-2026-09",
-    "title": "Play - Festival del Gioco torna a Modena il 27-28 settembre con oltre 160 eventi",
-    "source": "IoGioco.it, Provincia di Modena (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-27",
-    "brief": "Play, il festival del gioco di ModenaFiere, si tiene il 27 e 28 settembre con 160 eventi e tornei tra giochi da tavolo, videogames e cosplay. Tra le novità annunciate: Minikin City, il card game calcistico Kick Off, l'espansione La Torre Magica per Wandering Towers e il set di miniature per Karak II Imperium. Venerdì 26 settembre è prevista un'anteprima stampa dedicata a giornalisti e operatori.",
-    "tipo": "fiera di settore / annuncio gioco da tavolo"
-  },
-  {
-    "id": "tokyo-game-show-2026-apertura-30-anniversario",
-    "title": "Tokyo Game Show 2026 apre il 17 settembre per il trentesimo anniversario della fiera",
-    "source": "Sito ufficiale TGS/CESA, Tokyo Cheapo (settembre 2026)",
+    "id": "physint-bill-skarsgard",
+    "title": "Hideo Kojima svela Bill Skarsgård come protagonista di PHYSINT",
+    "source": "Xbox Wire (17 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-17",
-    "brief": "Il Tokyo Game Show 2026 si tiene dal 17 al 21 settembre al Makuhari Messe con il tema \"Longest Five Days of Nonstop Play\", per la prima volta esteso a cinque giorni consecutivi in occasione del trentesimo anniversario. Le giornate pubbliche vanno dal 19 al 21 settembre, con grandi publisher come Capcom, Koei Tecmo e Xbox già confermati con propri stage dedicati.",
-    "tipo": "fiera di settore"
+    "brief": "Durante la trasmissione Xbox al Tokyo Game Show 2026, Hideo Kojima ha annunciato che l'attore Bill Skarsgård interpreterà il protagonista di PHYSINT, il nuovo gioco d'azione-spionaggio di Kojima Productions, al fianco di Charlee Fraser, Don Lee e Minami Hamabe. Xbox pubblicherà il titolo, ampliando la collaborazione già in corso con Kojima Productions su OD.",
+    "tipo": "annuncio videogioco"
   },
   {
-    "id": "lucca-comics-2026-60-anniversario-videogames",
-    "title": "Lucca Comics & Games 2026 festeggia 60 anni: Kitase e Kamiya ospiti, gioco 8-bit celebrativo",
-    "source": "Illibraio.it, IlVideogiocatore.it (13 settembre 2026)",
+    "id": "faraday-blues-annuncio",
+    "title": "Serenity Forge annuncia Faraday Blues, visual novel sci-fi per Xbox, PlayStation e PC",
+    "source": "Xbox Wire (17 settembre 2026)",
     "affidabilita": "primaria",
+    "date": "2026-09-17",
+    "brief": "Alla trasmissione Xbox del Tokyo Game Show 2026 è stato presentato in anteprima mondiale Faraday Blues, nuova avventura sci-fi di Serenity Forge con 64 finali diversi, in cui il giocatore riscrive le scelte di una famiglia attraverso tre epoche narrative. Il gioco uscirà nel 2027 su Xbox Series X|S, PlayStation e PC.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "bloomwalker-ni-no-kuni",
+    "title": "Bloomwalker confermato come spin-off di Ni no Kuni",
+    "source": "Xbox TGS 2026 Broadcast, ripreso da Kotaku (17 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-17",
+    "brief": "Durante la trasmissione Xbox al Tokyo Game Show 2026 è stato mostrato un nuovo trailer di Bloomwalker, gioco di crafting ambientato nel mondo di Luminoa, confermato ufficialmente come titolo spin-off dell'universo Ni no Kuni sviluppato da Netmarble. Il gioco è previsto per PC, PS5 e Xbox Series X|S.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "monster-hunter-wilds-ascendance-tgs",
+    "title": "Capcom mostra la prima demo giocabile di Monster Hunter Wilds: Ascendance al TGS 2026",
+    "source": "Play Asia / Inven Global (17 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-17",
+    "brief": "Nella trasmissione Capcom Spotlight | TGS 2026, andata in onda il 16 settembre alla vigilia dell'apertura della fiera, Capcom ha mostrato un nuovo trailer dell'espansione Monster Hunter Wilds: Ascendance con la comparsa del mostro Teostra. Allo stand Capcom del Tokyo Game Show è stata offerta la prima demo giocabile al mondo dell'espansione.",
+    "tipo": "uscita/annuncio videogioco"
+  },
+  {
+    "id": "dceased-zombicide-retail",
+    "title": "DCeased - A Zombicide Game arriva nei negozi",
+    "source": "ICv2 (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-11",
+    "brief": "Il gioco da tavolo cooperativo DCeased - A Zombicide Game, prodotto da CMON e distribuito da Asmodee dopo l'acquisizione del marchio Zombicide, è arrivato in vendita al dettaglio l'11 settembre 2026. Il titolo, finanziato originariamente su Kickstarter nel 2023, mette i giocatori nei panni di supereroi DC alle prese con un'invasione zombie, con una confezione da 85 miniature per 1-6 giocatori.",
+    "tipo": "uscita gioco da tavolo"
+  },
+  {
+    "id": "lucca-comics-2026-kitase-naruto",
+    "title": "Lucca Comics & Games 2026: Yoshinori Kitase ospite d'onore, anteprima italiana di Naruto Card Game",
+    "source": "ilvideogiocatore.it (13 settembre 2026)",
+    "affidabilita": "secondaria",
     "date": "2026-09-13",
-    "brief": "La sessantesima edizione di Lucca Comics & Games (28 ottobre - 1 novembre), dal tema \"Legacy\", ospita tra gli altri Yoshinori Kitase (Final Fantasy VII) e Hideki Kamiya nell'area videogiochi. Per l'occasione è stato annunciato \"Luke & Clea: A Quest for Legacy\", un videogioco celebrativo in stile 8-bit disponibile dal 24 settembre, che sarà completato durante la fiera stessa con lo sblocco del livello finale.",
-    "tipo": "fiera di settore / annuncio videogioco"
-  },
-  {
-    "id": "essen-spiel-2026-otto-sale-golden-demon",
-    "title": "Essen Spiel 2026 occuperà per la prima volta tutte le otto sale della fiera",
-    "source": "Sito ufficiale spiel-essen.de, BoardGameGeek (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-10",
-    "brief": "La fiera SPIEL di Essen, in programma dal 22 al 25 ottobre 2026, occuperà per la prima volta nella sua storia tutti gli otto padiglioni della Messe Essen. L'artista americano Peter Mohrbacher è stato annunciato come ambasciatore dell'edizione 2026, mentre il Golden Demon europeo, competizione di pittura di miniature, tornerà come evento collegato alla manifestazione.",
+    "brief": "Lucca Comics & Games ha confermato per l'edizione 2026 (28 ottobre - 1 novembre, 60esima edizione dal tema 'Legacy') la presenza di Yoshinori Kitase come ospite d'onore, per celebrare l'eredità di Final Fantasy VII in coincidenza con l'uscita di Final Fantasy VII Revelation. Tra le novità anche l'anteprima assoluta italiana di Naruto Card Game, il nuovo trading card game di Bandai atteso nel 2027.",
     "tipo": "fiera di settore"
-  },
-  {
-    "id": "kickstarter-goblins-4x-deadwood-settembre-2026",
-    "title": "La Tana dei Goblin segnala tra i Kickstarter di metà settembre un nuovo 4x da Deadwood Games",
-    "source": "goblins.net - La Tana dei Goblin, rubrica \"Kalcio d'inizio\" (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-12",
-    "brief": "Tra le campagne Kickstarter segnalate a metà settembre 2026 dalla Tana dei Goblin spicca un gioco di genere 4x creato da Matt Terry per Deadwood Games, con scadenza il 29 settembre e consegna stimata a settembre 2027: ambientato tra pionieri del selvaggio west alle prese con carestie, banditi e animali, per 2-4 giocatori.",
-    "tipo": "annuncio gioco da tavolo"
   }
 ]
