@@ -1,65 +1,56 @@
 [
   {
-    "id": "tgs-2026-apertura",
-    "title": "Tokyo Game Show 2026 apre le porte per il suo 30° anniversario",
-    "source": "The National (17 settembre 2026)",
-    "affidabilita": "secondaria",
+    "id": "tokyo-game-show-2026-apertura",
+    "title": "Il Tokyo Game Show 2026 apre i battenti con record di espositori",
+    "source": "Video Games Chronicle / Simulation Daily, 17-19 settembre 2026",
+    "affidabilita": "primaria",
     "date": "2026-09-17",
-    "brief": "Il Tokyo Game Show 2026 ha aperto al Makuhari Messe di Chiba, in Giappone, con un'edizione allungata a cinque giorni (17-21 settembre) per la prima volta nella sua storia, in occasione del 30° anniversario della fiera. Gli organizzatori hanno annunciato la partecipazione di 759 espositori da 51 paesi e regioni, distribuiti su quasi 4.000 stand.",
+    "brief": "Il Tokyo Game Show 2026 ha aperto al Makuhari Messe di Chiba il 17 settembre, per la prima volta in formato esteso a cinque giorni (due business day seguiti da tre giorni aperti al pubblico, fino al 21 settembre). Gli organizzatori hanno annunciato 759 espositori da 51 paesi e regioni distribuiti su quasi 4.000 stand, rendendo questa l'edizione più grande di sempre. Sony/PlayStation e Square Enix sono tra i grandi presenti, mentre Nintendo mantiene la consueta assenza dall'area pubblica.",
     "tipo": "fiera di settore"
   },
   {
-    "id": "physint-bill-skarsgard",
-    "title": "Hideo Kojima svela Bill Skarsgård come protagonista di PHYSINT",
-    "source": "Xbox Wire (17 settembre 2026)",
+    "id": "physint-bill-skarsgard-protagonista",
+    "title": "Hideo Kojima annuncia Bill Skarsgård come protagonista di PHYSINT",
+    "source": "Kojima Productions (annuncio ufficiale) / Xbox Wire, 17 settembre 2026",
     "affidabilita": "primaria",
     "date": "2026-09-17",
-    "brief": "Durante la trasmissione Xbox al Tokyo Game Show 2026, Hideo Kojima ha annunciato che l'attore Bill Skarsgård interpreterà il protagonista di PHYSINT, il nuovo gioco d'azione-spionaggio di Kojima Productions, al fianco di Charlee Fraser, Don Lee e Minami Hamabe. Xbox pubblicherà il titolo, ampliando la collaborazione già in corso con Kojima Productions su OD.",
+    "brief": "Durante lo showcase Xbox al Tokyo Game Show 2026, Hideo Kojima ha rivelato che l'attore svedese Bill Skarsgård sarà il protagonista di PHYSINT, il nuovo gioco action-spionaggio di Kojima Productions pubblicato da Xbox. Skarsgård si aggiunge al cast già annunciato composto da Charlee Fraser, Don Lee e Minami Hamabe, con un nuovo poster ufficiale rilasciato per l'occasione. Kojima ha inoltre confermato che anche OD sta procedendo grazie al supporto di Xbox.",
     "tipo": "annuncio videogioco"
   },
   {
-    "id": "faraday-blues-annuncio",
-    "title": "Serenity Forge annuncia Faraday Blues, visual novel sci-fi per Xbox, PlayStation e PC",
-    "source": "Xbox Wire (17 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-17",
-    "brief": "Alla trasmissione Xbox del Tokyo Game Show 2026 è stato presentato in anteprima mondiale Faraday Blues, nuova avventura sci-fi di Serenity Forge con 64 finali diversi, in cui il giocatore riscrive le scelte di una famiglia attraverso tre epoche narrative. Il gioco uscirà nel 2027 su Xbox Series X|S, PlayStation e PC.",
+    "id": "persona-4-revival-nuovo-trailer-tgs",
+    "title": "Persona 4 Revival: nuovo trailer al Tokyo Game Show, uscita confermata a febbraio 2027",
+    "source": "SEGA / RPG Site, 18 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "Al Tokyo Game Show 2026 Atlus ha mostrato un nuovo trailer con protagonisti per il remake Persona 4 Revival, basato sui contenuti di Persona 4 Golden. Il gioco uscirà simultaneamente su PS5, Xbox Series X/S e PC il 18 febbraio 2027, con disponibilità dal day one su Xbox Game Pass. La data di lancio era già stata comunicata da SEGA in precedenza, ma il nuovo materiale è stato presentato in occasione della fiera.",
     "tipo": "annuncio videogioco"
   },
   {
-    "id": "bloomwalker-ni-no-kuni",
-    "title": "Bloomwalker confermato come spin-off di Ni no Kuni",
-    "source": "Xbox TGS 2026 Broadcast, ripreso da Kotaku (17 settembre 2026)",
+    "id": "monster-hunter-wilds-ascendance-teostra",
+    "title": "Monster Hunter Wilds: Ascendance, torna l'Antico Drago Teostra",
+    "source": "Gematsu / RPG Site, 18 settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-17",
-    "brief": "Durante la trasmissione Xbox al Tokyo Game Show 2026 è stato mostrato un nuovo trailer di Bloomwalker, gioco di crafting ambientato nel mondo di Luminoa, confermato ufficialmente come titolo spin-off dell'universo Ni no Kuni sviluppato da Netmarble. Il gioco è previsto per PC, PS5 e Xbox Series X|S.",
+    "date": "2026-09-18",
+    "brief": "Capcom ha mostrato al Tokyo Game Show 2026 un trailer esteso della grande espansione Ascendance per Monster Hunter Wilds, in uscita nel 2027, rivelando il ritorno dell'Antico Drago Teostra come mostro cacciabile. L'espansione introduce una nuova regione in quota tra rovine fluttuanti, oltre a novità di gameplay come il Boost Bracer e il cambio equipaggiamento più rapido. Teostra sarà anche protagonista delle demo giocabili in fiera.",
     "tipo": "annuncio videogioco"
   },
   {
-    "id": "monster-hunter-wilds-ascendance-tgs",
-    "title": "Capcom mostra la prima demo giocabile di Monster Hunter Wilds: Ascendance al TGS 2026",
-    "source": "Play Asia / Inven Global (17 settembre 2026)",
+    "id": "koei-tecmo-attack-on-titan-3-wo-long-2",
+    "title": "Koei Tecmo al Tokyo Game Show: Attack on Titan 3 a dicembre, focus su Wo Long 2",
+    "source": "RPG Site / Noisy Pixel, 18-20 settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-17",
-    "brief": "Nella trasmissione Capcom Spotlight | TGS 2026, andata in onda il 16 settembre alla vigilia dell'apertura della fiera, Capcom ha mostrato un nuovo trailer dell'espansione Monster Hunter Wilds: Ascendance con la comparsa del mostro Teostra. Allo stand Capcom del Tokyo Game Show è stata offerta la prima demo giocabile al mondo dell'espansione.",
-    "tipo": "uscita/annuncio videogioco"
+    "date": "2026-09-18",
+    "brief": "Koei Tecmo ha portato al Tokyo Game Show 2026 la sua line-up con Attack on Titan 3 (Omega Force), Wo Long 2: Wings of Ember, Dynasty Warriors 3 Complete Edition Remastered e Atelier Karia. Attack on Titan 3 è stato confermato per PS5, Switch 2, Xbox Series e PC il 10 dicembre 2026, con uno stage evento dedicato e le doppiatrici Yu Kobayashi e Shiori Mikami. Il fondatore Kou Shibusawa ha inoltre celebrato il 40° anniversario di Romance of the Three Kingdoms, anticipando un progetto ancora non annunciato.",
+    "tipo": "annuncio videogioco"
   },
   {
-    "id": "dceased-zombicide-retail",
-    "title": "DCeased - A Zombicide Game arriva nei negozi",
-    "source": "ICv2 (settembre 2026)",
+    "id": "uk-games-expo-mark-cooke-operations",
+    "title": "UK Games Expo: il fondatore di AireCon Mark Cooke nuovo direttore operativo",
+    "source": "Tabletop Sentinel / BoardGameWire, 15 settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-11",
-    "brief": "Il gioco da tavolo cooperativo DCeased - A Zombicide Game, prodotto da CMON e distribuito da Asmodee dopo l'acquisizione del marchio Zombicide, è arrivato in vendita al dettaglio l'11 settembre 2026. Il titolo, finanziato originariamente su Kickstarter nel 2023, mette i giocatori nei panni di supereroi DC alle prese con un'invasione zombie, con una confezione da 85 miniature per 1-6 giocatori.",
-    "tipo": "uscita gioco da tavolo"
-  },
-  {
-    "id": "lucca-comics-2026-kitase-naruto",
-    "title": "Lucca Comics & Games 2026: Yoshinori Kitase ospite d'onore, anteprima italiana di Naruto Card Game",
-    "source": "ilvideogiocatore.it (13 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-13",
-    "brief": "Lucca Comics & Games ha confermato per l'edizione 2026 (28 ottobre - 1 novembre, 60esima edizione dal tema 'Legacy') la presenza di Yoshinori Kitase come ospite d'onore, per celebrare l'eredità di Final Fantasy VII in coincidenza con l'uscita di Final Fantasy VII Revelation. Tra le novità anche l'anteprima assoluta italiana di Naruto Card Game, il nuovo trading card game di Bandai atteso nel 2027.",
+    "date": "2026-09-15",
+    "brief": "UK Games Expo, una delle maggiori fiere di giochi da tavolo al mondo, ha annunciato che Mark Cooke, fondatore della convention AireCon, entra nello staff come nuovo Operations Director, con un passaggio di consegne graduale. Cooke lavorerà a tempo pieno sulla fiera di Birmingham dopo l'evento finale di AireCon, previsto nel 2027 (Airemageddon, 11-14 marzo 2027). L'annuncio arriva a poche settimane dalla notizia della chiusura definitiva di AireCon.",
     "tipo": "fiera di settore"
   }
 ]

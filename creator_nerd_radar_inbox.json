@@ -1,47 +1,47 @@
 [
   {
-    "id": "zerocalcare-ospite-romics-2026",
-    "title": "Zerocalcare confermato ospite a Romics 2026",
-    "source": "IlFaroOnline, La Voce d'Italia, SportPress24 (17 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-17",
-    "brief": "Presentato il programma della 37ª edizione di Romics (1-4 ottobre, Fiera di Roma, 25° anniversario della manifestazione): tra gli ospiti confermati c'è il fumettista e content creator Zerocalcare, che venerdì 2 ottobre alle 17:30 terrà un incontro pubblico condotto dal giornalista Riccardo Corbò sul suo percorso artistico. Tra gli altri ospiti annunciati figurano Max Bunker, Paola Barbato e Takeshi Koike.",
-    "rilevanza": "Zerocalcare è tra i fumettisti/content creator italiani più seguiti (serie animate Netflix, forte presenza social) e la notizia della sua partecipazione è stata ripresa da numerose testate nerd e generaliste nella stessa giornata."
-  },
-  {
-    "id": "dario-moccia-milan-games-week-cartoomics-2026",
-    "title": "Dario Moccia cura la direzione artistica del merchandising di Milan Games Week & Cartoomics 2026",
-    "source": "Sky TG24, RecNews, FollowUpNewsWorld (14-15 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-14",
-    "brief": "Nell'ambito della presentazione dei nuovi ospiti (tra cui il cast di One Piece Netflix e Christopher Judge) per Milan Games Week & Cartoomics 2026 (27-29 novembre, Fiera Milano Rho), gli organizzatori hanno svelato la collezione di merchandising ufficiale, realizzata da Smile Creative Agency sotto la direzione artistica del content creator e giornalista videoludico Dario Moccia, dedicata ai 'tipi da fiera' del pubblico nerd.",
-    "rilevanza": "Conferma il ruolo crescente di content creator italiani storici come Moccia nella cura creativa di grandi eventi di settore, non solo come ospiti ma come autori."
-  },
-  {
-    "id": "once-were-nerd-nuovi-retroscena",
-    "title": "Nuovi retroscena sul caso giudiziario dello youtuber Once Were Nerd",
-    "source": "UAGNA (metà settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-16",
-    "brief": "Emergono nuovi dettagli sul procedimento penale (art. 171-ter legge sul diritto d'autore) a carico di Francesco Salicini, in arte Once Were Nerd, youtuber di retrogaming perquisito dalla Guardia di Finanza per le recensioni di retroconsole cinesi con emulatori. I nuovi elementi riguardano presunti link di sconto/affiliazione pubblicati in passato sul suo canale Telegram, che lo youtuber nega essere sponsorizzazioni dirette.",
-    "rilevanza": "Il caso è diventato un precedente molto dibattuto nella community italiana del retrogaming su content creation, emulazione e diritto d'autore, con posizioni pubbliche di numerosi altri creator."
-  },
-  {
-    "id": "kurolily-red-bull-backseating",
-    "title": "Kurolily conquista Twitch con \"Red Bull Backseating\"",
-    "source": "Vgmag.it, CorriereNerd.it, iGizmo.it (18 settembre 2026)",
+    "id": "romics-2026-zerocalcare-dialogo-aperto",
+    "title": "Romics 2026: Zerocalcare torna protagonista di un dialogo aperto il 2 ottobre",
+    "source": "Askanews, Il Tempo, Il Sole 24 Ore, Il Quotidiano del Sud, IlFaroOnline, Sportpress24 (17-18 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-18",
-    "brief": "La streamer Sara 'Kurolily' Stefanizzi ha condotto in diretta su Twitch 'Red Bull Backseating', un'avventura di ruolo interattiva ambientata alla Contea Gentile (Abruzzo) in cui la chat decideva in tempo reale le scelte narrative. L'evento, narrato dall'attore/doppiatore Gianandrea Muià e con la partecipazione di altri creator italiani (Moonryde, Kodomo, Pesh, Cydonia, Sabaku, Blur), ha superato i 75.000 spettatori totali con picchi di quasi 35.000 utenti unici in diretta.",
-    "rilevanza": "Mostra la crescita di formati ibridi GDR/streaming interattivo tra i content creator italiani e il coinvolgimento di brand come Red Bull nella scena nerd/gaming nazionale."
+    "brief": "In vista della 37ª edizione di Romics (Fiera di Roma, 1-4 ottobre 2026), gli organizzatori hanno annunciato che Zerocalcare sarà protagonista di un dialogo aperto venerdì 2 ottobre alle 17:30, condotto dal giornalista Riccardo Corbò. Tra gli altri ospiti anche il regista Takeshi Koike (Lupin III) e i Romics d'Oro a Max Bunker, Paola Barbato, Sir Ian Livingstone e Simone Legno.",
+    "rilevanza": "Zerocalcare è uno dei fumettisti/creator italiani più seguiti e il suo ritorno su un grande palco di settore mobilita la community fumettistica e nerd nazionale."
   },
   {
-    "id": "games-on-board-2026-bologna",
-    "title": "Torna \"Games On Board\", la fiera del gioco da tavolo a Bologna con influencer e streamer ospiti",
-    "source": "BolognaToday, Balena Ludens (settembre 2026)",
+    "id": "milan-games-week-cartoomics-2026-ospiti-hollywoodiani",
+    "title": "Milan Games Week & Cartoomics 2026: annunciati ospiti da One Piece e GTA V",
+    "source": "Il Fatto Quotidiano, AdnKronos, Key4Biz, Radio 105 (18 settembre 2026)",
     "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "Per l'edizione 2026 dell'evento (27-29 novembre, Fiera Milano Rho) sono stati annunciati tra gli ospiti Emily Rudd e Taz Skylar (Nami e Sanji nel live-action Netflix di One Piece) e Steven Ogg (voce e volto di Trevor Philips in GTA V), oltre a fumettisti come Mark Waid e John Romita Jr.",
+    "rilevanza": "È uno dei principali eventi italiani che uniscono videogiochi, fumetti e cultura pop; gli annunci generano forte interesse e copertura tra i creator italiani del settore gaming e comics."
+  },
+  {
+    "id": "dario-moccia-matioski-clayface-vietato-minori",
+    "title": "Dario Moccia al Matioski Show discute del divieto ai minori per il film Clayface",
+    "source": "Canale YouTube Matioski, clip \"Matioski Clip\" (17 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-17",
+    "brief": "Nel video \"Clayface Sarà Un Film Vietato Ai Minori! Ne Parliamo Con Dario Moccia!\", pubblicato sul canale YouTube di Matioski, il divulgatore Dario Moccia commenta insieme a Matioski, il Rinoceronte e Mr. Rob la scelta del rating vietato ai minori per il film DC dedicato a Clayface.",
+    "rilevanza": "Contenuto di collaborazione tra due dei creator pop culture/nerd più seguiti in Italia, che alimenta il dibattito della community sui rating dei cinecomic."
+  },
+  {
+    "id": "aci-comics-games-2026-favij-palavolcan",
+    "title": "Aci Comics & Games 2026: Favij inaugura la nuova edizione al PalaVolcan di Acireale",
+    "source": "Free Press Online, Mondo Japan, MCTV, La Sicilia, La Voce dell'Jonio (18 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "La quarta edizione di Aci Comics & Games (18-20 settembre 2026) si è trasferita al PalaVolcan di Acireale e ha aperto con il taglio del nastro alle 11:30 di venerdì 18, alla presenza dello youtuber gaming Favij (Lorenzo Ostuni). Tra gli altri ospiti anche LolloLacustre, al debutto in Sicilia, e la cosplayer Taryn.",
+    "rilevanza": "Favij è uno degli youtuber italiani di videogiochi più noti e seguiti; la sua presenza a un festival regionale di fumetti e gaming mostra la sua continua attività di apparizioni pubbliche nella community nerd."
+  },
+  {
+    "id": "treviso-play-2026-giochi-ruolo-tavolo",
+    "title": "Treviso Play 2026: due giorni di giochi di ruolo e da tavolo al Parco dei Moreri",
+    "source": "TrevisoToday (19 settembre 2026)",
+    "affidabilita": "segnale_debole",
     "date": "2026-09-19",
-    "brief": "Il 19 e 20 settembre 2026 si tiene a San Lazzaro di Savena (Bologna) la fiera 'Games On Board', dedicata ai giochi da tavolo e di ruolo, con la partecipazione di influencer e streamer del settore che incontrano il pubblico, condividendo consigli e partite dal vivo.",
-    "rilevanza": "È uno dei principali appuntamenti italiani in cui la community dei content creator di giochi da tavolo si incontra fisicamente con i follower, a conferma della vitalità del settore tabletop nerd in Italia."
+    "brief": "L'associazione Loggia degli Irrealisti APS organizza la quinta edizione di Treviso Play il 19 e 20 settembre 2026 a Silea (TV), con giochi di ruolo, giochi da tavolo, LARP, un multitavolo di Dungeons & Dragons, un torneo di Vampire: The Eternal Struggle e una sfida a tema Pokémon; ingresso gratuito.",
+    "rilevanza": "Evento locale ma rappresentativo della vivace scena amatoriale italiana di giochi da tavolo e di ruolo, un segmento chiave del pubblico nerd monitorato dal radar."
   }
 ]

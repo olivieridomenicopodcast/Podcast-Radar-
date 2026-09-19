@@ -1,135 +1,79 @@
 [
   {
     "id": "spotify-partner-program-italia",
-    "title": "Spotify apre il Partner Program dei podcast a 35 nuovi paesi, Italia inclusa",
-    "source": "TechCrunch, 'Spotify expands its partner program for podcasts to 35 new countries' (17 settembre 2026); Spotify Newsroom, annuncio investor day (21 maggio 2026)",
+    "title": "Spotify apre il Partner Program per i podcast a 35 nuovi paesi, inclusa l'Italia",
+    "source": "Spotify Newsroom, \"The Spotify Partner Program Expands to More Than 35 New Markets\" (17/09/2026); ripreso da TechCrunch, PodcastingToday, NetInfluencer e PodcastNewsDaily (17-18/09/2026)",
     "affidabilita": "primaria",
-    "target": 9,
+    "target": 8,
     "date": "2026-09-17",
-    "brief": "Spotify ha esteso il Partner Program per i podcast a 35 nuovi paesi, tra cui per la prima volta l'Italia, insieme a Spagna, Brasile, Messico, Polonia e altri. Per candidarsi servono almeno 3 episodi pubblicati, 2.000 ore di consumo e 1.000 ascoltatori coinvolti negli ultimi 30 giorni. I creator idonei guadagnano sia dagli ascolti video di utenti Premium sia dalla ad revenue share sugli utenti free, mantenendo comunque le sponsorizzazioni dirette.",
-    "angles": [
-      "Come iscriversi al Partner Program Spotify da creator italiano: requisiti passo passo",
-      "Perché ora conviene pubblicare anche il video del podcast, non solo l'audio",
-      "Monetizzare un podcast in Italia nel 2026: cosa cambia davvero e cosa no"
-    ],
-    "hooks": [
-      "Hai un podcast in italiano e finora Spotify ti ha detto solo 'grazie, arrivederci'? Da oggi si può anche essere pagati.",
-      "Ti mancano tre episodi pubblicati e duemila ore di ascolto per iniziare a guadagnare: le hai già o le stai ancora rimandando?",
-      "Se registri solo l'audio perché 'tanto chi lo guarda un podcast', sappi che ora ti pagano pure per il video. Ripensaci."
-    ]
+    "brief": "Spotify ha annunciato l'espansione del suo Partner Program per i podcast a oltre 35 nuovi mercati, tra cui per la prima volta l'Italia, la Spagna e gran parte dell'America Latina. I creator idonei (almeno 3 episodi pubblicati, 2.000 ore di consumo e 1.000 ascoltatori coinvolti negli ultimi 30 giorni) potranno monetizzare sia gli episodi audio sia quelli video. Spotify segnala inoltre che il consumo di video podcast sulla piattaforma è cresciuto del 140% dal lancio della funzione nel 2022.",
+    "angles": ["Come funziona davvero il Partner Program di Spotify e chi può accedervi ora dall'Italia", "Perché conviene iniziare a registrare anche in video fin dal primo episodio", "Requisiti minimi per monetizzare: cosa serve prima ancora di pensare ai guadagni"],
+    "hooks": ["Hai un podcast con quattro gatti che lo ascoltano e già sogni il primo assegno da Spotify?", "Sei convinto che i soldi veri dai podcast li facciano solo gli americani?", "Stai ancora registrando solo audio? Da oggi chi ha anche il video guadagna di più."]
   },
   {
-    "id": "audacity-4-0-release",
-    "title": "Audacity 4.0: il software gratuito per l'editing audio si rifà completamente il look",
-    "source": "Muse Group, mu.se, 'Audacity Enters a New Generation with Version 4' (3 settembre 2026); Engadget e Bedroom Producers Blog (settembre 2026)",
-    "affidabilita": "primaria",
+    "id": "audacity-4-major-update",
+    "title": "Audacity 4.0: il più grande aggiornamento nella storia del programma di editing audio gratuito",
+    "source": "PCWorld, \"Audacity 4 is getting a major facelift and numerous improvements\"; corroborato da Engadget, Neowin, 9to5Linux, Phoronix e Bedroom Producers Blog (rilascio versione 4.0.0 il 03/09/2026)",
+    "affidabilita": "secondaria",
     "target": 9,
     "date": "2026-09-03",
-    "brief": "È uscita la versione 4.0 di Audacity, l'editor audio gratuito open source molto usato da chi inizia a fare podcast. L'interfaccia è stata ricostruita su framework Qt con tema scuro, editing non distruttivo esteso (le clip possono sovrapporsi e il trim è recuperabile), selezione e taglio multiplo di clip raggruppate e un nuovo envelope tool per il volume. I progetti creati con Audacity 3 restano compatibili e le scorciatoie da tastiera non cambiano.",
-    "angles": [
-      "Tutorial pratico: primi tagli e regolazione volume con il nuovo envelope tool",
-      "Perché consiglio ancora Audacity a chi inizia nel 2026 (ed è gratis)",
-      "Cosa cambia rispetto ad Audacity 3: guida alla migrazione senza panico"
-    ],
-    "hooks": [
-      "Hai imparato Audacity anni fa e hai ancora paura a toccare un menu? Glieli hanno cambiati tutti, mi dispiace per te.",
-      "Se la scusa per non iniziare era 'non ho i soldi per un editor audio', quella scusa è appena morta di nuovo.",
-      "Tagli ancora le clip a fette come un salame sperando di non sbagliare? Ora si sovrappongono e si aggiustano dopo, respira."
-    ]
+    "brief": "Audacity ha rilasciato la versione 4.0.0 il 3 settembre 2026, descritta da più testate come il più grande aggiornamento nei 25 anni di storia del software. Introduce un'interfaccia basata su Qt6 con temi chiaro/scuro e supporto HiDPI nativo, un nuovo formato di progetto (.aup4) e un modello di editing delle clip completamente rinnovato (clip sovrapponibili e raggruppabili, nuovo strumento Split). Resta gratuito e i vecchi progetti Audacity 3 restano intatti perché l'apertura ne crea automaticamente una copia.",
+    "angles": ["Perché Audacity resta il miglior punto di partenza gratuito per chi inizia a editare podcast", "Cosa cambia davvero nel montaggio quotidiano con il nuovo sistema di clip", "Software gratis vs a pagamento: quando ha senso passare a qualcosa di professionale"],
+    "hooks": ["Hai imparato a editare su Audacity anni fa e non hai più aggiornato niente da allora?", "Se il tuo editor audio ti sembra uscito dagli anni 2000, forse aveva ragione.", "Stai ancora tagliando le clip una alla volta come un animale?"]
   },
   {
-    "id": "apple-podcasts-video-tvos-update",
-    "title": "Apple Podcasts si aggiorna: video su Mac e Apple TV, ricerca dentro l'episodio",
-    "source": "Apple Newsroom (14 settembre 2026); ripreso da 9to5Mac e MacRumors",
+    "id": "descript-captions-ai-music",
+    "title": "Descript aggiunge sottotitoli animati e musica/effetti sonori generati dall'AI",
+    "source": "Descript, changelog ufficiale (feedback.descript.com/Canny), aggiornamento di metà settembre 2026",
     "affidabilita": "primaria",
     "target": 7,
-    "date": "2026-09-14",
-    "brief": "Apple ha annunciato nuove funzioni per Apple Podcasts: esperienza video ampliata su Mac (con Picture in Picture) e redesign completo dell'app su Apple TV con riproduzione video, nuova barra laterale e supporto abbonamenti premium. Arriva anche 'Search in Show' per cercare parole dentro un singolo episodio, oltre a testo più leggibile e trascrizioni sincronizzate con il player.",
-    "angles": [
-      "Il tuo podcast è ancora solo audio? Anche Apple ti sta spingendo verso il video",
-      "Search in Show: perché la trascrizione del tuo episodio non è più un optional",
-      "Guida rapida: come preparare l'episodio video per Apple Podcasts su Apple TV"
-    ],
-    "hooks": [
-      "Pensavi che su Apple Podcasts contasse solo l'audio? Ora hanno pure la TV, complimenti al divano.",
-      "Se non hai ancora la trascrizione del tuo episodio, la gente ora ci cerca dentro parola per parola. Tu resti introvabile.",
-      "Credevi che bastasse YouTube per fare video podcast? Apple vuole la sua fetta e non chiede il permesso."
-    ]
+    "date": "2026-09-17",
+    "brief": "Descript ha rilasciato un pacchetto di nuove funzioni che include preset e animazioni per i sottotitoli (utilizzabili anche su qualsiasi livello di testo), la generazione automatica di musica di sottofondo ed effetti sonori tramite AI su richiesta, e nuovi metodi di pagamento come Apple Pay e Cash App. L'aggiornamento fa parte di un rilascio più ampio che comprende circa trenta modifiche minori.",
+    "angles": ["Musica ed effetti sonori generati dall'AI: quanto possono davvero sostituire una libreria audio a pagamento", "Sottotitoli animati: perché oggi sono lo standard minimo per chi pubblica clip social", "Cosa cambia nel workflow se il software inizia a comporre la colonna sonora al posto tuo"],
+    "hooks": ["Hai passato ore a cercare la musichetta di sottofondo giusta senza copyright su YouTube?", "Passi ancora ore a sincronizzare i sottotitoli a mano? Non serve più, ma capiamo l'affetto.", "Pensavi che il sound design fosse un lavoro solo tuo? L'AI la pensa diversamente."]
   },
   {
-    "id": "spotify-skip-ahead-backlash",
-    "title": "Spotify introduce un tasto per saltare gli spot dei podcast (tranne i suoi), i creator insorgono",
-    "source": "Podnews, TechRadar, Forbes, Semafor (agosto 2026); Spotify Support, 'Understanding the Skip ahead button' (pagina ufficiale)",
+    "id": "festival-podcasting-2026-milano",
+    "title": "Il Festival del Podcasting compie dieci anni: si parte il 21 settembre, gran finale a Milano il 2-3 ottobre",
+    "source": "ANSA, \"Il Festival del Podcasting compie dieci anni e torna il 2 e 3 ottobre a Milano\" (21/07/2026); corroborato da Il Sole 24 Ore, Media Key e ItaliaOggi (luglio-settembre 2026)",
     "affidabilita": "secondaria",
-    "target": 8,
-    "date": "2026-08-10",
-    "brief": "Spotify sta testando un pulsante 'Skip ahead' che permette di saltare con un tap le inserzioni lette dagli host e le promo tipo Patreon, ma non gli annunci venduti direttamente da Spotify. Network come Crooked Media e osservatori come Podnews hanno criticato la mossa, definendola un rischio per il modello economico degli show indipendenti che vivono di sponsorizzazioni dirette. Spotify si difende sostenendo che riduce l'abbandono durante le pause pubblicitarie.",
-    "angles": [
-      "Se vivi di sponsorizzazioni dirette, questa notizia ti riguarda: come proteggere le entrate",
-      "Host-read ads: ha ancora senso il modello se il pubblico le salta in un tap?",
-      "Perché non conviene dipendere da un'unica piattaforma per monetizzare"
-    ],
-    "hooks": [
-      "Leggi tu stesso le sponsorizzazioni nel tuo podcast? Spotify ha appena messo un tasto per saltarle in un tap.",
-      "Hai il link di Patreon a metà episodio sperando che qualcuno ci arrivi? Ora lo scavalcano gratis con un dito.",
-      "Il problema non è più trovare uno sponsor, il problema è farlo ascoltare davvero. Ne parliamo?"
-    ]
+    "target": 7,
+    "date": "2026-09-21",
+    "brief": "Il Festival del Podcasting, il più longevo evento italiano dedicato al settore, festeggia la decima edizione con un tour di tappe locali in diverse città italiane a partire dal 21 settembre 2026, per concludersi il 2-3 ottobre a Cascina Triulza (area Mind, Milano). Tra le novità: una giornata interamente dedicata all'industria, workshop, il Podcast Pitch e i premi Audioboost (miglior branded podcast) e Pod24 (miglior podcast indipendente d'inchiesta, promosso da 24Ore Podcast).",
+    "angles": ["Cosa imparare davvero partecipando a un evento di settore quando sei ancora principiante", "Come sfruttare workshop e networking se il tuo podcast è appena nato", "Cosa dicono i premi Pod24 e Audioboost sullo stato del mercato italiano"],
+    "hooks": ["Hai un podcast e non sei mai andato a un evento di settore per vergogna?", "Pensi che i festival di podcasting servano solo a chi ha già successo?", "Se abiti vicino a una tappa del festival e non ci vai, poi non lamentarti che nessuno ti ascolta."]
   },
   {
-    "id": "italian-podcast-awards-2026-piacenza",
-    "title": "Italian Podcast Awards 2026: il 23 settembre a Piacenza la quinta edizione de 'Il Pod'",
-    "source": "PiacenzaSera, IlPiacenza, Piacenza24, askanews (luglio-settembre 2026)",
+    "id": "raiplay-sound-original-violante",
+    "title": "RaiPlay Sound lancia un nuovo podcast Original in sette episodi scritto da Luciano Violante",
+    "source": "Daniele Mignardi, danielemignardi.it (09/09/2026); corroborato da Megamodo, FM-World e Gaeta.it (settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 5,
+    "date": "2026-09-09",
+    "brief": "Dal 9 settembre 2026 è disponibile in esclusiva su RaiPlay Sound \"Italia: le ferite e il coraggio\", podcast Original in sette episodi scritto e narrato da Luciano Violante con Gianfranco Zinzilli, curato editorialmente da Andrea Borgnino. Il podcast ripercorre fratture storiche del paese (razzismo, criminalità organizzata, terrorismo, nascita della Costituzione, corruzione) fino al coraggio quotidiano di chi ha difeso lo stato di diritto.",
+    "angles": ["Cosa dice questa scelta sulla strategia di RaiPlay Sound (grandi firme, non solo creator digitali)", "Il podcast storico-narrativo come format che funziona anche fuori dalla cronaca quotidiana", "Il ruolo, spesso invisibile, della cura editoriale in un podcast narrativo ambizioso"],
+    "hooks": ["Pensi che per fare un podcast serva solo un microfono e una bella voce?", "Se credi che i podcast Rai siano tutti uguali, forse non hai ancora sentito questo formato.", "Hai mai pensato a quante persone lavorano dietro un podcast che sembra 'solo' una voce che racconta?"]
+  },
+  {
+    "id": "italiani-ascolto-podcast-36percento",
+    "title": "Il 36% degli italiani ascolta podcast, in crescita di 6 punti rispetto al 2022",
+    "source": "ANSA, \"Il 36% degli italiani ascolta podcast, fenomeno in crescita\" (13/03/2026), dati Osservatorio Impresa Cultura Italia-Confcommercio realizzati con SWG (rilevazione dicembre 2025)",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-23",
-    "brief": "Il 23 settembre, in Piazza Cavalli a Piacenza, si tiene la quinta edizione degli Italian Podcast Awards ('Il Pod'), evento gratuito e aperto al pubblico dalle 21 alle 22:45. In palio i premi Podcast dell'Anno, Indie Podcast dell'Anno, Academy Award e il nuovo Premio Storia del Podcast 2026, quest'anno assegnato a 'Tintoria' di Daniele Tinti e Stefano Rapone. Presente anche la Piacenza Podcast Academy, percorso gratuito nato nel 2026 per ragazzi tra 14 e 25 anni.",
-    "angles": [
-      "Cosa vince (e perché) agli Italian Podcast Awards: lezioni per chi produce podcast indie",
-      "La Piacenza Podcast Academy come modello: si può imparare il mestiere in cinque mesi?",
-      "Networking podcast in Italia: dove andare per conoscere altri creator"
-    ],
-    "hooks": [
-      "Fai un podcast indie in italiano e pensi che nessuno se ne accorga? Il 23 settembre a Piacenza c'è un premio, forse anche per te.",
-      "Hai mai sentito parlare di Tintoria? Ha appena preso un premio alla carriera nel podcasting italiano, e non è un caso.",
-      "Pensi che per fare podcast bastino un microfono e la buona volontà? A Piacenza insegnano il mestiere a ragazzi di 14 anni in cinque mesi."
-    ]
-  },
-  {
-    "id": "confcommercio-ascolto-podcast-italia",
-    "title": "Il 36% degli italiani ascolta podcast, dato in crescita secondo Confcommercio",
-    "source": "ANSA, 'Il 36% degli italiani ascolta podcast, fenomeno in crescita' (13 marzo 2026), su dati Osservatorio Impresa Cultura Italia-Confcommercio con SWG",
-    "affidabilita": "secondaria",
-    "target": 7,
     "date": "2026-03-13",
-    "brief": "Secondo l'Osservatorio Impresa Cultura Italia-Confcommercio, realizzato con SWG su rilevazione di dicembre 2025, il 36% degli italiani ascolta podcast: un dato in leggera crescita rispetto al 2024 e in aumento di 6 punti rispetto al 2022. Il consumo resta prevalentemente gratuito. Non è una notizia freschissima (marzo 2026) ma è il riferimento più solido reperito sull'ascolto podcast in Italia nel 2026, utile come base per parlare del mercato senza inventare numeri.",
-    "angles": [
-      "Il pubblico italiano dei podcast c'è ed è cresciuto: smontare la scusa 'qui non funziona'",
-      "Cosa cerca davvero chi ascolta podcast in Italia (conoscenza, stimoli, novità) e come costruirci sopra un format",
-      "Consumo gratuito vs abbonamenti: dove sta andando il mercato italiano"
-    ],
-    "hooks": [
-      "Ti dicono ancora che 'in Italia i podcast non li ascolta nessuno'? Chi te lo dice ha dati vecchi di anni.",
-      "Sei fermo perché pensi che il pubblico italiano non sia pronto per i podcast? Il 36% degli italiani lo è già, e cresce.",
-      "Se il tuo dubbio è 'ma qui in Italia funziona davvero?', la risposta ce l'ha Confcommercio, mica io."
-    ]
+    "brief": "Secondo l'Osservatorio Impresa Cultura Italia-Confcommercio, realizzato con SWG a dicembre 2025, il 36% degli italiani ascolta podcast: dato in leggera crescita rispetto al 2024 e in aumento di 6 punti rispetto al 2022. La fruizione resta prevalentemente gratuita. Tra i generi più seguiti restano attualità, true crime, interviste e rassegne stampa, con una crescita di format più narrativi.",
+    "angles": ["Un italiano su tre ascolta podcast: cosa significa davvero per chi vuole iniziare ora", "True crime e attualità dominano ancora: le nicchie scoperte per chi parte da zero", "Fruizione gratuita: perché la monetizzazione in Italia resta più difficile che negli USA"],
+    "hooks": ["Pensi che in Italia nessuno ascolti podcast? Un terzo del paese ti smentisce.", "Se il tuo podcast non decolla, forse non è colpa del mercato italiano.", "Hai scelto true crime perché 'va di moda'? Sei in ottima e affollatissima compagnia."]
   },
   {
-    "id": "youtube-tag-ospiti-crescita",
-    "title": "Taggare gli ospiti passati su YouTube: un podcaster segnala +700% di visualizzazioni in due settimane",
-    "source": "Castos, 'How YouTube Podcasts Work in 2026' (blog, 2026) — funzione di collaborazione documentata anche da TubeBuddy e Revelator; il dato +700% ha una sola fonte non verificata indipendentemente",
+    "id": "video-verticale-podcast-trend",
+    "title": "Podcast in formato verticale: crescono le repliche da mobile, secondo un report di settore",
+    "source": "Zebracat, \"100+ Video Podcast Growth Statistics for 2026\" (12/06/2026) — segnale singolo, dati di settore non ancora incrociati con fonti indipendenti",
     "affidabilita": "segnale_debole",
-    "target": 7,
-    "date": "2026-06-01",
-    "brief": "La funzione di collaborazione di YouTube, che permette di taggare i creator/ospiti apparsi in un video così che l'episodio compaia anche sul loro canale, è stata lanciata a fine 2025 e ampliata nel corso del 2026 (il limite di collaborazioni taggabili, inizialmente 5, è stato segnalato fino a 10 verso metà 2026). Un podcaster ha riferito un aumento del 700% delle visualizzazioni in due settimane dopo aver taggato retroattivamente gli ospiti di episodi vecchi: un singolo caso aneddotico, non un dato ufficiale YouTube.",
-    "angles": [
-      "Riprendi in mano gli episodi vecchi: tagga gli ospiti passati su YouTube prima di registrarne di nuovi",
-      "Collaborazioni su YouTube come leva di crescita passiva: cosa serve sapere prima di fidarsi del dato",
-      "Perché il tuo archivio episodi non è morto, è solo mal taggato"
-    ],
-    "hooks": [
-      "Hai ospiti passati nel tuo podcast che non hai mai taggato su YouTube? Potresti startene lì a perdere visualizzazioni gratis.",
-      "Un podcaster ha solo ritoccato i tag degli ospiti vecchi e le visualizzazioni sono schizzate. Tu quando hai riaperto l'ultima volta un episodio vecchio?",
-      "Pensi che il passato del tuo podcast sia solo archivio morto? Su YouTube può ancora portarti pubblico nuovo, gratis."
-    ]
+    "target": 6,
+    "date": "2026-06-12",
+    "brief": "Un report di settore (Zebracat) riporta che i podcast ottimizzati per il formato verticale registrerebbero il 39% di repliche mobili in più, e i creator che adattano gli episodi a una visione vertical-first vedrebbero un aumento del 44% nel tempo di visione da mobile. Il dato viene da un unico blog di settore e non è stato verificato da fonti indipendenti, ma conferma una tendenza già visibile: episodio completo in orizzontale, clip verticali per la scoperta su TikTok/Reels/Shorts.",
+    "angles": ["Perché conviene comunque tagliare clip verticali anche se il podcast è pensato per l'ascolto lungo", "Orizzontale per l'episodio, verticale per la scoperta: come organizzare il workflow di montaggio", "Quanto fidarsi dei numeri sparati dai blog di settore prima di cambiare tutto il formato"],
+    "hooks": ["Registri sempre in orizzontale e ti chiedi perché le clip non girano sui social?", "Se pensi che il verticale sia solo una moda da TikTok, i numeri (con le pinze) dicono altro.", "Hai un episodio da un'ora e zero clip tagliate? Su TikTok non lo scoprirà mai nessuno."]
   }
 ]
