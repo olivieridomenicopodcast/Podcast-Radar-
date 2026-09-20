@@ -1,54 +1,47 @@
 {
-  "aggiornato": "2026-09-19",
+  "aggiornato": "2026-09-20",
   "citta": "Pesaro (PU), Marche, Italia",
   "fonti": [
     "https://www.ilmeteo.it/meteo/pesaro",
-    "https://www.ilmeteo.it/meteo/pesaro/dopodomani",
-    "https://www.ilmeteo.it/mari/meteo-mare/citta/Pesaro",
-    "https://www.meteo.it/meteo/pesaro-oggi-41044",
-    "https://www.meteo.it/meteo/pesaro-domani-41044",
     "https://www.3bmeteo.com/meteo/pesaro",
     "https://www.3bmeteo.com/meteo/pesaro/1",
     "https://www.3bmeteo.com/meteo/pesaro/2",
-    "https://www.3bmeteo.com/previsioni/mare/pesaro",
+    "https://www.meteo.it/meteo/pesaro-41044",
+    "https://www.meteo.it/meteo/pesaro-oggi-41044",
     "https://allertameteo.regione.marche.it/allerte-e-bollettini",
-    "https://allertameteo.regione.marche.it/bollettini-meteo",
-    "https://www.meteoeradar.it/allerte-meteo/pesaro-e-urbino/23573670",
-    "https://www.meteo.it/notizie/meteo-allerta-gialla-19-settembre-2026-in-italia-dove-4b10bdb1",
-    "https://www.senigallianotizie.it/1327670268/anche-per-sabato-19-settembre-2026-allerta-gialla-per-temporali-su-tutte-le-marche",
-    "https://it.sea-forecast.com/italy/pesaro",
-    "https://www.comuni-italiani.it/041/044/meteo.html"
+    "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723",
+    "https://www.meteoweb.eu/2026/09/allerta-meteo-protezione-civile-20-settembre-maltempo-al-sud-3-regioni-a-rischio-per-temporali-grandine-e-nubifragi/1001982755/"
   ],
   "previsioni": [
     {
-      "data": "2026-09-19",
-      "giorno": "oggi, sabato",
-      "temp_min_c": 19,
-      "temp_max_c": 24,
-      "condizioni": "Fonti discordanti: 3BMeteo indica cielo molto nuvoloso con pioggia debole nelle ore centrali e schiarite in serata (min 16°C/max 23°C secondo questa fonte); iLMeteo e Meteo.it descrivono invece condizioni più stabili, parzialmente nuvolose con schiarite (min 19°C/max 24°C). Coerentemente con l'allerta regionale, nel pomeriggio è comunque possibile instabilità con rovesci o temporali locali.",
-      "vento": "Al mattino moderato da Ovest-Nordovest (14-21 km/h), al pomeriggio moderato da Nord-Nordovest (14-22 km/h), in serata debole da Ovest-Sudovest (~8 km/h) (fonte: iLMeteo/Meteo.it).",
-      "mare": "Poco mosso, altezza onda circa 10 cm; temperatura del mare intorno a 26,5°C (fonte: iLMeteo - Meteo Mare Pesaro).",
-      "allerta": "ALLERTA GIALLA per rischio temporali su tutte le zone di allerta delle Marche (Marc-1, Marc-2, Marc-3, Marc-4, Marc-5, Marc-6, incluso il territorio di Pesaro e Urbino). Messaggio di allertamento della Protezione Civile regionale n. 50/2026, emesso il 18/09/2026, valido per l'intera giornata di sabato 19/09/2026: possibili rovesci o temporali anche di forte intensità, più probabili su zone appenniniche e collinari, con rischio di raffiche di vento e criticità localizzate (fonte: allertameteo.regione.marche.it, ripreso da meteo.it e senigallianotizie.it)."
-    },
-    {
       "data": "2026-09-20",
-      "giorno": "domani, domenica",
-      "temp_min_c": 18,
-      "temp_max_c": 24,
-      "condizioni": "Cielo poco nuvoloso al mattino con nubi sparse, prevalentemente sereno/soleggiato nel resto della giornata, nessuna pioggia prevista; anticiclone in rinforzo verso il Centro-Nord con tempo in miglioramento e stabile (fonti: 3BMeteo, Meteo.it).",
-      "vento": "Moderato al mattino da Nordovest, moderato al pomeriggio da Nord-Nordovest, indicativamente 10-14 km/h (circa 6,9 nodi secondo il dato marino) (fonti: 3BMeteo, sea-forecast.com/meteoeradar per il tratto costiero pesarese-anconetano).",
-      "mare": "Poco mosso, altezza onda circa 0,3 m; temperatura del mare intorno a 26,2°C (fonte: sea-forecast.com/meteoeradar).",
-      "allerta": "Nessuna allerta attiva individuata su allertameteo.regione.marche.it per il 20/09/2026: le fonti concordano su un miglioramento con anticiclone in rinforzo e tempo stabile."
+      "giorno": "oggi, domenica",
+      "temp_min_c": 17,
+      "temp_max_c": 25,
+      "condizioni": "Sole prevalente, cielo poco nuvoloso/velato, nessuna pioggia prevista. Le fonti sono leggermente discordanti sui valori minimi/massimi: ilmeteo.it indica circa 19°C/24°C, mentre 3bmeteo e dati mare indicano 17°C/25°C.",
+      "vento": "Assente al mattino, moderato nel pomeriggio da Nord-Nordovest (fino a circa 10-11 km/h); al mattino anche debole da Ovest-Sudovest 8-11 km/h secondo altra fonte.",
+      "mare": "Adriatico centrale calmo o poco mosso per l'intera giornata.",
+      "allerta": "Nessuna allerta attiva individuata per oggi; era in vigore un'allerta gialla per temporali (Marche tra le regioni interessate) valida fino alle 00:00 del 20/09, poi non rinnovata."
     },
     {
       "data": "2026-09-21",
-      "giorno": "dopodomani, lunedì",
+      "giorno": "domani, lunedì",
+      "temp_min_c": 18,
+      "temp_max_c": 24,
+      "condizioni": "Giornata in prevalenza poco nuvolosa, con nubi sparse al mattino; nessuna pioggia prevista. Dati coerenti tra le fonti consultate.",
+      "vento": "Moderato al mattino da Nordovest, moderato al pomeriggio da Nord-Nordovest.",
+      "mare": "Mare poco mosso.",
+      "allerta": "Nessuna allerta attiva individuata; tendenza verso rinforzo dell'anticiclone con tempo stabile."
+    },
+    {
+      "data": "2026-09-22",
+      "giorno": "dopodomani, martedì",
       "temp_min_c": 17,
-      "temp_max_c": 25,
-      "condizioni": "Mattina con nuvolosità sparsa e ampie schiarite (17°C), pomeriggio soleggiato/cielo sereno (25°C), sera intorno a 22°C; tendenza generale di tempo stabile per anticiclone sul Centro-Nord Italia (fonte: iLMeteo).",
-      "vento": "Dato discordante tra le fonti: iLMeteo riporta vento debole da Ovest-Sudovest al mattino, in rotazione da Nord nel pomeriggio; un'altra fonte consultata (Comuni-Italiani.it, che riprende dati Meteo.it) riporta invece vento da Sud-Sudest a 6-11 km/h.",
-      "mare": "Poco mosso, altezza onda circa 18 cm (fonte: iLMeteo - Meteo Mare Pesaro).",
-      "allerta": "Nessuna allerta attiva individuata su allertameteo.regione.marche.it per il 21/09/2026: condizioni di tempo stabile previste."
+      "temp_max_c": 26,
+      "condizioni": "Cieli in prevalenza poco o parzialmente nuvolosi, nessuna pioggia attesa, coerente con rinforzo dell'anticiclone sul Mediterraneo centro-occidentale che porta tempo stabile e soleggiato dal 20 al 22/09. Nota: fonti discordanti individuate in rete per questo giorno - un articolo di 3bmeteo (non aggiornato) titolava 'temporali martedì' mentre un altro più recente titolava 'bel tempo martedì'; una fonte non ufficiale (meteo-domani.com) riportava valori anomali (min 8,1°C/max 20,4°C) scartati come inattendibili.",
+      "vento": "Moderato al mattino da Nordovest, moderato al pomeriggio da Nord.",
+      "mare": "Dato non disponibile con certezza per questo giorno specifico.",
+      "allerta": "Nessuna allerta attiva individuata."
     }
   ]
 }

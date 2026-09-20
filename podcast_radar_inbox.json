@@ -1,79 +1,79 @@
 [
   {
-    "id": "spotify-partner-program-italia",
-    "title": "Spotify apre il Partner Program per i podcast a 35 nuovi paesi, inclusa l'Italia",
-    "source": "Spotify Newsroom, \"The Spotify Partner Program Expands to More Than 35 New Markets\" (17/09/2026); ripreso da TechCrunch, PodcastingToday, NetInfluencer e PodcastNewsDaily (17-18/09/2026)",
+    "id": "apple-podcast-video-ios27",
+    "title": "Apple Podcasts si apre al video: con iOS 27 arrivano trascrizioni, capitoli e Picture-in-Picture",
+    "source": "Apple Podcasts for Creators, \"New Apple Podcasts features in iOS 27, tvOS 27, and macOS 27\" (settembre 2026); MacRumors, \"iOS 27: Release Date, New Features, and Compatible iPhones\" (13 settembre 2026)",
     "affidabilita": "primaria",
     "target": 8,
-    "date": "2026-09-17",
-    "brief": "Spotify ha annunciato l'espansione del suo Partner Program per i podcast a oltre 35 nuovi mercati, tra cui per la prima volta l'Italia, la Spagna e gran parte dell'America Latina. I creator idonei (almeno 3 episodi pubblicati, 2.000 ore di consumo e 1.000 ascoltatori coinvolti negli ultimi 30 giorni) potranno monetizzare sia gli episodi audio sia quelli video. Spotify segnala inoltre che il consumo di video podcast sulla piattaforma è cresciuto del 140% dal lancio della funzione nel 2022.",
-    "angles": ["Come funziona davvero il Partner Program di Spotify e chi può accedervi ora dall'Italia", "Perché conviene iniziare a registrare anche in video fin dal primo episodio", "Requisiti minimi per monetizzare: cosa serve prima ancora di pensare ai guadagni"],
-    "hooks": ["Hai un podcast con quattro gatti che lo ascoltano e già sogni il primo assegno da Spotify?", "Sei convinto che i soldi veri dai podcast li facciano solo gli americani?", "Stai ancora registrando solo audio? Da oggi chi ha anche il video guadagna di più."]
+    "date": "2026-09-14",
+    "brief": "Con il rilascio di iOS 27 (14 settembre 2026) Apple Podcasts espande il supporto ai video podcast: episodi video etichettati chiaramente, riproduzione a schermo intero e Picture-in-Picture su Mac, trascrizioni complete con capitoli su iOS/iPadOS/macOS/visionOS, e una nuova barra di ricerca nella pagina dello show per cercare per nome ospite, titolo o parole pronunciate nell'episodio. Novità confermate ufficialmente da Apple sul portale Podcasts for Creators.",
+    "angles": ["Perché anche chi fa solo audio dovrebbe curare trascrizione e capitoli, ora ricercabili parola per parola su Apple", "Come sfruttare la ricerca per keyword dentro l'episodio per farsi trovare da chi cerca argomenti specifici", "Video podcast: da opzione a standard atteso dalle piattaforme"],
+    "hooks": ["Hai sempre detto 'io faccio solo audio, il video non mi serve'? Apple non è d'accordo: da questa settimana i podcast video si cercano parola per parola e si guardano pure in un angolo dello schermo mentre lavori. Tocca ripensarci.", "Se il tuo podcast non ha capitoli e trascrizione, ora è letteralmente meno trovabile su Apple Podcasts. Non è pigrizia tua, è che finora nessuno te lo aveva chiesto: da oggi sì.", "Pensavi che il Picture-in-Picture fosse roba da YouTube? Apple lo ha appena portato dentro Podcasts. Il tuo show a schermo ridotto mentre l'ascoltatore fa altro: bello, sì, ma solo se il video non fa pena."]
   },
   {
-    "id": "audacity-4-major-update",
-    "title": "Audacity 4.0: il più grande aggiornamento nella storia del programma di editing audio gratuito",
-    "source": "PCWorld, \"Audacity 4 is getting a major facelift and numerous improvements\"; corroborato da Engadget, Neowin, 9to5Linux, Phoronix e Bedroom Producers Blog (rilascio versione 4.0.0 il 03/09/2026)",
+    "id": "spotify-partner-program-espansione",
+    "title": "Spotify apre la monetizzazione dei podcast video a 35 nuovi Paesi",
+    "source": "TechCrunch, \"Spotify expands its partner program for podcasts to 35 new countries\" (17 settembre 2026); coerente con i requisiti d'ingresso al Partner Program annunciati da Spotify Newsroom (gennaio 2026)",
     "affidabilita": "secondaria",
-    "target": 9,
-    "date": "2026-09-03",
-    "brief": "Audacity ha rilasciato la versione 4.0.0 il 3 settembre 2026, descritta da più testate come il più grande aggiornamento nei 25 anni di storia del software. Introduce un'interfaccia basata su Qt6 con temi chiaro/scuro e supporto HiDPI nativo, un nuovo formato di progetto (.aup4) e un modello di editing delle clip completamente rinnovato (clip sovrapponibili e raggruppabili, nuovo strumento Split). Resta gratuito e i vecchi progetti Audacity 3 restano intatti perché l'apertura ne crea automaticamente una copia.",
-    "angles": ["Perché Audacity resta il miglior punto di partenza gratuito per chi inizia a editare podcast", "Cosa cambia davvero nel montaggio quotidiano con il nuovo sistema di clip", "Software gratis vs a pagamento: quando ha senso passare a qualcosa di professionale"],
-    "hooks": ["Hai imparato a editare su Audacity anni fa e non hai più aggiornato niente da allora?", "Se il tuo editor audio ti sembra uscito dagli anni 2000, forse aveva ragione.", "Stai ancora tagliando le clip una alla volta come un animale?"]
+    "target": 7,
+    "date": "2026-09-17",
+    "brief": "Spotify ha esteso il suo Partner Program per i podcast (che retribuisce anche le visualizzazioni video) a 35 Paesi in più, la più grande espansione geografica del programma finora, che prima copriva solo Stati Uniti, Europa e Australia. I requisiti minimi restano quelli fissati a inizio 2026: almeno 3 episodi online, 2.000 ore di consumo e 1.000 utenti coinvolti negli ultimi 30 giorni.",
+    "angles": ["Cosa serve davvero per entrare nel Partner Program Spotify (i numeri minimi reali)", "Perché Spotify sta inseguendo YouTube sulla monetizzazione video", "Come capire se conviene puntare su Spotify Video o restare audio-first"],
+    "hooks": ["Ti sei sempre chiesto se conviene fare il video del tuo podcast solo per Spotify? Ora la risposta economica arriva in altri 35 Paesi: se prima non c'eri, controlla se ora ci sei.", "Bastano 3 episodi, 2000 ore di ascolto e mille persone coinvolte: sembra poco finché non provi a farlo davvero. Spotify ha appena allargato la platea di chi può tentare, ma la soglia resta la stessa.", "Hai un podcast video fermo su Spotify perché 'tanto non paga'? Da questa settimana potrebbe pagare anche nel tuo Paese. Vale la pena controllare prima di continuare a lamentarti."]
   },
   {
-    "id": "descript-captions-ai-music",
-    "title": "Descript aggiunge sottotitoli animati e musica/effetti sonori generati dall'AI",
-    "source": "Descript, changelog ufficiale (feedback.descript.com/Canny), aggiornamento di metà settembre 2026",
+    "id": "descript-update-settembre-2026",
+    "title": "Descript aggiunge musica e sound design generati dall'AI e nuovi stili per i sottotitoli",
+    "source": "Descript, Changelog ufficiale (settembre 2026, feedback.descript.com/changelog); confermato dai video ufficiali \"What's new in Descript\" sul canale YouTube di Descript",
     "affidabilita": "primaria",
     "target": 7,
     "date": "2026-09-17",
-    "brief": "Descript ha rilasciato un pacchetto di nuove funzioni che include preset e animazioni per i sottotitoli (utilizzabili anche su qualsiasi livello di testo), la generazione automatica di musica di sottofondo ed effetti sonori tramite AI su richiesta, e nuovi metodi di pagamento come Apple Pay e Cash App. L'aggiornamento fa parte di un rilascio più ampio che comprende circa trenta modifiche minori.",
-    "angles": ["Musica ed effetti sonori generati dall'AI: quanto possono davvero sostituire una libreria audio a pagamento", "Sottotitoli animati: perché oggi sono lo standard minimo per chi pubblica clip social", "Cosa cambia nel workflow se il software inizia a comporre la colonna sonora al posto tuo"],
-    "hooks": ["Hai passato ore a cercare la musichetta di sottofondo giusta senza copyright su YouTube?", "Passi ancora ore a sincronizzare i sottotitoli a mano? Non serve più, ma capiamo l'affetto.", "Pensavi che il sound design fosse un lavoro solo tuo? L'AI la pensa diversamente."]
+    "brief": "L'aggiornamento di settembre 2026 di Descript introduce la generazione automatica di musica ed effetti sonori su richiesta testuale, nuovi preset e animazioni per i sottotitoli, oltre a nuovi metodi di pagamento (Apple Pay, Cash App). Segue l'update di agosto che aveva migliorato i jump cut e introdotto la programmazione anticipata delle Room di registrazione remota.",
+    "angles": ["Musica e SFX generati dall'AI: fino a che punto sostituiscono una libreria audio a pagamento", "Sottotitoli animati: quanto aiutano davvero la ritenzione sui video verticali", "Editing podcast nel 2026: quanto lavoro sta davvero togliendo l'AI a chi monta"],
+    "hooks": ["Hai passato ore a cercare la musichetta giusta su una libreria audio a pagamento? Descript ora te la genera scrivendo una frase. Non è ancora un compositore, ma il pomeriggio perso in ricerca quello sì, te lo ha appena risparmiato.", "Se monti ancora i sottotitoli a mano uno per uno, fermati un attimo: adesso ci sono preset e animazioni pronte. Il tempo che risparmi investilo in qualcosa di più utile, tipo dormire.", "Pensavi che l'AI nel podcasting fosse solo trascrizione e taglio degli 'ehm'? Ora ti scrive pure gli effetti sonori. La domanda vera non è se usarla, ma quanto controllo vuoi ancora tenere tu sul risultato finale."]
   },
   {
-    "id": "festival-podcasting-2026-milano",
-    "title": "Il Festival del Podcasting compie dieci anni: si parte il 21 settembre, gran finale a Milano il 2-3 ottobre",
-    "source": "ANSA, \"Il Festival del Podcasting compie dieci anni e torna il 2 e 3 ottobre a Milano\" (21/07/2026); corroborato da Il Sole 24 Ore, Media Key e ItaliaOggi (luglio-settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 7,
-    "date": "2026-09-21",
-    "brief": "Il Festival del Podcasting, il più longevo evento italiano dedicato al settore, festeggia la decima edizione con un tour di tappe locali in diverse città italiane a partire dal 21 settembre 2026, per concludersi il 2-3 ottobre a Cascina Triulza (area Mind, Milano). Tra le novità: una giornata interamente dedicata all'industria, workshop, il Podcast Pitch e i premi Audioboost (miglior branded podcast) e Pod24 (miglior podcast indipendente d'inchiesta, promosso da 24Ore Podcast).",
-    "angles": ["Cosa imparare davvero partecipando a un evento di settore quando sei ancora principiante", "Come sfruttare workshop e networking se il tuo podcast è appena nato", "Cosa dicono i premi Pod24 e Audioboost sullo stato del mercato italiano"],
-    "hooks": ["Hai un podcast e non sei mai andato a un evento di settore per vergogna?", "Pensi che i festival di podcasting servano solo a chi ha già successo?", "Se abiti vicino a una tappa del festival e non ci vai, poi non lamentarti che nessuno ti ascolta."]
-  },
-  {
-    "id": "raiplay-sound-original-violante",
-    "title": "RaiPlay Sound lancia un nuovo podcast Original in sette episodi scritto da Luciano Violante",
-    "source": "Daniele Mignardi, danielemignardi.it (09/09/2026); corroborato da Megamodo, FM-World e Gaeta.it (settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 5,
-    "date": "2026-09-09",
-    "brief": "Dal 9 settembre 2026 è disponibile in esclusiva su RaiPlay Sound \"Italia: le ferite e il coraggio\", podcast Original in sette episodi scritto e narrato da Luciano Violante con Gianfranco Zinzilli, curato editorialmente da Andrea Borgnino. Il podcast ripercorre fratture storiche del paese (razzismo, criminalità organizzata, terrorismo, nascita della Costituzione, corruzione) fino al coraggio quotidiano di chi ha difeso lo stato di diritto.",
-    "angles": ["Cosa dice questa scelta sulla strategia di RaiPlay Sound (grandi firme, non solo creator digitali)", "Il podcast storico-narrativo come format che funziona anche fuori dalla cronaca quotidiana", "Il ruolo, spesso invisibile, della cura editoriale in un podcast narrativo ambizioso"],
-    "hooks": ["Pensi che per fare un podcast serva solo un microfono e una bella voce?", "Se credi che i podcast Rai siano tutti uguali, forse non hai ancora sentito questo formato.", "Hai mai pensato a quante persone lavorano dietro un podcast che sembra 'solo' una voce che racconta?"]
-  },
-  {
-    "id": "italiani-ascolto-podcast-36percento",
-    "title": "Il 36% degli italiani ascolta podcast, in crescita di 6 punti rispetto al 2022",
-    "source": "ANSA, \"Il 36% degli italiani ascolta podcast, fenomeno in crescita\" (13/03/2026), dati Osservatorio Impresa Cultura Italia-Confcommercio realizzati con SWG (rilevazione dicembre 2025)",
+    "id": "trend-microfoni-ibridi-2026",
+    "title": "I microfoni ibridi USB/XLR/wireless diventano lo standard consigliato per chi inizia a fare podcast",
+    "source": "Sky TG24, \"PD200W Hybrid, il nuovo microfono 'da podcast' di Maono: la prova\" (13 marzo 2026); trend confermato da più guide di settore aggiornate a settembre 2026 (migliormicrofono.it, audioedit.it, ilovepodcast.it)",
     "affidabilita": "secondaria",
     "target": 6,
     "date": "2026-03-13",
-    "brief": "Secondo l'Osservatorio Impresa Cultura Italia-Confcommercio, realizzato con SWG a dicembre 2025, il 36% degli italiani ascolta podcast: dato in leggera crescita rispetto al 2024 e in aumento di 6 punti rispetto al 2022. La fruizione resta prevalentemente gratuita. Tra i generi più seguiti restano attualità, true crime, interviste e rassegne stampa, con una crescita di format più narrativi.",
-    "angles": ["Un italiano su tre ascolta podcast: cosa significa davvero per chi vuole iniziare ora", "True crime e attualità dominano ancora: le nicchie scoperte per chi parte da zero", "Fruizione gratuita: perché la monetizzazione in Italia resta più difficile che negli USA"],
-    "hooks": ["Pensi che in Italia nessuno ascolti podcast? Un terzo del paese ti smentisce.", "Se il tuo podcast non decolla, forse non è colpa del mercato italiano.", "Hai scelto true crime perché 'va di moda'? Sei in ottima e affollatissima compagnia."]
+    "brief": "Modelli come il Maono PD200W Hybrid, che combina connessione wireless, USB e XLR nello stesso microfono, segnano una tendenza confermata da più guide indipendenti aggiornate a settembre 2026: i microfoni 'cresci con te', con uscita sia USB plug-and-play sia XLR professionale, vengono ormai consigliati di default a chi inizia, per evitare di dover ricomprare tutto quando si passa a un mixer.",
+    "angles": ["USB vs XLR vs ibrido: cosa comprare davvero se non sai ancora quanto lontano vuoi spingerti", "Il microfono ibrido non ti rende automaticamente professionista: la stanza conta più del mic", "Errore comune dei principianti: comprare il microfono più caro invece di trattare la stanza"],
+    "hooks": ["Hai comprato un microfono USB pensando che fosse per sempre? Nel 2026 i produttori ti vendono l'ibrido USB/XLR proprio perché sanno che prima o poi vorrai il mixer. Occhio a non farti fregare due volte.", "Wireless, USB e XLR nello stesso microfono: sembra la soluzione a tutti i tuoi problemi. Non lo è, se registri ancora in camera con la tapparella di plastica che rimbomba come una grotta.", "Se stai per comprare il tuo primo microfono 'serio', fermati: la domanda giusta non è quale modello, ma dove lo userai. Un ibrido da 150 euro in una stanza trattata batte un ibrido da 300 euro in un salotto vuoto."]
   },
   {
-    "id": "video-verticale-podcast-trend",
-    "title": "Podcast in formato verticale: crescono le repliche da mobile, secondo un report di settore",
-    "source": "Zebracat, \"100+ Video Podcast Growth Statistics for 2026\" (12/06/2026) — segnale singolo, dati di settore non ancora incrociati con fonti indipendenti",
-    "affidabilita": "segnale_debole",
+    "id": "italian-podcast-awards-2026",
+    "title": "Torna IlPod - Italian Podcast Awards: quinta edizione il 23 settembre a Piacenza",
+    "source": "PiacenzaSera, \"Italian Podcast Awards, il 23 settembre a Piacenza il podcast italiano sale sul palco\" (settembre 2026); confermato da AskaNews, IlPiacenza.it e Libertà (luglio-settembre 2026)",
+    "affidabilita": "primaria",
+    "target": 7,
+    "date": "2026-09-23",
+    "brief": "Il 23 settembre 2026 Piazza Cavalli a Piacenza ospita la quinta edizione di IlPod - Italian Podcast Awards, evento gratuito e aperto al pubblico dedicato al podcasting italiano, ideato da Andrea Colamedici, Maura Gancitano e Fabio Ragazzo e diretto da Rossella Pivanti. In programma i premi Podcast dell'Anno, Indie Podcast dell'Anno, Academy Award e il nuovo riconoscimento Storia del Podcast 2026, oltre a una puntata live di 'Scanner' di Valerio Nicolosi per Fanpage.it.",
+    "angles": ["Cosa dicono i premi italiani sulle tendenze di formato e genere nel podcasting nostrano", "Indie Podcast dell'Anno: cosa distingue un progetto indipendente premiato da uno amatoriale", "Perché un evento fisico gratuito conta ancora per una community che vive online"],
+    "hooks": ["Pensavi che il podcasting italiano fosse solo tu e il tuo laptop in cameretta? Il 23 settembre centinaia di persone si ritrovano in piazza a Piacenza per premiare chi ce l'ha fatta. Vai a vedere chi vince prima di lamentarti che 'in Italia il podcast non lo ascolta nessuno'.", "Hai un podcast indie che secondo te meriterebbe un premio? Agli Italian Podcast Awards c'è una categoria apposta. Intanto guarda chi ha vinto le edizioni passate: la costanza conta più del budget.", "Se pensi che i podcast italiani siano tutti uguali, guarda il programma degli Italian Podcast Awards 2026: true crime, informazione, narrazione indipendente. La nicchia esiste, basta trovarla."]
+  },
+  {
+    "id": "dato-ascolto-podcast-italia-36percento",
+    "title": "Il 36% degli italiani ascolta podcast: il dato dell'Osservatorio Impresa Cultura Italia-Confcommercio",
+    "source": "ANSA, \"Il 36% degli italiani ascolta podcast, fenomeno in crescita\" (13 marzo 2026), su dati Osservatorio Impresa Cultura Italia-Confcommercio/SWG",
+    "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-06-12",
-    "brief": "Un report di settore (Zebracat) riporta che i podcast ottimizzati per il formato verticale registrerebbero il 39% di repliche mobili in più, e i creator che adattano gli episodi a una visione vertical-first vedrebbero un aumento del 44% nel tempo di visione da mobile. Il dato viene da un unico blog di settore e non è stato verificato da fonti indipendenti, ma conferma una tendenza già visibile: episodio completo in orizzontale, clip verticali per la scoperta su TikTok/Reels/Shorts.",
-    "angles": ["Perché conviene comunque tagliare clip verticali anche se il podcast è pensato per l'ascolto lungo", "Orizzontale per l'episodio, verticale per la scoperta: come organizzare il workflow di montaggio", "Quanto fidarsi dei numeri sparati dai blog di settore prima di cambiare tutto il formato"],
-    "hooks": ["Registri sempre in orizzontale e ti chiedi perché le clip non girano sui social?", "Se pensi che il verticale sia solo una moda da TikTok, i numeri (con le pinze) dicono altro.", "Hai un episodio da un'ora e zero clip tagliate? Su TikTok non lo scoprirà mai nessuno."]
+    "date": "2026-03-13",
+    "brief": "Secondo l'Osservatorio sui Consumi Culturali di Impresa Cultura Italia-Confcommercio (realizzato con SWG), il 36% della popolazione italiana ascolta podcast, con una crescita di 6 punti percentuali rispetto al 2022. Il consumo resta in prevalenza gratuito. Resta il dato più recente insieme alle stime Ipsos (41% tra i 16-60 anni) e Nielsen (oltre 17 milioni di ascoltatori, dato 2024), che usano metodologie diverse e quindi numeri non direttamente confrontabili tra loro.",
+    "angles": ["Perché le stime italiane sui podcast (Ipsos, Nielsen, Confcommercio) danno numeri diversi e cosa significa per chi produce contenuti", "Il podcast in Italia non è più nicchia: cosa cambia per chi lo insegna o lo fa per lavoro", "Consumo gratuito vs abbonamenti: il modello italiano è ancora lontano da quello USA"],
+    "hooks": ["Ti hanno mai detto che 'in Italia i podcast non li ascolta nessuno'? Falso: più di un italiano su tre lo fa, secondo l'ultimo Osservatorio Confcommercio. Il problema semmai è capire chi sono e cosa vogliono sentire.", "Se stai decidendo se lanciare un podcast in italiano pensando che il mercato sia troppo piccolo, i numeri dicono il contrario: crescita costante da anni. La domanda vera è se hai un'idea buona, non se c'è pubblico.", "Ipsos dice 41%, Nielsen dice oltre 17 milioni, Confcommercio dice 36%: tre numeri diversi, stessa storia. Prima di citare una statistica sui podcast italiani nel tuo prossimo post, sappi che nessuno le misura allo stesso modo."]
+  },
+  {
+    "id": "video-podcast-supera-audio-only",
+    "title": "I dati Edison Research: il tempo speso sui video podcast ha raggiunto quello dell'audio-only",
+    "source": "Barrett Media, \"Video Podcast Time Virtually Mirrors Audio-Only Podcasts, New Edison Research Data Shows\" (4 giugno 2026), su dati Edison Research",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-06-04",
+    "brief": "Nuovi dati di Edison Research mostrano che il tempo dedicato ai podcast video ha raggiunto livelli sostanzialmente equivalenti a quello dei podcast solo audio. Solo il 21% dei consumatori dichiara di usare esclusivamente l'audio, mentre il video ottiene un engagement dedicato maggiore: il 44% di chi guarda video dichiara di non fare multitasking, contro il 29% di chi ascolta solo audio.",
+    "angles": ["Il mito 'il podcast è solo audio': i dati dicono altro già da tempo", "Perché il video ottiene più attenzione dedicata anche se molti lo consumano come un audio in sottofondo", "Come decidere se investire in video partendo dai dati e non dalla moda"],
+    "hooks": ["Continui a dire 'il mio è un podcast, non un video'? I dati di Edison Research dicono che ormai la gente ci passa lo stesso tempo che passa ad ascoltare solo audio. Nessuno ti obbliga, ma la scusa 'tanto il video non lo guarda nessuno' non regge più.", "Hai paura che il video ti distragga dal 'vero' podcasting? Guarda questo dato: chi guarda video fa meno multitasking di chi ascolta solo audio. Cioè, quando c'è il video, ti guardano davvero.", "Se il tuo piano è 'prima l'audio, il video se avanza tempo', sappi che stai trattando come opzionale quello che per una fetta enorme di pubblico è ormai il modo normale di consumare un podcast. Poi fai tu."]
   }
 ]
