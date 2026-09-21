@@ -1,58 +1,58 @@
 [
   {
-    "id": "watch-g1-cancellato-buco-coronale",
-    "title": "Allerta di tempesta geomagnetica G1 annullata dopo il flusso da buco coronale",
-    "source": "earthsky.org (dati NOAA SWPC), aggiornamento del 17-19 settembre 2026",
+    "id": "previsione-tempesta-geomagnetica-g1-23-26-settembre",
+    "title": "Prevista tempesta geomagnetica minore G1 tra il 23 e il 26 settembre",
+    "source": "RSGB GB2RS Propagation News (bollettino del 20 settembre 2026) ed EarthSky Sun News, ripreso da pogodnik.com e techtimes.com",
+    "affidabilita": "secondaria",
+    "date": "2026-09-20",
+    "brief": "Un buco coronale con flusso di vento solare veloce dovrebbe raggiungere la Terra intorno al 23 settembre 2026, con condizioni attive (Kp 4) e possibilità di tempesta geomagnetica minore G1 (Kp 5) tra il 23 e il 26 settembre. Prevista aurora visibile alle alte latitudini (Scozia settentrionale, Nuova Zelanda meridionale). Al momento della rilevazione non risultava ancora un G1 watch formale di NOAA SWPC."
+  },
+  {
+    "id": "flusso-solare-sceso-a-100-17-settembre",
+    "title": "Il flusso solare (SFI) scende a quota 100, in netto calo dal picco del ciclo 25",
+    "source": "RSGB GB2RS Propagation News, bollettino del 20 settembre 2026 (dato riferito a giovedì 17 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-17",
-    "brief": "NOAA SWPC aveva emesso un'allerta per una tempesta geomagnetica minore G1 legata a un flusso di vento solare veloce proveniente da un buco coronale, attesa tra il 15 e il 16 settembre con possibile prosecuzione fino al 17 settembre 2026. La tempesta prevista non si è materializzata (o è arrivata in ritardo) e l'allerta G1 è stata annullata da NOAA. L'attività solare resta su livelli bassi, con condizioni HF relativamente stabili in questi giorni."
+    "brief": "Giovedì 17 settembre 2026 l'indice di flusso solare (SFI) è sceso a 100, un valore nettamente inferiore ai picchi oltre 300 registrati circa due anni fa al culmine del ciclo solare 25. Il calo conferma il proseguimento della discesa dell'attività solare, rilevante per la propagazione sulle bande HF alte."
   },
   {
-    "id": "ri1fjz-terra-francesco-giuseppe-cw",
-    "title": "La spedizione RI1FJZ avvia le attività in CW da Terra di Francesco Giuseppe",
-    "source": "DX-World.net, 18 settembre 2026",
+    "id": "dxpedition-kh8ww-samoa-americane",
+    "title": "DXpedition KH8WW da Aunu'u, Samoa Americane, attiva fino al 24 settembre",
+    "source": "DX-World.net, RSGB GB2RS DX News (20 settembre 2026), sito ufficiale KH8WW (lral.lv)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-20",
+    "brief": "Yuris YL2GM ed Eugene EA5EL operano come KH8WW dall'isola di Aunu'u (IOTA OC-045), Samoa Americane, dal 10 al 24 settembre 2026, in CW, FT8 e SSB dai 160 ai 6 metri. QSL via OQRS o via YL2GN, upload su LoTW previsto entro sei mesi dalla fine della spedizione."
+  },
+  {
+    "id": "dxpedition-pj2-k5sl-curacao",
+    "title": "Randy K5SL attivo come PJ2/K5SL da Curaçao dal 18 al 26 settembre",
+    "source": "DX-World.net, blog EA1CS DX Info, 425 DX News #1846 (18 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-18",
-    "brief": "La DXpedition RI1FJZ, attiva dall'arcipelago artico russo di Terra di Francesco Giuseppe dal 9 al 25 settembre 2026, ha iniziato il 18 settembre le operazioni in CW su 40, 30 e 17 metri. L'operazione impiega fino a 7 postazioni radio con amplificatori (2 CW/SSB, 5 digitali) e prevede anche attività EME, satelliti LEO e QO-100."
+    "brief": "Randy, K5SL, opera come PJ2/K5SL da Curaçao dal 18 al 26 settembre 2026, in sola CW sulle bande 40-17 metri, prevalentemente al mattino e nel tardo pomeriggio locale. QSL disponibile via cartolina cartacea (h/c)."
   },
   {
-    "id": "pj2-k5sl-curacao-vacanza",
-    "title": "Randy K5SL attivo in stile vacanza da Curaçao come PJ2/K5SL",
-    "source": "DX-World.net, 18 settembre 2026",
+    "id": "dxpedition-ri1fjz-terra-di-francesco-giuseppe",
+    "title": "RI1FJZ attiva dalla Terra di Francesco Giuseppe fino al 25 settembre",
+    "source": "DX-World.net, Timeline DXpedition settembre 2026",
     "affidabilita": "secondaria",
     "date": "2026-09-18",
-    "brief": "L'operatore statunitense Randy, K5SL, ha iniziato il 18 settembre 2026 un'attivazione in stile vacanza dall'isola caraibica di Curaçao con il nominativo PJ2/K5SL, in programma fino al 26 settembre. L'operazione offre un'occasione DX relativamente accessibile verso i Caraibi olandesi."
+    "brief": "La spedizione RI1FJZ opera dall'arcipelago artico russo della Terra di Francesco Giuseppe dal 9 al 25 settembre 2026, risultando ancora attiva nel fine settimana del 18-21 settembre secondo la timeline aggiornata di DX-World.net."
   },
   {
-    "id": "arrl-10ghz-and-up-round2",
-    "title": "Al via il secondo turno del contest ARRL \"10 GHz and Up\"",
-    "source": "ARRL Contest Calendar, 19 settembre 2026",
+    "id": "cq-ww-rtty-contest-26-27-settembre",
+    "title": "Il CQ World Wide DX Contest RTTY si terrà il 26-27 settembre 2026",
+    "source": "Sito ufficiale cqwwrtty.com, regolamento pubblicato dall'organizzazione CQ WW",
+    "affidabilita": "primaria",
+    "date": "2026-09-21",
+    "brief": "Il CQ WW RTTY Contest è confermato dalle 0000 UTC di sabato 26 settembre alle 2359 UTC di domenica 27 settembre 2026, sulle bande 80-10 metri (dove i contest sono ammessi). Scambio: rapporto e zona CQ; termine per l'invio dei log entro le 2359 UTC del 29 settembre 2026."
+  },
+  {
+    "id": "contest-university-yagi-100-anni-webinar",
+    "title": "Contest University celebra i 100 anni dell'antenna Yagi-Uda con un webinar",
+    "source": "ARRL News (arrl.org), ripreso da ICQ Amateur/Ham Radio Podcast (20 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-19",
-    "brief": "Il secondo round del contest ARRL \"10 GHz and Up\" si svolge dalle 0900 UTC del 19 settembre alle 0759 UTC del 21 settembre 2026. Coinvolge operatori nordamericani impegnati a contattare il maggior numero di stazioni in località diverse su bande dai 10 GHz fino alla luce visibile."
-  },
-  {
-    "id": "iaru-r1-conferenza-vienna-2026",
-    "title": "Al via a Vienna la 27ª Conferenza Generale di IARU Regione 1",
-    "source": "IARU Region 1 (iaru-r1.org), settimana del 19 settembre 2026",
-    "affidabilita": "primaria",
-    "date": "2026-09-19",
-    "brief": "Dal 19 al 23 settembre 2026 si tiene a Vienna, in Austria, la 27ª Conferenza Generale di IARU Regione 1, ospitata dalla società austriaca ÖVSV che quest'anno celebra il proprio centenario. La conferenza riunisce le associazioni radioamatoriali nazionali della Regione 1 per discutere spettro, regolamentazione e attività dell'Unione."
-  },
-  {
-    "id": "orari-indonesia-emcomm-vulcani",
-    "title": "ORARI attiva le reti di emergenza in Indonesia per l'attività vulcanica in corso",
-    "source": "IARU Region 1 / WIA, comunicato dell'11 settembre 2026 (rete attiva fino al 24 settembre)",
-    "affidabilita": "primaria",
-    "date": "2026-09-11",
-    "brief": "A seguito delle eruzioni di diversi vulcani indonesiani (tra cui Ile Lewotolok, Semeru, Sinabung e Anak Krakatau), l'associazione ORARI (Organisasi Amatir Radio Indonesia) ha attivato reti di comunicazione di emergenza dall'11 al 24 settembre 2026, quindi ancora operative in questi giorni. Le frequenze prioritarie indicate sono 7.110 MHz in voce, 7.100 MHz USB per JS8Call e 145.880/435.880 MHz per il satellite LAPAN-A2/IO-86."
-  },
-  {
-    "id": "hamvention-nuova-chair-n8ptl",
-    "title": "Hazel Everetts N8PTL nominata prima donna Chair della Dayton Hamvention",
-    "source": "Amateur Radio Newsline, Report 2551, 18 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Amateur Radio Newsline ha riportato il 18 settembre 2026 che Hazel Everetts, N8PTL, è stata nominata nuova General Chair della Dayton Hamvention in vista dell'edizione 2027, che celebrerà il 75° anniversario della manifestazione. È la prima donna a ricoprire questo ruolo nella storia del più grande hamfest al mondo."
+    "brief": "Il 19 settembre 2026 alle 1600 UTC, Contest University (CTU) ha tenuto un webinar gratuito via Zoom dal titolo \"The Yagi Turns 100\" per celebrare il centenario dell'antenna direttiva Yagi-Uda, inventata nel 1926. Relatore Greg Ordy, W8WWV; la registrazione è stata pubblicata sul sito CTU la settimana successiva."
   }
 ]

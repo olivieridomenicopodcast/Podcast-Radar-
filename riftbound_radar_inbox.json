@@ -1,65 +1,56 @@
 [
   {
     "id": "bando-ekko-recurrent-stacked-deck",
-    "title": "Riot banna Ekko, Recurrent e Stacked Deck in Standard e 2v2 Constructed",
-    "source": "PlayRiftbound.com (ufficiale), \"September Ban List Updates (Effective September 18, 2026)\", 18 settembre 2026; ripreso anche da riftbound.gg",
+    "title": "Riot banna Ekko, Recurrent e Stacked Deck da Standard e 2v2",
+    "source": "PlayRiftbound.com, comunicato ufficiale \"September Ban List Updates (Effective September 18, 2026)\"; ripreso da riftbound.gg e da testate come Yahoo Tech",
     "affidabilita": "primaria",
     "date": "2026-09-18",
-    "brief": "Dal 18 settembre 2026 sono banditi in Standard e 2v2 Constructed la carta Ekko, Recurrent e la carta Stacked Deck. Ekko è stato colpito perché abilitava il combo infinito del mazzo Lux, concedendo di fatto un turno extra e riciclandosi, con partite dal ritmo troppo solitario. Stacked Deck è stato colpito perché, in combinazione con Lightning Rush, permetteva ai mazzi Kennen/Chaos di scavare nel proprio mazzo con eccessiva efficienza per trovare carte chiave come Nocturne.",
-    "rilevanza": "È il terzo giro di bandi ufficiali di Riftbound nel 2026 e mira esplicitamente a ridimensionare il dominio di Kennen e del dominio Chaos: chi gioca questi mazzi in torneo deve aggiornare la lista subito, mentre collezionisti e giocatori competitivi devono monitorare l'effetto sul valore delle carte colpite."
+    "brief": "Riot Games ha bandito le carte Ekko, Recurrent e Stacked Deck dai formati Standard e Constructed 2v2, con effetto dal 18 settembre 2026. Ekko, Recurrent è stato colpito per il pattern di gioco \"solitario\" legato al combo che concede un turno extra e si ricicla; Stacked Deck per l'eccessiva consistenza che garantiva ai mazzi Chaos (viola), specie con Ravenbloom Student e il Battlefield Abandoned Hall.",
+    "rilevanza": "È il primo ban wave che colpisce contemporaneamente le liste Standard e 2v2, un cambiamento rilevante per chi gioca competitivo in vista dei prossimi Regional Qualifier."
   },
   {
-    "id": "reazione-community-bando-settembre",
-    "title": "La community si divide sul nuovo bando: consenso su Ekko, dubbi su Stacked Deck",
-    "source": "RiftCompare, \"Riftbound's September 2026 Bans: Community Reaction and the Meta Shift Ahead\"; discussioni su r/riftboundtcg e account X RiftboundMeta, 18-19 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-19",
-    "brief": "Sul subreddit r/riftboundtcg il bando a Ekko è accolto positivamente, perché la strategia che abilitava (il combo infinito di Lux) è vista come poco in linea col gameplay core del gioco. Più divisiva la scelta di colpire Stacked Deck: una parte della community ritiene che rallenti correttamente Kennen, un'altra sostiene che lo tocchi a malapena mentre danneggia tutti gli altri mazzi Chaos. Anche account community su X (come RiftboundMeta) hanno criticato la mancata attenzione verso altre carte ritenute problematiche.",
-    "rilevanza": "Segnala che il bilanciamento resta un tema caldo per i giocatori competitivi: chi costruisce mazzi Chaos non-Kennen potrebbe risentire di un effetto collaterale del bando, utile da monitorare prima dei prossimi tornei."
-  },
-  {
-    "id": "lancio-coreano-riftbound",
-    "title": "Riftbound arriva ufficialmente in Corea del Sud con uno showcase alla GGX di Seoul",
-    "source": "PlayRiftbound.com (ufficiale), \"Korea's Rift Opens on September 18\"; Inven Global, articoli del 18 settembre 2026",
+    "id": "lancio-riftbound-corea",
+    "title": "Riftbound Origins arriva ufficialmente in Corea del Sud",
+    "source": "PlayRiftbound.com, comunicato \"Korea's Rift Opens on September 18\"; copertura di Inven Global",
     "affidabilita": "primaria",
     "date": "2026-09-18",
-    "brief": "Il 18 settembre 2026 Riot Games ha lanciato ufficialmente l'edizione in lingua coreana di Riftbound con un evento showcase alla GGX di Dongdaemun, Seoul, presentando il primo set \"Origins\" in coreano, i prodotti introduttivi, l'ambiente locale di gioco e i programmi competitivi. I booster coreani di Origins includono una carta esclusiva creata per il lancio, \"Ahri, Nine-Tailed Fox\", ispirata alla skin Dynasty Ahri. Eventi di lancio con pop-up store sono in corso alla GGX (18-23 settembre) e a Dopamine Station a Yongsan (18-30 settembre), con la domanda che secondo Inven Global ha superato le aspettative.",
-    "rilevanza": "Per i collezionisti è rilevante per la carta promo esclusiva regionale (Ahri Nine-Tailed Fox), potenzialmente ricercata sul mercato secondario; per i giocatori segna l'espansione della scena competitiva ufficiale in un nuovo mercato asiatico chiave per i TCG."
+    "brief": "Riot Games ha lanciato ufficialmente l'edizione coreana di Riftbound (set Origins) il 18 settembre 2026, rendendo il coreano la quarta lingua ufficialmente supportata dal gioco. Il lancio è stato accompagnato da eventi a Seoul (Gen.G GGX e Yongsan IPark) con promo esclusive locali e una collezione dedicata ai campioni T1 dei Worlds 2025.",
+    "rilevanza": "Espande la disponibilità internazionale del gioco fisico e introduce materiale da collezione esclusivo per il mercato coreano, di interesse per i collezionisti internazionali."
   },
   {
-    "id": "rq-los-angeles-e-preview-radiance",
-    "title": "Los Angeles ospita l'ultima Regional Qualifier 2026 e apre la preview season di Radiance",
-    "source": "PlayRiftbound.com (ufficiale), \"All Eyes on Los Angeles\"; Eventbrite/UVS Games; TechRaptor ed Escapist Magazine sul quinto set Radiance",
+    "id": "reveal-season-radiance-avviata",
+    "title": "Iniziata ufficialmente la reveal season del Set 5 \"Radiance\"",
+    "source": "PlayRiftbound.com, comunicato \"Radiance Preview Season\"",
     "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Dal 25 al 27 settembre 2026 il Los Angeles Convention Center ospita l'ultima Regional Qualifier dell'anno, organizzata da UVS Games, con 25.000 dollari di montepremi, 6.000 al vincitore e inviti al Regional Championship per il Top 64. Lo stesso weekend segna l'inizio ufficiale della preview season del quinto set, Riftbound: Radiance (180 carte, 66 Showcase, 9 nuovi Legend), il cui lancio globale è fissato per il 23 ottobre 2026 con eventi Pre-Rift dal 16 al 22 ottobre.",
-    "rilevanza": "È l'ultima occasione competitiva del 2026 prima dei Regional Championship e, in contemporanea, il primo appuntamento pubblico per vedere carte nuove di Radiance: rilevante sia per chi insegue il ranking competitivo sia per i collezionisti che vogliono anticipare le prime spoiler ufficiali."
+    "date": "2026-09-21",
+    "brief": "È iniziata la stagione di rivelazioni per il quinto set di Riftbound, \"Radiance\" (180 carte, 66 versioni Showcase, 9 nuovi Leggendari e una nuova rarità Collector). Le anteprime pubbliche in presenza partiranno al Regional Qualifier di Los Angeles (25-27 settembre) e proseguiranno fino al 9 ottobre; il set uscirà il 23 ottobre 2026.",
+    "rilevanza": "Segna l'avvio ufficiale degli spoiler della prossima espansione, punto di riferimento per chi segue le anteprime e pianifica il pre-release."
   },
   {
-    "id": "risultati-rq-shenyang",
-    "title": "Akali prima giocatrice a vincere due Regional Qualifier a Shenyang, Kennen dominante nei numeri ma senza titolo",
-    "source": "riftbound.gg, \"Shenyang Regional Qualifier Results\", evento del 12 settembre 2026",
+    "id": "leggendari-radiance-confermati",
+    "title": "Confermati sei dei nove nuovi Leggendari di Radiance",
+    "source": "TechRaptor (\"Riot Games Previews New Cards for Upcoming Riftbound: Radiance Set\") e tracker spoiler riftbound.gg/radiance",
     "affidabilita": "secondaria",
-    "date": "2026-09-12",
-    "brief": "Alla Regional Qualifier di Shenyang (12 settembre 2026, formato Vendetta), Kennen è stato il Legend più giocato con 118 iscritti (44 più di Irelia, seconda) e ha piazzato 18 giocatori nel Top 64, ma non è riuscito a convertire il vantaggio numerico in un titolo. La finale ha visto Akali battere Irelia, rendendo Akali la prima giocatrice a vincere due Regional Qualifier nel formato Vendetta.",
-    "rilevanza": "Conferma che, nonostante la popolarità schiacciante di Kennen/Chaos nel meta pre-bando, mazzi come Akali restano competitivi ai vertici: un dato utile per chi si prepara ai prossimi tornei dopo il bando del 18 settembre."
+    "date": "2026-09-21",
+    "brief": "Tra i Leggendari confermati per Radiance figurano Seraphine (meccaniche legate ai token esausti), Evelynn (dominio Chaos/viola), Ekko (dominio blu) e Orianna, oltre a Ziggs e Jarvan IV mostrati sulla copertina del set. Restano da svelare tre Leggendari sui nove totali previsti.",
+    "rilevanza": "Fornisce le prime informazioni concrete su meccaniche e domini dei nuovi campioni giocabili in vista del lancio di ottobre."
   },
   {
-    "id": "meta-shift-post-bando-dominio-calm",
-    "title": "Gli analisti prevedono l'ascesa del dominio Calm dopo il bando a Kennen/Chaos",
-    "source": "riftbound.gg, \"Riftbound Metagame Update – Post Ekko, Recurrent and Stacked Deck Ban\"; RiftMana, 18-19 settembre 2026",
+    "id": "reazione-community-ban-list",
+    "title": "La community si divide sul ban di Stacked Deck",
+    "source": "Discussioni su r/riftboundtcg, riportate e commentate da RiftCompare (\"Riftbound's September 2026 Bans: Community Reaction and the Meta Shift Ahead\")",
     "affidabilita": "secondaria",
     "date": "2026-09-19",
-    "brief": "Secondo le prime analisi della community pubblicate subito dopo il bando del 18 settembre, il dominio Calm (con Legend come Master Yi, Irelia, Akali e Azir) è indicato come il principale candidato a colmare il vuoto lasciato dal ridimensionamento di Kennen e dei mazzi Chaos basati su Stacked Deck.",
-    "rilevanza": "Utile a chi deve scegliere il prossimo mazzo competitivo in vista della Regional Qualifier di Los Angeles del 25-27 settembre, l'ultima del 2026 prima dei Regional Championship."
+    "brief": "Dopo l'annuncio dei ban, su r/riftboundtcg il giudizio è diviso: parte della community ritiene che il ban di Stacked Deck rallenti correttamente il mazzo Kennen senza eliminarlo, mentre altri sostengono che colpisca poco Kennen ma indebolisca eccessivamente tutti gli altri mazzi Chaos (viola). Il ban di Ekko, Recurrent è invece accolto più positivamente per aver posto fine a turni \"solitari\" prolungati con poche finestre di interazione.",
+    "rilevanza": "Riflette il sentiment reale dei giocatori competitivi sull'impatto dei ban nel metagame Vendetta, utile per chi sta adattando il proprio mazzo in vista dei prossimi tornei."
   },
   {
-    "id": "risultati-rq-singapore",
-    "title": "Akali sorprende e batte Kennen in finale alla Regional Qualifier di Singapore",
-    "source": "riftbound.gg, \"Singapore Regional Qualifier Results\", evento del 6 settembre 2026",
+    "id": "tier-list-pre-ban-vendetta",
+    "title": "Aggiornato il tier list Vendetta in vista dei ban di Ekko e Stacked Deck",
+    "source": "riftbound.gg, \"Riftbound Meta Tier List - Best Decks for Vendetta - Preparing for the Ekko and Stacked Deck Ban\"",
     "affidabilita": "secondaria",
-    "date": "2026-09-06",
-    "brief": "Alla Regional Qualifier di Singapore del 6 settembre 2026, Kennen ha dominato le fasi svizzere occupando metà degli slot del Top 8, ma in finale è stato sconfitto da Akali, definita dalla copertura community come una minaccia \"in ascesa\" nelle ultime regionali.",
-    "rilevanza": "Insieme al risultato di Shenyang, rafforza il pattern di un Kennen statisticamente dominante ma battibile nelle fasi finali, dato rilevante per chi costruisce il proprio mazzo in vista delle prossime qualificazioni."
+    "date": "2026-09-17",
+    "brief": "Pubblicato un aggiornamento del tier list competitivo di Riftbound per il formato Vendetta, redatto in previsione dell'entrata in vigore (18 settembre) dei ban di Ekko, Recurrent e Stacked Deck, con Kennen segnalato come legend dominante del metagame corrente prima del cambiamento.",
+    "rilevanza": "Aiuta i giocatori competitivi a capire quali mazzi restano forti e quali vengono indeboliti subito prima e dopo l'entrata in vigore dei ban."
   }
 ]

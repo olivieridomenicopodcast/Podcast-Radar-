@@ -1,56 +1,65 @@
 [
   {
-    "id": "tokyo-game-show-2026-apertura",
-    "title": "Il Tokyo Game Show 2026 apre i battenti con record di espositori",
-    "source": "Video Games Chronicle / Simulation Daily, 17-19 settembre 2026",
+    "id": "tgs-2026-ultimo-giorno-cancellato-tifone",
+    "title": "Il Tokyo Game Show 2026 cancella l'ultima giornata per il tifone Dujuan",
+    "source": "Comunicato ufficiale CESA (organizzatore), ripreso da Anime News Network, Kotaku e Notebookcheck, 19 settembre 2026",
     "affidabilita": "primaria",
-    "date": "2026-09-17",
-    "brief": "Il Tokyo Game Show 2026 ha aperto al Makuhari Messe di Chiba il 17 settembre, per la prima volta in formato esteso a cinque giorni (due business day seguiti da tre giorni aperti al pubblico, fino al 21 settembre). Gli organizzatori hanno annunciato 759 espositori da 51 paesi e regioni distribuiti su quasi 4.000 stand, rendendo questa l'edizione più grande di sempre. Sony/PlayStation e Square Enix sono tra i grandi presenti, mentre Nintendo mantiene la consueta assenza dall'area pubblica.",
+    "date": "2026-09-19",
+    "brief": "L'organizzatore CESA ha annunciato la cancellazione dell'intera giornata di lunedì 21 settembre del Tokyo Game Show 2026, prima edizione a cinque giorni della fiera, per l'avvicinarsi del tifone Dujuan. La giornata di domenica 20 settembre si è svolta regolarmente. I biglietti per il 21 settembre saranno rimborsati e alcuni eventi sul palco potrebbero essere trasmessi comunque online.",
     "tipo": "fiera di settore"
   },
   {
-    "id": "physint-bill-skarsgard-protagonista",
-    "title": "Hideo Kojima annuncia Bill Skarsgård come protagonista di PHYSINT",
-    "source": "Kojima Productions (annuncio ufficiale) / Xbox Wire, 17 settembre 2026",
+    "id": "xbox-tgs-2026-kojima-physint-skarsgard",
+    "title": "Xbox al Tokyo Game Show 2026: Kojima annuncia Bill Skarsgård protagonista di Physint",
+    "source": "Xbox Wire (comunicato ufficiale Microsoft), 17 settembre 2026",
     "affidabilita": "primaria",
     "date": "2026-09-17",
-    "brief": "Durante lo showcase Xbox al Tokyo Game Show 2026, Hideo Kojima ha rivelato che l'attore svedese Bill Skarsgård sarà il protagonista di PHYSINT, il nuovo gioco action-spionaggio di Kojima Productions pubblicato da Xbox. Skarsgård si aggiunge al cast già annunciato composto da Charlee Fraser, Don Lee e Minami Hamabe, con un nuovo poster ufficiale rilasciato per l'occasione. Kojima ha inoltre confermato che anche OD sta procedendo grazie al supporto di Xbox.",
+    "brief": "Durante lo showcase Xbox al Tokyo Game Show 2026, Hideo Kojima è intervenuto per aggiornare sullo sviluppo dell'horror OD e ha rivelato che l'attore svedese Bill Skarsgård darà voce e volto al protagonista dello stealth-action Physint. Entrambi i titoli usciranno su Xbox e PC, senza data precisa.",
     "tipo": "annuncio videogioco"
   },
   {
-    "id": "persona-4-revival-nuovo-trailer-tgs",
-    "title": "Persona 4 Revival: nuovo trailer al Tokyo Game Show, uscita confermata a febbraio 2027",
-    "source": "SEGA / RPG Site, 18 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Al Tokyo Game Show 2026 Atlus ha mostrato un nuovo trailer con protagonisti per il remake Persona 4 Revival, basato sui contenuti di Persona 4 Golden. Il gioco uscirà simultaneamente su PS5, Xbox Series X/S e PC il 18 febbraio 2027, con disponibilità dal day one su Xbox Game Pass. La data di lancio era già stata comunicata da SEGA in precedenza, ma il nuovo materiale è stato presentato in occasione della fiera.",
-    "tipo": "annuncio videogioco"
-  },
-  {
-    "id": "monster-hunter-wilds-ascendance-teostra",
-    "title": "Monster Hunter Wilds: Ascendance, torna l'Antico Drago Teostra",
-    "source": "Gematsu / RPG Site, 18 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Capcom ha mostrato al Tokyo Game Show 2026 un trailer esteso della grande espansione Ascendance per Monster Hunter Wilds, in uscita nel 2027, rivelando il ritorno dell'Antico Drago Teostra come mostro cacciabile. L'espansione introduce una nuova regione in quota tra rovine fluttuanti, oltre a novità di gameplay come il Boost Bracer e il cambio equipaggiamento più rapido. Teostra sarà anche protagonista delle demo giocabili in fiera.",
-    "tipo": "annuncio videogioco"
-  },
-  {
-    "id": "koei-tecmo-attack-on-titan-3-wo-long-2",
-    "title": "Koei Tecmo al Tokyo Game Show: Attack on Titan 3 a dicembre, focus su Wo Long 2",
-    "source": "RPG Site / Noisy Pixel, 18-20 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Koei Tecmo ha portato al Tokyo Game Show 2026 la sua line-up con Attack on Titan 3 (Omega Force), Wo Long 2: Wings of Ember, Dynasty Warriors 3 Complete Edition Remastered e Atelier Karia. Attack on Titan 3 è stato confermato per PS5, Switch 2, Xbox Series e PC il 10 dicembre 2026, con uno stage evento dedicato e le doppiatrici Yu Kobayashi e Shiori Mikami. Il fondatore Kou Shibusawa ha inoltre celebrato il 40° anniversario di Romance of the Three Kingdoms, anticipando un progetto ancora non annunciato.",
-    "tipo": "annuncio videogioco"
-  },
-  {
-    "id": "uk-games-expo-mark-cooke-operations",
-    "title": "UK Games Expo: il fondatore di AireCon Mark Cooke nuovo direttore operativo",
-    "source": "Tabletop Sentinel / BoardGameWire, 15 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-15",
-    "brief": "UK Games Expo, una delle maggiori fiere di giochi da tavolo al mondo, ha annunciato che Mark Cooke, fondatore della convention AireCon, entra nello staff come nuovo Operations Director, con un passaggio di consegne graduale. Cooke lavorerà a tempo pieno sulla fiera di Birmingham dopo l'evento finale di AireCon, previsto nel 2027 (Airemageddon, 11-14 marzo 2027). L'annuncio arriva a poche settimane dalla notizia della chiusura definitiva di AireCon.",
+    "id": "pc-gaming-show-tokyo-direct-2026",
+    "title": "PC Gaming Show Tokyo Direct 2026: oltre 35 giochi e 10 anteprime mondiali",
+    "source": "PC Gamer, showcase trasmesso il 20 settembre 2026 nell'ambito del Tokyo Game Show",
+    "affidabilita": "primaria",
+    "date": "2026-09-20",
+    "brief": "Il PC Gaming Show Tokyo Direct 2026, andato in onda il 20 settembre, ha presentato oltre 35 giochi in circa 90 minuti, incluse 10 anteprime mondiali. Tra i titoli mostrati Stronghold 4 di Firefly Studios, novità da Devolver Digital e un aggiornamento su Tenebris Somnia.",
     "tipo": "fiera di settore"
+  },
+  {
+    "id": "lollipop-chainsaw-2-back2back-film",
+    "title": "Dragami Games annuncia Lollipop Chainsaw 2: Back2Back e un film live-action",
+    "source": "Comunicato Dragami Games/SEGA al Tokyo Game Show 2026, ripreso da Gematsu, 17-19 settembre 2026",
+    "affidabilita": "primaria",
+    "date": "2026-09-19",
+    "brief": "Al Tokyo Game Show 2026 Dragami Games ha annunciato il seguito Lollipop Chainsaw 2: Back2Back per PlayStation 5, reso giocabile in demo allo stand SEGA/Atlus, e un film live-action vietato ai minori descritto come prequel del gioco originale, incentrato su Juliet Starling.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "capcom-tgs-2026-monster-hunter-wilds-switch2",
+    "title": "Capcom conferma Monster Hunter Wilds su Nintendo Switch 2 e nuovi remake Resident Evil",
+    "source": "Capcom Spotlight TGS 2026 (comunicato ufficiale Capcom), ripreso da Gematsu e Nintendo Life, 16-17 settembre 2026",
+    "affidabilita": "primaria",
+    "date": "2026-09-17",
+    "brief": "Nell'ambito del Tokyo Game Show 2026, Capcom ha confermato l'arrivo di Monster Hunter Wilds su Nintendo Switch 2 il 4 dicembre 2026, con l'espansione Ascendance prevista nel 2027, oltre a tre remake di Resident Evil in uscita digitale il 16 ottobre 2026 e in versione retail il 29 gennaio 2027.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "lucca-documentario-hbo-max",
+    "title": "\"I Love Lucca Comics & Games\", il documentario sul festival arriva su HBO Max",
+    "source": "Lo Spazio Bianco, SpazioGames, Global Story Telling, 17 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-17",
+    "brief": "Dal 17 settembre è disponibile in esclusiva su HBO Max \"I Love Lucca Comics & Games\", documentario diretto da Manlio Castagna che racconta la storia e la community della manifestazione lucchese in vista del 60° anniversario. Tra i protagonisti Gabriele Mainetti, R.L. Stine e Yoshitaka Amano. La prossima edizione, a tema \"Legacy\", si terrà dal 28 ottobre al 1° novembre 2026.",
+    "tipo": "fiera di settore"
+  },
+  {
+    "id": "asmodee-italia-novita-settembre-2026",
+    "title": "Asmodee Italia svela le novità di settembre 2026 per i giochi da tavolo",
+    "source": "CorriereNerd.it, articolo pubblicato il 18 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "Asmodee Italia ha pubblicato il calendario delle uscite di settembre 2026, che comprende titoli come Ticket to Ride, Dobble Connect Power Up (in uscita il 25 settembre), Black Orchestra, Marvel Champions e Unlock!, spaziando tra party game, classici ripensati ed espansioni strategiche.",
+    "tipo": "gioco da tavolo"
   }
 ]
