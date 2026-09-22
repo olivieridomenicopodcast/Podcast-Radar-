@@ -1,47 +1,56 @@
 [
   {
-    "id": "romics-2026-zerocalcare-dialogo-aperto",
-    "title": "Romics 2026: Zerocalcare torna protagonista di un dialogo aperto il 2 ottobre",
-    "source": "Askanews, Il Tempo, Il Sole 24 Ore, Il Quotidiano del Sud, IlFaroOnline, Sportpress24 (17-18 settembre 2026)",
+    "id": "aci-comics-games-2026-favij-lollolacustre",
+    "title": "Favij e LolloLacustre ospiti ad Aci Comics & Games 2026 ad Acireale",
+    "source": "MCTV (14/09/2026), La Sicilia, Free Press Online (14 e 18/09/2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "In vista della 37ª edizione di Romics (Fiera di Roma, 1-4 ottobre 2026), gli organizzatori hanno annunciato che Zerocalcare sarà protagonista di un dialogo aperto venerdì 2 ottobre alle 17:30, condotto dal giornalista Riccardo Corbò. Tra gli altri ospiti anche il regista Takeshi Koike (Lupin III) e i Romics d'Oro a Max Bunker, Paola Barbato, Sir Ian Livingstone e Simone Legno.",
-    "rilevanza": "Zerocalcare è uno dei fumettisti/creator italiani più seguiti e il suo ritorno su un grande palco di settore mobilita la community fumettistica e nerd nazionale."
+    "date": "2026-09-20",
+    "brief": "La quarta edizione di Aci Comics & Games si è tenuta dal 18 al 20 settembre 2026 al PalaVolcan di Acireale, con Lorenzo Ostuni (Favij) e LolloLacustre tra gli ospiti principali insieme a Taryn Cosplay; per LolloLacustre si è trattato del debutto in un evento in Sicilia. Il festival ha cambiato sede rispetto alle edizioni precedenti, spostandosi da Villa Belvedere a spazi più ampi, con aree fumetti/manga, gaming, giochi da tavolo, tornei e cosplay.",
+    "rilevanza": "Conferma la crescente presenza di creator gaming e streaming italiani di primo piano nei festival pop regionali, segno della diffusione della cultura nerd anche fuori dai grandi eventi nazionali."
   },
   {
-    "id": "milan-games-week-cartoomics-2026-ospiti-hollywoodiani",
-    "title": "Milan Games Week & Cartoomics 2026: annunciati ospiti da One Piece e GTA V",
-    "source": "Il Fatto Quotidiano, AdnKronos, Key4Biz, Radio 105 (18 settembre 2026)",
+    "id": "wondercon-italia-2026-angri",
+    "title": "Wondercon Italia 2026 ad Angri riunisce streamer, cosplayer e content creator",
+    "source": "CorriereNerd.it, Nerdando, PopcorNerd (settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Per l'edizione 2026 dell'evento (27-29 novembre, Fiera Milano Rho) sono stati annunciati tra gli ospiti Emily Rudd e Taz Skylar (Nami e Sanji nel live-action Netflix di One Piece) e Steven Ogg (voce e volto di Trevor Philips in GTA V), oltre a fumettisti come Mark Waid e John Romita Jr.",
-    "rilevanza": "È uno dei principali eventi italiani che uniscono videogiochi, fumetti e cultura pop; gli annunci generano forte interesse e copertura tra i creator italiani del settore gaming e comics."
+    "date": "2026-09-20",
+    "brief": "Dal 18 al 20 settembre 2026 il Castello Doria di Angri ha ospitato la terza edizione di Wondercon Italia, fiera dedicata a fumetti, manga, cosplay, doppiaggio, K-pop e videogiochi. Il programma ha coinvolto streamer, cosplayer, content creator e influencer italiani, oltre a ospiti internazionali come l'idol Yuffie Sakimura e il martial artist Yousuke Aikawa.",
+    "rilevanza": "Mostra come i festival pop italiani stiano diventando piattaforme stabili di incontro tra pubblico e content creator dell'area nerd/gaming, ampliando l'offerta oltre le fiere storiche."
   },
   {
-    "id": "dario-moccia-matioski-clayface-vietato-minori",
-    "title": "Dario Moccia al Matioski Show discute del divieto ai minori per il film Clayface",
-    "source": "Canale YouTube Matioski, clip \"Matioski Clip\" (17 settembre 2026)",
+    "id": "to-play-2026-torino-gioco-da-tavolo",
+    "title": "TO Play 2026 a Torino: nona edizione del festival del gioco di ruolo e da tavolo",
+    "source": "Comune di Torino - Eventi (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-20",
+    "brief": "Il 19 e 20 settembre 2026 Parco Dora a Torino ha ospitato la nona edizione di TO Play, festival dedicato al gioco di ruolo e da tavolo con oltre 200 tavoli di gioco e più di 50 associazioni ludiche coinvolte, a ingresso gratuito.",
+    "rilevanza": "Uno dei principali eventi italiani dedicati alla community dei giochi da tavolo e di ruolo, punto di riferimento per appassionati e associazioni ludiche del territorio."
+  },
+  {
+    "id": "pig-passa-il-gioco-monza-2026",
+    "title": "PiG - Passa il Gioco a Monza: evento sui giochi da tavolo tra scambio e sostenibilità",
+    "source": "Sito ufficiale passailgioco.it (settembre 2026)",
+    "affidabilita": "segnale_debole",
+    "date": "2026-09-20",
+    "brief": "Domenica 20 settembre 2026, dalle 10 alle 22, il Parco di Monza ha ospitato PiG - Passa il Gioco, evento dedicato ai giochi da tavolo con tavoli condivisi e un'impostazione basata su scambio, sostenibilità e comunità.",
+    "rilevanza": "Esempio di evento locale ma sempre più strutturato dedicato alla community dei giochi da tavolo, con un taglio legato all'economia circolare che sta guadagnando attenzione tra gli appassionati."
+  },
+  {
+    "id": "tokyo-game-show-2026-industria-italiana",
+    "title": "L'industria italiana dei videogiochi al Tokyo Game Show 2026",
+    "source": "Dalla Platea, Nonsolocalcio (18/09/2026); Everyeye.it",
+    "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "Il Tokyo Game Show 2026 si è svolto dal 17 al 21 settembre al Makuhari Messe di Chiba, con un padiglione nazionale coordinato dall'Ufficio ICE di Tokyo che ha ospitato undici studi italiani di sviluppo. L'evento è stato seguito in streaming su otto piattaforme, tra cui YouTube e Twitch, principali canali di riferimento per il pubblico italiano.",
+    "rilevanza": "La presenza di studi italiani a una delle fiere videoludiche più importanti al mondo, seguita anche da creator e testate italiane in diretta, alimenta la copertura mediatica del settore gaming nostrano."
+  },
+  {
+    "id": "dario-moccia-matioski-show-clayface",
+    "title": "Dario Moccia ospite del Matioski Show per parlare del film Clayface",
+    "source": "Canale YouTube Matioski Show/Matioski Clip (17/09/2026)",
     "affidabilita": "primaria",
     "date": "2026-09-17",
-    "brief": "Nel video \"Clayface Sarà Un Film Vietato Ai Minori! Ne Parliamo Con Dario Moccia!\", pubblicato sul canale YouTube di Matioski, il divulgatore Dario Moccia commenta insieme a Matioski, il Rinoceronte e Mr. Rob la scelta del rating vietato ai minori per il film DC dedicato a Clayface.",
-    "rilevanza": "Contenuto di collaborazione tra due dei creator pop culture/nerd più seguiti in Italia, che alimenta il dibattito della community sui rating dei cinecomic."
-  },
-  {
-    "id": "aci-comics-games-2026-favij-palavolcan",
-    "title": "Aci Comics & Games 2026: Favij inaugura la nuova edizione al PalaVolcan di Acireale",
-    "source": "Free Press Online, Mondo Japan, MCTV, La Sicilia, La Voce dell'Jonio (18 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "La quarta edizione di Aci Comics & Games (18-20 settembre 2026) si è trasferita al PalaVolcan di Acireale e ha aperto con il taglio del nastro alle 11:30 di venerdì 18, alla presenza dello youtuber gaming Favij (Lorenzo Ostuni). Tra gli altri ospiti anche LolloLacustre, al debutto in Sicilia, e la cosplayer Taryn.",
-    "rilevanza": "Favij è uno degli youtuber italiani di videogiochi più noti e seguiti; la sua presenza a un festival regionale di fumetti e gaming mostra la sua continua attività di apparizioni pubbliche nella community nerd."
-  },
-  {
-    "id": "treviso-play-2026-giochi-ruolo-tavolo",
-    "title": "Treviso Play 2026: due giorni di giochi di ruolo e da tavolo al Parco dei Moreri",
-    "source": "TrevisoToday (19 settembre 2026)",
-    "affidabilita": "segnale_debole",
-    "date": "2026-09-19",
-    "brief": "L'associazione Loggia degli Irrealisti APS organizza la quinta edizione di Treviso Play il 19 e 20 settembre 2026 a Silea (TV), con giochi di ruolo, giochi da tavolo, LARP, un multitavolo di Dungeons & Dragons, un torneo di Vampire: The Eternal Struggle e una sfida a tema Pokémon; ingresso gratuito.",
-    "rilevanza": "Evento locale ma rappresentativo della vivace scena amatoriale italiana di giochi da tavolo e di ruolo, un segmento chiave del pubblico nerd monitorato dal radar."
+    "brief": "Nella puntata del 17 settembre 2026 del Matioski Show, Dario Moccia è stato ospite per discutere della classificazione 'vietato ai minori' del film Clayface e di altri temi cinematografici come Avengers Endgame Extra; dalla puntata sono stati pubblicati anche contenuti in formato clip sul canale collegato.",
+    "rilevanza": "Il format di dialogo tra Matioski e Dario Moccia, tra i creator italiani più seguiti nell'ambito pop/gaming, continua a essere un punto di riferimento per il commento a caldo di notizie di cinema e cultura pop in Italia."
   }
 ]

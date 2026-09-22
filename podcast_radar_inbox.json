@@ -1,79 +1,116 @@
 [
   {
     "id": "spotify-partner-program-italia",
-    "title": "Spotify apre il Partner Program per i podcast a 35 nuovi paesi, inclusa l'Italia",
-    "source": "Spotify Newsroom, \"The Spotify Partner Program Expands to More Than 35 New Markets\" (17/09/2026); ripreso da TechCrunch, PodcastingToday, NetInfluencer e PodcastNewsDaily (17-18/09/2026)",
+    "title": "Spotify apre il Partner Program (monetizzazione) anche all'Italia",
+    "source": "Spotify Newsroom, \"The Spotify Partner Program Expands to More Than 35 New Markets\" (17/09/2026)",
     "affidabilita": "primaria",
     "target": 8,
     "date": "2026-09-17",
-    "brief": "Spotify ha annunciato l'espansione del suo Partner Program per i podcast a oltre 35 nuovi mercati, tra cui per la prima volta l'Italia, la Spagna e gran parte dell'America Latina. I creator idonei (almeno 3 episodi pubblicati, 2.000 ore di consumo e 1.000 ascoltatori coinvolti negli ultimi 30 giorni) potranno monetizzare sia gli episodi audio sia quelli video. Spotify segnala inoltre che il consumo di video podcast sulla piattaforma è cresciuto del 140% dal lancio della funzione nel 2022.",
-    "angles": ["Come funziona davvero il Partner Program di Spotify e chi può accedervi ora dall'Italia", "Perché conviene iniziare a registrare anche in video fin dal primo episodio", "Requisiti minimi per monetizzare: cosa serve prima ancora di pensare ai guadagni"],
-    "hooks": ["Hai un podcast con quattro gatti che lo ascoltano e già sogni il primo assegno da Spotify?", "Sei convinto che i soldi veri dai podcast li facciano solo gli americani?", "Stai ancora registrando solo audio? Da oggi chi ha anche il video guadagna di più."]
+    "brief": "Il 17 settembre 2026 Spotify ha annunciato l'espansione del Partner Program, il programma che permette ai creator di monetizzare direttamente sulla piattaforma, a oltre 35 nuovi mercati tra cui Italia, Spagna, Brasile, Messico e Colombia. Il rollout è graduale durante l'autunno 2026, quindi non tutti gli account idonei lo vedranno attivo subito.",
+    "angles": [
+      "Cosa serve davvero per essere eleggibili al Partner Program appena arriva in Italia",
+      "Monetizzazione su Spotify: cosa cambia rispetto a prima per i creator italiani",
+      "Checklist pratica: dove controllare nell'account se il programma si è già attivato"
+    ],
+    "hooks": [
+      "Hai un podcast e ti sei rassegnato a non guadagnarci niente su Spotify? Rassegnati un po' meno.",
+      "Se fai podcast in Italia e pensavi che la monetizzazione fosse roba solo per gli americani, ripensaci.",
+      "Controlla oggi le impostazioni del tuo account Spotify: potrebbe essere arrivato quello che aspettavi da anni."
+    ]
   },
   {
-    "id": "audacity-4-major-update",
-    "title": "Audacity 4.0: il più grande aggiornamento nella storia del programma di editing audio gratuito",
-    "source": "PCWorld, \"Audacity 4 is getting a major facelift and numerous improvements\"; corroborato da Engadget, Neowin, 9to5Linux, Phoronix e Bedroom Producers Blog (rilascio versione 4.0.0 il 03/09/2026)",
+    "id": "youtube-engaged-views-podcast",
+    "title": "YouTube cambia il conteggio delle visualizzazioni: le view dei video-podcast sono gonfiate del 36%",
+    "source": "Podtrac, analisi \"Podtrac's initial analysis of YouTube Engaged Views\" (02-03/09/2026); ripreso da Podnews (\"Podtrac Reports Podcast Engaged Views vs Views on YouTube\"), ppc.land, Inside Radio e Barrett Media",
     "affidabilita": "secondaria",
-    "target": 9,
+    "target": 8,
     "date": "2026-09-03",
-    "brief": "Audacity ha rilasciato la versione 4.0.0 il 3 settembre 2026, descritta da più testate come il più grande aggiornamento nei 25 anni di storia del software. Introduce un'interfaccia basata su Qt6 con temi chiaro/scuro e supporto HiDPI nativo, un nuovo formato di progetto (.aup4) e un modello di editing delle clip completamente rinnovato (clip sovrapponibili e raggruppabili, nuovo strumento Split). Resta gratuito e i vecchi progetti Audacity 3 restano intatti perché l'apertura ne crea automaticamente una copia.",
-    "angles": ["Perché Audacity resta il miglior punto di partenza gratuito per chi inizia a editare podcast", "Cosa cambia davvero nel montaggio quotidiano con il nuovo sistema di clip", "Software gratis vs a pagamento: quando ha senso passare a qualcosa di professionale"],
-    "hooks": ["Hai imparato a editare su Audacity anni fa e non hai più aggiornato niente da allora?", "Se il tuo editor audio ti sembra uscito dagli anni 2000, forse aveva ragione.", "Stai ancora tagliando le clip una alla volta come un animale?"]
+    "brief": "Dal 24 agosto 2026 YouTube conta una \"view\" da primo fotogramma per short, video lunghi, live e podcast, mentre la vecchia metrica di attenzione è stata rinominata \"engaged view\" e resta visibile solo su YouTube Analytics/API. L'analisi di Podtrac, pubblicata il 3 settembre 2026 su 84,2 milioni di view raccolte tra il 27 e il 28 agosto sui canali podcast, mostra che le engaged view valgono in media solo il 64% delle view totali: il 36% delle visualizzazioni contate non è engagement reale. Podtrac userà da ora le engaged view per le proprie classifiche podcast su YouTube.",
+    "angles": [
+      "Perché i tuoi numeri su YouTube sembrano più alti ma non significano più la stessa cosa",
+      "Come leggere davvero le statistiche del tuo video-podcast ora che view ed engagement sono due dati diversi",
+      "Cosa guardare in Analytics per capire se il pubblico resta davvero (non è la view count pubblica)"
+    ],
+    "hooks": [
+      "Hai controllato le view del tuo video-podcast su YouTube e ti sei sentito un fenomeno? Forse un po' meno di quanto pensi.",
+      "Se pubblichi il podcast anche in video su YouTube, i tuoi numeri sono appena diventati un filo bugiardi.",
+      "Stai ancora vantandoti delle view su YouTube senza sapere cosa significano adesso davvero? Occhio."
+    ]
   },
   {
-    "id": "descript-captions-ai-music",
-    "title": "Descript aggiunge sottotitoli animati e musica/effetti sonori generati dall'AI",
-    "source": "Descript, changelog ufficiale (feedback.descript.com/Canny), aggiornamento di metà settembre 2026",
+    "id": "blubrry-video-audio-unificato-apple",
+    "title": "Blubrry porta la pubblicazione unificata video+audio su Apple Podcasts",
+    "source": "Blubrry Podcasting / PRNewswire, \"Blubrry Brings Unified Video and Audio Podcast Publishing to Apple Podcasts\" (02/09/2026); ripreso da Podnews",
+    "affidabilita": "primaria",
+    "target": 7,
+    "date": "2026-09-02",
+    "brief": "Blubrry ha annunciato il 2 settembre 2026 una nuova integrazione con Apple Podcasts Connect: caricando un solo episodio video in MP4 su Blubrry Publisher, la piattaforma genera automaticamente una versione HLS 1080p per il video e una versione MP3 per l'audio, distribuite tramite un unico feed RSS. Su Apple Podcasts gli ascoltatori possono passare da audio a video con un tap, senza che il creator debba gestire due file separati.",
+    "angles": [
+      "Un solo upload, due formati: cosa cambia nel flusso di pubblicazione per chi fa video-podcast",
+      "Vale la pena registrare in video anche se la maggior parte del tuo pubblico ascolta e basta?",
+      "HLS spiegato semplice: cosa significa davvero per chi pubblica il podcast"
+    ],
+    "hooks": [
+      "Sei stufo di caricare due volte lo stesso episodio, uno per l'audio e uno per il video? C'è una scorciatoia nuova.",
+      "Se fai video-podcast e passi ore a duplicare file, qualcuno ti ha appena tolto un pezzo di lavoro.",
+      "Hai mai sognato di caricare un solo file e vederlo diventare audio e video da solo? Si può, quasi."
+    ]
+  },
+  {
+    "id": "italian-podcast-awards-2026-piacenza",
+    "title": "Italian Podcast Awards: il 23 settembre 2026 Piacenza premia il podcast italiano",
+    "source": "IlPiacenza.it, \"Italian Podcast Awards, il 23 settembre Piacenza ospita la quinta edizione\" (settembre 2026); corroborato da PiacenzaSera.it, Askanews, Libertà.it e Comune di Piacenza (luglio-settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-09-23",
+    "brief": "Il 23 settembre 2026 in piazza Cavalli a Piacenza si tiene la quinta edizione di IlPod - Italian Podcast Awards, evento pubblico e gratuito dalle ore 21:00, condotto da Rossella Pivanti (direttrice di IlPod) e Maura Gancitano. Vengono assegnati il premio Podcast dell'Anno, Podcast Indie dell'Anno, il Premio Academy (legato alla Piacenza Podcast Academy) e il nuovo Premio Storia Podcast 2026. Apre la serata una puntata live di \"Scanner\", il podcast di informazione di Valerio Nicolosi per Fanpage.it.",
+    "angles": [
+      "Cosa premiano davvero gli Italian Podcast Awards e perché vale la pena guardare la cinquina indie",
+      "Cosa dice questo evento sullo stato di salute del podcasting italiano nel 2026",
+      "Idee di formato prese dai finalisti indie, non solo dai big"
+    ],
+    "hooks": [
+      "Pensavi che il podcasting italiano fosse solo tre nomi che senti sempre? Il 23 settembre a Piacenza ti smentiscono.",
+      "Se fai un podcast indie e ti senti invisibile, in piazza Cavalli c'è un premio con il tuo nome sopra.",
+      "Vuoi sapere cosa premia davvero la scena podcast italiana quest'anno? Non è quello che pensi."
+    ]
+  },
+  {
+    "id": "descript-changelog-settembre-2026",
+    "title": "Descript aggiorna sottotitoli animati, musica/SFX generati dall'AI e i metodi di pagamento",
+    "source": "Descript, Changelog ufficiale (Canny), voci aggiornate al 17/09/2026",
     "affidabilita": "primaria",
     "target": 7,
     "date": "2026-09-17",
-    "brief": "Descript ha rilasciato un pacchetto di nuove funzioni che include preset e animazioni per i sottotitoli (utilizzabili anche su qualsiasi livello di testo), la generazione automatica di musica di sottofondo ed effetti sonori tramite AI su richiesta, e nuovi metodi di pagamento come Apple Pay e Cash App. L'aggiornamento fa parte di un rilascio più ampio che comprende circa trenta modifiche minori.",
-    "angles": ["Musica ed effetti sonori generati dall'AI: quanto possono davvero sostituire una libreria audio a pagamento", "Sottotitoli animati: perché oggi sono lo standard minimo per chi pubblica clip social", "Cosa cambia nel workflow se il software inizia a comporre la colonna sonora al posto tuo"],
-    "hooks": ["Hai passato ore a cercare la musichetta di sottofondo giusta senza copyright su YouTube?", "Passi ancora ore a sincronizzare i sottotitoli a mano? Non serve più, ma capiamo l'affetto.", "Pensavi che il sound design fosse un lavoro solo tuo? L'AI la pensa diversamente."]
+    "brief": "Il changelog ufficiale di Descript, aggiornato al 17 settembre 2026, segna nuove funzioni tra cui sottotitoli con preset e animazioni pronte all'uso, generazione AI di musica di sottofondo ed effetti sonori direttamente dentro l'editor, oltre a nuovi metodi di pagamento come Apple Pay e Cash App.",
+    "angles": [
+      "Sottotitoli animati pronti in un click: quanto tempo risparmi davvero in fase di montaggio",
+      "Musica ed effetti sonori generati dall'AI: quando ti salvano e quando restano finti",
+      "Piccola guida alle ultime aggiunte di Descript per chi monta un episodio a settimana"
+    ],
+    "hooks": [
+      "Passi ancora ore ad animare i sottotitoli a mano clip per clip? Descript ti ha appena tolto il lavoro peggiore.",
+      "Se non hai un compositore e ti serve una musichetta decente per l'intro, ora te la tira fuori l'AI dentro l'editor.",
+      "Stai ancora litigando con la carta di credito per pagare un abbonamento software? Anche i pagamenti si sono aggiornati."
+    ]
   },
   {
-    "id": "festival-podcasting-2026-milano",
-    "title": "Il Festival del Podcasting compie dieci anni: si parte il 21 settembre, gran finale a Milano il 2-3 ottobre",
-    "source": "ANSA, \"Il Festival del Podcasting compie dieci anni e torna il 2 e 3 ottobre a Milano\" (21/07/2026); corroborato da Il Sole 24 Ore, Media Key e ItaliaOggi (luglio-settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 7,
-    "date": "2026-09-21",
-    "brief": "Il Festival del Podcasting, il più longevo evento italiano dedicato al settore, festeggia la decima edizione con un tour di tappe locali in diverse città italiane a partire dal 21 settembre 2026, per concludersi il 2-3 ottobre a Cascina Triulza (area Mind, Milano). Tra le novità: una giornata interamente dedicata all'industria, workshop, il Podcast Pitch e i premi Audioboost (miglior branded podcast) e Pod24 (miglior podcast indipendente d'inchiesta, promosso da 24Ore Podcast).",
-    "angles": ["Cosa imparare davvero partecipando a un evento di settore quando sei ancora principiante", "Come sfruttare workshop e networking se il tuo podcast è appena nato", "Cosa dicono i premi Pod24 e Audioboost sullo stato del mercato italiano"],
-    "hooks": ["Hai un podcast e non sei mai andato a un evento di settore per vergogna?", "Pensi che i festival di podcasting servano solo a chi ha già successo?", "Se abiti vicino a una tappa del festival e non ci vai, poi non lamentarti che nessuno ti ascolta."]
-  },
-  {
-    "id": "raiplay-sound-original-violante",
-    "title": "RaiPlay Sound lancia un nuovo podcast Original in sette episodi scritto da Luciano Violante",
-    "source": "Daniele Mignardi, danielemignardi.it (09/09/2026); corroborato da Megamodo, FM-World e Gaeta.it (settembre 2026)",
+    "id": "raiplay-sound-nuova-stagione-original",
+    "title": "Rai lancia la nuova stagione di podcast Original su RaiPlay Sound",
+    "source": "Fattitaliani.it, \"'Secondo Ascolto': dal 14 settembre Greco e Migliaccio...\" (14/09/2026); Daniele Mignardi, \"'Italia: le ferite e il coraggio': dal 9 settembre...\" (09/09/2026); contesto dalla nuova stagione Rai Radio 2026/2027 \"Rai c'è\" (Radiospeaker.it)",
     "affidabilita": "secondaria",
     "target": 5,
     "date": "2026-09-09",
-    "brief": "Dal 9 settembre 2026 è disponibile in esclusiva su RaiPlay Sound \"Italia: le ferite e il coraggio\", podcast Original in sette episodi scritto e narrato da Luciano Violante con Gianfranco Zinzilli, curato editorialmente da Andrea Borgnino. Il podcast ripercorre fratture storiche del paese (razzismo, criminalità organizzata, terrorismo, nascita della Costituzione, corruzione) fino al coraggio quotidiano di chi ha difeso lo stato di diritto.",
-    "angles": ["Cosa dice questa scelta sulla strategia di RaiPlay Sound (grandi firme, non solo creator digitali)", "Il podcast storico-narrativo come format che funziona anche fuori dalla cronaca quotidiana", "Il ruolo, spesso invisibile, della cura editoriale in un podcast narrativo ambizioso"],
-    "hooks": ["Pensi che per fare un podcast serva solo un microfono e una bella voce?", "Se credi che i podcast Rai siano tutti uguali, forse non hai ancora sentito questo formato.", "Hai mai pensato a quante persone lavorano dietro un podcast che sembra 'solo' una voce che racconta?"]
-  },
-  {
-    "id": "italiani-ascolto-podcast-36percento",
-    "title": "Il 36% degli italiani ascolta podcast, in crescita di 6 punti rispetto al 2022",
-    "source": "ANSA, \"Il 36% degli italiani ascolta podcast, fenomeno in crescita\" (13/03/2026), dati Osservatorio Impresa Cultura Italia-Confcommercio realizzati con SWG (rilevazione dicembre 2025)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-03-13",
-    "brief": "Secondo l'Osservatorio Impresa Cultura Italia-Confcommercio, realizzato con SWG a dicembre 2025, il 36% degli italiani ascolta podcast: dato in leggera crescita rispetto al 2024 e in aumento di 6 punti rispetto al 2022. La fruizione resta prevalentemente gratuita. Tra i generi più seguiti restano attualità, true crime, interviste e rassegne stampa, con una crescita di format più narrativi.",
-    "angles": ["Un italiano su tre ascolta podcast: cosa significa davvero per chi vuole iniziare ora", "True crime e attualità dominano ancora: le nicchie scoperte per chi parte da zero", "Fruizione gratuita: perché la monetizzazione in Italia resta più difficile che negli USA"],
-    "hooks": ["Pensi che in Italia nessuno ascolti podcast? Un terzo del paese ti smentisce.", "Se il tuo podcast non decolla, forse non è colpa del mercato italiano.", "Hai scelto true crime perché 'va di moda'? Sei in ottima e affollatissima compagnia."]
-  },
-  {
-    "id": "video-verticale-podcast-trend",
-    "title": "Podcast in formato verticale: crescono le repliche da mobile, secondo un report di settore",
-    "source": "Zebracat, \"100+ Video Podcast Growth Statistics for 2026\" (12/06/2026) — segnale singolo, dati di settore non ancora incrociati con fonti indipendenti",
-    "affidabilita": "segnale_debole",
-    "target": 6,
-    "date": "2026-06-12",
-    "brief": "Un report di settore (Zebracat) riporta che i podcast ottimizzati per il formato verticale registrerebbero il 39% di repliche mobili in più, e i creator che adattano gli episodi a una visione vertical-first vedrebbero un aumento del 44% nel tempo di visione da mobile. Il dato viene da un unico blog di settore e non è stato verificato da fonti indipendenti, ma conferma una tendenza già visibile: episodio completo in orizzontale, clip verticali per la scoperta su TikTok/Reels/Shorts.",
-    "angles": ["Perché conviene comunque tagliare clip verticali anche se il podcast è pensato per l'ascolto lungo", "Orizzontale per l'episodio, verticale per la scoperta: come organizzare il workflow di montaggio", "Quanto fidarsi dei numeri sparati dai blog di settore prima di cambiare tutto il formato"],
-    "hooks": ["Registri sempre in orizzontale e ti chiedi perché le clip non girano sui social?", "Se pensi che il verticale sia solo una moda da TikTok, i numeri (con le pinze) dicono altro.", "Hai un episodio da un'ora e zero clip tagliate? Su TikTok non lo scoprirà mai nessuno."]
+    "brief": "RaiPlay Sound ha aperto la nuova stagione 2026/2027 \"Rai c'è\" con due podcast Original: dal 9 settembre \"Italia: le ferite e il coraggio\" di Luciano Violante, sulle stragi e sul coraggio civile nella storia italiana, e dal 14 settembre \"Secondo Ascolto\" di Alessandro Greco e Alessandro Migliaccio, dedicato ai significati nascosti delle canzoni italiane. La stagione segna un investimento crescente della Rai su podcast, on-demand e innovazione tecnologica.",
+    "angles": [
+      "Cosa impara un podcaster indie guardando come la Rai struttura un podcast Original",
+      "Voce e autorialità: cosa si può rubare al podcast di Violante per il proprio storytelling",
+      "Perché anche il servizio pubblico sta investendo sempre di più nel podcast originale"
+    ],
+    "hooks": [
+      "Pensi che per fare un podcast 'serio' serva la Rai alle spalle? Guarda cosa fanno davvero i loro Original.",
+      "Se cerchi ispirazione per raccontare storie vere senza sembrare un documentario noioso, guarda cosa ha fatto Violante.",
+      "Ti sembra che il servizio pubblico non investa nel podcast? Da settembre ha lanciato altri due show."
+    ]
   }
 ]

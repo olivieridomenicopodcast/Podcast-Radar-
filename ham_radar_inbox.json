@@ -1,58 +1,58 @@
 [
   {
-    "id": "watch-g1-cancellato-buco-coronale",
-    "title": "Allerta di tempesta geomagnetica G1 annullata dopo il flusso da buco coronale",
-    "source": "earthsky.org (dati NOAA SWPC), aggiornamento del 17-19 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-17",
-    "brief": "NOAA SWPC aveva emesso un'allerta per una tempesta geomagnetica minore G1 legata a un flusso di vento solare veloce proveniente da un buco coronale, attesa tra il 15 e il 16 settembre con possibile prosecuzione fino al 17 settembre 2026. La tempesta prevista non si è materializzata (o è arrivata in ritardo) e l'allerta G1 è stata annullata da NOAA. L'attività solare resta su livelli bassi, con condizioni HF relativamente stabili in questi giorni."
+    "id": "buco-coronale-hf-propagazione",
+    "title": "Doppio buco coronale: vento solare in arrivo, possibile tempesta G1 dal 23 settembre",
+    "source": "NOAA SWPC / SpaceWeather.com, 20-21 settembre 2026",
+    "affidabilita": "primaria",
+    "date": "2026-09-21",
+    "brief": "Due buchi coronali affacciati verso la Terra alimentano flussi successivi di vento solare ad alta velocità (oltre 350 miglia/s). NOAA SWPC prevede condizioni da calme a instabili per il 21-22 settembre, con probabile intervallo attivo (Kp4) e possibile tempesta geomagnetica minore G1 (Kp5) dal 23 settembre, con attesa una debole-moderata degradazione delle comunicazioni HF sul lato diurno."
   },
   {
-    "id": "ri1fjz-terra-francesco-giuseppe-cw",
-    "title": "La spedizione RI1FJZ avvia le attività in CW da Terra di Francesco Giuseppe",
-    "source": "DX-World.net, 18 settembre 2026",
+    "id": "ri1fjz-franz-josef-land",
+    "title": "DXpedition RI1FJZ attiva dalla Terra di Francesco Giuseppe fino al 25 settembre",
+    "source": "DX-World.net, settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "La DXpedition RI1FJZ, attiva dall'arcipelago artico russo di Terra di Francesco Giuseppe dal 9 al 25 settembre 2026, ha iniziato il 18 settembre le operazioni in CW su 40, 30 e 17 metri. L'operazione impiega fino a 7 postazioni radio con amplificatori (2 CW/SSB, 5 digitali) e prevede anche attività EME, satelliti LEO e QO-100."
+    "date": "2026-09-09",
+    "brief": "Il team guidato da Vasily RA1ZZ e Vladimir R9LR opera come RI1FJZ dall'Isola Alexandra (Terra di Francesco Giuseppe, Artico russo) dal 9 al 25 settembre 2026, con 7 postazioni radio (CW/SSB/digitali) su 160-10m, oltre ad attività EME, satellite LEO e QO-100."
   },
   {
-    "id": "pj2-k5sl-curacao-vacanza",
-    "title": "Randy K5SL attivo in stile vacanza da Curaçao come PJ2/K5SL",
-    "source": "DX-World.net, 18 settembre 2026",
+    "id": "kh8ww-samoa-americane",
+    "title": "KH8WW in onda da Aunu'u, Samoa Americane, fino al 24 settembre",
+    "source": "DX-World.net, settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "L'operatore statunitense Randy, K5SL, ha iniziato il 18 settembre 2026 un'attivazione in stile vacanza dall'isola caraibica di Curaçao con il nominativo PJ2/K5SL, in programma fino al 26 settembre. L'operazione offre un'occasione DX relativamente accessibile verso i Caraibi olandesi."
+    "date": "2026-09-10",
+    "brief": "Yuris YL2GM ed Eugene EA5EL operano come KH8WW dall'isola di Aunu'u (Samoa Americane, KH8/S) dal 10 al 24 settembre 2026, entità DXCC/IOTA rara e molto richiesta dai cacciatori di diplomi."
   },
   {
-    "id": "arrl-10ghz-and-up-round2",
-    "title": "Al via il secondo turno del contest ARRL \"10 GHz and Up\"",
-    "source": "ARRL Contest Calendar, 19 settembre 2026",
+    "id": "v47-saint-kitts-doppia-attivazione",
+    "title": "Doppia attivazione da Saint Kitts: V47YA e V47RCX fino a fine settembre",
+    "source": "DX-World.net, settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-09",
+    "brief": "Tom K0YA (nominativo V47YA) e Toni W5RCX (nominativo V47RCX) sono attivi dai Caraibi, da Saint Kitts, dal 9 al 30 settembre 2026, con operazioni multi-banda in CW, SSB e digitale."
+  },
+  {
+    "id": "sac-cw-2026-concluso",
+    "title": "Concluso lo Scandinavian Activity Contest CW 2026",
+    "source": "SAC - Scandinavian Activity Contest (sactest.net), settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-20",
+    "brief": "La sezione CW dello Scandinavian Activity Contest si è svolta dalle 1200Z del 19 settembre alle 1200Z del 20 settembre 2026; la sezione SSB dello stesso contest seguirà il 10-11 ottobre 2026."
+  },
+  {
+    "id": "arrl-10ghz-and-up-settembre",
+    "title": "Secondo round dell'ARRL 10 GHz and Up Contest nel weekend del 19-21 settembre",
+    "source": "ARRL Contest Calendar (contests.arrl.org), settembre 2026",
     "affidabilita": "primaria",
     "date": "2026-09-19",
-    "brief": "Il secondo round del contest ARRL \"10 GHz and Up\" si svolge dalle 0900 UTC del 19 settembre alle 0759 UTC del 21 settembre 2026. Coinvolge operatori nordamericani impegnati a contattare il maggior numero di stazioni in località diverse su bande dai 10 GHz fino alla luce visibile."
+    "brief": "Il secondo e ultimo round 2026 dell'ARRL 10 GHz and Up Contest, dedicato alle microonde (10 GHz e superiori), si è tenuto dalle 0900 UTC di sabato 19 alle 0759 UTC di lunedì 21 settembre 2026, dopo il primo round del 15-17 agosto."
   },
   {
-    "id": "iaru-r1-conferenza-vienna-2026",
-    "title": "Al via a Vienna la 27ª Conferenza Generale di IARU Regione 1",
-    "source": "IARU Region 1 (iaru-r1.org), settimana del 19 settembre 2026",
-    "affidabilita": "primaria",
-    "date": "2026-09-19",
-    "brief": "Dal 19 al 23 settembre 2026 si tiene a Vienna, in Austria, la 27ª Conferenza Generale di IARU Regione 1, ospitata dalla società austriaca ÖVSV che quest'anno celebra il proprio centenario. La conferenza riunisce le associazioni radioamatoriali nazionali della Regione 1 per discutere spettro, regolamentazione e attività dell'Unione."
-  },
-  {
-    "id": "orari-indonesia-emcomm-vulcani",
-    "title": "ORARI attiva le reti di emergenza in Indonesia per l'attività vulcanica in corso",
-    "source": "IARU Region 1 / WIA, comunicato dell'11 settembre 2026 (rete attiva fino al 24 settembre)",
-    "affidabilita": "primaria",
-    "date": "2026-09-11",
-    "brief": "A seguito delle eruzioni di diversi vulcani indonesiani (tra cui Ile Lewotolok, Semeru, Sinabung e Anak Krakatau), l'associazione ORARI (Organisasi Amatir Radio Indonesia) ha attivato reti di comunicazione di emergenza dall'11 al 24 settembre 2026, quindi ancora operative in questi giorni. Le frequenze prioritarie indicate sono 7.110 MHz in voce, 7.100 MHz USB per JS8Call e 145.880/435.880 MHz per il satellite LAPAN-A2/IO-86."
-  },
-  {
-    "id": "hamvention-nuova-chair-n8ptl",
-    "title": "Hazel Everetts N8PTL nominata prima donna Chair della Dayton Hamvention",
-    "source": "Amateur Radio Newsline, Report 2551, 18 settembre 2026",
+    "id": "smartsdr-macos-2-9-157",
+    "title": "FlexRadio rilascia SmartSDR per macOS versione 2.9.157",
+    "source": "Mac Ham Radio (machamradio.com), 18 settembre 2026",
     "affidabilita": "secondaria",
     "date": "2026-09-18",
-    "brief": "Amateur Radio Newsline ha riportato il 18 settembre 2026 che Hazel Everetts, N8PTL, è stata nominata nuova General Chair della Dayton Hamvention in vista dell'edizione 2027, che celebrerà il 75° anniversario della manifestazione. È la prima donna a ricoprire questo ruolo nella storia del più grande hamfest al mondo."
+    "brief": "È stata pubblicata la versione 2.9.157 del client SmartSDR per macOS, il software di controllo per le radio SDR FlexRadio, che aggiorna la precedente release 2.9.151 distribuita il 5 settembre 2026."
   }
 ]
