@@ -1,52 +1,54 @@
 {
-  "aggiornato": "2026-09-22",
+  "aggiornato": "2026-09-23",
   "citta": "Pesaro (PU), Marche, Italia",
   "fonti": [
     "https://www.ilmeteo.it/meteo/pesaro",
     "https://www.ilmeteo.it/meteo/pesaro/domani",
     "https://www.ilmeteo.it/meteo/pesaro/dopodomani",
-    "https://www.meteo.it/meteo/pesaro-41044",
+    "https://www.ilmeteo.it/meteo/pesaro/previsioni-orarie",
+    "https://www.ilmeteo.it/mari/meteo-mare/citta/Pesaro&g=-1",
     "https://www.meteo.it/meteo/pesaro-oggi-41044",
-    "https://www.meteo.it/meteo/pesaro-domani-41044",
+    "https://www.meteo.it/meteo/pesaro-41044",
     "https://www.3bmeteo.com/meteo/pesaro",
     "https://www.3bmeteo.com/meteo/pesaro/1",
     "https://www.3bmeteo.com/meteo/pesaro/2",
+    "https://www.3bmeteo.com/meteo/pesaro/3",
+    "https://allertameteo.regione.marche.it/",
+    "https://allertameteo.regione.marche.it/bollettino-meteo",
     "https://allertameteo.regione.marche.it/allerte-e-bollettini",
-    "https://www.fanpage.it/attualita/maltempo-allerta-meteo-gialla-22-settembre-2026-temporali-protezione-civile-regioni-colpite/",
-    "https://www.meteo2.it/allerta-meteo-gialla-martedi-22-settembre-idraulico-su-calabria-e-sicilia/",
-    "https://it.sea-forecast.com/italy/pesaro",
-    "https://meteopesca.com/it/marche/pesaro/previsione/temperatura-acqua"
+    "https://www.fanpage.it/attualita/maltempo-allerta-meteo-gialla-23-settembre-2026-temporali-protezione-civile-regioni-colpite/",
+    "https://www.protezionecivile.gov.it/en/comunicato-stampa/maltempo-allerta-gialla-7-regioni/"
   ],
   "previsioni": [
     {
-      "data": "2026-09-22",
-      "giorno": "oggi, martedì",
-      "temp_min_c": 18,
-      "temp_max_c": 26,
-      "condizioni": "Dati discordanti tra le fonti: ilmeteo.it indica un range più contenuto (min 20°C / max 23°C), con cielo parzialmente nuvoloso al mattino e sereno nel resto della giornata; 3bmeteo.com e meteo.it indicano invece min 18°C / max 26°C, con cielo poco o parzialmente nuvoloso per l'intera giornata, senza precipitazioni previste.",
-      "vento": "Deboli da Ovest-Sudovest al mattino, moderati da Nord-Nordovest al pomeriggio (fonte: 3bmeteo.com e meteo.it).",
-      "mare": "Mare poco mosso (fonte: 3bmeteo.com). Temperatura dell'acqua di mare intorno a 28,5°C (fonte: sea-forecast.com / meteopesca.com).",
-      "allerta": "Nessuna allerta attiva individuata per la regione Marche. Il bollettino di criticità della Protezione Civile Marche n.179/2026 (valido dalle 00:00 del 20/09/2026, ultimo reperibile in ricerca) non segnala criticità. L'allerta gialla nazionale emessa per il 22/09/2026 riguarda solo Calabria e Sicilia (fonti: fanpage.it, meteo2.it), non le Marche."
-    },
-    {
       "data": "2026-09-23",
-      "giorno": "domani, mercoledì",
-      "temp_min_c": 18,
-      "temp_max_c": 26,
-      "condizioni": "Dati discordanti tra le fonti: una prima estrazione da 3bmeteo.com indicava un range più fresco (min 15°C / max 23°C), mentre dati più dettagliati orari da meteo.it/3bmeteo.com indicano mattina intorno 18°C, pomeriggio fino a 26°C e sera 23°C. Sulla costa nord (Pesaro) cielo inizialmente poco nuvoloso con aumento della nuvolosità dal pomeriggio; nell'entroterra e più a sud cielo sereno o poco nuvoloso con qualche addensamento serale. Nessuna pioggia significativa prevista (fonte: meteo.it, 3bmeteo.com).",
-      "vento": "Moderati da Nord-Ovest al mattino, moderati da Nord al pomeriggio (fonte: meteo.it, 3bmeteo.com).",
-      "mare": "Mare poco mosso / leggermente mosso (fonte: meteo.it). Temperatura dell'acqua stimata intorno a 28,6°C (fonte: sea-forecast.com).",
-      "allerta": "Nessuna allerta attiva individuata per la regione Marche per questa data al momento della ricerca; si raccomanda verifica diretta su allertameteo.regione.marche.it per eventuali aggiornamenti successivi al bollettino n.179/2026."
+      "giorno": "oggi, mercoledì",
+      "temp_min_c": 20,
+      "temp_max_c": 23,
+      "condizioni": "Dati discordanti tra le fonti: ilmeteo.it (query ripetute e coerenti tra loro) indica 20-23°C, cielo sereno o poco nuvoloso, mattina parzialmente nuvolosa poi sereno, nessuna pioggia prevista. Un'aggregazione orientata a 3bmeteo.com ha invece restituito un quadro diverso (15-22°C, rapido aumento della nuvolosità con rovesci/temporali pomeridiani, ~6mm stimati, attenuazione in serata). Non è stato possibile verificare direttamente la pagina 3bmeteo (bloccata dal proxy di rete), quindi si riportano entrambe le versioni senza poter confermare quale sia corretta.",
+      "vento": "Moderato da Est-Sudest 18-35 km/h al mattino; da Est 19-35 km/h al pomeriggio; da Est-Sudest 14-27 km/h alla sera (fonte: aggregato ilmeteo.it/meteo.it).",
+      "mare": "Mare mosso; temperatura dell'acqua intorno a 25,9°C (fonte: aggregato ilmeteo.it, pagina mare Pesaro).",
+      "allerta": "Nessuna allerta attiva individuata per le Marche/Pesaro il 23/09/2026. L'allerta gialla emessa dalla Protezione Civile per il 23/09/2026 riguarda Sicilia, Sardegna e Calabria (rischio temporali/idraulico/idrogeologico), non le Marche (fonte: fanpage.it)."
     },
     {
       "data": "2026-09-24",
-      "giorno": "dopodomani, giovedì",
+      "giorno": "domani, giovedì",
+      "temp_min_c": 15,
+      "temp_max_c": 22,
+      "condizioni": "Forte discordanza tra le fonti. ilmeteo.it/meteo.it (due query coerenti): cielo sereno o poco nuvoloso per tutto il giorno, nessuna pioggia, 15-22°C. Una ricerca su 3bmeteo.com ha restituito una previsione descritta come 'complicata', con incertezza sulla localizzazione di un rapido peggioramento da est. Un'altra query ha prodotto dati palesemente anomali e incoerenti (33°C max / 24°C min con 'allerta afa' ma contemporaneamente piogge/temporali serali) — valori implausibili per fine settembre a Pesaro e incompatibili con le altre fonti: scartati come probabile errore di aggregazione del motore di ricerca, non attendibili.",
+      "vento": "Moderato/debole da Sud-Ovest al mattino, moderato da Est al pomeriggio (fonte: aggregato ilmeteo.it/meteo.it).",
+      "mare": "Mare mosso (fonte: aggregato ilmeteo.it).",
+      "allerta": "Nessun bollettino di allerta specifico individuato con certezza per il 24/09/2026. Una fonte cita un peggioramento 'dalle prime ore di domenica 24 settembre', ma nel 2026 il 24 settembre è giovedì, non domenica: riferimento incoerente, possibile refuso o bollettino di un anno diverso erroneamente associato, quindi non considerato attendibile. Si raccomanda verifica diretta su allertameteo.regione.marche.it (non raggiungibile da questo ambiente per fetch diretto)."
+    },
+    {
+      "data": "2026-09-25",
+      "giorno": "dopodomani, venerdì",
       "temp_min_c": 14,
       "temp_max_c": 24,
-      "condizioni": "Fonti sostanzialmente concordi (3bmeteo.com e ilmeteo.it): cielo sereno o poco nuvoloso al mattino, seguito da un rapido aumento della nuvolosità con piogge e rovesci, anche a carattere temporalesco, nel pomeriggio (accumulo stimato ~6 mm), in attenuazione in serata. Una sintesi precedente di 3bmeteo.com collocava invece le deboli piogge più verso la serata, per il calo di pressione e l'ingresso di aria più umida: lieve discordanza sulla collocazione oraria del fenomeno, ma concordanza sulla presenza di piogge nella seconda parte della giornata.",
-      "vento": "Deboli da Sud-Ovest al mattino, moderati da Est al pomeriggio (fonte: 3bmeteo.com, ilmeteo.it).",
-      "mare": "Mare poco mosso (fonte: 3bmeteo.com, ilmeteo.it). Temperatura dell'acqua non reperita per il 24/9 specifico; sea-forecast.com indica un trend in lieve calo nei giorni successivi (28,3°C venerdì 25/9).",
-      "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche individuata per questa data al momento della ricerca (ultimo bollettino reperibile: n.179/2026 del 20/09/2026, senza criticità). Si segnala tuttavia rischio di rovesci/temporali pomeridiani da bollettini meteo (3bmeteo.com, ilmeteo.it), che potrebbe portare a futuri aggiornamenti di allerta: si raccomanda di consultare allertameteo.regione.marche.it in prossimità della data."
+      "condizioni": "Dati discordanti tra le fonti: una aggregazione da 3bmeteo.com/meteo.it indica 19-22°C, cielo poco nuvoloso, nessuna pioggia significativa. Una query mirata su ilmeteo.it/meteo/pesaro/dopodomani indica invece 14-24°C, cielo parzialmente nuvoloso al mattino con rapido aumento della nuvolosità e rovesci/temporali nel pomeriggio, in attenuazione in serata. Si riportano entrambe le versioni per trasparenza, senza poter confermare quale sia più accurata a questa distanza temporale.",
+      "vento": "Debole da Sud-Ovest al mattino, moderato da Est al pomeriggio (fonte: ilmeteo.it, previsione dopodomani).",
+      "mare": "Mare poco mosso (fonte: ilmeteo.it, previsione dopodomani).",
+      "allerta": "Nessuna allerta specifica individuata per il 25/09/2026 nelle fonti consultate. Non è stato possibile consultare direttamente allertameteo.regione.marche.it (bloccato dal proxy di rete); si raccomanda verifica diretta in prossimità della data."
     }
   ]
 }

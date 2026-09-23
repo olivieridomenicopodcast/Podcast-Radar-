@@ -1,58 +1,50 @@
 [
   {
-    "id": "metalitalia-festival-2026-warmup-lineup",
-    "title": "Metalitalia.com Festival 2026: annunciati i dettagli del Warm-Up e la line-up completa",
-    "source": "Metalitalia.com (21 settembre 2026)",
+    "id": "dragonforce-album-omonimo-alissa-white-gluz",
+    "title": "DragonForce annunciano l'album omonimo, primo con Alissa White-Gluz alla voce",
+    "source": "Blabbermouth.net, Loudwire, Consequence, Bravewords (22/09/2026)",
     "affidabilita": "primaria",
+    "date": "2026-09-22",
+    "brief": "DragonForce annunciano il decimo album, omonimo, in uscita il 19 marzo 2027 via Napalm Records, prodotto da Jens Bogren. È il primo disco con la nuova frontwoman Alissa White-Gluz (ex Arch Enemy) e il nuovo vocalist Alessio Garavello, che sostituiscono Marc Hudson (uscito per problemi di acufene). Pubblicato anche il video del singolo \"Hunger of the Beast\"."
+  },
+  {
+    "id": "whiplash-roar-bullet-train",
+    "title": "Whiplash annunciano il nuovo album \"Roar\" ed escono con il singolo \"Bullet Train\"",
+    "source": "Blabbermouth.net, ReadDork, Metal Storm (22/09/2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-22",
+    "brief": "Gli storici thrasher del New Jersey Whiplash annunciano \"Roar\", decimo lavoro in studio, in uscita il 27 novembre 2026 via Time To Kill Records (cover di Ed Repka), e pubblicano il primo singolo \"Bullet Train\", guidato dal chitarrista/cantante Tony Portaro."
+  },
+  {
+    "id": "cabal-hurt-me-justine-jones-tour-europeo",
+    "title": "Cabal pubblicano \"Hurt Me\" con Justine Jones (Employed To Serve) e annunciano tour europeo insieme",
+    "source": "Theprp.com, Lambgoat, Metal Shock Finland (18-20/09/2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-18",
+    "brief": "I metalcore/deathcore danesi Cabal pubblicano \"Hurt Me\" (Church Road Records) con la partecipazione di Justine Jones degli Employed To Serve. Il brano parla della dipendenza da relazioni tossiche. Le due band annunciano un tour europeo congiunto per novembre-dicembre 2026."
+  },
+  {
+    "id": "mustaine-cancel-culture-intervista",
+    "title": "Dave Mustaine (Megadeth): \"Il mondo è cambiato in peggio, troppo odio e cancel culture\"",
+    "source": "Blabbermouth.net, truemetal.it (19-20/09/2026), intervista a Metal Hammer Greece/TV War",
+    "affidabilita": "secondaria",
+    "date": "2026-09-20",
+    "brief": "In un'intervista al programma greco TV War, Dave Mustaine ha dichiarato che il mondo è peggiorato per la \"cancel culture\" e l'odio diffuso, sostenendo che oggi cantare di politica dimezza automaticamente il pubblico di una band."
+  },
+  {
+    "id": "cannibal-corpse-mazurkiewicz-vita-on-the-road",
+    "title": "Cannibal Corpse: Paul Mazurkiewicz racconta come è cambiata la vita on the road",
+    "source": "truemetal.it, citando il podcast Pod Scum (21/09/2026)",
+    "affidabilita": "secondaria",
     "date": "2026-09-21",
-    "brief": "Il Metalitalia.com Festival 2026 si terrà il 26 e 27 settembre al Live Club di Trezzo sull'Adda (MI), preceduto dal Warm-Up Party venerdì 25 settembre al Bloom di Mezzago con Dark Lunacy (show anniversario di 'The Diarist'), The Foreshadowing, Game Over e Duir. Il giorno 1 vedrà Paradise Lost, Amenra, Fleshgod Apocalypse, Harakiri For The Sky, Novembre e 1914; il giorno 2 avrà Coroner come headliner insieme a Fear Factory, Demolition Hammer, Sadist (che suoneranno per intero 'Tribe'), Fulci, Allegaeon e Gorod."
+    "brief": "Il batterista dei Cannibal Corpse ha parlato, in un'intervista al podcast Pod Scum, di come sia cambiato il modo di stare in tour in quasi quattro decenni di carriera della band."
   },
   {
-    "id": "anthrax-cursum-perficio-uscita",
-    "title": "Gli Anthrax pubblicano 'Cursum Perficio', primo album in dieci anni",
-    "source": "Truemetal.it, Consequence.net, Blabbermouth.net (17-18 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Gli Anthrax hanno pubblicato il 18 settembre 2026 il nuovo album 'Cursum Perficio' tramite Nuclear Blast/Megaforce Records, il primo disco in studio della band in dieci anni. In concomitanza è uscito anche il video della title track. L'album era stato annunciato a maggio 2026."
-  },
-  {
-    "id": "slipknot-arsenal-backstage-video",
-    "title": "Gli Slipknot mostrano il dietro le quinte del video di 'Arsenal'",
-    "source": "Blabbermouth.net, Bravewords.com, Truemetal.it (18 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Gli Slipknot hanno condiviso un filmato backstage sulla realizzazione del video di 'Arsenal', diretto da M. Shawn 'Clown' Crahan e interpretato dall'attore Jackson White. Il chitarrista Jim Root ha confermato che il brano, primo materiale inedito della band in oltre tre anni, non farà parte del prossimo album, ancora in lavorazione."
-  },
-  {
-    "id": "sicksense-funerals-ep-tour",
-    "title": "I Sicksense annunciano l'EP 'Funerals' e un tour nordamericano",
-    "source": "Metal Insider, Distorted Sound Magazine, KNAC.com (15 settembre 2026)",
-    "affidabilita": "secondaria",
+    "id": "epica-unica-data-italiana-milano-2027",
+    "title": "Epica: unica data italiana del \"The Symphonic Synergy Tour\" a Milano nel 2027",
+    "source": "Metalitalia.com, Loud and Proud, MC2Live.it (15-18/09/2026)",
+    "affidabilita": "primaria",
     "date": "2026-09-15",
-    "brief": "La band Sicksense ha annunciato l'EP 'Funerals', in uscita il 25 settembre 2026 come seguito dell'album di debutto 'Cross Me Twice'. È stato pubblicato il nuovo singolo 'Artificial Irrelevance' (dopo 'Newsflash'). Annunciate anche date del tour nordamericano dal 5 novembre (Davenport, Iowa) al 19 dicembre 2026 (Phoenix, Arizona)."
-  },
-  {
-    "id": "like-moths-to-flames-ep-completa",
-    "title": "I Like Moths To Flames completano l'EP 'Does Heaven Ever Mourn For Me'",
-    "source": "Theprp.com (17 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-17",
-    "brief": "La band metalcore Like Moths To Flames ha completato la tracklist dell'EP 'Does Heaven Ever Mourn For Me' pubblicando il brano finale 'Tie The Ivy Through My Ribcage'. Il progetto, prodotto da Landon Tewers (The Plot In You), raccoglie i singoli usciti dall'ottobre 2025; il vinile limitato (750 copie) è uscito il 18 settembre 2026."
-  },
-  {
-    "id": "dredg-catch-without-arms-20th-tankian",
-    "title": "I Dredg celebrano i 20 anni di 'Catch Without Arms' con un bonus track feat. Serj Tankian",
-    "source": "Theprp.com, Visions.de (17 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-17",
-    "brief": "I Dredg hanno annunciato una riedizione rimasterizzata in vinile doppio gatefold, CD e merchandise per il 20° anniversario dell'album 'Catch Without Arms' (2005), con cinque bonus track tra cui l'inedita 'Life's Revengeful Son' che vede la partecipazione di Serj Tankian dei System Of A Down. I preordini apriranno venerdì 25 settembre su dredgstore.com."
-  },
-  {
-    "id": "as-i-lay-dying-nuovo-album-omonimo",
-    "title": "Gli As I Lay Dying annunciano un nuovo album omonimo",
-    "source": "Blabbermouth.net (15 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-15",
-    "brief": "Gli As I Lay Dying hanno annunciato un nuovo album omonimo in uscita il 5 febbraio 2027 tramite Napalm Records, accompagnato dai due singoli 'Polarized' (più melodico) e 'Retribution' (più aggressivo e veloce)."
+    "brief": "Gli olandesi Epica portano in Italia, per l'unica data italiana, \"The Symphonic Synergy Tour\" (con orchestra e coro completi) domenica 3 ottobre 2027 al Teatro Arcimboldi di Milano, per celebrare i 25 anni di carriera. Prevendita partita il 16/09, vendita generale dal 18/09 su MC2Live e Vivaticket."
   }
 ]

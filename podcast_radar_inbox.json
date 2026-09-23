@@ -1,116 +1,116 @@
 [
   {
-    "id": "spotify-partner-program-italia",
-    "title": "Spotify apre il Partner Program (monetizzazione) anche all'Italia",
-    "source": "Spotify Newsroom, \"The Spotify Partner Program Expands to More Than 35 New Markets\" (17/09/2026)",
-    "affidabilita": "primaria",
-    "target": 8,
-    "date": "2026-09-17",
-    "brief": "Il 17 settembre 2026 Spotify ha annunciato l'espansione del Partner Program, il programma che permette ai creator di monetizzare direttamente sulla piattaforma, a oltre 35 nuovi mercati tra cui Italia, Spagna, Brasile, Messico e Colombia. Il rollout è graduale durante l'autunno 2026, quindi non tutti gli account idonei lo vedranno attivo subito.",
-    "angles": [
-      "Cosa serve davvero per essere eleggibili al Partner Program appena arriva in Italia",
-      "Monetizzazione su Spotify: cosa cambia rispetto a prima per i creator italiani",
-      "Checklist pratica: dove controllare nell'account se il programma si è già attivato"
-    ],
-    "hooks": [
-      "Hai un podcast e ti sei rassegnato a non guadagnarci niente su Spotify? Rassegnati un po' meno.",
-      "Se fai podcast in Italia e pensavi che la monetizzazione fosse roba solo per gli americani, ripensaci.",
-      "Controlla oggi le impostazioni del tuo account Spotify: potrebbe essere arrivato quello che aspettavi da anni."
-    ]
-  },
-  {
-    "id": "youtube-engaged-views-podcast",
-    "title": "YouTube cambia il conteggio delle visualizzazioni: le view dei video-podcast sono gonfiate del 36%",
-    "source": "Podtrac, analisi \"Podtrac's initial analysis of YouTube Engaged Views\" (02-03/09/2026); ripreso da Podnews (\"Podtrac Reports Podcast Engaged Views vs Views on YouTube\"), ppc.land, Inside Radio e Barrett Media",
-    "affidabilita": "secondaria",
-    "target": 8,
-    "date": "2026-09-03",
-    "brief": "Dal 24 agosto 2026 YouTube conta una \"view\" da primo fotogramma per short, video lunghi, live e podcast, mentre la vecchia metrica di attenzione è stata rinominata \"engaged view\" e resta visibile solo su YouTube Analytics/API. L'analisi di Podtrac, pubblicata il 3 settembre 2026 su 84,2 milioni di view raccolte tra il 27 e il 28 agosto sui canali podcast, mostra che le engaged view valgono in media solo il 64% delle view totali: il 36% delle visualizzazioni contate non è engagement reale. Podtrac userà da ora le engaged view per le proprie classifiche podcast su YouTube.",
-    "angles": [
-      "Perché i tuoi numeri su YouTube sembrano più alti ma non significano più la stessa cosa",
-      "Come leggere davvero le statistiche del tuo video-podcast ora che view ed engagement sono due dati diversi",
-      "Cosa guardare in Analytics per capire se il pubblico resta davvero (non è la view count pubblica)"
-    ],
-    "hooks": [
-      "Hai controllato le view del tuo video-podcast su YouTube e ti sei sentito un fenomeno? Forse un po' meno di quanto pensi.",
-      "Se pubblichi il podcast anche in video su YouTube, i tuoi numeri sono appena diventati un filo bugiardi.",
-      "Stai ancora vantandoti delle view su YouTube senza sapere cosa significano adesso davvero? Occhio."
-    ]
-  },
-  {
-    "id": "blubrry-video-audio-unificato-apple",
-    "title": "Blubrry porta la pubblicazione unificata video+audio su Apple Podcasts",
-    "source": "Blubrry Podcasting / PRNewswire, \"Blubrry Brings Unified Video and Audio Podcast Publishing to Apple Podcasts\" (02/09/2026); ripreso da Podnews",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-09-02",
-    "brief": "Blubrry ha annunciato il 2 settembre 2026 una nuova integrazione con Apple Podcasts Connect: caricando un solo episodio video in MP4 su Blubrry Publisher, la piattaforma genera automaticamente una versione HLS 1080p per il video e una versione MP3 per l'audio, distribuite tramite un unico feed RSS. Su Apple Podcasts gli ascoltatori possono passare da audio a video con un tap, senza che il creator debba gestire due file separati.",
-    "angles": [
-      "Un solo upload, due formati: cosa cambia nel flusso di pubblicazione per chi fa video-podcast",
-      "Vale la pena registrare in video anche se la maggior parte del tuo pubblico ascolta e basta?",
-      "HLS spiegato semplice: cosa significa davvero per chi pubblica il podcast"
-    ],
-    "hooks": [
-      "Sei stufo di caricare due volte lo stesso episodio, uno per l'audio e uno per il video? C'è una scorciatoia nuova.",
-      "Se fai video-podcast e passi ore a duplicare file, qualcuno ti ha appena tolto un pezzo di lavoro.",
-      "Hai mai sognato di caricare un solo file e vederlo diventare audio e video da solo? Si può, quasi."
-    ]
-  },
-  {
-    "id": "italian-podcast-awards-2026-piacenza",
-    "title": "Italian Podcast Awards: il 23 settembre 2026 Piacenza premia il podcast italiano",
-    "source": "IlPiacenza.it, \"Italian Podcast Awards, il 23 settembre Piacenza ospita la quinta edizione\" (settembre 2026); corroborato da PiacenzaSera.it, Askanews, Libertà.it e Comune di Piacenza (luglio-settembre 2026)",
+    "id": "festival-podcasting-2026-tour-italia",
+    "title": "Il Festival del Podcasting 2026 gira l'Italia con corsi gratuiti, finale a Milano il 2-3 ottobre",
+    "source": "Comunicato stampa ASSIPOD/organizzatori ripreso da askanews.it, La Voce d'Italia, Radio Studio90 Italia, CanaleUno, Il Quotidiano del Sud, Media Key (22/09/2026)",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-23",
-    "brief": "Il 23 settembre 2026 in piazza Cavalli a Piacenza si tiene la quinta edizione di IlPod - Italian Podcast Awards, evento pubblico e gratuito dalle ore 21:00, condotto da Rossella Pivanti (direttrice di IlPod) e Maura Gancitano. Vengono assegnati il premio Podcast dell'Anno, Podcast Indie dell'Anno, il Premio Academy (legato alla Piacenza Podcast Academy) e il nuovo Premio Storia Podcast 2026. Apre la serata una puntata live di \"Scanner\", il podcast di informazione di Valerio Nicolosi per Fanpage.it.",
+    "date": "2026-09-21",
+    "brief": "Decima edizione del Festival del Podcasting: dal 21 al 30 settembre 2026 eventi diffusi in tutta Italia (Milano, Genova, Rimini, Roma, Trieste, Piacenza, Rieti, Palermo, Viggiano), con corsi di formazione gratuiti su podcast e giornalismo organizzati insieme agli Ordini dei Giornalisti di Lombardia ed Emilia Romagna. Chiusura il 2-3 ottobre a Cascina Triulza (MIND, Milano).",
     "angles": [
-      "Cosa premiano davvero gli Italian Podcast Awards e perché vale la pena guardare la cinquina indie",
-      "Cosa dice questo evento sullo stato di salute del podcasting italiano nel 2026",
-      "Idee di formato prese dai finalisti indie, non solo dai big"
+      "Corsi di formazione gratuiti per chi vuole imparare le basi da chi lo fa di mestiere",
+      "Il nuovo format 'PodCafè' di Genova come esempio di ibrido evento/podcast",
+      "Dieci anni di festival: come è cambiato il podcasting italiano dal primo al decimo anno"
     ],
     "hooks": [
-      "Pensavi che il podcasting italiano fosse solo tre nomi che senti sempre? Il 23 settembre a Piacenza ti smentiscono.",
-      "Se fai un podcast indie e ti senti invisibile, in piazza Cavalli c'è un premio con il tuo nome sopra.",
-      "Vuoi sapere cosa premia davvero la scena podcast italiana quest'anno? Non è quello che pensi."
+      "Sei bloccato a registrare da solo in cameretta e non sai se il tuo podcast interessa a qualcuno? Per dieci giorni in giro per l'Italia puoi andare a sentirlo dal vivo, gratis, prima di continuare a parlare al muro.",
+      "Hai finito tutti i corsi YouTube su come si fa un podcast e ti senti ancora perso? In dieci città italiane c'è gente che lo fa per mestiere pronta a spiegartelo in faccia, niente slide.",
+      "Ti sei mai chiesto se il tuo podcast funzionerebbe meglio come format live? Fino al 30 settembre giri l'Italia a vedere come lo fanno gli altri, poi il 2 ottobre si chiude tutto a Milano."
     ]
   },
   {
-    "id": "descript-changelog-settembre-2026",
-    "title": "Descript aggiorna sottotitoli animati, musica/SFX generati dall'AI e i metodi di pagamento",
-    "source": "Descript, Changelog ufficiale (Canny), voci aggiornate al 17/09/2026",
-    "affidabilita": "primaria",
-    "target": 7,
+    "id": "spotify-partner-program-soglie-italia",
+    "title": "Spotify Partner Program in Italia: ecco le soglie minime per accedere alla monetizzazione",
+    "source": "SmartWorld \"Spotify Partner Program arriva in Italia: come guadagnare con il tuo podcast\"; Engage.it, TecnoAndroid, guruhitech.com, Mister Gadget (17-22/09/2026, dati coerenti tra loro)",
+    "affidabilita": "secondaria",
+    "target": 8,
     "date": "2026-09-17",
-    "brief": "Il changelog ufficiale di Descript, aggiornato al 17 settembre 2026, segna nuove funzioni tra cui sottotitoli con preset e animazioni pronte all'uso, generazione AI di musica di sottofondo ed effetti sonori direttamente dentro l'editor, oltre a nuovi metodi di pagamento come Apple Pay e Cash App.",
+    "brief": "Dopo l'annuncio dell'espansione del Partner Program a 35 nuovi mercati incluso quello italiano, sono emersi i requisiti pratici per accedere alla monetizzazione: almeno 3 episodi pubblicati, 2.000 ore di fruizione e 1.000 utenti coinvolti negli ultimi 30 giorni. Chi entra guadagna dai video per gli utenti Premium, dalla pubblicità sul piano free e può gestire sponsorizzazioni proprie mantenendo i ricavi anche su altre piattaforme.",
     "angles": [
-      "Sottotitoli animati pronti in un click: quanto tempo risparmi davvero in fase di montaggio",
-      "Musica ed effetti sonori generati dall'AI: quando ti salvano e quando restano finti",
-      "Piccola guida alle ultime aggiunte di Descript per chi monta un episodio a settimana"
+      "Checklist pratica per capire se sei già idoneo al programma",
+      "Conviene spingere sul video per Premium o restare solo audio per raggiungere le soglie",
+      "Cosa cambia per chi ha già sponsor diretti fuori da Spotify"
     ],
     "hooks": [
-      "Passi ancora ore ad animare i sottotitoli a mano clip per clip? Descript ti ha appena tolto il lavoro peggiore.",
-      "Se non hai un compositore e ti serve una musichetta decente per l'intro, ora te la tira fuori l'AI dentro l'editor.",
-      "Stai ancora litigando con la carta di credito per pagare un abbonamento software? Anche i pagamenti si sono aggiornati."
+      "Hai un podcast con quattro gatti che lo ascoltano e pensi che monetizzare sia roba da fenomeni? Da quest'autunno Spotify ti dà un numero preciso da raggiungere, ed è più basso di quanto pensi.",
+      "Ti sei mai chiesto quante ore di ascolto servono prima di vedere un euro da Spotify? Ora c'è un numero preciso: tre episodi e duemila ore, altro che aspettare il miracolo.",
+      "Stai ancora rimandando la pubblicazione perché 'non è pronto'? Con tre soli episodi potresti già essere a un passo dai requisiti minimi per iniziare a guadagnare."
     ]
   },
   {
-    "id": "raiplay-sound-nuova-stagione-original",
-    "title": "Rai lancia la nuova stagione di podcast Original su RaiPlay Sound",
-    "source": "Fattitaliani.it, \"'Secondo Ascolto': dal 14 settembre Greco e Migliaccio...\" (14/09/2026); Daniele Mignardi, \"'Italia: le ferite e il coraggio': dal 9 settembre...\" (09/09/2026); contesto dalla nuova stagione Rai Radio 2026/2027 \"Rai c'è\" (Radiospeaker.it)",
+    "id": "podcast-study-2026-fiducia-host",
+    "title": "The Podcast Study 2026: la pubblicità letta dall'host batte lo spot preregistrato",
+    "source": "Podnews, \"The Podcast Study 2026 Reveals the Power of Trust, Hosts, and New Revenue Opportunities\" (22/09/2026); ripreso da Inside Radio, Inside Audio Marketing, eMarketer",
     "affidabilita": "secondaria",
     "target": 5,
-    "date": "2026-09-09",
-    "brief": "RaiPlay Sound ha aperto la nuova stagione 2026/2027 \"Rai c'è\" con due podcast Original: dal 9 settembre \"Italia: le ferite e il coraggio\" di Luciano Violante, sulle stragi e sul coraggio civile nella storia italiana, e dal 14 settembre \"Secondo Ascolto\" di Alessandro Greco e Alessandro Migliaccio, dedicato ai significati nascosti delle canzoni italiane. La stagione segna un investimento crescente della Rai su podcast, on-demand e innovazione tecnologica.",
+    "date": "2026-09-21",
+    "brief": "Uno studio su 1.205 ascoltatori USA (Crooked Media/NPR/PRX) mostra che il 57% ricorda meglio un brand dopo un endorsement letto dall'host, il 44% si fida di più di questo tipo di annuncio rispetto a uno spot preregistrato, e circa metà del pubblico pagherebbe 3-5 dollari al mese per un abbonamento che elimini tutta la pubblicità tranne quella letta a voce dall'host.",
     "angles": [
-      "Cosa impara un podcaster indie guardando come la Rai struttura un podcast Original",
-      "Voce e autorialità: cosa si può rubare al podcast di Violante per il proprio storytelling",
-      "Perché anche il servizio pubblico sta investendo sempre di più nel podcast originale"
+      "Perché lo sponsor letto a voce batte lo spot preregistrato in fiducia e ricordo",
+      "Ha senso un tier 'ad-free tranne host-read' anche per show piccoli",
+      "Come costruire fiducia con il pubblico per aumentare il valore delle sponsorizzazioni"
     ],
     "hooks": [
-      "Pensi che per fare un podcast 'serio' serva la Rai alle spalle? Guarda cosa fanno davvero i loro Original.",
-      "Se cerchi ispirazione per raccontare storie vere senza sembrare un documentario noioso, guarda cosa ha fatto Violante.",
-      "Ti sembra che il servizio pubblico non investa nel podcast? Da settembre ha lanciato altri due show."
+      "Hai paura che mettere pubblicità nel podcast allontani chi ti ascolta? Uno studio dice il contrario: se la leggi tu con la tua voce, la gente si fida più che con uno spot vero.",
+      "Ti senti in colpa ogni volta che devi leggere lo sponsor a voce? Metà degli ascoltatori pagherebbe pur di sentire solo quelle, altro che skippare la pubblicità.",
+      "Pensi che il pubblico odi le pubblicità nei podcast? Dipende chi le legge: se lo fai tu, funzionano quasi il doppio rispetto a uno spot registrato da un altro."
+    ]
+  },
+  {
+    "id": "acast-podcast-pulse-2026-audio-video",
+    "title": "Report Acast: l'88% del pubblico salta liberamente tra audio e video podcast",
+    "source": "Podnews/Acast, \"Podcast Advertising Transcends Audio...\" (17/09/2026); Inside Radio, \"Podcast Audiences Move Freely Between Audio And Video\" (19/09/2026); PodcastingToday, RAIN News",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-09-17",
+    "brief": "Un report Acast su 4.300 persone in 13 mercati mostra che l'88% di chi consuma sia audio che video usa entrambi i formati (era il 78% un anno fa), e il 63% ha iniziato un episodio in un formato e lo ha finito nell'altro.",
+    "angles": [
+      "Perché non serve scegliere per forza tra 'solo audio' e 'video completo'",
+      "Come costruire un episodio che regga sia guardato che solo ascoltato",
+      "Cosa significa questo dato per la scelta delle piattaforme di distribuzione"
+    ],
+    "hooks": [
+      "Sei ancora lì a tormentarti se il tuo podcast deve essere audio o video? Un nuovo studio dice che il pubblico se ne frega e passa dall'uno all'altro senza nemmeno accorgersene.",
+      "Hai investito in una webcam pensando che ormai il video sia obbligatorio? Calma: la maggioranza inizia un episodio guardandolo e lo finisce solo ascoltandolo, magari in macchina.",
+      "Ti stressi a scegliere la piattaforma 'giusta'? I dati dicono che il tuo pubblico salta comunque da audio a video a seconda di dove si trova, quindi pubblica su entrambi e rilassati."
+    ]
+  },
+  {
+    "id": "commissione-europea-fare-europa-podcast",
+    "title": "\"Fare l'Europa\": la Commissione Europea in Italia lancia un podcast con eventi live collegati",
+    "source": "Rappresentanza in Italia della Commissione Europea, comunicato ufficiale (21/09/2026); ripreso da Italpress, ADN24",
+    "affidabilita": "primaria",
+    "target": 4,
+    "date": "2026-09-21",
+    "brief": "La Rappresentanza della Commissione Europea in Italia lancia \"Fare l'Europa\", 5 episodi podcast su momenti chiave della storia UE (da Erasmus a De Gasperi), abbinati a tre eventi pubblici dal vivo; il primo si terrà a Torino il 29 settembre durante la Notte dei Ricercatori.",
+    "angles": [
+      "Come un'istituzione usa il podcast per la comunicazione pubblica",
+      "Il format podcast + evento live come modello replicabile per progetti culturali/didattici",
+      "Cosa imparare da questo storytelling istituzionale per un podcast a tema serio"
+    ],
+    "hooks": [
+      "Pensi che i podcast istituzionali siano sempre una noia mortale? La Commissione Europea ne ha appena lanciato uno con eventi dal vivo collegati, forse vale la pena vedere cosa hanno capito loro e non tu.",
+      "Hai un progetto culturale o didattico che non riesce a uscire dalla stanza? Guarda come persino l'UE ha abbinato cinque episodi podcast a eventi in piazza invece di starsene ferma con un comunicato.",
+      "Credi che il podcast serva solo per intrattenere? Anche la burocrazia più pesante d'Europa ci scommette per raccontare la sua storia, con tappe live in giro per l'Italia."
+    ]
+  },
+  {
+    "id": "iab-podcast-upfront-2026-spesa-pubblicitaria",
+    "title": "IAB Podcast Upfront 2026: la spesa pubblicitaria sui podcast cresce dell'8,7%, spinta dal video",
+    "source": "podcastnewsdaily.com, \"IAB Opens Podcast Upfront With A Message: Podcasting Is Growing Up\" (16/09/2026); Inside Radio, Inside Audio Marketing; Spot and Web (IT), \"Podcast, la nuova sfida è tra video, AI e pubblicità\"",
+    "affidabilita": "secondaria",
+    "target": 5,
+    "date": "2026-09-16",
+    "brief": "Al Podcast Upfront 2026 di New York, IAB conferma una crescita dell'8,7% della spesa pubblicitaria sui podcast nel 2026, davanti ad altri canali digitali; il 49% degli ascoltatori usa già il video (era il 30% quattro anni fa), spingendo il settore a ripensare la misurazione in chiave multipiattaforma.",
+    "angles": [
+      "Cosa significa per i podcast piccoli l'aumento di budget destinato al settore",
+      "Perché le agenzie iniziano a chiedere dati su ascolto E visione, non solo download",
+      "Come prepararsi a proporsi agli sponsor con metriche multiformato"
+    ],
+    "hooks": [
+      "Ti scoraggi perché pensi che gli sponsor guardino solo i podcast giganti? Il budget pubblicitario destinato ai podcast sta crescendo più di quasi ogni altro canale digitale, e prima o poi arriva anche a te.",
+      "Hai uno sponsor che ti chiede dati che non sai dargli? Il settore si sta spostando da 'quanti download hai' a 'quanti ti guardano e quanti ti ascoltano', quindi inizia a tracciare entrambi da subito.",
+      "Pensi che il video nei podcast sia solo una moda passeggera? I soldi della pubblicità dicono il contrario: chi lo adotta oggi intercetta budget che stanno letteralmente raddoppiando anno su anno."
     ]
   }
 ]

@@ -1,56 +1,29 @@
 [
   {
-    "id": "aci-comics-games-2026-favij-lollolacustre",
-    "title": "Favij e LolloLacustre ospiti ad Aci Comics & Games 2026 ad Acireale",
-    "source": "MCTV (14/09/2026), La Sicilia, Free Press Online (14 e 18/09/2026)",
+    "id": "mikeshowsha-canale-youtube-hackerato",
+    "title": "Il canale YouTube di MikeShowSha (Federico Betti) violato da hacker che promuovevano una truffa Bitcoin",
+    "source": "Everyeye.it, \"Anche il canale di MikeShowSha è finito nel mirino degli hacker: ora promuove Bitcoin\" e \"MikeShowSha: dopo l'hacking, è riuscito a recuperare il suo canale YouTube!\" (23/09/2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "La quarta edizione di Aci Comics & Games si è tenuta dal 18 al 20 settembre 2026 al PalaVolcan di Acireale, con Lorenzo Ostuni (Favij) e LolloLacustre tra gli ospiti principali insieme a Taryn Cosplay; per LolloLacustre si è trattato del debutto in un evento in Sicilia. Il festival ha cambiato sede rispetto alle edizioni precedenti, spostandosi da Villa Belvedere a spazi più ampi, con aree fumetti/manga, gaming, giochi da tavolo, tornei e cosplay.",
-    "rilevanza": "Conferma la crescente presenza di creator gaming e streaming italiani di primo piano nei festival pop regionali, segno della diffusione della cultura nerd anche fuori dai grandi eventi nazionali."
+    "date": "2026-09-23",
+    "brief": "Il 23 settembre 2026 il canale YouTube di Federico Betti, in arte MikeShowSha (oltre 3 milioni di iscritti), è stato violato: gli hacker hanno rimosso i video storici del canale e caricato un filmato con il volto di Elon Musk manipolato per promuovere una truffa in Bitcoin. Con l'aiuto dell'assistenza YouTube, il creator è riuscito a riottenere il controllo del canale e ha avviato il ripristino dei video.",
+    "rilevanza": "È un caso recente di attacco hacker a un canale YouTube italiano di grande seguito nell'ambito gaming/intrattenimento, utile per sensibilizzare la community sulla sicurezza degli account."
   },
   {
-    "id": "wondercon-italia-2026-angri",
-    "title": "Wondercon Italia 2026 ad Angri riunisce streamer, cosplayer e content creator",
-    "source": "CorriereNerd.it, Nerdando, PopcorNerd (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "Dal 18 al 20 settembre 2026 il Castello Doria di Angri ha ospitato la terza edizione di Wondercon Italia, fiera dedicata a fumetti, manga, cosplay, doppiaggio, K-pop e videogiochi. Il programma ha coinvolto streamer, cosplayer, content creator e influencer italiani, oltre a ospiti internazionali come l'idol Yuffie Sakimura e il martial artist Yousuke Aikawa.",
-    "rilevanza": "Mostra come i festival pop italiani stiano diventando piattaforme stabili di incontro tra pubblico e content creator dell'area nerd/gaming, ampliando l'offerta oltre le fiere storiche."
-  },
-  {
-    "id": "to-play-2026-torino-gioco-da-tavolo",
-    "title": "TO Play 2026 a Torino: nona edizione del festival del gioco di ruolo e da tavolo",
-    "source": "Comune di Torino - Eventi (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "Il 19 e 20 settembre 2026 Parco Dora a Torino ha ospitato la nona edizione di TO Play, festival dedicato al gioco di ruolo e da tavolo con oltre 200 tavoli di gioco e più di 50 associazioni ludiche coinvolte, a ingresso gratuito.",
-    "rilevanza": "Uno dei principali eventi italiani dedicati alla community dei giochi da tavolo e di ruolo, punto di riferimento per appassionati e associazioni ludiche del territorio."
-  },
-  {
-    "id": "pig-passa-il-gioco-monza-2026",
-    "title": "PiG - Passa il Gioco a Monza: evento sui giochi da tavolo tra scambio e sostenibilità",
-    "source": "Sito ufficiale passailgioco.it (settembre 2026)",
+    "id": "lollolacustre-crescita-youtube-settembre",
+    "title": "LolloLacustre in forte crescita su YouTube dopo le tappe di Aci Comics e Wondercon",
+    "source": "Dati aggregati PlayBoard/SocialBlade/vidIQ (snapshot consultato il 23/09/2026)",
     "affidabilita": "segnale_debole",
-    "date": "2026-09-20",
-    "brief": "Domenica 20 settembre 2026, dalle 10 alle 22, il Parco di Monza ha ospitato PiG - Passa il Gioco, evento dedicato ai giochi da tavolo con tavoli condivisi e un'impostazione basata su scambio, sostenibilità e comunità.",
-    "rilevanza": "Esempio di evento locale ma sempre più strutturato dedicato alla community dei giochi da tavolo, con un taglio legato all'economia circolare che sta guadagnando attenzione tra gli appassionati."
+    "date": "2026-09-23",
+    "brief": "Il canale di LolloLacustre risulta a circa 1,94 milioni di iscritti, con un incremento stimato di circa 80.000 iscritti negli ultimi 30 giorni e quasi 90 milioni di visualizzazioni nell'ultimo mese, secondo i tracker di terze parti PlayBoard/SocialBlade/vidIQ.",
+    "rilevanza": "Segnale (non conclusivo, dati di piattaforme terze e non un comunicato ufficiale) di una crescita sostenuta nelle settimane successive alla sua partecipazione ad Aci Comics & Games e Wondercon Italia."
   },
   {
-    "id": "tokyo-game-show-2026-industria-italiana",
-    "title": "L'industria italiana dei videogiochi al Tokyo Game Show 2026",
-    "source": "Dalla Platea, Nonsolocalcio (18/09/2026); Everyeye.it",
+    "id": "milan-games-week-area-creator-content",
+    "title": "Milan Games Week & Cartoomics 2026 apre un'area dedicata a streamer e content creator",
+    "source": "Sky TG24 (14/09/2026), Il Fatto Quotidiano.it (18/09/2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-18",
-    "brief": "Il Tokyo Game Show 2026 si è svolto dal 17 al 21 settembre al Makuhari Messe di Chiba, con un padiglione nazionale coordinato dall'Ufficio ICE di Tokyo che ha ospitato undici studi italiani di sviluppo. L'evento è stato seguito in streaming su otto piattaforme, tra cui YouTube e Twitch, principali canali di riferimento per il pubblico italiano.",
-    "rilevanza": "La presenza di studi italiani a una delle fiere videoludiche più importanti al mondo, seguita anche da creator e testate italiane in diretta, alimenta la copertura mediatica del settore gaming nostrano."
-  },
-  {
-    "id": "dario-moccia-matioski-show-clayface",
-    "title": "Dario Moccia ospite del Matioski Show per parlare del film Clayface",
-    "source": "Canale YouTube Matioski Show/Matioski Clip (17/09/2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-17",
-    "brief": "Nella puntata del 17 settembre 2026 del Matioski Show, Dario Moccia è stato ospite per discutere della classificazione 'vietato ai minori' del film Clayface e di altri temi cinematografici come Avengers Endgame Extra; dalla puntata sono stati pubblicati anche contenuti in formato clip sul canale collegato.",
-    "rilevanza": "Il format di dialogo tra Matioski e Dario Moccia, tra i creator italiani più seguiti nell'ambito pop/gaming, continua a essere un punto di riferimento per il commento a caldo di notizie di cinema e cultura pop in Italia."
+    "brief": "Nell'ambito di Milan Games Week & Cartoomics 2026 (27-29 novembre, Fiera Milano Rho) sono state confermate aree dedicate a incontri con streamer, content creator e influencer, accanto agli ospiti internazionali già annunciati (tra cui Emily Rudd e Taz Skylar del live-action One Piece Netflix).",
+    "rilevanza": "È il prossimo grande evento nerd/gaming italiano dove ci si aspetta la presenza di numerosi content creator italiani, utile come anticipazione per chi segue la scena."
   }
 ]
