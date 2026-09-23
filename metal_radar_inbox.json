@@ -1,50 +1,58 @@
 [
   {
-    "id": "dragonforce-album-omonimo-alissa-white-gluz",
-    "title": "DragonForce annunciano l'album omonimo, primo con Alissa White-Gluz alla voce",
-    "source": "Blabbermouth.net, Loudwire, Consequence, Bravewords (22/09/2026)",
+    "id": "dragonforce-nuovo-album-alissa-white-gluz",
+    "title": "DragonForce annunciano il nuovo album omonimo con Alissa White-Gluz e pubblicano il primo singolo",
+    "source": "DragonForce.com (comunicato ufficiale), Kerrang!, Metal Injection, mxdwn Music - 22 settembre 2026",
     "affidabilita": "primaria",
     "date": "2026-09-22",
-    "brief": "DragonForce annunciano il decimo album, omonimo, in uscita il 19 marzo 2027 via Napalm Records, prodotto da Jens Bogren. È il primo disco con la nuova frontwoman Alissa White-Gluz (ex Arch Enemy) e il nuovo vocalist Alessio Garavello, che sostituiscono Marc Hudson (uscito per problemi di acufene). Pubblicato anche il video del singolo \"Hunger of the Beast\"."
+    "brief": "DragonForce hanno annunciato il decimo album in studio, omonimo, in uscita il 19 marzo 2027 per Napalm Records: è il primo lavoro con la nuova cantante Alissa White-Gluz (ex Arch Enemy). Contestualmente è uscito il primo singolo \"Hunger of the Beast\" con video."
   },
   {
-    "id": "whiplash-roar-bullet-train",
-    "title": "Whiplash annunciano il nuovo album \"Roar\" ed escono con il singolo \"Bullet Train\"",
-    "source": "Blabbermouth.net, ReadDork, Metal Storm (22/09/2026)",
+    "id": "artificial-brain-nuovo-album-antillia",
+    "title": "Artificial Brain annunciano il nuovo album \"Antillia\" e pubblicano il singolo \"Quantum Malignancies\"",
+    "source": "Stereogum, Profound Lore Records, Theprp.com - 21-22 settembre 2026",
+    "affidabilita": "primaria",
+    "date": "2026-09-21",
+    "brief": "La band tech-death Artificial Brain ha annunciato il quarto album \"Antillia\", in uscita il 13 novembre via Profound Lore Records, con base ora a Richmond (Virginia) e i nuovi membri Mike Paparo (Inter Arma) e Alex Tomlin. Pubblicato anche il primo singolo \"Quantum Malignancies\"."
+  },
+  {
+    "id": "nile-tour-europa-uk-dicembre-2026",
+    "title": "Nile annunciano un tour europeo e nel Regno Unito per dicembre 2026",
+    "source": "Theprp.com, Lambgoat, Metal Anarchy - 22 settembre 2026",
     "affidabilita": "primaria",
     "date": "2026-09-22",
-    "brief": "Gli storici thrasher del New Jersey Whiplash annunciano \"Roar\", decimo lavoro in studio, in uscita il 27 novembre 2026 via Time To Kill Records (cover di Ed Repka), e pubblicano il primo singolo \"Bullet Train\", guidato dal chitarrista/cantante Tony Portaro."
+    "brief": "I death metal tecnici Nile hanno annunciato un tour dall'1 al 20 dicembre 2026 con tappe in Polonia, Slovacchia, Romania, Ungheria, Slovenia, Germania, Belgio, Paesi Bassi e Regno Unito, insieme a Intrepid, Redsphere e Orecus. Al momento non risultano date italiane annunciate."
   },
   {
-    "id": "cabal-hurt-me-justine-jones-tour-europeo",
-    "title": "Cabal pubblicano \"Hurt Me\" con Justine Jones (Employed To Serve) e annunciano tour europeo insieme",
-    "source": "Theprp.com, Lambgoat, Metal Shock Finland (18-20/09/2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "I metalcore/deathcore danesi Cabal pubblicano \"Hurt Me\" (Church Road Records) con la partecipazione di Justine Jones degli Employed To Serve. Il brano parla della dipendenza da relazioni tossiche. Le due band annunciano un tour europeo congiunto per novembre-dicembre 2026."
-  },
-  {
-    "id": "mustaine-cancel-culture-intervista",
-    "title": "Dave Mustaine (Megadeth): \"Il mondo è cambiato in peggio, troppo odio e cancel culture\"",
-    "source": "Blabbermouth.net, truemetal.it (19-20/09/2026), intervista a Metal Hammer Greece/TV War",
+    "id": "king-diamond-ristampa-halloween-picture-disc",
+    "title": "King Diamond annuncia la ristampa picture disc di \"Halloween\" con nuova copertina",
+    "source": "Blabbermouth.net - 23 settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "In un'intervista al programma greco TV War, Dave Mustaine ha dichiarato che il mondo è peggiorato per la \"cancel culture\" e l'odio diffuso, sostenendo che oggi cantare di politica dimezza automaticamente il pubblico di una band."
+    "date": "2026-09-23",
+    "brief": "King Diamond ripubblicherà il 23 ottobre, tramite Metal Blade Records, il picture disc a tre tracce \"Halloween\" (originariamente del 1986, legato alle session di \"Fatal Portrait\"), con nuova grafica firmata Mario Lopez."
   },
   {
-    "id": "cannibal-corpse-mazurkiewicz-vita-on-the-road",
-    "title": "Cannibal Corpse: Paul Mazurkiewicz racconta come è cambiata la vita on the road",
-    "source": "truemetal.it, citando il podcast Pod Scum (21/09/2026)",
+    "id": "hexabrot-nuovo-album-self-similarity",
+    "title": "Gli italiani Hexabrot annunciano il nuovo album \"Self-Similarity\"",
+    "source": "Metalitalia.com, TrueMetal.it, The Metal List PR - 23 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-23",
+    "brief": "La band progressive melodic death metal torinese Hexabrot ha annunciato il nuovo album \"Self-Similarity\", in uscita il 9 ottobre via Ænima Recordings, anticipato dal singolo \"Loss of Perspective\". Copertina dipinta dall'artista Lucia Donelli."
+  },
+  {
+    "id": "bullet-for-my-valentine-nuovo-singolo-social-apocalypse",
+    "title": "Bullet For My Valentine pubblicano il nuovo singolo \"Social Apocalypse\"",
+    "source": "SiriusXM Octane, Metal Anarchy, Chaoszine - 23 settembre 2026",
+    "affidabilita": "primaria",
+    "date": "2026-09-23",
+    "brief": "La band gallese ha pubblicato \"Social Apocalypse\" in anteprima esclusiva su SiriusXM Octane: è il primo estratto dall'ottavo album in studio, atteso per il 17 marzo 2027."
+  },
+  {
+    "id": "metalitalia-festival-2026-orari-concerti",
+    "title": "Metalitalia Festival 2026: annunciati gli orari dei concerti a Trezzo sull'Adda",
+    "source": "TrueMetal.it, Heavymetalwebzine.it, Metalitalia.com - 21 settembre 2026",
     "affidabilita": "secondaria",
     "date": "2026-09-21",
-    "brief": "Il batterista dei Cannibal Corpse ha parlato, in un'intervista al podcast Pod Scum, di come sia cambiato il modo di stare in tour in quasi quattro decenni di carriera della band."
-  },
-  {
-    "id": "epica-unica-data-italiana-milano-2027",
-    "title": "Epica: unica data italiana del \"The Symphonic Synergy Tour\" a Milano nel 2027",
-    "source": "Metalitalia.com, Loud and Proud, MC2Live.it (15-18/09/2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-15",
-    "brief": "Gli olandesi Epica portano in Italia, per l'unica data italiana, \"The Symphonic Synergy Tour\" (con orchestra e coro completi) domenica 3 ottobre 2027 al Teatro Arcimboldi di Milano, per celebrare i 25 anni di carriera. Prevendita partita il 16/09, vendita generale dal 18/09 su MC2Live e Vivaticket."
+    "brief": "Confermati gli orari di concerti e meet&greet per la 13ª edizione del Metalitalia Festival, in programma il 26-27 settembre al Live Club di Trezzo sull'Adda (MI), preceduto dal warm up party del 25 settembre al Bloom di Mezzago. Tra gli headliner Paradise Lost e Coroner, con Amenra, Fleshgod Apocalypse, Fear Factory e altri."
   }
 ]

@@ -1,116 +1,135 @@
 [
   {
-    "id": "festival-podcasting-2026-tour-italia",
-    "title": "Il Festival del Podcasting 2026 gira l'Italia con corsi gratuiti, finale a Milano il 2-3 ottobre",
-    "source": "Comunicato stampa ASSIPOD/organizzatori ripreso da askanews.it, La Voce d'Italia, Radio Studio90 Italia, CanaleUno, Il Quotidiano del Sud, Media Key (22/09/2026)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-21",
-    "brief": "Decima edizione del Festival del Podcasting: dal 21 al 30 settembre 2026 eventi diffusi in tutta Italia (Milano, Genova, Rimini, Roma, Trieste, Piacenza, Rieti, Palermo, Viggiano), con corsi di formazione gratuiti su podcast e giornalismo organizzati insieme agli Ordini dei Giornalisti di Lombardia ed Emilia Romagna. Chiusura il 2-3 ottobre a Cascina Triulza (MIND, Milano).",
+    "id": "made-on-youtube-2026-podcast",
+    "title": "YouTube annuncia nuove funzioni podcast su YouTube Music al Made on YouTube 2026",
+    "source": "YouTube Blog / Google Blog (23/09/2026), ripreso da 9to5Google",
+    "affidabilita": "primaria",
+    "target": 8,
+    "date": "2026-09-23",
+    "brief": "All'evento Made on YouTube 2026 (23 settembre), YouTube ha presentato \"Your Podcast Lineup\" (un riepilogo vocale settimanale di show consigliati su YouTube Music) e \"Ask Music\", assistente conversazionale su podcast e brani. Arrivano anche i Custom Feeds per la home.",
     "angles": [
-      "Corsi di formazione gratuiti per chi vuole imparare le basi da chi lo fa di mestiere",
-      "Il nuovo format 'PodCafè' di Genova come esempio di ibrido evento/podcast",
-      "Dieci anni di festival: come è cambiato il podcasting italiano dal primo al decimo anno"
+      "Come sfruttare la discovery automatica di YouTube senza dover fare tu tutto il lavoro promozionale",
+      "Perché YouTube continua a blindare il suo ruolo di piattaforma podcast numero uno",
+      "Cosa cambia per chi pubblica solo audio e non carica video su YouTube"
     ],
     "hooks": [
-      "Sei bloccato a registrare da solo in cameretta e non sai se il tuo podcast interessa a qualcuno? Per dieci giorni in giro per l'Italia puoi andare a sentirlo dal vivo, gratis, prima di continuare a parlare al muro.",
-      "Hai finito tutti i corsi YouTube su come si fa un podcast e ti senti ancora perso? In dieci città italiane c'è gente che lo fa per mestiere pronta a spiegartelo in faccia, niente slide.",
-      "Ti sei mai chiesto se il tuo podcast funzionerebbe meglio come format live? Fino al 30 settembre giri l'Italia a vedere come lo fanno gli altri, poi il 2 ottobre si chiude tutto a Milano."
+      "Pubblichi il podcast solo su Spotify e pensi di aver fatto tutto? YouTube ti sta preparando un altro motivo per aprire anche lì un canale.",
+      "Se odi dover pensare ogni settimana a come farti scoprire, sappi che ora ci prova l'IA di YouTube al posto tuo, bene o male.",
+      "Hai mai controllato quanti dei tuoi ascoltatori ti trovano da YouTube e non da Spotify? Tra poco la risposta ti farà arrabbiare."
     ]
   },
   {
-    "id": "spotify-partner-program-soglie-italia",
-    "title": "Spotify Partner Program in Italia: ecco le soglie minime per accedere alla monetizzazione",
-    "source": "SmartWorld \"Spotify Partner Program arriva in Italia: come guadagnare con il tuo podcast\"; Engage.it, TecnoAndroid, guruhitech.com, Mister Gadget (17-22/09/2026, dati coerenti tra loro)",
+    "id": "spotify-partner-program-italia",
+    "title": "Spotify estende il Partner Program dei podcast a 35 nuovi mercati, inclusa l'Italia",
+    "source": "TechCrunch (17/09/2026)",
     "affidabilita": "secondaria",
+    "target": 9,
+    "date": "2026-09-17",
+    "brief": "Spotify ha ampliato il Partner Program per i podcast a 35 nuovi Paesi, tra cui l'Italia, permettendo ai creator locali di monetizzare sia l'audio sia il video (impression premium più revenue share sulla pubblicità agli utenti free). I creator possono comunque distribuire lo show su altre piattaforme e tenersi le sponsorizzazioni dirette.",
+    "angles": [
+      "Come iscriversi e cosa serve per essere idonei al Partner Program in Italia",
+      "Video podcast vs audio: perché Spotify ora paga anche chi mostra la faccia",
+      "Cosa significa davvero 'monetizzare' con numeri realistici per un piccolo show italiano"
+    ],
+    "hooks": [
+      "Fai un podcast in italiano e pensavi che Spotify pagasse solo gli americani? Da ora tocca anche a te, vai a controllare se rientri.",
+      "Hai sempre pensato che il video fosse solo una rottura in più da gestire? Ora Spotify ti paga pure per quello, quindi forse conviene ripensarci.",
+      "Monetizzare un podcast in Italia sembrava fantascienza fino a ieri: da questo mese c'è un programma vero, con soldi veri, e riguarda anche te."
+    ]
+  },
+  {
+    "id": "descript-update-settembre-2026",
+    "title": "Descript aggiorna l'editor: sottotitoli animati, musica e SFX generati dall'IA",
+    "source": "Descript Changelog / Blog ufficiale (17/09/2026)",
+    "affidabilita": "primaria",
     "target": 8,
     "date": "2026-09-17",
-    "brief": "Dopo l'annuncio dell'espansione del Partner Program a 35 nuovi mercati incluso quello italiano, sono emersi i requisiti pratici per accedere alla monetizzazione: almeno 3 episodi pubblicati, 2.000 ore di fruizione e 1.000 utenti coinvolti negli ultimi 30 giorni. Chi entra guadagna dai video per gli utenti Premium, dalla pubblicità sul piano free e può gestire sponsorizzazioni proprie mantenendo i ricavi anche su altre piattaforme.",
+    "brief": "Il 17 settembre Descript ha rilasciato un aggiornamento con preset e animazioni per i sottotitoli, generazione IA di musica ed effetti sonori su richiesta direttamente nell'editor, e nuovi metodi di pagamento (Apple Pay, Cash App). Il changelog conta circa venti modifiche in totale.",
     "angles": [
-      "Checklist pratica per capire se sei già idoneo al programma",
-      "Conviene spingere sul video per Premium o restare solo audio per raggiungere le soglie",
-      "Cosa cambia per chi ha già sponsor diretti fuori da Spotify"
+      "Come usare l'IA generativa per musica e SFX senza pagare licenze esterne",
+      "Sottotitoli automatici animati: quanto tempo fanno davvero risparmiare in post-produzione",
+      "Vale la pena passare a Descript se editi già con un altro tool?"
     ],
     "hooks": [
-      "Hai un podcast con quattro gatti che lo ascoltano e pensi che monetizzare sia roba da fenomeni? Da quest'autunno Spotify ti dà un numero preciso da raggiungere, ed è più basso di quanto pensi.",
-      "Ti sei mai chiesto quante ore di ascolto servono prima di vedere un euro da Spotify? Ora c'è un numero preciso: tre episodi e duemila ore, altro che aspettare il miracolo.",
-      "Stai ancora rimandando la pubblicazione perché 'non è pronto'? Con tre soli episodi potresti già essere a un passo dai requisiti minimi per iniziare a guadagnare."
+      "Passi ancora ore a cercare la musichetta giusta per la sigla del tuo podcast? Descript ora te la genera lei con un prompt.",
+      "Se il tuo montaggio si blocca sempre sui sottotitoli fatti a mano, c'è un aggiornamento fresco che ti toglie quel problema.",
+      "Hai mai pensato di pagare gli strumenti per il podcast con Cash App invece della carta? Ora si può, e no, non è una battuta."
     ]
   },
   {
-    "id": "podcast-study-2026-fiducia-host",
-    "title": "The Podcast Study 2026: la pubblicità letta dall'host batte lo spot preregistrato",
-    "source": "Podnews, \"The Podcast Study 2026 Reveals the Power of Trust, Hosts, and New Revenue Opportunities\" (22/09/2026); ripreso da Inside Radio, Inside Audio Marketing, eMarketer",
+    "id": "audacity-4-0",
+    "title": "Audacity 4.0: il più grande aggiornamento in 26 anni di storia del software gratuito",
+    "source": "Tom's Hardware Italia, HWUpgrade, Mia mamma usa Linux!, LaserOffice.it (tutti 03-04/09/2026)",
     "affidabilita": "secondaria",
-    "target": 5,
-    "date": "2026-09-21",
-    "brief": "Uno studio su 1.205 ascoltatori USA (Crooked Media/NPR/PRX) mostra che il 57% ricorda meglio un brand dopo un endorsement letto dall'host, il 44% si fida di più di questo tipo di annuncio rispetto a uno spot preregistrato, e circa metà del pubblico pagherebbe 3-5 dollari al mese per un abbonamento che elimini tutta la pubblicità tranne quella letta a voce dall'host.",
+    "target": 7,
+    "date": "2026-09-03",
+    "brief": "Il 3 settembre è uscita Audacity 4.0, l'aggiornamento più importante dai tempi della prima versione (2000): nuova interfaccia basata su Qt6, gestione progetti rinnovata, editing non distruttivo a clip e nuovo formato file .aup4. L'aspetto 'classico' resta comunque disponibile come opzione.",
     "angles": [
-      "Perché lo sponsor letto a voce batte lo spot preregistrato in fiducia e ricordo",
-      "Ha senso un tier 'ad-free tranne host-read' anche per show piccoli",
-      "Come costruire fiducia con il pubblico per aumentare il valore delle sponsorizzazioni"
+      "Vale la pena aggiornare subito o meglio aspettare qualche bugfix?",
+      "Cosa cambia in pratica per chi ha sempre usato Audacity nella vecchia interfaccia",
+      "Editing non distruttivo: perché è un salto di qualità per chi taglia tutto a mano"
     ],
     "hooks": [
-      "Hai paura che mettere pubblicità nel podcast allontani chi ti ascolta? Uno studio dice il contrario: se la leggi tu con la tua voce, la gente si fida più che con uno spot vero.",
-      "Ti senti in colpa ogni volta che devi leggere lo sponsor a voce? Metà degli ascoltatori pagherebbe pur di sentire solo quelle, altro che skippare la pubblicità.",
-      "Pensi che il pubblico odi le pubblicità nei podcast? Dipende chi le legge: se lo fai tu, funzionano quasi il doppio rispetto a uno spot registrato da un altro."
+      "Usi ancora Audacity con quell'interfaccia identica da vent'anni? Con la 4.0 non la riconosci più, e stavolta in senso buono.",
+      "Hai paura di aggiornare Audacity perché l'ultima volta si è rotto tutto il progetto? Stavolta il salto è vero, ed è grosso.",
+      "Se monti ancora tagliando e incollando alla cieca sperando bene, la versione nuova ti toglie quella scusa di dosso."
     ]
   },
   {
-    "id": "acast-podcast-pulse-2026-audio-video",
-    "title": "Report Acast: l'88% del pubblico salta liberamente tra audio e video podcast",
-    "source": "Podnews/Acast, \"Podcast Advertising Transcends Audio...\" (17/09/2026); Inside Radio, \"Podcast Audiences Move Freely Between Audio And Video\" (19/09/2026); PodcastingToday, RAIN News",
+    "id": "sennheiser-neumann-ibc-2026",
+    "title": "Sennheiser e Neumann presentano nuove capsule microfoniche e il wireless Spectera a IBC 2026",
+    "source": "ProSoundWeb, AVNation, Event-Technology Portal, Radio World (tutti 08-25/08/2026 e settembre 2026)",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-17",
-    "brief": "Un report Acast su 4.300 persone in 13 mercati mostra che l'88% di chi consuma sia audio che video usa entrambi i formati (era il 78% un anno fa), e il 63% ha iniziato un episodio in un formato e lo ha finito nell'altro.",
+    "date": "2026-09-11",
+    "brief": "A IBC 2026 di Amsterdam (11-14 settembre) il gruppo Sennheiser ha mostrato le nuove capsule Neumann KK 104 A (cardioide) e KK 105 A (supercardioide) e il sistema wireless Spectera, la cui versione SKM handheld è disponibile commercialmente da metà settembre.",
     "angles": [
-      "Perché non serve scegliere per forza tra 'solo audio' e 'video completo'",
-      "Come costruire un episodio che regga sia guardato che solo ascoltato",
-      "Cosa significa questo dato per la scelta delle piattaforme di distribuzione"
+      "Capsule intercambiabili: come funzionano e a chi servono davvero, non solo ai broadcaster",
+      "Differenza pratica tra cardioide e supercardioide per chi registra in una stanza non trattata",
+      "Wireless professionale: quando ha senso investirci per un podcast in studio o in trasferta"
     ],
     "hooks": [
-      "Sei ancora lì a tormentarti se il tuo podcast deve essere audio o video? Un nuovo studio dice che il pubblico se ne frega e passa dall'uno all'altro senza nemmeno accorgersene.",
-      "Hai investito in una webcam pensando che ormai il video sia obbligatorio? Calma: la maggioranza inizia un episodio guardandolo e lo finisce solo ascoltandolo, magari in macchina.",
-      "Ti stressi a scegliere la piattaforma 'giusta'? I dati dicono che il tuo pubblico salta comunque da audio a video a seconda di dove si trova, quindi pubblica su entrambi e rilassati."
+      "Se registri sempre nella solita stanza che rimbomba, la scelta della capsula del microfono conta più di quanto pensi.",
+      "Hai comprato un microfono economico e ora vorresti cambiarlo? Guarda prima come funzionano le capsule intercambiabili, ti eviti un acquisto sbagliato.",
+      "Pensi che il wireless serva solo a chi fa eventi dal vivo? Anche per un podcast in trasferta può risolverti problemi che nemmeno sapevi di avere."
     ]
   },
   {
-    "id": "commissione-europea-fare-europa-podcast",
-    "title": "\"Fare l'Europa\": la Commissione Europea in Italia lancia un podcast con eventi live collegati",
-    "source": "Rappresentanza in Italia della Commissione Europea, comunicato ufficiale (21/09/2026); ripreso da Italpress, ADN24",
-    "affidabilita": "primaria",
-    "target": 4,
-    "date": "2026-09-21",
-    "brief": "La Rappresentanza della Commissione Europea in Italia lancia \"Fare l'Europa\", 5 episodi podcast su momenti chiave della storia UE (da Erasmus a De Gasperi), abbinati a tre eventi pubblici dal vivo; il primo si terrà a Torino il 29 settembre durante la Notte dei Ricercatori.",
-    "angles": [
-      "Come un'istituzione usa il podcast per la comunicazione pubblica",
-      "Il format podcast + evento live come modello replicabile per progetti culturali/didattici",
-      "Cosa imparare da questo storytelling istituzionale per un podcast a tema serio"
-    ],
-    "hooks": [
-      "Pensi che i podcast istituzionali siano sempre una noia mortale? La Commissione Europea ne ha appena lanciato uno con eventi dal vivo collegati, forse vale la pena vedere cosa hanno capito loro e non tu.",
-      "Hai un progetto culturale o didattico che non riesce a uscire dalla stanza? Guarda come persino l'UE ha abbinato cinque episodi podcast a eventi in piazza invece di starsene ferma con un comunicato.",
-      "Credi che il podcast serva solo per intrattenere? Anche la burocrazia più pesante d'Europa ci scommette per raccontare la sua storia, con tappe live in giro per l'Italia."
-    ]
-  },
-  {
-    "id": "iab-podcast-upfront-2026-spesa-pubblicitaria",
-    "title": "IAB Podcast Upfront 2026: la spesa pubblicitaria sui podcast cresce dell'8,7%, spinta dal video",
-    "source": "podcastnewsdaily.com, \"IAB Opens Podcast Upfront With A Message: Podcasting Is Growing Up\" (16/09/2026); Inside Radio, Inside Audio Marketing; Spot and Web (IT), \"Podcast, la nuova sfida è tra video, AI e pubblicità\"",
+    "id": "passa-dal-bsmt-nuova-stagione",
+    "title": "Torna Passa dal BSMT di Gianluca Gazzoli: De Martino primo ospite, numeri da record",
+    "source": "Media Key (23/09/2026), Uomini e Donne Comunicazione (23/09/2026)",
     "affidabilita": "secondaria",
-    "target": 5,
-    "date": "2026-09-16",
-    "brief": "Al Podcast Upfront 2026 di New York, IAB conferma una crescita dell'8,7% della spesa pubblicitaria sui podcast nel 2026, davanti ad altri canali digitali; il 49% degli ascoltatori usa già il video (era il 30% quattro anni fa), spingendo il settore a ripensare la misurazione in chiave multipiattaforma.",
+    "target": 7,
+    "date": "2026-09-23",
+    "brief": "Dal 23 settembre è tornato 'Passa dal BSMT' di Gianluca Gazzoli, con Stefano De Martino primo ospite di stagione. Il podcast vanta oltre 13 milioni di stream su Spotify, più di 240 milioni di visualizzazioni su YouTube (oltre 840mila iscritti al canale) e oltre 14 milioni di like su TikTok.",
     "angles": [
-      "Cosa significa per i podcast piccoli l'aumento di budget destinato al settore",
-      "Perché le agenzie iniziano a chiedere dati su ascolto E visione, non solo download",
-      "Come prepararsi a proporsi agli sponsor con metriche multiformato"
+      "Cosa possiamo imparare dal formato BSMT per la crescita cross-piattaforma",
+      "Il ruolo delle clip TikTok/Instagram nella crescita di un podcast italiano",
+      "Quanto conta scegliere l'ospite giusto per aprire una nuova stagione"
     ],
     "hooks": [
-      "Ti scoraggi perché pensi che gli sponsor guardino solo i podcast giganti? Il budget pubblicitario destinato ai podcast sta crescendo più di quasi ogni altro canale digitale, e prima o poi arriva anche a te.",
-      "Hai uno sponsor che ti chiede dati che non sai dargli? Il settore si sta spostando da 'quanti download hai' a 'quanti ti guardano e quanti ti ascoltano', quindi inizia a tracciare entrambi da subito.",
-      "Pensi che il video nei podcast sia solo una moda passeggera? I soldi della pubblicità dicono il contrario: chi lo adotta oggi intercetta budget che stanno letteralmente raddoppiando anno su anno."
+      "Pensi che in Italia i podcast non possano fare numeri veri? Passa dal BSMT ha oltre 240 milioni di visualizzazioni solo su YouTube, fai due conti.",
+      "Hai un podcast che fatica a girare sui social? Guarda come uno studio milanese ha trasformato le clip in 14 milioni di like su TikTok.",
+      "Se pensi che basti un buon microfono per sfondare, BSMT ti ricorda che senza ospiti giusti e senza clip non vai da nessuna parte."
+    ]
+  },
+  {
+    "id": "italian-podcast-awards-piacenza-2026",
+    "title": "Quinta edizione degli Italian Podcast Awards (IlPod) in Piazza Cavalli a Piacenza",
+    "source": "PiacenzaSera, IlPiacenza, Libertà, AgenziaCult, Askanews (tutti settembre 2026), Comune di Piacenza (evento ufficiale)",
+    "affidabilita": "primaria",
+    "target": 7,
+    "date": "2026-09-23",
+    "brief": "Il 23 settembre Piazza Cavalli a Piacenza ospita la quinta edizione di IlPod - Italian Podcast Awards, il premio dedicato al podcasting italiano, a ingresso libero. In programma i premi Podcast dell'anno, Indie Podcast dell'anno, Premio Academy e Premio Storia del Podcast, condotti da Rossella Pivanti e Maura Gancitano.",
+    "angles": [
+      "Chi sono i finalisti e cosa raccontano delle tendenze del podcasting italiano",
+      "Perché un premio 'indie' conta per chi fa podcast da solo senza budget",
+      "Come candidarsi o partecipare alle prossime edizioni del premio"
+    ],
+    "hooks": [
+      "Fai un podcast indie da camera tua e pensi che nessuno se ne accorga? Stasera a Piacenza c'è un premio pensato apposta per te.",
+      "Se pensi che il podcasting italiano sia ancora una nicchia per pochi, guarda chi sale sul palco stasera in piazza a Piacenza.",
+      "Hai mai sognato di vedere il tuo podcast premiato invece che ascoltato da tre amici? Ecco cosa serve per arrivarci, in scala reale."
     ]
   }
 ]

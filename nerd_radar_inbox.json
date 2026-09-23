@@ -1,56 +1,56 @@
 [
   {
-    "id": "milan-games-week-cartoomics-2026-aumento-prezzi-biglietti",
-    "title": "Milan Games Week & Cartoomics 2026: dal 22 settembre aumentano i prezzi dei biglietti",
-    "source": "Vgmag.it (22/09/2026)",
-    "affidabilita": "segnale_debole",
-    "date": "2026-09-22",
-    "brief": "Gli organizzatori di Milan Games Week & Cartoomics (27-29 novembre 2026, Fiera Milano Rho) hanno annunciato un aumento del prezzo dei biglietti a partire dal 22 settembre, invitando il pubblico ad acquistare prima della modifica tariffaria. La manifestazione occuperà i padiglioni 9, 11, 22 e 24 con videogiochi, fumetti, manga, cosplay, esport e giochi da tavolo.",
-    "tipo": "fiera di settore"
-  },
-  {
-    "id": "asmodee-italia-novita-settembre-2026",
-    "title": "Asmodee Italia: le novità da tavolo di settembre 2026",
-    "source": "Metropolitan Magazine (21/09/2026), riprese da CorriereNerd e Nerdgames",
-    "affidabilita": "secondaria",
-    "date": "2026-09-21",
-    "brief": "Asmodee Italia ha comunicato il calendario delle uscite di settembre 2026, tra cui nuove espansioni per HEAT (Grand Prix con Cole Legend), Carcassonne e 7 Wonders, oltre a nuovi titoli come un party game ambientato in un bar e un cooperativo a scenari ispirato alle escape room.",
-    "tipo": "annuncio gioco da tavolo"
-  },
-  {
-    "id": "dv-games-ghenos-games-novita-autunno-2026",
-    "title": "dV Games e Ghenos Games presentano le uscite autunnali 2026 e un nuovo logo per i 25 anni",
-    "source": "geek.pizza (19/09/2026), ripreso da Metropolitan Magazine",
-    "affidabilita": "secondaria",
-    "date": "2026-09-19",
-    "brief": "dV Games e Ghenos Games hanno presentato le uscite autunnali 2026, tra cui \"Twin Pics: La coppia perfetta\" e il party game \"Taco Loco\", introducendo contestualmente un nuovo logo aziendale in occasione dei 25 anni di dV Games.",
-    "tipo": "annuncio gioco da tavolo"
-  },
-  {
-    "id": "tgs-2026-streaming-online-we-were-here-tomorrow",
-    "title": "Tokyo Game Show 2026: mantenuto lo streaming online dopo la cancellazione della giornata in presenza",
-    "source": "Comunicato ufficiale TGS (tgs.cesa.or.jp), 21/09/2026",
+    "id": "tgs-2026-giornata-annullata-tifone",
+    "title": "Tokyo Game Show 2026: la giornata del 21 settembre annullata per il tifone n.25",
+    "source": "Sito ufficiale Tokyo Game Show (tgs.cesa.or.jp), 21 settembre 2026; ripreso da GameDaily",
     "affidabilita": "primaria",
     "date": "2026-09-21",
-    "brief": "Dopo la cancellazione della giornata in presenza del 21 settembre per il tifone Dujuan, gli organizzatori hanno mantenuto lo streaming del programma ufficiale online come previsto. Tra i contenuti trasmessi, Total Mayhem Games ha annunciato la data di uscita di \"We Were Here Tomorrow\" (20 ottobre, Steam/PS5/Xbox Series).",
+    "brief": "Gli organizzatori del Tokyo Game Show 2026, alla sua 30ma edizione con oltre 1.100 espositori da 53 paesi, hanno cancellato l'intera giornata in presenza di lunedì 21 settembre a causa dell'avvicinarsi del tifone n.25, riducendo la fiera da cinque a quattro giorni effettivi.",
     "tipo": "fiera di settore"
   },
   {
-    "id": "nighthawks-richard-cobbett-wadjet-eye",
-    "title": "Pubblicato \"Nighthawks\", il nuovo gioco di Richard Cobbett per Wadjet Eye",
-    "source": "Eurogamer (22/09/2026)",
-    "affidabilita": "segnale_debole",
-    "date": "2026-09-22",
-    "brief": "È uscito \"Nighthawks\", visual novel/gestionale firmato dal giornalista e game designer Richard Cobbett per Wadjet Eye, che unisce meccaniche da gioco di ruolo da tavolo alla gestione di un locale notturno per vampiri.",
-    "tipo": "annuncio/uscita videogioco"
-  },
-  {
-    "id": "gamescom-asia-thailand-game-show-2026-lineup",
-    "title": "gamescom asia x Thailand Game Show 2026: svelata la line-up con John Romero",
-    "source": "onemoregame.ph, themagicrain.com (settembre 2026)",
+    "id": "lucca-comics-2026-montaggio-padiglioni",
+    "title": "Lucca Comics & Games 2026: iniziato il montaggio dei padiglioni, la città si trasforma per il 60esimo",
+    "source": "LuccaInDiretta, 22 settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-21",
-    "brief": "La fiera di Bangkok (29 ottobre-1 novembre 2026) ha annunciato la line-up completa: John Romero (id Software) riceverà il Lifetime Achievement Award e terrà il keynote \"Why We Still Make Games\"; confermati showcase con Nintendo, Capcom, Sega, Bandai Namco e un'area intrattenimento ampliata a quattro padiglioni.",
+    "date": "2026-09-22",
+    "brief": "A Lucca sono iniziati il 21-22 settembre i lavori di montaggio dei padiglioni in vista dell'edizione 2026 del festival (28 ottobre - 1 novembre), che celebra il 60esimo anniversario. Rispetto allo scorso anno i lavori sono partiti con alcuni giorni di anticipo. Una conferenza stampa il 24 settembre presenterà nel dettaglio l'area videogiochi e l'area Movies.",
     "tipo": "fiera di settore"
+  },
+  {
+    "id": "persona-4-revival-cast-inglese",
+    "title": "Persona 4 Revival svela il cast di doppiatori inglesi dei personaggi secondari",
+    "source": "Anime News Network, 22 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-22",
+    "brief": "Atlus/Sega hanno annunciato il cast inglese dei personaggi di supporto del remake in Unreal Engine 5 di Persona 4, mostrato al Tokyo Game Show 2026. Il gioco, già confermato per il 18 febbraio 2027 su PS5, Xbox Series X/S e PC (Day One su Game Pass), avrà anche una versione Nintendo Switch 2 dal 20 maggio 2027.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "paris-games-week-2026-playground-edition",
+    "title": "Paris Games Week 2026 svela il programma della speciale edizione dei 15 anni \"Playground Edition\"",
+    "source": "Journal du Geek, 22-23 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-23",
+    "brief": "Gli organizzatori della Paris Games Week (22-25 ottobre 2026, Paris Expo Porte de Versailles) hanno diffuso il programma completo della 15esima edizione, ribattezzata \"Playground Edition\": animazioni a tema parco giochi, esport, aree cosplay/retrogaming/manga e un percorso gamificato tramite app ufficiale.",
+    "tipo": "fiera di settore"
+  },
+  {
+    "id": "carcassonne-labyrinth-ravensburger",
+    "title": "Ravensburger annuncia Carcassonne Labyrinth, il crossover tra due classici",
+    "source": "El Candelero Tecnológico e altre testate di settore, 22 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-22",
+    "brief": "Ravensburger ha presentato Carcassonne Labyrinth, gioco per 1-4 giocatori firmato dai designer Klaus-Jürgen Wrede e Max J. Kobbert che fonde le meccaniche di Carcassonne (25 anni) e Labyrinth (40 anni). Ogni giocatore risolve il proprio labirinto per raggiungere tesori mentre sceglie le tessere per espandere il territorio. Uscita fissata per il 28 settembre 2026 a 34,99 euro.",
+    "tipo": "annuncio gioco da tavolo"
+  },
+  {
+    "id": "mr-records-demo-steam-ps5-xbox",
+    "title": "Mr. Records: demo gratuita su Steam e annunciate le versioni PS5 e Xbox Series X|S",
+    "source": "Gematsu / GamingTrend, 22 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-22",
+    "brief": "Wired Productions e lo studio Glee-Cheese hanno pubblicato su Steam la prima demo pubblica di Mr. Records, gioco che unisce ritmo musicale e gestione di un negozio di dischi, in vista di Steam Next Fest. Confermate anche le versioni PlayStation 5 e Xbox Series X|S, che si aggiungono a PC e Nintendo Switch 2 già annunciate.",
+    "tipo": "annuncio videogioco"
   }
 ]

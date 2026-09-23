@@ -1,58 +1,58 @@
 [
   {
-    "id": "tempesta-g1-annullata-nuova-finestra-24-26",
-    "title": "Allerta tempesta geomagnetica G1 del 23 settembre annullata, nuova finestra attesa il 24-26 settembre",
-    "source": "NOAA SWPC (spaceweather.gov), avviso emesso 22/09/2026 ore 01:05 UTC",
+    "id": "g1-storm-buco-coronale-24-settembre",
+    "title": "Allerta G1: vento solare da buco coronale atteso il 24 settembre",
+    "source": "NOAA SWPC, 3-Day Geomagnetic Forecast, 22 settembre 2026 (22:05 UTC)",
     "affidabilita": "primaria",
     "date": "2026-09-22",
-    "brief": "Il buco coronale che avrebbe dovuto produrre una tempesta G1 il 23 settembre non l'ha generata e NOAA ha ritirato il watch; le condizioni sono rimaste quiete/instabili (Kp fino a 3). Il forecast a 3 giorni di SWPC indica ora una nuova finestra di attività più probabile il 24-26 settembre, con Kp atteso a 4 il 24/09 e possibile G1 (Kp 5) il 25-26/09."
+    "brief": "NOAA SWPC ha emesso una previsione con probabilità elevate di tempesta geomagnetica minore (G1) per il 24 settembre, dovuta a vento solare veloce proveniente da un buco coronale in arrivo dopo l'equinozio. L'indice Ap previsto è in aumento nei giorni 23-25 settembre. Possibili effetti su propagazione HF alle alte latitudini e aurore visibili su Canada, Alaska e Scozia."
   },
   {
-    "id": "ri1fjz-franz-josef-land-ultimi-giorni",
-    "title": "RI1FJZ dalla Terra di Francesco Giuseppe, operativi fino al 25 settembre",
-    "source": "ri1fjz.ru (sito ufficiale spedizione), DX-World.net",
-    "affidabilita": "primaria",
-    "date": "2026-09-23",
-    "brief": "Il team guidato da Vasily RA1ZZ e Vladimir R9LR resta attivo dall'isola Alexandra (Artico russo) fino al 25 settembre, con fino a 7 stazioni (2 CW/SSB, 5 digitali) più attività EME, satelliti LEO e QO-100. Budget della spedizione oltre 50.000 dollari; entità DXCC tra le più rare e difficili dell'Artico."
-  },
-  {
-    "id": "kh8ww-samoa-americane-ultimi-giorni",
-    "title": "KH8WW da Samoa Americane, ultimi giorni di attività fino al 24 settembre",
-    "source": "lral.lv/kh8ww (sito ufficiale), DX-World.net",
-    "affidabilita": "primaria",
-    "date": "2026-09-23",
-    "brief": "Yuris YL2GM ed Eugene EA5EL operano da Aunu'u Island (IOTA OC-045) come KH8WW fino al 24 settembre; la spedizione è inserita nella classifica 2026 DXpedition Trophy. Ultime ore utili per collegare questa entità rara del Pacifico."
-  },
-  {
-    "id": "v47-saint-kitts-fino-a-fine-mese",
-    "title": "V47YA e V47RCX da Saint Kitts, attivi fino al 30 settembre",
-    "source": "425 DX News, UFRC.org",
+    "id": "n7nu-vp9-bermuda-cqww-rtty",
+    "title": "Spedizione N7NU/VP9 dalle Bermuda in coincidenza col CQ WW RTTY DX Contest",
+    "source": "425 DX News #1845, 11 settembre 2026 (ripreso da SWARL)",
     "affidabilita": "secondaria",
     "date": "2026-09-23",
-    "brief": "Tom K0YA (V47YA) e Toni W5RCX (V47RCX) operano in stile \"holiday\" da St Kitts (QTH V47JA) su 160-6m in CW, SSB e FT8 fino al 30 settembre. QSL per entrambi i nominativi via LoTW."
+    "brief": "Al K7AR, Ron WJ7R e Lee N7NU sono annunciati attivi come N7NU/VP9 dalle Bermuda dal 23 al 29 settembre, in FT8 e altri modi, con partecipazione al CQ WW RTTY DX Contest. Notizia riportata dal bollettino 425 DX News."
   },
   {
-    "id": "c8k-mozambico-date-confermate-novembre",
-    "title": "Nuova DXpedition C8K in Mozambico: confermate le date, 10-19 novembre 2026",
-    "source": "DX-World.net, CDXP - Czech DXpedition Group (cdxp.cz)",
+    "id": "ri1fjz-terra-di-francesco-giuseppe",
+    "title": "DXpedition RI1FJZ a Terra di Francesco Giuseppe verso la conclusione",
+    "source": "Sito ufficiale ri1fjz.ru; DX-World.net",
     "affidabilita": "primaria",
-    "date": "2026-09-23",
-    "brief": "Il gruppo ceco CDXP ha confermato le date definitive per l'attivazione C8K dal Mozambico: arrivo il 9 novembre, operatività piena dal 12 al 18 novembre, smontaggio il 19-20 novembre. Focus su bande basse, CW/SSB/digitali e QO-100, con più stazioni contemporanee; QSL via LoTW o OQRS Club Log."
+    "date": "2026-09-25",
+    "brief": "Il team RI1FJZ (guidato da RA1ZZ e R9LR) opera dall'isola Aleksandra, nell'arcipelago russo Terra di Francesco Giuseppe, dal 9 al 25 settembre 2026 su HF 160-10m in CW/SSB/digitali, con attività anche in EME e sui satelliti LEO e QO-100. Budget dichiarato superiore a 50.000 dollari; una delle DXCC entity più difficili al mondo."
   },
   {
-    "id": "cqww-rtty-contest-26-27-settembre",
-    "title": "CQ World Wide DX RTTY Contest nel weekend del 26-27 settembre",
-    "source": "cqwwrtty.com (regolamento ufficiale), RSGB GB2RS",
+    "id": "8q7jh-maldive",
+    "title": "8Q7JH attivo dalle Maldive fino a inizio ottobre",
+    "source": "425 DX News #1845, 11 settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-20",
+    "brief": "Juergen, DL3JH, opera con il nominativo 8Q7JH dalle Maldive dal 20 settembre al 10 ottobre 2026, secondo quanto riportato dal bollettino 425 DX News."
+  },
+  {
+    "id": "orari-emcomm-indonesia-vulcani",
+    "title": "ORARI mantiene attiva la rete di emergenza in Indonesia per le eruzioni vulcaniche",
+    "source": "IARU Region 1 (iaru-r1.org); comunicato ORARI",
     "affidabilita": "primaria",
+    "date": "2026-09-24",
+    "brief": "A seguito delle eruzioni di più vulcani indonesiani (Ile Lewotolok, Semeru, Sinabung, Anak Krakatau), l'Organisasi Amatir Radio Indonesia (ORARI) ha attivato reti di emergenza radioamatoriali con frequenze dedicate (7.110 MHz voce, 7.100 MHz USB JS8Call, satellite LAPAN-A2/IO-86), operative fino al 24 settembre 2026, chiedendo priorità per il traffico di emergenza."
+  },
+  {
+    "id": "contest-weekend-26-27-settembre",
+    "title": "Weekend di contest: CQ WW RTTY DX Contest, YU DX Contest e diverse QSO Party",
+    "source": "WA7BNM Contest Calendar; ARRL Contest Calendar",
+    "affidabilita": "secondaria",
     "date": "2026-09-26",
-    "brief": "Il maggiore contest digitale mondiale si svolge dalle 0000 UTC di sabato 26 alle 2359 UTC di domenica 27 settembre su 80-10m in RTTY, con scambio RS + zona CQ. È il prossimo grande appuntamento di contest dopo la conclusione dello Scandinavian Activity Contest CW."
+    "brief": "Il weekend del 26-27 settembre 2026 vede in calendario il CQ Worldwide DX Contest (RTTY), lo YU DX Contest, la Maine QSO Party, la AWA Amplitude Modulation QSO Party e lo UBA ON Contest, tra gli eventi principali segnalati dai calendari contest ufficiali."
   },
   {
-    "id": "smartsdr-ios-7-0-151",
-    "title": "FlexRadio rilascia anche SmartSDR per iOS, versione 7.0.151",
-    "source": "machamradio.com (Mac Ham Radio blog), FlexRadio",
+    "id": "sdr-marine-vhf-scanner-oe1mww",
+    "title": "Nuovo tool SDR open source: Marine VHF Scanner di OE1MWW",
+    "source": "rtl-sdr.com, 21 settembre 2026",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "In parallelo alla versione macOS 2.9.157 già nota, FlexRadio ha pubblicato anche l'app companion per iOS in versione 7.0.151, completando l'aggiornamento multi-piattaforma dell'ecosistema SmartSDR per gli utenti Aurora/FLEX-6000/8000."
+    "date": "2026-09-21",
+    "brief": "Wolfgang, OE1MWW, ha condiviso Marine VHF Scanner, un software SDR open source per scansione a banda stretta con supporto RTL-SDR, evoluto in strumento di uso più generale. Segnalazione pubblicata dal portale rtl-sdr.com."
   }
 ]
