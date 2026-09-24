@@ -1,58 +1,58 @@
 [
   {
-    "id": "g1-storm-buco-coronale-24-settembre",
-    "title": "Allerta G1: vento solare da buco coronale atteso il 24 settembre",
-    "source": "NOAA SWPC, 3-Day Geomagnetic Forecast, 22 settembre 2026 (22:05 UTC)",
-    "affidabilita": "primaria",
-    "date": "2026-09-22",
-    "brief": "NOAA SWPC ha emesso una previsione con probabilità elevate di tempesta geomagnetica minore (G1) per il 24 settembre, dovuta a vento solare veloce proveniente da un buco coronale in arrivo dopo l'equinozio. L'indice Ap previsto è in aumento nei giorni 23-25 settembre. Possibili effetti su propagazione HF alle alte latitudini e aurore visibili su Canada, Alaska e Scozia."
-  },
-  {
-    "id": "n7nu-vp9-bermuda-cqww-rtty",
-    "title": "Spedizione N7NU/VP9 dalle Bermuda in coincidenza col CQ WW RTTY DX Contest",
-    "source": "425 DX News #1845, 11 settembre 2026 (ripreso da SWARL)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-23",
-    "brief": "Al K7AR, Ron WJ7R e Lee N7NU sono annunciati attivi come N7NU/VP9 dalle Bermuda dal 23 al 29 settembre, in FT8 e altri modi, con partecipazione al CQ WW RTTY DX Contest. Notizia riportata dal bollettino 425 DX News."
-  },
-  {
-    "id": "ri1fjz-terra-di-francesco-giuseppe",
-    "title": "DXpedition RI1FJZ a Terra di Francesco Giuseppe verso la conclusione",
-    "source": "Sito ufficiale ri1fjz.ru; DX-World.net",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Il team RI1FJZ (guidato da RA1ZZ e R9LR) opera dall'isola Aleksandra, nell'arcipelago russo Terra di Francesco Giuseppe, dal 9 al 25 settembre 2026 su HF 160-10m in CW/SSB/digitali, con attività anche in EME e sui satelliti LEO e QO-100. Budget dichiarato superiore a 50.000 dollari; una delle DXCC entity più difficili al mondo."
-  },
-  {
-    "id": "8q7jh-maldive",
-    "title": "8Q7JH attivo dalle Maldive fino a inizio ottobre",
-    "source": "425 DX News #1845, 11 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "Juergen, DL3JH, opera con il nominativo 8Q7JH dalle Maldive dal 20 settembre al 10 ottobre 2026, secondo quanto riportato dal bollettino 425 DX News."
-  },
-  {
-    "id": "orari-emcomm-indonesia-vulcani",
-    "title": "ORARI mantiene attiva la rete di emergenza in Indonesia per le eruzioni vulcaniche",
-    "source": "IARU Region 1 (iaru-r1.org); comunicato ORARI",
+    "id": "tempesta-geomagnetica-g1-equinozio",
+    "title": "Tempesta geomagnetica minore G1 in corso per vento solare da buco coronale",
+    "source": "NOAA SWPC, ripreso da SpaceWeatherLive ed EarthSky (23-24 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-24",
-    "brief": "A seguito delle eruzioni di più vulcani indonesiani (Ile Lewotolok, Semeru, Sinabung, Anak Krakatau), l'Organisasi Amatir Radio Indonesia (ORARI) ha attivato reti di emergenza radioamatoriali con frequenze dedicate (7.110 MHz voce, 7.100 MHz USB JS8Call, satellite LAPAN-A2/IO-86), operative fino al 24 settembre 2026, chiedendo priorità per il traffico di emergenza."
+    "brief": "NOAA SWPC ha emesso un watch per condizioni di tempesta geomagnetica minore G1 (Kp fino a 5) tra il 24 e il 26 settembre, causate da un flusso di vento solare veloce da un buco coronale e non da un brillamento solare. L'effetto equinozio amplifica il fenomeno: possibile degrado della propagazione HF diurna e aurore visibili alle latitudini più alte."
   },
   {
-    "id": "contest-weekend-26-27-settembre",
-    "title": "Weekend di contest: CQ WW RTTY DX Contest, YU DX Contest e diverse QSO Party",
-    "source": "WA7BNM Contest Calendar; ARRL Contest Calendar",
+    "id": "dxpedition-ri1fjz-terra-francesco-giuseppe",
+    "title": "DXpedition RI1FJZ attiva da Terra di Francesco Giuseppe fino al 25 settembre",
+    "source": "DX-World.net, ri1fjz.ru, EUDXF (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-23",
+    "brief": "Il team guidato da Vasily RA1ZZ e Vladimir R9LR opera dall'arcipelago russo Terra di Francesco Giuseppe (IOTA EU-019) dal 6 al 25 settembre, con attività su 10-160m e via satellite in CW, SSB e FT8. La connessione internet al campo base è instabile, con timeout frequenti che rallentano gli aggiornamenti online e i log in tempo reale."
+  },
+  {
+    "id": "dxpedition-kh8ww-samoa-americane",
+    "title": "KH8WW chiude oggi l'attività dall'isola di Aunu'u, Samoa Americane",
+    "source": "DX-World.net, LRAL.lv (settembre 2026)",
     "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "Yuris YL2GM ed Eugene EA5EL hanno operato come KH8WW dall'isola di Aunu'u (IOTA OC-045) dal 10 al 24 settembre su 160-6m in CW, SSB, RTTY e FT8, chiudendo l'operazione proprio in questi giorni."
+  },
+  {
+    "id": "dxpedition-v47-saint-kitts",
+    "title": "V47YA e V47RCX operativi da Saint Kitts fino a fine mese",
+    "source": "DX-World.net, UFRC.org (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "Tom K0YA (V47YA) e Toni W5RCX (V47RCX) sono attivi da Saint Kitts (QTH V47JA) dal 9 al 30 settembre su 160-6m in CW, SSB e FT8, con operazione in stile 'holiday-style'. QSL per entrambi i nominativi via LoTW."
+  },
+  {
+    "id": "cq-ww-rtty-2026",
+    "title": "Nel weekend il CQ WW RTTY Contest, il più partecipato tra i digitali",
+    "source": "CQWWRTTY.com, WA7BNM Contest Calendar",
+    "affidabilita": "primaria",
     "date": "2026-09-26",
-    "brief": "Il weekend del 26-27 settembre 2026 vede in calendario il CQ Worldwide DX Contest (RTTY), lo YU DX Contest, la Maine QSO Party, la AWA Amplitude Modulation QSO Party e lo UBA ON Contest, tra gli eventi principali segnalati dai calendari contest ufficiali."
+    "brief": "Il CQ World Wide DX Contest RTTY si svolge dalle 00:00Z di sabato 26 alle 23:59Z di domenica 27 settembre 2026. I log vanno inviati entro le 23:59Z del 29 settembre; è tradizionalmente il contest in modalità digitale con la maggiore partecipazione a livello mondiale."
   },
   {
-    "id": "sdr-marine-vhf-scanner-oe1mww",
-    "title": "Nuovo tool SDR open source: Marine VHF Scanner di OE1MWW",
-    "source": "rtl-sdr.com, 21 settembre 2026",
+    "id": "kh6ml-diamond-head-emergenza",
+    "title": "Attivazione POTA/SOTA a Diamond Head si trasforma in vero intervento d'emergenza",
+    "source": "Amateur Radio Daily / Ham Weekly (22 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-21",
-    "brief": "Wolfgang, OE1MWW, ha condiviso Marine VHF Scanner, un software SDR open source per scansione a banda stretta con supporto RTL-SDR, evoluto in strumento di uso più generale. Segnalazione pubblicata dal portale rtl-sdr.com."
+    "date": "2026-09-22",
+    "brief": "Michael Miller KH6ML, Assistant Section Manager e Government Liaison della ARRL Hawaii Section nonché coordinatore RACES per la contea di Honolulu, stava effettuando un'attivazione POTA/SOTA al Diamond Head (ricetrasmettitore HF FX-4CR a circa 20W, filare end-fed, batteria Bioenno) quando l'uscita si è trasformata in un'occasione reale per mettere in pratica l'addestramento per le emergenze."
+  },
+  {
+    "id": "diploma-san-maurizio-ari-sardegna",
+    "title": "ARI Sardegna assegna il 5° Diploma San Maurizio con attivazioni del Gruppo Radioamatori Alpini",
+    "source": "ARI.it (settembre 2026)",
+    "affidabilita": "segnale_debole",
+    "date": "2026-09-22",
+    "brief": "Dal 18 al 22 settembre il Gruppo Radioamatori Alpini ha attivato la chiesa di San Maurizio (nominativo IQ0AAI, riferimento SD-0298) e altri siti simbolici in Sardegna nell'ambito del 5° Diploma San Maurizio, abbinato al Diploma Abbazie Italiane. Notizia riportata solo dal sito ufficiale ARI, di portata locale."
   }
 ]

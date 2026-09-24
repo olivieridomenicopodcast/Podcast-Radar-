@@ -1,56 +1,56 @@
 [
   {
-    "id": "tgs-2026-giornata-annullata-tifone",
-    "title": "Tokyo Game Show 2026: la giornata del 21 settembre annullata per il tifone n.25",
-    "source": "Sito ufficiale Tokyo Game Show (tgs.cesa.or.jp), 21 settembre 2026; ripreso da GameDaily",
+    "id": "lucca-comics-2026-videogioco-8bit-conferenza",
+    "title": "Lucca Comics & Games 2026: seconda conferenza stampa, lanciato il videogioco retrò 'Luke & Clea' e svelata l'area Movies",
+    "source": "LoSpazioBianco, AnimeClick, MondoJapan (24 settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-21",
-    "brief": "Gli organizzatori del Tokyo Game Show 2026, alla sua 30ma edizione con oltre 1.100 espositori da 53 paesi, hanno cancellato l'intera giornata in presenza di lunedì 21 settembre a causa dell'avvicinarsi del tifone n.25, riducendo la fiera da cinque a quattro giorni effettivi.",
-    "tipo": "fiera di settore"
+    "date": "2026-09-24",
+    "brief": "Nel giorno esatto in cui nel 1966 nacque il festival, Lucca Comics & Games ha tenuto la sua seconda conferenza stampa e ha reso disponibile 'Luke & Clea – A Quest for Legacy', un videogioco omaggio in stile 8-bit agli arcade anni '80, giocabile via app con l'ultimo livello sbloccato al via del festival (28 ottobre-1 novembre). Nella stessa occasione è stata presentata l'area Movies della manifestazione.",
+    "tipo": "fiera/evento"
   },
   {
-    "id": "lucca-comics-2026-montaggio-padiglioni",
-    "title": "Lucca Comics & Games 2026: iniziato il montaggio dei padiglioni, la città si trasforma per il 60esimo",
-    "source": "LuccaInDiretta, 22 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-22",
-    "brief": "A Lucca sono iniziati il 21-22 settembre i lavori di montaggio dei padiglioni in vista dell'edizione 2026 del festival (28 ottobre - 1 novembre), che celebra il 60esimo anniversario. Rispetto allo scorso anno i lavori sono partiti con alcuni giorni di anticipo. Una conferenza stampa il 24 settembre presenterà nel dettaglio l'area videogiochi e l'area Movies.",
-    "tipo": "fiera di settore"
-  },
-  {
-    "id": "persona-4-revival-cast-inglese",
-    "title": "Persona 4 Revival svela il cast di doppiatori inglesi dei personaggi secondari",
-    "source": "Anime News Network, 22 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-22",
-    "brief": "Atlus/Sega hanno annunciato il cast inglese dei personaggi di supporto del remake in Unreal Engine 5 di Persona 4, mostrato al Tokyo Game Show 2026. Il gioco, già confermato per il 18 febbraio 2027 su PS5, Xbox Series X/S e PC (Day One su Game Pass), avrà anche una versione Nintendo Switch 2 dal 20 maggio 2027.",
-    "tipo": "annuncio videogioco"
-  },
-  {
-    "id": "paris-games-week-2026-playground-edition",
-    "title": "Paris Games Week 2026 svela il programma della speciale edizione dei 15 anni \"Playground Edition\"",
-    "source": "Journal du Geek, 22-23 settembre 2026",
+    "id": "final-fantasy-origins-of-light-kickstarter",
+    "title": "Annunciata la data del Kickstarter per 'Final Fantasy: Origins of Light', gioco da tavolo ufficiale",
+    "source": "God Is A Geek, TechRaptor, Essential Japan (23 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-23",
-    "brief": "Gli organizzatori della Paris Games Week (22-25 ottobre 2026, Paris Expo Porte de Versailles) hanno diffuso il programma completo della 15esima edizione, ribattezzata \"Playground Edition\": animazioni a tema parco giochi, esport, aree cosplay/retrogaming/manga e un percorso gamificato tramite app ufficiale.",
-    "tipo": "fiera di settore"
-  },
-  {
-    "id": "carcassonne-labyrinth-ravensburger",
-    "title": "Ravensburger annuncia Carcassonne Labyrinth, il crossover tra due classici",
-    "source": "El Candelero Tecnológico e altre testate di settore, 22 settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-22",
-    "brief": "Ravensburger ha presentato Carcassonne Labyrinth, gioco per 1-4 giocatori firmato dai designer Klaus-Jürgen Wrede e Max J. Kobbert che fonde le meccaniche di Carcassonne (25 anni) e Labyrinth (40 anni). Ogni giocatore risolve il proprio labirinto per raggiungere tesori mentre sceglie le tessere per espandere il territorio. Uscita fissata per il 28 settembre 2026 a 34,99 euro.",
+    "brief": "Kess Entertainment, in licenza con Square Enix, lancerà su Kickstarter il 20 ottobre 2026 'Final Fantasy: Origins of Light', gioco da tavolo cooperativo per 2-4 giocatori (con modalità solitario) che adatta Final Fantasy I, II e III in stile Pixel Remaster. In caso di successo la consegna è prevista per maggio/giugno 2027. La notizia è confermata da più testate specializzate indipendenti.",
     "tipo": "annuncio gioco da tavolo"
   },
   {
-    "id": "mr-records-demo-steam-ps5-xbox",
-    "title": "Mr. Records: demo gratuita su Steam e annunciate le versioni PS5 e Xbox Series X|S",
-    "source": "Gematsu / GamingTrend, 22 settembre 2026",
+    "id": "control-resonant-uscita",
+    "title": "'Control Resonant' di Remedy è uscito oggi su PC, PS5 e Xbox Series X",
+    "source": "Multiplayer.it, Everyeye.it, Gamernews.it (24 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-24",
+    "brief": "È disponibile da oggi il sequel di Control sviluppato da Remedy Entertainment, con protagonista Dylan Faden alle prese con una minaccia cosmica che deforma la realtà, ambientato in una Manhattan distorta. Le prime recensioni italiane lo descrivono come un action RPG originale ma con curva di apprendimento ripida e bilanciamento non sempre riuscito.",
+    "tipo": "uscita videogioco"
+  },
+  {
+    "id": "silent-hill-townfall-uscita",
+    "title": "'Silent Hill: Townfall' debutta oggi su PS5 e PC",
+    "source": "Konami Digital Entertainment, PlayStation Blog (24 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-24",
+    "brief": "Konami e Annapurna Interactive pubblicano oggi 'Silent Hill: Townfall', spin-off standalone survival horror sviluppato da Screen Burn Interactive, ambientato nel 1996 nella cittadina scozzese immaginaria di St. Amelia. Il gioco era stato annunciato a febbraio, con data di uscita confermata a giugno durante un State of Play.",
+    "tipo": "uscita videogioco"
+  },
+  {
+    "id": "giochi-tavolo-novita-settimana-21-25-settembre",
+    "title": "Giochi da tavolo: le novità italiane della settimana (21-25 settembre 2026)",
+    "source": "Geek.pizza (23 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-22",
-    "brief": "Wired Productions e lo studio Glee-Cheese hanno pubblicato su Steam la prima demo pubblica di Mr. Records, gioco che unisce ritmo musicale e gestione di un negozio di dischi, in vista di Steam Next Fest. Confermate anche le versioni PlayStation 5 e Xbox Series X|S, che si aggiungono a PC e Nintendo Switch 2 già annunciate.",
-    "tipo": "annuncio videogioco"
+    "date": "2026-09-23",
+    "brief": "Rassegna settimanale delle uscite sul mercato italiano: tra i titoli segnalati Carcassonne Labyrinth, EXIT - Il Calendario dell'Avvento, Fugu, Nocturne, Odino, Taco Loco e Unlock! - New Game Adventure, oltre a nuove espansioni per il gioco di carte cooperativo Marvel Champions LCG.",
+    "tipo": "annuncio/uscita gioco da tavolo"
+  },
+  {
+    "id": "spiel-essen-2026-record-otto-padiglioni",
+    "title": "SPIEL Essen 2026 (22-25 ottobre): per la prima volta occupate tutte e otto le sale di Messe Essen",
+    "source": "spiel-essen.de, Neventum, Boda Games Manufacturing (edizione settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-15",
+    "brief": "La fiera internazionale del gioco da tavolo, in programma dal 22 al 25 ottobre a Essen, per la prima volta nella sua storia userà tutti e otto i padiglioni del quartiere fieristico (81.200 mq), con l'obiettivo di superare il record di visitatori: attesi circa 220.000 visitatori, 948 espositori da 50 paesi e 1.716 novità di gioco. L'illustratore Peter Mohrbacher è il nuovo volto/ambassador dell'edizione 2026.",
+    "tipo": "fiera/evento"
   }
 ]
