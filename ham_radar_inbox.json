@@ -1,58 +1,58 @@
 [
   {
-    "id": "tempesta-geomagnetica-g1-equinozio",
-    "title": "Tempesta geomagnetica minore G1 in corso per vento solare da buco coronale",
-    "source": "NOAA SWPC, ripreso da SpaceWeatherLive ed EarthSky (23-24 settembre 2026)",
+    "id": "tempesta-g1-buco-coronale",
+    "title": "Tempesta geomagnetica G1 da buco coronale disturba le HF",
+    "source": "NOAA SWPC (24-25 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-24",
-    "brief": "NOAA SWPC ha emesso un watch per condizioni di tempesta geomagnetica minore G1 (Kp fino a 5) tra il 24 e il 26 settembre, causate da un flusso di vento solare veloce da un buco coronale e non da un brillamento solare. L'effetto equinozio amplifica il fenomeno: possibile degrado della propagazione HF diurna e aurore visibili alle latitudini più alte."
+    "brief": "NOAA SWPC ha confermato condizioni di tempesta geomagnetica minore G1 causate da un buco coronale, con effetti estesi dal 24 al 25 settembre. Sulle HF si segnala degradazione minore (R1) delle comunicazioni sul lato illuminato, con possibili blackout occasionali; aurore visibili alle alte latitudini, rafforzate dalla vicinanza all'equinozio."
   },
   {
-    "id": "dxpedition-ri1fjz-terra-francesco-giuseppe",
-    "title": "DXpedition RI1FJZ attiva da Terra di Francesco Giuseppe fino al 25 settembre",
-    "source": "DX-World.net, ri1fjz.ru, EUDXF (settembre 2026)",
+    "id": "macchia-solare-ar4534",
+    "title": "La macchia solare AR4534 sviluppa una struttura magnetica complessa",
+    "source": "NOAA SWPC Forecast Discussion, EarthSky, NatureWorldNews (22-24 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-22",
+    "brief": "La regione attiva AR4534 ha assunto una configurazione magnetica beta-delta, producendo 9 brillamenti su 11 registrati in 24 ore con un picco di classe C2.4 il 22 settembre. Gli osservatori la monitorano per il rischio di brillamenti di classe M nei prossimi giorni, con possibili riflessi sulla propagazione HF."
+  },
+  {
+    "id": "iaru-r1-conferenza-vienna",
+    "title": "Si chiude a Vienna la 27ma Conferenza Generale IARU Region 1",
+    "source": "IARU Region 1 (chiusura 23 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-23",
-    "brief": "Il team guidato da Vasily RA1ZZ e Vladimir R9LR opera dall'arcipelago russo Terra di Francesco Giuseppe (IOTA EU-019) dal 6 al 25 settembre, con attività su 10-160m e via satellite in CW, SSB e FT8. La connessione internet al campo base è instabile, con timeout frequenti che rallentano gli aggiornamenti online e i log in tempo reale."
+    "brief": "Si è conclusa a Vienna la 27ma Conferenza Generale IARU-R1, con oltre 120 delegati da 38 società membri. Eletti i vertici per il prossimo triennio: Hans Blondeel Timmerman PB2T confermato presidente, con nuovo Comitato Esecutivo e responsabili di comitati e gruppi di lavoro."
   },
   {
-    "id": "dxpedition-kh8ww-samoa-americane",
-    "title": "KH8WW chiude oggi l'attività dall'isola di Aunu'u, Samoa Americane",
-    "source": "DX-World.net, LRAL.lv (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-24",
-    "brief": "Yuris YL2GM ed Eugene EA5EL hanno operato come KH8WW dall'isola di Aunu'u (IOTA OC-045) dal 10 al 24 settembre su 160-6m in CW, SSB, RTTY e FT8, chiudendo l'operazione proprio in questi giorni."
-  },
-  {
-    "id": "dxpedition-v47-saint-kitts",
-    "title": "V47YA e V47RCX operativi da Saint Kitts fino a fine mese",
-    "source": "DX-World.net, UFRC.org (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-24",
-    "brief": "Tom K0YA (V47YA) e Toni W5RCX (V47RCX) sono attivi da Saint Kitts (QTH V47JA) dal 9 al 30 settembre su 160-6m in CW, SSB e FT8, con operazione in stile 'holiday-style'. QSL per entrambi i nominativi via LoTW."
-  },
-  {
-    "id": "cq-ww-rtty-2026",
-    "title": "Nel weekend il CQ WW RTTY Contest, il più partecipato tra i digitali",
-    "source": "CQWWRTTY.com, WA7BNM Contest Calendar",
+    "id": "orari-indonesia-emcomm",
+    "title": "ORARI chiude la rete di emergenza per l'attività vulcanica in Indonesia",
+    "source": "IARU Region 1, WIA, UBA (11-24 settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-26",
-    "brief": "Il CQ World Wide DX Contest RTTY si svolge dalle 00:00Z di sabato 26 alle 23:59Z di domenica 27 settembre 2026. I log vanno inviati entro le 23:59Z del 29 settembre; è tradizionalmente il contest in modalità digitale con la maggiore partecipazione a livello mondiale."
+    "date": "2026-09-24",
+    "brief": "L'Organisasi Amatir Radio Indonesia (ORARI) ha mantenuto attiva dall'11 al 24 settembre una rete di emergenza per l'attività vulcanica nel paese, su 7.110/7.100 MHz HF e sul satellite LAPAN-A2/IO-86. La notizia è ripresa dai bollettini IARU-R1 e dalle società radioamatoriali WIA (Australia) e UBA (Belgio)."
   },
   {
-    "id": "kh6ml-diamond-head-emergenza",
-    "title": "Attivazione POTA/SOTA a Diamond Head si trasforma in vero intervento d'emergenza",
-    "source": "Amateur Radio Daily / Ham Weekly (22 settembre 2026)",
+    "id": "ri1fjz-terra-francesco-giuseppe",
+    "title": "Si chiude oggi la DX-pedition RI1FJZ a Terra di Francesco Giuseppe",
+    "source": "DX-World.net, ri1fjz.ru (9-25 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-22",
-    "brief": "Michael Miller KH6ML, Assistant Section Manager e Government Liaison della ARRL Hawaii Section nonché coordinatore RACES per la contea di Honolulu, stava effettuando un'attivazione POTA/SOTA al Diamond Head (ricetrasmettitore HF FX-4CR a circa 20W, filare end-fed, batteria Bioenno) quando l'uscita si è trasformata in un'occasione reale per mettere in pratica l'addestramento per le emergenze."
+    "date": "2026-09-25",
+    "brief": "Il team di 5 operatori attivo dal 9 settembre come RI1FJZ sull'isola Aleksandra, nell'arcipelago russo di Terra di Francesco Giuseppe, conclude oggi le operazioni. Bande coperte da 160 a 10 metri in CW/SSB/digitale, con attività anche in EME e sul satellite QO-100, nonostante una connessione internet instabile dal campo base."
   },
   {
-    "id": "diploma-san-maurizio-ari-sardegna",
-    "title": "ARI Sardegna assegna il 5° Diploma San Maurizio con attivazioni del Gruppo Radioamatori Alpini",
-    "source": "ARI.it (settembre 2026)",
-    "affidabilita": "segnale_debole",
-    "date": "2026-09-22",
-    "brief": "Dal 18 al 22 settembre il Gruppo Radioamatori Alpini ha attivato la chiesa di San Maurizio (nominativo IQ0AAI, riferimento SD-0298) e altri siti simbolici in Sardegna nell'ambito del 5° Diploma San Maurizio, abbinato al Diploma Abbazie Italiane. Notizia riportata solo dal sito ufficiale ARI, di portata locale."
+    "id": "9t0md-congo-annuncio",
+    "title": "Annunciata la DX-pedition 9T0MD nella Repubblica Democratica del Congo",
+    "source": "DX-World.net, DX Engineering/OnAllBands (settimana del 22-25 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-30",
+    "brief": "Una spedizione multi-operatore sarà attiva dal 30 settembre all'11 ottobre dalla Repubblica Democratica del Congo con il prefisso 9T0MD, mai usato prima in aria. Copriranno 160-6 metri in CW/SSB/RTTY/FT8, con attività anche su EME e sul satellite QO-100; DX Engineering ha confermato il supporto tecnico."
+  },
+  {
+    "id": "contest-weekend-26-27-settembre",
+    "title": "Weekend di contest: Maine QSO Party e YU DX Contest il 26-27 settembre",
+    "source": "WA7BNM Contest Calendar, F6KOP (26-27 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-26",
+    "brief": "Il calendario WA7BNM segnala per il prossimo weekend il Maine QSO Party (1200Z sabato - 1200Z domenica) insieme ad altri eventi come il YU DX Contest e l'AWA Amplitude Modulation QSO Party. Occasione di attività HF con propagazione ancora influenzata dalla tempesta geomagnetica G1 in corso."
   }
 ]

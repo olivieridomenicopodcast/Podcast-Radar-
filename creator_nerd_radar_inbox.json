@@ -1,29 +1,47 @@
 [
   {
-    "id": "next-generation-fest-nuovi-ospiti",
-    "title": "Zerocalcare e Dario Moccia tra i nuovi ospiti del Next Generation Fest di Firenze",
-    "source": "La Nazione, Corriere Toscano, gonews.it, Toscana Notizie, 055firenze.it, intoscana.it, Gaiaitalia.com (23/09/2026)",
+    "id": "comicz-catanzaro-content-creator",
+    "title": "ComiCZ 2026: a Catanzaro Lido arrivano i content creator Entropy for Life e Il Trono del Muori",
+    "source": "IlDispaccio, LaCNews24, LameziaTerme.it, PianaInforma, CatanzaroChannel, PreSerreEDintorni (23 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-23",
-    "brief": "La Regione Toscana ha annunciato i nuovi ospiti della quinta edizione del Next Generation Fest, in programma il 10 ottobre al Teatro del Maggio Musicale Fiorentino: tra loro il fumettista/content creator Zerocalcare (in collegamento video, con spazio di domande dal pubblico giovane) e lo streamer/youtuber Dario Moccia, pioniere dello YouTube italiano e tra i protagonisti più seguiti di Twitch, insieme a Diodato, Marta Daddato ed Eterobasiche.",
-    "rilevanza": "Conferma il ruolo di creator nerd italiani come ospiti di punta in eventi istituzionali rivolti ai giovani, segno della loro legittimazione culturale oltre la nicchia online; notizia ripresa da numerose testate toscane indipendenti, quindi ben confermata pur restando di ambito locale."
+    "brief": "In vista della seconda edizione di ComiCZ - Catanzaro Comics & Games (26-27 settembre 2026, Parco Gaslini), gli organizzatori confermano tra gli ospiti il content creator/comunicatore scientifico Giacomo Moro Mauretto (Entropy for Life) e Cesyro, alias Il Trono del Muori, autore e content creator con quasi 400.000 iscritti su YouTube noto per i riassunti ironici di anime, manga e serie TV.",
+    "rilevanza": "Mostra come i content creator nerd italiani siano ormai ospiti fissi delle convention regionali, ampliando il richiamo mediatico degli eventi locali."
   },
   {
-    "id": "zerocalcare-premio-mattia-torre",
-    "title": "Zerocalcare superospite del Premio Mattia Torre 2026 a Viterbo",
-    "source": "askanews.it, Quotidiano del Sud, La Voce d'Italia, TusciaUp, TusciaTimes, CanaleUno, Radio Studio90 Italia (23/09/2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-23",
-    "brief": "Zerocalcare (Michele Rech) sarà superospite venerdì 2 ottobre al Teatro dell'Unione di Viterbo, nella prima delle due serate finali del Premio Mattia Torre 2026 condotte da Geppi Cucciari. Racconterà il proprio rapporto con l'opera di Torre, già omaggiata nella sua serie 'Questo mondo non mi renderà cattivo'; la manifestazione premia giovani autori under 35 di monologhi comici e satirici.",
-    "rilevanza": "Un autore uscito dal fumetto online/YouTube diventa punto di riferimento del dibattito culturale italiano su comicità e satira d'autore; notizia diffusa via agenzia (askanews) e ripresa da molte testate locali indipendenti, quindi affidabile."
-  },
-  {
-    "id": "catanzaro-comics-trono-del-muori",
-    "title": "Il Trono del Muori (Cesyro) tra gli ospiti di Catanzaro Comics & Games 2026",
-    "source": "IlDispaccio, IlReventino, PianaInforma, MediterraneiNews (23/09/2026)",
+    "id": "lucca-comics-wonderful-neoran-valley-cydonia",
+    "title": "Wonderful Neoran Valley: il trailer del gioco di Cydonia sarà svelato in diretta su Twitch prima di Lucca Comics & Games",
+    "source": "Multiplayer.it, Switch Italia, Console-Tribe, Redcapes, VGMag.it (24 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-23",
-    "brief": "La seconda edizione di Catanzaro Comics & Games torna il 26 e 27 settembre al Parco Gaslini, a ingresso gratuito, con fumetti, gaming, cosplay e realtà virtuale. Tra gli ospiti annunciati c'è il content creator e comedian Il Trono del Muori (Cesyro), seguito da quasi 400.000 iscritti su YouTube per i suoi riassunti ironici di serie tv, manga, fumetti e cultura pop.",
-    "rilevanza": "Un content creator nerd con un pubblico consolidato viene usato come attrattiva principale di un evento fieristico regionale, a conferma del peso dei creator nel richiamare pubblico anche fuori dai grandi poli come Lucca, Napoli o Milano; notizia ripresa da più testate calabresi indipendenti."
+    "date": "2026-09-24",
+    "brief": "Nara Studio annuncia che il nuovo trailer di Wonderful Neoran Valley - il monster collector italiano che ha raccolto oltre 1 milione di dollari su Kickstarter, record per un team italiano - sarà mostrato il 27 ottobre sul canale Twitch della content creator e Creative Director del progetto Cydonia (Chiara Del Grande), alla vigilia dei 60 anni di Lucca Comics & Games.",
+    "rilevanza": "Un content creator italiano è al centro di un progetto videoludico che unisce direttamente creator economy e industria dei videogiochi indipendenti, con vetrina al maggiore festival pop italiano."
+  },
+  {
+    "id": "mundo-gamer-showcase-terza-edizione",
+    "title": "Mundo Gamer Showcase 2026: terza edizione con co-stream di content creator internazionali e italiani",
+    "source": "iCrewPlay.com, Mundo Gamer Community (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-25",
+    "brief": "Il 25 settembre si è svolta la terza edizione 2026 del Mundo Gamer Showcase, vetrina con 45 giochi indie internazionali; oltre 60 media partner e content creator di 12+ paesi (inclusi creator italiani) hanno co-streammato l'evento sui propri canali Twitch/YouTube.",
+    "rilevanza": "Evidenzia il ruolo crescente dei content creator italiani come canale di distribuzione per showcase indie internazionali, tramite co-streaming ufficiale."
+  },
+  {
+    "id": "evo-macerata-cigno-nerd",
+    "title": "EVO - Linguaggi del Gioco 2026: la content creator Il Cigno NerD inaugura il festival a Macerata",
+    "source": "MEGAMODO, ItaliaTopGames, VGMag.it, Switch Italia, NerdMovieProductions, Comune di Macerata (23-24 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "La quinta edizione del festival EVO a Macerata (24-27 settembre) è stata inaugurata il 25 settembre da Il Cigno NerD, alias della content creator Benedetta Melappioni, nota per i contenuti su giochi di ruolo, wargame e narrazione ludica; la creator è presente anche nello spazio Casa Nintendo dedicato a Nintendo Switch 2.",
+    "rilevanza": "Caso concreto di una content creator specializzata in giochi da tavolo/di ruolo che assume un ruolo istituzionale in un festival pubblico, segno di riconoscimento della community ludica italiana."
+  },
+  {
+    "id": "wondercon-angri-area-creator",
+    "title": "Wondercon Italia 2026: bilancio dell'area streamer e content creator al Castello Doria di Angri",
+    "source": "Nerdando, CorriereNerd.it (24 settembre 2026)",
+    "affidabilita": "segnale_debole",
+    "date": "2026-09-24",
+    "brief": "Un articolo di bilancio pubblicato il 24 settembre ripercorre l'edizione 2026 di Wondercon Italia (18-20 settembre, Angri), che ha ospitato un'area meet&greet dedicata a streamer, content creator e influencer nerd, tra cui Il Vecchio Nerd, Giorgio Messina e Maurizio Maui Nataloni.",
+    "rilevanza": "Conferma la diffusione di aree dedicate ai content creator anche nelle fiere nerd di provincia, segno della loro centralità come richiamo di pubblico."
   }
 ]

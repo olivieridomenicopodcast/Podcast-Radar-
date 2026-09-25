@@ -1,49 +1,48 @@
 {
-  "aggiornato": "2026-09-24",
+  "aggiornato": "2026-09-25",
   "citta": "Pesaro (PU), Marche, Italia",
   "fonti": [
+    "https://www.meteo.it/meteo/pesaro-oggi-41044",
+    "https://www.meteo.it/meteo/pesaro-domani-41044",
+    "https://www.meteo.it/meteo-mare/pesaro-41044",
     "https://www.3bmeteo.com/meteo/pesaro",
     "https://www.3bmeteo.com/meteo/pesaro/1",
     "https://www.3bmeteo.com/meteo/pesaro/2",
-    "https://www.3bmeteo.com/giornale-meteo/meteo-pesaro--qualche-possibile-rovescio-per-tutto-il-weekend-e-anche-luned--392320",
     "https://www.ilmeteo.it/meteo/pesaro",
     "https://www.ilmeteo.it/meteo/pesaro/domani",
-    "https://www.ilmeteo.it/meteo/pesaro/dopodomani",
-    "https://www.meteo.it/meteo/pesaro-41044",
-    "https://www.meteo.it/meteo/pesaro-domani-41044",
     "https://allertameteo.regione.marche.it/allerte-e-bollettini",
-    "https://www.protezionecivile.gov.it"
+    "https://allertameteo.regione.marche.it/"
   ],
   "previsioni": [
     {
-      "data": "2026-09-24",
-      "giorno": "oggi, giovedì",
-      "temp_min_c": 12,
-      "temp_max_c": 22,
-      "condizioni": "DATI DISCORDANTI tra le fonti consultate via ricerca web (non è stato possibile accedere direttamente alle pagine di ilmeteo.it, 3bmeteo.com e meteo.it, bloccate dal proxy di rete: i valori derivano da estratti di ricerca). 3bmeteo.com indica cielo sereno o poco nuvoloso per l'intera giornata, senza pioggia, con massima 22°C e minima 12°C (valori usati come principali nei campi numerici perché dalla pagina previsioni-giorno più specifica). Un'altra fonte (probabilmente ilmeteo.it) riporta invece massima 23°C (ore 14) e minima 20°C (ore 23): la minima è incompatibile con quella di 3bmeteo (12°C vs 20°C), quindi il dato va considerato incerto.",
-      "vento": "3bmeteo.com: assente al mattino, moderato da Est nel pomeriggio. Altra fonte: moderato da Est-Sud-Est (18-35 km/h) al mattino.",
-      "mare": "Mosso (fonte: 3bmeteo.com). Nessun dato specifico trovato su altre fonti.",
-      "allerta": "Nessuna allerta attiva secondo il bollettino di criticità della Regione Marche n. 182/2026, valido dalle 00:00 del 24/09/2026 (allertameteo.regione.marche.it)."
-    },
-    {
       "data": "2026-09-25",
-      "giorno": "domani, venerdì",
-      "temp_min_c": 15,
-      "temp_max_c": 22,
-      "condizioni": "DATI FORTEMENTE DISCORDANTI tra le fonti. 3bmeteo.com indica cielo sereno o poco nuvoloso per l'intera giornata, senza pioggia, massima 22°C e minima 15°C (valori usati come principali nei campi numerici). Un articolo di 3bmeteo.com sul weekend segnala invece possibili rovesci/temporali lungo la costa nelle prime ore di venerdì notte, con schiarite dal pomeriggio: informazione in parziale contrasto con la previsione 'sereno/poco nuvoloso' della pagina giornaliera. Un'altra fonte trovata via ricerca (non identificata con certezza) riporta temperature comprese tra 25°C e 27°C con punta massima verso le 18:00, valore nettamente superiore e non riconciliabile con 3bmeteo.com. Non è stato possibile verificare direttamente le pagine (accesso bloccato dal proxy di rete).",
-      "vento": "3bmeteo.com: debole da Sud-Ovest al mattino, moderato da Est nel pomeriggio. Altra fonte: vento da Est, circa 13 km/h (6,9 nodi).",
-      "mare": "Mosso (fonte: 3bmeteo.com). Nessun dato specifico trovato su altre fonti.",
-      "allerta": "Non è stato reperito un bollettino di allerta ufficiale specifico datato per il 25/09/2026 su allertameteo.regione.marche.it al momento della ricerca. Un articolo giornalistico di 3bmeteo.com segnala solo un possibile rischio di rovesci/temporali sulla costa nella notte tra giovedì e venerdì, senza indicare un livello di allerta ufficiale (verde/giallo/arancione). Si consiglia verifica diretta sul sito della Regione Marche non appena raggiungibile."
+      "giorno": "oggi, venerdì",
+      "temp_min_c": 12,
+      "temp_max_c": 24,
+      "condizioni": "Cielo sereno o poco nuvoloso, con velature in transito nel pomeriggio; 3bmeteo segnala tracce di pioggia praticamente trascurabili (~0,1mm). Le fonti (meteo.it, 3bmeteo, ilmeteo) concordano su una giornata perlopiù soleggiata.",
+      "vento": "Assente al mattino, debole dai quadranti E-NE (ENE/NNE) nel pomeriggio, intensità stimata 10-13 km/h",
+      "mare": "Poco mosso (fonte: meteo.it/MeteoMar)",
+      "allerta": "Nessuna allerta attiva secondo l'ultimo bollettino di criticità della Protezione Civile Regione Marche reperito (n. 182/2026, valido dalle 00:00 del 24-09-2026)"
     },
     {
       "data": "2026-09-26",
-      "giorno": "dopodomani, sabato",
+      "giorno": "domani, sabato",
+      "temp_min_c": 18,
+      "temp_max_c": 22,
+      "condizioni": "ATTENZIONE - fonti discordanti: 3bmeteo prevede cielo perlopiù soleggiato con nubi sparse al mattino ma pioggia nella notte (~3mm); ilmeteo.it e meteo.it indicano invece cielo sereno e tempo stabile per tutto il weekend, senza precipitazioni. Non è stato possibile verificare direttamente (fetch bloccato dal proxy di rete) quale previsione sia più aggiornata: il dato si basa solo su estratti di ricerca.",
+      "vento": "Dato non verificabile con certezza; alcuni estratti indicano venti deboli dai quadranti settentrionali (NNE), ma i valori numerici trovati non sono riscontrabili in modo affidabile su più fonti indipendenti",
+      "mare": "dato non trovato per questa data specifica",
+      "allerta": "Nessuna allerta risulta dall'ultimo bollettino consultato (182/2026, valido dal 24-09-2026), ma non è stato reperito un bollettino specifico datato 26/09/2026; verificare direttamente su allertameteo.regione.marche.it per l'aggiornamento del giorno"
+    },
+    {
+      "data": "2026-09-27",
+      "giorno": "dopodomani, domenica",
       "temp_min_c": 17,
       "temp_max_c": 21,
-      "condizioni": "Dati parzialmente discordanti. 3bmeteo.com (pagina previsioni giornaliere) indica giornata prevalentemente soleggiata con nubi sparse al mattino, ma con precipitazioni previste in nottata (circa 1 mm), massima 21°C e minima 17°C (valori usati come principali nei campi numerici). Altre fonti generiche trovate via ricerca indicano un intervallo di temperature più ampio, circa 14-22°C, senza specificare chiaramente condizioni del cielo. Un articolo di 3bmeteo.com sul weekend segnala inoltre possibili rovesci per tutto il weekend (sabato incluso) e anche lunedì, in linea con la pioggia notturna indicata dalla pagina giornaliera.",
-      "vento": "3bmeteo.com: moderato da Est-Sudest al mattino, moderato da Est-Nordest al pomeriggio. Un articolo correlato segnala inoltre possibili raffiche forti da quadranti settentrionali durante la notte, legate al passaggio di un fronte temporalesco, specialmente lungo la costa.",
-      "mare": "Mosso (fonte: 3bmeteo.com).",
-      "allerta": "Nessuna allerta ufficiale specifica per il 26/09/2026 reperita su allertameteo.regione.marche.it al momento della ricerca (non è stato possibile accedere direttamente al sito per blocco di rete). 3bmeteo.com, nella pagina previsioni giornaliere, riporta 'nessuna allerta meteo presente', ma un articolo giornalistico della stessa fonte segnala rischio di rovesci/temporali per tutto il weekend. Si raccomanda di consultare direttamente allertameteo.regione.marche.it e protezionecivile.gov.it per un bollettino di criticità ufficiale aggiornato, non pienamente verificabile in questa ricerca per problemi di accesso diretto alle fonti."
+      "condizioni": "ATTENZIONE - fonti discordanti: 3bmeteo prevede cielo perlopiù soleggiato al mattino con pioggia nella notte (~1mm); ilmeteo.it e meteo.it indicano tempo generalmente stabile e cielo sereno per tutto il weekend, senza precipitazioni. Anche qui il fetch diretto alle pagine è stato bloccato dal proxy di rete, quindi il dato si basa solo su estratti di ricerca non incrociati con la pagina completa.",
+      "vento": "dato non reperito in modo affidabile",
+      "mare": "dato non trovato",
+      "allerta": "Nessuna allerta risulta dall'ultimo bollettino consultato (182/2026, valido dal 24-09-2026), ma non è stato reperito un bollettino specifico datato 27/09/2026; verificare direttamente su allertameteo.regione.marche.it per l'aggiornamento del giorno"
     }
   ]
 }

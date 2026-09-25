@@ -1,116 +1,97 @@
 [
   {
-    "id": "spotify-partner-program-italia",
-    "title": "Spotify apre la monetizzazione dei podcast a 35 nuovi paesi, inclusa l'Italia",
-    "source": "Spotify Newsroom; TechCrunch (17-09-2026)",
+    "id": "podtrac-youtube-engaged-views",
+    "title": "Podtrac smaschera i nuovi 'view' di YouTube: il 36% sono visualizzazioni non impegnate",
+    "source": "Podtrac (analisi ufficiale, 3-09-2026); ripreso da ppc.land, Podnews, Inside Radio",
     "affidabilita": "primaria",
     "target": 8,
-    "date": "2026-09-17",
-    "brief": "Spotify ha esteso il Partner Program per i podcast a 35 nuovi mercati, tra cui Italia, Spagna e Brasile: i creator potranno monetizzare sia gli episodi audio sia quelli video, con revenue share sugli ascolti Premium via video e quota pubblicitaria sugli ascolti free. Restano liberi di distribuire lo show anche su altre piattaforme e di tenersi le sponsorizzazioni dirette.",
-    "angles": [
-      "Come attivare il Partner Program Spotify da creator italiano",
-      "Perché ora conviene pubblicare anche il video del tuo podcast, non solo l'audio",
-      "Monetizzazione podcast in Italia: cosa cambia davvero per chi inizia adesso"
-    ],
-    "hooks": [
-      "Hai un podcast e pensavi che Spotify pagasse solo gli americani? Sorpresa: da questa settimana tocca pure a noi.",
-      "Stai già montando il video per YouTube e buttando via l'audio grezzo? Da oggi quello stesso file ti fa guadagnare pure su Spotify.",
-      "Zero euro di introiti dal tuo podcast finora? Non è più colpa della piattaforma: ora il programma monetizzazione c'è anche qui, la scusa è finita."
-    ]
-  },
-  {
-    "id": "youtube-made-on-youtube-2026",
-    "title": "YouTube lancia i Custom Feeds e una guida audio IA ai podcast",
-    "source": "YouTube/Blog.google; 9to5Google; Engadget (23-09-2026)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-09-23",
-    "brief": "All'evento Made on YouTube 2026, la piattaforma ha presentato i 'Custom Feeds', schede della home page create su richiesta per mood o interessi specifici, e 'Your podcast lineup', un'anteprima vocale settimanale generata dall'IA che consiglia show su YouTube Music in modalità 'eyes-optional'. Le novità arrivano prima negli USA, poi su YouTube Music a livello globale.",
-    "angles": [
-      "Come i Custom Feeds cambiano la scoperta dei podcast su YouTube",
-      "L'IA che 'parla' di podcast al posto tuo: cosa significa per il tuo show",
-      "YouTube punta sull'audio: perché conviene comunque curare bene anche il video"
-    ],
-    "hooks": [
-      "Pensavi che su YouTube contasse solo la miniatura? Da ora l'algoritmo ti consiglia i podcast anche a voce, altro che clickbait.",
-      "Se il tuo show è solo su Spotify, YouTube si sta costruendo un piccolo speaker radiofonico IA apposta per rubarti ascoltatori.",
-      "Ti sei sempre chiesto cosa vuole davvero il tuo pubblico? Ora YouTube inizia a chiederglielo direttamente, con un feed su misura."
-    ]
-  },
-  {
-    "id": "audacity-4-0",
-    "title": "Audacity 4.0: la più grande revisione di sempre dell'editor audio gratuito",
-    "source": "Muse Group; PCWorld; Engadget; OMG! Ubuntu (03-09-2026)",
-    "affidabilita": "primaria",
-    "target": 9,
     "date": "2026-09-03",
-    "brief": "Muse Group ha rilasciato Audacity 4.0, il redesign più importante nei 26 anni del software: interfaccia riscritta in Qt con supporto HDPI e tema scuro, nuovo modello di editing a clip e formato progetto .aup4. I progetti .aup3 restano apribili e si convertono automaticamente; alcune funzioni storiche (Time Track, MIDI, Mixer, Macro Manager) sono temporaneamente assenti e torneranno in futuro.",
+    "brief": "Dal 24 agosto 2026 YouTube conta una 'view' già dal primo frame, anche in autoplay. Podtrac ha analizzato 84,2 milioni di visualizzazioni su canali podcast tra il 27 e il 28 agosto: solo il 64% risultano 'engaged views' (oltre il primo frame), l'8% in meno rispetto agli altri video del canale. Da ora Podtrac userà le engaged views, non più il contatore pubblico, per le sue classifiche.",
     "angles": [
-      "Guida rapida alle novità di Audacity 4 per chi taglia podcast in autonomia",
-      "Cosa NON c'è più in Audacity 4 (e come aggirare il problema per ora)",
-      "Perché un editor gratuito che si rifà il look è una notizia per chi insegna editing"
+      "Perché il numero di views che vedi su YouTube ora mente di più di prima",
+      "Cosa mostrare davvero a chi vuole sponsorizzare il tuo podcast dopo questo cambio",
+      "Engaged views vs views: la metrica giusta da guardare per capire se il tuo pubblico resta"
     ],
     "hooks": [
-      "Hai imparato Audacity su tutorial di cinque anni fa? Buttali, l'interfaccia è appena cambiata da cima a fondo.",
-      "Se il tuo unico software di editing è gratis e si chiama Audacity, oggi ti tocca reimparare due o tre scorciatoie. Pazienza, capita ai migliori.",
-      "Stavi usando le Time Track o lo scripting in Audacity? Cattive notizie: nell'ultimo aggiornamento sono spariti, almeno per ora."
+      "Hai controllato le views del tuo episodio su YouTube e sei tutto contento? Un terzo di quel numero, ora, non ha guardato più del primo secondo.",
+      "Stai per mandare quel numero di visualizzazioni a un possibile sponsor? Fermati: da fine agosto YouTube conta come 'vista' anche chi scrolla via dopo un frame.",
+      "Pensavi che più views volesse dire più pubblico vero? Uno studio uscito questo mese dice che quasi il 40% di quelle views se ne va prima di ascoltarti davvero."
     ]
   },
   {
-    "id": "festival-podcasting-2026-milano",
-    "title": "Festival del Podcasting 2026: eventi diffusi in tutta Italia verso le giornate di Milano",
-    "source": "La Voce d'Italia; Radio Studio90 Italia; CanaleUno; Padania.org (22-09-2026)",
+    "id": "podcast-movement-nyc-2026-piattaforme-assenti",
+    "title": "Podcast Movement debutta a New York, ma Apple, Spotify e YouTube non hanno neanche uno stand",
+    "source": "Podnews, Sounds Profitable, Podglomerate (14-18 settembre 2026)",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-22",
-    "brief": "Dal 21 al 30 settembre una rete di eventi locali in città come Milano, Genova, Rimini, Roma, Trieste e Palermo anticipa le due giornate centrali del Festival del Podcasting, il 2-3 ottobre a Cascina Triulza (MIND Milano). In programma corsi di formazione su podcast e giornalismo con gli Ordini dei Giornalisti di Lombardia ed Emilia Romagna, incontri pubblici e podcast live.",
+    "date": "2026-09-18",
+    "brief": "Per la prima volta Podcast Movement ha scelto New York (Terminal 5) come sede del suo evento di punta, dal 17 al 18 settembre, dopo il Sounds Profitable Business Summit del 14-15. Le tre piattaforme che oggi decidono più di ogni altra come si scopre un podcast, Apple Podcasts, Spotify e YouTube, non avevano nessuno stand in fiera. Il taglio dei panel è passato da 'come iniziare' a strategie per creator già attivi.",
     "angles": [
-      "Cosa seguire al Festival del Podcasting 2026 se insegni o studi podcasting",
-      "Formazione podcast-giornalismo: un modello da guardare anche fuori dagli eventi",
-      "Perché gli eventi diffusi in città diverse sono un buon format da copiare per la community"
+      "Perché le grandi piattaforme si tirano fuori dagli eventi di settore, e cosa significa per chi ci lavora dentro",
+      "Cosa cambia quando una conferenza per principianti diventa una conferenza per chi ha già un podcast",
+      "Il potere delle piattaforme non passa più dagli stand in fiera: dove si gioca davvero oggi"
     ],
     "hooks": [
-      "Vivi vicino a Milano, Genova o Roma e pensavi che il podcasting italiano si studiasse solo online? Da questa settimana c'è un festival diffuso apposta per te.",
-      "Se stai cercando una scusa per uscire di casa e imparare qualcosa sul tuo podcast, il Festival del Podcasting arriva in una decina di città italiane.",
-      "Pensi che il podcasting italiano sia solo tre nomi noti che si autocitano? Il Festival mette in fila corsi, incontri e ascolti collettivi: vacci prima di lamentarti che 'non c'è formazione'."
+      "Pensi che Spotify o YouTube ti debbano una vetrina alla prossima fiera di settore? Al loro evento di riferimento non si sono nemmeno presentati con uno stand.",
+      "Se il tuo piano è 'faccio girare bene l'algoritmo e mi scoprono', guarda chi ha smesso di andare alle fiere di chi fa podcast: proprio chi controlla l'algoritmo.",
+      "Sei ancora al 'primo episodio, che software uso'? La conferenza podcast più seguita dell'anno ha appena smesso di parlare a te: ormai il pubblico è chi ha già superato quella fase."
     ]
   },
   {
-    "id": "italian-podcast-awards-2026",
-    "title": "Italian Podcast Awards 2026: a Piacenza premiata Tintoria per la 'Storia del Podcast'",
-    "source": "PiacenzaSera; IlPiacenza (23-09-2026)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-23",
-    "brief": "La quinta edizione di IlPod - Italian Podcast Awards si è tenuta il 23 settembre a Piacenza. Il Premio Storia del Podcast 2026 è andato a Tintoria, di Daniele Tinti e Stefano Rapone, che ha superato i 300 episodi e i 100 milioni tra streaming e visualizzazioni. Assegnati anche i premi Podcast dell'Anno, Podcast Indie dell'Anno e Academy.",
-    "angles": [
-      "Cosa ha fatto durare un podcast fino a 300 episodi: lezioni da Tintoria",
-      "Come funziona ora la selezione degli Italian Podcast Awards (niente più autocandidature)",
-      "Perché guardare ai podcast indie premiati aiuta chi vuole crescere senza budget da network"
-    ],
-    "hooks": [
-      "Sei al tuo terzo episodio e già pensi di mollare? C'è chi ne ha fatti 300 ed è stato appena premiato apposta per quello: la costanza paga, letteralmente.",
-      "Pensavi che per vincere un premio ti serva un network alle spalle? A Piacenza hanno premiato pure la categoria indie, quella dei podcast fatti in cameretta.",
-      "Se il tuo podcast è nato come due amici che chiacchierano, sappi che è successo anche a chi ha appena vinto un premio nazionale. La differenza l'ha fatta la costanza, non l'attrezzatura."
-    ]
-  },
-  {
-    "id": "podcast-video-verticale-trend",
-    "title": "Il video verticale nativo è la prossima fase del podcast, non solo i clip da YouTube",
-    "source": "Podcast News Daily (04-08-2026)",
-    "affidabilita": "segnale_debole",
+    "id": "raiplay-sound-stagione-2026-2027",
+    "title": "Rai Radio presenta i palinsesti 2026-2027 con una spinta forte su podcast e originali RaiPlay Sound",
+    "source": "Spot and Web, Radiospeaker.it, Fattitaliani (14-settembre 2026 in poi)",
+    "affidabilita": "primaria",
     "target": 7,
-    "date": "2026-08-04",
-    "brief": "Secondo un'analisi di settore ripresa da Podcast News Daily, dopo la corsa alla versione video lunga su YouTube la fase successiva del podcasting è produrre contenuti pensati da zero per lo schermo verticale dello smartphone, non semplici ritagli dell'orizzontale. L'ex CEO di Wondery Hernan Lopez sostiene che i podcaster di successo progettano la clip fin dalla registrazione, non a episodio già montato.",
+    "date": "2026-09-14",
+    "brief": "Nella presentazione dei palinsesti radiofonici 2026-2027, la Rai ha annunciato un rafforzamento dell'offerta podcast su RaiPlay Sound, con nuovi originali come 'Secondo Ascolto' di Alessandro Greco e Alessandro Migliaccio (dal 14 settembre), 'Burnout' di Jonathan Zenti e 'Grazie al caso' con Virginio. Il catalogo supera i 2.000 titoli, di cui circa 500 podcast originali.",
     "angles": [
-      "Come registrare pensando già alla clip verticale, non solo all'episodio lungo",
-      "Differenza tra 'ritagliare' un video e progettarlo verticale dall'inizio",
-      "Checklist per un setup di ripresa che funzioni sia in 16:9 che in 9:16"
+      "Cosa vuol dire per un editore indipendente che anche la Rai punta forte sui podcast originali",
+      "Come sono fatti i nuovi format Rai: cosa puoi rubare per il tuo show anche senza budget da broadcaster",
+      "Il podcast come priorità editoriale, non più contenuto 'di riempimento' per la radio pubblica"
     ],
     "hooks": [
-      "Registri sempre in orizzontale e poi tagli alla bell'e meglio per i Reels? Gli esperti dicono che è già il metodo vecchio, e un po' hanno ragione.",
-      "Hai comprato una telecamera puntata larga sul tavolo e pensi di essere a posto per i social? Forse è ora di pensare verticale fin dalla prima inquadratura.",
-      "Se il tuo piano clip è 'poi si vede in montaggio', qualcuno che ha lanciato podcast da milioni di ascolti ti direbbe di ripensarci prima di premere REC."
+      "Pensavi che il podcast fosse ancora la cosa 'sperimentale' che si fa nel tempo libero? Pure la Rai ha appena messo mezza stagione di palinsesto puntata lì.",
+      "Se il tuo dubbio è 'ma il podcast in Italia lo segue davvero qualcuno di serio', guarda chi ci ha investito un pacchetto di format nuovi questo mese: la radio pubblica.",
+      "Hai un'idea da format podcast e pensi che serva un network alle spalle per farla decollare? La Rai ne lancia uno nuovo quasi ogni settimana: studia la struttura, non il budget."
+    ]
+  },
+  {
+    "id": "adobe-podcast-enhance-speech-v2-generative",
+    "title": "Adobe Podcast rilancia Enhance Speech con audio generativo per musica e rumori d'ambiente",
+    "source": "Adobe (release notes 2026); ripreso da guide di settore aggiornate a settembre 2026",
+    "affidabilita": "secondaria",
+    "target": 8,
+    "date": "2026-09-10",
+    "brief": "La revisione 2026 di Enhance Speech, lo strumento gratuito di pulizia audio di Adobe, aggiunge funzioni di audio generativo su prompt testuale per creare musica e effetti sonori d'ambiente, oltre a un lavoro più profondo sulla qualità della pulizia vocale rispetto alla prima versione.",
+    "angles": [
+      "Quando conviene usare la pulizia audio automatica e quando ti rovina la voce",
+      "Musica e SFX generati su prompt: scorciatoia onesta o rischio di podcast tutti uguali",
+      "Come integrare Enhance Speech nel tuo flusso di editing senza perdere il controllo del suono"
+    ],
+    "hooks": [
+      "Hai registrato in una stanza che rimbomba e pensavi di dover rifare tutto? Lo strumento gratuito di Adobe per pulire la voce ha appena fatto un salto di qualità serio.",
+      "Ti manca sempre quel jingle o quel rumore di fondo giusto e finisci a scaricare musica royalty-free a caso? Ora te lo genera lo stesso tool che ti pulisce la voce, con un prompt di testo.",
+      "Se il tuo montaggio si blocca sempre sulla parte 'audio sporco, non so come sistemarlo', vai a guardare cosa fa oggi la pulizia vocale automatica: non è più quella di due anni fa."
+    ]
+  },
+  {
+    "id": "podcast-ascolto-italia-crescita-continua",
+    "title": "In Italia il podcast continua a crescere: sessioni più lunghe e ascolto sempre più abituale",
+    "source": "NielsenIQ per Audible, ripreso da Sky TG24, ADC Group, Media Key, Questioni di Orecchio",
+    "affidabilita": "primaria",
+    "target": 6,
+    "date": "2026-09-01",
+    "brief": "Secondo la ricerca NielsenIQ per Audible, gli ascoltatori di podcast in Italia sono saliti a 18 milioni, +800.000 rispetto all'anno precedente (+5%) e +75% dal 2018. La durata media di ascolto supera i 28 minuti (4 in più dell'anno scorso), il 62% lo considera un appuntamento settimanale e il 16% ascolta ogni giorno. I generi più amati restano true crime, storia, politica e benessere.",
+    "angles": [
+      "Cosa dicono questi numeri a chi sta pensando 'in Italia i podcast non li ascolta nessuno'",
+      "Perché puntare su episodi più lunghi non è un rischio, se il pubblico italiano ascolta sempre di più",
+      "Generi che tirano in Italia (true crime, storia, benessere): come inserirti senza copiare il format altrui"
+    ],
+    "hooks": [
+      "Ti hanno detto che in Italia il podcast è ancora una nicchia per quattro sfigati? I dati di quest'anno dicono 18 milioni di persone che ascoltano, in crescita ogni anno.",
+      "Hai paura che il tuo episodio da 40 minuti sia troppo lungo per il pubblico italiano? La durata media di ascolto è appena salita ancora: la gente resta, se il contenuto vale.",
+      "Se stai scegliendo il genere del tuo prossimo podcast e vai a caso, guarda cosa ascolta davvero l'Italia: true crime, storia e benessere continuano a vincere, non inventare la ruota."
     ]
   }
 ]
