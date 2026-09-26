@@ -1,56 +1,47 @@
 [
   {
-    "id": "lucca-comics-games-2026-final-keynote",
-    "title": "Lucca Comics & Games 2026: presentato il programma della 60ª edizione con la Final Keynote",
-    "source": "MegaNerd.it, Nerdando, Fumettologica, PopcorNerd, Strill.it, il Reporter (24-09-2026)",
+    "id": "gta6-game-informer-cover-story",
+    "title": "GTA 6: Rockstar Games svelerà nuovi dettagli nella cover story di Game Informer",
+    "source": "Game Informer, Push Square, Aroged, Windows Report (25-09-2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "Il 24 settembre a Milano si è tenuta la Final Keynote di Lucca Comics & Games 2026, che festeggia il 60° anniversario con il tema 'Legacy'. Tra gli ospiti annunciati Yoshinori Kitase, Hideki Kamiya, Frank Miller e Jonathan Hickman. La manifestazione si terrà a Lucca dal 28 ottobre al 1° novembre 2026.",
+    "date": "2026-09-25",
+    "brief": "Game Informer ha annunciato che Grand Theft Auto VI sarà protagonista della copertina del numero 382, con un servizio di 14 pagine la cui edizione digitale uscirà il 29 settembre. Il pezzo includerà interviste esclusive al team di Rockstar Games, dodici nuove screenshot e approfondimenti su Leonida (la Florida immaginaria del gioco) e sul sistema meteo dinamico. Il gioco resta atteso su PS5 e Xbox Series X|S il 19 novembre 2026.",
+    "tipo": "annuncio/notizia videogioco"
+  },
+  {
+    "id": "ignisphere-dawngazer-annuncio",
+    "title": "Il regista di Unicorn Overlord annuncia la nuova IP fantasy Ignisphere e l'action RPG Dawngazer",
+    "source": "Gematsu, Automaton West, Anime News Network (25-09-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Good Smile Company e lo studio Monochrome, guidato da Takafumi Noma (regista di Unicorn Overlord), hanno annunciato Ignisphere, una nuova proprietà intellettuale fantasy, e il suo primo videogioco, l'action RPG Dawngazer, in arrivo su PS5, Switch 2 e PC (Steam) nel 2028. Il progetto prevede musiche di Yoshimi Kudo (Elden Ring, Unicorn Overlord) e un'espansione multimediale con action figure Good Smile e light novel Kadokawa.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "nocturne-gioco-da-tavolo-italia",
+    "title": "Nocturne, il gioco da tavolo di volpi mistiche, arriva in Italia con Little Rocket Games",
+    "source": "Geek.pizza, Nerdgames, Metropolitan Magazine (25-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-25",
+    "brief": "Little Rocket Games ha pubblicato in Italia Nocturne, gioco di set collection e aste a rilancio per 1-4 giocatori (39,90€, età 10+), firmato da David Iezzi con Flatout Games CoLab e illustrazioni di Beth Sobel. I giocatori vestono i panni di volpi mistiche che raccolgono oggetti magici in una foresta incantata al chiaro di luna, in due round chiamati Crepuscolo e Chiaro di Luna.",
+    "tipo": "uscita gioco da tavolo"
+  },
+  {
+    "id": "tokyo-game-show-2026-tifone-cancellato",
+    "title": "Il Tokyo Game Show 2026 chiude in anticipo per l'allerta tifone Dujuan",
+    "source": "Gematsu, Multiplayer.it, Everyeye.it, Gamereactor (21-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-21",
+    "brief": "La CESA ha cancellato l'ultima giornata (21 settembre) della 30ª edizione del Tokyo Game Show, la prima nella storia della fiera a durare cinque giorni, per l'allerta legata al tifone Dujuan e al rischio per i trasporti pubblici a Chiba. È la prima volta in 30 anni che una giornata viene annullata a fiera già in corso; a chi aveva il biglietto per quel giorno è stato garantito il rimborso.",
     "tipo": "fiera/evento"
   },
   {
-    "id": "silent-hill-townfall-uscita",
-    "title": "Silent Hill: Townfall è uscito su PS5 e PC",
-    "source": "Konami (comunicato ufficiale), PlayStation Blog (24-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "Konami e Annapurna Interactive hanno pubblicato Silent Hill: Townfall, spin-off survival horror in prima persona ambientato nel 1996 nella cittadina scozzese immaginaria di St. Amelia. Il gioco è disponibile su PS5, Steam ed Epic Games Store.",
-    "tipo": "uscita videogioco"
-  },
-  {
-    "id": "control-resonant-uscita",
-    "title": "Control Resonant di Remedy Entertainment è disponibile a livello globale",
-    "source": "Remedy Entertainment (comunicato ufficiale) (24-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "Remedy Entertainment ha lanciato Control Resonant il 24 settembre su PS5, Xbox Series X|S e PC (Steam, Epic Games Store, GeForce NOW); la versione Mac arriverà più avanti nel 2026. Le copie fisiche per console usciranno il 15 ottobre.",
-    "tipo": "uscita videogioco"
-  },
-  {
-    "id": "ea-sports-fc-27-uscita",
-    "title": "EA Sports FC 27 lanciato in tutto il mondo con Mbappé e Bellingham in copertina",
-    "source": "Electronic Arts (comunicato ufficiale), Businesswire (25-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "EA ha pubblicato EA Sports FC 27 su PC, PS4/PS5, Xbox One/Series, Switch e Switch 2. La novità principale è 'The Grounds', un nuovo spazio open world sociale legato alla modalità Club, disponibile solo su hardware next-gen. Copertina affidata a Kylian Mbappé e Jude Bellingham.",
-    "tipo": "uscita videogioco"
-  },
-  {
-    "id": "harvest-moon-echoes-teradea-uscita",
-    "title": "Harvest Moon: Echoes of Teradea disponibile da oggi",
-    "source": "Natsume, Gematsu, RPGamer, Bleeding Cool (24-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "Natsume ha rilasciato il nuovo capitolo della serie Harvest Moon, Echoes of Teradea, per PC, PS5, Xbox Series X|S, Switch e Switch 2. Il gioco unisce simulazione agricola ed esplorazione open world nella terra fittizia di Teradea.",
-    "tipo": "uscita videogioco"
-  },
-  {
-    "id": "novita-giochi-da-tavolo-settimana-settembre",
-    "title": "Le novità dei giochi da tavolo della settimana: Taco Loco, Carcassonne Labyrinth e nuove espansioni Marvel Champions",
-    "source": "Geek.pizza (23-09-2026)",
+    "id": "romics-2026-37-edizione",
+    "title": "Romics torna a Fiera Roma dal 1° al 4 ottobre per il 25° anniversario della manifestazione",
+    "source": "IlFaroOnline, QFiumicino, Sportpress24 (17-09-2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-23",
-    "brief": "Il portale Geek.pizza segnala le uscite della settimana dal 21 al 25 settembre: tra queste Taco Loco (Ghenos Games/Helvetiq), Carcassonne Labyrinth, EXIT - Il Calendario dell'Avvento, le espansioni Marvel Champions LCG dedicate a Jessica Jones e Luke Cage, e Unlock! - New Game Adventure.",
-    "tipo": "uscita/annuncio gioco da tavolo"
+    "date": "2026-09-17",
+    "brief": "È stato presentato alla Camera di Commercio di Roma il programma della 37ª edizione di Romics, in calendario dal 1° al 4 ottobre a Fiera Roma con oltre 400 espositori su circa 70.000 mq. Tra gli ospiti annunciati Zerocalcare, Max Bunker, Darick Robertson e John McCrea (The Boys) e Cristina D'Avena; tra i premiati del Romics d'Oro Paola Barbato, Stefano Bessoni e Sir Ian Livingstone.",
+    "tipo": "fiera/evento"
   }
 ]

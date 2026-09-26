@@ -1,50 +1,42 @@
 [
   {
-    "id": "bullet-for-my-valentine-nuovo-album-tour",
-    "title": "Bullet For My Valentine annunciano il nuovo album \"Social Apocalypse\" e un tour europeo con data a Milano",
-    "source": "Blabbermouth.net, Lambgoat, Distorted Sound Magazine, Longliverocknroll.it (24-25 settembre 2026)",
+    "id": "the-ocean-solaris-nuovo-album",
+    "title": "The Ocean pubblicano il concept album \"Solaris\" ispirato a Tarkovskij",
+    "source": "Pelagic Records (comunicato ufficiale), mxdwn Music, New Noise Magazine (25 settembre 2026)",
     "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "La band tedesca post-metal/sludge The Ocean pubblica oggi \"Solaris\" tramite la propria etichetta Pelagic Records, concept album ispirato al celebre romanzo/film di fantascienza di Andrej Tarkovskij. Nove tracce per quasi 70 minuti, definito dalla band il disco più ambizioso dei suoi 25 anni di carriera e prima uscita in studio con il nuovo batterista Jordi Farré."
+  },
+  {
+    "id": "brat-manslayer-nuovo-album",
+    "title": "Brat pubblicano \"Manslayer\", secondo album di death metal/hardcore",
+    "source": "Prosthetic Records (comunicato), FemMetal, Live Metal, Metal Archives (25 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "La band statunitense Brat pubblica oggi il secondo full-length \"Manslayer\" via Prosthetic Records, seguito del debutto \"Social Grace\" (2024). Diciassette tracce tra death metal primitivo, thrash e hardcore, registrate a Chicago con Andy Nelson (Weekend Nachos) e masterizzate da Brad Boatright."
+  },
+  {
+    "id": "pain-of-truth-album-omonimo",
+    "title": "Pain Of Truth pubblicano il nuovo album omonimo",
+    "source": "DAZE (etichetta), Distorted Sound Magazine, Stereogum, Devolution Magazine (25 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "La band hardcore/metalcore di Long Island Pain Of Truth pubblica oggi il nuovo disco omonimo tramite l'etichetta DAZE, prodotto da Will Putney (Body Count, Counterparts). Il lavoro conferma riff metallici e breakdown pesanti, anticipato dai singoli \"Fed By Fear\" e \"Unforgiven\"."
+  },
+  {
+    "id": "slipknot-teaser-annuncio-28-settembre",
+    "title": "Slipknot lanciano una campagna teaser per un annuncio previsto il 28 settembre",
+    "source": "TheRPR.com, Lambgoat, Metal Injection (21-24 settembre 2026)",
+    "affidabilita": "segnale debole",
     "date": "2026-09-24",
-    "brief": "La band gallese ha annunciato l'ottavo album \"Social Apocalypse\", in uscita il 19 marzo 2027, pubblicando la title track come singolo. Confermato anche un tour europeo/UK con Pendulum e Dark Divine, che farà tappa il 25 gennaio 2027 all'Unipol Forum di Milano, unica data italiana. Prevendite dal 28 settembre, vendita generale dal 2 ottobre."
+    "brief": "Cartelloni misteriosi con il logo della band e i numeri \"09\" e \"28\" sono comparsi in diverse città nel mondo (San Francisco, Chicago, Toronto, Bogotá, Buenos Aires, Città del Messico), alimentando speculazioni su un annuncio imminente, forse legato a nuove date live. La campagna segue di poche settimane l'uscita a sorpresa del singolo \"Arsenal\", primo brano con il batterista Eloy Casagrande, che il chitarrista Jim Root ha confermato non farà parte dell'ottavo album in arrivo."
   },
   {
-    "id": "godflesh-decay-nuovo-album",
-    "title": "Godflesh pubblicano il nuovo album \"Decay\" su Relapse Records",
-    "source": "Relapse Records, Blabbermouth/Side-Line, Echoes And Dust, Wikipedia (25 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Gli storici industrial metaller britannici Godflesh hanno pubblicato oggi il decimo album in studio \"Decay\" tramite Relapse Records, con sei tracce nate dalle session dell'album precedente \"Purge\" (2023). Justin Broadrick ha indicato che sarà il penultimo disco della band per motivi di salute personali."
-  },
-  {
-    "id": "aborym-metachaos-uscita",
-    "title": "Aborym pubblicano \"Metachaos\", nuovo album della band industrial extreme metal italiana",
-    "source": "Avantgarde Music (comunicato ufficiale), Metal Archives, pagina Facebook ufficiale della band (25 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "La storica band romana Aborym pubblica oggi \"Metachaos\" per Avantgarde Music, in CD, LP e digitale, segnando il ritorno alle sonorità industrial/extreme metal delle origini con la nuova formazione riunita attorno al fondatore Fabban. L'album vanta ospiti come Patrick Mameli (Pestilence) e Tommy Talamanca (Sadist)."
-  },
-  {
-    "id": "crown-magnetar-hollowing-of-godflesh",
-    "title": "Crown Magnetar pubblicano il nuovo album deathcore \"The Hollowing Of Godflesh\"",
-    "source": "Blabbermouth.net, Lambgoat, Angry Metal Guy (25 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "La band deathcore del Colorado pubblica oggi il terzo full-length \"The Hollowing Of Godflesh\" via Unique Leader Records, dieci tracce per meno di trenta minuti totali. È il debutto in studio del nuovo chitarrista Rob Maramonte, ex Fallujah e The Zenith Passage."
-  },
-  {
-    "id": "novembre-costretti-a-saltare-metalitalia-festival",
-    "title": "I Novembre costretti a saltare il Metalitalia Festival per l'ospedalizzazione del frontman Carmelo Orlando",
-    "source": "Metalitalia-Festival.com (comunicato ufficiale), Longliverocknroll.it, TrueMetal.it (24 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "La band gothic/prog metal italiana Novembre non potrà esibirsi sabato 26 settembre al Metalitalia Festival (Live Club, Trezzo sull'Adda) a causa dell'ospedalizzazione e imminente intervento chirurgico del frontman Carmelo Orlando. Al loro posto suoneranno i Nocturnal Depression."
-  },
-  {
-    "id": "metalitalia-festival-2026-al-via",
-    "title": "Al via il Metalitalia Festival 2026 in provincia di Milano, con warm-up e big name internazionali",
-    "source": "Metalitalia.com, TrueMetal.it (24-25 settembre 2026)",
+    "id": "abbath-cancella-date-2026",
+    "title": "Abbath cancella tutte le date di concerto rimanenti del 2026",
+    "source": "Blabbermouth.net (25 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-25",
-    "brief": "Il warm-up del Metalitalia Festival si tiene oggi al Bloom di Mezzago (MB) con Dark Lunacy (show speciale per l'anniversario di \"The Diarist\"), The Foreshadowing, Game Over e Duir. Il festival principale prosegue il 26 e 27 settembre al Live Club di Trezzo sull'Adda con nomi come Paradise Lost, Amenra, Fleshgod Apocalypse, Coroner e Fear Factory."
+    "brief": "Il progetto solista dell'ex frontman degli Immortal, Abbath, ha cancellato tutte le date live rimanenti previste per il 2026. Non è stata fornita alcuna motivazione ufficiale per la cancellazione dell'intero tour residuo."
   }
 ]

@@ -1,58 +1,50 @@
 [
   {
-    "id": "tempesta-g1-buco-coronale",
-    "title": "Tempesta geomagnetica G1 da buco coronale disturba le HF",
-    "source": "NOAA SWPC (24-25 settembre 2026)",
+    "id": "tempesta-g1-rientro-condizioni-instabili",
+    "title": "La tempesta geomagnetica G1 rientra, ma il weekend resta instabile",
+    "source": "NOAA SWPC, 3-Day Forecast (25 settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "NOAA SWPC ha confermato condizioni di tempesta geomagnetica minore G1 causate da un buco coronale, con effetti estesi dal 24 al 25 settembre. Sulle HF si segnala degradazione minore (R1) delle comunicazioni sul lato illuminato, con possibili blackout occasionali; aurore visibili alle alte latitudini, rafforzate dalla vicinanza all'equinozio."
-  },
-  {
-    "id": "macchia-solare-ar4534",
-    "title": "La macchia solare AR4534 sviluppa una struttura magnetica complessa",
-    "source": "NOAA SWPC Forecast Discussion, EarthSky, NatureWorldNews (22-24 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-22",
-    "brief": "La regione attiva AR4534 ha assunto una configurazione magnetica beta-delta, producendo 9 brillamenti su 11 registrati in 24 ore con un picco di classe C2.4 il 22 settembre. Gli osservatori la monitorano per il rischio di brillamenti di classe M nei prossimi giorni, con possibili riflessi sulla propagazione HF."
-  },
-  {
-    "id": "iaru-r1-conferenza-vienna",
-    "title": "Si chiude a Vienna la 27ma Conferenza Generale IARU Region 1",
-    "source": "IARU Region 1 (chiusura 23 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-23",
-    "brief": "Si è conclusa a Vienna la 27ma Conferenza Generale IARU-R1, con oltre 120 delegati da 38 società membri. Eletti i vertici per il prossimo triennio: Hans Blondeel Timmerman PB2T confermato presidente, con nuovo Comitato Esecutivo e responsabili di comitati e gruppi di lavoro."
-  },
-  {
-    "id": "orari-indonesia-emcomm",
-    "title": "ORARI chiude la rete di emergenza per l'attività vulcanica in Indonesia",
-    "source": "IARU Region 1, WIA, UBA (11-24 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "L'Organisasi Amatir Radio Indonesia (ORARI) ha mantenuto attiva dall'11 al 24 settembre una rete di emergenza per l'attività vulcanica nel paese, su 7.110/7.100 MHz HF e sul satellite LAPAN-A2/IO-86. La notizia è ripresa dai bollettini IARU-R1 e dalle società radioamatoriali WIA (Australia) e UBA (Belgio)."
-  },
-  {
-    "id": "ri1fjz-terra-francesco-giuseppe",
-    "title": "Si chiude oggi la DX-pedition RI1FJZ a Terra di Francesco Giuseppe",
-    "source": "DX-World.net, ri1fjz.ru (9-25 settembre 2026)",
-    "affidabilita": "secondaria",
     "date": "2026-09-25",
-    "brief": "Il team di 5 operatori attivo dal 9 settembre come RI1FJZ sull'isola Aleksandra, nell'arcipelago russo di Terra di Francesco Giuseppe, conclude oggi le operazioni. Bande coperte da 160 a 10 metri in CW/SSB/digitale, con attività anche in EME e sul satellite QO-100, nonostante una connessione internet instabile dal campo base."
+    "brief": "Dopo la tempesta minore G1 del 24-25 settembre, il bollettino NOAA SWPC del 25 settembre indica un rientro dell'attività geomagnetica sotto la soglia di tempesta, con Kp previsto fino a 4 (condizioni 'unsettled/active') per il weekend del 26-27. Possibili ancora aperture aurorali sporadiche alle alte latitudini, mentre la propagazione HF torna gradualmente a normalizzarsi."
   },
   {
-    "id": "9t0md-congo-annuncio",
-    "title": "Annunciata la DX-pedition 9T0MD nella Repubblica Democratica del Congo",
-    "source": "DX-World.net, DX Engineering/OnAllBands (settimana del 22-25 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "Una spedizione multi-operatore sarà attiva dal 30 settembre all'11 ottobre dalla Repubblica Democratica del Congo con il prefisso 9T0MD, mai usato prima in aria. Copriranno 160-6 metri in CW/SSB/RTTY/FT8, con attività anche su EME e sul satellite QO-100; DX Engineering ha confermato il supporto tecnico."
+    "id": "ar4534-in-fase-di-decadimento",
+    "title": "La macchia solare AR4534 entra in fase di decadimento, niente brillamenti di classe M",
+    "source": "NOAA SWPC Forecast Discussion, EarthSky (25-26 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Dopo la configurazione magnetica beta-delta e il picco C2.4 del 22 settembre, la regione attiva AR4534 mostra ora segni di decadimento e non produce più brillamenti significativi. Il rischio di un salto a brillamenti di classe M, segnalato nei giorni scorsi da NOAA SWPC, non si è per ora concretizzato: attività solare tornata a livelli bassi."
   },
   {
-    "id": "contest-weekend-26-27-settembre",
-    "title": "Weekend di contest: Maine QSO Party e YU DX Contest il 26-27 settembre",
-    "source": "WA7BNM Contest Calendar, F6KOP (26-27 settembre 2026)",
+    "id": "kh8ww-samoa-americane-conclusa",
+    "title": "Si conclude la DX-pedition KH8WW da Aunu'u, Samoa Americane",
+    "source": "DX-World.net, DXZone (10-24 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-26",
-    "brief": "Il calendario WA7BNM segnala per il prossimo weekend il Maine QSO Party (1200Z sabato - 1200Z domenica) insieme ad altri eventi come il YU DX Contest e l'AWA Amplitude Modulation QSO Party. Occasione di attività HF con propagazione ancora influenzata dalla tempesta geomagnetica G1 in corso."
+    "date": "2026-09-24",
+    "brief": "Yuris YL2GM ed Eugene EA5EL hanno concluso il 24 settembre le operazioni come KH8WW dall'isola di Aunu'u (IOTA OC-045), Samoa Americane, attive dal 10 settembre su 160-6 metri in CW/SSB/FT8 con operatività in split. QSL via Club Log OQRS o YL2GN, upload su LoTW previsto entro sei mesi dalla fine della spedizione."
+  },
+  {
+    "id": "c8k-mozambico-nuove-date",
+    "title": "La DX-pedition C8K in Mozambico riprogrammata tra fine settembre e ottobre",
+    "source": "DX-World.net (annuncio ripreso il 22-25 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "Il Czech DX Team (tra cui OK1BOA, OK1FCJ, OK6DJ) porterà in aria il nominativo C8K dal Mozambico nella finestra di settembre-ottobre 2026, dopo il rinvio della spedizione originariamente prevista per gennaio-febbraio. Operatività annunciata da 160 a 6 metri, inclusi i satelliti QO-100, RS-44 e IO-117, in CW/SSB/digitale."
+  },
+  {
+    "id": "sdr2026-conferenza-adelaide",
+    "title": "Al via ad Adelaide la conferenza SDR2026 con la comunità radioamatoriale",
+    "source": "sdr2026.org (evento 29 settembre - 2 ottobre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-29",
+    "brief": "Dal 29 settembre al 2 ottobre si tiene ad Adelaide, in Australia, la conferenza SDR2026 dedicata al software defined radio, che riunisce mondo accademico, industria, difesa e comunità radioamatoriale. In programma sessioni su reti di radar passivo, array di sensori RF distribuiti e sondaggi ionosferici, temi di interesse diretto per la sperimentazione SDR in ambito amatoriale."
+  },
+  {
+    "id": "iaru-r1-nuovo-comitato-esecutivo",
+    "title": "IARU Region 1: resi noti tutti i nomi del nuovo Comitato Esecutivo eletto a Vienna",
+    "source": "IARU Region 1, UBA (chiusura conferenza 23 settembre, dettagli diffusi nei giorni successivi)",
+    "affidabilita": "primaria",
+    "date": "2026-09-24",
+    "brief": "Dopo la chiusura della 27ma Conferenza Generale IARU-R1 a Vienna sono stati resi noti tutti i componenti del nuovo Comitato Esecutivo per il prossimo triennio: oltre al presidente confermato Hans Blondeel Timmerman PB2T, il vicepresidente Dennis Green ZS4BS, la segreteria Achraf Chaabane 3V9A, la tesoriera Elvira Hardmeier Balmer HB9EYH e cinque membri EC da altrettante nazioni."
   }
 ]

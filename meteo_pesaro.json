@@ -1,13 +1,14 @@
 {
-  "aggiornato": "2026-09-25",
+  "aggiornato": "2026-09-26",
   "citta": "Pesaro (PU), Marche, Italia",
   "fonti": [
     "https://www.meteo.it/meteo/pesaro-oggi-41044",
-    "https://www.meteo.it/meteo/pesaro-domani-41044",
+    "https://www.meteo.it/meteo/pesaro-41044",
     "https://www.meteo.it/meteo-mare/pesaro-41044",
     "https://www.3bmeteo.com/meteo/pesaro",
     "https://www.3bmeteo.com/meteo/pesaro/1",
     "https://www.3bmeteo.com/meteo/pesaro/2",
+    "https://www.3bmeteo.com/meteo/pesaro/3",
     "https://www.ilmeteo.it/meteo/pesaro",
     "https://www.ilmeteo.it/meteo/pesaro/domani",
     "https://allertameteo.regione.marche.it/allerte-e-bollettini",
@@ -15,34 +16,34 @@
   ],
   "previsioni": [
     {
-      "data": "2026-09-25",
-      "giorno": "oggi, venerdì",
-      "temp_min_c": 12,
-      "temp_max_c": 24,
-      "condizioni": "Cielo sereno o poco nuvoloso, con velature in transito nel pomeriggio; 3bmeteo segnala tracce di pioggia praticamente trascurabili (~0,1mm). Le fonti (meteo.it, 3bmeteo, ilmeteo) concordano su una giornata perlopiù soleggiata.",
-      "vento": "Assente al mattino, debole dai quadranti E-NE (ENE/NNE) nel pomeriggio, intensità stimata 10-13 km/h",
-      "mare": "Poco mosso (fonte: meteo.it/MeteoMar)",
-      "allerta": "Nessuna allerta attiva secondo l'ultimo bollettino di criticità della Protezione Civile Regione Marche reperito (n. 182/2026, valido dalle 00:00 del 24-09-2026)"
-    },
-    {
       "data": "2026-09-26",
-      "giorno": "domani, sabato",
-      "temp_min_c": 18,
+      "giorno": "oggi, sabato",
+      "temp_min_c": 14,
       "temp_max_c": 22,
-      "condizioni": "ATTENZIONE - fonti discordanti: 3bmeteo prevede cielo perlopiù soleggiato con nubi sparse al mattino ma pioggia nella notte (~3mm); ilmeteo.it e meteo.it indicano invece cielo sereno e tempo stabile per tutto il weekend, senza precipitazioni. Non è stato possibile verificare direttamente (fetch bloccato dal proxy di rete) quale previsione sia più aggiornata: il dato si basa solo su estratti di ricerca.",
-      "vento": "Dato non verificabile con certezza; alcuni estratti indicano venti deboli dai quadranti settentrionali (NNE), ma i valori numerici trovati non sono riscontrabili in modo affidabile su più fonti indipendenti",
-      "mare": "dato non trovato per questa data specifica",
-      "allerta": "Nessuna allerta risulta dall'ultimo bollettino consultato (182/2026, valido dal 24-09-2026), ma non è stato reperito un bollettino specifico datato 26/09/2026; verificare direttamente su allertameteo.regione.marche.it per l'aggiornamento del giorno"
+      "condizioni": "Cielo sereno o poco nuvoloso, tempo stabile e soleggiato per alta pressione: meteo.it, 3bmeteo (interrogazione datata) e ilmeteo.it concordano su una giornata perlopiù soleggiata senza precipitazioni. Nota di discordanza: una ricerca generica non datata su 3bmeteo menzionava una possibile pioggia notturna trascurabile (~3mm), ma l'interrogazione specifica per il 26 settembre non la conferma; si segnala quindi come dato minoritario e non confermato.",
+      "vento": "Moderato dai quadranti Nord-Nordest (NNE), stimato 9-13 km/h (fonte: meteo.it)",
+      "mare": "Mosso (fonte: 3bmeteo)",
+      "allerta": "Nessuna allerta attiva secondo l'ultimo bollettino di criticità reperito della Protezione Civile Regione Marche (n. 183/2026, valido dalle 00:00 del 25-09-2026); non è stato possibile reperire tramite ricerca un bollettino più recente datato 26/09/2026 - verificare l'aggiornamento odierno direttamente su allertameteo.regione.marche.it"
     },
     {
       "data": "2026-09-27",
-      "giorno": "dopodomani, domenica",
-      "temp_min_c": 17,
-      "temp_max_c": 21,
-      "condizioni": "ATTENZIONE - fonti discordanti: 3bmeteo prevede cielo perlopiù soleggiato al mattino con pioggia nella notte (~1mm); ilmeteo.it e meteo.it indicano tempo generalmente stabile e cielo sereno per tutto il weekend, senza precipitazioni. Anche qui il fetch diretto alle pagine è stato bloccato dal proxy di rete, quindi il dato si basa solo su estratti di ricerca non incrociati con la pagina completa.",
-      "vento": "dato non reperito in modo affidabile",
-      "mare": "dato non trovato",
-      "allerta": "Nessuna allerta risulta dall'ultimo bollettino consultato (182/2026, valido dal 24-09-2026), ma non è stato reperito un bollettino specifico datato 27/09/2026; verificare direttamente su allertameteo.regione.marche.it per l'aggiornamento del giorno"
+      "giorno": "domani, domenica",
+      "temp_min_c": 14,
+      "temp_max_c": 24,
+      "condizioni": "Cielo sereno o poco nuvoloso su tutta la regione, tempo stabile per alta pressione: meteo.it e 3bmeteo (interrogazione datata specificamente al 27/09) concordano su assenza di precipitazioni e giornata soleggiata.",
+      "vento": "Debole/moderato da NNE, stimato 9-11 km/h (fonte: meteo.it)",
+      "mare": "Poco mosso (fonte: 3bmeteo)",
+      "allerta": "Nessuna allerta attiva secondo l'ultimo bollettino reperito (n. 183/2026, valido dalle 00:00 del 25-09-2026); non è stato reperito un bollettino specifico datato 27/09/2026 - verificare direttamente su allertameteo.regione.marche.it"
+    },
+    {
+      "data": "2026-09-28",
+      "giorno": "dopodomani, lunedì",
+      "temp_min_c": 14,
+      "temp_max_c": 24,
+      "condizioni": "Cielo sereno o poco nuvoloso, tempo stabile per alta pressione: meteo.it e 3bmeteo (interrogazione datata specificamente al 28/09) concordano su assenza di precipitazioni e giornata soleggiata.",
+      "vento": "Debole/moderato da NE, stimato 9-10 km/h (fonte: meteo.it)",
+      "mare": "Poco mosso, tendente a quasi calmo (fonte: 3bmeteo)",
+      "allerta": "Nessuna allerta attiva secondo l'ultimo bollettino reperito (n. 183/2026, valido dalle 00:00 del 25-09-2026); non è stato reperito un bollettino specifico datato 28/09/2026 - verificare direttamente su allertameteo.regione.marche.it"
     }
   ]
 }

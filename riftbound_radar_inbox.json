@@ -1,56 +1,47 @@
 [
   {
-    "id": "la-regional-qualifier-2026",
-    "title": "L'ultimo Regional Qualifier 2026 di Riftbound si svolge a Los Angeles",
-    "source": "playriftbound.com \"All Eyes on Los Angeles\", riftbound.gg event info (25 settembre 2026)",
+    "id": "radiance-nuove-meccaniche-legend",
+    "title": "Riot svela ufficialmente le nuove meccaniche e Legend di Radiance",
+    "source": "TriplePoint Newsroom, \"Take the Stage: Riot Games Reveals New Legends and Mechanics for Riftbound: Radiance\" (25 settembre 2026); playriftbound.com, \"The Radiance Overview\"",
     "affidabilita": "primaria",
     "date": "2026-09-25",
-    "brief": "Dal 25 al 27 settembre si tiene al Los Angeles Convention Center l'ultimo Regional Qualifier del 2026 di Riftbound, con centinaia di giocatori in gara e streaming ufficiale. L'evento coincide con l'inizio della preview season del nuovo set Radiance.",
-    "rilevanza": "È l'ultima grande occasione competitiva del 2026 prima delle Regional Championship che porteranno al primo Mondiale di Riftbound, e segna l'apertura ufficiale delle rivelazioni sul prossimo set."
+    "brief": "Durante l'evento di Los Angeles Riot ha confermato ufficialmente tre nuove parole chiave del quinto set, Deploy, Show Off e Disarm, insieme a nuovi Legend tra cui K'Sante, Pride of Nazumah e Kai'Sa, Rebel (che abbina Disarm alla parola chiave Reaction sulle magie durante gli showdown). È stato inoltre confermato che Neeko sarà il primo Champion Unit neutrale della storia del gioco.",
+    "rilevanza": "Fornisce le prime informazioni meccaniche concrete sul quinto set, essenziali per iniziare a valutare nuove strategie e mazzi in vista dell'uscita di Radiance il 23 ottobre."
   },
   {
-    "id": "radiance-preview-panel",
-    "title": "Riot apre la preview season di Radiance con un panel di sviluppatori a Los Angeles",
-    "source": "playriftbound.com, \"Radiance Preview Season\" (25 settembre 2026)",
+    "id": "neeko-blending-in-dibattito",
+    "title": "La carta Neeko, Blending In infiamma la community: infrange la regola della Legend unica",
+    "source": "RiftCompare.com, \"Riftbound Neeko Spoiler: Blending In Breaks the One-Legend Rule\"; discussioni su r/riftboundtcg e canali YouTube della community (25-26 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-26",
+    "brief": "Neeko, Blending In, Champion Unit neutrale rivelato nella preview di Radiance, permette in fase di deck-building di scegliere tre Legend aggiuntive e di portarne una nella propria Legend Zone finché la carta resta in gioco, infrangendo di fatto la regola di una sola Legend per mazzo. La community è divisa tra chi la giudica una carta rotta e chi, dopo analisi più approfondite, la ritiene gestibile in pratica.",
+    "rilevanza": "È la carta più discussa finora della preview season: può cambiare il deck-building e il valore delle strategie multi-Legend, un tema centrale per chi si prepara al lancio di ottobre e ai tornei successivi."
+  },
+  {
+    "id": "premier-play-2027-calendario",
+    "title": "Annunciate le prime tappe del nuovo circuito Premier Play 2027",
+    "source": "playriftbound.com, \"Riftbound Premier Play: Early 2027 Events\" (23 settembre 2026); Star City Games",
     "affidabilita": "primaria",
+    "date": "2026-09-23",
+    "brief": "Riot ha rivelato le prime sedi del circuito competitivo 2027, che rinomina i Regional Qualifier in \"Riftbound Regionals\" e le Regional Championship in \"Riftbound Continentals\": i primi due Regionals si terranno a Philadelphia e Madrid (quest'ultimo il 5-7 febbraio 2027), mentre il primo Continental dell'anno sarà a Dallas.",
+    "rilevanza": "Dà ai giocatori competitivi le prime date concrete su cui pianificare la stagione 2027, nel quadro della riorganizzazione dell'organized play che porterà al primo Riftbound World Championship."
+  },
+  {
+    "id": "meta-tier-list-pre-los-angeles",
+    "title": "Tier list aggiornata: Akali e Irelia favorite alla vigilia del Regional Qualifier di Los Angeles",
+    "source": "riftbound.gg, \"Riftbound Meta Tier List – Post-Ban Metagame Heading to Los Angeles\" (24 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "L'ultima tier list pubblicata prima del RQ di Los Angeles indica Akali, Rogue Assassin e Irelia, Blade Dancer come le Legend più forti del momento, entrambe reduci da vittorie nei regionali precedenti e poco toccate dai ban di Ekko, Recurrent e Stacked Deck del 18 settembre; Kennen, Heart of the Tempest perde invece terreno per gli effetti indiretti del ban su alcune carte Chaos di supporto.",
+    "rilevanza": "Aiuta i giocatori a orientare le scelte di mazzo per l'ultimo grande torneo del 2026 e mostra in modo concreto l'impatto dei bilanciamenti di metà settembre sul metagame competitivo."
+  },
+  {
+    "id": "radiance-ultimate-rare-collezionismo",
+    "title": "Radiance porterà la seconda Ultimate Rare della storia di Riftbound e nuove Alt Art a tema musicale",
+    "source": "TriplePoint Newsroom, \"Take the Stage: Riot Games Reveals New Legends and Mechanics for Riftbound: Radiance\" (25 settembre 2026); resoconti della community su X (account Riftvesting) sulle stime di pull rate",
+    "affidabilita": "secondaria",
     "date": "2026-09-25",
-    "brief": "Durante l'evento di Los Angeles, un panel con il Game Director Dave Guskin, il Lead Designer di Radiance Jon Moormann, il Creative Director Brice Cox e l'Art Director Michelle Mauk ha presentato in anteprima carte del quinto set, Radiance, in uscita il 23 ottobre 2026 in inglese, cinese e francese.",
-    "rilevanza": "Dà ai giocatori le prime informazioni ufficiali sulle nuove carte/meccaniche del prossimo set, utile per pianificare mazzi e acquisti in vista del lancio di ottobre."
-  },
-  {
-    "id": "ban-list-settembre",
-    "title": "Nuovo ban list: Ekko, Recurrent e Stacked Deck vietati in Standard e 2v2",
-    "source": "playriftbound.com \"September Ban List Updates\", riftbound.gg (18 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Con effetto dal 18 settembre 2026 Riot ha bandito le carte Ekko, Recurrent e Stacked Deck sia in Standard che in 2v2 Constructed per contenere i mazzi dominanti; Kennen ha invece ricevuto solo un intervento mirato senza ban diretto.",
-    "rilevanza": "Cambia direttamente il metagame competitivo attuale e le scelte di deck-building per i torneo delle settimane successive, incluso il Regional Qualifier di Los Angeles del 25-27 settembre."
-  },
-  {
-    "id": "lancio-corea",
-    "title": "Riftbound debutta ufficialmente in Corea del Sud",
-    "source": "Inven Global, Korea JoongAng Daily (18 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Riot Games ha lanciato la versione coreana di Riftbound il 18 settembre 2026, con una carta esclusiva di Ahri e pop-up event a Seoul (GGX e Dopamine Station a IPARK Mall Yongsan). Sono previsti negozi dedicati, eventi settimanali \"Nexus Nights\" e un circuito competitivo con Store Qualifiers, Open Qualifiers e Korea Majors con montepremi trimestrali.",
-    "rilevanza": "Espande il mercato ufficiale del gioco in una delle scene TCG più attive al mondo, con possibili ricadute su disponibilità di prodotto, promo esclusive e prezzi delle carte a livello globale."
-  },
-  {
-    "id": "torneo-ccs-houston",
-    "title": "CCS Qualifier #5 a Houston: oltre 560 giocatori nel meta post-ban",
-    "source": "riftbound.gg / tracker torneistici come TopDeck.gg e RiftRank (19 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-19",
-    "brief": "Il 19 settembre si sono svolti diversi torneo rilevanti: il CCS Riftbound Invitational Qualifier #5 a Houston con 562 giocatori, l'evento online Convergence #3 con 265 iscritti, e diverse City Challenge in Cina (Shanghai, Guangzhou, Hangzhou, Nanning) nel formato Set 4 Vendetta.",
-    "rilevanza": "Fornisce i primi dati concreti sul metagame dopo i ban del 18 settembre, utili per chi si prepara ai prossimi qualifier e alla Regional Qualifier di Los Angeles."
-  },
-  {
-    "id": "prezzi-mercato-collezionismo",
-    "title": "Il mercato secondario di Riftbound resta molto attivo, promo Metal ai vertici",
-    "source": "TCGplayer, Guardian TCG, Vaulted Collection (rilevazioni di metà/fine settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "Le carte promo Metal restano tra le più richieste dai collezionisti: la Ahri Nine-Tailed Fox Metal è valutata attorno ai 5.449$ raw, Teemo Metal circa 4.400$ e Irelia Metal circa 3.500$. Anche il Riftbound Worlds 2025 Bundle, costato 99,99$ al lancio, viene rivenduto oltre 380$ su TCGplayer.",
-    "rilevanza": "Segnala che il collezionismo attorno a Riftbound resta molto vivo, con forte domanda per le carte promo più rare e per i prodotti legati ai Mondiali, un dato utile per chi valuta acquisti o vendite."
+    "brief": "Tra le novità collezionistiche di Radiance annunciate insieme alle nuove meccaniche, Riot ha confermato la seconda Ultimate Rare di sempre nel gioco (una versione di Seraphine), nuove Rune in Alt Art a tema musicale e varianti Overnumber con firma dell'artista per le nove nuove Legend. Secondo stime diffuse dalla community non ancora confermate ufficialmente nel dettaglio, l'Ultimate Rare avrebbe una pull rate attorno a 1 busta su 4.000.",
+    "rilevanza": "Riguarda direttamente i collezionisti: nuove rarità e stime di pull rate influenzano da subito le aspettative di prezzo sul mercato secondario per le carte in arrivo a ottobre."
   }
 ]
