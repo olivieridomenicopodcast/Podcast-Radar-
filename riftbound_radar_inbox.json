@@ -1,56 +1,56 @@
 [
   {
-    "id": "la-regional-qualifier-2026",
-    "title": "L'ultimo Regional Qualifier 2026 di Riftbound si svolge a Los Angeles",
-    "source": "playriftbound.com \"All Eyes on Los Angeles\", riftbound.gg event info (25 settembre 2026)",
+    "id": "radiance-reveal-panel-los-angeles",
+    "title": "Riot Games svela le nuove meccaniche e i nuovi Leggenda del Set 5 Radiance al panel di Los Angeles",
+    "source": "Comunicato stampa ufficiale via TriplePoint Newsroom/GamesPress (25 settembre 2026); PlayRiftbound.com, \"The Radiance Overview\" (25 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-25",
-    "brief": "Dal 25 al 27 settembre si tiene al Los Angeles Convention Center l'ultimo Regional Qualifier del 2026 di Riftbound, con centinaia di giocatori in gara e streaming ufficiale. L'evento coincide con l'inizio della preview season del nuovo set Radiance.",
-    "rilevanza": "È l'ultima grande occasione competitiva del 2026 prima delle Regional Championship che porteranno al primo Mondiale di Riftbound, e segna l'apertura ufficiale delle rivelazioni sul prossimo set."
+    "brief": "Durante il panel per sviluppatori al Regional Qualifier di Los Angeles, Riot ha presentato ufficialmente il quinto set Riftbound: Radiance, in uscita il 23 ottobre 2026. Sono state annunciate tre nuove parole chiave (Deploy, Show Off, Disarm), le Unità Equipaggiamento, i token Bomb e Neeko come primo campione neutrale di dominio. I Leggenda protagonisti sono Ekko e Seraphine, affiancati da Evelynn, Ziggs, Jarvan IV e Orianna (altri tre non ancora rivelati).",
+    "rilevanza": "Definisce l'identità meccanica del prossimo set: Deploy e Disarm introducono nuove linee di gioco per Gear e combattimento, informazione essenziale per chi inizia a costruire mazzi in vista dell'uscita di ottobre."
   },
   {
-    "id": "radiance-preview-panel",
-    "title": "Riot apre la preview season di Radiance con un panel di sviluppatori a Los Angeles",
-    "source": "playriftbound.com, \"Radiance Preview Season\" (25 settembre 2026)",
+    "id": "los-angeles-rq-finale-stagione-vendetta",
+    "title": "Los Angeles ospita l'ultimo Regional Qualifier della stagione Vendetta",
+    "source": "Riftbound.gg, \"Los Angeles Regional Qualifier 2026 Event Information\"; PlayRiftbound.com, \"All Eyes on Los Angeles\" (25-27 settembre 2026)",
     "affidabilita": "primaria",
     "date": "2026-09-25",
-    "brief": "Durante l'evento di Los Angeles, un panel con il Game Director Dave Guskin, il Lead Designer di Radiance Jon Moormann, il Creative Director Brice Cox e l'Art Director Michelle Mauk ha presentato in anteprima carte del quinto set, Radiance, in uscita il 23 ottobre 2026 in inglese, cinese e francese.",
-    "rilevanza": "Dà ai giocatori le prime informazioni ufficiali sulle nuove carte/meccaniche del prossimo set, utile per pianificare mazzi e acquisti in vista del lancio di ottobre."
+    "brief": "Il Los Angeles Convention Center ha ospitato dal 25 al 27 settembre l'ultimo Regional Qualifier della stagione Vendetta, con montepremi da 25.000 dollari (6.000 al vincitore), inviti al Regional Championship, carte promozionali esclusive di Jayce, Brilliant Inventor e un drawing per 33 Leggenda Best-Of Foil Plated da Spiritforged, Unleashed e Vendetta.",
+    "rilevanza": "Ultima chance per qualificarsi al Regional Championship nordamericano (Las Vegas, 11-13 dicembre 2026) e occasione per ottenere carte promozionali da collezione limitate."
   },
   {
-    "id": "ban-list-settembre",
-    "title": "Nuovo ban list: Ekko, Recurrent e Stacked Deck vietati in Standard e 2v2",
-    "source": "playriftbound.com \"September Ban List Updates\", riftbound.gg (18 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Con effetto dal 18 settembre 2026 Riot ha bandito le carte Ekko, Recurrent e Stacked Deck sia in Standard che in 2v2 Constructed per contenere i mazzi dominanti; Kennen ha invece ricevuto solo un intervento mirato senza ban diretto.",
-    "rilevanza": "Cambia direttamente il metagame competitivo attuale e le scelte di deck-building per i torneo delle settimane successive, incluso il Regional Qualifier di Los Angeles del 25-27 settembre."
-  },
-  {
-    "id": "lancio-corea",
-    "title": "Riftbound debutta ufficialmente in Corea del Sud",
-    "source": "Inven Global, Korea JoongAng Daily (18 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Riot Games ha lanciato la versione coreana di Riftbound il 18 settembre 2026, con una carta esclusiva di Ahri e pop-up event a Seoul (GGX e Dopamine Station a IPARK Mall Yongsan). Sono previsti negozi dedicati, eventi settimanali \"Nexus Nights\" e un circuito competitivo con Store Qualifiers, Open Qualifiers e Korea Majors con montepremi trimestrali.",
-    "rilevanza": "Espande il mercato ufficiale del gioco in una delle scene TCG più attive al mondo, con possibili ricadute su disponibilità di prodotto, promo esclusive e prezzi delle carte a livello globale."
-  },
-  {
-    "id": "torneo-ccs-houston",
-    "title": "CCS Qualifier #5 a Houston: oltre 560 giocatori nel meta post-ban",
-    "source": "riftbound.gg / tracker torneistici come TopDeck.gg e RiftRank (19 settembre 2026)",
+    "id": "heartsteel-ovn-radiance",
+    "title": "Riot mostra le prime carte Overnumbered dedicate agli Heartsteel in Radiance",
+    "source": "Riftbound.gg, pagina \"Heartsteel Cards\"; Riftbound.zone; post X dell'account community Riftbound Report (25 settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-19",
-    "brief": "Il 19 settembre si sono svolti diversi torneo rilevanti: il CCS Riftbound Invitational Qualifier #5 a Houston con 562 giocatori, l'evento online Convergence #3 con 265 iscritti, e diverse City Challenge in Cina (Shanghai, Guangzhou, Hangzhou, Nanning) nel formato Set 4 Vendetta.",
-    "rilevanza": "Fornisce i primi dati concreti sul metagame dopo i ban del 18 settembre, utili per chi si prepara ai prossimi qualifier e alla Regional Qualifier di Los Angeles."
+    "date": "2026-09-25",
+    "brief": "In concomitanza con un nuovo video musicale del gruppo virtuale Heartsteel, Riot ha mostrato in anteprima le prime carte Signature Overnumbered dedicate ai sei membri della band, numerate 178/167-183/167, che debutteranno nel set Radiance il 23 ottobre 2026.",
+    "rilevanza": "Le carte Overnumbered/Signature sono tra le più ricercate dai collezionisti per rarità e valore: l'annuncio anticipa una nuova ondata di interesse speculativo sul mercato secondario."
   },
   {
-    "id": "prezzi-mercato-collezionismo",
-    "title": "Il mercato secondario di Riftbound resta molto attivo, promo Metal ai vertici",
-    "source": "TCGplayer, Guardian TCG, Vaulted Collection (rilevazioni di metà/fine settembre 2026)",
+    "id": "meta-post-ban-verso-los-angeles",
+    "title": "Il meta post-ban regge alla vigilia di Los Angeles: Kennen resta in testa, Master Yi crolla",
+    "source": "Riftbound.gg, \"Riftbound Meta Tier List – Best Decks for Vendetta – Post-Ban Metagame Heading to Los Angeles\" (fine settembre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "Le carte promo Metal restano tra le più richieste dai collezionisti: la Ahri Nine-Tailed Fox Metal è valutata attorno ai 5.449$ raw, Teemo Metal circa 4.400$ e Irelia Metal circa 3.500$. Anche il Riftbound Worlds 2025 Bundle, costato 99,99$ al lancio, viene rivenduto oltre 380$ su TCGplayer.",
-    "rilevanza": "Segnala che il collezionismo attorno a Riftbound resta molto vivo, con forte domanda per le carte promo più rare e per i prodotti legati ai Mondiali, un dato utile per chi valuta acquisti o vendite."
+    "date": "2026-09-26",
+    "brief": "Le analisi aggiornate dei tornei mostrano Kennen, Heart of the Tempest ancora al comando del metagame con circa il 10% di metashare nonostante il ban di metà settembre, mentre Master Yi, Wuju Bladesman è arretrato dai vertici del top 8 a piazzamenti da top 32 nei primi eventi post-ban.",
+    "rilevanza": "Indica ai giocatori che la lista ban di settembre non ha ribaltato del tutto la gerarchia dei mazzi migliori, utile per chi si prepara a Los Angeles o ad altri eventi Standard."
+  },
+  {
+    "id": "radiance-booster-display-drawing",
+    "title": "Aperte le iscrizioni al drawing ufficiale per acquistare i Booster Display di Radiance",
+    "source": "PlayRiftbound.com, \"Riftbound Radiance Drawing FAQ\" e \"Radiance Merch Store Update\" (25 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Dal 25 al 30 settembre (ore 9:00 PT) i fan in Nord America ed Europa possono iscriversi al drawing ufficiale del Riot Merch Store per il diritto ad acquistare un Booster Display di Radiance (119,99 USD / 127,99 EUR, 24 buste da 14 carte) o i Showdown Decks Evelynn vs Seraphine (34,99 USD / 36,99 EUR). L'estrazione dei vincitori è prevista per il 5 ottobre.",
+    "rilevanza": "Con la domanda che supera l'offerta a ogni uscita, il sistema a drawing è il canale principale per i collezionisti per assicurarsi prodotto sigillato a prezzo di listino prima del boom sul mercato secondario."
+  },
+  {
+    "id": "radiance-preview-season-calendario",
+    "title": "Pubblicato il calendario completo della preview season di Radiance",
+    "source": "Star City Games, \"Full Preview Schedule For Riftbound Radiance Revealed\" (25 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-25",
+    "brief": "A partire dal panel di Los Angeles del 25 settembre, la preview season di Radiance proseguirà fino al 9 ottobre con reveal quotidiani di nuove carte distribuiti tra numerosi content partner e siti di settore, in vista del lancio globale del 23 ottobre.",
+    "rilevanza": "Dà a giocatori e collezionisti una tabella di marcia per seguire gli spoiler ufficiali giorno per giorno invece di affidarsi solo a leak non verificati."
   }
 ]

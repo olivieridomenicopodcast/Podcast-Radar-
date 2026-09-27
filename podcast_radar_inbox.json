@@ -1,97 +1,135 @@
 [
   {
-    "id": "podtrac-youtube-engaged-views",
-    "title": "Podtrac smaschera i nuovi 'view' di YouTube: il 36% sono visualizzazioni non impegnate",
-    "source": "Podtrac (analisi ufficiale, 3-09-2026); ripreso da ppc.land, Podnews, Inside Radio",
-    "affidabilita": "primaria",
-    "target": 8,
-    "date": "2026-09-03",
-    "brief": "Dal 24 agosto 2026 YouTube conta una 'view' già dal primo frame, anche in autoplay. Podtrac ha analizzato 84,2 milioni di visualizzazioni su canali podcast tra il 27 e il 28 agosto: solo il 64% risultano 'engaged views' (oltre il primo frame), l'8% in meno rispetto agli altri video del canale. Da ora Podtrac userà le engaged views, non più il contatore pubblico, per le sue classifiche.",
+    "id": "apple-podcasts-video-abbonamenti",
+    "title": "Apple Podcasts porterà i video nelle iscrizioni a pagamento",
+    "source": "9to5Mac, MacRumors, MacTech (23 settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-09-23",
+    "brief": "Apple ha annunciato che Apple Podcasts Subscriptions supporterà presto i video: i creator potranno offrire episodi video esclusivi per abbonati, versioni senza pubblicità, accesso anticipato e contenuti bonus, in oltre 170 paesi. Apple sta lavorando con gli hosting provider per l'integrazione, con dettagli nei prossimi mesi.",
     "angles": [
-      "Perché il numero di views che vedi su YouTube ora mente di più di prima",
-      "Cosa mostrare davvero a chi vuole sponsorizzare il tuo podcast dopo questo cambio",
-      "Engaged views vs views: la metrica giusta da guardare per capire se il tuo pubblico resta"
+      "Come prepararsi al video negli abbonamenti prima che la funzione arrivi davvero",
+      "Monetizzazione: cosa cambia tra abbonamento solo audio e con video",
+      "Cosa succede a chi ha un feed solo audio e non vuole passare al video"
     ],
     "hooks": [
-      "Hai controllato le views del tuo episodio su YouTube e sei tutto contento? Un terzo di quel numero, ora, non ha guardato più del primo secondo.",
-      "Stai per mandare quel numero di visualizzazioni a un possibile sponsor? Fermati: da fine agosto YouTube conta come 'vista' anche chi scrolla via dopo un frame.",
-      "Pensavi che più views volesse dire più pubblico vero? Uno studio uscito questo mese dice che quasi il 40% di quelle views se ne va prima di ascoltarti davvero."
+      "Hai finalmente sistemato l'audio del tuo podcast in abbonamento, e ora Apple ti tira in ballo pure il video.",
+      "Se pensavi di aver chiuso il discorso iscrizioni a pagamento restando solo audio, Apple ha altri piani per te.",
+      "Hai un podcast in abbonamento su Apple? Da oggi la webcam non è più un optional, è un annuncio ufficiale."
     ]
   },
   {
-    "id": "podcast-movement-nyc-2026-piattaforme-assenti",
-    "title": "Podcast Movement debutta a New York, ma Apple, Spotify e YouTube non hanno neanche uno stand",
-    "source": "Podnews, Sounds Profitable, Podglomerate (14-18 settembre 2026)",
+    "id": "spotify-partner-program-italia",
+    "title": "Spotify porta il Partner Program per i podcast anche in Italia",
+    "source": "Spotify Newsroom, TechCrunch, Yahoo Finance (17 settembre 2026)",
+    "affidabilita": "primaria",
+    "target": 9,
+    "date": "2026-09-17",
+    "brief": "Spotify ha esteso il suo Partner Program per la monetizzazione dei podcast a 35 nuovi paesi, tra cui l'Italia, in arrivo questo autunno. Per partecipare servono almeno 3 episodi pubblicati, 2.000 ore di consumo e 1.000 utenti coinvolti negli ultimi 30 giorni; si guadagna sia dalle impression video degli utenti Premium sia dalla revenue share pubblicitaria audio.",
+    "angles": [
+      "Requisiti minimi spiegati passo passo per i podcaster italiani che vogliono entrare",
+      "Audio vs video: come vengono conteggiate le impression nel nuovo programma",
+      "Perché conviene muoversi subito prima che il mercato italiano si affolli"
+    ],
+    "hooks": [
+      "Hai un podcast italiano e da mesi non vedi un euro: da questo autunno Spotify potrebbe pagarti sul serio.",
+      "Se aspettavi il tuo turno per monetizzare su Spotify, buone notizie: l'Italia è finalmente nella lista.",
+      "Hai tre episodi pubblicati e duemila ore di ascolto? Complimenti, sei quasi ammesso al club che paga."
+    ]
+  },
+  {
+    "id": "youtube-ai-shorts-podcast",
+    "title": "YouTube userà l'IA per trasformare i podcast in Shorts al posto tuo",
+    "source": "9to5Google, The Decoder, Campaign US (evento Made on YouTube, 23 settembre 2026)",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-18",
-    "brief": "Per la prima volta Podcast Movement ha scelto New York (Terminal 5) come sede del suo evento di punta, dal 17 al 18 settembre, dopo il Sounds Profitable Business Summit del 14-15. Le tre piattaforme che oggi decidono più di ogni altra come si scopre un podcast, Apple Podcasts, Spotify e YouTube, non avevano nessuno stand in fiera. Il taglio dei panel è passato da 'come iniziare' a strategie per creator già attivi.",
+    "date": "2026-09-23",
+    "brief": "Durante l'evento Made on YouTube 2026, YouTube ha annunciato che i podcaster USA potranno dare in pasto un episodio intero all'IA generativa per ottenere automaticamente clip Shorts dei momenti più cliccabili, già montate con musica. In arrivo anche uno strumento che genera un video automatico per i podcast pubblicati solo in audio.",
     "angles": [
-      "Perché le grandi piattaforme si tirano fuori dagli eventi di settore, e cosa significa per chi ci lavora dentro",
-      "Cosa cambia quando una conferenza per principianti diventa una conferenza per chi ha già un podcast",
-      "Il potere delle piattaforme non passa più dagli stand in fiera: dove si gioca davvero oggi"
+      "Fine della scusa 'non ho tempo per tagliare le clip per i social'?",
+      "Cosa rischi a lasciare scegliere i momenti clou a un algoritmo",
+      "I podcast audio-only avranno comunque un video generato: che significa per la tua identità visiva"
     ],
     "hooks": [
-      "Pensi che Spotify o YouTube ti debbano una vetrina alla prossima fiera di settore? Al loro evento di riferimento non si sono nemmeno presentati con uno stand.",
-      "Se il tuo piano è 'faccio girare bene l'algoritmo e mi scoprono', guarda chi ha smesso di andare alle fiere di chi fa podcast: proprio chi controlla l'algoritmo.",
-      "Sei ancora al 'primo episodio, che software uso'? La conferenza podcast più seguita dell'anno ha appena smesso di parlare a te: ormai il pubblico è chi ha già superato quella fase."
+      "Hai smesso di tagliare Shorts dai tuoi episodi perché non hai tempo: ora ci pensa l'IA di YouTube al posto tuo.",
+      "Se odi montare le clip per i social dopo la registrazione, YouTube ti manda un algoritmo a scegliere i momenti 'belli'.",
+      "Hai un podcast solo audio senza un video da mostrare: YouTube sta per generartene uno da solo, chiesto o no."
     ]
   },
   {
-    "id": "raiplay-sound-stagione-2026-2027",
-    "title": "Rai Radio presenta i palinsesti 2026-2027 con una spinta forte su podcast e originali RaiPlay Sound",
-    "source": "Spot and Web, Radiospeaker.it, Fattitaliani (14-settembre 2026 in poi)",
+    "id": "podtrac-youtube-engaged-views",
+    "title": "YouTube ridefinisce le visualizzazioni e i podcast ci fanno bella figura",
+    "source": "Podtrac (analisi propria), ripreso da Podnews e InsideRadio (2 settembre 2026)",
+    "affidabilita": "primaria",
+    "target": 6,
+    "date": "2026-09-02",
+    "brief": "Da fine agosto 2026 YouTube conta una visualizzazione dal primo frame, anche in autoplay. L'analisi di Podtrac su 84,2 milioni di views mostra che per i podcast il 64% delle visualizzazioni sono 'engaged' (spettatore realmente attivo), contro il 58% degli altri video dello stesso canale: un divario più piccolo, segno che chi guarda un podcast è mediamente più attento.",
+    "angles": [
+      "Perché i tuoi numeri su YouTube sono cambiati da un giorno all'altro senza che tu abbia fatto nulla",
+      "Come leggere le 'engaged views' quando prepari un media kit per gli sponsor",
+      "Il podcast batte gli altri contenuti YouTube in attenzione reale, non solo in view grezze"
+    ],
+    "hooks": [
+      "Hai controllato le tue view su YouTube e sono cambiate dal nulla: non sei impazzito, ha cambiato criterio YouTube.",
+      "Se ti vantavi delle visualizzazioni del tuo podcast su YouTube, ora c'è un numero più onesto da guardare, e conviene guardarlo.",
+      "Hai paura che la gente scrolli via il tuo video in due secondi: i dati dicono che su podcast restano più attenti che altrove."
+    ]
+  },
+  {
+    "id": "descript-aggiornamento-settembre",
+    "title": "Descript aggiunge musica e sound design generati dall'IA su richiesta",
+    "source": "Descript Changelog ufficiale (17 settembre 2026)",
     "affidabilita": "primaria",
     "target": 7,
-    "date": "2026-09-14",
-    "brief": "Nella presentazione dei palinsesti radiofonici 2026-2027, la Rai ha annunciato un rafforzamento dell'offerta podcast su RaiPlay Sound, con nuovi originali come 'Secondo Ascolto' di Alessandro Greco e Alessandro Migliaccio (dal 14 settembre), 'Burnout' di Jonathan Zenti e 'Grazie al caso' con Virginio. Il catalogo supera i 2.000 titoli, di cui circa 500 podcast originali.",
+    "date": "2026-09-17",
+    "brief": "L'ultimo aggiornamento di Descript introduce la generazione IA di musica di sottofondo ed effetti sonori su richiesta testuale (un citofono, un whoosh, un colpo alla porta) della durata esatta richiesta, 18 nuovi preset di sottotitoli con 10 animazioni, e il precalcolo dei chunk video per uno scrubbing più rapido in fase di editing.",
     "angles": [
-      "Cosa vuol dire per un editore indipendente che anche la Rai punta forte sui podcast originali",
-      "Come sono fatti i nuovi format Rai: cosa puoi rubare per il tuo show anche senza budget da broadcaster",
-      "Il podcast come priorità editoriale, non più contenuto 'di riempimento' per la radio pubblica"
+      "Sound design 'a comando' per chi non ha librerie audio a pagamento",
+      "Sottotitoli animati: quando aiutano davvero la leggibilità e quando distraggono",
+      "Editing più fluido grazie al precaching video: cosa cambia nel flusso di lavoro"
     ],
     "hooks": [
-      "Pensavi che il podcast fosse ancora la cosa 'sperimentale' che si fa nel tempo libero? Pure la Rai ha appena messo mezza stagione di palinsesto puntata lì.",
-      "Se il tuo dubbio è 'ma il podcast in Italia lo segue davvero qualcuno di serio', guarda chi ci ha investito un pacchetto di format nuovi questo mese: la radio pubblica.",
-      "Hai un'idea da format podcast e pensi che serva un network alle spalle per farla decollare? La Rai ne lancia uno nuovo quasi ogni settimana: studia la struttura, non il budget."
+      "Hai passato un'ora a cercare l'effetto sonoro giusto su una libreria gratuita: ora basta scriverlo e Descript te lo genera.",
+      "Se i tuoi sottotitoli sono sempre la stessa animazione da tre anni, Descript ne ha appena aggiunte altre dieci.",
+      "Hai un podcast video e lo scrubbing nell'editor sembra girare sul dial-up: quel problema Descript l'ha appena sistemato."
     ]
   },
   {
-    "id": "adobe-podcast-enhance-speech-v2-generative",
-    "title": "Adobe Podcast rilancia Enhance Speech con audio generativo per musica e rumori d'ambiente",
-    "source": "Adobe (release notes 2026); ripreso da guide di settore aggiornate a settembre 2026",
+    "id": "festival-podcasting-milano-2026",
+    "title": "Il Festival del Podcasting compie 10 anni e chiude a Milano tra IA e video podcast",
+    "source": "Il Sole 24 Ore, CanaleUno, La Voce d'Italia, Radio Studio90 Italia (22 settembre 2026)",
     "affidabilita": "secondaria",
-    "target": 8,
-    "date": "2026-09-10",
-    "brief": "La revisione 2026 di Enhance Speech, lo strumento gratuito di pulizia audio di Adobe, aggiunge funzioni di audio generativo su prompt testuale per creare musica e effetti sonori d'ambiente, oltre a un lavoro più profondo sulla qualità della pulizia vocale rispetto alla prima versione.",
+    "target": 7,
+    "date": "2026-09-22",
+    "brief": "Dal 21 al 30 settembre il Festival del Podcasting tocca varie città italiane (Milano, Genova, Rimini, Roma, Trieste, Palermo e altre), per chiudersi il 2-3 ottobre a Milano nell'area MIND nel suo decimo anniversario. Si parlerà di IA, video podcast, branded content e nuovi modelli di business, e verrà presentata una nuova ricerca NielsenIQ commissionata da Audible sui trend di ascolto e il profilo degli ascoltatori italiani.",
     "angles": [
-      "Quando conviene usare la pulizia audio automatica e quando ti rovina la voce",
-      "Musica e SFX generati su prompt: scorciatoia onesta o rischio di podcast tutti uguali",
-      "Come integrare Enhance Speech nel tuo flusso di editing senza perdere il controllo del suono"
+      "Cosa aspettarsi dalla nuova ricerca NielsenIQ su chi ascolta davvero i podcast in Italia",
+      "Dieci anni di Festival del Podcasting: cosa dice sulla maturità del mercato italiano",
+      "Video podcast e branded content: i temi caldi per chi lavora in Italia in questo momento"
     ],
     "hooks": [
-      "Hai registrato in una stanza che rimbomba e pensavi di dover rifare tutto? Lo strumento gratuito di Adobe per pulire la voce ha appena fatto un salto di qualità serio.",
-      "Ti manca sempre quel jingle o quel rumore di fondo giusto e finisci a scaricare musica royalty-free a caso? Ora te lo genera lo stesso tool che ti pulisce la voce, con un prompt di testo.",
-      "Se il tuo montaggio si blocca sempre sulla parte 'audio sporco, non so come sistemarlo', vai a guardare cosa fa oggi la pulizia vocale automatica: non è più quella di due anni fa."
+      "Hai sempre pensato che il podcasting in Italia fosse roba di nicchia: il festival dedicato compie dieci anni, mica bruscolini.",
+      "Se lavori vicino a Milano e fai podcast, dal 2 ottobre c'è un festival intero fatto apposta per farti rete e formazione.",
+      "Hai sempre voluto sapere chi ascolta davvero i podcast in Italia: a ottobre escono i dati nuovi, presentati dal vivo."
     ]
   },
   {
-    "id": "podcast-ascolto-italia-crescita-continua",
-    "title": "In Italia il podcast continua a crescere: sessioni più lunghe e ascolto sempre più abituale",
-    "source": "NielsenIQ per Audible, ripreso da Sky TG24, ADC Group, Media Key, Questioni di Orecchio",
+    "id": "buzzsprout-podcast-assenti-directory",
+    "title": "Più del 70% dei podcast attivi manca da qualche directory importante",
+    "source": "Buzzsprout, ripreso da Podnews e Quasa.io (1 settembre 2026)",
     "affidabilita": "primaria",
-    "target": 6,
+    "target": 8,
     "date": "2026-09-01",
-    "brief": "Secondo la ricerca NielsenIQ per Audible, gli ascoltatori di podcast in Italia sono saliti a 18 milioni, +800.000 rispetto all'anno precedente (+5%) e +75% dal 2018. La durata media di ascolto supera i 28 minuti (4 in più dell'anno scorso), il 62% lo considera un appuntamento settimanale e il 16% ascolta ogni giorno. I generi più amati restano true crime, storia, politica e benessere.",
+    "brief": "Buzzsprout ha rilevato che oltre il 70% dei podcast attivi sulla piattaforma non è presente in tutte le directory audio disponibili. Dopo il lancio (13 agosto) di uno strumento per inviare lo show a 16 directory con un solo click, oltre 5.200 podcast hanno aggiunto almeno una directory in cui erano assenti, nelle prime due settimane.",
     "angles": [
-      "Cosa dicono questi numeri a chi sta pensando 'in Italia i podcast non li ascolta nessuno'",
-      "Perché puntare su episodi più lunghi non è un rischio, se il pubblico italiano ascolta sempre di più",
-      "Generi che tirano in Italia (true crime, storia, benessere): come inserirti senza copiare il format altrui"
+      "L'errore da principianti che ti costa ascolti senza che tu te ne accorga",
+      "Checklist pratica: dove NON sei ancora presente con il tuo show",
+      "Sottomettere non basta: la differenza tra 'inviato' e 'accettato e indicizzato'"
     ],
     "hooks": [
-      "Ti hanno detto che in Italia il podcast è ancora una nicchia per quattro sfigati? I dati di quest'anno dicono 18 milioni di persone che ascoltano, in crescita ogni anno.",
-      "Hai paura che il tuo episodio da 40 minuti sia troppo lungo per il pubblico italiano? La durata media di ascolto è appena salita ancora: la gente resta, se il contenuto vale.",
-      "Se stai scegliendo il genere del tuo prossimo podcast e vai a caso, guarda cosa ascolta davvero l'Italia: true crime, storia e benessere continuano a vincere, non inventare la ruota."
+      "Hai pubblicato il tuo podcast pensando che ormai fosse ovunque: sette su dieci in realtà mancano da qualche directory.",
+      "Se ti chiedi perché nessuno ti trova su certe app, forse il tuo podcast lì non è nemmeno registrato.",
+      "Hai fatto l'invio alle directory una volta e te ne sei dimenticato: invio non vuol dire accettato, segnatelo da qualche parte."
     ]
   }
 ]

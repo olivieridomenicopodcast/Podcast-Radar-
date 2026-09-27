@@ -1,58 +1,58 @@
 [
   {
-    "id": "tempesta-g1-buco-coronale",
-    "title": "Tempesta geomagnetica G1 da buco coronale disturba le HF",
-    "source": "NOAA SWPC (24-25 settembre 2026)",
+    "id": "propagazione-hf-vento-solare-settembre-2026",
+    "title": "Vento solare da buco coronale mantiene condizioni HF instabili",
+    "source": "NOAA SWPC, 3-Day Forecast (emesso 2026-09-25); ARRL, \"The K7RA Solar Update\" (settimana del 2026-09-25)",
     "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "NOAA SWPC ha confermato condizioni di tempesta geomagnetica minore G1 causate da un buco coronale, con effetti estesi dal 24 al 25 settembre. Sulle HF si segnala degradazione minore (R1) delle comunicazioni sul lato illuminato, con possibili blackout occasionali; aurore visibili alle alte latitudini, rafforzate dalla vicinanza all'equinozio."
-  },
-  {
-    "id": "macchia-solare-ar4534",
-    "title": "La macchia solare AR4534 sviluppa una struttura magnetica complessa",
-    "source": "NOAA SWPC Forecast Discussion, EarthSky, NatureWorldNews (22-24 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-22",
-    "brief": "La regione attiva AR4534 ha assunto una configurazione magnetica beta-delta, producendo 9 brillamenti su 11 registrati in 24 ore con un picco di classe C2.4 il 22 settembre. Gli osservatori la monitorano per il rischio di brillamenti di classe M nei prossimi giorni, con possibili riflessi sulla propagazione HF."
-  },
-  {
-    "id": "iaru-r1-conferenza-vienna",
-    "title": "Si chiude a Vienna la 27ma Conferenza Generale IARU Region 1",
-    "source": "IARU Region 1 (chiusura 23 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-23",
-    "brief": "Si è conclusa a Vienna la 27ma Conferenza Generale IARU-R1, con oltre 120 delegati da 38 società membri. Eletti i vertici per il prossimo triennio: Hans Blondeel Timmerman PB2T confermato presidente, con nuovo Comitato Esecutivo e responsabili di comitati e gruppi di lavoro."
-  },
-  {
-    "id": "orari-indonesia-emcomm",
-    "title": "ORARI chiude la rete di emergenza per l'attività vulcanica in Indonesia",
-    "source": "IARU Region 1, WIA, UBA (11-24 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "L'Organisasi Amatir Radio Indonesia (ORARI) ha mantenuto attiva dall'11 al 24 settembre una rete di emergenza per l'attività vulcanica nel paese, su 7.110/7.100 MHz HF e sul satellite LAPAN-A2/IO-86. La notizia è ripresa dai bollettini IARU-R1 e dalle società radioamatoriali WIA (Australia) e UBA (Belgio)."
-  },
-  {
-    "id": "ri1fjz-terra-francesco-giuseppe",
-    "title": "Si chiude oggi la DX-pedition RI1FJZ a Terra di Francesco Giuseppe",
-    "source": "DX-World.net, ri1fjz.ru (9-25 settembre 2026)",
-    "affidabilita": "secondaria",
     "date": "2026-09-25",
-    "brief": "Il team di 5 operatori attivo dal 9 settembre come RI1FJZ sull'isola Aleksandra, nell'arcipelago russo di Terra di Francesco Giuseppe, conclude oggi le operazioni. Bande coperte da 160 a 10 metri in CW/SSB/digitale, con attività anche in EME e sul satellite QO-100, nonostante una connessione internet instabile dal campo base."
+    "brief": "Un flusso di vento solare veloce da un buco coronale ha spinto l'indice Kp fino a 5 (soglia di tempesta geomagnetica minore G1) tra il 25 e il 27 settembre, con indice A planetario atteso in calo da 18 a circa 5 nei giorni seguenti. Il flusso solare a 10.7 cm si è attestato attorno a 92 sfu; si è inoltre nel periodo di propagazione equinoziale, tipicamente più uniforme a livello globale."
   },
   {
-    "id": "9t0md-congo-annuncio",
-    "title": "Annunciata la DX-pedition 9T0MD nella Repubblica Democratica del Congo",
-    "source": "DX-World.net, DX Engineering/OnAllBands (settimana del 22-25 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "Una spedizione multi-operatore sarà attiva dal 30 settembre all'11 ottobre dalla Repubblica Democratica del Congo con il prefisso 9T0MD, mai usato prima in aria. Copriranno 160-6 metri in CW/SSB/RTTY/FT8, con attività anche su EME e sul satellite QO-100; DX Engineering ha confermato il supporto tecnico."
-  },
-  {
-    "id": "contest-weekend-26-27-settembre",
-    "title": "Weekend di contest: Maine QSO Party e YU DX Contest il 26-27 settembre",
-    "source": "WA7BNM Contest Calendar, F6KOP (26-27 settembre 2026)",
-    "affidabilita": "secondaria",
+    "id": "cq-ww-rtty-contest-2026",
+    "title": "Si è svolto il CQ WW RTTY Contest 2026",
+    "source": "cqwwrtty.com (regolamento ufficiale); cq.sk, anteprima CQ WW RTTY 2026",
+    "affidabilita": "primaria",
     "date": "2026-09-26",
-    "brief": "Il calendario WA7BNM segnala per il prossimo weekend il Maine QSO Party (1200Z sabato - 1200Z domenica) insieme ad altri eventi come il YU DX Contest e l'AWA Amplitude Modulation QSO Party. Occasione di attività HF con propagazione ancora influenzata dalla tempesta geomagnetica G1 in corso."
+    "brief": "Il CQ WW RTTY Contest 2026 si è svolto dalle 0000 UTC di sabato 26 settembre alle 2359 UTC di domenica 27 settembre sulle bande 80-10 metri. Tra i partecipanti segnalati anche stazioni DX rare come J48S, V55Y e VP9I. Termine invio log: 29 settembre 2026."
+  },
+  {
+    "id": "dxpedition-st-kitts-v47ya-v47rcx",
+    "title": "DXpedition in corso da Saint Kitts (V47YA/V47RCX)",
+    "source": "RSGB GB2RS DX News, bollettino del 27 settembre 2026; DX-World.net",
+    "affidabilita": "secondaria",
+    "date": "2026-09-27",
+    "brief": "Tom K0YA (nominativo V47YA) e Toni W5RCX (nominativo V47RCX) sono attivi da Saint Kitts (NA-104) fino al 30 settembre, in CW, FT8 e SSB su HF e 6 metri. Operazione in stile \"holiday\"; QSL via Logbook of the World."
+  },
+  {
+    "id": "iaru-r1-conferenza-vienna-2026",
+    "title": "Si è chiusa la 27ª Conferenza Generale IARU Region 1 a Vienna",
+    "source": "IARU Region 1 (iaru-r1.org); UBA - Union Belge des Amateurs-Radio",
+    "affidabilita": "secondaria",
+    "date": "2026-09-23",
+    "brief": "La 27ª Conferenza Generale IARU Region 1, con 38 società nazionali e oltre 120 delegati, si è conclusa a Vienna il 23 settembre 2026. È stato eletto il nuovo Comitato Esecutivo (presidente Hans Blondeel Timmerman, PB2T) e si è discusso di questioni di spettro, incluso l'uso della banda 430 MHz da parte della costellazione satellitare AST SpaceMobile."
+  },
+  {
+    "id": "wsjt-x-3-2-0-rc1-jtty",
+    "title": "Rilasciata la release candidate WSJT-X 3.2.0 con il nuovo modo JTTY",
+    "source": "WSJT-X GitHub Releases; npota.arrl.org (ARRL)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-23",
+    "brief": "Il team WSJT-X ha pubblicato la release candidate 3.2.0-rc1, che introduce JTTY, un nuovo modo keyboard-to-keyboard pensato per riprodurre la sensazione operativa dell'RTTY con prestazioni sui segnali deboli nettamente superiori. È richiesto testing on-air prima del rilascio generale definitivo."
+  },
+  {
+    "id": "smartsdr-macos-2-9-158",
+    "title": "Nuova versione 2.9.158 del client SmartSDR per macOS",
+    "source": "Mac Ham Radio, machamradio.com (26 settembre 2026)",
+    "affidabilita": "segnale_debole",
+    "date": "2026-09-26",
+    "brief": "Rilasciata la versione 2.9.158 del client SmartSDR per macOS (per apparati FlexRadio), con un nuovo pulsante AUTO in JS8 per attivare/disattivare le risposte automatiche, gestione del heartbeat JS8 e miglioramenti al modo FT8-Improved. Riportato da una sola fonte, da confermare sui canali ufficiali FlexRadio."
+  },
+  {
+    "id": "ari-mimit-rinnovo-bande-sperimentali",
+    "title": "MIMIT conferma il rinnovo delle bande sperimentali 1.8/40/70 MHz per l'ARI",
+    "source": "ARI - Associazione Radioamatori Italiani (ari.it); blog IU2FRL",
+    "affidabilita": "secondaria",
+    "date": "2026-07-31",
+    "brief": "Con protocollo n. 5536/2026 il Ministero delle Imprese e del Made in Italy ha confermato all'ARI il rinnovo delle sperimentazioni sulle frequenze 1810-1830 kHz, 40.660-40.700 MHz e 70.100-70.400 MHz, valido fino al 31/12/2026. È richiesto l'uso del portale sperimentazioni.ari.it per il monitoraggio delle interferenze e il log delle attività. Fatto anteriore alla finestra delle 48 ore ma tuttora la normativa italiana in vigore più rilevante sul tema bande sperimentali."
   }
 ]
