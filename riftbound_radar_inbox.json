@@ -1,56 +1,47 @@
 [
   {
-    "id": "la-regional-qualifier-2026",
-    "title": "L'ultimo Regional Qualifier 2026 di Riftbound si svolge a Los Angeles",
-    "source": "playriftbound.com \"All Eyes on Los Angeles\", riftbound.gg event info (25 settembre 2026)",
+    "id": "rq-los-angeles-chiusura-vendetta",
+    "title": "Los Angeles chiude la stagione di Regional Qualifier di Vendetta con oltre 2.000 giocatori",
+    "source": "riftbound.gg, Liquipedia, riftdecks.com (25-27 settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-26",
+    "brief": "Il Regional Qualifier di Los Angeles, disputato al Convention Center dal 25 al 27 settembre con un montepremi di 25.000 dollari, ha chiuso il calendario dei Regional Qualifier 2026 legati al set Vendetta con oltre 2.000 giocatori registrati, tra i numeri più alti mai raggiunti da un evento Riftbound.",
+    "rilevanza": "Segna la chiusura del ciclo competitivo di Vendetta prima dell'arrivo di Radiance e conferma la crescita costante della base competitiva del gioco negli USA."
+  },
+  {
+    "id": "radiance-nuove-legend-meccaniche-take-the-stage",
+    "title": "'Take the Stage': Riot rivela nuove Legend e tre meccaniche inedite per Radiance",
+    "source": "TriplePoint Newsroom, Inven Global, Bleeding Cool, The Magic Rain (25-09-2026)",
     "affidabilita": "primaria",
     "date": "2026-09-25",
-    "brief": "Dal 25 al 27 settembre si tiene al Los Angeles Convention Center l'ultimo Regional Qualifier del 2026 di Riftbound, con centinaia di giocatori in gara e streaming ufficiale. L'evento coincide con l'inizio della preview season del nuovo set Radiance.",
-    "rilevanza": "È l'ultima grande occasione competitiva del 2026 prima delle Regional Championship che porteranno al primo Mondiale di Riftbound, e segna l'apertura ufficiale delle rivelazioni sul prossimo set."
+    "brief": "Riot Games ha rivelato ufficialmente K'Sante, Pride of Nazumah tra le nove nuove Legend del set Radiance (in uscita il 23 ottobre), insieme a tre meccaniche inedite: Deploy, Show Off e Disarm, oltre alle nuove Equipment Units e ai token Bomb. K'Sante trasforma il Shield (difensivo) in Assault (offensivo) per un turno, in linea con il suo kit da League of Legends.",
+    "rilevanza": "Le prime meccaniche confermate di Radiance permettono ai giocatori di iniziare a pianificare mazzi e acquisti in vista del lancio globale del 23 ottobre."
   },
   {
-    "id": "radiance-preview-panel",
-    "title": "Riot apre la preview season di Radiance con un panel di sviluppatori a Los Angeles",
-    "source": "playriftbound.com, \"Radiance Preview Season\" (25 settembre 2026)",
-    "affidabilita": "primaria",
+    "id": "astral-heron-carta-chiave-meta-post-ban",
+    "title": "Astral Heron si conferma la carta più giocata del meta post-ban, oltre 1.250 mazzi nell'ultimo mese",
+    "source": "riftbound.gg tier list, riftdecks.com meta tier list settembre 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-26",
+    "brief": "Dopo il ban di Ekko, Recurrent e Stacked Deck del 18 settembre, Astral Heron è diventata la carta di riferimento del meta Vendetta: riduce di 2 energia e 2 potere la seconda carta giocata nel turno, ed è stata inserita in più di 1.254 mazzi nell'ultimo mese, spesso per riportare Irelia ai vertici.",
+    "rilevanza": "Indica dove si sta spostando davvero il meta competitivo dopo il ban di settembre, utile per chi si prepara ai prossimi torneo prima dell'arrivo di Radiance."
+  },
+  {
+    "id": "radiance-preorder-sopra-msrp",
+    "title": "I preorder di Radiance volano sopra l'MSRP mentre si avvicina il lancio del 23 ottobre",
+    "source": "TCG Sealed Alerts, riftcompare.com, Miniature Market, Universe TCG (settembre 2026)",
+    "affidabilita": "secondaria",
     "date": "2026-09-25",
-    "brief": "Durante l'evento di Los Angeles, un panel con il Game Director Dave Guskin, il Lead Designer di Radiance Jon Moormann, il Creative Director Brice Cox e l'Art Director Michelle Mauk ha presentato in anteprima carte del quinto set, Radiance, in uscita il 23 ottobre 2026 in inglese, cinese e francese.",
-    "rilevanza": "Dà ai giocatori le prime informazioni ufficiali sulle nuove carte/meccaniche del prossimo set, utile per pianificare mazzi e acquisti in vista del lancio di ottobre."
+    "brief": "Con l'MSRP ufficiale fissato da Riot a 120 dollari per un box da 24 buste, i preorder del box di Radiance sui principali rivenditori online oscillano già tra 140 e 150 dollari, con prezzi che variano molto da negozio a negozio perché nulla è ancora stato spedito.",
+    "rilevanza": "Il mercato dei preorder sopra MSRP a un mese dal lancio è un primo indicatore della domanda attesa per Radiance, utile per chi valuta se prenotare o aspettare."
   },
   {
-    "id": "ban-list-settembre",
-    "title": "Nuovo ban list: Ekko, Recurrent e Stacked Deck vietati in Standard e 2v2",
-    "source": "playriftbound.com \"September Ban List Updates\", riftbound.gg (18 settembre 2026)",
+    "id": "regional-championship-europa-stoccarda",
+    "title": "Il primo Regional Championship europeo si terrà a Stoccarda il 6-8 novembre, verso i Worlds 2027",
+    "source": "playriftbound.com, Sheep Esports, riftdaily.com (annunci di agosto, dettagli confermati a settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Con effetto dal 18 settembre 2026 Riot ha bandito le carte Ekko, Recurrent e Stacked Deck sia in Standard che in 2v2 Constructed per contenere i mazzi dominanti; Kennen ha invece ricevuto solo un intervento mirato senza ban diretto.",
-    "rilevanza": "Cambia direttamente il metagame competitivo attuale e le scelte di deck-building per i torneo delle settimane successive, incluso il Regional Qualifier di Los Angeles del 25-27 settembre."
-  },
-  {
-    "id": "lancio-corea",
-    "title": "Riftbound debutta ufficialmente in Corea del Sud",
-    "source": "Inven Global, Korea JoongAng Daily (18 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-18",
-    "brief": "Riot Games ha lanciato la versione coreana di Riftbound il 18 settembre 2026, con una carta esclusiva di Ahri e pop-up event a Seoul (GGX e Dopamine Station a IPARK Mall Yongsan). Sono previsti negozi dedicati, eventi settimanali \"Nexus Nights\" e un circuito competitivo con Store Qualifiers, Open Qualifiers e Korea Majors con montepremi trimestrali.",
-    "rilevanza": "Espande il mercato ufficiale del gioco in una delle scene TCG più attive al mondo, con possibili ricadute su disponibilità di prodotto, promo esclusive e prezzi delle carte a livello globale."
-  },
-  {
-    "id": "torneo-ccs-houston",
-    "title": "CCS Qualifier #5 a Houston: oltre 560 giocatori nel meta post-ban",
-    "source": "riftbound.gg / tracker torneistici come TopDeck.gg e RiftRank (19 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-19",
-    "brief": "Il 19 settembre si sono svolti diversi torneo rilevanti: il CCS Riftbound Invitational Qualifier #5 a Houston con 562 giocatori, l'evento online Convergence #3 con 265 iscritti, e diverse City Challenge in Cina (Shanghai, Guangzhou, Hangzhou, Nanning) nel formato Set 4 Vendetta.",
-    "rilevanza": "Fornisce i primi dati concreti sul metagame dopo i ban del 18 settembre, utili per chi si prepara ai prossimi qualifier e alla Regional Qualifier di Los Angeles."
-  },
-  {
-    "id": "prezzi-mercato-collezionismo",
-    "title": "Il mercato secondario di Riftbound resta molto attivo, promo Metal ai vertici",
-    "source": "TCGplayer, Guardian TCG, Vaulted Collection (rilevazioni di metà/fine settembre 2026)",
-    "affidabilita": "secondaria",
     "date": "2026-09-20",
-    "brief": "Le carte promo Metal restano tra le più richieste dai collezionisti: la Ahri Nine-Tailed Fox Metal è valutata attorno ai 5.449$ raw, Teemo Metal circa 4.400$ e Irelia Metal circa 3.500$. Anche il Riftbound Worlds 2025 Bundle, costato 99,99$ al lancio, viene rivenduto oltre 380$ su TCGplayer.",
-    "rilevanza": "Segnala che il collezionismo attorno a Riftbound resta molto vivo, con forte domanda per le carte promo più rare e per i prodotti legati ai Mondiali, un dato utile per chi valuta acquisti o vendite."
+    "brief": "Nel percorso verso il primo Riftbound World Championship, previsto per il 2027, il Regional Championship europeo si disputerà a Stoccarda dal 6 all'8 novembre 2026, mentre quello nordamericano è fissato a Las Vegas dall'11 al 13 dicembre. I primi otto classificati di ogni Regional Championship otterranno l'invito ai Worlds.",
+    "rilevanza": "Per i giocatori europei è il primo grande traguardo del nuovo percorso competitivo verso i Mondiali, e fissa già le prossime scadenze di qualificazione da seguire."
   }
 ]
