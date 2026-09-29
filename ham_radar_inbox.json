@@ -1,42 +1,50 @@
 [
   {
-    "id": "cq-ww-rtty-2026-weekend",
-    "title": "Weekend di contest: si è svolto il CQ WW RTTY, il più grande contest digitale dell'anno",
-    "source": "cqwwrtty.com, cq.sk (26-27 settembre 2026)",
-    "affidabilita": "primaria",
+    "id": "dx-8q7jh-maldive",
+    "title": "DX attivi: 8Q7JH dalle Maldive su 20, 15 e 10 metri",
+    "source": "ARRL / PARSgram (28-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "Juergen DL3JH opera come 8Q7JH da Thulhagiri Island, Maldive, su 20, 15 e 10 metri con diversi modi. Buona occasione per un nuovo paese su bande alte dall'Italia."
+  },
+  {
+    "id": "dx-fh-mayotte-f1teq",
+    "title": "FH/F1TEQ da Mayotte fino al 30 settembre",
+    "source": "ARRL / PARSgram (28-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "Ludovic F1TEQ è attivo come FH/F1TEQ da Mayotte in HF fino al 30 settembre: rimangono pochi giorni per collegarlo."
+  },
+  {
+    "id": "dx-jd1-ogasawara-e-vk9wx",
+    "title": "JD1 da Chichijima fino al 6 ottobre; VK9WX a Willis Island fino a fine ottobre",
+    "source": "ARRL / PARSgram (28-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "JE1NVD/JD1 e JI1CRM/JD1 operano da Chichijima (Ogasawara) in HF fino al 6 ottobre. VK4WXW è attivo come VK9WX da Willis Island fino a fine ottobre."
+  },
+  {
+    "id": "propagazione-attivita-solare-bassa",
+    "title": "Attività solare bassa: solo occasionali brillamenti di classe C",
+    "source": "ARRL news (settimana del 28-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "Le note ARRL indicano attività solare probabilmente bassa, con isolati o occasionali brillamenti di classe C. Nessun dato di flusso solare o indice K verificato oggi: consultare NOAA SWPC prima di pianificare i collegamenti."
+  },
+  {
+    "id": "rsgb-ft4-contest-28-settembre",
+    "title": "RSGB FT4 Contest lunedì 28 settembre 19:00-21:00 UTC",
+    "source": "Ham Radio Daily Contest Brief K6LDF (28-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "Contest serale in FT4 organizzato da RSGB, già concluso alle 21:00 UTC. Alla fine di settembre il calendario è stato dominato da CQ WW RTTY e UK/EI DX SSB del weekend 26-27."
+  },
+  {
+    "id": "icom-ic-7110-tokyo-ham-fair",
+    "title": "Icom IC-7110, erede dell'IC-7100, presentato al Tokyo Ham Fair 2026",
+    "source": "Icom (comunicati 2026)",
+    "affidabilita": "secondaria",
     "date": "2026-09-27",
-    "brief": "Come ogni ultimo weekend intero di settembre, si è svolto il CQ WW RTTY DX Contest, 48 ore continuative dalle 00:00 UTC di sabato 26 alle 23:59 UTC di domenica 27 settembre. È il contest in modo digitale più partecipato dell'anno a livello mondiale; i log vanno inviati entro 48 ore dalla fine del contest."
-  },
-  {
-    "id": "condizioni-solari-tranquille-fine-settembre",
-    "title": "NOAA prevede condizioni geomagnetiche tranquille per la fine di settembre",
-    "source": "NOAA/NWS Space Weather Prediction Center, previsione del 27-09-2026",
-    "affidabilita": "primaria",
-    "date": "2026-09-27",
-    "brief": "Il bollettino NOAA prevede attività solare bassa con quattro regioni attive sul disco e una leggera possibilità di brillamento di classe M il 28 settembre; il campo geomagnetico dovrebbe restare a livelli tranquilli per tutto il 28, 29 e 30 settembre, con flusso radio a 10,7 cm stabile intorno a 97-105."
-  },
-  {
-    "id": "9t0md-congo-ncdxf-grant",
-    "title": "La DX-pedition 9T0MD in Congo riceve il grant NCDXF, si parte il 30 settembre",
-    "source": "DX-World, dxnews.com, onallbands.com/DX Engineering, MDXC (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-26",
-    "brief": "Il team MDXC (Mediterraneo DX Club) sarà attivo dalla Repubblica Democratica del Congo come 9T0MD dal 30 settembre all'11 ottobre, su 160-6 metri in CW, SSB, FT8, RTTY e via satellite QO-100. La spedizione ha ricevuto un grant dalla NCDXF; QSL via IK2VUC."
-  },
-  {
-    "id": "icom-ic-7110-ham-fair-tokyo",
-    "title": "Icom svela l'IC-7110, l'erede dell'IC-7100 con architettura SDR moderna",
-    "source": "Icom Inc. (comunicato ufficiale), Icom Europe, cq.sk (Ham Fair Tokyo, 29-30 agosto 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-08-29",
-    "brief": "Al Ham Fair 2026 di Tokyo, Icom ha presentato l'IC-7110, transceiver HF/50/144/430-440 MHz (con banda dei 70 MHz nella versione europea) che raccoglie l'eredità dell'IC-7100. Mantiene la struttura a due corpi separati ma introduce architettura SDR moderna, display touch a colori e doppio ricevitore indipendente; era conosciuto internamente come 'X-026'."
-  },
-  {
-    "id": "iaru-r1-nuovo-comitato-esecutivo-vienna",
-    "title": "Si chiude a Vienna la 27ª Conferenza IARU Region 1: eletto il nuovo Comitato Esecutivo",
-    "source": "iaru-r1.org, conf.iaru-r1.org (19-23 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-23",
-    "brief": "La 27ª Conferenza Generale IARU Region 1, che ha riunito 38 società membri e oltre 120 delegati al Parkhotel Schönbrunn di Vienna, si è chiusa il 23 settembre con l'elezione del nuovo Comitato Esecutivo per i prossimi tre anni: Hans Blondeel Timmerman (PB2T) confermato Presidente, Dennis Green (ZS4BS) Vicepresidente, Achraf Chaabane (3V9A) Segretario ed Elvira Hardmeier Balmer (HB9EYH) Tesoriere."
+    "brief": "Ricetrasmettitore mobile HF/50/70/144/430 MHz con touchscreen a colori da 4,3 pollici e dualwatch, successore dell'IC-7100. Le fonti trovate non riportano prezzo e disponibilità confermati in Italia."
   }
 ]

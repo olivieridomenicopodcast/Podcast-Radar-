@@ -1,5 +1,49 @@
 [
   {
+    "id": "asmodee-italia-uscite-ottobre-2026",
+    "title": "Asmodee Italia: le uscite di ottobre 2026, dai gatti di Blankat a Forest Shuffle: Smoky Mountains",
+    "source": "GameScore.it (27-09-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-27",
+    "brief": "Il catalogo Asmodee Italia per ottobre include Blankat e Il Mio Primo Unlock (2 ottobre), Take Time - Mirage (16), Forest Shuffle: Smoky Mountains, Harmonies - Crescendo e Melodies (23), The King's Dilemma (28). Un mese con molte espansioni e giochi leggeri.",
+    "tipo": "uscite/catalogo",
+    "mercato": "italia",
+    "rilevanza": "Mostra che cosa un grande editore italiano localizza e spinge: espansioni di titoli già forti e giochi familiari."
+  },
+  {
+    "id": "lucca-2026-hogwarts-ravensburger-asmodee",
+    "title": "Lucca 2026: Ravensburger, Asmodee e Defenders of Hogwarts tra le anteprime giochi da tavolo",
+    "source": "SpazioGames (24-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "Ravensburger porta Horrified Ravenloft e i 40 anni di Labyrinth con Carcassonne; Asmodee un'edizione limitata di Lupi Mannari di Roccascura per i 25 anni; Defenders of Hogwarts è in anteprima mondiale prima della distribuzione 2027.",
+    "tipo": "fiera",
+    "mercato": "italia",
+    "rilevanza": "Lucca resta la vetrina degli editori licenziatari: utile a chi propone prototipi con licenze o temi già noti."
+  },
+  {
+    "id": "infoludiche-cortese-fiere-italiane",
+    "title": "Mario Cortese (GateOnGames, DungeonDice): \"Le fiere italiane non funzionano: troppo care, logistica complessa, nessun impatto sul B2B\"",
+    "source": "InfoLudiche.org (intervista, data non verificata)",
+    "affidabilita": "debole",
+    "date": "2026-09-01",
+    "brief": "Nell'intervista Cortese, titolare di GateOnGames e DungeonDice, critica il modello delle fiere italiane per costi e logistica e per lo scarso impatto sul B2B. Opinione di un imprenditore, non dato di mercato; data dell'intervista non verificata.",
+    "tipo": "opinione/persone",
+    "mercato": "italia",
+    "rilevanza": "Per un autore è un'indicazione su dove un editore investe tempo (contatti B2B) e dove no."
+  },
+  {
+    "id": "ideag-2026-parma-recap",
+    "title": "IDEAG 2026 a Parma: oltre 250 autori, 15-25 editori presenti, spazi cresciuti del 70%",
+    "source": "IDEAG (idea-g.it), ilgiocointavolo.it (gennaio 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-01-11",
+    "brief": "La 21ª edizione si è tenuta il 9-11 gennaio 2026 all'Hotel Parma & Congressi, con quasi 100 tavoli e la seconda edizione di IdeaGDR il 10 gennaio. Tra gli editori stranieri citati Hans im Glück, Matagot, CMON e Thundergryph. Le fonti trovate non riportano ancora data e luogo dell'edizione 2027.",
+    "tipo": "evento autori",
+    "mercato": "italia",
+    "rilevanza": "Riferimento principale per pitchare prototipi a editori italiani ed esteri; la prossima edizione va controllata sul sito IDEAG."
+  },
+  {
     "id": "maestro-media-overture-copublishing",
     "title": "Maestro Media lancia Overture, piattaforma di co-publishing aperta ad altri editori e autori",
     "source": "boardgamewire.com (10-09-2026)",

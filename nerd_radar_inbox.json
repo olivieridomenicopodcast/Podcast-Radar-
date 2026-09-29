@@ -1,47 +1,47 @@
 [
   {
+    "id": "lucca-2026-videogiochi-plaion-sega-atlus",
+    "title": "Lucca Comics & Games 2026: Plaion porta Alien: Isolation 2, Stranger Than Heaven e Persona 4 Revival",
+    "source": "Multiplayer.it, TechPrincess, Sky TG24 (24-09-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-24",
+    "brief": "A Lucca (28 ottobre-1 novembre) Plaion presenta tre anteprime italiane di SEGA e ATLUS. The Witcher 3 tornerà con Songs of the Past, terza espansione, con demo il 31 ottobre; FINAL FANTASY VII REVELATION avrà uno showcase dedicato alla Casa del Boia.",
+    "tipo": "fiera/annunci videogiochi"
+  },
+  {
+    "id": "lucca-2026-giochi-da-tavolo-hogwarts-ravensburger",
+    "title": "Lucca 2026, giochi da tavolo: Defenders of Hogwarts in anteprima mondiale, Labyrinth 40 anni con Carcassonne",
+    "source": "SpazioGames, itakon.it (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-24",
+    "brief": "Defenders of Hogwarts sarà mostrato a Lucca come primo evento mondiale prima della distribuzione di primavera 2027. Ravensburger porta Horrified Ravenloft e festeggia i 40 anni di Labyrinth con una collaborazione con Carcassonne; Asmodee celebra i 25 anni di Lupi Mannari di Roccascura con un'edizione limitata.",
+    "tipo": "fiera/giochi da tavolo"
+  },
+  {
+    "id": "lucca-2026-ospiti-legacy-60-anni",
+    "title": "Lucca Comics & Games 2026 compie 60 anni: tema Legacy, tra gli ospiti Go Nagai, Frank Miller e Hideki Kamiya",
+    "source": "Sky TG24, CorriereNerd, NerdPool (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-24",
+    "brief": "Dal 28 ottobre al 1 novembre, poster di Claudio Castellini. Tra gli ospiti Go Nagai, Frank Miller, Jonathan Hickman, Tōru Fujisawa, Yoshinori Kitase, Hideki Kamiya e Yōko Kanno; annunciati i 30 anni di Pokémon e un'anteprima italiana del Naruto Card Game.",
+    "tipo": "fiera/ospiti"
+  },
+  {
+    "id": "milan-games-week-cartoomics-27-29-novembre",
+    "title": "Milan Games Week & Cartoomics 2026 il 27-29 novembre a Fiera Milano Rho",
+    "source": "BusinessWeekly (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "Videogiochi, fumetti, manga, anime, esport, giochi da tavolo, cosplay e collezionismo a Fiera Milano Rho dal 27 al 29 novembre 2026.",
+    "tipo": "fiera"
+  },
+  {
     "id": "spiel-essen-2026-tcg-awards",
-    "title": "Spiel Essen 2026 sarà l'edizione più grande di sempre, debuttano anche i TCG Awards",
+    "title": "Spiel Essen 2026 sarà la più grande di sempre, debuttano i TCG Awards",
     "source": "toystorebiz.it, giochisulnostrotavolo.it, spiel-essen.de (28-09-2026)",
     "affidabilita": "primaria",
     "date": "2026-09-28",
-    "brief": "La fiera SPIEL di Essen, dal 22 al 25 ottobre, occuperà per la prima volta tutti e otto i padiglioni del quartiere fieristico (81.200 mq), con 921 aziende da 53 paesi e fino a 230.000 visitatori attesi e circa 1.500 novità presentate. Debuttano quest'anno i TCG Awards, primo premio globale dedicato ai giochi di carte collezionabili, insieme allo storico Deutsche Spiele Preis.",
-    "tipo": "fiera/evento"
-  },
-  {
-    "id": "witcher-3-remastered-switch2",
-    "title": "The Witcher 3: Wild Hunt Remastered arriva il 29 settembre, per la prima volta nativo su Switch 2",
-    "source": "CD Projekt Red Press Center, Nintendo Life, GoNintendo (annuncio; uscita 29-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-29",
-    "brief": "The Witcher 3: Wild Hunt Remastered esce il 29 settembre su PC, PS5 e Xbox Series X|S, con per la prima volta una versione nativa per Nintendo Switch 2 (download da circa 43,5 GB). Il remaster è gratuito per chi possiede già il gioco base con le espansioni Hearts of Stone e Blood and Wine, e rilavora combattimento, movimento, skill tree e sistema di loot.",
-    "tipo": "uscita videogioco"
-  },
-  {
-    "id": "minecraft-dungeons-2-uscita",
-    "title": "Minecraft Dungeons II debutta il 29 settembre su tutte le piattaforme, incluso Game Pass",
-    "source": "minecraft.net (comunicato ufficiale), Wikipedia (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-29",
-    "brief": "Minecraft Dungeons II esce il 29 settembre su Xbox Series X|S, PC, PS5, Switch e Switch 2, incluso in Game Pass e con supporto Xbox Play Anywhere. Il gioco introduce una nuova dimensione chiamata 'the Sift' e sostituisce la selezione missioni a tabella con un mondo più connesso, diviso tra missioni principali e secondarie.",
-    "tipo": "uscita videogioco"
-  },
-  {
-    "id": "kickstarter-giochi-tavolo-fine-settembre",
-    "title": "I Kickstarter di giochi da tavolo di fine settembre: dagli scontri tra navi volanti al 4X nel selvaggio West",
-    "source": "La Tana dei Goblin, goblins.net (fine settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-27",
-    "brief": "Tra le campagne di crowdfunding attive: 'Burning Skies' di Atlantis Studio, scontri tattici tra navi volanti da 15 minuti come apripista della linea Sky Realms of Atlantis; 'Deadwood', 4X ambientato nel selvaggio West con scadenza il 29 settembre; 'Vault Zero', gioco cyberpunk di hacker contro il governo con scadenza il 15 ottobre.",
-    "tipo": "crowdfunding giochi da tavolo"
-  },
-  {
-    "id": "lucca-2026-finalisti-gioco-anno-gdr-anno",
-    "title": "Lucca Comics & Games 2026: annunciati i finalisti di Gioco e Gioco di Ruolo dell'Anno",
-    "source": "SpazioGames, luccacomicsandgames.com, orgoglionerd.it (24-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "Su 70 titoli in gara da 29 editori, i finalisti del Gioco dell'Anno 2026 sono Art Society, Bomb Busters, Echoes of Time, Rebirth e Thunder Road Vendetta; per il Gioco di Ruolo dell'Anno concorrono Daggerheart, Dreaming Kadath, Legend in the Mist e The House Doesn't Always Win. I vincitori saranno premiati sul palco del Teatro del Giglio durante il festival (28 ottobre - 1 novembre).",
-    "tipo": "premio/concorso giochi da tavolo"
+    "brief": "Dal 22 al 25 ottobre tutti gli otto padiglioni (81.200 mq), 921 aziende da 53 paesi, fino a 230.000 visitatori attesi e circa 1.500 novità. Debuttano i TCG Awards insieme al Deutsche Spiele Preis.",
+    "tipo": "fiera internazionale giochi da tavolo"
   }
 ]

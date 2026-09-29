@@ -1,116 +1,115 @@
 [
   {
-    "id": "spotify-partner-program-italia",
-    "title": "Spotify porta il Partner Program in Italia: la monetizzazione podcast arriva anche da noi",
-    "source": "Spotify Newsroom (17-09-2026); ripreso da SmartWorld, TecnoAndroid, RAIN News, Netinfluencer",
+    "id": "apple-podcasts-subscriptions-video",
+    "title": "Apple Podcasts Subscriptions supporterà il video: episodi extra, early access e niente pubblicità per gli abbonati",
+    "source": "MacRumors, AppleWorld.today (23-09-2026); Apple Newsroom, Variety per il contesto HLS",
+    "affidabilita": "primaria",
+    "target": 8,
+    "date": "2026-09-23",
+    "brief": "Apple ha annunciato il 23 settembre che gli abbonamenti di Apple Podcasts supporteranno presto il video, per episodi riservati agli abbonati, versioni senza pubblicità e contenuti bonus, in oltre 170 paesi. Il video passa dal protocollo HLS; Apple non fa pagare i creator o gli hosting, mentre chiederà una tariffa alle reti pubblicitarie per gli annunci dinamici in HLS più avanti nel 2026. Tra i partner hosting al lancio: Acast, ART19, Omny Studio e SiriusXM.",
+    "angles": [
+      "Video anche su Apple: serve davvero registrare in video il tuo podcast?",
+      "Come pensare un'offerta in abbonamento (extra, early access) per un podcast piccolo",
+      "Cosa cambia per l'hosting: chi supporta HLS e chi no"
+    ],
+    "hooks": [
+      "Hai un podcast solo audio e pensi che il video non ti riguardi? Apple ha appena cambiato le carte in tavola, e non sei l'unico a doverci pensare.",
+      "Ti chiedi se vale la pena far pagare un abbonamento al tuo podcast? Ora anche Apple ti dà lo strumento, ma prima serve qualcuno che ti ascolti.",
+      "Pensi di dover mettere la faccia in ogni episodio per andare avanti? Calma: prima guardiamo cosa cambia davvero, poi decidi se comprare la telecamera."
+    ]
+  },
+  {
+    "id": "spotify-partner-program-italia-ottobre",
+    "title": "Spotify Partner Program in arrivo in Italia: monetizzazione podcast e video da ottobre",
+    "source": "TechCrunch (17-09-2026); Engage.it, SmartWorld, TecnoAndroid (settembre 2026)",
     "affidabilita": "primaria",
     "target": 9,
     "date": "2026-09-17",
-    "brief": "Spotify ha annunciato il 17 settembre la più grande espansione del suo Partner Program: oltre 35 nuovi mercati, tra cui Italia, Spagna, Brasile, Messico e Colombia. Il programma, che permette ai creator di guadagnare direttamente dagli ascolti sulla piattaforma, arriverà in Italia in autunno, con rollout previsto a ottobre.",
+    "brief": "Spotify estende il Partner Program a oltre 35 nuovi mercati, Italia compresa, con arrivo in autunno (per l'Italia le fonti parlano di rollout a ottobre). I creator guadagnano dalle visualizzazioni video dei Premium e dagli annunci. Secondo le fonti, tra i requisiti di accesso ci sono almeno 3 episodi, 2.000 ore di consumo e 1.000 ascoltatori coinvolti negli ultimi 30 giorni; Spotify dichiara +140% di consumo di video podcast dal 2022.",
     "angles": [
-      "Cosa serve avere per essere pronti quando il Partner Program apre davvero in Italia",
-      "Monetizzazione su Spotify vs sponsor diretti: cosa cambia per un podcast piccolo",
-      "Perché l'Italia arriva sempre dopo negli strumenti di guadagno per i creator, e come prepararsi comunque"
+      "Checklist per farsi trovare pronti quando apre il programma in Italia",
+      "Video su Spotify: conviene registrare in video dal primo episodio?",
+      "Numeri veri: come si arriva a 2.000 ore e 1.000 ascoltatori con un podcast piccolo"
     ],
     "hooks": [
-      "Hai sentito che Spotify paga i podcast anche in Italia? Sì, ma non da subito: ecco cosa puoi già fare per non arrivare impreparato a ottobre.",
-      "Pensi che basti aspettare che arrivi il Partner Program per guadagnare col tuo podcast? Se non hai ascolti veri già ora, quel bottone da solo non ti salva.",
-      "Ti stai chiedendo se conviene ancora fare podcast gratis mentre altri già guadagnano all'estero? La risposta arriva in autunno, e conviene arrivarci con un podcast che qualcuno ascolta davvero."
+      "Hai un podcast da 30 ascolti e senti già parlare di soldi? Spotify paga anche in Italia, ma prima devi superare una soglia. Ti dico quale.",
+      "Stai per lanciare un podcast e pensi solo al microfono? A ottobre conta anche se sai registrarlo in video. Non è una minaccia, è una scelta.",
+      "Hai smesso di pubblicare perché tanto nessuno ti paga? Se ti fermi ora, a ottobre non sei nemmeno in gara."
     ]
   },
   {
-    "id": "ilpod-italian-podcast-awards-piacenza-2026",
-    "title": "Italian Podcast Awards: a Piacenza la quinta edizione premia il podcast italiano, vince Tintoria",
-    "source": "piacenzasera.it, ilpiacenza.it, liberta.it, Fondazione di Piacenza e Vigevano (23-09-2026)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-09-23",
-    "brief": "Il 23 settembre in Piazza Cavalli a Piacenza si è svolta la quinta edizione de IlPod - Italian Podcast Awards, con premi al Podcast dell'Anno, Podcast Indie dell'Anno, Premio Academy (votato dagli allievi della Piacenza Podcast Academy) e Premio Storia del Podcast 2026, vinto da 'Tintoria' di Daniele Tinti e Stefano Rapone.",
-    "angles": [
-      "Cosa hanno in comune i podcast italiani premiati quest'anno, e cosa puoi rubare per il tuo show",
-      "Perché un premio nato in una piazza di provincia sta diventando il termometro del podcasting italiano",
-      "Indie vs mainstream: cosa significa oggi vincere il 'Podcast Indie dell'Anno' in Italia"
-    ],
-    "hooks": [
-      "Pensi che per vincere un premio nel podcasting devi essere già famoso? Il Podcast Indie dell'Anno di quest'anno ti dice il contrario.",
-      "Ti stai chiedendo se in Italia il podcasting sia solo un hobby per pochi? A Piacenza si è appena chiuso un premio con una piazza piena e una scuola di allievi che vota i propri colleghi.",
-      "Hai mai pensato che il tuo podcast potrebbe un giorno vincere un premio del genere? Tintoria l'ha fatto partendo da due amici e un microfono, non da un budget da network."
-    ]
-  },
-  {
-    "id": "festival-podcasting-2026-decimo-anniversario",
-    "title": "Il Festival del Podcasting compie 10 anni e si allarga a nove città italiane",
-    "source": "Digitalic, Il Sole 24 Ore, La Voce d'Italia, CanaleUno (22-settembre 2026 in poi)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-09-22",
-    "brief": "Il Festival del Podcasting festeggia i dieci anni con un formato distribuito su nove città italiane (Milano, Genova, Rimini, Roma, Trieste, Piacenza, Viggiano, Rieti, Palermo) dal 21 al 30 settembre, per poi chiudersi con l'evento principale il 2-3 ottobre a Cascina Triulza, Milano, tra intelligenza artificiale, brand e creator.",
-    "angles": [
-      "Da dove è partito il podcasting italiano dieci anni fa e dove sta andando davvero",
-      "Perché un festival ora ha bisogno di parlare di IA per restare rilevante nel podcasting",
-      "Cosa vuol dire che il podcasting italiano 'cerca ancora la sua identità' dopo un decennio"
-    ],
-    "hooks": [
-      "Hai iniziato a fare podcast pensando che fosse un fenomeno recente? Il festival che lo celebra in Italia ha appena spento dieci candeline.",
-      "Ti stai chiedendo se tra dieci anni il tuo podcast esisterà ancora? Il più importante festival italiano di settore si interroga sulla stessa cosa, e nel programma ci metti l'intelligenza artificiale.",
-      "Pensi che il podcasting italiano abbia già trovato la sua strada? Anche dopo dieci anni di festival dedicato, il titolo con cui se ne parla è ancora 'cerca la sua identità'."
-    ]
-  },
-  {
-    "id": "acast-podcast-pulse-2026-fine-guerra-formati",
-    "title": "Acast: la 'guerra dei formati' tra audio e video è finita, l'ha decisa il pubblico",
-    "source": "Acast Podcast Pulse 2026, ripreso da Podnews, RAIN News, PodcastingToday, Inside Radio (17-23 settembre 2026)",
-    "affidabilita": "primaria",
+    "id": "italia-podcast-ascolto-classifica-settembre",
+    "title": "Podcast in Italia: ascolta il 36% degli italiani e in classifica dominano true crime, talk e format quotidiani brevi",
+    "source": "Osservatorio Impresa Cultura Italia-Confcommercio (marzo 2026); CorriereNerd, ILovePodcast, Lifestyleblog (settembre 2026)",
+    "affidabilita": "secondaria",
     "target": 8,
-    "date": "2026-09-17",
-    "brief": "Il report Podcast Pulse 2026 di Acast, basato su 4.300 intervistati in 13 mercati (rilevazione Differentology, agosto 2026), mostra che il 78% degli ascoltatori consuma podcast in almeno due formati diversi e il 63% inizia un episodio in un formato e lo finisce in un altro. Per il CEO Greg Glenday 'la scelta non è più tra audio e video, ma tra le 7 del mattino in auto e le 9 di sera sul divano'.",
+    "date": "2026-09-28",
+    "brief": "Secondo l'Osservatorio Confcommercio (marzo 2026) il 36% degli italiani ascolta podcast, sei punti in più del 2022. Nella chart Spotify Italia di settembre convivono true crime (Elisa True Crime, Indagini), talk (La Zanzara, One More Time), divulgazione (Geopop, Barbero) e comicità. Tra i trend segnalati dalle fonti c'è la crescita del podcast quotidiano breve, da 20 minuti, come rituale. Le fonti sono blog e classifiche, non una ricerca nuova di giornata.",
     "angles": [
-      "Perché continuare a litigare su 'audio o video' ti fa perdere tempo che potresti usare per il tuo pubblico",
-      "Cosa vuol dire davvero pubblicare per il contesto e non per il formato",
-      "Come adattare un episodio già registrato a chi lo ascolta in macchina e a chi lo guarda sul divano, senza raddoppiare il lavoro"
+      "Cosa ci dice la chart italiana su formati e durate che funzionano",
+      "Il quotidiano da 20 minuti: opportunità o trappola per chi parte da zero?",
+      "Come scegliere un tema senza copiare il true crime"
     ],
     "hooks": [
-      "Stai ancora litigando con te stesso se il tuo podcast deve essere audio o video? Un'indagine su 4.300 persone dice che al tuo pubblico, onestamente, non importa più.",
-      "Hai paura di aver scelto il formato sbagliato per il tuo show? Il 63% degli ascoltatori inizia un episodio in un modo e lo finisce in un altro: forse il problema non è la tua scelta.",
-      "Pensi che video sia sempre meglio di solo audio ormai? Dipende se chi ti ascolta è in tangenziale alle 7 o sul divano alle 21, non da quale formato sembra più 'professionale'."
+      "Vuoi aprire un podcast in Italia e pensi che il true crime sia l'unica strada? Guarda cosa c'è davvero in classifica e ti passa la voglia di copiare.",
+      "Hai paura che il tuo podcast sia troppo di nicchia? La chart italiana ti sta dicendo il contrario, se lo sai leggere.",
+      "Pensi che un episodio debba durare un'ora per essere serio? In Italia stanno funzionando i format da venti minuti."
     ]
   },
   {
-    "id": "podnews-podcaster-piu-pagati-2026",
-    "title": "I podcaster più pagati del 2026: Joe Rogan davanti a tutti, Spotify possiede un quarto della top 20",
-    "source": "Podnews (22-09-2026), Forbes (30-07-2026), Visual Capitalist, Inside Radio",
+    "id": "youtube-supera-spotify-uk-podcast",
+    "title": "YouTube diventa il servizio più usato per i podcast anche nel Regno Unito",
+    "source": "Podnews (settembre 2026, data esatta non verificata)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-09-01",
+    "brief": "Secondo i dati riportati da Podnews, il 29% degli ascoltatori settimanali britannici di podcast (15+) sceglie YouTube come servizio principale, contro il 28% di Spotify e il 10% di Apple Podcasts. Arriva due anni dopo il sorpasso già avvenuto negli Stati Uniti. Data esatta della pubblicazione non verificata: la notizia è riportata nei risultati di settembre 2026.",
+    "angles": [
+      "Se YouTube è la prima piattaforma, come si presenta un podcast lì",
+      "Video anche solo con un'immagine statica: basta o no?",
+      "Cosa insegna il Regno Unito al mercato europeo e italiano"
+    ],
+    "hooks": [
+      "Hai caricato il tuo podcast su Spotify e basta? Nel Regno Unito il primo posto è passato a YouTube. Prepara la valigia, o almeno una copertina decente.",
+      "Pensi che YouTube sia roba da youtuber e non da podcaster? Dai numeri, i tuoi ascoltatori ci sono già.",
+      "Ti chiedi dove ti conviene pubblicare per primo? Non ti dico Spotify, ti dico di guardare dove ascolta la gente."
+    ]
+  },
+  {
+    "id": "youtube-view-count-primo-frame",
+    "title": "YouTube conta una visualizzazione dal primo frame, anche per podcast, Shorts e live",
+    "source": "Joycast, roundup podcast del 3 settembre 2026",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-09-22",
-    "brief": "Podnews riporta la classifica Forbes dei podcaster più pagati del 2026: Joe Rogan in testa con circa 82 milioni di dollari (soprattutto grazie all'accordo con Spotify), seguito da TBPN, Steven Bartlett con 'Diary of a CEO' e Ashley Flowers con 'Crime Junkie'. Spotify possiede quattro dei venti show più remunerativi della classifica.",
+    "date": "2026-09-03",
+    "brief": "Una visualizzazione pubblica di YouTube ora viene contata nel momento in cui il video parte, dal primo frame, in tutto il mondo e per tutti i formati: Shorts, video lunghi, podcast e dirette. Fonte unica di riepilogo (roundup Joycast): da verificare con la documentazione ufficiale prima di trarne conclusioni sulle metriche.",
     "angles": [
-      "Da dove arrivano davvero i soldi di chi guadagna di più nel podcasting, e perché non è solo pubblicità",
-      "Cosa impari (e cosa NON puoi copiare) dai numeri di chi è in cima a questa classifica",
-      "Perché una piattaforma sola può possedere un quarto della top 20: cosa dice sul potere di distribuzione oggi"
+      "Perché confrontare le view di prima e dopo è fuorviante",
+      "Metriche che contano davvero per un podcast su YouTube: retention vs view"
     ],
     "hooks": [
-      "Hai visto la classifica dei podcaster più pagati e ti sei scoraggiato? Quei numeri arrivano da accordi di distribuzione da centinaia di milioni, non solo da 'fare bene il podcast'.",
-      "Pensi che con la pubblicità in-episode diventerai ricco come Joe Rogan? Quella cifra da 82 milioni viene per lo più da un contratto di esclusiva con una piattaforma, non dagli spot.",
-      "Ti stai chiedendo perché Spotify 'possiede' un quarto dei podcast più pagati al mondo? Perché ha comprato l'esclusiva di chi porta ascolti, non perché quei podcast siano nati lì."
+      "Hai visto le view del tuo podcast salire e ti senti un genio? Controlla prima come le conta YouTube adesso.",
+      "Pensi che 1.000 view siano 1.000 persone che ti ascoltano? Con il conteggio dal primo frame, no.",
+      "Guardi solo il numero delle visualizzazioni per capire se il tuo podcast funziona? Ti sei perso la metà del film."
     ]
   },
   {
-    "id": "descript-release-roundup-settembre-2026",
-    "title": "Descript aggiorna editing video, sottotitoli e audio generativo con il release di metà settembre",
-    "source": "Descript Changelog, Release roundup 17-09-2026",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-09-17",
-    "brief": "Nel release del 17 settembre Descript introduce il rilevamento automatico dello speaker attivo per il video, un sistema di pre-elaborazione che rende lo scrolling nei video da 2 a 5 volte più veloce, nuovi preset e animazioni per i sottotitoli, generazione IA di musica e effetti sonori su richiesta, e una gestione più chiara degli errori quando due modifiche concorrenti collidono.",
+    "id": "adobe-podcast-studio-video-testo",
+    "title": "Adobe Podcast: editing video da testo, Enhance Speech v3 e import multitraccia Zoom",
+    "source": "AISOTools, toolsforhumans.ai, Adobe Community (recensioni 2026); aggiornamento di marzo 2026",
+    "affidabilita": "debole",
+    "target": 6,
+    "date": "2026-03-01",
+    "brief": "Adobe Podcast Studio permette di caricare, trascrivere e modificare anche video come si modifica un testo. Tra gli aggiornamenti citati: trascrizione in hindi e altre 6 lingue, ingresso come ospite senza account e import di registrazioni multitraccia Zoom (aggiornamento di marzo 2026). Le recensioni lo danno forte sul miglioramento audio (Enhance Speech v3), mentre Descript resta più comodo per il workflow di montaggio. Segnale debole: fonti di recensione, non un annuncio di giornata.",
     "angles": [
-      "Cosa cambia davvero nel tuo workflow di editing con queste novità, punto per punto",
-      "Audio generativo su richiesta: quando ti serve davvero e quando è solo una scorciatoia pericolosa",
-      "Perché il rilevamento automatico dello speaker può farti risparmiare ore se fai video-podcast a più voci"
+      "Adobe Podcast vs Descript: quale per chi parte da zero",
+      "Enhance Speech: quando salva un audio e quando lo rovina",
+      "Il flusso minimo di editing per un principiante"
     ],
     "hooks": [
-      "Perdi ancora tempo a inquadrare a mano chi sta parlando nel tuo video-podcast? Descript l'ha appena automatizzato, e forse è il momento di aggiornare l'app.",
-      "Hai mai perso una modifica perché il progetto si è sincronizzato male? Da questo aggiornamento, almeno, te lo dice chiaramente invece di sparire nel nulla.",
-      "Ti sei mai chiesto se generare musica di sottofondo con l'IA ti faccia risparmiare tempo o solo suonare tutto uguale? Ora puoi provarlo direttamente dentro Descript, a richiesta."
+      "Hai registrato in una stanza che rimbomba e pensi sia da buttare? Prima di ricomprare il microfono prova questo, poi ne parliamo.",
+      "Ti fa paura il montaggio del tuo primo episodio? Editare come si scrive un testo esiste, e si può provare gratis.",
+      "Pensi che l'audio pulito costi centinaia di euro? A volte basta un'app e un minuto, ma solo se hai registrato decentemente."
     ]
   }
 ]

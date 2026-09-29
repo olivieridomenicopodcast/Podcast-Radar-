@@ -1,47 +1,47 @@
 [
   {
-    "id": "rq-los-angeles-chiusura-vendetta",
-    "title": "Los Angeles chiude la stagione di Regional Qualifier di Vendetta con oltre 2.000 giocatori",
-    "source": "riftbound.gg, Liquipedia, riftdecks.com (25-27 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-26",
-    "brief": "Il Regional Qualifier di Los Angeles, disputato al Convention Center dal 25 al 27 settembre con un montepremi di 25.000 dollari, ha chiuso il calendario dei Regional Qualifier 2026 legati al set Vendetta con oltre 2.000 giocatori registrati, tra i numeri più alti mai raggiunti da un evento Riftbound.",
-    "rilevanza": "Segna la chiusura del ciclo competitivo di Vendetta prima dell'arrivo di Radiance e conferma la crescita costante della base competitiva del gioco negli USA."
-  },
-  {
-    "id": "radiance-nuove-legend-meccaniche-take-the-stage",
-    "title": "'Take the Stage': Riot rivela nuove Legend e tre meccaniche inedite per Radiance",
-    "source": "TriplePoint Newsroom, Inven Global, Bleeding Cool, The Magic Rain (25-09-2026)",
+    "id": "radiance-overview-uscita-23-ottobre",
+    "title": "Riftbound: Radiance esce il 23 ottobre in inglese, francese e cinese semplificato insieme",
+    "source": "playriftbound.com, Riot Games press release via TriplePoint/Games Press (25-09-2026)",
     "affidabilita": "primaria",
     "date": "2026-09-25",
-    "brief": "Riot Games ha rivelato ufficialmente K'Sante, Pride of Nazumah tra le nove nuove Legend del set Radiance (in uscita il 23 ottobre), insieme a tre meccaniche inedite: Deploy, Show Off e Disarm, oltre alle nuove Equipment Units e ai token Bomb. K'Sante trasforma il Shield (difensivo) in Assault (offensivo) per un turno, in linea con il suo kit da League of Legends.",
-    "rilevanza": "Le prime meccaniche confermate di Radiance permettono ai giocatori di iniziare a pianificare mazzi e acquisti in vista del lancio globale del 23 ottobre."
+    "brief": "Il quinto set, ultimo del 2026, esce il 23 ottobre 2026 in tre lingue contemporaneamente, prima volta per Riftbound. Le anteprime vanno dal 25 settembre al 9 ottobre. Il set porta nove nuove Legend, tra cui K'Sante, Pride of Nazumah, la seconda Ultimate Rare e nuove Alt Art musicali.",
+    "rilevanza": "Se colleziona, ha due settimane e mezza di preview per pianificare preorder e mazzi; i giocatori francesi e cinesi non aspettano più la localizzazione."
   },
   {
-    "id": "astral-heron-carta-chiave-meta-post-ban",
-    "title": "Astral Heron si conferma la carta più giocata del meta post-ban, oltre 1.250 mazzi nell'ultimo mese",
-    "source": "riftbound.gg tier list, riftdecks.com meta tier list settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-26",
-    "brief": "Dopo il ban di Ekko, Recurrent e Stacked Deck del 18 settembre, Astral Heron è diventata la carta di riferimento del meta Vendetta: riduce di 2 energia e 2 potere la seconda carta giocata nel turno, ed è stata inserita in più di 1.254 mazzi nell'ultimo mese, spesso per riportare Irelia ai vertici.",
-    "rilevanza": "Indica dove si sta spostando davvero il meta competitivo dopo il ban di settembre, utile per chi si prepara ai prossimi torneo prima dell'arrivo di Radiance."
-  },
-  {
-    "id": "radiance-preorder-sopra-msrp",
-    "title": "I preorder di Radiance volano sopra l'MSRP mentre si avvicina il lancio del 23 ottobre",
-    "source": "TCG Sealed Alerts, riftcompare.com, Miniature Market, Universe TCG (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-25",
-    "brief": "Con l'MSRP ufficiale fissato da Riot a 120 dollari per un box da 24 buste, i preorder del box di Radiance sui principali rivenditori online oscillano già tra 140 e 150 dollari, con prezzi che variano molto da negozio a negozio perché nulla è ancora stato spedito.",
-    "rilevanza": "Il mercato dei preorder sopra MSRP a un mese dal lancio è un primo indicatore della domanda attesa per Radiance, utile per chi valuta se prenotare o aspettare."
-  },
-  {
-    "id": "regional-championship-europa-stoccarda",
-    "title": "Il primo Regional Championship europeo si terrà a Stoccarda il 6-8 novembre, verso i Worlds 2027",
-    "source": "playriftbound.com, Sheep Esports, riftdaily.com (annunci di agosto, dettagli confermati a settembre 2026)",
+    "id": "radiance-nuove-meccaniche-neeko",
+    "title": "Radiance introduce Deploy, Show Off e Disarm e la prima unità neutra, Neeko",
+    "source": "Inven Global, THE MAGIC RAIN, Riot Games (settembre 2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-20",
-    "brief": "Nel percorso verso il primo Riftbound World Championship, previsto per il 2027, il Regional Championship europeo si disputerà a Stoccarda dal 6 all'8 novembre 2026, mentre quello nordamericano è fissato a Las Vegas dall'11 al 13 dicembre. I primi otto classificati di ogni Regional Championship otterranno l'invito ai Worlds.",
-    "rilevanza": "Per i giocatori europei è il primo grande traguardo del nuovo percorso competitivo verso i Mondiali, e fissa già le prossime scadenze di qualificazione da seguire."
+    "date": "2026-09-25",
+    "brief": "Tre nuove parole chiave (Deploy, Show Off, Disarm), Equipment Units, segnalini Bomba e Neeko, prima unità campione neutra di Riftbound. Il set porta anche nuove Overnumbers e Special Alt Art.",
+    "rilevanza": "Cambia il modo di costruire i mazzi: una unità neutra si inserisce in più domini e le Equipment Units aprono nuove build."
+  },
+  {
+    "id": "pre-rift-events-heimerdinger-promo",
+    "title": "Pre-Rift dal 16 al 22 ottobre nei negozi: kit con 5 booster e promo Heimerdinger",
+    "source": "playriftbound.com (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Gli eventi Pre-Rift nei negozi locali si tengono dal 16 al 22 ottobre. I Pre-Rift Kit contengono cinque booster Radiance e un pack per ciascuna delle nove nuove Legend; chi partecipa può ritirare la promo Heimerdinger, Academy Instructor finché ci sono scorte.",
+    "rilevanza": "Utile per chi vuole giocare il set in anteprima e prendere la promo: conviene prenotare il posto nel negozio di fiducia."
+  },
+  {
+    "id": "banlist-terza-ondata-ekko-lux",
+    "title": "Terza ondata di ban dal 18 settembre: due carte fuori da Standard e 2v2, tra cui Ekko, Recurrent",
+    "source": "RiftCompare, playriftbound.com (annuncio 15-09-2026, in vigore 18-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "Riot ha annunciato il 15 settembre due nuovi ban, in vigore dal 18 settembre, sia per Standard sia per Constructed 2v2 (prima volta insieme dal giorno uno). Ekko, Recurrent abilitava un combo a turni infiniti con Lux. Non è una novità delle ultime 48 ore ma è il contesto del meta attuale.",
+    "rilevanza": "Definisce il meta con cui si gioca fino all'arrivo di Radiance: mazzi Lux/Ekko non più validi."
+  },
+  {
+    "id": "rq-los-angeles-e-championship-europeo",
+    "title": "Chiuso a Los Angeles il Regional Qualifier di Vendetta; il Regional Championship europeo userà Radiance",
+    "source": "riftbound.gg, playriftbound.com (25-27 settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-27",
+    "brief": "Il RQ di Los Angeles (25-27 settembre) ha aperto anche l'anteprima delle carte di Radiance. Secondo Riot, il Regional Championship europeo si giocherà in formato Standard con le carte del quinto set. Le fonti consultate non confermano oggi dettagli su sede e date europee.",
+    "rilevanza": "Chi punta alle qualifiche europee deve mettere Radiance nei piani di deckbuilding, non solo Vendetta."
   }
 ]
