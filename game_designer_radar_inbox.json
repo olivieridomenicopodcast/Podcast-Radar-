@@ -1,156 +1,46 @@
 [
   {
-    "id": "asmodee-italia-uscite-ottobre-2026",
-    "title": "Asmodee Italia: le uscite di ottobre 2026, dai gatti di Blankat a Forest Shuffle: Smoky Mountains",
-    "source": "GameScore.it (27-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-27",
-    "brief": "Il catalogo Asmodee Italia per ottobre include Blankat e Il Mio Primo Unlock (2 ottobre), Take Time - Mirage (16), Forest Shuffle: Smoky Mountains, Harmonies - Crescendo e Melodies (23), The King's Dilemma (28). Un mese con molte espansioni e giochi leggeri.",
-    "tipo": "uscite/catalogo",
-    "mercato": "italia",
-    "rilevanza": "Mostra che cosa un grande editore italiano localizza e spinge: espansioni di titoli già forti e giochi familiari."
-  },
-  {
-    "id": "lucca-2026-hogwarts-ravensburger-asmodee",
-    "title": "Lucca 2026: Ravensburger, Asmodee e Defenders of Hogwarts tra le anteprime giochi da tavolo",
-    "source": "SpazioGames (24-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-24",
-    "brief": "Ravensburger porta Horrified Ravenloft e i 40 anni di Labyrinth con Carcassonne; Asmodee un'edizione limitata di Lupi Mannari di Roccascura per i 25 anni; Defenders of Hogwarts è in anteprima mondiale prima della distribuzione 2027.",
-    "tipo": "fiera",
-    "mercato": "italia",
-    "rilevanza": "Lucca resta la vetrina degli editori licenziatari: utile a chi propone prototipi con licenze o temi già noti."
-  },
-  {
-    "id": "infoludiche-cortese-fiere-italiane",
-    "title": "Mario Cortese (GateOnGames, DungeonDice): \"Le fiere italiane non funzionano: troppo care, logistica complessa, nessun impatto sul B2B\"",
-    "source": "InfoLudiche.org (intervista, data non verificata)",
-    "affidabilita": "debole",
-    "date": "2026-09-01",
-    "brief": "Nell'intervista Cortese, titolare di GateOnGames e DungeonDice, critica il modello delle fiere italiane per costi e logistica e per lo scarso impatto sul B2B. Opinione di un imprenditore, non dato di mercato; data dell'intervista non verificata.",
-    "tipo": "opinione/persone",
-    "mercato": "italia",
-    "rilevanza": "Per un autore è un'indicazione su dove un editore investe tempo (contatti B2B) e dove no."
-  },
-  {
-    "id": "ideag-2026-parma-recap",
-    "title": "IDEAG 2026 a Parma: oltre 250 autori, 15-25 editori presenti, spazi cresciuti del 70%",
-    "source": "IDEAG (idea-g.it), ilgiocointavolo.it (gennaio 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-01-11",
-    "brief": "La 21ª edizione si è tenuta il 9-11 gennaio 2026 all'Hotel Parma & Congressi, con quasi 100 tavoli e la seconda edizione di IdeaGDR il 10 gennaio. Tra gli editori stranieri citati Hans im Glück, Matagot, CMON e Thundergryph. Le fonti trovate non riportano ancora data e luogo dell'edizione 2027.",
-    "tipo": "evento autori",
-    "mercato": "italia",
-    "rilevanza": "Riferimento principale per pitchare prototipi a editori italiani ed esteri; la prossima edizione va controllata sul sito IDEAG."
-  },
-  {
-    "id": "maestro-media-overture-copublishing",
-    "title": "Maestro Media lancia Overture, piattaforma di co-publishing aperta ad altri editori e autori",
-    "source": "boardgamewire.com (10-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-10",
-    "brief": "Maestro Media, editore di The Binding of Isaac: Four Souls e Clash of Clans: The Epic Raid, ha lanciato Overture: apre a terzi la propria infrastruttura di sviluppo, licensing, produzione, crowdfunding, vendita diretta e distribuzione retail, per co-pubblicare o eventualmente acquisire titoli di altre case e autori. Secondo il CEO Javon Frazier, la vera sfida per un autore non è avere l'idea, ma tutto quello che viene 'dopo'.",
-    "tipo": "notizia di business",
-    "mercato": "estero",
-    "rilevanza": "Per un autore indipendente che fatica ad arrivare alla distribuzione, un servizio che apre infrastruttura già rodata (crowdfunding, produzione, retail) è un canale alternativo concreto ai soliti pitch agli editori."
-  },
-  {
-    "id": "asmodee-mcginnis-publishing-globale",
-    "title": "Asmodee affida la guida del publishing globale alla CEO di Exploding Kittens, Carly McGinnis",
-    "source": "boardgamewire.com, godisageek.com, Inderes (25-08-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-08-25",
-    "brief": "Asmodee ha nominato Carly McGinnis Chief Product Officer ed EVP Publishing, al posto di Jean-Sébastien de Barros. McGinnis arriva da Exploding Kittens, dove ha guidato l'espansione internazionale in oltre 50 paesi e la localizzazione in più di 25 lingue; ora avrà in mano gli studi di publishing, lo sviluppo di franchise, il licensing e il marketing di studio di Asmodee.",
-    "tipo": "cambio di leadership",
-    "mercato": "estero",
-    "rilevanza": "Un profilo che arriva da un editore nato dal crowdfunding e portato all'espansione globale indica dove Asmodee vuole spingere la propria strategia di publishing nei prossimi anni: rilevante per chi tratta licensing o distribuzione internazionale con il gruppo."
-  },
-  {
-    "id": "essen-2026-tcg-awards-debutto",
-    "title": "Spiel Essen 2026: debuttano i TCG Awards insieme allo storico Deutsche Spiele Preis",
-    "source": "toystorebiz.it, giochisulnostrotavolo.it, spiel-essen.de (28-09-2026)",
+    "id": "acd-distribution-aridnyk-1984-unperson",
+    "title": "Lo studio ucraino di Leopoli entra nella distribuzione hobby USA con ACD: Aridnyk e 1984: Unperson",
+    "source": "boardgamewire.com (28-09-2026)",
     "affidabilita": "primaria",
     "date": "2026-09-28",
-    "brief": "La fiera di Essen (22-25 ottobre) sarà la più grande di sempre, con tutti e otto i padiglioni occupati, 921 aziende da 53 paesi e circa 1.500 novità in mostra. Debuttano quest'anno i TCG Awards, primo riconoscimento globale dedicato ai giochi di carte collezionabili, che si affianca al Deutsche Spiele Preis assegnato dal pubblico.",
-    "tipo": "fiera/evento",
+    "brief": "ACD aggiunge al catalogo il titolo d'esordio Aridnyk (Kickstarter da 132.000 dollari un anno fa) e il prossimo 1984: Unperson, ispirato a George Orwell, di un editore nato a Leopoli durante l'invasione russa.",
+    "tipo": "distribuzione/catalogo",
     "mercato": "estero",
-    "rilevanza": "L'introduzione di un premio dedicato ai TCG in una fiera storicamente concentrata sui giochi da tavolo segnala quanto il segmento delle carte collezionabili sia ormai centrale anche per publisher tradizionali di boardgame."
+    "rilevanza": "Esempio di piccolo editore che passa da crowdfunding a distribuzione retail tramite un distributore: percorso utile da conoscere per chi autopubblica."
   },
   {
-    "id": "icv2-mercato-hobby-games-crescita",
-    "title": "ICv2: il mercato degli hobby games è cresciuto del 40% nel 2025, mahjong in ascesa nei negozi",
-    "source": "icv2.com, Vibe Check settembre 2026",
-    "affidabilita": "secondaria",
-    "date": "2026-09-15",
-    "brief": "Secondo le stime ICv2 il mercato degli hobby games è cresciuto di circa il 40% nel 2025; nei negozi specializzati intervistati da ICv2 nel suo giro mensile, One Piece CG e Riftbound TCG restano i titoli caldi tra i TCG, mentre il mahjong si sta ritagliando spazio, portando nei negozi anche un pubblico femminile più adulto rispetto alla media.",
-    "tipo": "dati di mercato",
-    "mercato": "estero",
-    "rilevanza": "Un dato di crescita così alto e l'emergere di segmenti come il mahjong indicano opportunità di catalogo che un editore o un autore attento al mercato dovrebbe monitorare, oltre ai soliti generi già affollati."
-  },
-  {
-    "id": "neon-knight-too-many-bones-riflessioni",
-    "title": "Chip Theory Games: due anni dopo, riflessioni sul nuovo studio Neon Knight e sui giochi più leggeri",
-    "source": "Global Toy News (14-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-14",
-    "brief": "L'editore di Too Many Bones si dice soddisfatto dei progressi di Neon Knight, lo studio pensato per produrre giochi più leggeri rispetto ai titoli storici della casa, ma ammette di essere stato forse 'ingenuo' su quanti fan dei giochi più complessi avrebbero seguito il marchio anche su prodotti più semplici.",
-    "tipo": "riflessione editoriale",
-    "mercato": "estero",
-    "rilevanza": "Un caso concreto su quanto sia difficile per un editore noto per giochi complessi spostare parte del pubblico su prodotti più leggeri, utile per chi valuta un cambio di posizionamento di linea editoriale."
-  },
-  {
-    "id": "combo-festival-design-for-play-award",
-    "title": "Al COMBO Festival di Milano debutta il Design for Play Award, primo premio italiano dedicato al game design",
-    "source": "designstreet.it, Italian Game Jam (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-20",
-    "brief": "Il neonato COMBO Festival di Milano (3-4 ottobre, oltre 40 editori e 35 anteprime esclusive) lancia il Design for Play Award, primo premio italiano dedicato ai giochi da tavolo distribuiti sul mercato nazionale nel 2026. In contemporanea torna l'Italian Game Jam, con due giorni dedicati agli autori per presentare, testare e perfezionare un prototipo originale e inedito.",
-    "tipo": "premio/concorso",
-    "mercato": "italia",
-    "rilevanza": "È il primo premio italiano pensato specificamente per il design (non solo per il prodotto finito), e la Game Jam abbinata offre un canale diretto di visibilità e test per autori emergenti italiani."
-  },
-  {
-    "id": "paolo-mori-designer-of-the-year-lucca",
-    "title": "Paolo Mori è il Board Game Designer of the Year 2026 a Lucca Comics & Games",
-    "source": "gattaiola.it, giocodellanno.it, Lucca Comics & Games / SAZ Italia (settembre 2026)",
+    "id": "cmon-raccolta-capitale-19m",
+    "title": "CMON chiude un aumento di capitale da 19 milioni di dollari per sostenere il rilancio",
+    "source": "boardgamewire.com (24-09-2026)",
     "affidabilita": "primaria",
     "date": "2026-09-24",
-    "brief": "Il premio Board Game Designer of the Year, riconoscimento di Lucca Comics & Games in collaborazione con SAZ Italia riservato ad autori o coppie di autori con almeno un titolo pubblicato negli ultimi due anni, è stato vinto da Paolo Mori per la sua capacità di lavorare con efficacia su generi molto diversi tra loro.",
-    "tipo": "premio/concorso",
-    "mercato": "italia",
-    "rilevanza": "È il riconoscimento italiano più diretto alla figura del game designer (non al gioco o all'editore), un indicatore di chi la community e la giuria di settore considerano il punto di riferimento del design italiano quest'anno."
+    "brief": "L'editore nato dal crowdfunding, in difficoltà finanziarie con perdite di quasi 23 milioni di dollari tra 2024 e 2025, ha completato la raccolta di capitale da 19 milioni. Notizia di pochi giorni oltre la finestra delle 48 ore.",
+    "tipo": "notizia di business",
+    "mercato": "estero",
+    "rilevanza": "Indica la tenuta di un editore che in passato ha acquisito molti titoli da autori esterni: rilevante per chi valuta di proporgli progetti."
   },
   {
-    "id": "dv-games-tilt-vietato-ai-minori",
-    "title": "dV Games pubblica \"Tilt - Vietato ai Minori\", versione adulta del party game di velocità",
-    "source": "gamescore.it, nerdgames.it (18-09-2026)",
+    "id": "tettix-personal-demons-retail",
+    "title": "Tettix Games: Personal Demons, pick-and-pass a tema terapia, nei negozi dal 29 settembre",
+    "source": "ricerca web (uscita retail 29-09-2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "dV Games ha pubblicato il 18 settembre \"Tilt - Vietato ai Minori\", variante per pubblico adulto del party game di velocità in cui bisogna rispondere rapidamente a categorie ben più irriverenti e provocatorie della versione classica.",
+    "date": "2026-09-29",
+    "brief": "Il nuovo gioco di Tettix Games, Personal Demons: A Therapy Ritual, arriva nel retail il 29 settembre 2026 come pick-and-pass.",
     "tipo": "uscita gioco da tavolo",
-    "mercato": "italia",
-    "rilevanza": "Mostra la strategia di un editore italiano storico di estendere un marchio già noto verso una fascia di pubblico adulto, un modello di estensione linea che altri editori italiani potrebbero replicare."
+    "mercato": "estero",
+    "rilevanza": "Caso di editore piccolo che punta su un tema insolito e su una meccanica snella come il pick-and-pass."
   },
   {
-    "id": "niu-uscite-ottobre-2026-editori-italiani",
-    "title": "Le novità in uscita a ottobre 2026 secondo il roundup NIU: cosa portano gli editori italiani",
-    "source": "giochisulnostrotavolo.it, NIU - Novità In Uscita (26-09-2026)",
+    "id": "lucca-2026-goty-finalisti",
+    "title": "Lucca 2026: finalisti Gioco dell'Anno Art Society, Bomb Busters, Echoes of Time, Rebirth, Thunder Road Vendetta",
+    "source": "ricerca web su programma Lucca Comics & Games (24-09-2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-26",
-    "brief": "Il consueto roundup mensile NIU (Novità In Uscita) di Giochi sul Nostro Tavolo ha pubblicato il 26 settembre l'elenco delle uscite italiane previste per ottobre 2026, coprendo i cataloghi di dV Games, Ghenos Games e altri editori nazionali in vista della stagione autunnale e di Lucca Comics & Games.",
-    "tipo": "roundup uscite",
+    "date": "2026-09-24",
+    "brief": "Lucca Comics & Games (28 ottobre - 1 novembre, 60ª edizione) ha indicato i cinque finalisti del Gioco dell'Anno; la mostra \"Lucca is a Legacy Game\" è curata da Andrea Angiolino; oltre 80 editori italiani e internazionali tra le aree Comics e Games.",
+    "tipo": "premio/fiera",
     "mercato": "italia",
-    "rilevanza": "Per un editore o un autore è un termometro diretto di quanto sia affollato il mercato italiano di ottobre, mese cruciale a cavallo tra Essen e Lucca Comics & Games."
-  },
-  {
-    "id": "mercato-italiano-giochi-tavolo-crescita-previsione",
-    "title": "Il mercato italiano dei giochi da tavolo previsto in crescita dell'8,6% annuo fino al 2030",
-    "source": "analisi di mercato riprese da testate di settore italiane (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-20",
-    "brief": "Le stime di settore indicano per il mercato italiano dei giochi da tavolo una crescita media annua dell'8,6% dal 2025 al 2030, in un contesto dove la popolarità tra gli appassionati esigenti è in aumento e gli editori italiani puntano sempre più sia sulla localizzazione di titoli internazionali sia sull'esportazione dei propri prodotti all'estero.",
-    "tipo": "dati di mercato",
-    "mercato": "italia",
-    "rilevanza": "Un tasso di crescita a doppia cifra percentuale conferma che il mercato italiano resta un terreno interessante per nuovi editori e autori, ma anche che la competizione per lo spazio sugli scaffali crescerà di pari passo."
+    "rilevanza": "Mostra quali titoli e quali editori (anche localizzati) la giuria italiana considera di riferimento."
   }
 ]

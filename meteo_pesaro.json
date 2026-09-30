@@ -1,48 +1,42 @@
 {
-  "aggiornato": "2026-09-29",
+  "aggiornato": "2026-09-30",
   "citta": "Pesaro (PU), Marche, Italia",
   "fonti": [
-    "https://www.meteo.it/meteo/pesaro-oggi-41044",
-    "https://www.meteo.it/meteo/pesaro-41044",
     "https://www.3bmeteo.com/meteo/pesaro",
-    "https://www.3bmeteo.com/meteo/pesaro/1",
-    "https://www.3bmeteo.com/meteo/pesaro/2",
+    "https://www.meteo.it/meteo/pesaro-oggi-41044",
     "https://www.ilmeteo.it/meteo/pesaro",
-    "https://www.ilmeteo.it/meteo/pesaro/domani",
-    "https://allertameteo.regione.marche.it/allerte-e-bollettini",
-    "https://allertameteo.regione.marche.it/",
-    "https://mappe.protezionecivile.gov.it/it/mappe-rischi/bollettino-di-vigilanza/"
+    "https://www.meteo.it/meteo/pesaro-41044"
   ],
   "previsioni": [
     {
-      "data": "2026-09-29",
-      "giorno": "oggi, martedì",
-      "temp_min_c": 15,
-      "temp_max_c": 23,
-      "condizioni": "Cielo sereno o poco nuvoloso, precipitazioni assenti. Temperature senza variazioni di rilievo (valori min/max dall'ultima rilevazione disponibile del 28-09)",
-      "vento": "Debole da Ovest, in rotazione da Nord-Est nel pomeriggio, poi di nuovo da Ovest in serata",
-      "mare": "Quasi calmo, poco mosso nel pomeriggio",
-      "allerta": "Nessuna allerta rilevata nelle fonti consultate; verificare su allertameteo.regione.marche.it"
-    },
-    {
       "data": "2026-09-30",
-      "giorno": "domani, mercoledì",
-      "temp_min_c": 15,
+      "giorno": "oggi, mercoledì",
+      "temp_min_c": 18.5,
       "temp_max_c": 24,
-      "condizioni": "Cielo sereno o poco nuvoloso, precipitazioni assenti; possibili foschie mattutine lungo la costa (valori min/max dall'ultima rilevazione disponibile del 28-09)",
-      "vento": "Debole da Ovest, in rotazione da Nord-Est nel pomeriggio, poi da Ovest in serata",
-      "mare": "Quasi calmo, poco mosso nel pomeriggio",
-      "allerta": "Nessuna allerta rilevata nelle fonti consultate; verificare su allertameteo.regione.marche.it"
+      "condizioni": "Cielo sereno, precipitazioni assenti (dato da sintesi dei risultati di ricerca; le pagine non erano raggiungibili direttamente)",
+      "vento": "dato non reperito",
+      "mare": "dato non reperito",
+      "allerta": "dato non reperito (allertameteo.regione.marche.it non raggiungibile); verificare su allertameteo.regione.marche.it"
     },
     {
       "data": "2026-10-01",
-      "giorno": "dopodomani, giovedì",
+      "giorno": "domani, giovedì",
       "temp_min_c": 18,
       "temp_max_c": 28,
-      "condizioni": "Cieli in prevalenza poco nuvolosi, qualche addensamento serale, nessuna pioggia prevista (valori da verificare: la fonte non specifica con certezza la località)",
+      "condizioni": "Cieli in prevalenza sereni, qualche addensamento serale, nessuna pioggia prevista (dato da sintesi dei risultati di ricerca)",
       "vento": "dato non reperito",
       "mare": "dato non reperito",
-      "allerta": "Nessuna allerta rilevata nelle fonti consultate; verificare su allertameteo.regione.marche.it"
+      "allerta": "dato non reperito (allertameteo.regione.marche.it non raggiungibile); verificare su allertameteo.regione.marche.it"
+    },
+    {
+      "data": "2026-10-02",
+      "giorno": "dopodomani, venerdì",
+      "temp_min_c": 17,
+      "temp_max_c": 28,
+      "condizioni": "Cielo parzialmente nuvoloso, nessuna pioggia prevista (dato da sintesi dei risultati di ricerca)",
+      "vento": "dato non reperito",
+      "mare": "dato non reperito",
+      "allerta": "dato non reperito (allertameteo.regione.marche.it non raggiungibile); verificare su allertameteo.regione.marche.it"
     }
   ]
 }

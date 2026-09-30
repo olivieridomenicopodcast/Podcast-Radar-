@@ -1,5 +1,37 @@
 [
   {
+    "id": "amon-amarth-allfather-awakens-2-ottobre",
+    "title": "Amon Amarth: \"The Allfather Awakens\" in uscita venerdì 2 ottobre per Metal Blade",
+    "source": "Metal Connect, New Metal Releases October 2nd 2026",
+    "affidabilita": "secondaria",
+    "date": "2026-09-30",
+    "brief": "Il calendario delle uscite del 2 ottobre 2026 di Metal Connect segnala il nuovo album dei vichinghi svedesi del melodic death metal, pubblicato da Metal Blade. È l'uscita più attesa della settimana. L'annuncio risale a prima delle 48 ore, ma l'uscita è imminente."
+  },
+  {
+    "id": "uscite-settimana-2-ottobre-razorvoid-brymir-wraithstorm",
+    "title": "Uscite del 2 ottobre: Razorvoid, Brymir, Wraithstorm, Hexer e altri",
+    "source": "Invisible Oranges (Upcoming Metal Releases 27/9-3/10), Metal Connect",
+    "affidabilita": "secondaria",
+    "date": "2026-09-30",
+    "brief": "Razorvoid (death/thrash svedese, Jawbreaker) pubblicano \"Into the Void\" con 11 brani. Brymir (power/folk, Napalm) esce con \"What We Leave Behind\". Wraithstorm pubblicano il secondo album melodic death con ospiti vocali. Hexer (death/sludge/doom, Germania) sono in uscita con l'EP \"A Black Flame in Cosmic Void\" nella stessa settimana."
+  },
+  {
+    "id": "whitechapel-burn-forever-milano-2027",
+    "title": "Whitechapel: tour europeo 2027 con tappa a Milano (Magazzini Generali, 9 febbraio)",
+    "source": "Metal Blade Records, MetalSucks, Rock Sound",
+    "affidabilita": "primaria",
+    "date": "2026-09-30",
+    "brief": "Il deathcore americano porta in Europa il Burn Forever Tour da fine gennaio 2027, con Sylosis, 200 Stab Wounds e Tribal Gaze. La data italiana è a Milano, ai Magazzini Generali, il 9 febbraio 2027 (la data è riportata come 2/09/2027 nelle fonti). Il tour è stato annunciato a marzo 2026, non nelle ultime 48 ore. Lo segnalo come occasione concreta per l'Italia."
+  },
+  {
+    "id": "imminence-august-burns-red-tour-2027-milano",
+    "title": "Imminence con August Burns Red: tour europeo di gennaio-febbraio 2027 con tappa a Milano",
+    "source": "Theprp.com, Kerrang!, Knotfest, Lambgoat",
+    "affidabilita": "primaria",
+    "date": "2026-09-30",
+    "brief": "Il tour è il più grande finora per gli svedesi, con August Burns Red come ospiti. Va dall'8 gennaio (Göteborg) al 6 febbraio 2027 (Malmö), con Brixton Academy a Londra, Parigi, Berlino e Milano. Alcune date sono ancora da annunciare. Il tour è stato annunciato a giugno 2026, quindi è una notizia di riferimento e non dell'ultima ora. Data e locale milanesi non verificati."
+  },
+  {
     "id": "metalitalia-festival-xiii-trezzo",
     "title": "Metalitalia Festival XIII: Coroner headliner della domenica, con Paradise Lost, Cynic, Sadist, Amenra e 1914",
     "source": "Metal Hammer Italia, Vivaticket (26-27-09-2026)",
@@ -8,35 +40,11 @@
     "brief": "Il festival si è tenuto il 26 e 27 settembre al Live Club di Trezzo sull'Adda (MI). Coroner, headliner della domenica, ha portato il nuovo album \"Dissonance Theory\"; tra i nomi anche Paradise Lost con scaletta scelta dai fan, Cynic con Focus e Traced in Air, Sadist con Tribe per intero, Amenra e 1914."
   },
   {
-    "id": "enslaved-solar-will-mio",
-    "title": "Enslaved: nuovo singolo \"Solar Will\" dall'album \"Mið\" in uscita il 30 ottobre",
-    "source": "Metal Injection (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Il gruppo black/progressive norvegese ha pubblicato il singolo \"Solar Will\" dal nuovo album \"Mið\", in uscita il 30 ottobre. Data esatta del singolo non verificata."
-  },
-  {
-    "id": "carnival-of-madness-modena-17-ottobre",
-    "title": "Carnival of Madness: serata metal il 17 ottobre alla Tenda di Modena",
-    "source": "Metal Hammer Italia, eventi (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Sabato 17 ottobre dalle 21 serata metal alla Tenda, viale Monte Kosica, Modena. Line-up non verificata nelle fonti trovate."
-  },
-  {
-    "id": "bardomagno-date-autunno-inverno",
-    "title": "BardoMagno annunciano nuove date live tra ottobre, novembre e dicembre 2026",
-    "source": "Longliverocknroll.it, Bagana Edizioni Musicali (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Il gruppo bardfolk italiano ha annunciato una serie di date in tutta Italia nell'autunno-inverno 2026. Città e date precise non verificate nelle fonti consultate."
-  },
-  {
     "id": "anthrax-cursum-perficio",
-    "title": "Anthrax: \"Cursum Perficio\" accolto tra i migliori lavori della carriera",
-    "source": "Wikipedia, recensioni (settembre 2026)",
+    "title": "Anthrax: \"Cursum Perficio\" è il dodicesimo album, uscito il 18 settembre",
+    "source": "Wikipedia",
     "affidabilita": "secondaria",
     "date": "2026-09-18",
-    "brief": "L'album è uscito a settembre 2026 e la critica lo cita tra i lavori migliori della band. Notizia già segnalata ieri, mantenuta come riferimento per le uscite del mese."
+    "brief": "Il dodicesimo album in studio degli Anthrax è uscito il 18 settembre 2026 ed è preceduto da diversi singoli. Non è una novità delle ultime 48 ore e serve come riferimento per le uscite del mese."
   }
 ]

@@ -1,47 +1,56 @@
 [
   {
-    "id": "radiance-overview-uscita-23-ottobre",
-    "title": "Riftbound: Radiance esce il 23 ottobre in inglese, francese e cinese semplificato insieme",
-    "source": "playriftbound.com, Riot Games press release via TriplePoint/Games Press (25-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Il quinto set, ultimo del 2026, esce il 23 ottobre 2026 in tre lingue contemporaneamente, prima volta per Riftbound. Le anteprime vanno dal 25 settembre al 9 ottobre. Il set porta nove nuove Legend, tra cui K'Sante, Pride of Nazumah, la seconda Ultimate Rare e nuove Alt Art musicali.",
-    "rilevanza": "Se colleziona, ha due settimane e mezza di preview per pianificare preorder e mazzi; i giocatori francesi e cinesi non aspettano più la localizzazione."
-  },
-  {
-    "id": "radiance-nuove-meccaniche-neeko",
-    "title": "Radiance introduce Deploy, Show Off e Disarm e la prima unità neutra, Neeko",
-    "source": "Inven Global, THE MAGIC RAIN, Riot Games (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Tre nuove parole chiave (Deploy, Show Off, Disarm), Equipment Units, segnalini Bomba e Neeko, prima unità campione neutra di Riftbound. Il set porta anche nuove Overnumbers e Special Alt Art.",
-    "rilevanza": "Cambia il modo di costruire i mazzi: una unità neutra si inserisce in più domini e le Equipment Units aprono nuove build."
-  },
-  {
-    "id": "pre-rift-events-heimerdinger-promo",
-    "title": "Pre-Rift dal 16 al 22 ottobre nei negozi: kit con 5 booster e promo Heimerdinger",
-    "source": "playriftbound.com (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Gli eventi Pre-Rift nei negozi locali si tengono dal 16 al 22 ottobre. I Pre-Rift Kit contengono cinque booster Radiance e un pack per ciascuna delle nove nuove Legend; chi partecipa può ritirare la promo Heimerdinger, Academy Instructor finché ci sono scorte.",
-    "rilevanza": "Utile per chi vuole giocare il set in anteprima e prendere la promo: conviene prenotare il posto nel negozio di fiducia."
-  },
-  {
-    "id": "banlist-terza-ondata-ekko-lux",
-    "title": "Terza ondata di ban dal 18 settembre: due carte fuori da Standard e 2v2, tra cui Ekko, Recurrent",
-    "source": "RiftCompare, playriftbound.com (annuncio 15-09-2026, in vigore 18-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Riot ha annunciato il 15 settembre due nuovi ban, in vigore dal 18 settembre, sia per Standard sia per Constructed 2v2 (prima volta insieme dal giorno uno). Ekko, Recurrent abilitava un combo a turni infiniti con Lux. Non è una novità delle ultime 48 ore ma è il contesto del meta attuale.",
-    "rilevanza": "Definisce il meta con cui si gioca fino all'arrivo di Radiance: mazzi Lux/Ekko non più validi."
-  },
-  {
-    "id": "rq-los-angeles-e-championship-europeo",
-    "title": "Chiuso a Los Angeles il Regional Qualifier di Vendetta; il Regional Championship europeo userà Radiance",
-    "source": "riftbound.gg, playriftbound.com (25-27 settembre 2026)",
+    "id": "rq-los-angeles-rengar-vince-calm-top8",
+    "title": "RQ Los Angeles (26 settembre, 2.165 giocatori): vince Rengar, gli altri sette nella Top 8 usano Legend del dominio Calm",
+    "source": "riftbound.gg, riftDecks.com, zero.gg (risultati del 26-27 settembre 2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-27",
-    "brief": "Il RQ di Los Angeles (25-27 settembre) ha aperto anche l'anteprima delle carte di Radiance. Secondo Riot, il Regional Championship europeo si giocherà in formato Standard con le carte del quinto set. Le fonti consultate non confermano oggi dettagli su sede e date europee.",
-    "rilevanza": "Chi punta alle qualifiche europee deve mettere Radiance nei piani di deckbuilding, non solo Vendetta."
+    "brief": "Secondo riftbound.gg il Regional Qualifier di Los Angeles ha visto 2.165 partecipanti. Ha vinto Prismaticism con Rengar, al secondo titolo. Le altre sette Legend della Top 8 sono tutte Calm. Più siti di risultati indipendenti riportano lo stesso evento; i dettagli delle liste non sono stati verificati.",
+    "rilevanza": "È il primo grande dato di meta dopo il ban del 18 settembre: Calm domina, ma Rengar mostra che c'è spazio per alternative."
+  },
+  {
+    "id": "radiance-preview-carte-seraphine-ekko",
+    "title": "Radiance: anteprime in corso, svelata Seraphine, Not Alone e arte di Ekko ed Evelynn",
+    "source": "TechRaptor, RiftCompare, Star City Games, riftbound.gg (fine settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "Più testate indipendenti riportano le prime carte del set. Seraphine, Not Alone è un'Epic Order Champion Unit da 5 energia con 1 Might: crea un Recruit 1/1 quando entra o si esaurisce. La Legend di Ekko è Boy Who Shattered Time (Fury/Mind). Il set ha 180 carte, di cui 66 Showcase, e una nuova rarità collector inedita. Le date delle preview variano tra le fonti (25 o 28 settembre, fino al 9 ottobre).",
+    "rilevanza": "Chi gioca può iniziare a valutare le build. Chi colleziona deve tenere d'occhio la nuova rarità e le 66 Showcase, che di solito guidano i prezzi."
+  },
+  {
+    "id": "radiance-merch-store-sorteggio-display",
+    "title": "Radiance: iscrizione al sorteggio per un Booster Display dal Riot Merch Store, chiude oggi 30 settembre",
+    "source": "playriftbound.com, annuncio Radiance Merch Store Update (dal riepilogo di ricerca, pagina non aperta)",
+    "affidabilita": "primaria",
+    "date": "2026-09-30",
+    "brief": "Giocatori di Nord America ed Europa possono iscriversi dal 25 al 30 settembre, ore 9:00 PT, per essere selezionati e comprare un Booster Display di Radiance dal Merch Store di Riot. La finestra chiude oggi. Ho letto solo il riepilogo del motore di ricerca, non la pagina dell'annuncio, perché il dominio è bloccato dalla rete.",
+    "rilevanza": "Per chi colleziona è un canale di acquisto a prezzo di listino; l'iscrizione scade oggi."
+  },
+  {
+    "id": "radiance-prodotti-showdown-decks",
+    "title": "Radiance: mazzi Showdown con Seraphine ed Evelynn, prodotti e precostruiti annunciati",
+    "source": "riftbound.gg, TechRaptor (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "I risultati di ricerca indicano un Radiance Showdown Deck in due versioni, una con Seraphine e una con Evelynn. La lista completa dei prodotti è su riftbound.gg. Non ho potuto aprire la pagina per confermare prezzi e contenuti.",
+    "rilevanza": "Sono l'ingresso più economico al set per i nuovi giocatori. Chi colleziona può valutare i sigillati in vista del lancio del 23 ottobre."
+  },
+  {
+    "id": "radiance-uscita-23-ottobre-e-meccaniche",
+    "title": "Radiance esce il 23 ottobre in tutto il mondo: Deploy, Show Off e Disarm",
+    "source": "playriftbound.com (The Radiance Overview), THE MAGIC RAIN, riftbound.gg (settembre 2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-25",
+    "brief": "Il quinto set esce il 23 ottobre 2026. Le preview vanno fino al 9 ottobre e la finestra Pre-Rift è dal 16 al 22 ottobre. Le tre nuove meccaniche sono Deploy (Gear che va su un Battlefield e viene distrutto se l'avversario lo controlla), Show Off (rivela una carta per sbloccare un effetto) e Disarm (riduce il Might di un'unità nemica in attacco).",
+    "rilevanza": "Fissa il calendario di preordini ed eventi. Deploy cambia il modo di contendere i Battlefield e va considerato nelle build."
+  },
+  {
+    "id": "banlist-ekko-recurrent-stacked-deck",
+    "title": "Ban dal 18 settembre: Ekko, Recurrent e Stacked Deck fuori da Standard e Constructed 2v2",
+    "source": "riftbound.gg, RiftCompare, thread su r/riftboundtcg (annuncio 15-09-2026, in vigore 18-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-18",
+    "brief": "Riot ha annunciato il 15 settembre due carte bannate, in vigore dal 18, per Standard e 2v2 insieme. Non è una novità delle ultime 48 ore, ma è il quadro in cui si è giocato l'RQ di Los Angeles. Fonti diverse concordano sul ban. La reazione della community è documentata su Reddit.",
+    "rilevanza": "Definisce il meta fino al lancio di Radiance: le liste con queste due carte non sono più legali."
   }
 ]

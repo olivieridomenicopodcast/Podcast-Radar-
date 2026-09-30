@@ -1,50 +1,50 @@
 [
   {
-    "id": "dx-8q7jh-maldive",
-    "title": "DX attivi: 8Q7JH dalle Maldive su 20, 15 e 10 metri",
-    "source": "ARRL / PARSgram (28-09-2026)",
+    "id": "propagazione-equinozio-solar-report-24-set",
+    "title": "Propagazione equinoziale: flusso solare previsto ~105-115, disturbo geomagnetico in rientro",
+    "source": "ARRL Solar Report del 24-09-2026 (via ricerca web, pagina non aperta direttamente)",
     "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Juergen DL3JH opera come 8Q7JH da Thulhagiri Island, Maldive, su 20, 15 e 10 metri con diversi modi. Buona occasione per un nuovo paese su bande alte dall'Italia."
+    "date": "2026-09-30",
+    "brief": "Per il 25 set-1 ott il flusso solare a 10,7 cm è previsto tra 105 e 115 (media 107,9) e l'indice A planetario da 18 a 5 (media 8,3). Il report parla di propagazione equinoziale uniforme nel mondo e di ripresa rapida dopo il disturbo. Sono previsioni del 24 settembre, non misure di oggi: controllare NOAA SWPC."
   },
   {
-    "id": "dx-fh-mayotte-f1teq",
-    "title": "FH/F1TEQ da Mayotte fino al 30 settembre",
-    "source": "ARRL / PARSgram (28-09-2026)",
+    "id": "dx-9t0md-congo-rd",
+    "title": "9T0MD: DXpedition del Mediterraneo DX Club nella RD del Congo dal 30 settembre all'11 ottobre",
+    "source": "DX Engineering (onallbands.com) e DX-World, via ricerca web",
     "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Ludovic F1TEQ è attivo come FH/F1TEQ da Mayotte in HF fino al 30 settembre: rimangono pochi giorni per collegarlo."
+    "date": "2026-09-30",
+    "brief": "Operazione multi-operatore in CW/SSB/RTTY/FT8 da 160 a 6 metri con il prefisso 9T mai usato prima in aria. Il gruppo è italiano, quindi ottima occasione per un nuovo paese. Date e dettagli non verificati sul sito ufficiale."
   },
   {
-    "id": "dx-jd1-ogasawara-e-vk9wx",
-    "title": "JD1 da Chichijima fino al 6 ottobre; VK9WX a Willis Island fino a fine ottobre",
-    "source": "ARRL / PARSgram (28-09-2026)",
+    "id": "dx-fw1p-wallis-h49a-solomon",
+    "title": "FW1P da Wallis fino al 17 ottobre; H49A alle Salomone dal 9 al 21 ottobre",
+    "source": "NG3K Announced DX Operations / DX-World, via ricerca web",
     "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "JE1NVD/JD1 e JI1CRM/JD1 operano da Chichijima (Ogasawara) in HF fino al 6 ottobre. VK4WXW è attivo come VK9WX da Willis Island fino a fine ottobre."
+    "date": "2026-09-30",
+    "brief": "SP9FIH è attivo come FW1P da Wallis dal 27 settembre al 17 ottobre. H49A (Isole Salomone, IOTA OC-047) è annunciata dal 9 al 21 ottobre. Le date sono quelle degli elenchi dei calendari DX e possono cambiare."
   },
   {
-    "id": "propagazione-attivita-solare-bassa",
-    "title": "Attività solare bassa: solo occasionali brillamenti di classe C",
-    "source": "ARRL news (settimana del 28-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Le note ARRL indicano attività solare probabilmente bassa, con isolati o occasionali brillamenti di classe C. Nessun dato di flusso solare o indice K verificato oggi: consultare NOAA SWPC prima di pianificare i collegamenti."
+    "id": "dx-c8k-mozambico-e-ag4zp-pacifico",
+    "title": "C8K Mozambico rinviata a set-ott 2026; AG4ZP annuncia KH8 e 5W0ZP a metà ottobre",
+    "source": "DX-World / NG3K, via ricerca web",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-30",
+    "brief": "La DXpedition C8K in Mozambico è stata rinviata da gennaio-febbraio a settembre-ottobre 2026. AG4ZP prevede KH8/AG4ZP (Samoa Americane) il 15-18 ottobre e 5W0ZP (Samoa, in attesa di conferma) il 19-29 ottobre. Date esatte di C8K non confermate."
   },
   {
-    "id": "rsgb-ft4-contest-28-settembre",
-    "title": "RSGB FT4 Contest lunedì 28 settembre 19:00-21:00 UTC",
-    "source": "Ham Radio Daily Contest Brief K6LDF (28-09-2026)",
+    "id": "contest-fine-settembre-inizio-ottobre",
+    "title": "Contest in corso: 222 MHz Fall Sprint e Tuesday Telegraphy Contest (29-30 settembre)",
+    "source": "Ham Radio Daily Contest Brief K6LDF (29-09-2026), via ricerca web",
     "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Contest serale in FT4 organizzato da RSGB, già concluso alle 21:00 UTC. Alla fine di settembre il calendario è stato dominato da CQ WW RTTY e UK/EI DX SSB del weekend 26-27."
+    "date": "2026-09-29",
+    "brief": "Il 222 MHz Fall Sprint è andato dalle 23:00Z del 29 alle 06:00Z del 30 settembre, con focus sul Nord America. Il Tuesday's Telegraphy Contest era in CW su 80 e 40 metri, 19:30-20:30Z del 29. Per il fine settimana del 3-4 ottobre non ho verificato il calendario."
   },
   {
-    "id": "icom-ic-7110-tokyo-ham-fair",
-    "title": "Icom IC-7110, erede dell'IC-7100, presentato al Tokyo Ham Fair 2026",
-    "source": "Icom (comunicati 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-27",
-    "brief": "Ricetrasmettitore mobile HF/50/70/144/430 MHz con touchscreen a colori da 4,3 pollici e dualwatch, successore dell'IC-7100. Le fonti trovate non riportano prezzo e disponibilità confermati in Italia."
+    "id": "iaru-r1-vienna-uhf-ast-spacemobile",
+    "title": "IARU Regione 1 a Vienna (19-23 settembre): documenti sullo spettro satellitare e AST SpaceMobile a 430 MHz",
+    "source": "ICQ Podcast / ARRL, via ricerca web",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-23",
+    "brief": "La Conferenza generale IARU R1 si è tenuta a Vienna e i documenti online trattano la situazione dello spettro UHF. La FCC ha autorizzato in aprile AST SpaceMobile a usare la banda radioamatoriale dei 430 MHz per 248 satelliti, e la IARU contesta l'uso dell'Art. 4.4 del Regolamento ITU. Fatto più vecchio delle 48 ore, incluso come contesto normativo."
   }
 ]

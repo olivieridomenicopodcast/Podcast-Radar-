@@ -1,115 +1,116 @@
 [
   {
-    "id": "apple-podcasts-subscriptions-video",
-    "title": "Apple Podcasts Subscriptions supporterà il video: episodi extra, early access e niente pubblicità per gli abbonati",
-    "source": "MacRumors, AppleWorld.today (23-09-2026); Apple Newsroom, Variety per il contesto HLS",
+    "id": "made-on-youtube-podcast-lineup",
+    "title": "Made on YouTube 2026: arriva 'Podcast Lineup', l'anteprima audio settimanale dei podcast consigliati con l'IA",
+    "source": "9to5Google, Google Blog, Medianama (23-09-2026)",
     "affidabilita": "primaria",
     "target": 8,
     "date": "2026-09-23",
-    "brief": "Apple ha annunciato il 23 settembre che gli abbonamenti di Apple Podcasts supporteranno presto il video, per episodi riservati agli abbonati, versioni senza pubblicità e contenuti bonus, in oltre 170 paesi. Il video passa dal protocollo HLS; Apple non fa pagare i creator o gli hosting, mentre chiederà una tariffa alle reti pubblicitarie per gli annunci dinamici in HLS più avanti nel 2026. Tra i partner hosting al lancio: Acast, ART19, Omny Studio e SiriusXM.",
+    "brief": "Nel keynote Made on YouTube del 23 settembre YouTube ha annunciato Podcast Lineup: un riassunto parlato, generato dall'IA, che ogni settimana anticipa gli episodi consigliati e spiega perché potrebbero interessarti. Arriverà presto su YouTube Music e Premium nel mondo. Insieme sono stati presentati altri strumenti IA per creator (doppiaggio in tempo reale per le dirette).",
     "angles": [
-      "Video anche su Apple: serve davvero registrare in video il tuo podcast?",
-      "Come pensare un'offerta in abbonamento (extra, early access) per un podcast piccolo",
-      "Cosa cambia per l'hosting: chi supporta HLS e chi no"
+      "Se un'IA ti presenta agli ascoltatori, cosa deve dire di te il tuo titolo e la tua descrizione",
+      "Scoperta su YouTube: perché titolo, copertina e primi minuti contano più che mai",
+      "Cosa non puoi controllare (l'algoritmo) e cosa sì (la qualità dell'audio)"
     ],
     "hooks": [
-      "Hai un podcast solo audio e pensi che il video non ti riguardi? Apple ha appena cambiato le carte in tavola, e non sei l'unico a doverci pensare.",
-      "Ti chiedi se vale la pena far pagare un abbonamento al tuo podcast? Ora anche Apple ti dà lo strumento, ma prima serve qualcuno che ti ascolti.",
-      "Pensi di dover mettere la faccia in ogni episodio per andare avanti? Calma: prima guardiamo cosa cambia davvero, poi decidi se comprare la telecamera."
+      "Hai un podcast su YouTube e il titolo è 'Episodio 12'? Adesso un'IA dovrà spiegare a qualcuno perché ascoltarti.",
+      "Pensi che l'algoritmo decida tutto al posto tuo? Ti sbagli: lavora con quello che gli dai, e tu gli dai poco.",
+      "Stai per pubblicare senza scrivere una descrizione? Da quest'anno la descrizione la legge anche una macchina, non solo tua mamma."
     ]
   },
   {
-    "id": "spotify-partner-program-italia-ottobre",
-    "title": "Spotify Partner Program in arrivo in Italia: monetizzazione podcast e video da ottobre",
-    "source": "TechCrunch (17-09-2026); Engage.it, SmartWorld, TecnoAndroid (settembre 2026)",
+    "id": "threads-podcast-toolkit",
+    "title": "Threads lancia strumenti per podcaster: banner nel profilo, schede episodio, guest card e Podcast Insights",
+    "source": "TechCrunch (16-09-2026), Meta Newsroom, Social Media Today",
     "affidabilita": "primaria",
-    "target": 9,
-    "date": "2026-09-17",
-    "brief": "Spotify estende il Partner Program a oltre 35 nuovi mercati, Italia compresa, con arrivo in autunno (per l'Italia le fonti parlano di rollout a ottobre). I creator guadagnano dalle visualizzazioni video dei Premium e dagli annunci. Secondo le fonti, tra i requisiti di accesso ci sono almeno 3 episodi, 2.000 ore di consumo e 1.000 ascoltatori coinvolti negli ultimi 30 giorni; Spotify dichiara +140% di consumo di video podcast dal 2022.",
+    "target": 7,
+    "date": "2026-09-16",
+    "brief": "Meta ha aggiunto a Threads un kit per podcaster: banner su profilo e post, link agli episodi come scheda cliccabile, selettore dell'episodio preferito, post con trascrizione, video e guest card, e la possibilità per gli utenti di salvare gli episodi. Podcast Insights misura reach, interazioni, click e salvataggi generati da Threads. Threads non ospita i podcast: serve solo per promuoverli e discuterne.",
     "angles": [
-      "Checklist per farsi trovare pronti quando apre il programma in Italia",
-      "Video su Spotify: conviene registrare in video dal primo episodio?",
-      "Numeri veri: come si arriva a 2.000 ore e 1.000 ascoltatori con un podcast piccolo"
+      "Promuovere un episodio senza fare spam: trascrizione e citazioni al posto del 'ascoltami'",
+      "Usare gli ospiti come leva di promozione con le guest card",
+      "Misurare da dove arrivano davvero i tuoi ascoltatori"
     ],
     "hooks": [
-      "Hai un podcast da 30 ascolti e senti già parlare di soldi? Spotify paga anche in Italia, ma prima devi superare una soglia. Ti dico quale.",
-      "Stai per lanciare un podcast e pensi solo al microfono? A ottobre conta anche se sai registrarlo in video. Non è una minaccia, è una scelta.",
-      "Hai smesso di pubblicare perché tanto nessuno ti paga? Se ti fermi ora, a ottobre non sei nemmeno in gara."
+      "Hai pubblicato l'episodio e hai scritto 'nuovo episodio, link in bio'? Threads ti dà strumenti migliori, usali.",
+      "Ti imbarazza promuoverti sui social? Tagga l'ospite e cita una sua frase: fa metà del lavoro.",
+      "Vuoi sapere se i social ti portano ascoltatori veri? Ora c'è un numero, non una sensazione."
     ]
   },
   {
-    "id": "italia-podcast-ascolto-classifica-settembre",
-    "title": "Podcast in Italia: ascolta il 36% degli italiani e in classifica dominano true crime, talk e format quotidiani brevi",
-    "source": "Osservatorio Impresa Cultura Italia-Confcommercio (marzo 2026); CorriereNerd, ILovePodcast, Lifestyleblog (settembre 2026)",
-    "affidabilita": "secondaria",
-    "target": 8,
-    "date": "2026-09-28",
-    "brief": "Secondo l'Osservatorio Confcommercio (marzo 2026) il 36% degli italiani ascolta podcast, sei punti in più del 2022. Nella chart Spotify Italia di settembre convivono true crime (Elisa True Crime, Indagini), talk (La Zanzara, One More Time), divulgazione (Geopop, Barbero) e comicità. Tra i trend segnalati dalle fonti c'è la crescita del podcast quotidiano breve, da 20 minuti, come rituale. Le fonti sono blog e classifiche, non una ricerca nuova di giornata.",
+    "id": "spotify-hls-hosting-europei",
+    "title": "Spotify adotta l'HLS di Apple per i video podcast: Podigee, Audiomeans, Libsyn, Audioboom tra gli hosting collegati",
+    "source": "TechCrunch (14-05-2026), Engadget, Podnews; contesto Apple 23-09-2026",
+    "affidabilita": "primaria",
+    "target": 7,
+    "date": "2026-05-14",
+    "brief": "Spotify porterà l'HLS su Spotify for Creators e Megaphone, così i video podcast pubblicati lì potranno essere distribuiti anche su Apple Podcasts. Gli hosting terzi come Libsyn, Podigee, Audiomeans, Audioboom e Podspace possono già pubblicare video su Spotify e accedere al Partner Program. Dato non di giornata: serve a capire con quale hosting non restare fuori dal video, in Europa e in Italia.",
     "angles": [
-      "Cosa ci dice la chart italiana su formati e durate che funzionano",
-      "Il quotidiano da 20 minuti: opportunità o trappola per chi parte da zero?",
-      "Come scegliere un tema senza copiare il true crime"
+      "Scegliere l'hosting guardando il supporto video e non solo il prezzo",
+      "Un solo file video per Spotify e Apple: si semplifica o no il flusso di lavoro",
+      "Europa: chi tra gli hosting europei è già dentro"
     ],
     "hooks": [
-      "Vuoi aprire un podcast in Italia e pensi che il true crime sia l'unica strada? Guarda cosa c'è davvero in classifica e ti passa la voglia di copiare.",
-      "Hai paura che il tuo podcast sia troppo di nicchia? La chart italiana ti sta dicendo il contrario, se lo sai leggere.",
-      "Pensi che un episodio debba durare un'ora per essere serio? In Italia stanno funzionando i format da venti minuti."
+      "Hai scelto il tuo hosting solo perché costava poco? Guarda se ti farà pubblicare video, tra un anno ti servirà.",
+      "Pensi che il video ti costringa a caricare tutto due volte? Con l'HLS, per molti non è più così.",
+      "Ti stai chiedendo se cambiare piattaforma di hosting? Prima verifica cosa supporta, poi decidi."
     ]
   },
   {
-    "id": "youtube-supera-spotify-uk-podcast",
-    "title": "YouTube diventa il servizio più usato per i podcast anche nel Regno Unito",
-    "source": "Podnews (settembre 2026, data esatta non verificata)",
+    "id": "raiplay-sound-violante-ferite-coraggio",
+    "title": "RaiPlay Sound: dal 9 settembre il podcast Original 'Italia: le ferite e il coraggio' di Luciano Violante, sette puntate",
+    "source": "Daniele Mignardi, Megamodo, ANSA (presentazione stagione, 09-07-2026)",
     "affidabilita": "secondaria",
     "target": 7,
-    "date": "2026-09-01",
-    "brief": "Secondo i dati riportati da Podnews, il 29% degli ascoltatori settimanali britannici di podcast (15+) sceglie YouTube come servizio principale, contro il 28% di Spotify e il 10% di Apple Podcasts. Arriva due anni dopo il sorpasso già avvenuto negli Stati Uniti. Data esatta della pubblicazione non verificata: la notizia è riportata nei risultati di settembre 2026.",
+    "date": "2026-09-09",
+    "brief": "RaiPlay Sound ha pubblicato in esclusiva un podcast Original in sette episodi, scritto e raccontato da Luciano Violante, che ripercorre le fratture della storia italiana (mafie, terrorismo, corruzione, Costituzione). Fa parte della nuova stagione dei Podcast Original Rai, con titoli come Spiritual Hub e Fantastiche. Caso utile per vedere come un editore grande costruisce una serie a stagione chiusa, breve e con un autore riconoscibile.",
     "angles": [
-      "Se YouTube è la prima piattaforma, come si presenta un podcast lì",
-      "Video anche solo con un'immagine statica: basta o no?",
-      "Cosa insegna il Regno Unito al mercato europeo e italiano"
+      "Serie breve a stagione chiusa: sette puntate come formato per un podcast piccolo",
+      "Autore con una voce riconoscibile: cosa impara chi non è famoso",
+      "Come la Rai presenta i suoi podcast: titolo, promessa e durata"
     ],
     "hooks": [
-      "Hai caricato il tuo podcast su Spotify e basta? Nel Regno Unito il primo posto è passato a YouTube. Prepara la valigia, o almeno una copertina decente.",
-      "Pensi che YouTube sia roba da youtuber e non da podcaster? Dai numeri, i tuoi ascoltatori ci sono già.",
-      "Ti chiedi dove ti conviene pubblicare per primo? Non ti dico Spotify, ti dico di guardare dove ascolta la gente."
+      "Hai in mente un podcast infinito da pubblicare ogni settimana per sempre? La Rai ha appena fatto sette puntate e basta.",
+      "Pensi che senza un nome famoso non ti ascolti nessuno? Guarda come si costruisce una serie su una promessa chiara.",
+      "Non sai quanto deve durare la tua prima stagione? Sette episodi ben fatti battono trenta a caso."
     ]
   },
   {
-    "id": "youtube-view-count-primo-frame",
-    "title": "YouTube conta una visualizzazione dal primo frame, anche per podcast, Shorts e live",
-    "source": "Joycast, roundup podcast del 3 settembre 2026",
+    "id": "spotify-partner-program-mercati-europei",
+    "title": "Spotify Partner Program: oltre 35 nuovi mercati in autunno, Italia con Spagna e Polonia. Soglia: 1.000 membri, 2.000 ore in 30 giorni",
+    "source": "SmartWorld, Engage.it, TecnoAndroid, imusicfun (settembre 2026)",
     "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09-03",
-    "brief": "Una visualizzazione pubblica di YouTube ora viene contata nel momento in cui il video parte, dal primo frame, in tutto il mondo e per tutti i formati: Shorts, video lunghi, podcast e dirette. Fonte unica di riepilogo (roundup Joycast): da verificare con la documentazione ufficiale prima di trarne conclusioni sulle metriche.",
+    "target": 8,
+    "date": "2026-09-17",
+    "brief": "Spotify ha annunciato il 17 settembre l'espansione del Partner Program, con lancio previsto in autunno. Tra i paesi citati ci sono Italia, Spagna e Polonia. I requisiti riportati dalle fonti italiane: almeno tre episodi, 1.000 membri del pubblico e 2.000 ore consumate negli ultimi 30 giorni. Il guadagno arriva dai video guardati dai Premium e dagli annunci. Voce già presente nel radar per l'Italia: qui il taglio è europeo, per chi lavora con creator di più paesi.",
     "angles": [
-      "Perché confrontare le view di prima e dopo è fuorviante",
-      "Metriche che contano davvero per un podcast su YouTube: retention vs view"
+      "Cosa significa 2.000 ore in 30 giorni per un podcast da 200 ascoltatori",
+      "Costruire l'abitudine di ascolto prima di pensare ai guadagni",
+      "Confronto tra i mercati europei che entrano insieme"
     ],
     "hooks": [
-      "Hai visto le view del tuo podcast salire e ti senti un genio? Controlla prima come le conta YouTube adesso.",
-      "Pensi che 1.000 view siano 1.000 persone che ti ascoltano? Con il conteggio dal primo frame, no.",
-      "Guardi solo il numero delle visualizzazioni per capire se il tuo podcast funziona? Ti sei perso la metà del film."
+      "Hai un podcast da 200 ascoltatori e già sogni i guadagni? Fai due conti sulle ore: sono più difficili di quanto pensi.",
+      "Pensi che il numero di iscritti sia quello che conta? Spotify guarda le ore ascoltate.",
+      "Stai per mollare perché nessuno ti ascolta? Se resti costante, il programma ti trova pronto."
     ]
   },
   {
-    "id": "adobe-podcast-studio-video-testo",
-    "title": "Adobe Podcast: editing video da testo, Enhance Speech v3 e import multitraccia Zoom",
-    "source": "AISOTools, toolsforhumans.ai, Adobe Community (recensioni 2026); aggiornamento di marzo 2026",
-    "affidabilita": "debole",
+    "id": "apple-podcasts-quota-ascolto-giugno",
+    "title": "Apple Podcasts torna prima app per ascolto (36,5%) davanti a Spotify (27%), mentre YouTube guida nel Regno Unito",
+    "source": "Buzzsprout (dati aggiornati a giugno 2026) via The Podcast Host; Podnews",
+    "affidabilita": "segnale debole",
     "target": 6,
-    "date": "2026-03-01",
-    "brief": "Adobe Podcast Studio permette di caricare, trascrivere e modificare anche video come si modifica un testo. Tra gli aggiornamenti citati: trascrizione in hindi e altre 6 lingue, ingresso come ospite senza account e import di registrazioni multitraccia Zoom (aggiornamento di marzo 2026). Le recensioni lo danno forte sul miglioramento audio (Enhance Speech v3), mentre Descript resta più comodo per il workflow di montaggio. Segnale debole: fonti di recensione, non un annuncio di giornata.",
+    "date": "2026-06-30",
+    "brief": "Secondo i dati Buzzsprout aggiornati a giugno 2026, Apple Podcasts è di nuovo la prima app per ascoltare podcast con il 36,5%, seguita da Spotify con il 27%. Sono statistiche del solo hosting Buzzsprout, quindi non rappresentano il mercato intero, e a giugno non a settembre. Utili come promemoria: le piattaforme cambiano in base a chi le misura, e serve pubblicare ovunque.",
     "angles": [
-      "Adobe Podcast vs Descript: quale per chi parte da zero",
-      "Enhance Speech: quando salva un audio e quando lo rovina",
-      "Il flusso minimo di editing per un principiante"
+      "Perché ogni classifica di piattaforme dipende dal campione che misura",
+      "Pubblicare su tutte le app senza impazzire: il flusso minimo",
+      "Guardare le tue statistiche e non quelle degli altri"
     ],
     "hooks": [
-      "Hai registrato in una stanza che rimbomba e pensi sia da buttare? Prima di ricomprare il microfono prova questo, poi ne parliamo.",
-      "Ti fa paura il montaggio del tuo primo episodio? Editare come si scrive un testo esiste, e si può provare gratis.",
-      "Pensi che l'audio pulito costi centinaia di euro? A volte basta un'app e un minuto, ma solo se hai registrato decentemente."
+      "Hai letto che Spotify vince e pubblichi solo lì? Un altro dato dice il contrario, e dipende da chi conta.",
+      "Ti fidi del primo numero che trovi su una piattaforma? Prima guarda chi lo ha misurato.",
+      "Ti chiedi dove ascolta la gente il tuo podcast? Apri le tue statistiche, non le classifiche degli altri."
     ]
   }
 ]

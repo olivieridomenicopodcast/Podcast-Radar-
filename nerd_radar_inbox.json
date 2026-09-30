@@ -1,39 +1,21 @@
 [
   {
-    "id": "lucca-2026-videogiochi-plaion-sega-atlus",
-    "title": "Lucca Comics & Games 2026: Plaion porta Alien: Isolation 2, Stranger Than Heaven e Persona 4 Revival",
-    "source": "Multiplayer.it, TechPrincess, Sky TG24 (24-09-2026)",
+    "id": "witcher-3-remastered-launch-2026-09-29",
+    "title": "The Witcher 3: Wild Hunt Remastered è disponibile da oggi su PC e console",
+    "source": "CD PROJEKT RED Press Center, Vice, PC Gamer (29-09-2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "A Lucca (28 ottobre-1 novembre) Plaion presenta tre anteprime italiane di SEGA e ATLUS. The Witcher 3 tornerà con Songs of the Past, terza espansione, con demo il 31 ottobre; FINAL FANTASY VII REVELATION avrà uno showcase dedicato alla Casa del Boia.",
-    "tipo": "fiera/annunci videogiochi"
+    "date": "2026-09-29",
+    "brief": "Il remaster è uscito il 29 settembre alle 10:00 UTC su PS5, Xbox Series X|S, Switch 2 e PC (GOG, Steam, Epic, Battle.net). Include Hearts of Stone e Blood and Wine, combattimento e sistema di abilità rivisti, supporto mod cross-platform; è un upgrade gratuito per chi possiede già il gioco sulle piattaforme idonee.",
+    "tipo": "uscita videogioco"
   },
   {
-    "id": "lucca-2026-giochi-da-tavolo-hogwarts-ravensburger",
-    "title": "Lucca 2026, giochi da tavolo: Defenders of Hogwarts in anteprima mondiale, Labyrinth 40 anni con Carcassonne",
-    "source": "SpazioGames, itakon.it (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "Defenders of Hogwarts sarà mostrato a Lucca come primo evento mondiale prima della distribuzione di primavera 2027. Ravensburger porta Horrified Ravenloft e festeggia i 40 anni di Labyrinth con una collaborazione con Carcassonne; Asmodee celebra i 25 anni di Lupi Mannari di Roccascura con un'edizione limitata.",
-    "tipo": "fiera/giochi da tavolo"
-  },
-  {
-    "id": "lucca-2026-ospiti-legacy-60-anni",
-    "title": "Lucca Comics & Games 2026 compie 60 anni: tema Legacy, tra gli ospiti Go Nagai, Frank Miller e Hideki Kamiya",
-    "source": "Sky TG24, CorriereNerd, NerdPool (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-24",
-    "brief": "Dal 28 ottobre al 1 novembre, poster di Claudio Castellini. Tra gli ospiti Go Nagai, Frank Miller, Jonathan Hickman, Tōru Fujisawa, Yoshinori Kitase, Hideki Kamiya e Yōko Kanno; annunciati i 30 anni di Pokémon e un'anteprima italiana del Naruto Card Game.",
-    "tipo": "fiera/ospiti"
-  },
-  {
-    "id": "milan-games-week-cartoomics-27-29-novembre",
-    "title": "Milan Games Week & Cartoomics 2026 il 27-29 novembre a Fiera Milano Rho",
-    "source": "BusinessWeekly (settembre 2026)",
+    "id": "lucca-2026-presentazione-pubblica-30-settembre",
+    "title": "Lucca Comics & Games 2026: presentazione pubblica il 30 settembre con nuovi ospiti e novità Comics",
+    "source": "LuccaInDiretta, Fumettologica, AgroToday (29-09-2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-24",
-    "brief": "Videogiochi, fumetti, manga, anime, esport, giochi da tavolo, cosplay e collezionismo a Fiera Milano Rho dal 27 al 29 novembre 2026.",
-    "tipo": "fiera"
+    "date": "2026-09-29",
+    "brief": "Il 30 settembre alle 11:30, all'Auditorium della Fondazione Banca del Monte di Lucca (ingresso libero), verranno annunciati nuovi ospiti e novità. L'edizione dei 60 anni, tema Legacy, si tiene dal 28 ottobre al 1 novembre; tra i nomi già noti Frank Miller, Go Nagai, Jonathan Hickman, Kitase e Kamiya.",
+    "tipo": "fiera/annunci"
   },
   {
     "id": "spiel-essen-2026-tcg-awards",
@@ -41,7 +23,34 @@
     "source": "toystorebiz.it, giochisulnostrotavolo.it, spiel-essen.de (28-09-2026)",
     "affidabilita": "primaria",
     "date": "2026-09-28",
-    "brief": "Dal 22 al 25 ottobre tutti gli otto padiglioni (81.200 mq), 921 aziende da 53 paesi, fino a 230.000 visitatori attesi e circa 1.500 novità. Debuttano i TCG Awards insieme al Deutsche Spiele Preis.",
+    "brief": "Dal 22 al 25 ottobre tutti gli otto padiglioni (81.200 mq), 921 aziende da 53 paesi, fino a 230.000 visitatori attesi e circa 1.500 novità. Debuttano i TCG Awards insieme al Deutsche Spiele Preis. La lista anteprime su BoardGameGeek è già online.",
     "tipo": "fiera internazionale giochi da tavolo"
+  },
+  {
+    "id": "cod-modern-warfare-4-pc-specs-trailer",
+    "title": "Call of Duty: Modern Warfare 4, nuovo trailer sulle specifiche PC (uscita 23 ottobre)",
+    "source": "Simulation Daily, riepilogo news del 29-09-2026 (da confermare su fonte Infinity Ward)",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-29",
+    "brief": "Infinity Ward ha condiviso un trailer dedicato alla versione PC: campo visivo regolabile, supporto ultrawide, HDR e Dolby Vision. Il gioco esce il 23 ottobre. Fonte aggregatore: verificare sui canali ufficiali prima di citarla.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "total-war-shogun-2-complete-edition",
+    "title": "Total War: Shogun 2 Complete Edition, trailer di panoramica: su PC il 13 ottobre",
+    "source": "Simulation Daily, riepilogo news del 29-09-2026 (da confermare su fonte Creative Assembly)",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-29",
+    "brief": "Creative Assembly ha pubblicato un video di 11 minuti che illustra le novità della Complete Edition di Shogun 2, in arrivo su PC il 13 ottobre. Fonte aggregatore: verificare sui canali ufficiali.",
+    "tipo": "annuncio videogioco"
+  },
+  {
+    "id": "star-fox-update-split-screen-30-settembre",
+    "title": "Star Fox: aggiornamento gratuito con split-screen a quattro giocatori dal 30 settembre",
+    "source": "Riepiloghi del Nintendo Direct di settembre 2026 (GameSpot, GamesRadar+)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-30",
+    "brief": "Annunciato al Nintendo Direct del 9 settembre, l'update gratuito per Star Fox aggiunge lo split-screen locale per quattro giocatori ed è disponibile dal 30 settembre; Star Fox Adventures entra anche nel catalogo Nintendo Classics. L'annuncio è precedente alle 48 ore, ma la data di uscita cade oggi.",
+    "tipo": "aggiornamento videogioco"
   }
 ]
