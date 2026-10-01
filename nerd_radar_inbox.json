@@ -1,56 +1,56 @@
 [
   {
-    "id": "witcher-3-remastered-launch-2026-09-29",
-    "title": "The Witcher 3: Wild Hunt Remastered è disponibile da oggi su PC e console",
-    "source": "CD PROJEKT RED Press Center, Vice, PC Gamer (29-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-29",
-    "brief": "Il remaster è uscito il 29 settembre alle 10:00 UTC su PS5, Xbox Series X|S, Switch 2 e PC (GOG, Steam, Epic, Battle.net). Include Hearts of Stone e Blood and Wine, combattimento e sistema di abilità rivisti, supporto mod cross-platform; è un upgrade gratuito per chi possiede già il gioco sulle piattaforme idonee.",
+    "id": "lucca-2026-ospiti",
+    "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre): oltre 400 ospiti nell'area Comics, tra cui Frank Miller, Hickman, Bendis e Go Nagai",
+    "source": "Fumettologica, Sky TG24, Comicus (settembre 2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "La 60ª edizione ospita più di 400 ospiti e 80 editori; dal Giappone Go Nagai, Gurihiru, Yuu Watase e Paru Itagaki. Dal cast di Percy Jackson arrivano Walker Scobell, Leah Sava Jeffries e Aryan Simhadri; Square Enix porta Yoshinori Kitase.",
+    "tipo": "fiera"
+  },
+  {
+    "id": "playstation-plus-ottobre",
+    "title": "PlayStation Plus di ottobre 2026: annuncio dei giochi il 30 settembre, disponibili dal 6 ottobre",
+    "source": "Everyeye.it",
+    "affidabilita": "secondaria",
+    "date": "2026-09-30",
+    "brief": "Sony annuncia il catalogo mensile PS Plus (previsto intorno alle 17:30 italiane); i titoli saranno disponibili per gli abbonati dal 6 ottobre. Il titolo dei giochi non è stato verificato.",
+    "tipo": "annuncio servizio"
+  },
+  {
+    "id": "uscite-settembre-2026-videogiochi",
+    "title": "Settembre 2026: tra le uscite The Blood of Dawnwalker, Marvel's Wolverine, Onimusha: Way of the Sword e Orbitals su Switch 2",
+    "source": "Everyeye.it, Gamentalk",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-30",
+    "brief": "Elenco di uscite di settembre secondo siti di settore; date precise per ciascun titolo non verificate.",
     "tipo": "uscita videogioco"
   },
   {
-    "id": "lucca-2026-presentazione-pubblica-30-settembre",
-    "title": "Lucca Comics & Games 2026: presentazione pubblica il 30 settembre con nuovi ospiti e novità Comics",
-    "source": "LuccaInDiretta, Fumettologica, AgroToday (29-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-29",
-    "brief": "Il 30 settembre alle 11:30, all'Auditorium della Fondazione Banca del Monte di Lucca (ingresso libero), verranno annunciati nuovi ospiti e novità. L'edizione dei 60 anni, tema Legacy, si tiene dal 28 ottobre al 1 novembre; tra i nomi già noti Frank Miller, Go Nagai, Jonathan Hickman, Kitase e Kamiya.",
-    "tipo": "fiera/annunci"
-  },
-  {
-    "id": "spiel-essen-2026-tcg-awards",
-    "title": "Spiel Essen 2026 sarà la più grande di sempre, debuttano i TCG Awards",
-    "source": "toystorebiz.it, giochisulnostrotavolo.it, spiel-essen.de (28-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-28",
-    "brief": "Dal 22 al 25 ottobre tutti gli otto padiglioni (81.200 mq), 921 aziende da 53 paesi, fino a 230.000 visitatori attesi e circa 1.500 novità. Debuttano i TCG Awards insieme al Deutsche Spiele Preis. La lista anteprime su BoardGameGeek è già online.",
-    "tipo": "fiera internazionale giochi da tavolo"
-  },
-  {
-    "id": "cod-modern-warfare-4-pc-specs-trailer",
-    "title": "Call of Duty: Modern Warfare 4, nuovo trailer sulle specifiche PC (uscita 23 ottobre)",
-    "source": "Simulation Daily, riepilogo news del 29-09-2026 (da confermare su fonte Infinity Ward)",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-29",
-    "brief": "Infinity Ward ha condiviso un trailer dedicato alla versione PC: campo visivo regolabile, supporto ultrawide, HDR e Dolby Vision. Il gioco esce il 23 ottobre. Fonte aggregatore: verificare sui canali ufficiali prima di citarla.",
-    "tipo": "annuncio videogioco"
-  },
-  {
-    "id": "total-war-shogun-2-complete-edition",
-    "title": "Total War: Shogun 2 Complete Edition, trailer di panoramica: su PC il 13 ottobre",
-    "source": "Simulation Daily, riepilogo news del 29-09-2026 (da confermare su fonte Creative Assembly)",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-29",
-    "brief": "Creative Assembly ha pubblicato un video di 11 minuti che illustra le novità della Complete Edition di Shogun 2, in arrivo su PC il 13 ottobre. Fonte aggregatore: verificare sui canali ufficiali.",
-    "tipo": "annuncio videogioco"
-  },
-  {
-    "id": "star-fox-update-split-screen-30-settembre",
-    "title": "Star Fox: aggiornamento gratuito con split-screen a quattro giocatori dal 30 settembre",
-    "source": "Riepiloghi del Nintendo Direct di settembre 2026 (GameSpot, GamesRadar+)",
+    "id": "toy-battle-la-croisette",
+    "title": "Giochi da tavolo della settimana (28 set-2 ott): Toy Battle - La Croisette, Railway Boom, Nome in Codice (espansioni Fantascienza e Fiabe), Tentar non noce",
+    "source": "geek.pizza (30-09-2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-30",
-    "brief": "Annunciato al Nintendo Direct del 9 settembre, l'update gratuito per Star Fox aggiunge lo split-screen locale per quattro giocatori ed è disponibile dal 30 settembre; Star Fox Adventures entra anche nel catalogo Nintendo Classics. L'annuncio è precedente alle 48 ore, ma la data di uscita cade oggi.",
-    "tipo": "aggiornamento videogioco"
+    "brief": "Tra le novità in Italia questa settimana anche Hidden Games, Luminus, Mozaïk e K-POP Kittens; Tentar non noce esce il 2 ottobre (2-20 giocatori, 20 minuti).",
+    "tipo": "gioco da tavolo"
+  },
+  {
+    "id": "witcher-3-remastered",
+    "title": "The Witcher 3: Wild Hunt Remastered disponibile dal 29 settembre su PC e console",
+    "source": "CD PROJEKT RED, Vice, PC Gamer",
+    "affidabilita": "primaria",
+    "date": "2026-09-29",
+    "brief": "Remaster uscito su PS5, Xbox Series X|S, Switch 2 e PC con le due espansioni, upgrade gratuito per chi ha il gioco su piattaforme idonee (già nel radar di ieri).",
+    "tipo": "uscita videogioco"
+  },
+  {
+    "id": "exit-calendario-avvento",
+    "title": "EXIT: Calendario dell'Avvento 2026 - Corsa Intergalattica",
+    "source": "geek.pizza (30-09-2026)",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-30",
+    "brief": "Escape room da tavolo in versione calendario con 24 enigmi, in vista del periodo natalizio. Fonte singola.",
+    "tipo": "gioco da tavolo"
   }
 ]

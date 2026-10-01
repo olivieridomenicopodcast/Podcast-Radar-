@@ -1,116 +1,97 @@
 [
   {
-    "id": "made-on-youtube-podcast-lineup",
-    "title": "Made on YouTube 2026: arriva 'Podcast Lineup', l'anteprima audio settimanale dei podcast consigliati con l'IA",
-    "source": "9to5Google, Google Blog, Medianama (23-09-2026)",
+    "id": "nielseniq-audible-18-5-milioni",
+    "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026, YouTube (57%) e Spotify (55%) le piattaforme più usate",
+    "source": "ANSA, Sky TG24, Media Key (30-09-2026), ricerca NielsenIQ per Audible",
     "affidabilita": "primaria",
-    "target": 8,
-    "date": "2026-09-23",
-    "brief": "Nel keynote Made on YouTube del 23 settembre YouTube ha annunciato Podcast Lineup: un riassunto parlato, generato dall'IA, che ogni settimana anticipa gli episodi consigliati e spiega perché potrebbero interessarti. Arriverà presto su YouTube Music e Premium nel mondo. Insieme sono stati presentati altri strumenti IA per creator (doppiaggio in tempo reale per le dirette).",
+    "target": 9,
+    "date": "2026-09-30",
+    "brief": "Secondo NielsenIQ per Audible, nel 2026 gli italiani che ascoltano podcast sono 18,5 milioni (+3% sul 2025, +80% dal 2018). Ascolto medio: 5 volte al mese, sessioni da 26,9 minuti. Fascia più forte 25-34 anni, e i social sono il primo canale di scoperta. Piattaforme: YouTube 57%, Spotify 55%, Amazon Music 30%, Audible 14%, Apple Music 10%, Spreaker 6%.",
     "angles": [
-      "Se un'IA ti presenta agli ascoltatori, cosa deve dire di te il tuo titolo e la tua descrizione",
-      "Scoperta su YouTube: perché titolo, copertina e primi minuti contano più che mai",
-      "Cosa non puoi controllare (l'algoritmo) e cosa sì (la qualità dell'audio)"
+      "Se YouTube è la prima piattaforma, il tuo podcast ha anche una faccia e una copertina?",
+      "I social come canale di scoperta: clip brevi per portare gente all'episodio",
+      "Sessioni da 27 minuti: quanto deve durare un episodio per principianti"
     ],
     "hooks": [
-      "Hai un podcast su YouTube e il titolo è 'Episodio 12'? Adesso un'IA dovrà spiegare a qualcuno perché ascoltarti.",
-      "Pensi che l'algoritmo decida tutto al posto tuo? Ti sbagli: lavora con quello che gli dai, e tu gli dai poco.",
-      "Stai per pubblicare senza scrivere una descrizione? Da quest'anno la descrizione la legge anche una macchina, non solo tua mamma."
+      "Pensi che nessuno ascolti podcast in Italia? Sono 18 milioni e mezzo, e metà di loro ti cerca su YouTube.",
+      "Hai un podcast solo su Spotify? Il 57% degli italiani ascolta su YouTube, magari ci passi anche tu.",
+      "Fai episodi da due ore perché 'tanto sono appassionati'? La sessione media dura 27 minuti, fai due conti."
     ]
   },
   {
-    "id": "threads-podcast-toolkit",
-    "title": "Threads lancia strumenti per podcaster: banner nel profilo, schede episodio, guest card e Podcast Insights",
-    "source": "TechCrunch (16-09-2026), Meta Newsroom, Social Media Today",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-09-16",
-    "brief": "Meta ha aggiunto a Threads un kit per podcaster: banner su profilo e post, link agli episodi come scheda cliccabile, selettore dell'episodio preferito, post con trascrizione, video e guest card, e la possibilità per gli utenti di salvare gli episodi. Podcast Insights misura reach, interazioni, click e salvataggi generati da Threads. Threads non ospita i podcast: serve solo per promuoverli e discuterne.",
-    "angles": [
-      "Promuovere un episodio senza fare spam: trascrizione e citazioni al posto del 'ascoltami'",
-      "Usare gli ospiti come leva di promozione con le guest card",
-      "Misurare da dove arrivano davvero i tuoi ascoltatori"
-    ],
-    "hooks": [
-      "Hai pubblicato l'episodio e hai scritto 'nuovo episodio, link in bio'? Threads ti dà strumenti migliori, usali.",
-      "Ti imbarazza promuoverti sui social? Tagga l'ospite e cita una sua frase: fa metà del lavoro.",
-      "Vuoi sapere se i social ti portano ascoltatori veri? Ora c'è un numero, non una sensazione."
-    ]
-  },
-  {
-    "id": "spotify-hls-hosting-europei",
-    "title": "Spotify adotta l'HLS di Apple per i video podcast: Podigee, Audiomeans, Libsyn, Audioboom tra gli hosting collegati",
-    "source": "TechCrunch (14-05-2026), Engadget, Podnews; contesto Apple 23-09-2026",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-05-14",
-    "brief": "Spotify porterà l'HLS su Spotify for Creators e Megaphone, così i video podcast pubblicati lì potranno essere distribuiti anche su Apple Podcasts. Gli hosting terzi come Libsyn, Podigee, Audiomeans, Audioboom e Podspace possono già pubblicare video su Spotify e accedere al Partner Program. Dato non di giornata: serve a capire con quale hosting non restare fuori dal video, in Europa e in Italia.",
-    "angles": [
-      "Scegliere l'hosting guardando il supporto video e non solo il prezzo",
-      "Un solo file video per Spotify e Apple: si semplifica o no il flusso di lavoro",
-      "Europa: chi tra gli hosting europei è già dentro"
-    ],
-    "hooks": [
-      "Hai scelto il tuo hosting solo perché costava poco? Guarda se ti farà pubblicare video, tra un anno ti servirà.",
-      "Pensi che il video ti costringa a caricare tutto due volte? Con l'HLS, per molti non è più così.",
-      "Ti stai chiedendo se cambiare piattaforma di hosting? Prima verifica cosa supporta, poi decidi."
-    ]
-  },
-  {
-    "id": "raiplay-sound-violante-ferite-coraggio",
-    "title": "RaiPlay Sound: dal 9 settembre il podcast Original 'Italia: le ferite e il coraggio' di Luciano Violante, sette puntate",
-    "source": "Daniele Mignardi, Megamodo, ANSA (presentazione stagione, 09-07-2026)",
+    "id": "festival-podcasting-milano-2-3-ottobre",
+    "title": "Festival del Podcasting, decennale a Milano il 2-3 ottobre: venerdì Industry Day, sabato Creator Day aperto al pubblico",
+    "source": "Sky TG24, CanaleUno, Digitalic, Media Key (22-29/09/2026)",
     "affidabilita": "secondaria",
-    "target": 7,
-    "date": "2026-09-09",
-    "brief": "RaiPlay Sound ha pubblicato in esclusiva un podcast Original in sette episodi, scritto e raccontato da Luciano Violante, che ripercorre le fratture della storia italiana (mafie, terrorismo, corruzione, Costituzione). Fa parte della nuova stagione dei Podcast Original Rai, con titoli come Spiritual Hub e Fantastiche. Caso utile per vedere come un editore grande costruisce una serie a stagione chiusa, breve e con un autore riconoscibile.",
+    "target": 9,
+    "date": "2026-09-29",
+    "brief": "Il Festival del Podcasting festeggia i dieci anni a Cascina Triulza (MIND, Milano). Il 2 ottobre è l'Industry Day per brand e produttori, con Premio Media Key al miglior emergente e il nuovo Premio Audioboost per il branded podcast; il 3 ottobre il Creator Day per chi vuole far crescere il proprio progetto, con il Premio POD24 per l'inchiesta. Temi: IA, video podcast, branded content, modelli di business.",
     "angles": [
-      "Serie breve a stagione chiusa: sette puntate come formato per un podcast piccolo",
-      "Autore con una voce riconoscibile: cosa impara chi non è famoso",
-      "Come la Rai presenta i suoi podcast: titolo, promessa e durata"
+      "Cosa portarti a casa da un festival se sei alle prime armi",
+      "I temi del decennale: IA e video podcast, moda o necessità?",
+      "Networking per podcaster timidi"
     ],
     "hooks": [
-      "Hai in mente un podcast infinito da pubblicare ogni settimana per sempre? La Rai ha appena fatto sette puntate e basta.",
-      "Pensi che senza un nome famoso non ti ascolti nessuno? Guarda come si costruisce una serie su una promessa chiara.",
-      "Non sai quanto deve durare la tua prima stagione? Sette episodi ben fatti battono trenta a caso."
+      "Hai un podcast ma non hai mai parlato con un altro podcaster? Sabato a Milano c'è il posto giusto.",
+      "Pensi che i festival siano roba per i grossi? Il sabato è il Creator Day ed è per te.",
+      "Vuoi sapere se il tuo format sta in piedi? Chiedilo a chi ne ha fatti dieci anni di fila."
     ]
   },
   {
-    "id": "spotify-partner-program-mercati-europei",
-    "title": "Spotify Partner Program: oltre 35 nuovi mercati in autunno, Italia con Spagna e Polonia. Soglia: 1.000 membri, 2.000 ore in 30 giorni",
-    "source": "SmartWorld, Engage.it, TecnoAndroid, imusicfun (settembre 2026)",
+    "id": "spotify-partner-program-soglia-bassa",
+    "title": "Spotify abbassa la soglia del Partner Program: bastano 1.000 ascoltatori e 2.000 ore in 30 giorni, arriva una Distribution API per il video",
+    "source": "Podnews, TheWrap, Spotify for Creators (2026)",
     "affidabilita": "secondaria",
     "target": 8,
-    "date": "2026-09-17",
-    "brief": "Spotify ha annunciato il 17 settembre l'espansione del Partner Program, con lancio previsto in autunno. Tra i paesi citati ci sono Italia, Spagna e Polonia. I requisiti riportati dalle fonti italiane: almeno tre episodi, 1.000 membri del pubblico e 2.000 ore consumate negli ultimi 30 giorni. Il guadagno arriva dai video guardati dai Premium e dagli annunci. Voce già presente nel radar per l'Italia: qui il taglio è europeo, per chi lavora con creator di più paesi.",
+    "date": "2026-09-30",
+    "brief": "Spotify ha ridotto i requisiti per entrare nel Partner Program: 1.000 ascoltatori coinvolti, 2.000 ore consumate negli ultimi 30 giorni e tre episodi pubblicati. Acast, Audioboom, Libsyn, Omny e Podigee sono partner di lancio di una Distribution API per pubblicare e monetizzare video su Spotify senza cambiare hosting. La data esatta degli annunci va verificata sulla fonte primaria.",
     "angles": [
-      "Cosa significa 2.000 ore in 30 giorni per un podcast da 200 ascoltatori",
-      "Costruire l'abitudine di ascolto prima di pensare ai guadagni",
-      "Confronto tra i mercati europei che entrano insieme"
+      "Monetizzare presto: ha senso inseguire la soglia?",
+      "Video su Spotify senza cambiare hosting",
+      "Cosa significa 'ascoltatore coinvolto'"
     ],
     "hooks": [
-      "Hai un podcast da 200 ascoltatori e già sogni i guadagni? Fai due conti sulle ore: sono più difficili di quanto pensi.",
-      "Pensi che il numero di iscritti sia quello che conta? Spotify guarda le ore ascoltate.",
-      "Stai per mollare perché nessuno ti ascolta? Se resti costante, il programma ti trova pronto."
+      "Hai da poco aperto il podcast e sogni già i soldi? Con 1.000 ascoltatori Spotify ti fa almeno la domanda.",
+      "Hai paura di dover cambiare hosting per fare video? Spotify dice di no, per ora.",
+      "Stai contando i download invece delle ore ascoltate? Spotify guarda le ore, non i tuoi sorrisi."
     ]
   },
   {
-    "id": "apple-podcasts-quota-ascolto-giugno",
-    "title": "Apple Podcasts torna prima app per ascolto (36,5%) davanti a Spotify (27%), mentre YouTube guida nel Regno Unito",
-    "source": "Buzzsprout (dati aggiornati a giugno 2026) via The Podcast Host; Podnews",
+    "id": "apple-podcasts-video-hls",
+    "title": "Apple Podcasts spinge sul video: supporto HLS e inserzioni pubblicitarie dinamiche, partner Acast, ART19, Omny e SiriusXM",
+    "source": "Variety, CNBC Africa, Podnews (2026)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-09-30",
+    "brief": "Apple Podcasts introduce il video via HLS, che permette di inserire dinamicamente anche annunci video letti dall'host. Tra gli hosting partner al lancio ci sono Acast, ART19, Omny Studio e SiriusXM Media. Negli USA YouTube è il servizio più usato per i podcast (33%), davanti a Spotify (26%) e Apple (14%). Date precise non verificate.",
+    "angles": [
+      "Video podcast: obbligatorio o facoltativo?",
+      "Dove metti il video se hai già un hosting?",
+      "YouTube vs Spotify vs Apple: dove ti serve esserci"
+    ],
+    "hooks": [
+      "Hai un podcast solo audio e ti dicono che 'ormai serve il video'? Respira, parti dalla qualità dell'audio.",
+      "Stai registrando video con la webcam del portatile? Almeno la luce, ti prego.",
+      "Pensi di dover stare su tutte le piattaforme? Ne bastano due fatte bene."
+    ]
+  },
+  {
+    "id": "riverside-2-adobe-podcast",
+    "title": "Riverside 2.0 e Adobe Podcast (Enhance Speech v3, Mic Check 2.0): più IA per registrare e pulire l'audio",
+    "source": "Podnews, Riverside, recensioni di settore (2026)",
     "affidabilita": "segnale debole",
-    "target": 6,
-    "date": "2026-06-30",
-    "brief": "Secondo i dati Buzzsprout aggiornati a giugno 2026, Apple Podcasts è di nuovo la prima app per ascoltare podcast con il 36,5%, seguita da Spotify con il 27%. Sono statistiche del solo hosting Buzzsprout, quindi non rappresentano il mercato intero, e a giugno non a settembre. Utili come promemoria: le piattaforme cambiano in base a chi le misura, e serve pubblicare ovunque.",
+    "target": 7,
+    "date": "2026-07-31",
+    "brief": "Riverside 2.0 (luglio 2026) rifà lo studio di registrazione e l'editor con IA; Adobe Podcast propone Enhance Speech v3 con separazione di voce, rumore e musica e Mic Check 2.0 per diagnosticare il microfono prima di registrare. Fonti secondarie e di settore, nessuna data di giornata: novità non di oggi.",
     "angles": [
-      "Perché ogni classifica di piattaforme dipende dal campione che misura",
-      "Pubblicare su tutte le app senza impazzire: il flusso minimo",
-      "Guardare le tue statistiche e non quelle degli altri"
+      "L'IA ripulisce tutto, ma un buon microfono resta un buon microfono",
+      "Mic check prima di registrare: la routine da principiante",
+      "Quando Enhance Speech salva l'audio e quando lo rovina"
     ],
     "hooks": [
-      "Hai letto che Spotify vince e pubblichi solo lì? Un altro dato dice il contrario, e dipende da chi conta.",
-      "Ti fidi del primo numero che trovi su una piattaforma? Prima guarda chi lo ha misurato.",
-      "Ti chiedi dove ascolta la gente il tuo podcast? Apri le tue statistiche, non le classifiche degli altri."
+      "Hai registrato in cucina con l'eco e pensi 'poi lo sistemo con l'IA'? Funziona, ma non fa miracoli.",
+      "Hai appena comprato un microfono e non sai se lo stai usando bene? Esiste un test apposta.",
+      "Ti ostini a tagliare i respiri a mano uno a uno? Ci sono strumenti, e anche la pazienza è un limite."
     ]
   }
 ]

@@ -1,50 +1,47 @@
 [
   {
-    "id": "amon-amarth-allfather-awakens-2-ottobre",
-    "title": "Amon Amarth: \"The Allfather Awakens\" in uscita venerdì 2 ottobre per Metal Blade",
-    "source": "Metal Connect, New Metal Releases October 2nd 2026",
+    "id": "amon-amarth-allfather-awakens",
+    "title": "Amon Amarth, \"The Allfather Awakens\" in uscita venerdì 2 ottobre su Metal Blade",
+    "source": "Metal Connect",
     "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "Il calendario delle uscite del 2 ottobre 2026 di Metal Connect segnala il nuovo album dei vichinghi svedesi del melodic death metal, pubblicato da Metal Blade. È l'uscita più attesa della settimana. L'annuncio risale a prima delle 48 ore, ma l'uscita è imminente."
+    "date": "2026-10-01",
+    "brief": "Il nuovo album dei vichinghi del melodic death metal è tra le uscite più attese del New Music Friday del 2 ottobre.",
+    "tipo": "album"
   },
   {
-    "id": "uscite-settimana-2-ottobre-razorvoid-brymir-wraithstorm",
-    "title": "Uscite del 2 ottobre: Razorvoid, Brymir, Wraithstorm, Hexer e altri",
-    "source": "Invisible Oranges (Upcoming Metal Releases 27/9-3/10), Metal Connect",
+    "id": "uscite-2-ottobre-metalcore",
+    "title": "Uscite del 2 ottobre: Wage War \"Landfall\", Miss May I \"No Place For Me\", Butcher Babies \"Nightbloom\", Imminence",
+    "source": "Metal Connect, ricerca web",
     "affidabilita": "secondaria",
+    "date": "2026-10-01",
+    "brief": "Giornata ricca per il metalcore: Wage War, Miss May I (Solid State), Imminence e Butcher Babies, più Swans fuori genere.",
+    "tipo": "album"
+  },
+  {
+    "id": "megadeth-farewell-italia-2027",
+    "title": "Megadeth, tour d'addio europeo con Testament e Black Label Society: Assago (Unipol Forum) il 17 aprile 2027",
+    "source": "ricerca web (pagina non aperta)",
+    "affidabilita": "segnale debole",
     "date": "2026-09-30",
-    "brief": "Razorvoid (death/thrash svedese, Jawbreaker) pubblicano \"Into the Void\" con 11 brani. Brymir (power/folk, Napalm) esce con \"What We Leave Behind\". Wraithstorm pubblicano il secondo album melodic death con ospiti vocali. Hexer (death/sludge/doom, Germania) sono in uscita con l'EP \"A Black Flame in Cosmic Void\" nella stessa settimana."
+    "brief": "Fra le date europee del tour d'addio spunta Milano/Assago il 17 aprile 2027. Singola fonte, data da confermare su sito ufficiale o ticketing.",
+    "tipo": "concerto"
   },
   {
-    "id": "whitechapel-burn-forever-milano-2027",
-    "title": "Whitechapel: tour europeo 2027 con tappa a Milano (Magazzini Generali, 9 febbraio)",
-    "source": "Metal Blade Records, MetalSucks, Rock Sound",
-    "affidabilita": "primaria",
-    "date": "2026-09-30",
-    "brief": "Il deathcore americano porta in Europa il Burn Forever Tour da fine gennaio 2027, con Sylosis, 200 Stab Wounds e Tribal Gaze. La data italiana è a Milano, ai Magazzini Generali, il 9 febbraio 2027 (la data è riportata come 2/09/2027 nelle fonti). Il tour è stato annunciato a marzo 2026, non nelle ultime 48 ore. Lo segnalo come occasione concreta per l'Italia."
-  },
-  {
-    "id": "imminence-august-burns-red-tour-2027-milano",
-    "title": "Imminence con August Burns Red: tour europeo di gennaio-febbraio 2027 con tappa a Milano",
-    "source": "Theprp.com, Kerrang!, Knotfest, Lambgoat",
-    "affidabilita": "primaria",
-    "date": "2026-09-30",
-    "brief": "Il tour è il più grande finora per gli svedesi, con August Burns Red come ospiti. Va dall'8 gennaio (Göteborg) al 6 febbraio 2027 (Malmö), con Brixton Academy a Londra, Parigi, Berlino e Milano. Alcune date sono ancora da annunciare. Il tour è stato annunciato a giugno 2026, quindi è una notizia di riferimento e non dell'ultima ora. Data e locale milanesi non verificati."
-  },
-  {
-    "id": "metalitalia-festival-xiii-trezzo",
-    "title": "Metalitalia Festival XIII: Coroner headliner della domenica, con Paradise Lost, Cynic, Sadist, Amenra e 1914",
-    "source": "Metal Hammer Italia, Vivaticket (26-27-09-2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-27",
-    "brief": "Il festival si è tenuto il 26 e 27 settembre al Live Club di Trezzo sull'Adda (MI). Coroner, headliner della domenica, ha portato il nuovo album \"Dissonance Theory\"; tra i nomi anche Paradise Lost con scaletta scelta dai fan, Cynic con Focus e Traced in Air, Sadist con Tribe per intero, Amenra e 1914."
-  },
-  {
-    "id": "anthrax-cursum-perficio",
-    "title": "Anthrax: \"Cursum Perficio\" è il dodicesimo album, uscito il 18 settembre",
-    "source": "Wikipedia",
+    "id": "manowar-bergamo-2027",
+    "title": "Manowar tornano in Italia: 26 e 27 marzo 2027 al ChorusLife Arena di Bergamo",
+    "source": "Metal Hammer Italia, TrueMetal (luglio 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Il dodicesimo album in studio degli Anthrax è uscito il 18 settembre 2026 ed è preceduto da diversi singoli. Non è una novità delle ultime 48 ore e serve come riferimento per le uscite del mese."
+    "date": "2026-07-15",
+    "brief": "Due serate dopo 14 anni: la prima con \"Kings of Metal\" per intero, la seconda con \"Fighting the World\". Non è una notizia di giornata.",
+    "tipo": "concerto"
+  },
+  {
+    "id": "tour-italia-2027-altri",
+    "title": "Altre date 2027 in Italia: Electric Callboy (22 febbraio, Milano), Rhapsody of Fire (29 gennaio, Alcatraz), Sabaton (19 aprile, Unipol Forum)",
+    "source": "ricerca web (concerts50, travel2concert)",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-30",
+    "brief": "Elenco aggregato di date italiane già annunciate per il 2027; da verificare su biglietterie ufficiali prima di usarle.",
+    "tipo": "concerto"
   }
 ]

@@ -1,56 +1,29 @@
 [
   {
-    "id": "festival-nerd-manfredonia-creator",
-    "title": "Festival del Nerd a Manfredonia: Croix89, Mario Sturniolo e Sdrumox tra gli ospiti creator",
-    "source": "festivaldelnerd.com, foggiatoday.it (26-27 settembre 2026)",
+    "id": "lucca-60-creator-ospiti",
+    "title": "Lucca Comics & Games 2026: tra gli ospiti 400+ nomi del fumetto e dei media, la community creator si prepara",
+    "source": "Fumettologica, Sky TG24",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-24",
+    "brief": "Gli annunci riguardano soprattutto autori e media; i nomi dei creator italiani non sono stati verificati nelle fonti trovate.",
+    "rilevanza": "Per i creator nerd è l'appuntamento per collaborazioni e contenuti di fine ottobre."
+  },
+  {
+    "id": "aci-comics-games-zeronikib",
+    "title": "Aci Comics & Games 2026 (18-20 settembre): Zeronikib co-presentatrice",
+    "source": "Do it Nerd",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-18",
+    "brief": "La creator legata al gaming ha co-presentato la quarta edizione. L'evento è di oltre 48 ore fa.",
+    "rilevanza": "Esempio di creator che diventano volti di fiere locali."
+  },
+  {
+    "id": "festival-nerd-manfredonia",
+    "title": "Festival del Nerd a Manfredonia: Croix89, Mario Sturniolo e Sdrumox ospiti",
+    "source": "festivaldelnerd.com, foggiatoday.it",
     "affidabilita": "secondaria",
     "date": "2026-09-26",
-    "brief": "Nello spin-off del Festival del Nerd a Manfredonia (26-27 settembre, ingresso gratuito) sono stati ospiti Marco Merrino (Croix89), Mario Sturniolo, Daniele Simonetti (Sdrumox), Jeff e Francesco 'Ciccio' Merrino.",
-    "rilevanza": "Mostra come i nomi dello streaming e del gaming italiano animino anche i festival di provincia, portando pubblico a eventi locali gratuiti."
-  },
-  {
-    "id": "lucca-live-show-2026-conduttori-twitch",
-    "title": "Lucca Comics & Games Live Show 2026: annunciati i cinque conduttori della diretta Twitch",
-    "source": "lucca2026.luccacomicsandgames.com, nerdgames.it (24-26 settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Il canale Twitch ufficiale di Lucca Comics & Games trasmetterà cinque giorni di diretta condotti da Cydonia, Escilgioco, Claudio Di Biagio, Martina Levato e CKibe, in partnership tecnica con Mediaworld.",
-    "rilevanza": "I creator italiani diventano il volto ufficiale della comunicazione dei grandi eventi nerd, non più solo ospiti."
-  },
-  {
-    "id": "claudio-di-biagio-rift-chi-sara-il-quinto",
-    "title": "Claudio Di Biagio porta a Lucca il docu-game \"RIFT\" e il progetto \"Chi sarà il quinto\"",
-    "source": "Lucca Comics & Games 2026 programma ufficiale (settembre 2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Oltre a condurre il Live Show, Claudio Di Biagio è autore del docu-game \"RIFT - Il futuro è in gioco\" e presenta a Lucca \"Chi sarà il quinto\" con Guglielmo Scilla e Camihawke.",
-    "rilevanza": "I creator italiani si affermano come autori di progetti editoriali originali dentro i grandi festival."
-  },
-  {
-    "id": "mangaka96-memento-mori-lucca-preview",
-    "title": "Mangaka96 firma copie di \"Memento Mori\" e conduce conferenze in Area YouTube (Palermo Comic Convention)",
-    "source": "Palermo Comic Convention, AnimeClick.it (22-25 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-23",
-    "brief": "Luca Molinaro (Mangaka96), youtuber di pop culture e animazione giapponese, è stato in Area YouTube per conferenze e allo stand Upper Comics per il firmacopie del manga \"Memento Mori\".",
-    "rilevanza": "Esempio di creator nato su YouTube che trasforma la community in una carriera editoriale nel fumetto."
-  },
-  {
-    "id": "milano-comics-games-2026-creator",
-    "title": "Milano Comics&Games (12-13 settembre): tra gli ospiti i creator Victorlaszlo88, Rob McQuack, 151eg e Stibazzi",
-    "source": "ilgiorno.it, gazzettadimilano.it (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-12",
-    "brief": "La 22ª edizione a Malpensa Fiere ha proposto meet & greet e talk con content creator: Victorlaszlo88 e Rob McQuack sul palco e nell'area ospiti, 151eg e Stibazzi sui segreti dell'animazione.",
-    "rilevanza": "Conferma la presenza stabile dei creator nel programma delle fiere del fumetto, accanto a doppiatori e attori."
-  },
-  {
-    "id": "cesyro-la-muorissea-mondadori",
-    "title": "Cesyro (Il Trono del Muori) in tour con \"La Muorissea\", il suo secondo libro Mondadori",
-    "source": "mondadori.it, iltronodelmuori.it (2026)",
-    "affidabilita": "primaria",
-    "date": "2026-09-30",
-    "brief": "Il creator (YouTube dal 2017, circa 400.000 iscritti e oltre 100 milioni di visualizzazioni) ha pubblicato nel 2026 \"La Muorissea\" (rilettura irriverente dell'Odissea, illustrata da Veronica Ciancarini) dopo \"Gli eroi del Muori\" del 2024. Data indicata come verifica: non è una notizia delle ultime 48 ore, il tour è in corso nel 2026.",
-    "rilevanza": "Un divulgatore YouTube di serie, manga e storia consolida un percorso editoriale con un grande editore, segnale del peso dei creator nel mercato librario."
+    "brief": "Già nel radar precedente: festival di provincia con creator nazionali ospiti.",
+    "rilevanza": "Mostra come i creator animano eventi locali."
   }
 ]

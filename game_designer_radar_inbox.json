@@ -1,46 +1,134 @@
 [
   {
-    "id": "acd-distribution-aridnyk-1984-unperson",
-    "title": "Lo studio ucraino di Leopoli entra nella distribuzione hobby USA con ACD: Aridnyk e 1984: Unperson",
-    "source": "boardgamewire.com (28-09-2026)",
+    "id": "pili-pili-lussemburgo",
+    "title": "Pili Pili è il gioco dell'anno dei caffè in Lussemburgo; ATM Gaming è stata acquisita da Asmodee",
+    "source": "boardgamewire.com (30-09-2026)",
     "affidabilita": "primaria",
-    "date": "2026-09-28",
-    "brief": "ACD aggiunge al catalogo il titolo d'esordio Aridnyk (Kickstarter da 132.000 dollari un anno fa) e il prossimo 1984: Unperson, ispirato a George Orwell, di un editore nato a Leopoli durante l'invasione russa.",
-    "tipo": "distribuzione/catalogo",
+    "date": "2026-09-30",
+    "brief": "Il trick-taker di Ben B e Jean-Baptiste de Ghellinck, fondatori di ATM Gaming, vince l'iniziativa lussemburghese per portare giochi moderni nei locali. Asmodee ha acquisito ATM Gaming nel 2026.",
+    "tipo": "premio/editore",
     "mercato": "estero",
-    "rilevanza": "Esempio di piccolo editore che passa da crowdfunding a distribuzione retail tramite un distributore: percorso utile da conoscere per chi autopubblica."
+    "rilevanza": "Esempio di party game piccolo che cresce fino a un grande gruppo editoriale."
   },
   {
-    "id": "cmon-raccolta-capitale-19m",
-    "title": "CMON chiude un aumento di capitale da 19 milioni di dollari per sostenere il rilancio",
+    "id": "paolo-mori-lucca",
+    "title": "Paolo Mori vince a Lucca Comics & Games il premio come designer dell'anno, secondo in cinque mesi",
+    "source": "boardgamewire.com (29-09-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-29",
+    "brief": "Mori, autore di Toy Battle (As d'Or) e Captain Flip (nominato Spiel des Jahres), aggiunge un secondo riconoscimento da designer dell'anno in cinque mesi.",
+    "tipo": "premio",
+    "mercato": "estero",
+    "rilevanza": "Un designer italiano affermato: riferimento per chi vuole capire come costruirsi un catalogo."
+  },
+  {
+    "id": "cmon-raccolta-19m",
+    "title": "CMON chiude una raccolta di capitale da 19 milioni di dollari per rilanciare il publisher",
     "source": "boardgamewire.com (24-09-2026)",
     "affidabilita": "primaria",
     "date": "2026-09-24",
-    "brief": "L'editore nato dal crowdfunding, in difficoltà finanziarie con perdite di quasi 23 milioni di dollari tra 2024 e 2025, ha completato la raccolta di capitale da 19 milioni. Notizia di pochi giorni oltre la finestra delle 48 ore.",
-    "tipo": "notizia di business",
+    "brief": "L'editore in difficoltà finanziarie ottiene fondi per proseguire il rilancio.",
+    "tipo": "editore",
     "mercato": "estero",
-    "rilevanza": "Indica la tenuta di un editore che in passato ha acquisito molti titoli da autori esterni: rilevante per chi valuta di proporgli progetti."
+    "rilevanza": "Stato di salute dei publisher a cui si propongono i prototipi."
   },
   {
-    "id": "tettix-personal-demons-retail",
-    "title": "Tettix Games: Personal Demons, pick-and-pass a tema terapia, nei negozi dal 29 settembre",
-    "source": "ricerca web (uscita retail 29-09-2026)",
+    "id": "werewolves-emmy",
+    "title": "La versione TV di Werewolves of Miller's Hollow ottiene una nomination agli International Emmy",
+    "source": "boardgamewire.com (29-09-2026)",
     "affidabilita": "secondaria",
     "date": "2026-09-29",
-    "brief": "Il nuovo gioco di Tettix Games, Personal Demons: A Therapy Ritual, arriva nel retail il 29 settembre 2026 come pick-and-pass.",
-    "tipo": "uscita gioco da tavolo",
+    "brief": "L'adattamento TV a dimensione reale del gioco di Zygomatic ottiene una nomination.",
+    "tipo": "licensing",
     "mercato": "estero",
-    "rilevanza": "Caso di editore piccolo che punta su un tema insolito e su una meccanica snella come il pick-and-pass."
+    "rilevanza": "Un gioco diventa IP televisiva."
   },
   {
-    "id": "lucca-2026-goty-finalisti",
-    "title": "Lucca 2026: finalisti Gioco dell'Anno Art Society, Bomb Busters, Echoes of Time, Rebirth, Thunder Road Vendetta",
-    "source": "ricerca web su programma Lucca Comics & Games (24-09-2026)",
+    "id": "dsv-games",
+    "title": "DSV Games, nata tre anni fa, ottiene tre nomination ai premi olandesi",
+    "source": "boardgamewire.com (29-09-2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-24",
-    "brief": "Lucca Comics & Games (28 ottobre - 1 novembre, 60ª edizione) ha indicato i cinque finalisti del Gioco dell'Anno; la mostra \"Lucca is a Legacy Game\" è curata da Andrea Angiolino; oltre 80 editori italiani e internazionali tra le aree Comics e Games.",
-    "tipo": "premio/fiera",
+    "date": "2026-09-29",
+    "brief": "Piccolo editore olandese in rapida ascesa.",
+    "tipo": "editore",
+    "mercato": "estero",
+    "rilevanza": "Un nuovo editore da osservare."
+  },
+  {
+    "id": "card-kingdom-acquisizione",
+    "title": "Card Kingdom in acquisizione da parte di ZMC Subsidiary, chiusura attesa a fine settembre",
+    "source": "ricerca web (fonte singola)",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-30",
+    "brief": "Segnale di consolidamento nel retail di carte. Fonte singola.",
+    "tipo": "acquisizione",
+    "mercato": "estero",
+    "rilevanza": "Retail in movimento."
+  },
+  {
+    "id": "acd-aridnyk",
+    "title": "ACD Distribution porta Aridnyk e 1984: Unperson in USA",
+    "source": "boardgamewire.com (28-09-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-09-28",
+    "brief": "Già nel radar precedente: percorso da crowdfunding a distribuzione retail.",
+    "tipo": "distribuzione",
+    "mercato": "estero",
+    "rilevanza": "Percorso utile per chi autopubblica."
+  },
+  {
+    "id": "ideag-venezia-3-ottobre",
+    "title": "IDEAG Venezia il 3 ottobre 2026",
+    "source": "idea-g.it",
+    "affidabilita": "primaria",
+    "date": "2026-10-01",
+    "brief": "Terza edizione dell'incontro locale per autori di giochi. Dopo IDEAG Milano del 19-20 settembre, restano altri appuntamenti locali nel calendario 2026 (Padova, Bari, Roma e altri).",
+    "tipo": "IdeaG",
     "mercato": "italia",
-    "rilevanza": "Mostra quali titoli e quali editori (anche localizzati) la giuria italiana considera di riferimento."
+    "rilevanza": "Occasione di playtest e incontro con editori per autori emergenti."
+  },
+  {
+    "id": "novita-settimana-28-set",
+    "title": "Novità in Italia questa settimana: Toy Battle - La Croisette, Railway Boom, Nome in Codice espansioni, Tentar non noce",
+    "source": "geek.pizza (30-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-30",
+    "brief": "Elenco delle uscite della settimana con diversi giochi localizzati.",
+    "tipo": "uscite",
+    "mercato": "italia",
+    "rilevanza": "Cosa propongono ora gli editori italiani."
+  },
+  {
+    "id": "dv-ghenos-autunno",
+    "title": "Autunno 2026: dV Games e Ghenos Games annunciano le novità (Super Boss Monster, Tilt, Vincono i Verdi, Odino), nuovo logo",
+    "source": "geek.pizza, Metropolitan Magazine (19-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-19",
+    "brief": "Ghenos con Super Boss Monster l'11 settembre e altri titoli il 25; dV Games con Tilt il 18. Notizia di oltre 48 ore.",
+    "tipo": "catalogo",
+    "mercato": "italia",
+    "rilevanza": "Linee editoriali in vista del Natale."
+  },
+  {
+    "id": "asmodee-italia-settembre",
+    "title": "Asmodee Italia: Ticket to Ride Primo Viaggio Europa, The Vale of Eternity Curse, Black Orchestra, Unlock! New Game Adventures",
+    "source": "geek.pizza, Nerdgames (25-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-25",
+    "brief": "Il catalogo di settembre include diverse localizzazioni. Oltre 48 ore.",
+    "tipo": "localizzazioni",
+    "mercato": "italia",
+    "rilevanza": "Cosa localizza il grande publisher."
+  },
+  {
+    "id": "atlantis-burning-skies",
+    "title": "Atlantis Studio porta a Play il prototipo di Burning Skies (Kickstarter a settembre); Rewind in anteprima",
+    "source": "IoGioco.it",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-20",
+    "brief": "Annunci legati alla fiera Play; la campagna e le date vanno verificate.",
+    "tipo": "anteprima",
+    "mercato": "italia",
+    "rilevanza": "Editore italiano che passa da Kickstarter."
   }
 ]

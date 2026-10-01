@@ -1,56 +1,47 @@
 [
   {
-    "id": "rq-los-angeles-rengar-vince-calm-top8",
-    "title": "RQ Los Angeles (26 settembre, 2.165 giocatori): vince Rengar, gli altri sette nella Top 8 usano Legend del dominio Calm",
-    "source": "riftbound.gg, riftDecks.com, zero.gg (risultati del 26-27 settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-27",
-    "brief": "Secondo riftbound.gg il Regional Qualifier di Los Angeles ha visto 2.165 partecipanti. Ha vinto Prismaticism con Rengar, al secondo titolo. Le altre sette Legend della Top 8 sono tutte Calm. Più siti di risultati indipendenti riportano lo stesso evento; i dettagli delle liste non sono stati verificati.",
-    "rilevanza": "È il primo grande dato di meta dopo il ban del 18 settembre: Calm domina, ma Rengar mostra che c'è spazio per alternative."
-  },
-  {
-    "id": "radiance-preview-carte-seraphine-ekko",
-    "title": "Radiance: anteprime in corso, svelata Seraphine, Not Alone e arte di Ekko ed Evelynn",
-    "source": "TechRaptor, RiftCompare, Star City Games, riftbound.gg (fine settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "Più testate indipendenti riportano le prime carte del set. Seraphine, Not Alone è un'Epic Order Champion Unit da 5 energia con 1 Might: crea un Recruit 1/1 quando entra o si esaurisce. La Legend di Ekko è Boy Who Shattered Time (Fury/Mind). Il set ha 180 carte, di cui 66 Showcase, e una nuova rarità collector inedita. Le date delle preview variano tra le fonti (25 o 28 settembre, fino al 9 ottobre).",
-    "rilevanza": "Chi gioca può iniziare a valutare le build. Chi colleziona deve tenere d'occhio la nuova rarità e le 66 Showcase, che di solito guidano i prezzi."
-  },
-  {
-    "id": "radiance-merch-store-sorteggio-display",
-    "title": "Radiance: iscrizione al sorteggio per un Booster Display dal Riot Merch Store, chiude oggi 30 settembre",
-    "source": "playriftbound.com, annuncio Radiance Merch Store Update (dal riepilogo di ricerca, pagina non aperta)",
+    "id": "radiance-uscita-23-ottobre",
+    "title": "Riftbound: Radiance, quinto set, esce il 23 ottobre con 180 carte; Ekko e Seraphine Legend di punta",
+    "source": "playriftbound.com, Star City Games, Bleeding Cool",
     "affidabilita": "primaria",
     "date": "2026-09-30",
-    "brief": "Giocatori di Nord America ed Europa possono iscriversi dal 25 al 30 settembre, ore 9:00 PT, per essere selezionati e comprare un Booster Display di Radiance dal Merch Store di Riot. La finestra chiude oggi. Ho letto solo il riepilogo del motore di ricerca, non la pagina dell'annuncio, perché il dominio è bloccato dalla rete.",
-    "rilevanza": "Per chi colleziona è un canale di acquisto a prezzo di listino; l'iscrizione scade oggi."
+    "brief": "Radiance è la quinta espansione e introduce 180 carte nuove. Poster legend sono Ekko e Seraphine; tra le altre confermate Evelynn, Ziggs, Jarvan IV e Orianna, più tre ancora da svelare. Le preview vanno dal 25 settembre al 9 ottobre; il Pre-Rift è dal 16 al 22 ottobre.",
+    "rilevanza": "Chi gioca può iniziare a pianificare i mazzi sulle carte svelate; chi colleziona sa quando prenotare."
   },
   {
-    "id": "radiance-prodotti-showdown-decks",
-    "title": "Radiance: mazzi Showdown con Seraphine ed Evelynn, prodotti e precostruiti annunciati",
-    "source": "riftbound.gg, TechRaptor (settembre 2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-28",
-    "brief": "I risultati di ricerca indicano un Radiance Showdown Deck in due versioni, una con Seraphine e una con Evelynn. La lista completa dei prodotti è su riftbound.gg. Non ho potuto aprire la pagina per confermare prezzi e contenuti.",
-    "rilevanza": "Sono l'ingresso più economico al set per i nuovi giocatori. Chi colleziona può valutare i sigillati in vista del lancio del 23 ottobre."
-  },
-  {
-    "id": "radiance-uscita-23-ottobre-e-meccaniche",
-    "title": "Radiance esce il 23 ottobre in tutto il mondo: Deploy, Show Off e Disarm",
-    "source": "playriftbound.com (The Radiance Overview), THE MAGIC RAIN, riftbound.gg (settembre 2026)",
+    "id": "errata-spiritforged-unleashed-vendetta",
+    "title": "Nuovo errata: 8 carte corrette tra Spiritforged, Unleashed e Vendetta",
+    "source": "playriftbound.com, riftbound.zone, post ufficiale su X",
     "affidabilita": "primaria",
-    "date": "2026-09-25",
-    "brief": "Il quinto set esce il 23 ottobre 2026. Le preview vanno fino al 9 ottobre e la finestra Pre-Rift è dal 16 al 22 ottobre. Le tre nuove meccaniche sono Deploy (Gear che va su un Battlefield e viene distrutto se l'avversario lo controlla), Show Off (rivela una carta per sbloccare un effetto) e Disarm (riduce il Might di un'unità nemica in attacco).",
-    "rilevanza": "Fissa il calendario di preordini ed eventi. Deploy cambia il modo di contendere i Battlefield e va considerato nelle build."
+    "date": "2026-09-30",
+    "brief": "Riftbound ha pubblicato l'errata più recente: 8 carte con correzione di testo (3 Spiritforged, 2 Unleashed, 3 Vendetta, tra cui Astral Heron, Gangplank Naval e Resonating Strike). Sono sistemazioni di formulazione (durata 'questo turno', condizioni nel formato standard) senza cambi di potenza. La data esatta va verificata sulla pagina ufficiale.",
+    "rilevanza": "Chi gioca competitivo deve rileggere le carte coinvolte per evitare rulings sbagliati."
   },
   {
-    "id": "banlist-ekko-recurrent-stacked-deck",
-    "title": "Ban dal 18 settembre: Ekko, Recurrent e Stacked Deck fuori da Standard e Constructed 2v2",
-    "source": "riftbound.gg, RiftCompare, thread su r/riftboundtcg (annuncio 15-09-2026, in vigore 18-09-2026)",
+    "id": "meta-post-ban-calm",
+    "title": "Meta dopo il ban: dominano le Legend Calm, a Los Angeles Top 8 quasi tutta Calm",
+    "source": "riftbound.gg, riftDecks.com, zero.gg",
     "affidabilita": "secondaria",
-    "date": "2026-09-18",
-    "brief": "Riot ha annunciato il 15 settembre due carte bannate, in vigore dal 18, per Standard e 2v2 insieme. Non è una novità delle ultime 48 ore, ma è il quadro in cui si è giocato l'RQ di Los Angeles. Fonti diverse concordano sul ban. La reazione della community è documentata su Reddit.",
-    "rilevanza": "Definisce il meta fino al lancio di Radiance: le liste con queste due carte non sono più legali."
+    "date": "2026-09-27",
+    "brief": "Dopo il ban del 18 settembre il meta ruota attorno al dominio Calm: al RQ di Los Angeles (26 settembre, 2.165 giocatori) vince Rengar e le altre sette Legend della Top 8 sono Calm. Le liste complete non sono state verificate.",
+    "rilevanza": "Chi gioca deve preparare risposte al dominio Calm in vista dei prossimi qualifier."
+  },
+  {
+    "id": "vendetta-meta-diversita",
+    "title": "Vendetta: nessun mazzo risolto, risultati vari con Azir, Diana, Irelia e Rek'Sai",
+    "source": "riftbound.gg, riftstorm.gg",
+    "affidabilita": "secondaria",
+    "date": "2026-08-15",
+    "brief": "I primi risultati di Vendetta (uscito il 31 luglio, 166 carte, 9 Legend) mostrano varietà: Azir ha vinto un evento da 109 giocatori, Irelia e Diana sono emerse a Pechino (2.048 giocatori). Dato storico, non di giornata; il meta è poi cambiato col ban.",
+    "rilevanza": "Contesto utile per capire come si è arrivati al meta attuale."
+  },
+  {
+    "id": "radiance-merch-store",
+    "title": "Radiance: chiusa il 30 settembre l'iscrizione al sorteggio del Merch Store",
+    "source": "Star City Games, riftdaily",
+    "affidabilita": "segnale debole",
+    "date": "2026-09-30",
+    "brief": "L'iscrizione al sorteggio del Merch Store era aperta dal 25 al 30 settembre. Fonte singola, dettagli non verificati.",
+    "rilevanza": "Per i collezionisti: ormai chiusa, utile solo per le prossime finestre."
   }
 ]

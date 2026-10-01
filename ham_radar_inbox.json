@@ -1,50 +1,42 @@
 [
   {
-    "id": "propagazione-equinozio-solar-report-24-set",
-    "title": "Propagazione equinoziale: flusso solare previsto ~105-115, disturbo geomagnetico in rientro",
-    "source": "ARRL Solar Report del 24-09-2026 (via ricerca web, pagina non aperta direttamente)",
+    "id": "propagazione-1-ottobre",
+    "title": "Propagazione 1 ottobre: SFI intorno a 95, geomagnetico quieto, possibile arrivo di materiale solare il 2",
+    "source": "NOAA SWPC e riepiloghi (via ricerca web)",
     "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "Per il 25 set-1 ott il flusso solare a 10,7 cm è previsto tra 105 e 115 (media 107,9) e l'indice A planetario da 18 a 5 (media 8,3). Il report parla di propagazione equinoziale uniforme nel mondo e di ripresa rapida dopo il disturbo. Sono previsioni del 24 settembre, non misure di oggi: controllare NOAA SWPC."
+    "date": "2026-10-01",
+    "brief": "Flusso solare 10,7 cm a 95 (previsioni 95/100/100 per 29 set-1 ott), indice A circa 5, Kp 1-1,7: condizioni quiete. Possibile debole probabilità di blackout R1-R2 fino al 2 ottobre e arrivo di materiale solare emesso il 28 settembre."
   },
   {
-    "id": "dx-9t0md-congo-rd",
-    "title": "9T0MD: DXpedition del Mediterraneo DX Club nella RD del Congo dal 30 settembre all'11 ottobre",
-    "source": "DX Engineering (onallbands.com) e DX-World, via ricerca web",
+    "id": "contest-oceania-3-4-ottobre",
+    "title": "Oceania DX Contest SSB 3-4 ottobre, CW 10-11 ottobre; CQ WW SSB il 24-25 ottobre",
+    "source": "calendari contest (ng3k, ham-stats, ARI)",
     "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "Operazione multi-operatore in CW/SSB/RTTY/FT8 da 160 a 6 metri con il prefisso 9T mai usato prima in aria. Il gruppo è italiano, quindi ottima occasione per un nuovo paese. Date e dettagli non verificati sul sito ufficiale."
+    "date": "2026-10-01",
+    "brief": "Nel fine settimana si apre l'Oceania DX Contest in SSB, poi CW il weekend dopo. Il 10-11 ottobre c'è anche lo Scandinavian Activity SSB. A fine mese il CQ WW DX SSB."
   },
   {
-    "id": "dx-fw1p-wallis-h49a-solomon",
-    "title": "FW1P da Wallis fino al 17 ottobre; H49A alle Salomone dal 9 al 21 ottobre",
-    "source": "NG3K Announced DX Operations / DX-World, via ricerca web",
+    "id": "dxpedition-attive",
+    "title": "DXpedition attive: V51WH Namibia, 5W0AF Samoa, 8Q7JH Maldive; in arrivo XR0Z Juan Fernandez e 6O2M Somalia",
+    "source": "DXpedition Calendar, dxping.com, 425 DX News",
     "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "SP9FIH è attivo come FW1P da Wallis dal 27 settembre al 17 ottobre. H49A (Isole Salomone, IOTA OC-047) è annunciata dal 9 al 21 ottobre. Le date sono quelle degli elenchi dei calendari DX e possono cambiare."
+    "date": "2026-10-01",
+    "brief": "Attive fino al 10-12 ottobre V51WH, 5W0AF e 8Q7JH. XR0Z (Juan Fernandez) dal 1 al 31 ottobre, 6O2M (Somalia) dal 5 al 25, H49A (Isole Salomone) dal 7 al 21; 9T0MD (RD Congo) dal 30 settembre all'11 ottobre."
   },
   {
-    "id": "dx-c8k-mozambico-e-ag4zp-pacifico",
-    "title": "C8K Mozambico rinviata a set-ott 2026; AG4ZP annuncia KH8 e 5W0ZP a metà ottobre",
-    "source": "DX-World / NG3K, via ricerca web",
+    "id": "cq-ww-rtty-2026",
+    "title": "CQ WW RTTY 2026: segnalate stazioni DX interessanti",
+    "source": "cq.sk",
     "affidabilita": "segnale debole",
     "date": "2026-09-30",
-    "brief": "La DXpedition C8K in Mozambico è stata rinviata da gennaio-febbraio a settembre-ottobre 2026. AG4ZP prevede KH8/AG4ZP (Samoa Americane) il 15-18 ottobre e 5W0ZP (Samoa, in attesa di conferma) il 19-29 ottobre. Date esatte di C8K non confermate."
+    "brief": "Il portale europeo cq.sk elenca le stazioni DX più interessanti per il CQ WW RTTY. Fonte singola, data del contest da verificare."
   },
   {
-    "id": "contest-fine-settembre-inizio-ottobre",
-    "title": "Contest in corso: 222 MHz Fall Sprint e Tuesday Telegraphy Contest (29-30 settembre)",
-    "source": "Ham Radio Daily Contest Brief K6LDF (29-09-2026), via ricerca web",
-    "affidabilita": "secondaria",
-    "date": "2026-09-29",
-    "brief": "Il 222 MHz Fall Sprint è andato dalle 23:00Z del 29 alle 06:00Z del 30 settembre, con focus sul Nord America. Il Tuesday's Telegraphy Contest era in CW su 80 e 40 metri, 19:30-20:30Z del 29. Per il fine settimana del 3-4 ottobre non ho verificato il calendario."
-  },
-  {
-    "id": "iaru-r1-vienna-uhf-ast-spacemobile",
-    "title": "IARU Regione 1 a Vienna (19-23 settembre): documenti sullo spettro satellitare e AST SpaceMobile a 430 MHz",
-    "source": "ICQ Podcast / ARRL, via ricerca web",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-23",
-    "brief": "La Conferenza generale IARU R1 si è tenuta a Vienna e i documenti online trattano la situazione dello spettro UHF. La FCC ha autorizzato in aprile AST SpaceMobile a usare la banda radioamatoriale dei 430 MHz per 248 satelliti, e la IARU contesta l'uso dell'Art. 4.4 del Regolamento ITU. Fatto più vecchio delle 48 ore, incluso come contesto normativo."
+    "id": "ari-contest-calendario",
+    "title": "ARI International DX Contest: edizione 2026 già svolta a maggio",
+    "source": "ari.it",
+    "affidabilita": "primaria",
+    "date": "2026-10-01",
+    "brief": "Il contest principale ARI si tiene il primo weekend di maggio (2-3 maggio 2026); nessun grande contest ARI a ottobre, resta il calendario IAC per VHF/UHF."
   }
 ]
