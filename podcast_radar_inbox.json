@@ -1,97 +1,135 @@
 [
   {
+    "id": "festival-podcasting-milano-2-3-ottobre",
+    "title": "Festival del Podcasting, decennale a Milano: oggi Industry Day, domani Creator Day aperto al pubblico con workshop e Podcast Pitch",
+    "source": "Milano Finanza (01-10-2026), Sky TG24 (29-09-2026), Media Key, festivaldelpodcasting.it",
+    "affidabilita": "secondaria",
+    "target": 9,
+    "date": "2026-10-01",
+    "brief": "Il Festival del Podcasting festeggia i dieci anni a Cascina Triulza (MIND, Milano) il 2 e 3 ottobre. Il 2 è l'Industry Day, con il nuovo Premio Audioboost per il branded podcast; il 3 è il Creator Day, aperto al pubblico, con live podcast, workshop, panel su discoverability, monetizzazione e distribuzione, e il Podcast Pitch dove gli emergenti presentano il progetto a produttori ed editori. Tra gli sponsor figurano Acast, Audible, Steady e Yamaha.",
+    "angles": [
+      "Cosa portarti a casa da un festival se sei alle prime armi",
+      "Podcast Pitch: come si presenta un'idea in pochi minuti",
+      "Networking per podcaster timidi"
+    ],
+    "hooks": [
+      "Hai un podcast ma non hai mai parlato con un altro podcaster? Domani a Milano c'è il posto giusto.",
+      "Pensi che i festival siano roba per i grossi? Il sabato è il Creator Day ed è aperto a tutti.",
+      "Hai un'idea di podcast chiusa in un cassetto? C'è un pitch dove puoi tirarla fuori davanti a chi produce."
+    ]
+  },
+  {
     "id": "nielseniq-audible-18-5-milioni",
     "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026, YouTube (57%) e Spotify (55%) le piattaforme più usate",
     "source": "ANSA, Sky TG24, Media Key (30-09-2026), ricerca NielsenIQ per Audible",
     "affidabilita": "primaria",
     "target": 9,
     "date": "2026-09-30",
-    "brief": "Secondo NielsenIQ per Audible, nel 2026 gli italiani che ascoltano podcast sono 18,5 milioni (+3% sul 2025, +80% dal 2018). Ascolto medio: 5 volte al mese, sessioni da 26,9 minuti. Fascia più forte 25-34 anni, e i social sono il primo canale di scoperta. Piattaforme: YouTube 57%, Spotify 55%, Amazon Music 30%, Audible 14%, Apple Music 10%, Spreaker 6%.",
+    "brief": "Secondo NielsenIQ per Audible, nel 2026 gli italiani che ascoltano podcast sono 18,5 milioni (+3% sul 2025). Ascolto medio: 5 volte al mese, sessioni da 26,9 minuti. Fascia più forte 25-34 anni, e i social sono il primo canale di scoperta. Piattaforme: YouTube 57%, Spotify 55%, Amazon Music 30%, Audible 14%, Apple Music 10%, Spreaker 6%. Altre stime di mercato (es. OBE, 15,5 milioni nel 2025) usano metodologie diverse: i numeri non sono confrontabili tra loro.",
     "angles": [
       "Se YouTube è la prima piattaforma, il tuo podcast ha anche una faccia e una copertina?",
       "I social come canale di scoperta: clip brevi per portare gente all'episodio",
       "Sessioni da 27 minuti: quanto deve durare un episodio per principianti"
     ],
     "hooks": [
-      "Pensi che nessuno ascolti podcast in Italia? Sono 18 milioni e mezzo, e metà di loro ti cerca su YouTube.",
+      "Pensi che nessuno ascolti podcast in Italia? Sono 18 milioni e mezzo, e più della metà usa YouTube.",
       "Hai un podcast solo su Spotify? Il 57% degli italiani ascolta su YouTube, magari ci passi anche tu.",
       "Fai episodi da due ore perché 'tanto sono appassionati'? La sessione media dura 27 minuti, fai due conti."
     ]
   },
   {
-    "id": "festival-podcasting-milano-2-3-ottobre",
-    "title": "Festival del Podcasting, decennale a Milano il 2-3 ottobre: venerdì Industry Day, sabato Creator Day aperto al pubblico",
-    "source": "Sky TG24, CanaleUno, Digitalic, Media Key (22-29/09/2026)",
-    "affidabilita": "secondaria",
-    "target": 9,
-    "date": "2026-09-29",
-    "brief": "Il Festival del Podcasting festeggia i dieci anni a Cascina Triulza (MIND, Milano). Il 2 ottobre è l'Industry Day per brand e produttori, con Premio Media Key al miglior emergente e il nuovo Premio Audioboost per il branded podcast; il 3 ottobre il Creator Day per chi vuole far crescere il proprio progetto, con il Premio POD24 per l'inchiesta. Temi: IA, video podcast, branded content, modelli di business.",
-    "angles": [
-      "Cosa portarti a casa da un festival se sei alle prime armi",
-      "I temi del decennale: IA e video podcast, moda o necessità?",
-      "Networking per podcaster timidi"
-    ],
-    "hooks": [
-      "Hai un podcast ma non hai mai parlato con un altro podcaster? Sabato a Milano c'è il posto giusto.",
-      "Pensi che i festival siano roba per i grossi? Il sabato è il Creator Day ed è per te.",
-      "Vuoi sapere se il tuo format sta in piedi? Chiedilo a chi ne ha fatti dieci anni di fila."
-    ]
-  },
-  {
-    "id": "spotify-partner-program-soglia-bassa",
-    "title": "Spotify abbassa la soglia del Partner Program: bastano 1.000 ascoltatori e 2.000 ore in 30 giorni, arriva una Distribution API per il video",
-    "source": "Podnews, TheWrap, Spotify for Creators (2026)",
-    "affidabilita": "secondaria",
-    "target": 8,
-    "date": "2026-09-30",
-    "brief": "Spotify ha ridotto i requisiti per entrare nel Partner Program: 1.000 ascoltatori coinvolti, 2.000 ore consumate negli ultimi 30 giorni e tre episodi pubblicati. Acast, Audioboom, Libsyn, Omny e Podigee sono partner di lancio di una Distribution API per pubblicare e monetizzare video su Spotify senza cambiare hosting. La data esatta degli annunci va verificata sulla fonte primaria.",
-    "angles": [
-      "Monetizzare presto: ha senso inseguire la soglia?",
-      "Video su Spotify senza cambiare hosting",
-      "Cosa significa 'ascoltatore coinvolto'"
-    ],
-    "hooks": [
-      "Hai da poco aperto il podcast e sogni già i soldi? Con 1.000 ascoltatori Spotify ti fa almeno la domanda.",
-      "Hai paura di dover cambiare hosting per fare video? Spotify dice di no, per ora.",
-      "Stai contando i download invece delle ore ascoltate? Spotify guarda le ore, non i tuoi sorrisi."
-    ]
-  },
-  {
-    "id": "apple-podcasts-video-hls",
-    "title": "Apple Podcasts spinge sul video: supporto HLS e inserzioni pubblicitarie dinamiche, partner Acast, ART19, Omny e SiriusXM",
-    "source": "Variety, CNBC Africa, Podnews (2026)",
-    "affidabilita": "secondaria",
-    "target": 7,
-    "date": "2026-09-30",
-    "brief": "Apple Podcasts introduce il video via HLS, che permette di inserire dinamicamente anche annunci video letti dall'host. Tra gli hosting partner al lancio ci sono Acast, ART19, Omny Studio e SiriusXM Media. Negli USA YouTube è il servizio più usato per i podcast (33%), davanti a Spotify (26%) e Apple (14%). Date precise non verificate.",
-    "angles": [
-      "Video podcast: obbligatorio o facoltativo?",
-      "Dove metti il video se hai già un hosting?",
-      "YouTube vs Spotify vs Apple: dove ti serve esserci"
-    ],
-    "hooks": [
-      "Hai un podcast solo audio e ti dicono che 'ormai serve il video'? Respira, parti dalla qualità dell'audio.",
-      "Stai registrando video con la webcam del portatile? Almeno la luce, ti prego.",
-      "Pensi di dover stare su tutte le piattaforme? Ne bastano due fatte bene."
-    ]
-  },
-  {
-    "id": "riverside-2-adobe-podcast",
-    "title": "Riverside 2.0 e Adobe Podcast (Enhance Speech v3, Mic Check 2.0): più IA per registrare e pulire l'audio",
-    "source": "Podnews, Riverside, recensioni di settore (2026)",
+    "id": "video-podcast-italia-trend",
+    "title": "Italia, il 2026 è l'anno del video podcast: registrato in studio e pubblicato insieme su YouTube e Spotify",
+    "source": "Blog di settore italiani (Crescitaly, Scrolling Infinito), ricerca web (settembre 2026)",
     "affidabilita": "segnale debole",
     "target": 7,
-    "date": "2026-07-31",
-    "brief": "Riverside 2.0 (luglio 2026) rifà lo studio di registrazione e l'editor con IA; Adobe Podcast propone Enhance Speech v3 con separazione di voce, rumore e musica e Mic Check 2.0 per diagnosticare il microfono prima di registrare. Fonti secondarie e di settore, nessuna data di giornata: novità non di oggi.",
+    "date": "2026-09",
+    "brief": "Più fonti di commento italiane indicano il video podcast come tendenza dell'anno, con creator come Gianluca Gazzoli che sfruttano YouTube e Spotify insieme. Sono letture di blog e opinioni, non dati: la data esatta di pubblicazione non è verificata (settembre 2026). Un dato indipendente a favore c'è: NielsenIQ dà YouTube prima piattaforma di ascolto in Italia.",
     "angles": [
-      "L'IA ripulisce tutto, ma un buon microfono resta un buon microfono",
-      "Mic check prima di registrare: la routine da principiante",
-      "Quando Enhance Speech salva l'audio e quando lo rovina"
+      "Video podcast: serve davvero, o basta partire dall'audio fatto bene?",
+      "Attrezzatura minima per fare video senza sembrare in una videochiamata",
+      "Una registrazione, due formati: audio per le app e video per YouTube"
     ],
     "hooks": [
-      "Hai registrato in cucina con l'eco e pensi 'poi lo sistemo con l'IA'? Funziona, ma non fa miracoli.",
-      "Hai appena comprato un microfono e non sai se lo stai usando bene? Esiste un test apposta.",
-      "Ti ostini a tagliare i respiri a mano uno a uno? Ci sono strumenti, e anche la pazienza è un limite."
+      "Ti dicono che senza video non esisti? Prima sistema l'audio, poi parliamo della luce.",
+      "Hai un microfono decente ma una stanza che sembra un magazzino? Il video se ne accorge.",
+      "Pensi di dover fare tutto due volte, audio e video? Si registra una volta sola."
+    ]
+  },
+  {
+    "id": "youtube-made-on-youtube-podcast-analytics",
+    "title": "YouTube, Made on YouTube 2026: analytics dedicate ai podcast in Studio e test A/B dei titoli",
+    "source": "TechCrunch (23-09-2026), Medianama, The AI Insider, YouTube Creators",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-09-23",
+    "brief": "All'evento Made on YouTube del 23 settembre YouTube ha presentato nuovi strumenti AI per creator in Studio. Per i podcast ci sono analytics dedicate: visualizzazioni, tempo di visione, durata media, momenti chiave di retention, fonti di traffico e contenuti top. Segnalato anche il test A/B dei titoli. Notizia di una decina di giorni fa, non di oggi.",
+    "angles": [
+      "Leggere i dati del tuo podcast: quale numero guardare davvero",
+      "Dove la gente smette di ascoltare e cosa farci",
+      "Titoli: come ragionare prima di testarli"
+    ],
+    "hooks": [
+      "Pubblichi episodi e non guardi mai le statistiche? Ora YouTube ti mostra dove la gente se ne va.",
+      "Hai un titolo di episodio che ti sembra geniale solo a te? Si può testare.",
+      "Ti chiedi perché nessuno arriva a metà episodio? C'è un grafico apposta, e fa un po' male."
+    ]
+  },
+  {
+    "id": "audacity-4-0-rilasciato",
+    "title": "Audacity 4.0 è uscito: nuova interfaccia Qt6, editing dei clip migliorato, nuovo formato .aup4; poi il 4.0.1 con le correzioni",
+    "source": "OMG! Ubuntu, Phoronix, Engadget, 9to5Linux (settembre 2026)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-09-03",
+    "brief": "Audacity 4.0 è stato rilasciato il 3 settembre 2026, il più grande aggiornamento dalla 3.0. Interfaccia in Qt6 con tema chiaro e scuro, workspace personalizzabili, spostamento e trim di più clip insieme, raggruppamento e strumento di divisione dedicato. I vecchi progetti .aup3 si aprono e si convertono in .aup4. Non è del tutto compatibile con le funzioni della serie 3.x: il 4.0.1 ne ripristina alcune. Notizia di un mese fa, non di giornata.",
+    "angles": [
+      "Editor gratuito per iniziare: Audacity 4 basta per un primo podcast?",
+      "Convertire i vecchi progetti: cosa controllare prima",
+      "Gratis contro a pagamento: quando conviene cambiare editor"
+    ],
+    "hooks": [
+      "Hai paura di montare il tuo primo episodio con un programma da esperti? Audacity è gratis ed è appena stato rifatto.",
+      "Hai ancora il vecchio Audacity che sembra del 2008? Beh, lo era un po'.",
+      "Pensi di dover pagare un abbonamento per tagliare due respiri? Non per forza."
+    ]
+  },
+  {
+    "id": "edison-ai-host-66-percento",
+    "title": "Edison Research: il 66% degli ascoltatori USA si sentirebbe ingannato, deluso o tradito se il suo podcast preferito passasse a un host AI",
+    "source": "Radio Ink (01-10-2026), Talkers (01-10-2026), Edison Research",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-10-01",
+    "brief": "Un'indagine Edison sugli ascoltatori settimanali di podcast negli USA: il 66% proverebbe sentimenti negativi (ingannato, arrabbiato, scettico, tradito) se l'host preferito diventasse AI. A giugno il rapporto Podcast Consumer 2026 aveva già indicato la voce AI come host come l'uso di produzione meno apprezzato. Sono dati di sondaggio su pubblico USA, non sul mercato italiano.",
+    "angles": [
+      "Voce clonata o voce tua: perché la persona conta più del montaggio",
+      "Usare l'AI per pulire l'audio sì, per sostituirti no",
+      "Dichiarare sempre cosa è fatto con l'AI"
+    ],
+    "hooks": [
+      "Pensi di far leggere i tuoi episodi a una voce AI per risparmiare tempo? Chi ti ascolta se ne accorge.",
+      "Hai paura che la tua voce non sia abbastanza bella? È la parte che la gente cerca.",
+      "Usi l'AI per ripulire il rumore di fondo? Ottimo, quella è la parte che puoi delegare."
+    ]
+  },
+  {
+    "id": "podcast-study-2026-host-fiducia",
+    "title": "The Podcast Study 2026: per l'82% degli ascoltatori l'host è gran parte del motivo per cui ascoltano il podcast preferito",
+    "source": "Podnews (comunicato), Inside Audio Marketing, Podcast Advertising (settembre 2026); sponsor Crooked Media, NPR, PRX",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-09",
+    "brief": "Studio su 1.205 consumatori di podcast USA: per l'82% l'host è una parte importante o l'unico motivo di ascolto, il 56% smetterebbe o ci penserebbe seriamente se l'host se ne andasse, l'88% passa metà del tempo di ascolto con un solo podcast preferito. Data esatta di pubblicazione non verificata (settembre 2026). Dati americani e commissionati da editori: indicativi per l'Italia, non misurati qui.",
+    "angles": [
+      "Il formato conta, ma conta di più chi parla: lavora sulla tua voce",
+      "Un podcast preferito per ascoltatore: meglio profondità o frequenza?",
+      "Come far emergere la tua personalità nei primi cinque minuti"
+    ],
+    "hooks": [
+      "Hai paura di sembrare banale al microfono? Gli ascoltatori restano per chi parla, non per il format.",
+      "Stai copiando lo stile di un podcast famoso? Funziona solo se ci metti la tua faccia, anzi la tua voce.",
+      "Pensi che servano mille podcast per crescere? La maggior parte della gente ne ascolta uno solo."
     ]
   }
 ]

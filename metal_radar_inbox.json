@@ -1,47 +1,56 @@
 [
   {
     "id": "amon-amarth-allfather-awakens",
-    "title": "Amon Amarth, \"The Allfather Awakens\" in uscita venerdì 2 ottobre su Metal Blade",
-    "source": "Metal Connect",
+    "title": "Amon Amarth, \"The Allfather Awakens\" esce oggi 2 ottobre su Metal Blade",
+    "source": "Metal Connect, Loudwire (calendario uscite)",
     "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "Il nuovo album dei vichinghi del melodic death metal è tra le uscite più attese del New Music Friday del 2 ottobre.",
+    "date": "2026-10-02",
+    "brief": "Il nuovo album dei vichinghi del melodic death metal è tra le uscite del 2 ottobre secondo il calendario Loudwire.",
     "tipo": "album"
   },
   {
-    "id": "uscite-2-ottobre-metalcore",
-    "title": "Uscite del 2 ottobre: Wage War \"Landfall\", Miss May I \"No Place For Me\", Butcher Babies \"Nightbloom\", Imminence",
-    "source": "Metal Connect, ricerca web",
+    "id": "uscite-2-ottobre-hard-heavy",
+    "title": "Altre uscite del 2 ottobre: Dead Poet Society \"Monarch\", Brymir \"What We Leave Behind\", Butcher Babies \"Nightbloom\", Escape The Fate \"The Last Goodbye\"",
+    "source": "Loudwire (2026 Hard Rock + Metal Album Release Calendar)",
     "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "Giornata ricca per il metalcore: Wage War, Miss May I (Solid State), Imminence e Butcher Babies, più Swans fuori genere.",
+    "date": "2026-10-02",
+    "brief": "Dal calendario: Spinefarm, Napalm, Judge & Jury e Big Noise sono le etichette. Giudizi sulla qualità non verificati.",
     "tipo": "album"
   },
   {
-    "id": "megadeth-farewell-italia-2027",
-    "title": "Megadeth, tour d'addio europeo con Testament e Black Label Society: Assago (Unipol Forum) il 17 aprile 2027",
-    "source": "ricerca web (pagina non aperta)",
+    "id": "uscite-9-16-ottobre",
+    "title": "Prossime uscite: 9 ottobre Graveyard \"Fever\" e HateSphere \"Guillotine\"; 16 ottobre Insomnium \"Netherworlds\"",
+    "source": "Loudwire (calendario uscite)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-02",
+    "brief": "Date da calendario: Graveyard (Nuclear Blast), HateSphere (Scarlet) il 9 ottobre; Insomnium (Century Media) il 16 ottobre. Il 23 ottobre sono indicati anche Entheos e Dragonland.",
+    "tipo": "album"
+  },
+  {
+    "id": "milano-13-ottobre-behemoth",
+    "title": "Milano, 13 ottobre: Behemoth, Dimmu Borgir e Dark Funeral dal vivo",
+    "source": "elenchi concerti (ricerca web)",
     "affidabilita": "segnale debole",
-    "date": "2026-09-30",
-    "brief": "Fra le date europee del tour d'addio spunta Milano/Assago il 17 aprile 2027. Singola fonte, data da confermare su sito ufficiale o ticketing.",
+    "date": "2026-10-02",
+    "brief": "Data indicata in agenda concerti; singola fonte aggregata, luogo e biglietti da verificare. Il 14 ottobre sono indicati a Milano anche Europe e The Damn Truth.",
     "tipo": "concerto"
+  },
+  {
+    "id": "nevermore-tour-2027",
+    "title": "Nevermore annunciano il tour europeo \"Liminal Spaces\" nel 2027",
+    "source": "ricerca web (singola fonte)",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-02",
+    "brief": "Annuncio del tour da headliner in Europa; date italiane non reperite, da verificare sui canali ufficiali della band.",
+    "tipo": "tour"
   },
   {
     "id": "manowar-bergamo-2027",
-    "title": "Manowar tornano in Italia: 26 e 27 marzo 2027 al ChorusLife Arena di Bergamo",
-    "source": "Metal Hammer Italia, TrueMetal (luglio 2026)",
+    "title": "Manowar a Bergamo (ChorusLife Arena) il 26 e 27 marzo 2027",
+    "source": "Metal Hammer Italia, TrueMetal (luglio 2026, già nel radar)",
     "affidabilita": "secondaria",
     "date": "2026-07-15",
-    "brief": "Due serate dopo 14 anni: la prima con \"Kings of Metal\" per intero, la seconda con \"Fighting the World\". Non è una notizia di giornata.",
-    "tipo": "concerto"
-  },
-  {
-    "id": "tour-italia-2027-altri",
-    "title": "Altre date 2027 in Italia: Electric Callboy (22 febbraio, Milano), Rhapsody of Fire (29 gennaio, Alcatraz), Sabaton (19 aprile, Unipol Forum)",
-    "source": "ricerca web (concerts50, travel2concert)",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-30",
-    "brief": "Elenco aggregato di date italiane già annunciate per il 2027; da verificare su biglietterie ufficiali prima di usarle.",
+    "brief": "Promemoria, non notizia di giornata: due serate in Italia a marzo 2027, con date già riportate in precedenza.",
     "tipo": "concerto"
   }
 ]

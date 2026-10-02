@@ -1,5 +1,60 @@
 [
   {
+    "id": "game-store-day-2026",
+    "title": "Game Store Day 2026 (7 novembre): quasi 300 negozi e circa 60 editori con un box promozionale",
+    "source": "boardgamewire.com (01-10-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-10-01",
+    "brief": "Secondo BoardGameWire sono 297 i retailer iscritti, già sopra il totale dell'anno scorso, e circa 60 editori hanno dato giochi per il box. Dato riportato da GAMA/Jamie Mathy.",
+    "tipo": "evento/retail",
+    "mercato": "estero",
+    "rilevanza": "Per un designer: canale di visibilità per editori piccoli e promo game."
+  },
+  {
+    "id": "essen-2026-anteprime",
+    "title": "SPIEL Essen 2026 (22-25 ottobre): anteprime di Dying Light (Glass Cannon), Match My Beat (Jumbo), Syncanite Foundation",
+    "source": "spiel-essen.de (ricerca web)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-01",
+    "brief": "Annunci degli espositori in vista della fiera. Elenco parziale, desunto dai risultati di ricerca.",
+    "tipo": "fiera",
+    "mercato": "estero",
+    "rilevanza": "La fiera dove si incontrano editori e si vedono i trend; utile per pianificare pitch."
+  },
+  {
+    "id": "maestro-media-rolling-deep",
+    "title": "Maestro Media: Rolling Deep (ispirato a Balatro) oltre 700.000 dollari; adattamenti di Baba Is You e Party House",
+    "source": "boardgamewire.com (ricerca web)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-01",
+    "brief": "Intervista a Nick Murray su adattamenti da videogioco a tavolo. La data esatta dell'articolo non è verificata.",
+    "tipo": "editore/trend",
+    "mercato": "estero",
+    "rilevanza": "Trend: videogiochi trasposti in gioco da tavolo."
+  },
+  {
+    "id": "ttgda-benchmark-contratti",
+    "title": "TTGDA lancia un benchmark sui contratti degli editori verso i designer",
+    "source": "boardgamewire.com (11-08-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-08-11",
+    "brief": "Notizia più vecchia, ancora valida: punteggio comparativo dei contratti standard offerti dagli editori. Oltre 48 ore.",
+    "tipo": "contratti/autori",
+    "mercato": "estero",
+    "rilevanza": "Strumento per valutare le condizioni prima di firmare."
+  },
+  {
+    "id": "brotherwise-shelfy",
+    "title": "Brotherwise lancia Shelfy: scatole miniatura da collezione con 20 editori (AEG, Devir, Stronghold e altri)",
+    "source": "boardgamewire.com (08-07-2026)",
+    "affidabilita": "primaria",
+    "date": "2026-07-08",
+    "brief": "Notizia vecchia, ancora valida come segnale: i giochi da tavolo trattati come brand da collezione. Oltre 48 ore.",
+    "tipo": "licensing/merchandising",
+    "mercato": "estero",
+    "rilevanza": "Un editore del catalogo può avere nuove vie di esposizione."
+  },
+  {
     "id": "pili-pili-lussemburgo",
     "title": "Pili Pili è il gioco dell'anno dei caffè in Lussemburgo; ATM Gaming è stata acquisita da Asmodee",
     "source": "boardgamewire.com (30-09-2026)",
@@ -33,17 +88,6 @@
     "rilevanza": "Stato di salute dei publisher a cui si propongono i prototipi."
   },
   {
-    "id": "werewolves-emmy",
-    "title": "La versione TV di Werewolves of Miller's Hollow ottiene una nomination agli International Emmy",
-    "source": "boardgamewire.com (29-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-29",
-    "brief": "L'adattamento TV a dimensione reale del gioco di Zygomatic ottiene una nomination.",
-    "tipo": "licensing",
-    "mercato": "estero",
-    "rilevanza": "Un gioco diventa IP televisiva."
-  },
-  {
     "id": "dsv-games",
     "title": "DSV Games, nata tre anni fa, ottiene tre nomination ai premi olandesi",
     "source": "boardgamewire.com (29-09-2026)",
@@ -53,17 +97,6 @@
     "tipo": "editore",
     "mercato": "estero",
     "rilevanza": "Un nuovo editore da osservare."
-  },
-  {
-    "id": "card-kingdom-acquisizione",
-    "title": "Card Kingdom in acquisizione da parte di ZMC Subsidiary, chiusura attesa a fine settembre",
-    "source": "ricerca web (fonte singola)",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-30",
-    "brief": "Segnale di consolidamento nel retail di carte. Fonte singola.",
-    "tipo": "acquisizione",
-    "mercato": "estero",
-    "rilevanza": "Retail in movimento."
   },
   {
     "id": "acd-aridnyk",
@@ -82,10 +115,65 @@
     "source": "idea-g.it",
     "affidabilita": "primaria",
     "date": "2026-10-01",
-    "brief": "Terza edizione dell'incontro locale per autori di giochi. Dopo IDEAG Milano del 19-20 settembre, restano altri appuntamenti locali nel calendario 2026 (Padova, Bari, Roma e altri).",
+    "brief": "Terza edizione dell'incontro locale per autori di giochi. Nel 2026 si sono già svolti IDEAG Nazionale (Parma, 9-11 gennaio), Padova (16-17 maggio), Bari (30-31 maggio) e Milano (19-20 settembre). Altre date vanno verificate su idea-g.it.",
     "tipo": "IdeaG",
     "mercato": "italia",
     "rilevanza": "Occasione di playtest e incontro con editori per autori emergenti."
+  },
+  {
+    "id": "ghenos-dv-ottobre",
+    "title": "Ghenos e dV Games a ottobre: Odino (2/10), Kronologic Babylon 2500 (9/10), Wingspan nuova edizione (16/10), Blabladà e Raindrops (27/10)",
+    "source": "Nerdgames, Metropolitan Magazine (ricerca web)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-26",
+    "brief": "Calendario delle uscite secondo le fonti italiane; le date possono cambiare. Oltre 48 ore.",
+    "tipo": "catalogo",
+    "mercato": "italia",
+    "rilevanza": "Cosa localizzano e pubblicano gli editori: aiuta a capire cosa cercano."
+  },
+  {
+    "id": "asmodee-italia-ottobre",
+    "title": "Asmodee Italia ottobre: Blankat, Mozaik, Toy Battle La Croisette (2/10), Star Wars Unlimited Mondi di Origine, Dixit Signature (9/10)",
+    "source": "GameScore, geek.pizza (27-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-27",
+    "brief": "Elenco delle uscite di ottobre, in gran parte localizzazioni. Oltre 48 ore.",
+    "tipo": "localizzazioni",
+    "mercato": "italia",
+    "rilevanza": "Il grande publisher punta su family, party e licenze."
+  },
+  {
+    "id": "lucca-editori-games",
+    "title": "Lucca 2026 Games (28 ottobre-1 novembre): Ravensburger con Horrified Ravenloft e Labyrinth x Carcassonne, Asmodee con Toy Battle, Defenders of Hogwarts in anteprima mondiale",
+    "source": "SpazioGames, Itakon (ricerca web)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-01",
+    "brief": "Annunci degli editori presenti. Defenders of Hogwarts è atteso in distribuzione per primavera 2027 secondo la fonte. Nota: alcune fonti riportano date diverse per Asmodee (dal 25/10).",
+    "tipo": "fiera/editori",
+    "mercato": "italia",
+    "rilevanza": "Chi sarà presente a Lucca: mappa degli editori da avvicinare."
+  },
+  {
+    "id": "lucca-games-cafe-paolo-mori",
+    "title": "Lucca 2026: Paolo Mori premiato Designer dell'anno; Games Cafe con Daggerheart Multi-Table (30/10) e D&D Epic (31/10)",
+    "source": "SpazioGames (ricerca web)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-01",
+    "brief": "Programma del Games Cafe e premio a Mori. Conferma il dato già nel radar.",
+    "tipo": "evento",
+    "mercato": "italia",
+    "rilevanza": "Spazi di playtest e networking."
+  },
+  {
+    "id": "mario-cortese-gateongames",
+    "title": "Mario Cortese: CEO di DungeonDice e GateOnGames, editore dal 2015 (oltre 20 giochi originali e 45 localizzati)",
+    "source": "n3rdcore.it, infoludiche.org (ricerca web)",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-02",
+    "brief": "Profilo, non notizia nuova: GateOnGames cerca autori di talento per sviluppare giochi per il mercato italiano e internazionale. In un'intervista, Cortese esprime l'opinione che le fiere italiane siano troppo care e poco incisive sul B2B (opinione, data intervista non verificata). Numeri dichiarati dalle fonti.",
+    "tipo": "persone/editori",
+    "mercato": "italia",
+    "rilevanza": "Contatto chiave per pitch di prototipi in Italia."
   },
   {
     "id": "novita-settimana-28-set",
@@ -97,28 +185,6 @@
     "tipo": "uscite",
     "mercato": "italia",
     "rilevanza": "Cosa propongono ora gli editori italiani."
-  },
-  {
-    "id": "dv-ghenos-autunno",
-    "title": "Autunno 2026: dV Games e Ghenos Games annunciano le novità (Super Boss Monster, Tilt, Vincono i Verdi, Odino), nuovo logo",
-    "source": "geek.pizza, Metropolitan Magazine (19-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-19",
-    "brief": "Ghenos con Super Boss Monster l'11 settembre e altri titoli il 25; dV Games con Tilt il 18. Notizia di oltre 48 ore.",
-    "tipo": "catalogo",
-    "mercato": "italia",
-    "rilevanza": "Linee editoriali in vista del Natale."
-  },
-  {
-    "id": "asmodee-italia-settembre",
-    "title": "Asmodee Italia: Ticket to Ride Primo Viaggio Europa, The Vale of Eternity Curse, Black Orchestra, Unlock! New Game Adventures",
-    "source": "geek.pizza, Nerdgames (25-09-2026)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-25",
-    "brief": "Il catalogo di settembre include diverse localizzazioni. Oltre 48 ore.",
-    "tipo": "localizzazioni",
-    "mercato": "italia",
-    "rilevanza": "Cosa localizza il grande publisher."
   },
   {
     "id": "atlantis-burning-skies",

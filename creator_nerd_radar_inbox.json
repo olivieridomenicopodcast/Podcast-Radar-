@@ -1,21 +1,39 @@
 [
   {
-    "id": "lucca-60-creator-ospiti",
-    "title": "Lucca Comics & Games 2026: tra gli ospiti 400+ nomi del fumetto e dei media, la community creator si prepara",
-    "source": "Fumettologica, Sky TG24",
+    "id": "moroni-caffettino-lucca",
+    "title": "Mario Moroni (Il Caffettino) porta a Lucca la graphic novel 'Achille & KiPI - I Disconnessi di m1RC'",
+    "source": "Sugarpulp / Lucca Comics & Games 2026 (ricerca web)",
     "affidabilita": "segnale debole",
-    "date": "2026-09-24",
-    "brief": "Gli annunci riguardano soprattutto autori e media; i nomi dei creator italiani non sono stati verificati nelle fonti trovate.",
-    "rilevanza": "Per i creator nerd è l'appuntamento per collaborazioni e contenuti di fine ottobre."
+    "date": "2026-10-01",
+    "brief": "Secondo la fonte, il creator del podcast Il Caffettino presenta a Lucca (28 ottobre-1 novembre 2026) un progetto a fumetti nato dalla sua community. La descrizione 'evoluzione naturale di una community' è parola del progetto, non una verifica indipendente. Fonte singola, data di pubblicazione non verificata nelle 48h.",
+    "rilevanza": "Esempio di creator che trasforma la community in prodotto editoriale a fumetti."
   },
   {
-    "id": "aci-comics-games-zeronikib",
-    "title": "Aci Comics & Games 2026 (18-20 settembre): Zeronikib co-presentatrice",
-    "source": "Do it Nerd",
+    "id": "casa-abis-lucca60",
+    "title": "Casa Abis (Gabriele Abis e Stella Falchi) tra gli ospiti games di Lucca 2026",
+    "source": "SpazioGames, Itakon (ricerca web)",
     "affidabilita": "segnale debole",
-    "date": "2026-09-18",
-    "brief": "La creator legata al gaming ha co-presentato la quarta edizione. L'evento è di oltre 48 ore fa.",
-    "rilevanza": "Esempio di creator che diventano volti di fiere locali."
+    "date": "2026-10-01",
+    "brief": "Il duo, citato con oltre 2,5 milioni di follower e 400+ giochi in collezione secondo la fonte, parlerà del piacere dei giochi da tavolo a Lucca. Cifre non verificate in modo indipendente.",
+    "rilevanza": "Creator da tavolo con grande pubblico: segnale di quanto i creator pesino nel programma ufficiale."
+  },
+  {
+    "id": "lucca-videogiochi-ospiti",
+    "title": "Lucca 2026 videogiochi: Yoshinori Kitase, Hideki Kamiya, Charles Cecil tra gli ospiti",
+    "source": "Multiplayer.it, Techprincess, Il Videogiocatore (28-09-2026)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-28",
+    "brief": "Il programma videogiochi dell'edizione dei 60 anni include Q&A e masterclass con Kitase (Final Fantasy VII) e Kamiya (nuovo Okami). Notizia di circa 4 giorni fa; i creator italiani coinvolti non sono stati verificati.",
+    "rilevanza": "Occasione di contenuti e interviste per i creator gaming italiani a Lucca."
+  },
+  {
+    "id": "yotobi-late-show-3",
+    "title": "Yotobi: Late Show stagione 3 annunciato dal 3 ottobre con nuovo studio",
+    "source": "Ricerca web (fonte singola)",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-02",
+    "brief": "Un risultato di ricerca indica la prima puntata della terza stagione del Late Show di Yotobi il 3 ottobre, con nuovo studio e nuova sigla. Non confermato da canali ufficiali nelle mie verifiche.",
+    "rilevanza": "Format talk di un creator affermato: da seguire per ospiti e crossover nerd."
   },
   {
     "id": "festival-nerd-manfredonia",
@@ -23,7 +41,16 @@
     "source": "festivaldelnerd.com, foggiatoday.it",
     "affidabilita": "secondaria",
     "date": "2026-09-26",
-    "brief": "Già nel radar precedente: festival di provincia con creator nazionali ospiti.",
+    "brief": "Già nel radar precedente: festival di provincia con creator nazionali ospiti. Data di notizia oltre 48 ore.",
     "rilevanza": "Mostra come i creator animano eventi locali."
+  },
+  {
+    "id": "lucca-60-creator-ospiti",
+    "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre): oltre 400 ospiti tra fumetto e media, con Go Nagai, Frank Miller, Manara, Ortolani, Recchioni",
+    "source": "Sugarpulp, Sky TG24, Corriere Nerd",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "Programma annunciato il 24 settembre (oltre 48 ore). Per i creator è il principale appuntamento di fine ottobre; l'elenco dei creator italiani va ancora verificato.",
+    "rilevanza": "Calendario per collaborazioni e contenuti fumetto/manga."
   }
 ]

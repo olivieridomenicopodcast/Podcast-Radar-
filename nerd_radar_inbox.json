@@ -1,56 +1,56 @@
 [
   {
-    "id": "lucca-2026-ospiti",
-    "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre): oltre 400 ospiti nell'area Comics, tra cui Frank Miller, Hickman, Bendis e Go Nagai",
-    "source": "Fumettologica, Sky TG24, Comicus (settembre 2026)",
+    "id": "essen-spiel-2026-attesi",
+    "title": "Essen Spiel 2026 (22-25 ottobre): oltre 1500 novità stimate, tra i più attesi -60° (Pfister), Rewind e Orcs Up!",
+    "source": "Giochi sul Nostro Tavolo, Goblins.net, Il Puzzillo (28 set-1 ott 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-09-24",
-    "brief": "La 60ª edizione ospita più di 400 ospiti e 80 editori; dal Giappone Go Nagai, Gurihiru, Yuu Watase e Paru Itagaki. Dal cast di Percy Jackson arrivano Walker Scobell, Leah Sava Jeffries e Aryan Simhadri; Square Enix porta Yoshinori Kitase.",
+    "date": "2026-10-01",
+    "brief": "Le date della fiera sono 22-25 ottobre, con oltre 80.000 mq e oltre 200.000 visitatori attesi (stime di preview). Le liste dei titoli più attesi sono opinioni di blog di settore, non dati ufficiali.",
     "tipo": "fiera"
   },
   {
-    "id": "playstation-plus-ottobre",
-    "title": "PlayStation Plus di ottobre 2026: annuncio dei giochi il 30 settembre, disponibili dal 6 ottobre",
-    "source": "Everyeye.it",
-    "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "Sony annuncia il catalogo mensile PS Plus (previsto intorno alle 17:30 italiane); i titoli saranno disponibili per gli abbonati dal 6 ottobre. Il titolo dei giochi non è stato verificato.",
+    "id": "epic-gratis-1-ottobre",
+    "title": "Epic Games Store, giochi gratis dal 1° ottobre: Buried Stars e System Shock 2: 25th Anniversary Remaster",
+    "source": "videogiochitalia.it",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-01",
+    "brief": "Secondo una sola fonte, i due titoli gratuiti della settimana sono Buried Stars e il remaster del 25° anniversario di System Shock 2.",
     "tipo": "annuncio servizio"
   },
   {
-    "id": "uscite-settembre-2026-videogiochi",
-    "title": "Settembre 2026: tra le uscite The Blood of Dawnwalker, Marvel's Wolverine, Onimusha: Way of the Sword e Orbitals su Switch 2",
-    "source": "Everyeye.it, Gamentalk",
+    "id": "grasshopper-indipendente",
+    "title": "Grasshopper Manufacture torna indipendente dall'1 ottobre 2026, chiusa la fase con NetEase Games",
+    "source": "ricerca web (singola fonte)",
     "affidabilita": "segnale debole",
-    "date": "2026-09-30",
-    "brief": "Elenco di uscite di settembre secondo siti di settore; date precise per ciascun titolo non verificate.",
-    "tipo": "uscita videogioco"
+    "date": "2026-10-01",
+    "brief": "Lo studio giapponese risulta tornare indipendente dal 1° ottobre 2026. Singola fonte, da confermare con comunicato ufficiale.",
+    "tipo": "notizia di settore"
   },
   {
-    "id": "toy-battle-la-croisette",
-    "title": "Giochi da tavolo della settimana (28 set-2 ott): Toy Battle - La Croisette, Railway Boom, Nome in Codice (espansioni Fantascienza e Fiabe), Tentar non noce",
-    "source": "geek.pizza (30-09-2026)",
+    "id": "uscite-1-ottobre-2026",
+    "title": "Uscite del 1° ottobre: Ghost of Yotei edizione completa con l'espansione Echi di Sekigahara, MXGP 26, Dynasty Warriors 3 Complete Edition Remastered, End of Abyss",
+    "source": "Everyeye.it, Nextgentech, Vgmag (liste uscite)",
     "affidabilita": "secondaria",
-    "date": "2026-09-30",
-    "brief": "Tra le novità in Italia questa settimana anche Hidden Games, Luminus, Mozaïk e K-POP Kittens; Tentar non noce esce il 2 ottobre (2-20 giocatori, 20 minuti).",
-    "tipo": "gioco da tavolo"
-  },
-  {
-    "id": "witcher-3-remastered",
-    "title": "The Witcher 3: Wild Hunt Remastered disponibile dal 29 settembre su PC e console",
-    "source": "CD PROJEKT RED, Vice, PC Gamer",
-    "affidabilita": "primaria",
-    "date": "2026-09-29",
-    "brief": "Remaster uscito su PS5, Xbox Series X|S, Switch 2 e PC con le due espansioni, upgrade gratuito per chi ha il gioco su piattaforme idonee (già nel radar di ieri).",
+    "date": "2026-10-01",
+    "brief": "Titoli indicati come usciti il 1° ottobre secondo i calendari di settore; ottobre viene presentato come mese ricco (Gears of War: E-Day, Phantom Blade Zero), le date precise non sono state verificate singolarmente.",
     "tipo": "uscita videogioco"
   },
   {
-    "id": "exit-calendario-avvento",
-    "title": "EXIT: Calendario dell'Avvento 2026 - Corsa Intergalattica",
-    "source": "geek.pizza (30-09-2026)",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-30",
-    "brief": "Escape room da tavolo in versione calendario con 24 enigmi, in vista del periodo natalizio. Fonte singola.",
-    "tipo": "gioco da tavolo"
+    "id": "play-festival-2026-novita",
+    "title": "Play Festival del Gioco 2026: svolto il 22-24 maggio, ora a Bologna; iogioco.it raccoglie le novità da tavolo",
+    "source": "IoGioco.it, play-festival.it",
+    "affidabilita": "secondaria",
+    "date": "2026-10-01",
+    "brief": "Promemoria utile per Modena Play: la fiera non è più a Modena Fiere ma a Bologna. L'edizione 2026 si è tenuta a maggio; per il 2027 date non reperite. Non è notizia di giornata.",
+    "tipo": "fiera"
+  },
+  {
+    "id": "lucca-2026-date",
+    "title": "Lucca Comics & Games 2026: 28 ottobre-1 novembre, 60ª edizione",
+    "source": "Fumettologica, Sky TG24 (settembre 2026, già nel radar)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-24",
+    "brief": "Date e ospiti già riportati nelle edizioni precedenti del radar; non è una novità delle ultime 48 ore, mantenuta come promemoria per il calendario fiere.",
+    "tipo": "fiera"
   }
 ]
