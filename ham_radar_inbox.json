@@ -32,14 +32,6 @@
     "brief": "9T0MD (Repubblica Democratica del Congo) è attiva in ottobre, con corrente ripristinata e nuove antenne, EME in arrivo. OG2M opera come 6O2M dalla Somalia dal 5 al 25 ottobre (SSB/CW, 40-10 m). DL2GAC sarà H44MS dalle Salomone dal 3 ottobre al 20 novembre (80-6 m, SSB e FT8). JR1GSE opera da Weno (OC-011) il 1-7 ottobre."
   },
   {
-    "id": "dxpedition-h49a-senegal-italiana",
-    "title": "In arrivo: H49A Salomone (9-21 ottobre) e spedizione italiana in Senegal dal 28 ottobre al 9 novembre",
-    "source": "dx-world.net, 425 DX News",
-    "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "H49A è pianificata per le Isole Salomone dal 9 al 21 ottobre (le fonti precedenti indicavano il 7: date da riconfermare). L'Italian DXpedition Team, con Elvira IV3FSG e Franco I1FQH tra gli altri, sarà in Senegal dal 28 ottobre al 9 novembre."
-  },
-  {
     "id": "hamlib-472-kenwood",
     "title": "Hamlib 4.7.2 aggiunge il Kenwood Hamgeek uSGX e SDRConsole; Hamlib 5 senza data",
     "source": "GitHub Hamlib, wiki Hamlib, Hamweekly",
@@ -48,11 +40,19 @@
     "brief": "L'ultima release Hamlib citata è la 4.7.2, con supporto al modello Kenwood Hamgeek uSGX; SDR Radio SDRConsole è tra i dispositivi supportati. Hamlib 5, con modifiche non retrocompatibili, è in lavorazione senza data. Nessun nuovo annuncio Kenwood verificato nelle ultime 48 ore: la data di rilascio 4.7.2 va controllata sul wiki."
   },
   {
-    "id": "ast-spacemobile-430-440",
-    "title": "FCC autorizza AST SpaceMobile a operazioni TT&C di emergenza in 430-440 MHz fuori dagli USA",
-    "source": "ARRL, IARU",
+    "id": "iaru-r1-uhf-r2-areag-weekend",
+    "title": "Weekend 3-4 ottobre: IARU Region 1 UHF/Microwaves e IARU Region 2 Area G HF SSB",
+    "source": "calendari contest (k6ldf.com Daily Contest Brief e riepiloghi)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-02",
+    "brief": "L'IARU Region 1 UHF/Microwaves Contest è in calendario il 3-4 ottobre, dai 435 MHz alle microonde. Nello stesso fine settimana è indicato l'IARU Region 2 Area G HF SSB Contest. Orari esatti non verificati."
+  },
+  {
+    "id": "fcc-rf-safety-hamlib-award",
+    "title": "FCC apre commenti sulla sicurezza RF; Hamlib premiato Software Award 2026",
+    "source": "ARRL, mvarc.substack.com (News and Notes 2/10/2026)",
     "affidabilita": "segnale debole",
-    "date": "2026-04-21",
-    "brief": "La FCC ha approvato (21 aprile 2026) la licenza AST SpaceMobile per operazioni di emergenza TT&C su frequenze centrali tra 430,5 e 439,5 MHz con 50 kHz di banda, fuori dagli USA. IARU e società membro lavorano sull'applicazione dell'Art. 4.4 del Regolamento ITU. Voce ancora valida, non dell'ultima settimana, fonte singola."
+    "date": "2026-10-02",
+    "brief": "Riepiloghi riportano un public notice FCC per commenti sull'esposizione RF (rinvio del tribunale d'appello del 2021) e il riconoscimento di Hamlib come Amateur Radio Software Award 2026. Dettagli e scadenza dei commenti non verificati: leggere le fonti ARRL."
   }
 ]

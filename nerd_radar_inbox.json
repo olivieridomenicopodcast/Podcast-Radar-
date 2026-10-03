@@ -1,56 +1,47 @@
 [
   {
-    "id": "essen-spiel-2026-attesi",
-    "title": "Essen Spiel 2026 (22-25 ottobre): oltre 1500 novità stimate, tra i più attesi -60° (Pfister), Rewind e Orcs Up!",
-    "source": "Giochi sul Nostro Tavolo, Goblins.net, Il Puzzillo (28 set-1 ott 2026)",
+    "id": "ace-combat-8-uscita",
+    "title": "Ace Combat 8: Wings of Theve esce il 2 ottobre su PC, PS5 e Xbox Series",
+    "source": "Everyeye.it, Gamesource.it (calendari uscite ottobre 2026)",
     "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "Le date della fiera sono 22-25 ottobre, con oltre 80.000 mq e oltre 200.000 visitatori attesi (stime di preview). Le liste dei titoli più attesi sono opinioni di blog di settore, non dati ufficiali.",
-    "tipo": "fiera"
-  },
-  {
-    "id": "epic-gratis-1-ottobre",
-    "title": "Epic Games Store, giochi gratis dal 1° ottobre: Buried Stars e System Shock 2: 25th Anniversary Remaster",
-    "source": "videogiochitalia.it",
-    "affidabilita": "segnale debole",
-    "date": "2026-10-01",
-    "brief": "Secondo una sola fonte, i due titoli gratuiti della settimana sono Buried Stars e il remaster del 25° anniversario di System Shock 2.",
-    "tipo": "annuncio servizio"
-  },
-  {
-    "id": "grasshopper-indipendente",
-    "title": "Grasshopper Manufacture torna indipendente dall'1 ottobre 2026, chiusa la fase con NetEase Games",
-    "source": "ricerca web (singola fonte)",
-    "affidabilita": "segnale debole",
-    "date": "2026-10-01",
-    "brief": "Lo studio giapponese risulta tornare indipendente dal 1° ottobre 2026. Singola fonte, da confermare con comunicato ufficiale.",
-    "tipo": "notizia di settore"
-  },
-  {
-    "id": "uscite-1-ottobre-2026",
-    "title": "Uscite del 1° ottobre: Ghost of Yotei edizione completa con l'espansione Echi di Sekigahara, MXGP 26, Dynasty Warriors 3 Complete Edition Remastered, End of Abyss",
-    "source": "Everyeye.it, Nextgentech, Vgmag (liste uscite)",
-    "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "Titoli indicati come usciti il 1° ottobre secondo i calendari di settore; ottobre viene presentato come mese ricco (Gears of War: E-Day, Phantom Blade Zero), le date precise non sono state verificate singolarmente.",
+    "date": "2026-10-02",
+    "brief": "Secondo i calendari di uscita, il ritorno della serie Bandai Namco dopo sette anni arriva il 2 ottobre; la Digital Deluxe aveva accesso anticipato dal 29 settembre. Nello stesso giorno Disney Epic Mickey: Rebrushed per Switch 2. Fatto da calendari, non verificato su fonte ufficiale.",
     "tipo": "uscita videogioco"
   },
   {
-    "id": "play-festival-2026-novita",
-    "title": "Play Festival del Gioco 2026: svolto il 22-24 maggio, ora a Bologna; iogioco.it raccoglie le novità da tavolo",
-    "source": "IoGioco.it, play-festival.it",
+    "id": "lucca-2026-giochi-da-tavolo",
+    "title": "Lucca Comics & Games 2026 (28 ott-1 nov): annunciate novità da tavolo, tra cui Defenders of Hogwarts in anteprima mondiale",
+    "source": "SpazioGames, Itakon, Asmodee/Ravensburger (via ricerca web)",
     "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "Promemoria utile per Modena Play: la fiera non è più a Modena Fiere ma a Bologna. L'edizione 2026 si è tenuta a maggio; per il 2027 date non reperite. Non è notizia di giornata.",
+    "date": "2026-10-02",
+    "brief": "Secondo SpazioGames, Defenders of Hogwarts debutta a Lucca prima della distribuzione primavera 2027. Citati anche Horrified Ravenloft (Ravensburger), Toy Battle (Asmodee), una versione da tavolo di Tetris (Spin Master). Data di pubblicazione dei singoli articoli non verificata nelle 48 ore: la notizia è di contesto recente.",
     "tipo": "fiera"
   },
   {
-    "id": "lucca-2026-date",
-    "title": "Lucca Comics & Games 2026: 28 ottobre-1 novembre, 60ª edizione",
-    "source": "Fumettologica, Sky TG24 (settembre 2026, già nel radar)",
+    "id": "modena-play-novita-ottobre",
+    "title": "Novità da tavolo dopo PLAY 2026: Bag & Snatch e Orcs Up! in distribuzione a ottobre, Panopticon su Gamefound",
+    "source": "IoGioco.it (via ricerca web)",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-02",
+    "brief": "Fonte singola: secondo IoGioco, Bag & Snatch e Orcs Up! arrivano a ottobre 2026 e Panopticon parte su Gamefound sempre a ottobre. Date esatte non verificate.",
+    "tipo": "gioco da tavolo"
+  },
+  {
+    "id": "cydonia-wonderful-neoran-valley-lucca",
+    "title": "Cydonia e Nara Studio portano a Lucca il roguelite 'Wonderful Neoran Valley' con nuovo trailer",
+    "source": "Ricerca web (Lucca Comics & Games Final Keynote)",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-02",
+    "brief": "Secondo i resoconti del Final Keynote, un nuovo trailer del monster collector ispirato a Pokémon e uno stand con meet & greet quotidiani a Lucca. Fonte singola, data del keynote precedente alle 48 ore.",
+    "tipo": "videogioco indie"
+  },
+  {
+    "id": "essen-spiel-2026-vicina",
+    "title": "Essen Spiel 2026 si avvicina: fiera dal 22 al 25 ottobre",
+    "source": "Giochi sul Nostro Tavolo, Goblins.net (preview)",
     "affidabilita": "secondaria",
-    "date": "2026-09-24",
-    "brief": "Date e ospiti già riportati nelle edizioni precedenti del radar; non è una novità delle ultime 48 ore, mantenuta come promemoria per il calendario fiere.",
+    "date": "2026-10-02",
+    "brief": "Le date 22-25 ottobre sono riportate da più preview di settore. Le liste dei titoli attesi sono opinioni dei blog, non dati ufficiali.",
     "tipo": "fiera"
   }
 ]

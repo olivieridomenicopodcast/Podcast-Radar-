@@ -38,25 +38,6 @@
     ]
   },
   {
-    "id": "video-podcast-italia-trend",
-    "title": "Italia, il 2026 è l'anno del video podcast: registrato in studio e pubblicato insieme su YouTube e Spotify",
-    "source": "Blog di settore italiani (Crescitaly, Scrolling Infinito), ricerca web (settembre 2026)",
-    "affidabilita": "segnale debole",
-    "target": 7,
-    "date": "2026-09",
-    "brief": "Più fonti di commento italiane indicano il video podcast come tendenza dell'anno, con creator come Gianluca Gazzoli che sfruttano YouTube e Spotify insieme. Sono letture di blog e opinioni, non dati: la data esatta di pubblicazione non è verificata (settembre 2026). Un dato indipendente a favore c'è: NielsenIQ dà YouTube prima piattaforma di ascolto in Italia.",
-    "angles": [
-      "Video podcast: serve davvero, o basta partire dall'audio fatto bene?",
-      "Attrezzatura minima per fare video senza sembrare in una videochiamata",
-      "Una registrazione, due formati: audio per le app e video per YouTube"
-    ],
-    "hooks": [
-      "Ti dicono che senza video non esisti? Prima sistema l'audio, poi parliamo della luce.",
-      "Hai un microfono decente ma una stanza che sembra un magazzino? Il video se ne accorge.",
-      "Pensi di dover fare tutto due volte, audio e video? Si registra una volta sola."
-    ]
-  },
-  {
     "id": "youtube-made-on-youtube-podcast-analytics",
     "title": "YouTube, Made on YouTube 2026: analytics dedicate ai podcast in Studio e test A/B dei titoli",
     "source": "TechCrunch (23-09-2026), Medianama, The AI Insider, YouTube Creators",
@@ -114,22 +95,41 @@
     ]
   },
   {
-    "id": "podcast-study-2026-host-fiducia",
-    "title": "The Podcast Study 2026: per l'82% degli ascoltatori l'host è gran parte del motivo per cui ascoltano il podcast preferito",
-    "source": "Podnews (comunicato), Inside Audio Marketing, Podcast Advertising (settembre 2026); sponsor Crooked Media, NPR, PRX",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-09",
-    "brief": "Studio su 1.205 consumatori di podcast USA: per l'82% l'host è una parte importante o l'unico motivo di ascolto, il 56% smetterebbe o ci penserebbe seriamente se l'host se ne andasse, l'88% passa metà del tempo di ascolto con un solo podcast preferito. Data esatta di pubblicazione non verificata (settembre 2026). Dati americani e commissionati da editori: indicativi per l'Italia, non misurati qui.",
+    "id": "apple-podcasts-abbonamenti-video",
+    "title": "Apple Podcasts: il video arriva negli abbonamenti, contenuti esclusivi per chi paga",
+    "source": "Apple Podcasts for Creators (22-09-2026), MacRumors, 9to5Mac (23-09-2026)",
+    "affidabilita": "primaria",
+    "target": 7,
+    "date": "2026-09-22",
+    "brief": "Apple ha annunciato che gli abbonamenti di Apple Podcasts supporteranno il video: i creator potranno offrire episodi esclusivi, versioni senza pubblicità, accesso anticipato e bonus dietro lo stesso paywall dell'audio, in oltre 170 Paesi. Apple sta lavorando con i servizi di hosting e i dettagli dei partner arriveranno nei prossimi mesi, quindi non è ancora disponibile per tutti.",
     "angles": [
-      "Il formato conta, ma conta di più chi parla: lavora sulla tua voce",
-      "Un podcast preferito per ascoltatore: meglio profondità o frequenza?",
-      "Come far emergere la tua personalità nei primi cinque minuti"
+      "Video e audio nello stesso feed: serve davvero registrare tutto in video?",
+      "Abbonamenti: non ti servono per iniziare, ma conviene sapere che esistono",
+      "Prima del video, il suono: perché l'audio resta la base"
     ],
     "hooks": [
-      "Hai paura di sembrare banale al microfono? Gli ascoltatori restano per chi parla, non per il format.",
-      "Stai copiando lo stile di un podcast famoso? Funziona solo se ci metti la tua faccia, anzi la tua voce.",
-      "Pensi che servano mille podcast per crescere? La maggior parte della gente ne ascolta uno solo."
+      "Hai appena aperto un podcast e già ti dicono che serve il video? Respira.",
+      "Pensi di dover fare tutto in video per esistere? Apple ha appena aggiunto un'altra opzione, non un obbligo.",
+      "Hai un microfono decente e zero telecamere? Il tuo audio vale ancora, e Apple lo sa."
+    ]
+  },
+  {
+    "id": "descript-sottotitoli-jump-cut-settembre",
+    "title": "Descript, aggiornamento di settembre: sottotitoli rifatti e smussatura dei jump cut in blocco",
+    "source": "Descript changelog (17-09-2026)",
+    "affidabilita": "segnale debole",
+    "target": 5,
+    "date": "2026-09-17",
+    "brief": "Il riepilogo novità di Descript del 17 settembre indica sottotitoli ridisegnati con 18 nuovi preset e 10 animazioni di testo, e la possibilità di smussare tutti i jump cut di una composizione in un colpo solo. Fonte unica (changelog), da verificare prima di consigliarlo.",
+    "angles": [
+      "Montare un podcast a testo: pro e contro per chi inizia",
+      "Sottotitoli sui clip: perché molti guardano senza audio",
+      "Jump cut ovunque: quando il taglio si sente"
+    ],
+    "hooks": [
+      "Hai tagliato un 'ehm' e ora il taglio si sente peggio dell'ehm? Succede.",
+      "Stai montando il tuo primo episodio e ogni taglio fa clic? C'è chi ha pensato anche a questo.",
+      "Hai fatto i sottotitoli a mano per un clip da 30 secondi? Il tuo tempo non è una risorsa infinita, sorry."
     ]
   }
 ]

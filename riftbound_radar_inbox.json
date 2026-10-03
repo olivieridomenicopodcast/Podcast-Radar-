@@ -18,15 +18,6 @@
     "rilevanza": "Chi colleziona può decidere cosa prenotare; chi gioca sa che il Pre-Rift permette di provare il set una settimana prima dell'uscita."
   },
   {
-    "id": "rq-los-angeles-top8-no-kennen",
-    "title": "RQ Los Angeles (25-27 settembre): vince Rengar, Top 8 variegata e nessun Kennen",
-    "source": "riftbound.gg, riftdaily.com, Liquipedia, riftbound.zone",
-    "affidabilita": "secondaria",
-    "date": "2026-09-27",
-    "brief": "Il Regional Qualifier di Los Angeles (2.165 giocatori) è stato vinto da DSG Prismaticism con Rengar, in finale contro Irelia (14-0-2 di record). La Top 8 comprende 2 Irelia, 2 Azir, Master Yi/Wuju Bladesman, Akali, Ornn e Rengar; nessun Kennen, pur molto giocato al giorno 2. Correzione rispetto a note precedenti: la Top 8 non era composta solo da Legend Calm.",
-    "rilevanza": "Chi gioca vede un meta più aperto di quanto sembrasse; Kennen resta molto giocato ma non ha prodotto Top 8."
-  },
-  {
     "id": "meta-tier-list-ottobre",
     "title": "Tier list di ottobre: Kennen in testa per metashare (9%), seguito da Master Yi e Irelia",
     "source": "riftbound.gg, riftdecks.com",
@@ -36,15 +27,6 @@
     "rilevanza": "Chi gioca può usare queste percentuali come base per il side e il mazzo da portare; vanno incrociate con i risultati dei tornei."
   },
   {
-    "id": "post-ban-ekko-recurrent-stacked-deck",
-    "title": "Meta post-ban: fuori Ekko, Recurrent e Stacked Deck per il rilascio globale di Vendetta",
-    "source": "riftbound.gg",
-    "affidabilita": "segnale debole",
-    "date": "2026-09-18",
-    "brief": "Un'analisi di riftbound.gg descrive il metagame dopo il ban di Ekko, Recurrent e Stacked Deck per il rilascio globale di Vendetta (Set 4). Il ban è del 18 settembre come da nostra scheda precedente, ma qui lo riportiamo da fonte singola non ufficiale: confermare sulla pagina ban list di playriftbound.com. Il dominio Calm viene indicato come la sinergia emergente.",
-    "rilevanza": "Chi gioca competitivo deve controllare la ban list ufficiale prima di costruire; chi colleziona nota che Ekko è tra le Legend di punta di Radiance."
-  },
-  {
     "id": "errata-spiritforged-unleashed-vendetta",
     "title": "Errata recente: 8 carte corrette tra Spiritforged, Unleashed e Vendetta",
     "source": "playriftbound.com, riftbound.zone, post ufficiale su X",
@@ -52,5 +34,23 @@
     "date": "2026-09-30",
     "brief": "Riftbound ha pubblicato l'errata più recente con 8 carte (3 Spiritforged, 2 Unleashed, 3 Vendetta, tra cui Astral Heron, Gangplank Naval e Resonating Strike). Sono sistemazioni di formulazione senza cambi di potenza. La data esatta va verificata sulla pagina ufficiale.",
     "rilevanza": "Chi gioca competitivo deve rileggere le carte coinvolte per evitare rulings sbagliati."
+  },
+  {
+    "id": "radiance-legend-ekko-ziggs",
+    "title": "Radiance: Ekko e Ziggs svelati tra le nove Legend del set",
+    "source": "Vice, riftbound.zone, Inven Global",
+    "affidabilita": "secondaria",
+    "date": "2026-10-03",
+    "brief": "Le preview descrivono Ekko come Legend che mette in gioco unità costose in anticipo, ma le perde a fine turno, e Ziggs come Legend a tema Bomb token: quando una Bomb muore danneggia i nemici e innesca le altre. Risultano rivelate tutte e nove le Legend (Seraphine, Evelynn, Ekko, Ziggs, Jarvan IV, Orianna, K'Sante, Mordekaiser, Riven). La data esatta di pubblicazione di ogni articolo non è stata verificata.",
+    "rilevanza": "Chi gioca può pianificare archetipi Bomb/tempo in vista del 23 ottobre; chi colleziona sa che le Legend sono le carte più cercate al lancio."
+  },
+  {
+    "id": "radiance-neeko-ultimate-rare",
+    "title": "Radiance: Neeko prima Champion Unit neutrale e nuova rarità Ultimate Rare",
+    "source": "riftbound.zone, tistaminis (blog negozio)",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-03",
+    "brief": "Secondo le guide di preview, Neeko sarebbe la prima Champion Unit neutrale, giocabile in qualsiasi mazzo, e Radiance introdurrebbe una rarità chase inedita chiamata Ultimate Rare, con 66 carte Showcase su 180. Fonti non ufficiali, da confermare su playriftbound.com; data di pubblicazione non verificata.",
+    "rilevanza": "Una Champion neutrale può entrare in ogni mazzo; per i collezionisti la nuova rarità cambia valore e rapporto di pull."
   }
 ]
