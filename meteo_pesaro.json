@@ -1,40 +1,40 @@
 {
-  "aggiornato": "2026-10-03",
+  "aggiornato": "2026-10-04",
   "citta": "Pesaro (PU), Marche, Italia",
   "fonti": [
     "https://www.3bmeteo.com/meteo/pesaro",
     "https://www.meteo.it/meteo/pesaro-41044",
     "https://www.ilmeteo.it/meteo/pesaro",
-    "https://www.meteogiuliacci.it/meteo/pesaro"
+    "https://www.youmeteo.com/meteo/pesaro/"
   ],
   "previsioni": [
     {
-      "data": "2026-10-03",
-      "giorno": "oggi, sabato",
-      "temp_min_c": 15,
-      "temp_max_c": 23,
-      "condizioni": "Poco nuvoloso, sereno nel pomeriggio e in serata, nessuna precipitazione (da sintesi di ricerca iLMeteo)",
-      "vento": "dato non reperito",
-      "mare": "dato non reperito",
-      "allerta": "dato non reperito; verificare su allertameteo.regione.marche.it"
-    },
-    {
       "data": "2026-10-04",
-      "giorno": "domani, domenica",
+      "giorno": "oggi, domenica",
       "temp_min_c": 14,
       "temp_max_c": 23,
-      "condizioni": "Sereno, probabilità di pioggia 0% (da sintesi di ricerca)",
+      "condizioni": "Sereno e molto soleggiato, alta pressione, nessuna precipitazione (da sintesi di ricerca)",
       "vento": "dato non reperito",
       "mare": "dato non reperito",
       "allerta": "dato non reperito; verificare su allertameteo.regione.marche.it"
     },
     {
       "data": "2026-10-05",
-      "giorno": "dopodomani, lunedì",
-      "temp_min_c": 12,
-      "temp_max_c": 23,
-      "condizioni": "Sereno, circa 11 ore di sole; massima indicata fino a 24 (da sintesi di ricerca)",
+      "giorno": "domani, lunedì",
+      "temp_min_c": 16,
+      "temp_max_c": 24,
+      "condizioni": "Parzialmente nuvoloso, nessuna precipitazione (da sintesi di ricerca)",
       "vento": "dato non reperito",
+      "mare": "dato non reperito",
+      "allerta": "dato non reperito; verificare su allertameteo.regione.marche.it"
+    },
+    {
+      "data": "2026-10-06",
+      "giorno": "dopodomani, martedì",
+      "temp_min_c": 16,
+      "temp_max_c": 22,
+      "condizioni": "Nuvolosità in aumento, debole pioggia nel pomeriggio (circa 1 mm) (da sintesi di ricerca)",
+      "vento": "Da Est-Nordest nel pomeriggio (velocità dato non reperito)",
       "mare": "dato non reperito",
       "allerta": "dato non reperito; verificare su allertameteo.regione.marche.it"
     }

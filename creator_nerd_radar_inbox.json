@@ -1,38 +1,47 @@
 [
   {
-    "id": "lucca-live-show-ambassador",
-    "title": "Lucca Comics & Games Live Show: Cydonia, Escilgioco, Claudio Di Biagio, Martina Levato e CKibe sul canale Twitch ufficiale",
-    "source": "LuccaInDiretta, Sugarpulp (via ricerca web)",
+    "id": "romics-2026-creator-meet-greet",
+    "title": "Romics 2026 (1-4 ottobre): meet & greet con Sio (Scottecs), J0k3R, Cicciogamer, Yakinop, Michele Molteni e altri creator",
+    "source": "Sky TG24, Eroica Fenice, Do it Nerd, Canale Dieci (via ricerca web)",
     "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Cinque giorni di diretta (28 ott-1 nov) condotti da questi creator. Annuncio del programma di fine settembre; ripreso da più testate.",
-    "tipo": "Mostra come Lucca affidi la copertura ufficiale a creator italiani."
+    "date": "2026-10-03",
+    "brief": "Il festival romano del fumetto è in corso fino al 4 ottobre. Il programma prevede incontri con Sio, popolare fumettista e youtuber del canale Scottecs, e sessioni meet & greet con J0k3R (venerdì 2 ottobre mattina) e con creator come Cicciogamer, Yakinop, Michele Molteni, 151eg, Lorenzo Prattico, Cartonacci e Luca Bellagamba.",
+    "tipo": "Mostra il peso dei creator nei festival di fumetto e cultura nerd, accanto agli autori tradizionali."
   },
   {
-    "id": "cydonia-neoran-valley",
-    "title": "Cydonia con Nara Studio e Day4Night: 'Wonderful Neoran Valley' a Lucca con trailer e meet & greet",
-    "source": "Resoconti Final Keynote Lucca (via ricerca web)",
+    "id": "romics-2026-chiusura-numeri",
+    "title": "Romics 2026 chiude a Roma con oltre 450 espositori e più di 300 eventi",
+    "source": "La Capitale (via ricerca web)",
     "affidabilita": "segnale debole",
-    "date": "2026-10-02",
-    "brief": "Un creator che passa dalla community al prodotto videoludico, con stand dedicato. Fonte singola, data non verificata nelle 48 ore.",
-    "tipo": "Esempio di creator-publisher."
+    "date": "2026-10-04",
+    "brief": "Una testata riporta i numeri di chiusura dell'edizione: oltre 450 espositori e più di 300 eventi. Dato di fonte singola, non confrontato con comunicati ufficiali degli organizzatori.",
+    "tipo": "Contesto di pubblico e offerta in cui si muovono i creator presenti in fiera."
   },
   {
-    "id": "casa-abis-lucca",
-    "title": "Casa Abis (Gabriele Abis e Stella Falchi) ospiti games a Lucca 2026",
-    "source": "SpazioGames, Itakon (via ricerca web)",
+    "id": "lucca-community-awards-twitch-7-ottobre",
+    "title": "Lucca Comics & Games: il progetto Community Awards parte in diretta su Twitch il 7 ottobre alle 21:00",
+    "source": "A6 Fanzine, appuntamenti digital Lucca (via ricerca web)",
     "affidabilita": "segnale debole",
-    "date": "2026-10-02",
-    "brief": "Presenti per parlare di giochi da tavolo e cultura pop. Il dato 'oltre 2,5 milioni di follower' è dichiarato dalla fonte, non verificato.",
-    "tipo": "Creator da tavolo come ospiti di punta in una fiera maggiore."
+    "date": "2026-10-04",
+    "brief": "Tra gli appuntamenti digital del festival (28 ottobre-1 novembre) è indicato il lancio live su Twitch dei Community Awards il 7 ottobre alle 21:00. Nello stesso programma: RPG Night Live all'ottava edizione, con Francesco Lancia master e Christian 'Zoltar' Bellomo. Fonte singola: pagina non aperta direttamente, solo estratto di ricerca.",
+    "tipo": "Evento imminente che coinvolge la community e creator di giochi di ruolo su Twitch."
   },
   {
-    "id": "escilgioco-games-stage",
-    "title": "Silvia Escilgioco e Marco Marzocca si alternano sul Games Stage di Lucca60",
-    "source": "Ricerca web (programma Lucca 2026)",
-    "affidabilita": "segnale debole",
-    "date": "2026-10-02",
-    "brief": "Creator ludica sul palco ufficiale dell'area Games. Fonte singola.",
-    "tipo": "Legittimazione dei creator da tavolo nei palinsesti ufficiali."
+    "id": "lucca-games-cafe-live-escilgioco",
+    "title": "Lucca porta per la prima volta i giochi da tavolo in streaming Twitch con 'Games Café Live', condotto da Escilgioco",
+    "source": "SpazioGames, Bleeding Cool, Vergemagazine (via ricerca web)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-03",
+    "brief": "Il nuovo format è presentato come il primo a portare il gioco da tavolo in diretta Twitch a Lucca. Escilgioco lo conduce con altri creator e lo staff Lucca Games. Escilgioco è anche tra i cinque conduttori del Live Show ufficiale (con Cydonia, Claudio Di Biagio, Martina Levato e CKibe), con MediaWorld Studios partner tecnico.",
+    "tipo": "Segnala la crescita del tabletop su Twitch con un festival ufficiale che affida i format a creator italiani."
+  },
+  {
+    "id": "milan-games-week-2026-creator-fumetti-ospiti",
+    "title": "Milan Games Week & Cartoomics 2026 (27-29 novembre, Fiera Milano Rho): programma con creator, cosplay e ospiti internazionali",
+    "source": "Sky TG24, Screenworld, MegaNerd (via ricerca web)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-03",
+    "brief": "Tra gli ospiti annunciati figurano Emily Rudd e Taz Skylar (One Piece Netflix), Steven Ogg, Christopher Judge, Mark Waid e John Romita Jr; il key visual è di Posuka Demizu. L'evento include area creator. Non risultano nuovi annunci specifici sui creator italiani nelle ultime 48 ore: la data della notizia è indicativa.",
+    "tipo": "Calendario fieristico di fine anno in cui i creator italiani cercheranno visibilità."
   }
 ]

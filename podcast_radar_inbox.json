@@ -1,69 +1,107 @@
 [
   {
-    "id": "festival-podcasting-milano-2-3-ottobre",
-    "title": "Festival del Podcasting, decennale a Milano: oggi Industry Day, domani Creator Day aperto al pubblico con workshop e Podcast Pitch",
-    "source": "Milano Finanza (01-10-2026), Sky TG24 (29-09-2026), Media Key, festivaldelpodcasting.it",
-    "affidabilita": "secondaria",
+    "id": "spotify-partner-program-italia",
+    "title": "Spotify Partner Program in arrivo in Italia: tra i 35+ nuovi mercati dell'espansione annunciata il 17 settembre",
+    "source": "Spotify Newsroom (17-09-2026), PodcastingToday, RouteNote, NetInfluencer, SmartWorld",
+    "affidabilita": "primaria",
     "target": 9,
-    "date": "2026-10-01",
-    "brief": "Il Festival del Podcasting festeggia i dieci anni a Cascina Triulza (MIND, Milano) il 2 e 3 ottobre. Il 2 è l'Industry Day, con il nuovo Premio Audioboost per il branded podcast; il 3 è il Creator Day, aperto al pubblico, con live podcast, workshop, panel su discoverability, monetizzazione e distribuzione, e il Podcast Pitch dove gli emergenti presentano il progetto a produttori ed editori. Tra gli sponsor figurano Acast, Audible, Steady e Yamaha.",
+    "date": "2026-09-17",
+    "brief": "Spotify ha annunciato la più grande espansione finora del Partner Program: più di 35 nuovi mercati, Italia compresa, con avvio previsto in autunno. I creator idonei potranno ricevere pagamenti legati al consumo video dei Premium, vendere pubblicità sul piano Free e su altre piattaforme e tenere l'intero incasso delle proprie sponsorizzazioni. I requisiti riportati dalla stampa: 3 episodi pubblicati, 2.000 ore di ascolto e 1.000 ascoltatori coinvolti, più verifica dei contenuti. Date esatte di avvio in Italia e dettagli sui partner di hosting da verificare. Notizia di due settimane fa, non di oggi.",
     "angles": [
-      "Cosa portarti a casa da un festival se sei alle prime armi",
-      "Podcast Pitch: come si presenta un'idea in pochi minuti",
-      "Networking per podcaster timidi"
+      "Partner Program: cosa controllare prima di candidarsi, soglie e requisiti",
+      "Video podcast su Spotify: serve davvero la telecamera per monetizzare",
+      "Sponsorizzazioni proprie contro pubblicità automatica: cosa cambia per un piccolo show"
     ],
     "hooks": [
-      "Hai un podcast ma non hai mai parlato con un altro podcaster? Domani a Milano c'è il posto giusto.",
-      "Pensi che i festival siano roba per i grossi? Il sabato è il Creator Day ed è aperto a tutti.",
-      "Hai un'idea di podcast chiusa in un cassetto? C'è un pitch dove puoi tirarla fuori davanti a chi produce."
+      "Hai un podcast da 200 ascolti e sogni di monetizzare? Prima guarda le soglie, poi i sogni.",
+      "Ti hanno detto che Spotify ora paga anche in Italia? Quasi: arriva in autunno, e con requisiti.",
+      "Registri solo audio e ti senti tagliato fuori? Il programma paga anche per l'ascolto non video, leggi bene."
+    ]
+  },
+  {
+    "id": "festival-podcasting-audioboost-dolomiti",
+    "title": "Festival del Podcasting a Milano: il Premio Audioboost al branded podcast va a \"Dolomiti Sound Stories\"; sabato Creator Day aperto al pubblico",
+    "source": "Media Key, Sky TG24, Fondazione Triulza, CanaleUno (03-10-2026), festivaldelpodcasting.it",
+    "affidabilita": "secondaria",
+    "target": 8,
+    "date": "2026-10-03",
+    "brief": "Il Festival del Podcasting, al decimo anno, si è tenuto il 2 e 3 ottobre a Cascina Triulza (MIND, Milano). Il 2 ottobre, giorno dell'Industry Day, ha debuttato il Premio Audioboost per il miglior branded podcast: ha vinto \"Dolomiti Sound Stories\" (Vois e Dolomiti Supersky), con menzione speciale a \"Noi restiamo qui, giovani storie montanare\", documentario audio del Museo Etnografico Trentino. Il 3 ottobre il Creator Day, aperto al pubblico, con workshop, panel su AI, video podcast e creator economy, e Podcast Pitch.",
+    "angles": [
+      "Branded podcast: cosa insegna un progetto sonoro su una montagna",
+      "Cosa portarsi a casa da un festival quando fai podcast da solo",
+      "Il suono come racconto: perché un documentario audio batte una pubblicità"
+    ],
+    "hooks": [
+      "Pensi che il branded podcast sia solo uno spot lungo? Ha vinto un premio con il suono di una montagna.",
+      "Hai saltato il festival perché 'sono troppo piccolo'? Il Creator Day era aperto a tutti.",
+      "Registri tutto in una stanza e ti sembra poco? Un documentario audio ha preso una menzione speciale, pensaci."
     ]
   },
   {
     "id": "nielseniq-audible-18-5-milioni",
     "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026, YouTube (57%) e Spotify (55%) le piattaforme più usate",
-    "source": "ANSA, Sky TG24, Media Key (30-09-2026), ricerca NielsenIQ per Audible",
+    "source": "ANSA, Sky TG24, Media Key, Spot and Web (30-09-2026), ricerca NielsenIQ per Audible",
     "affidabilita": "primaria",
     "target": 9,
     "date": "2026-09-30",
-    "brief": "Secondo NielsenIQ per Audible, nel 2026 gli italiani che ascoltano podcast sono 18,5 milioni (+3% sul 2025). Ascolto medio: 5 volte al mese, sessioni da 26,9 minuti. Fascia più forte 25-34 anni, e i social sono il primo canale di scoperta. Piattaforme: YouTube 57%, Spotify 55%, Amazon Music 30%, Audible 14%, Apple Music 10%, Spreaker 6%. Altre stime di mercato (es. OBE, 15,5 milioni nel 2025) usano metodologie diverse: i numeri non sono confrontabili tra loro.",
+    "brief": "Secondo NielsenIQ per Audible, nel 2026 gli italiani che ascoltano podcast sono 18,5 milioni (circa +3% sul 2025). Ascolto medio: 5 volte al mese, sessioni da 26,9 minuti. Fascia più forte 25-34 anni, e i social sono la porta d'ingresso principale. Piattaforme: YouTube 57%, Spotify 55%, Amazon Music 30%, Audible 14%, Apple Music 10%, Spreaker 6%. Altre stime di mercato usano metodologie diverse: i numeri non sono confrontabili tra loro.",
     "angles": [
       "Se YouTube è la prima piattaforma, il tuo podcast ha anche una faccia e una copertina?",
-      "I social come canale di scoperta: clip brevi per portare gente all'episodio",
-      "Sessioni da 27 minuti: quanto deve durare un episodio per principianti"
+      "I social come porta d'ingresso: clip brevi per portare gente all'episodio",
+      "Sessioni da 27 minuti: quanto deve durare un episodio per chi inizia"
     ],
     "hooks": [
       "Pensi che nessuno ascolti podcast in Italia? Sono 18 milioni e mezzo, e più della metà usa YouTube.",
-      "Hai un podcast solo su Spotify? Il 57% degli italiani ascolta su YouTube, magari ci passi anche tu.",
+      "Hai un podcast solo su Spotify? Il 57% usa YouTube, magari ci passi anche tu.",
       "Fai episodi da due ore perché 'tanto sono appassionati'? La sessione media dura 27 minuti, fai due conti."
     ]
   },
   {
-    "id": "youtube-made-on-youtube-podcast-analytics",
-    "title": "YouTube, Made on YouTube 2026: analytics dedicate ai podcast in Studio e test A/B dei titoli",
-    "source": "TechCrunch (23-09-2026), Medianama, The AI Insider, YouTube Creators",
+    "id": "edison-podcast-study-2026-fiducia-host",
+    "title": "Edison Podcast Study 2026 (USA): l'82% di chi ha un podcast preferito dice che l'host è una parte importante o l'unico motivo per cui ascolta",
+    "source": "Radio Ink (28-09-2026 e 01-10-2026), Inside Audio Marketing, Edison Research",
     "affidabilita": "secondaria",
-    "target": 7,
-    "date": "2026-09-23",
-    "brief": "All'evento Made on YouTube del 23 settembre YouTube ha presentato nuovi strumenti AI per creator in Studio. Per i podcast ci sono analytics dedicate: visualizzazioni, tempo di visione, durata media, momenti chiave di retention, fonti di traffico e contenuti top. Segnalato anche il test A/B dei titoli. Notizia di una decina di giorni fa, non di oggi.",
+    "target": 8,
+    "date": "2026-10-01",
+    "brief": "Lo studio Edison Research sul pubblico USA indica che il 58% degli americani over 12 ascolta podcast ogni mese e il 45% ogni settimana. Tra chi ha un podcast preferito, l'82% dice che l'host conta molto o è l'unico motivo; l'88% passa almeno metà del tempo di ascolto con quel programma. Il 21% degli ascoltatori settimanali ha dato soldi a un podcast nell'ultimo anno. Un'indagine collegata dice che il 66% proverebbe sensazioni negative se l'host passasse a una versione AI di sé stesso. Sono dati di sondaggio su pubblico USA, non sul mercato italiano.",
     "angles": [
-      "Leggere i dati del tuo podcast: quale numero guardare davvero",
-      "Dove la gente smette di ascoltare e cosa farci",
-      "Titoli: come ragionare prima di testarli"
+      "La voce conta più del montaggio: cosa significa per chi registra da solo",
+      "Usare l'AI per pulire l'audio sì, per sostituire la tua voce no",
+      "Pubblico che dona: perché le persone pagano per un host, non per un feed"
     ],
     "hooks": [
-      "Pubblichi episodi e non guardi mai le statistiche? Ora YouTube ti mostra dove la gente se ne va.",
-      "Hai un titolo di episodio che ti sembra geniale solo a te? Si può testare.",
-      "Ti chiedi perché nessuno arriva a metà episodio? C'è un grafico apposta, e fa un po' male."
+      "Pensi di far leggere gli episodi a una voce AI per risparmiare tempo? Il 66% si sentirebbe preso in giro.",
+      "Hai paura che la tua voce non sia abbastanza bella? Per l'82% è proprio quella il motivo per restare.",
+      "Ti chiedi se qualcuno pagherebbe per il tuo podcast? Un ascoltatore su cinque, negli USA, ha già pagato qualcuno."
+    ]
+  },
+  {
+    "id": "british-podcast-awards-hold-or-fold",
+    "title": "British Podcast Awards 2026: \"Hold or Fold\" di Prison Radio Association è Podcast of the Year",
+    "source": "Radio Today (ottobre 2026), PodcastingToday, Podnews, Irish News",
+    "affidabilita": "secondaria",
+    "target": 6,
+    "date": "2026-10-01",
+    "brief": "Alla decima edizione dei British Podcast Awards, svoltasi giovedì 1 ottobre all'Indigo at The O2 di Londra con 31 categorie, \"Hold or Fold\" della Prison Radio Association (storie di vite toccate dal gioco d'azzardo) ha vinto Podcast of the Year e Best Factual Podcast. Bill Nighy è stato premiato come Best Host per \"ill-advised\". Utile come caso di studio europeo sul racconto fattuale, non su tecnica o strumenti.",
+    "angles": [
+      "Case study: perché una storia fattuale e onesta vince su un format furbo",
+      "Racconto sonoro: cosa insegna un podcast fatto di testimonianze",
+      "Premi e concorsi: ha senso iscriversi con un podcast piccolo"
+    ],
+    "hooks": [
+      "Pensi che per vincere servano nomi famosi? Il premio più alto è andato a un podcast fatto in un carcere.",
+      "Hai una storia vera e non sai come raccontarla? Parti da come la direbbe una persona sola, al microfono.",
+      "Ti blocchi perché il tuo format non è abbastanza originale? A volte basta una storia detta bene."
     ]
   },
   {
     "id": "audacity-4-0-rilasciato",
-    "title": "Audacity 4.0 è uscito: nuova interfaccia Qt6, editing dei clip migliorato, nuovo formato .aup4; poi il 4.0.1 con le correzioni",
+    "title": "Audacity 4.0 è uscito: nuova interfaccia Qt6, editing dei clip migliorato, nuovo formato .aup4",
     "source": "OMG! Ubuntu, Phoronix, Engadget, 9to5Linux (settembre 2026)",
     "affidabilita": "secondaria",
     "target": 7,
     "date": "2026-09-03",
-    "brief": "Audacity 4.0 è stato rilasciato il 3 settembre 2026, il più grande aggiornamento dalla 3.0. Interfaccia in Qt6 con tema chiaro e scuro, workspace personalizzabili, spostamento e trim di più clip insieme, raggruppamento e strumento di divisione dedicato. I vecchi progetti .aup3 si aprono e si convertono in .aup4. Non è del tutto compatibile con le funzioni della serie 3.x: il 4.0.1 ne ripristina alcune. Notizia di un mese fa, non di giornata.",
+    "brief": "Audacity 4.0 è stato rilasciato il 3 settembre 2026, il più grande aggiornamento dalla 3.0. Interfaccia in Qt6 con tema chiaro e scuro, workspace personalizzabili, spostamento e trim di più clip insieme, raggruppamento e strumento di divisione dedicato. I vecchi progetti .aup3 si aprono e si convertono in .aup4. Non è del tutto compatibile con le funzioni della serie 3.x. Notizia di un mese fa, non di giornata.",
     "angles": [
       "Editor gratuito per iniziare: Audacity 4 basta per un primo podcast?",
       "Convertire i vecchi progetti: cosa controllare prima",
@@ -73,63 +111,6 @@
       "Hai paura di montare il tuo primo episodio con un programma da esperti? Audacity è gratis ed è appena stato rifatto.",
       "Hai ancora il vecchio Audacity che sembra del 2008? Beh, lo era un po'.",
       "Pensi di dover pagare un abbonamento per tagliare due respiri? Non per forza."
-    ]
-  },
-  {
-    "id": "edison-ai-host-66-percento",
-    "title": "Edison Research: il 66% degli ascoltatori USA si sentirebbe ingannato, deluso o tradito se il suo podcast preferito passasse a un host AI",
-    "source": "Radio Ink (01-10-2026), Talkers (01-10-2026), Edison Research",
-    "affidabilita": "secondaria",
-    "target": 7,
-    "date": "2026-10-01",
-    "brief": "Un'indagine Edison sugli ascoltatori settimanali di podcast negli USA: il 66% proverebbe sentimenti negativi (ingannato, arrabbiato, scettico, tradito) se l'host preferito diventasse AI. A giugno il rapporto Podcast Consumer 2026 aveva già indicato la voce AI come host come l'uso di produzione meno apprezzato. Sono dati di sondaggio su pubblico USA, non sul mercato italiano.",
-    "angles": [
-      "Voce clonata o voce tua: perché la persona conta più del montaggio",
-      "Usare l'AI per pulire l'audio sì, per sostituirti no",
-      "Dichiarare sempre cosa è fatto con l'AI"
-    ],
-    "hooks": [
-      "Pensi di far leggere i tuoi episodi a una voce AI per risparmiare tempo? Chi ti ascolta se ne accorge.",
-      "Hai paura che la tua voce non sia abbastanza bella? È la parte che la gente cerca.",
-      "Usi l'AI per ripulire il rumore di fondo? Ottimo, quella è la parte che puoi delegare."
-    ]
-  },
-  {
-    "id": "apple-podcasts-abbonamenti-video",
-    "title": "Apple Podcasts: il video arriva negli abbonamenti, contenuti esclusivi per chi paga",
-    "source": "Apple Podcasts for Creators (22-09-2026), MacRumors, 9to5Mac (23-09-2026)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-09-22",
-    "brief": "Apple ha annunciato che gli abbonamenti di Apple Podcasts supporteranno il video: i creator potranno offrire episodi esclusivi, versioni senza pubblicità, accesso anticipato e bonus dietro lo stesso paywall dell'audio, in oltre 170 Paesi. Apple sta lavorando con i servizi di hosting e i dettagli dei partner arriveranno nei prossimi mesi, quindi non è ancora disponibile per tutti.",
-    "angles": [
-      "Video e audio nello stesso feed: serve davvero registrare tutto in video?",
-      "Abbonamenti: non ti servono per iniziare, ma conviene sapere che esistono",
-      "Prima del video, il suono: perché l'audio resta la base"
-    ],
-    "hooks": [
-      "Hai appena aperto un podcast e già ti dicono che serve il video? Respira.",
-      "Pensi di dover fare tutto in video per esistere? Apple ha appena aggiunto un'altra opzione, non un obbligo.",
-      "Hai un microfono decente e zero telecamere? Il tuo audio vale ancora, e Apple lo sa."
-    ]
-  },
-  {
-    "id": "descript-sottotitoli-jump-cut-settembre",
-    "title": "Descript, aggiornamento di settembre: sottotitoli rifatti e smussatura dei jump cut in blocco",
-    "source": "Descript changelog (17-09-2026)",
-    "affidabilita": "segnale debole",
-    "target": 5,
-    "date": "2026-09-17",
-    "brief": "Il riepilogo novità di Descript del 17 settembre indica sottotitoli ridisegnati con 18 nuovi preset e 10 animazioni di testo, e la possibilità di smussare tutti i jump cut di una composizione in un colpo solo. Fonte unica (changelog), da verificare prima di consigliarlo.",
-    "angles": [
-      "Montare un podcast a testo: pro e contro per chi inizia",
-      "Sottotitoli sui clip: perché molti guardano senza audio",
-      "Jump cut ovunque: quando il taglio si sente"
-    ],
-    "hooks": [
-      "Hai tagliato un 'ehm' e ora il taglio si sente peggio dell'ehm? Succede.",
-      "Stai montando il tuo primo episodio e ogni taglio fa clic? C'è chi ha pensato anche a questo.",
-      "Hai fatto i sottotitoli a mano per un clip da 30 secondi? Il tuo tempo non è una risorsa infinita, sorry."
     ]
   }
 ]

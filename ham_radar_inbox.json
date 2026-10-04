@@ -1,58 +1,50 @@
 [
   {
-    "id": "propagazione-2-ottobre-cme",
-    "title": "2 ottobre: G1 minor storm previsto per la CME del 28 settembre, SFI intorno a 95",
-    "source": "NOAA SWPC (via The Watchers e riepiloghi)",
-    "affidabilita": "primaria",
-    "date": "2026-10-02",
-    "brief": "SWPC prevede tempesta geomagnetica G1 il 2 ottobre per gli effetti di sfioramento della CME del 28 settembre, con Kp massimo previsto 4,67 (15-18 UTC). Flusso solare 10,7 cm osservato a 93 il 30 settembre, previsioni 95/95/90 per 1-3 ottobre. Attività solare bassa, probabilità di flare M del 15% al giorno. Possibili degradi sulle alte latitudini e sui percorsi polari."
+    "id": "propagazione-3-ottobre-cme-28-settembre",
+    "title": "3 ottobre: attese attività geomagnetica elevata dopo la CME del 28 settembre, ma nessuna tempesta G1 confermata",
+    "source": "NOAA SWPC (3-Day Geomagnetic Forecast), riepiloghi di EarthSky e iskra.bg",
+    "affidabilita": "secondaria",
+    "date": "2026-10-03",
+    "brief": "Secondo le previsioni NOAA SWPC riportate dai riepiloghi, per il 3 ottobre erano attese per lo più condizioni quiete con possibili periodi attivi, fino al livello G1 (minor), per la combinazione tra la CME del 28 settembre (legata a un'eruzione di filamento) e vento solare veloce da un buco coronale. Un riepilogo indica che il materiale solare è arrivato ma non ha innescato la tempesta G1 attesa. L'indice Ap planetario valutato per il 3 ottobre è 15. Verificare i valori Kp e SFI aggiornati direttamente su swpc.noaa.gov."
   },
   {
-    "id": "oceania-dx-contest-ssb-cw",
-    "title": "Oceania DX Contest: SSB 3-4 ottobre, CW 10-11 ottobre (06:00 UTC-06:00 UTC)",
-    "source": "WIA, calendari contest",
+    "id": "oceania-dx-contest-t32az",
+    "title": "Oceania DX Contest 3-4 ottobre: T32AZ da Kiritimati (Kiribati Orientale) in gara",
+    "source": "DX-World (riepilogo ricerca web)",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-03",
+    "brief": "Secondo DX-World, Ken KH6QJ sarà attivo da Kiritimati (Kiribati Orientale) come T32AZ partecipando all'Oceania DX Contest del 3-4 ottobre e poi all'Arizona QSO Party del 10-11 ottobre. Fonte singola, pagina non apribile direttamente: verificare orari e bande."
+  },
+  {
+    "id": "dxpedition-ottobre-2026-9t0md-h49a-v47fwx",
+    "title": "DXpedition di ottobre: 9T0MD (RD Congo) fino all'11, H49A Isole Salomone 9-21, V47FWX St Kitts 13-20",
+    "source": "DX-World, DX Engineering (onallbands.com)",
+    "affidabilita": "secondaria",
+    "date": "2026-10-03",
+    "brief": "Il Mediterraneo DX Club opera dalla Repubblica Democratica del Congo dal 30 settembre all'11 ottobre con prefisso 9T mai usato prima in aria: CW/SSB/RTTY/FT8, 160-6 m, con supporto di DX Engineering. H49A è annunciata alle Isole Salomone dal 9 al 21 ottobre. G0FWX sarà V47FWX da St Kitts dal 13 al 20 ottobre, operazione tipo vacanza. Nota: una voce precedente indicava H44MS per le Salomone; le fonti qui trovate citano H49A, da verificare."
+  },
+  {
+    "id": "vu4-andaman-cqww-ssb",
+    "title": "VU4 Andaman: DXpedition dal 19 ottobre, in gara al CQ WW SSB per l'India",
+    "source": "DX-World",
+    "affidabilita": "segnale debole",
+    "date": "2026-10-03",
+    "brief": "DX-World riporta che la DXpedition alle Andamane inizierà a trasmettere il 19 ottobre, parteciperà al CQ WW SSB in rappresentanza dell'India e attiverà tre località POTA tra il 27 e il 29 ottobre. Fonte singola: segnale debole in attesa di conferme da pagina ufficiale del team."
+  },
+  {
+    "id": "fcc-hhs-rf-safety-comment",
+    "title": "FCC e HHS aprono periodi di commento sulla sicurezza RF; ARRL: nessun cambio per le regole dei radioamatori",
+    "source": "ARRL, Amateur Radio News and Notes 2/10/2026 (mvarc.substack.com)",
     "affidabilita": "secondaria",
     "date": "2026-10-02",
-    "brief": "La 83a edizione dell'Oceania DX Contest si svolge in due weekend: SSB dalle 06:00 UTC di sabato 3 alle 06:00 UTC di domenica 4 ottobre, CW dal 10 all'11 ottobre. Il DXCC Oceania è il bersaglio; la stazione FW1P ha annunciato partecipazione su 40-10 m."
+    "brief": "La FCC cerca commenti in seguito al rinvio del 2021 della Corte d'Appello USA sugli effetti dell'esposizione a radiofrequenze, e l'HHS ha aperto un analogo periodo di commento. L'ARRL precisa che queste richieste non modificano le attuali regole FCC sull'esposizione RF applicabili ai radioamatori. Scadenze non verificate."
   },
   {
-    "id": "contest-sac-cqww-ssb",
-    "title": "Contest imminenti: Scandinavian Activity SSB 10-11 ottobre, CQ WW DX SSB 24-25 ottobre",
-    "source": "sactest.net, cqww.com, ng3k.com",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Lo Scandinavian Activity Contest SSB va dalle 12:00 UTC del 10 ottobre alle 11:59 UTC dell'11. Il CQ WW DX SSB è dalle 00:00 UTC del 24 alle 23:59 UTC del 25 ottobre. Su ng3k sono già elencate operazioni annunciate per il CQ WW."
-  },
-  {
-    "id": "dxpedition-6o2m-h44ms-9t0md",
-    "title": "DXpedition: 9T0MD (RD Congo) attiva, 6O2M Somalia dal 5 al 25 ottobre, H44MS Isole Salomone dal 3 ottobre",
-    "source": "dx-world.net, 425 DX News",
-    "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "9T0MD (Repubblica Democratica del Congo) è attiva in ottobre, con corrente ripristinata e nuove antenne, EME in arrivo. OG2M opera come 6O2M dalla Somalia dal 5 al 25 ottobre (SSB/CW, 40-10 m). DL2GAC sarà H44MS dalle Salomone dal 3 ottobre al 20 novembre (80-6 m, SSB e FT8). JR1GSE opera da Weno (OC-011) il 1-7 ottobre."
-  },
-  {
-    "id": "hamlib-472-kenwood",
-    "title": "Hamlib 4.7.2 aggiunge il Kenwood Hamgeek uSGX e SDRConsole; Hamlib 5 senza data",
-    "source": "GitHub Hamlib, wiki Hamlib, Hamweekly",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "L'ultima release Hamlib citata è la 4.7.2, con supporto al modello Kenwood Hamgeek uSGX; SDR Radio SDRConsole è tra i dispositivi supportati. Hamlib 5, con modifiche non retrocompatibili, è in lavorazione senza data. Nessun nuovo annuncio Kenwood verificato nelle ultime 48 ore: la data di rilascio 4.7.2 va controllata sul wiki."
-  },
-  {
-    "id": "iaru-r1-uhf-r2-areag-weekend",
-    "title": "Weekend 3-4 ottobre: IARU Region 1 UHF/Microwaves e IARU Region 2 Area G HF SSB",
-    "source": "calendari contest (k6ldf.com Daily Contest Brief e riepiloghi)",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "L'IARU Region 1 UHF/Microwaves Contest è in calendario il 3-4 ottobre, dai 435 MHz alle microonde. Nello stesso fine settimana è indicato l'IARU Region 2 Area G HF SSB Contest. Orari esatti non verificati."
-  },
-  {
-    "id": "fcc-rf-safety-hamlib-award",
-    "title": "FCC apre commenti sulla sicurezza RF; Hamlib premiato Software Award 2026",
-    "source": "ARRL, mvarc.substack.com (News and Notes 2/10/2026)",
+    "id": "wsjtx-320-rc1-jtty",
+    "title": "WSJT-X 3.2.0-rc1 con JTTY, nuovo modo da tastiera per segnali deboli pensato per i contest RTTY",
+    "source": "ARRL (riepilogo ricerca web)",
     "affidabilita": "segnale debole",
     "date": "2026-10-02",
-    "brief": "Riepiloghi riportano un public notice FCC per commenti sull'esposizione RF (rinvio del tribunale d'appello del 2021) e il riconoscimento di Hamlib come Amateur Radio Software Award 2026. Dettagli e scadenza dei commenti non verificati: leggere le fonti ARRL."
+    "brief": "Le notizie ARRL segnalano il rilascio di WSJT-X 3.2.0-rc1, che introduce JTTY, un modo di tastiera per segnali deboli progettato per le gare RTTY. Si tratta di una release candidate, non della versione finale. Fonte singola: controllare le note di rilascio ufficiali."
   }
 ]
