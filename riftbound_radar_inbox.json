@@ -1,56 +1,8 @@
 [
-  {
-    "id": "radiance-meccaniche-legend-preview",
-    "title": "Radiance: svelate le nuove meccaniche Disarm, Show Off e Deploy e le Legend K'Sante, Orianna e Kai'Sa",
-    "source": "Inven Global, riftwatch.gg, riftcompare.com, comunicato Riot (TriplePoint)",
-    "affidabilita": "primaria",
-    "date": "2026-10-01",
-    "brief": "Per Radiance (uscita globale 23 ottobre 2026, 180 carte) Riot ha presentato tre nuove parole chiave: Disarm (quando l'unità attacca, un'unità nemica nello stesso luogo prende -1 Might per il turno), Show Off e Deploy. Tra le Legend mostrate nelle preview ci sono K'Sante, Orianna (trasforma gear in unità) e Kai'Sa, che abbina Disarm a spell con Reaction. Le preview proseguono fino al 9 ottobre; i dettagli di Show Off e Deploy vanno verificati sulle fonti ufficiali.",
-    "rilevanza": "Chi gioca può già valutare quali archetipi (gear/token, Disarm) potrebbero emergere; chi colleziona sa che le carte preview sono quelle da tenere d'occhio al lancio."
-  },
-  {
-    "id": "radiance-prodotti-prerift",
-    "title": "Radiance: Showdown Deck Seraphine vs Evelynn, Vault Bundle e Pre-Rift dal 16 al 22 ottobre",
-    "source": "playriftbound.com, ICv2, The Escapist",
-    "affidabilita": "primaria",
-    "date": "2026-10-01",
-    "brief": "I prodotti confermati per Radiance sono booster e display, un Showdown Deck a due giocatori Seraphine vs Evelynn, un Vault Bundle e i kit Pre-Rift. L'evento Pre-Rift (formato Sealed) ha finestra 16-22 ottobre, con iscrizione dei negozi chiusa il 29 agosto. Il set include una nuova rarità collezionistica descritta come la più rara finora (fonti secondarie).",
-    "rilevanza": "Chi colleziona può decidere cosa prenotare; chi gioca sa che il Pre-Rift permette di provare il set una settimana prima dell'uscita."
-  },
-  {
-    "id": "meta-tier-list-ottobre",
-    "title": "Tier list di ottobre: Kennen in testa per metashare (9%), seguito da Master Yi e Irelia",
-    "source": "riftbound.gg, riftdecks.com",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Le tier list consultate indicano Kennen come Legend più giocata (circa 9% di metashare), seguita da Master Yi, Wuju Bladesman e Irelia. Per i domini, Calm/Chaos è in testa (circa 10%), poi Calm/Body e Order/Chaos. Sono dati aggregati di siti terzi: la data esatta dell'aggiornamento non è verificata ed è opinione/analisi, non dato ufficiale.",
-    "rilevanza": "Chi gioca può usare queste percentuali come base per il side e il mazzo da portare; vanno incrociate con i risultati dei tornei."
-  },
-  {
-    "id": "errata-spiritforged-unleashed-vendetta",
-    "title": "Errata recente: 8 carte corrette tra Spiritforged, Unleashed e Vendetta",
-    "source": "playriftbound.com, riftbound.zone, post ufficiale su X",
-    "affidabilita": "primaria",
-    "date": "2026-09-30",
-    "brief": "Riftbound ha pubblicato l'errata più recente con 8 carte (3 Spiritforged, 2 Unleashed, 3 Vendetta, tra cui Astral Heron, Gangplank Naval e Resonating Strike). Sono sistemazioni di formulazione senza cambi di potenza. La data esatta va verificata sulla pagina ufficiale.",
-    "rilevanza": "Chi gioca competitivo deve rileggere le carte coinvolte per evitare rulings sbagliati."
-  },
-  {
-    "id": "radiance-legend-ekko-ziggs",
-    "title": "Radiance: Ekko e Ziggs svelati tra le nove Legend del set",
-    "source": "Vice, riftbound.zone, Inven Global",
-    "affidabilita": "secondaria",
-    "date": "2026-10-03",
-    "brief": "Le preview descrivono Ekko come Legend che mette in gioco unità costose in anticipo, ma le perde a fine turno, e Ziggs come Legend a tema Bomb token: quando una Bomb muore danneggia i nemici e innesca le altre. Risultano rivelate tutte e nove le Legend (Seraphine, Evelynn, Ekko, Ziggs, Jarvan IV, Orianna, K'Sante, Mordekaiser, Riven). La data esatta di pubblicazione di ogni articolo non è stata verificata.",
-    "rilevanza": "Chi gioca può pianificare archetipi Bomb/tempo in vista del 23 ottobre; chi colleziona sa che le Legend sono le carte più cercate al lancio."
-  },
-  {
-    "id": "radiance-neeko-ultimate-rare",
-    "title": "Radiance: Neeko prima Champion Unit neutrale e nuova rarità Ultimate Rare",
-    "source": "riftbound.zone, tistaminis (blog negozio)",
-    "affidabilita": "segnale debole",
-    "date": "2026-10-03",
-    "brief": "Secondo le guide di preview, Neeko sarebbe la prima Champion Unit neutrale, giocabile in qualsiasi mazzo, e Radiance introdurrebbe una rarità chase inedita chiamata Ultimate Rare, con 66 carte Showcase su 180. Fonti non ufficiali, da confermare su playriftbound.com; data di pubblicazione non verificata.",
-    "rilevanza": "Una Champion neutrale può entrare in ogni mazzo; per i collezionisti la nuova rarità cambia valore e rapporto di pull."
-  }
+{"id":"rb-001","title":"Radiance (Set 5): uscita globale il 23 ottobre 2026","source":"Riot Games press release (TriplePoint, 25/09/2026); Bleeding Cool; riftbound.zone","affidabilita":"primaria","date":"2026-09-25","brief":"Radiance e il quinto set di Riftbound: 180 carte (66 Showcase), uscita simultanea in inglese, francese e cinese semplificato il 23 ottobre 2026. Pre-Rift 16-22 ottobre; anteprime/spoiler in corso dal RQ di Los Angeles (25-27 settembre) fino al 9 ottobre.","rilevanza":"Date chiave per prenotare prodotti e pianificare i Pre-Rift; 66 Showcase rilevanti per i collezionisti."},
+{"id":"rb-002","title":"Radiance introduce tre nuove meccaniche: Deploy, Show Off, Disarm","source":"Inven Global; riftwatch.gg; Riot press release","affidabilita":"primaria","date":"2026-09-25","brief":"Deploy permette di giocare Gear direttamente su un campo di battaglia anche non controllato; Show Off da un effetto extra rivelando una carta dalla mano; Disarm riduce il Might delle unita nemiche sullo stesso campo quando l'unita attacca (si somma). Arrivano anche le Equipment Units.","rilevanza":"Cambia deckbuilding e tempi di gioco; Show Off scopre informazioni all'avversario."},
+{"id":"rb-003","title":"Radiance: 9 nuove Legend, confermate Seraphine, Evelynn, Ekko, Ziggs, Jarvan IV, K'Sante, Orianna","source":"Inven Global; riftwatch.gg; riftbound.zone","affidabilita":"secondaria","date":"2026-09-27","brief":"Sette delle nove nuove Legend risultano rivelate nelle fonti trovate (alcune fonti ne contavano cinque: la lista cresce con le anteprime). Le restanti restano da annunciare durante il calendario previews fino al 9 ottobre. Data esatta delle singole rivelazioni non verificata.","rilevanza":"Le nuove Legend ridisegneranno il meta dopo il 23 ottobre."},
+{"id":"rb-004","title":"Neeko: primo Champion Unit neutrale di Riftbound","source":"Inven Global; riftwatch.gg","affidabilita":"secondaria","date":"2026-09-27","brief":"Neeko e giocabile in qualsiasi mazzo a prescindere dai domini; permette di scegliere tre Legend aggiuntive in deckbuilding e, quando giocata, una di esse entra temporaneamente nella Legend Zone.","rilevanza":"Potenziale carta di grande flessibilita (e possibile target di ban/errata); da seguire per il valore sul mercato."},
+{"id":"rb-005","title":"Meta attuale (formato Vendetta): Draven in testa, Kennen Miracle S-tier","source":"riftbound.zone; riftdecks.com (aggregatori community)","affidabilita":"segnale debole","date":"2026-10-05","brief":"Tier list di ottobre 2026: Draven, Glorious Executioner al 18% di metashare, seguito da Irelia e Kai'sa; in tier S Kennen Miracle, Master Yi Midrange, Irelia Save The Queen. Dati da siti aggregatori, non confermati da fonte ufficiale; nessun thread Reddit/Discord verificato.","rilevanza":"Fotografia del meta pre-Radiance utile per il torneo prima del 23 ottobre."},
+{"id":"rb-006","title":"Patch note Riftbound: solo regole ed errata, mai bilanciamento; i ban sono separati","source":"playriftbound.com (Rules Hub, Patch Notes, risultati di ricerca)","affidabilita":"primaria","date":"2026-10-05","brief":"Riot ribadisce che le Patch Notes accompagnano ogni set con aggiornamenti di regole e chiarimenti, senza modifiche di bilanciamento alle carte. Le carte bandite restano legali in Draft/Sealed e casual. Non ho trovato un nuovo annuncio di ban/errata nelle ultime 48 ore; le note per Radiance sono attese in prossimita dell'uscita (non verificato).","rilevanza":"Chi gioca competitivo deve controllare Rules Hub a ridosso del 23 ottobre per errata e ban list."}
 ]

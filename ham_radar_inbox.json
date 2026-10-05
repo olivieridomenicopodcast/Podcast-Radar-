@@ -1,58 +1,9 @@
 [
-  {
-    "id": "propagazione-2-ottobre-cme",
-    "title": "2 ottobre: G1 minor storm previsto per la CME del 28 settembre, SFI intorno a 95",
-    "source": "NOAA SWPC (via The Watchers e riepiloghi)",
-    "affidabilita": "primaria",
-    "date": "2026-10-02",
-    "brief": "SWPC prevede tempesta geomagnetica G1 il 2 ottobre per gli effetti di sfioramento della CME del 28 settembre, con Kp massimo previsto 4,67 (15-18 UTC). Flusso solare 10,7 cm osservato a 93 il 30 settembre, previsioni 95/95/90 per 1-3 ottobre. Attività solare bassa, probabilità di flare M del 15% al giorno. Possibili degradi sulle alte latitudini e sui percorsi polari."
-  },
-  {
-    "id": "oceania-dx-contest-ssb-cw",
-    "title": "Oceania DX Contest: SSB 3-4 ottobre, CW 10-11 ottobre (06:00 UTC-06:00 UTC)",
-    "source": "WIA, calendari contest",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "La 83a edizione dell'Oceania DX Contest si svolge in due weekend: SSB dalle 06:00 UTC di sabato 3 alle 06:00 UTC di domenica 4 ottobre, CW dal 10 all'11 ottobre. Il DXCC Oceania è il bersaglio; la stazione FW1P ha annunciato partecipazione su 40-10 m."
-  },
-  {
-    "id": "contest-sac-cqww-ssb",
-    "title": "Contest imminenti: Scandinavian Activity SSB 10-11 ottobre, CQ WW DX SSB 24-25 ottobre",
-    "source": "sactest.net, cqww.com, ng3k.com",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Lo Scandinavian Activity Contest SSB va dalle 12:00 UTC del 10 ottobre alle 11:59 UTC dell'11. Il CQ WW DX SSB è dalle 00:00 UTC del 24 alle 23:59 UTC del 25 ottobre. Su ng3k sono già elencate operazioni annunciate per il CQ WW."
-  },
-  {
-    "id": "dxpedition-6o2m-h44ms-9t0md",
-    "title": "DXpedition: 9T0MD (RD Congo) attiva, 6O2M Somalia dal 5 al 25 ottobre, H44MS Isole Salomone dal 3 ottobre",
-    "source": "dx-world.net, 425 DX News",
-    "affidabilita": "secondaria",
-    "date": "2026-10-01",
-    "brief": "9T0MD (Repubblica Democratica del Congo) è attiva in ottobre, con corrente ripristinata e nuove antenne, EME in arrivo. OG2M opera come 6O2M dalla Somalia dal 5 al 25 ottobre (SSB/CW, 40-10 m). DL2GAC sarà H44MS dalle Salomone dal 3 ottobre al 20 novembre (80-6 m, SSB e FT8). JR1GSE opera da Weno (OC-011) il 1-7 ottobre."
-  },
-  {
-    "id": "hamlib-472-kenwood",
-    "title": "Hamlib 4.7.2 aggiunge il Kenwood Hamgeek uSGX e SDRConsole; Hamlib 5 senza data",
-    "source": "GitHub Hamlib, wiki Hamlib, Hamweekly",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "L'ultima release Hamlib citata è la 4.7.2, con supporto al modello Kenwood Hamgeek uSGX; SDR Radio SDRConsole è tra i dispositivi supportati. Hamlib 5, con modifiche non retrocompatibili, è in lavorazione senza data. Nessun nuovo annuncio Kenwood verificato nelle ultime 48 ore: la data di rilascio 4.7.2 va controllata sul wiki."
-  },
-  {
-    "id": "iaru-r1-uhf-r2-areag-weekend",
-    "title": "Weekend 3-4 ottobre: IARU Region 1 UHF/Microwaves e IARU Region 2 Area G HF SSB",
-    "source": "calendari contest (k6ldf.com Daily Contest Brief e riepiloghi)",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "L'IARU Region 1 UHF/Microwaves Contest è in calendario il 3-4 ottobre, dai 435 MHz alle microonde. Nello stesso fine settimana è indicato l'IARU Region 2 Area G HF SSB Contest. Orari esatti non verificati."
-  },
-  {
-    "id": "fcc-rf-safety-hamlib-award",
-    "title": "FCC apre commenti sulla sicurezza RF; Hamlib premiato Software Award 2026",
-    "source": "ARRL, mvarc.substack.com (News and Notes 2/10/2026)",
-    "affidabilita": "segnale debole",
-    "date": "2026-10-02",
-    "brief": "Riepiloghi riportano un public notice FCC per commenti sull'esposizione RF (rinvio del tribunale d'appello del 2021) e il riconoscimento di Hamlib come Amateur Radio Software Award 2026. Dettagli e scadenza dei commenti non verificati: leggere le fonti ARRL."
-  }
+{"id":"ham-001","title":"Propagazione: flusso solare basso (SFI 92), attivita geomagnetica da quieta a minor storm","source":"NOAA SWPC (bollettino via aggregatori)","affidabilita":"primaria","date":"2026-10-04","brief":"Flusso 10.7 cm a 92 il 2 ottobre, previsto 92/90/90 per 3-5 ottobre (media 90 giorni 115). Tre regioni di macchie solari, C-class possibili, M al 5% al giorno, X e protoni 1%. Campo geomagnetico da quieto ad attivo il 3 e 5, instabile fino a minor storm il 4 ottobre.","rilevanza":"Bande alte meno affidabili, possibili degradazioni ad alta latitudine il 4."},
+{"id":"ham-002","title":"CME del 28 settembre: watch G1 per il 2 ottobre, tempesta non materializzata","source":"The Watchers; NOAA SWPC","affidabilita":"secondaria","date":"2026-10-02","brief":"Dopo una grande eruzione di filamento e CME del 28 settembre, SWPC aveva emesso un G1 watch per il 2 ottobre. Il materiale e arrivato ma senza innescare la tempesta G1 attesa, secondo un riepilogo successivo.","rilevanza":"Esempio di previsione non confermata; monitorare K-index prima dei contest."},
+{"id":"ham-003","title":"Contest: Oceania DX (SSB 3-4 ottobre, CW 10-11 ottobre) e CQ WW DX SSB 24-25 ottobre","source":"oceaniadxcontest.com; cqww.com; K6LDF contest brief","affidabilita":"primaria","date":"2026-10-03","brief":"83a Oceania DX Contest SSB da sabato 3 ottobre 0600 UTC a domenica 0600 UTC (160-10 m); parte CW il 10-11 ottobre. Il CQ WW DX SSB e il 24-25 ottobre 2026.","rilevanza":"Calendario per pianificare operazioni e antenne."},
+{"id":"ham-004","title":"DXpedition: Repubblica Democratica del Congo fino all'11 ottobre; YJ0SP da Vanuatu 30 ott-5 nov","source":"DX-World; NG3K (via ricerca)","affidabilita":"secondaria","date":"2026-10-05","brief":"Attivita DXpedition in Congo (nominativo non verificato) prevista fino all'11 ottobre. Steve VK2SP sara YJ0SP da Port Vila, Vanuatu dal 30 ottobre al 5 novembre. Per l'elenco completo vedi NG3K ADXO.","rilevanza":"Occasione per nuovi DXCC; verificare i dettagli su NG3K."},
+{"id":"ham-005","title":"USA: FCC e HHS aprono consultazioni sull'esposizione RF","source":"ICQ Podcast; ARRL","affidabilita":"secondaria","date":"2026-10-04","brief":"Due nuovi procedimenti federali sulla sicurezza RF (tra cui il rinvio del tribunale d'appello del 2021). Non cambiano le regole attuali per i radioamatori, ma potrebbero portare a modifiche future.","rilevanza":"Possibile impatto sui limiti di esposizione per le stazioni."},
+{"id":"ham-006","title":"IARU contro la licenza FCC ad AST SpaceMobile in 430-440 MHz","source":"ARRL / IARU","affidabilita":"secondaria","date":"2026-10-02","brief":"La FCC ha approvato operazioni TT&C di emergenza di AST SpaceMobile nella banda amatoriale 430-440 MHz (fuori USA). IARU ha dichiarato inappropriato l'uso dell'Art. 4.4 del Regolamento ITU, esistendo allocazioni UHF satellitari dedicate. Data esatta non verificata.","rilevanza":"Rischio di interferenze in una banda amatoriale primaria."},
+{"id":"ham-007","title":"Hamlib 4.7.1 in arrivo; Kenwood TM-D750E disponibile dal 9 ottobre (mercato EU)","source":"Hamweekly; rivenditori (WiMo)","affidabilita":"segnale debole","date":"2026-10-05","brief":"Hamlib (premio Software 2026) prevede la release LTS 4.7.1 'nelle prossime settimane' con nuovi modelli radio; Hamlib 5 in sviluppo con modifiche incompatibili. Il Kenwood TM-D750E (2m/70cm, D-Star, APRS) risulta disponibile dal 9.10.2026 secondo listini di rivenditori; non confermato da comunicato Kenwood.","rilevanza":"Aggiornamenti software e hardware da verificare."}
 ]

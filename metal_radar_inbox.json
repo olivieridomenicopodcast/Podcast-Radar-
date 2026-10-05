@@ -1,56 +1,8 @@
 [
-  {
-    "id": "amon-amarth-allfather-awakens",
-    "title": "Amon Amarth, 'The Allfather Awakens' esce il 2 ottobre",
-    "source": "Loudwire (calendario uscite), Metal Blade",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Il nuovo album della band melodic death metal è nel calendario delle uscite del 2 ottobre. Nessun giudizio critico verificato.",
-    "tipo": "album"
-  },
-  {
-    "id": "uscite-2-ottobre-altre",
-    "title": "Uscite del 2 ottobre: Brymir 'What We Leave Behind', Butcher Babies 'Nightbloom', Escape The Fate 'The Last Goodbye'",
-    "source": "Loudwire (calendario uscite)",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Dal calendario Loudwire. Qualità degli album non valutata.",
-    "tipo": "album"
-  },
-  {
-    "id": "slipknot-sicest-stadium-tour",
-    "title": "Slipknot: vendita generale dei biglietti il 2 ottobre per lo '(sic)est Stadium Tour' 2027",
-    "source": "Louder, Billboard, NME, Blabbermouth, Consequence",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Il tour è stato annunciato intorno al 29 settembre (fuori dalle 48 ore); il 2 ottobre è la vendita generale. Tappa europea esclusiva: Wembley, 3 luglio 2027, con Marilyn Manson, Lorna Shore e Hatebreed. Più testate indipendenti concordano. Nessuna data italiana emersa dalle ricerche.",
-    "tipo": "tour"
-  },
-  {
-    "id": "behemoth-dimmu-borgir-milano",
-    "title": "Behemoth, Dimmu Borgir e Dark Funeral: 'In League With Satan' a Milano, Alcatraz, 13 ottobre 2026",
-    "source": "Metal Injection, Lambgoat, Metal-Stop",
-    "affidabilita": "secondaria",
-    "date": "2026-10-02",
-    "brief": "Tour europeo co-headline di ottobre con una data italiana il 13 ottobre all'Alcatraz di Milano. Annuncio precedente alle 48 ore, ma la data è imminente.",
-    "tipo": "tour Italia"
-  },
-  {
-    "id": "loudwire-17-tour-settimana",
-    "title": "Loudwire: 17 nuovi tour rock/metal annunciati tra 25 settembre e 1 ottobre",
-    "source": "Loudwire",
-    "affidabilita": "segnale debole",
-    "date": "2026-10-02",
-    "brief": "Rassegna settimanale con Slipknot, A Perfect Circle e Daughtry citati tra gli annunci. Pagina non apribile direttamente, dettagli dei singoli tour non verificati.",
-    "tipo": "tour"
-  },
-  {
-    "id": "uscite-prossime-ottobre",
-    "title": "Prossime uscite: 9 ottobre Graveyard e HateSphere; 16 ottobre Insomnium 'Netherworlds'",
-    "source": "Loudwire (calendario uscite)",
-    "affidabilita": "segnale debole",
-    "date": "2026-10-02",
-    "brief": "Dati da un solo calendario; titoli e date possono cambiare.",
-    "tipo": "album"
-  }
+{"id":"metal-2026-10-02-blindchannel-intothevoid","title":"Blind Channel: nuovo singolo 'Into The Void' con Aaron Pauley (Of Mice & Men) verso 'Painstream'","source":"https://slrmagazine.com/2026/10/02/finnish-modern-metal-outfit-blind-channel-joins-forces-with-of-mice-mens-aaron-pauley-on-cosmic-new-single-into-the-void/ ; https://rocksound.tv/news/blind-channel-announce-new-album-painstream","affidabilita":"segnale debole","date":"2026-10-02","brief":"I finlandesi Blind Channel tornano dopo circa 1,5 anni di pausa con il sesto album 'Painstream' (Century Media, 12 tracce, uscita 30 ottobre 2026). Il nuovo singolo ha come ospite Aaron Pauley. Annunciato anche un concerto europeo di ritorno (dettagli non verificati). Date Italia non verificate.","tipo":"album/singolo (modern metal / nu-metalcore)"},
+{"id":"metal-2026-09-darkesthour-sufferdivine","title":"Darkest Hour: album 'Suffer Divine' il 30 ottobre 2026 (MNRK Heavy), title track in uscita","source":"https://blabbermouth.net/news/darkest-hour-announces-new-album-suffer-divine-shares-title-track ; https://consequence.net/2026/09/darkest-hour-new-album-suffer-divine/ ; https://lambgoat.com/news/54598/","affidabilita":"segnale debole","date":"2026-09-01","brief":"Undicesimo album dei veterani del melodic metalcore di Washington DC, 11 tracce, prodotto da Mark Lewis. Annuncio e title track già usciti a settembre (giorno esatto non verificato: data indicativa, FUORI dalle 48 ore). Uscita album tra 25 giorni. Più fonti indipendenti concordano su titolo e data.","tipo":"album annunciato (metalcore melodico), uscita imminente"},
+{"id":"metal-2026-10-04-withered-land-piesni-vietru","title":"Withered Land: annunciato il terzo album 'Piesni Vietru' (27 novembre 2026)","source":"https://www.truemetal.it/heavy-metal-news/withered-land-annunciato-il-terzo-album-piesni-vietru-1254917","affidabilita":"secondaria","date":"2026-10-04","brief":"Immortal Frost Productions annuncia il terzo full-length della band atmospheric black bielorussa: uscita 27 novembre 2026, vari formati fisici (CD jewel case con booklet 12 pagine, 500 copie). Fonte singola (truemetal.it, riportata dal motore di ricerca, pagina non apribile per blocco rete).","tipo":"album annunciato (black metal atmosferico, nicchia)"},
+{"id":"metal-2026-10-04-with-a-vengeance-oblivion","title":"With A Vengeance: singolo e video 'Oblivion'","source":"Modern Metal news del 4 ottobre 2026 (via ricerca web; URL non verificato)","affidabilita":"segnale debole","date":"2026-10-04","brief":"Pubblicati singolo e video 'Oblivion' di With A Vengeance. Informazione minima, singola fonte, nessun dettaglio su album o tour. Da verificare prima dell'uso.","tipo":"singolo/video (metalcore)"},
+{"id":"metal-2027-03-manowar-bergamo","title":"Manowar in Italia: 26-27 marzo 2027 alla ChorusLife Arena di Bergamo","source":"https://metalitalia.com/articolo/manowar-due-date-in-italia/ ; https://www.truemetal.it/heavy-metal-news/manowar-aperta-la-vendita-generale-per-i-due-concerti-alla-choruslife-arena-di-bergamo-1243603 ; https://www.metalhammer.it/2026/07/15/manowar-due-concerti-evento-in-italia-nel-2027/","affidabilita":"primaria","date":"2026-07-15","brief":"Dopo 14 anni tornano in Italia: 26 marzo con l'album 'Kings of Metal' integrale, 27 marzo 'Fighting The World' integrale. Biglietti su TicketOne: singola serata 66-107 euro, abbonamento 2 giorni 120-207 euro (+ diritti). Notizia di luglio, FUORI dalle 48 ore, ma biglietti in vendita e rilevante per l'Italia. Fonti multiple indipendenti.","tipo":"tour/concerto in Italia (heavy metal classico)"},
+{"id":"metal-2026-10-10-bmth-furnace-fest","title":"Bring Me The Horizon headliner al Furnace Fest (Birmingham, Alabama) 10-11 ottobre 2026","source":"https://www.concertarchives.org/bands/bring-me-the-horizon--6 (via ricerca web)","affidabilita":"segnale debole","date":"2026-10-05","brief":"Secondo lo storico concerti, BMTH è in cartellone al Furnace Fest il 10-11 ottobre. Non raggiungibile dall'Italia; utile solo come contesto di attività della band. Una ricerca citava anche un album 'POST HUMAN: NeX GEn' uscito il 15 settembre: l'indicazione è incoerente con quanto noto e NON verificata. Data = giorno di raccolta, non di pubblicazione.","tipo":"festival/contesto band rilevante (da verificare)"}
 ]
