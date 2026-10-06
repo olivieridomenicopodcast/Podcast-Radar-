@@ -1,8 +1,47 @@
 [
-{"id":"rb-001","title":"Radiance (Set 5): uscita globale il 23 ottobre 2026","source":"Riot Games press release (TriplePoint, 25/09/2026); Bleeding Cool; riftbound.zone","affidabilita":"primaria","date":"2026-09-25","brief":"Radiance e il quinto set di Riftbound: 180 carte (66 Showcase), uscita simultanea in inglese, francese e cinese semplificato il 23 ottobre 2026. Pre-Rift 16-22 ottobre; anteprime/spoiler in corso dal RQ di Los Angeles (25-27 settembre) fino al 9 ottobre.","rilevanza":"Date chiave per prenotare prodotti e pianificare i Pre-Rift; 66 Showcase rilevanti per i collezionisti."},
-{"id":"rb-002","title":"Radiance introduce tre nuove meccaniche: Deploy, Show Off, Disarm","source":"Inven Global; riftwatch.gg; Riot press release","affidabilita":"primaria","date":"2026-09-25","brief":"Deploy permette di giocare Gear direttamente su un campo di battaglia anche non controllato; Show Off da un effetto extra rivelando una carta dalla mano; Disarm riduce il Might delle unita nemiche sullo stesso campo quando l'unita attacca (si somma). Arrivano anche le Equipment Units.","rilevanza":"Cambia deckbuilding e tempi di gioco; Show Off scopre informazioni all'avversario."},
-{"id":"rb-003","title":"Radiance: 9 nuove Legend, confermate Seraphine, Evelynn, Ekko, Ziggs, Jarvan IV, K'Sante, Orianna","source":"Inven Global; riftwatch.gg; riftbound.zone","affidabilita":"secondaria","date":"2026-09-27","brief":"Sette delle nove nuove Legend risultano rivelate nelle fonti trovate (alcune fonti ne contavano cinque: la lista cresce con le anteprime). Le restanti restano da annunciare durante il calendario previews fino al 9 ottobre. Data esatta delle singole rivelazioni non verificata.","rilevanza":"Le nuove Legend ridisegneranno il meta dopo il 23 ottobre."},
-{"id":"rb-004","title":"Neeko: primo Champion Unit neutrale di Riftbound","source":"Inven Global; riftwatch.gg","affidabilita":"secondaria","date":"2026-09-27","brief":"Neeko e giocabile in qualsiasi mazzo a prescindere dai domini; permette di scegliere tre Legend aggiuntive in deckbuilding e, quando giocata, una di esse entra temporaneamente nella Legend Zone.","rilevanza":"Potenziale carta di grande flessibilita (e possibile target di ban/errata); da seguire per il valore sul mercato."},
-{"id":"rb-005","title":"Meta attuale (formato Vendetta): Draven in testa, Kennen Miracle S-tier","source":"riftbound.zone; riftdecks.com (aggregatori community)","affidabilita":"segnale debole","date":"2026-10-05","brief":"Tier list di ottobre 2026: Draven, Glorious Executioner al 18% di metashare, seguito da Irelia e Kai'sa; in tier S Kennen Miracle, Master Yi Midrange, Irelia Save The Queen. Dati da siti aggregatori, non confermati da fonte ufficiale; nessun thread Reddit/Discord verificato.","rilevanza":"Fotografia del meta pre-Radiance utile per il torneo prima del 23 ottobre."},
-{"id":"rb-006","title":"Patch note Riftbound: solo regole ed errata, mai bilanciamento; i ban sono separati","source":"playriftbound.com (Rules Hub, Patch Notes, risultati di ricerca)","affidabilita":"primaria","date":"2026-10-05","brief":"Riot ribadisce che le Patch Notes accompagnano ogni set con aggiornamenti di regole e chiarimenti, senza modifiche di bilanciamento alle carte. Le carte bandite restano legali in Draft/Sealed e casual. Non ho trovato un nuovo annuncio di ban/errata nelle ultime 48 ore; le note per Radiance sono attese in prossimita dell'uscita (non verificato).","rilevanza":"Chi gioca competitivo deve controllare Rules Hub a ridosso del 23 ottobre per errata e ban list."}
+ {
+  "id": "rb-001",
+  "title": "Radiance (Set 5): uscita globale il 23 ottobre, anteprime fino al 9 ottobre",
+  "source": "Riot Games / playriftbound.com; riftbound.gg; riftcompare.com",
+  "affidabilita": "primaria",
+  "date": "2026-10-06",
+  "brief": "Radiance e il quinto set di Riftbound: 180 carte, di cui 66 Showcase, con uscita simultanea in inglese, francese e cinese semplificato il 23 ottobre 2026. La stagione delle anteprime va dal 25 settembre al 9 ottobre; i Pre-Rift nei negozi sono dal 16 al 22 ottobre.",
+  "rilevanza": "Calendario di riferimento per prenotazioni e pianificazione degli eventi."
+ },
+ {
+  "id": "rb-002",
+  "title": "Rivelata una Ultimate Rare, la rarita piu alta mai vista nel gioco",
+  "source": "Riftbound.gg; Star City Games (riepilogo carte rivelate)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-05",
+  "brief": "Secondo i riepiloghi dei siti specializzati, il 5 ottobre era previsto il reveal di una carta Ultimate Rare, descritta da Riot come la piu rara finora (circa un pacchetto su 4.000 nella tiratura). Il dettaglio esatto della carta non e stato verificato.",
+  "rilevanza": "Rilevante per il mercato dei collezionisti e per il valore delle chase card."
+ },
+ {
+  "id": "rb-003",
+  "title": "Premi di Summoner Skirmish 1 rivelati (partecipazione, Top Cut, carta Champion)",
+  "source": "Riftbound.gg; playriftbound.com (preview season)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-05",
+  "brief": "Il 5 ottobre sono stati annunciati i premi del primo ciclo Summoner Skirmish, legato a Radiance: premi di partecipazione, di Top Cut e la carta per il campione. I dettagli dei singoli premi non sono stati verificati.",
+  "rilevanza": "Interessante per i giocatori da torneo e per i collezionisti di promo."
+ },
+ {
+  "id": "rb-004",
+  "title": "Legend di Radiance: fonti discordanti sul numero rivelato (9 secondo alcune)",
+  "source": "Riftbound.zone; Riftbound.gg; Inven Global",
+  "affidabilita": "secondaria",
+  "date": "2026-10-06",
+  "brief": "Alcune fonti indicano tutte e nove le Legend gia rivelate (Seraphine, Evelynn, Ekko, Ziggs, Jarvan IV, Orianna, K'Sante, Mordekaiser, Riven), altre ne contavano ancora tre da annunciare. Le anteprime si chiudono il 9 ottobre; conviene verificare la lista ufficiale.",
+  "rilevanza": "Le nuove Legend determineranno il meta dopo il 23 ottobre."
+ },
+ {
+  "id": "rb-005",
+  "title": "Nessun nuovo ban in ottobre: ultimo aggiornamento del 18 settembre (Ekko Recurrent, Stacked Deck)",
+  "source": "playriftbound.com / account X ufficiale; riftcompare.com",
+  "affidabilita": "primaria",
+  "date": "2026-09-18",
+  "brief": "L'ultimo aggiornamento della ban list in Standard e 2v2 e in vigore dal 18 settembre 2026 e riguarda Ekko, Recurrent (combo infinita con Lux) e Stacked Deck. Nelle ricerche non risulta alcun nuovo annuncio di balance o patch in ottobre; notizia piu vecchia di 48 ore, inclusa come contesto.",
+  "rilevanza": "Definisce il meta attuale in vista di Radiance."
+ }
 ]

@@ -1,8 +1,43 @@
-{"aggiornato":"2026-10-05","citta":"Pesaro (PU), Marche, Italia",
-"fonti":["https://www.3bmeteo.com/meteo/pesaro","https://www.ilmeteo.it/meteo/pesaro","https://www.meteo.it/meteo/pesaro-41044","https://allertameteo.regione.marche.it/bollettini-meteo"],
-"previsioni":[
-{"data":"2026-10-05","giorno":"lunedì","temp_min_c":16,"temp_max_c":24,"condizioni":"nubi sparse, nuvoloso in serata; pioggia improbabile (circa 6%)","vento":"debole da SO, 7-9 km/h","mare":"dato non reperito","allerta":"nessuna allerta critica reperita per le Marche (ultimo bollettino consultato: n. 191/2026 del 4 ottobre, nessuna allerta)"},
-{"data":"2026-10-06","giorno":"martedì","temp_min_c":17,"temp_max_c":23,"condizioni":"arrivo di una perturbazione: nubi sparse con possibili piogge, temperature in calo","vento":"da ENE, circa 6 km/h","mare":"quasi calmo, acqua circa 23,7 C","allerta":"dato non reperito"},
-{"data":"2026-10-07","giorno":"mercoledì","temp_min_c":17,"temp_max_c":23,"condizioni":"probabile nuovo peggioramento, pioggia moderata, cielo parzialmente nuvoloso (dato indicativo)","vento":"moderato da E, 12-25 km/h","mare":"poco mosso, acqua circa 23,7 C","allerta":"dato non reperito"}
-],
-"note":"Pagine dei siti meteo non apribili (proxy); dati ricavati da estratti di ricerca, non verificati sulle pagine originali. Valori 6 e 7 ottobre identici (17/23) e incerti."}
+{
+ "aggiornato": "2026-10-06",
+ "citta": "Pesaro (PU), Marche, Italia",
+ "fonti": [
+  "https://www.3bmeteo.com/meteo/pesaro",
+  "https://www.ilmeteo.it/meteo/pesaro",
+  "https://www.meteo.it/meteo/pesaro-41044",
+  "https://allertameteo.regione.marche.it/bollettini-meteo"
+ ],
+ "previsioni": [
+  {
+   "data": "2026-10-06",
+   "giorno": "martedì",
+   "temp_min_c": 14,
+   "temp_max_c": 22,
+   "condizioni": "in prevalenza poco nuvoloso con variabilita dal pomeriggio; altre fonti segnalano rovesci e temporali sulle Marche dal pomeriggio (fonti discordanti)",
+   "vento": "debole da O-SO al mattino, moderato da E-SE al pomeriggio",
+   "mare": "dato non reperito",
+   "allerta": "allerta gialla per piogge e temporali sulle Marche il 6 ottobre (Protezione Civile, via meteo.it), con possibili rovesci forti, grandine locale e raffiche"
+  },
+  {
+   "data": "2026-10-07",
+   "giorno": "mercoledì",
+   "temp_min_c": 14,
+   "temp_max_c": 21,
+   "condizioni": "nubi sparse con schiarite; pioggia nella notte (circa 4 mm)",
+   "vento": "debole da O-SO al mattino, moderato da E al pomeriggio",
+   "mare": "dato non reperito",
+   "allerta": "dato non reperito"
+  },
+  {
+   "data": "2026-10-08",
+   "giorno": "giovedì",
+   "temp_min_c": 17,
+   "temp_max_c": 24,
+   "condizioni": "pioggia alternata a schiarite",
+   "vento": "debole da SO (circa 3 km/h) al mattino, circa 8 km/h da E nel pomeriggio con raffiche fino a 19 km/h",
+   "mare": "poco mosso",
+   "allerta": "dato non reperito"
+  }
+ ],
+ "note": "Dati ricavati da estratti di ricerca, non verificati sulle pagine originali (siti meteo non apribili dal proxy). Le fonti divergono sulle precipitazioni del 6 ottobre; il valore del 8 ottobre (17/24) potrebbe riferirsi a minima e massima di una fonte diversa."
+}

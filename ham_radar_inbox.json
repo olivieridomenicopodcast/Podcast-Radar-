@@ -1,9 +1,47 @@
 [
-{"id":"ham-001","title":"Propagazione: flusso solare basso (SFI 92), attivita geomagnetica da quieta a minor storm","source":"NOAA SWPC (bollettino via aggregatori)","affidabilita":"primaria","date":"2026-10-04","brief":"Flusso 10.7 cm a 92 il 2 ottobre, previsto 92/90/90 per 3-5 ottobre (media 90 giorni 115). Tre regioni di macchie solari, C-class possibili, M al 5% al giorno, X e protoni 1%. Campo geomagnetico da quieto ad attivo il 3 e 5, instabile fino a minor storm il 4 ottobre.","rilevanza":"Bande alte meno affidabili, possibili degradazioni ad alta latitudine il 4."},
-{"id":"ham-002","title":"CME del 28 settembre: watch G1 per il 2 ottobre, tempesta non materializzata","source":"The Watchers; NOAA SWPC","affidabilita":"secondaria","date":"2026-10-02","brief":"Dopo una grande eruzione di filamento e CME del 28 settembre, SWPC aveva emesso un G1 watch per il 2 ottobre. Il materiale e arrivato ma senza innescare la tempesta G1 attesa, secondo un riepilogo successivo.","rilevanza":"Esempio di previsione non confermata; monitorare K-index prima dei contest."},
-{"id":"ham-003","title":"Contest: Oceania DX (SSB 3-4 ottobre, CW 10-11 ottobre) e CQ WW DX SSB 24-25 ottobre","source":"oceaniadxcontest.com; cqww.com; K6LDF contest brief","affidabilita":"primaria","date":"2026-10-03","brief":"83a Oceania DX Contest SSB da sabato 3 ottobre 0600 UTC a domenica 0600 UTC (160-10 m); parte CW il 10-11 ottobre. Il CQ WW DX SSB e il 24-25 ottobre 2026.","rilevanza":"Calendario per pianificare operazioni e antenne."},
-{"id":"ham-004","title":"DXpedition: Repubblica Democratica del Congo fino all'11 ottobre; YJ0SP da Vanuatu 30 ott-5 nov","source":"DX-World; NG3K (via ricerca)","affidabilita":"secondaria","date":"2026-10-05","brief":"Attivita DXpedition in Congo (nominativo non verificato) prevista fino all'11 ottobre. Steve VK2SP sara YJ0SP da Port Vila, Vanuatu dal 30 ottobre al 5 novembre. Per l'elenco completo vedi NG3K ADXO.","rilevanza":"Occasione per nuovi DXCC; verificare i dettagli su NG3K."},
-{"id":"ham-005","title":"USA: FCC e HHS aprono consultazioni sull'esposizione RF","source":"ICQ Podcast; ARRL","affidabilita":"secondaria","date":"2026-10-04","brief":"Due nuovi procedimenti federali sulla sicurezza RF (tra cui il rinvio del tribunale d'appello del 2021). Non cambiano le regole attuali per i radioamatori, ma potrebbero portare a modifiche future.","rilevanza":"Possibile impatto sui limiti di esposizione per le stazioni."},
-{"id":"ham-006","title":"IARU contro la licenza FCC ad AST SpaceMobile in 430-440 MHz","source":"ARRL / IARU","affidabilita":"secondaria","date":"2026-10-02","brief":"La FCC ha approvato operazioni TT&C di emergenza di AST SpaceMobile nella banda amatoriale 430-440 MHz (fuori USA). IARU ha dichiarato inappropriato l'uso dell'Art. 4.4 del Regolamento ITU, esistendo allocazioni UHF satellitari dedicate. Data esatta non verificata.","rilevanza":"Rischio di interferenze in una banda amatoriale primaria."},
-{"id":"ham-007","title":"Hamlib 4.7.1 in arrivo; Kenwood TM-D750E disponibile dal 9 ottobre (mercato EU)","source":"Hamweekly; rivenditori (WiMo)","affidabilita":"segnale debole","date":"2026-10-05","brief":"Hamlib (premio Software 2026) prevede la release LTS 4.7.1 'nelle prossime settimane' con nuovi modelli radio; Hamlib 5 in sviluppo con modifiche incompatibili. Il Kenwood TM-D750E (2m/70cm, D-Star, APRS) risulta disponibile dal 9.10.2026 secondo listini di rivenditori; non confermato da comunicato Kenwood.","rilevanza":"Aggiornamenti software e hardware da verificare."}
+ {
+  "id": "ham-001",
+  "title": "Geomagnetico: Kp massimo previsto 3,67 il 6 ottobre, G1 possibile tra il 5 e il 7",
+  "source": "NOAA SWPC (via spaceweatherlive, aggregatori)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-06",
+  "brief": "Per il 6 ottobre condizioni da instabili ad attive con calo in serata; il Kp massimo atteso e 3,67, sotto la soglia G1. Per il periodo 5-7 ottobre il Kp massimo previsto e 5 (G1). Nessuna tempesta di radiazione S1 attesa; brillamenti di classe C possibili (35%), M poco probabili fino all'8 ottobre.",
+  "rilevanza": "Possibili degradazioni sulle bande alte e ai percorsi polari; controllare il K-index prima di operare."
+ },
+ {
+  "id": "ham-002",
+  "title": "Oceania DX Contest: fase CW il 10-11 ottobre",
+  "source": "oceaniadxcontest.com; K6LDF contest brief",
+  "affidabilita": "secondaria",
+  "date": "2026-10-03",
+  "brief": "La 83a edizione ha avuto la fase SSB il 3-4 ottobre (160-10 m). La parte CW e in calendario il 10-11 ottobre, come indicato nelle fonti precedenti; la data va riconfermata sul sito ufficiale.",
+  "rilevanza": "Occasione per collegare l'Oceania da Europa."
+ },
+ {
+  "id": "ham-003",
+  "title": "CQ WW DX SSB il 24-25 ottobre 2026",
+  "source": "cqww.com; NG3K",
+  "affidabilita": "primaria",
+  "date": "2026-10-06",
+  "brief": "Il CQ World Wide DX Contest SSB si svolge il 24-25 ottobre 2026. E il principale contest DX dell'autunno e attira molte DXpedition.",
+  "rilevanza": "Pianificare antenne e stazione."
+ },
+ {
+  "id": "ham-004",
+  "title": "DXpedition: Congo (RD) fino all'11 ottobre; C6AQQ da New Providence 22-27 ottobre",
+  "source": "NG3K; DX-World",
+  "affidabilita": "secondaria",
+  "date": "2026-10-05",
+  "brief": "Attiva una DXpedition in Repubblica Democratica del Congo con termine l'11 ottobre (nominativo non verificato). Brian ND3F sara C6AQQ da New Providence (NA-001, Bahamas) il 22-27 ottobre, partecipando al CQ WW SSB nella categoria SOSB 15 m bassa potenza.",
+  "rilevanza": "Opportunita DXCC; controllare NG3K ADXO."
+ },
+ {
+  "id": "ham-005",
+  "title": "Hamlib 4.7.2 e la versione stabile corrente; aggiunto supporto Hamgeek uSGX",
+  "source": "Hamlib GitHub wiki (Download); HamWeekly",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-06",
+  "brief": "La pagina download di Hamlib indica 4.7.2 come stabile, con supporto al nuovo modello Hamgeek uSGX (citato dalla ricerca come Kenwood, attribuzione non verificata). Data di rilascio non verificata. Nessuna novita Kenwood o SDR di rilievo trovata nelle ultime 48 ore.",
+  "rilevanza": "Utile per chi usa software di controllo radio."
+ }
 ]
