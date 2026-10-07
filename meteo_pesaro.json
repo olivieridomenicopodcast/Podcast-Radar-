@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-06",
+ "aggiornato": "2026-10-07",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.3bmeteo.com/meteo/pesaro",
@@ -9,21 +9,11 @@
  ],
  "previsioni": [
   {
-   "data": "2026-10-06",
-   "giorno": "martedì",
-   "temp_min_c": 14,
-   "temp_max_c": 22,
-   "condizioni": "in prevalenza poco nuvoloso con variabilita dal pomeriggio; altre fonti segnalano rovesci e temporali sulle Marche dal pomeriggio (fonti discordanti)",
-   "vento": "debole da O-SO al mattino, moderato da E-SE al pomeriggio",
-   "mare": "dato non reperito",
-   "allerta": "allerta gialla per piogge e temporali sulle Marche il 6 ottobre (Protezione Civile, via meteo.it), con possibili rovesci forti, grandine locale e raffiche"
-  },
-  {
    "data": "2026-10-07",
    "giorno": "mercoledì",
    "temp_min_c": 14,
    "temp_max_c": 21,
-   "condizioni": "nubi sparse con schiarite; pioggia nella notte (circa 4 mm)",
+   "condizioni": "nubi sparse con schiarite; pioggia nella notte (circa 4 mm); rovesci e temporali segnalati sul Centro Italia, Marche incluse, tra stasera e domani",
    "vento": "debole da O-SO al mattino, moderato da E al pomeriggio",
    "mare": "dato non reperito",
    "allerta": "dato non reperito"
@@ -33,11 +23,31 @@
    "giorno": "giovedì",
    "temp_min_c": 17,
    "temp_max_c": 24,
-   "condizioni": "pioggia alternata a schiarite",
+   "condizioni": "pioggia alternata a schiarite; maltempo autunnale con temporali e temperature in calo (tendenza nazionale)",
    "vento": "debole da SO (circa 3 km/h) al mattino, circa 8 km/h da E nel pomeriggio con raffiche fino a 19 km/h",
    "mare": "poco mosso",
    "allerta": "dato non reperito"
+  },
+  {
+   "data": "2026-10-09",
+   "giorno": "venerdì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "forte maltempo atteso soprattutto al Centro-Sud, con rischio di fenomeni intensi e criticita; perturbazione nord atlantica con aria piu fredda (tendenza nazionale, non specifica per Pesaro)",
+   "vento": "dato non reperito; possibili forti raffiche con i temporali",
+   "mare": "dato non reperito",
+   "allerta": "dato non reperito"
+  },
+  {
+   "data": "2026-10-10",
+   "giorno": "sabato",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "fenomeni piu discontinui e intermittenti, con possibili rovesci o temporali, soprattutto sul Centro-Sud (tendenza nazionale)",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "dato non reperito"
   }
  ],
- "note": "Dati ricavati da estratti di ricerca, non verificati sulle pagine originali (siti meteo non apribili dal proxy). Le fonti divergono sulle precipitazioni del 6 ottobre; il valore del 8 ottobre (17/24) potrebbe riferirsi a minima e massima di una fonte diversa."
+ "note": "Dati da estratti di ricerca (meteo.it, 3bmeteo, meteogiornale, iconameteo), non verificati sulle pagine originali (siti bloccati dal proxy). Valori numerici del 7 e 8 ottobre ripresi dall'aggiornamento precedente e non riconfermati; per 9 e 10 ottobre solo tendenza qualitativa nazionale/Centro, nessun dato puntuale per Pesaro."
 }

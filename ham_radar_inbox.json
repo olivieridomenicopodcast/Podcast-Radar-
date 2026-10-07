@@ -1,47 +1,56 @@
 [
  {
   "id": "ham-001",
-  "title": "Geomagnetico: Kp massimo previsto 3,67 il 6 ottobre, G1 possibile tra il 5 e il 7",
-  "source": "NOAA SWPC (via spaceweatherlive, aggregatori)",
+  "title": "DXpedition attive a ottobre 2026: HF0PAS, KH8A, H49A, 9T0MD, 7P8GE/7P9EA, V55Y, S9R",
+  "source": "DX Zone (calendario eventi ottobre 2026)",
   "affidabilita": "secondaria",
-  "date": "2026-10-06",
-  "brief": "Per il 6 ottobre condizioni da instabili ad attive con calo in serata; il Kp massimo atteso e 3,67, sotto la soglia G1. Per il periodo 5-7 ottobre il Kp massimo previsto e 5 (G1). Nessuna tempesta di radiazione S1 attesa; brillamenti di classe C possibili (35%), M poco probabili fino all'8 ottobre.",
-  "rilevanza": "Possibili degradazioni sulle bande alte e ai percorsi polari; controllare il K-index prima di operare."
+  "date": "2026-10-07",
+  "brief": "Il calendario di DX Zone elenca per ottobre le attivita HF0PAS (South Shetland, AN-010), KH8A (Samoa Americane, OC-045), H49A (Isole Salomone, OC-047), 9T0MD (RD Congo), 7P8GE e 7P9EA (Lesotho), V55Y (Namibia) e S9R (Sao Tome). Le date esatte di ciascuna non sono state verificate; controllare NG3K ADXO.",
+  "rilevanza": "Occasioni per nuovi DXCC e band-slot, da confermare sulle date prima di operare."
  },
  {
   "id": "ham-002",
-  "title": "Oceania DX Contest: fase CW il 10-11 ottobre",
-  "source": "oceaniadxcontest.com; K6LDF contest brief",
+  "title": "Contest di ottobre: Oceania DX (Phone e CW), TRC DX, SAC SSB, JARTS RTTY, WAG, Stew Perry",
+  "source": "DX Zone (calendario contest ottobre 2026)",
   "affidabilita": "secondaria",
-  "date": "2026-10-03",
-  "brief": "La 83a edizione ha avuto la fase SSB il 3-4 ottobre (160-10 m). La parte CW e in calendario il 10-11 ottobre, come indicato nelle fonti precedenti; la data va riconfermata sul sito ufficiale.",
-  "rilevanza": "Occasione per collegare l'Oceania da Europa."
+  "date": "2026-10-07",
+  "brief": "Il calendario contest di ottobre include Oceania DX Contest, TRC DX Contest, Scandinavian Activity Contest SSB, JARTS WW RTTY, Worked All Germany, Stew Perry Topband Challenge e CQ WW DX SSB. Le date specifiche vanno confermate sui regolamenti ufficiali.",
+  "rilevanza": "Utile per pianificare i fine settimana operativi."
  },
  {
   "id": "ham-003",
-  "title": "CQ WW DX SSB il 24-25 ottobre 2026",
-  "source": "cqww.com; NG3K",
-  "affidabilita": "primaria",
-  "date": "2026-10-06",
-  "brief": "Il CQ World Wide DX Contest SSB si svolge il 24-25 ottobre 2026. E il principale contest DX dell'autunno e attira molte DXpedition.",
-  "rilevanza": "Pianificare antenne e stazione."
+  "title": "CQ WW DX SSB: date discordanti (24-25 o 25-26 ottobre)",
+  "source": "DX Zone; cqww.com (da ricerca precedente)",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-07",
+  "brief": "Una fonte indica il 25-26 ottobre, mentre la voce precedente dell'inbox citava il 24-25 ottobre. La regola del contest e l'ultimo fine settimana completo di ottobre, che nel 2026 sembra il 24-25, ma la conferma va fatta su cqww.com.",
+  "rilevanza": "Il piu grande contest DX di fonia autunnale: serve la data corretta per pianificare."
  },
  {
   "id": "ham-004",
-  "title": "DXpedition: Congo (RD) fino all'11 ottobre; C6AQQ da New Providence 22-27 ottobre",
-  "source": "NG3K; DX-World",
+  "title": "Hamlib vince l'Amateur Radio Software Award 2026",
+  "source": "HamWeekly (aprile 2026)",
   "affidabilita": "secondaria",
-  "date": "2026-10-05",
-  "brief": "Attiva una DXpedition in Repubblica Democratica del Congo con termine l'11 ottobre (nominativo non verificato). Brian ND3F sara C6AQQ da New Providence (NA-001, Bahamas) il 22-27 ottobre, partecipando al CQ WW SSB nella categoria SOSB 15 m bassa potenza.",
-  "rilevanza": "Opportunita DXCC; controllare NG3K ADXO."
+  "date": "2026-04-01",
+  "brief": "Hamlib e stato scelto per l'Amateur Radio Software Award 2026, riconoscendo i core developer N0NB, N3GB, IU5HKX e OH3BHX per il ruolo nel controllo dei ricetrasmettitori da software. Notizia di aprile, non delle ultime 48 ore; inclusa come contesto.",
+  "rilevanza": "Conferma la solidita del progetto per chi controlla radio Kenwood e altre da software."
  },
  {
   "id": "ham-005",
-  "title": "Hamlib 4.7.2 e la versione stabile corrente; aggiunto supporto Hamgeek uSGX",
-  "source": "Hamlib GitHub wiki (Download); HamWeekly",
+  "title": "Nuovi apparati mostrati a Ham Fair Japan: Yaesu FTX-1F, Icom IC-7760, mobile Kenwood non ancora nominato",
+  "source": "HamWeekly (agosto 2024)",
   "affidabilita": "segnale debole",
-  "date": "2026-10-06",
-  "brief": "La pagina download di Hamlib indica 4.7.2 come stabile, con supporto al nuovo modello Hamgeek uSGX (citato dalla ricerca come Kenwood, attribuzione non verificata). Data di rilascio non verificata. Nessuna novita Kenwood o SDR di rilievo trovata nelle ultime 48 ore.",
-  "rilevanza": "Utile per chi usa software di controllo radio."
+  "date": "2024-08-01",
+  "brief": "Un articolo di agosto 2024 riporta Yaesu FTX-1F, Icom IC-7760 e un mobile Kenwood APRS/D-STAR senza nome. Risale a oltre due anni fa e non e una novita di questi giorni; inclusa solo perche non e emersa alcuna novita Kenwood o SDR recente.",
+  "rilevanza": "Per le ultime 48 ore non risultano novita attrezzatura Kenwood o SDR verificate."
+ },
+ {
+  "id": "ham-006",
+  "title": "Propagazione e meteo spaziale: nessun dato aggiornato verificato per il 6-7 ottobre",
+  "source": "NOAA SWPC (non raggiungibile in questa ricerca)",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-07",
+  "brief": "Le ricerche di oggi non hanno restituito bollettini NOAA o K-index aggiornati; l'ultimo quadro nell'inbox precedente (6 ottobre) indicava Kp massimo 3,67 con G1 possibile tra il 5 e il 7. Nessuna nuova norma IARU o nazionale trovata nelle ultime 48 ore.",
+  "rilevanza": "Controllare direttamente NOAA SWPC prima di operare sulle bande alte."
  }
 ]
