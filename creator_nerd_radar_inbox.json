@@ -1,9 +1,20 @@
 [
-{"id": "nerd-2026-lucca-moccia-tomodachi", "title": "Lucca Comics 2026: Dario Moccia al Tomodachi Playground (30 ottobre, 15-16, Auditorium San Romano)", "source": "https://redcapes.it/lucca-comics-games-2026-il-programma-completo-dellarea-comics-delledizione-legacy/ ; https://www.meganerd.it/lucca-60-fumetto-lucca-comics-games-2026/", "affidabilita": "segnale debole", "date": "2026-09-24", "brief": "Tomodachi Press (manga) presenta la conferenza di annunci 'Tomodachi Playground' con Dario Moccia, Davide Masella e Agnese Innocente; altri nomi da comunicare. Programma pubblicato circa il 24 settembre (FUORI dalle 48 ore). Lucca 2026 è l'edizione numero 60, dal 28 ottobre al 1 novembre.", "tipo": "evento: creator + editoria manga, possibile annuncio di collaborazione"},
-{"id": "nerd-2026-lucca-sio-powerpizza", "title": "Lucca Comics 2026: Sio al Power Pizza Podcast e con 'Evviva che bello!' (1 novembre, 16:30)", "source": "https://redcapes.it/lucca-comics-games-2026-il-programma-completo-dellarea-comics-delledizione-legacy/", "affidabilita": "segnale debole", "date": "2026-09-24", "brief": "Il Power Pizza Podcast (Nick, Lorro, con Sio/Gigaciao) è in programma domenica 1 novembre all'Auditorium San Romano. Sio presenta anche il suo libro 'Evviva che bello!'. Programma noto dal 24 settembre circa, FUORI dalle 48 ore.", "tipo": "evento: podcast e fumetto, ponte tra creator e fumettisti"},
-{"id": "nerd-2026-lucca-cydonia-kitase", "title": "Lucca Comics 2026: Cydonia (Wonderful Neoran Valley) in meet & greet; ospite Yoshinori Kitase (FF VII)", "source": "https://www.illibraio.it/news/narrativa/lucca-comics-games-2026-1500752/ ; https://sugarpulp.it/lucca-comics-games-2026-il-fumetto-invade-la-citta-con-oltre-400-ospiti/", "affidabilita": "secondaria", "date": "2026-09-24", "brief": "Oltre 400 ospiti in tredici padiglioni: Frank Miller, Jonathan Hickman, Go Nagai, Paru Itagaki, tra gli altri. Cydonia, creative director del gioco indie Wonderful Neoran Valley, incontra il pubblico col team di sviluppo. Il programma non evidenzia YouTuber come ospiti principali.", "tipo": "evento: contesto di riferimento per tutta la scena nerd italiana"},
-{"id": "nerd-2026-10-02-view-conference", "title": "VIEW Conference 2026 a Torino (animazione, VFX, videogiochi, IA)", "source": "https://orgoglionerd.it/ (post del 2 ottobre 2026, via ricerca web)", "affidabilita": "segnale debole", "date": "2026-10-02", "brief": "Orgoglionerd segnala la VIEW Conference a Torino. Dettagli su date e ospiti non verificati (sito non apribile). Rilevanza per i creator limitata, utile per spunti su animazione e videogiochi.", "tipo": "evento di settore, da approfondire"},
-{"id": "nerd-2026-10-gaggero-lucca", "title": "Lucca Comics 2026: la content creator Eleonora Gaggero porta la storia distopica 'Anomaly'", "source": "ricerca web (risultati su ospiti Lucca 2026)", "affidabilita": "segnale debole", "date": "2026-09-24", "brief": "Tra gli ospiti dell'edizione 2026 (28 ottobre - 1 novembre). Programma noto dal 24 settembre circa, FUORI dalle 48 ore; una sola fonte letta.", "tipo": "evento: creator e fumetto"},
-{"id": "nerd-2026-10-06-gears-eday-lancio", "title": "Gears of War: E-Day esce oggi: tema probabile per i canali gaming italiani", "source": "Pure Xbox / TechRadar (via ricerca web)", "affidabilita": "segnale debole", "date": "2026-10-06", "brief": "Lancio il 6 ottobre su Xbox Series e PC. Non verificati video o reazioni di singoli creator italiani.", "tipo": "contesto: uscita videogioco per i creator"},
-{"id": "nerd-2026-lucca-60-legacy", "title": "Lucca Comics & Games 2026 (60 anni, 'Legacy'): 28 ottobre - 1 novembre, con Go Nagai, Frank Miller, Kitase, Kamiya", "source": "https://multiplayer.it/notizie/lucca-comics-games-2026-sara-unedizione-eccezionale-con-go-nagai-yoshinori-kitase-e-tanti-altri.html ; https://www.bestmovie.it/news/lucca-comics-games-2026-celebra-60-anni-con-legacy-da-go-nagai-a-frank-miller-i-primi-grandi-annunci/970047/", "affidabilita": "secondaria", "date": "2026-09-24", "brief": "Edizione del sessantennale, circuito mostre dal 3 ottobre. Le ricerche non mostrano YouTuber/streamer tra gli ospiti principali; i creator italiani compaiono nei panel collaterali. Notizia FUORI dalle 48 ore.", "tipo": "evento: contesto per la scena nerd italiana"}
+ {
+  "id": "creator-2026-lucca-moccia",
+  "title": "Lucca Comics 2026: Dario Moccia al Tomodachi Playground (30 ottobre)",
+  "source": "Redcapes, Meganerd",
+  "affidabilita": "segnale debole",
+  "date": "2026-09-24",
+  "brief": "Tomodachi Press presenta la conferenza di annunci con Dario Moccia, Davide Masella e Agnese Innocente. Fuori dalle 48 ore: confermato dai programmi già visti nei giorni scorsi.",
+  "tipo": "evento"
+ },
+ {
+  "id": "creator-2026-lucca-jundo",
+  "title": "Jundo annuncia in live Twitch gli ospiti di Lucca 2026",
+  "source": "Animeclick",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-08",
+  "brief": "Il canale Twitch di Jundo ha dato novità sugli ospiti di Lucca. Non è chiaro se sarà lui stesso presente. Nessun elenco ufficiale di youtuber o streamer trovato oggi: è un segnale debole.",
+  "tipo": "creator e fiere"
+ }
 ]

@@ -1,9 +1,38 @@
 [
-{"id": "metal-2026-10-02-imminence-axis-mundi", "title": "Imminence: sesto album 'Axis Mundi' uscito il 2 ottobre (Sumerian)", "source": "https://knotfest.com/blogs/news/imminence-unveil-their-sixth-studio-album-axis-mundi ; https://heavymag.com.au/imminence-announce-new-album-share-two-tracks/", "affidabilita": "secondaria", "date": "2026-10-02", "brief": "Metalcore svedese, 11 tracce prodotte con Drew Fulk, singoli 'The Sword That Never Bends', 'False Light', 'Crestfallen'. Uscita circa 5 giorni fa: FUORI dalle 48 ore. Annunciato anche un tour EU con August Burns Red e House of Protection (date e tappe italiane non verificate); tour nordamericano dal 13 novembre.", "tipo": "album uscito (metalcore)"},
-{"id": "metal-2026-hatebreed-comebackkid", "title": "Hatebreed 'Fatal Paradox' e Comeback Kid 'Chosen Hell': entrambi in uscita il 6 novembre", "source": "https://blabbermouth.net/news/hatebreed-announces-new-album-fatal-paradox-shares-kill-count-increase-single ; https://blabbermouth.net/news/canadian-hardcore-heroes-comeback-kid-announce-new-album-chosen-hell", "affidabilita": "secondaria", "date": "2026-08-27", "brief": "Hatebreed (nono album, BLKIIBLK, ospite John Tardy degli Obituary, annuncio del 21 luglio) e Comeback Kid (ottavo album, prodotto da Will Putney, ospite Courtney LaPlante) escono lo stesso giorno. Annunci vecchi di settimane: FUORI dalle 48 ore, utili come calendario novembre.", "tipo": "album annunciati (metalcore/hardcore)"},
-{"id": "metal-2026-10-bfmv-social-apocalypse", "title": "Bullet For My Valentine: album 'Social Apocalypse' il 19 marzo 2027 (Spinefarm)", "source": "https://blabbermouth.net/news/bullet-for-my-valentine-announces-new-album-social-apocalypse-shares-title-track", "affidabilita": "segnale debole", "date": "2026-10-06", "brief": "Primo brano nuovo in quattro anni con il singolo omonimo. Data esatta dell'annuncio non verificata (potrebbe essere FUORI dalle 48 ore). Una sola fonte letta.", "tipo": "album annunciato (metalcore/heavy)"},
-{"id": "metal-2026-10-iommi-from-the-dark", "title": "Tony Iommi: nuovo album solista 'From The Dark' il 23 ottobre (BMG)", "source": "https://blabbermouth.net/news/black-sabbath-legend-tony-iommi-announces-new-solo-album-from-the-dark", "affidabilita": "segnale debole", "date": "2026-10-06", "brief": "Uscita mondiale il 23 ottobre. Data dell'annuncio non verificata, una sola fonte letta.", "tipo": "album annunciato (heavy metal)"},
-{"id": "metal-2026-10-02-blindchannel-intothevoid", "title": "Blind Channel: nuovo singolo 'Into The Void' con Aaron Pauley (Of Mice & Men) verso 'Painstream'", "source": "https://slrmagazine.com/2026/10/02/finnish-modern-metal-outfit-blind-channel-joins-forces-with-of-mice-mens-aaron-pauley-on-cosmic-new-single-into-the-void/ ; https://rocksound.tv/news/blind-channel-announce-new-album-painstream", "affidabilita": "segnale debole", "date": "2026-10-02", "brief": "I finlandesi Blind Channel tornano dopo circa 1,5 anni di pausa con il sesto album 'Painstream' (Century Media, 12 tracce, uscita 30 ottobre 2026). Il nuovo singolo ha come ospite Aaron Pauley. Annunciato anche un concerto europeo di ritorno (dettagli non verificati). Date Italia non verificate.", "tipo": "album/singolo (modern metal / nu-metalcore)"},
-{"id": "metal-2026-09-darkesthour-sufferdivine", "title": "Darkest Hour: album 'Suffer Divine' il 30 ottobre 2026 (MNRK Heavy), title track in uscita", "source": "https://blabbermouth.net/news/darkest-hour-announces-new-album-suffer-divine-shares-title-track ; https://consequence.net/2026/09/darkest-hour-new-album-suffer-divine/ ; https://lambgoat.com/news/54598/", "affidabilita": "segnale debole", "date": "2026-09-01", "brief": "Undicesimo album dei veterani del melodic metalcore di Washington DC, 11 tracce, prodotto da Mark Lewis. Annuncio e title track già usciti a settembre (giorno esatto non verificato: data indicativa, FUORI dalle 48 ore). Uscita album tra 25 giorni. Più fonti indipendenti concordano su titolo e data.", "tipo": "album annunciato (metalcore melodico), uscita imminente"},
-{"id": "metal-2026-10-04-withered-land-piesni-vietru", "title": "Withered Land: annunciato il terzo album 'Piesni Vietru' (27 novembre 2026)", "source": "https://www.truemetal.it/heavy-metal-news/withered-land-annunciato-il-terzo-album-piesni-vietru-1254917", "affidabilita": "secondaria", "date": "2026-10-04", "brief": "Immortal Frost Productions annuncia il terzo full-length della band atmospheric black bielorussa: uscita 27 novembre 2026, vari formati fisici (CD jewel case con booklet 12 pagine, 500 copie). Fonte singola (truemetal.it, riportata dal motore di ricerca, pagina non apribile per blocco rete).", "tipo": "album annunciato (black metal atmosferico, nicchia)"}
+ {
+  "id": "metal-2026-10-09-uscite",
+  "title": "Uscite del 9 ottobre: Graveyard, Tungsten, Unpeople",
+  "source": "Loudwire (calendario uscite 2026)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-09",
+  "brief": "Il calendario Loudwire elenca per venerdì 9 ottobre Fever dei Graveyard (Nuclear Blast), Ashes dei Tungsten e We Are Unpeople degli Unpeople (SharpTone). Fonte unica.",
+  "tipo": "album in uscita"
+ },
+ {
+  "id": "metal-2026-10-02-uscite",
+  "title": "Uscite del 2 ottobre: Miss May I, Frozen Crown, Brymir",
+  "source": "Loudwire (calendario uscite 2026)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-02",
+  "brief": "Usciti il 2 ottobre No Place For Me dei Miss May I (Solid State), The Legend Of The Six Kings dei Frozen Crown e What We Leave Behind dei Brymir (Napalm). Fuori dalle 48 ore, riportato come contesto.",
+  "tipo": "album usciti"
+ },
+ {
+  "id": "metal-2026-bfmv-social-apocalypse",
+  "title": "Bullet For My Valentine: nuovo album 'Social Apocalypse' il 19 marzo 2027, data a Assago il 25 gennaio",
+  "source": "Ticketone, Impericon, Kerrang!",
+  "affidabilita": "secondaria",
+  "date": "2026-09-28",
+  "brief": "Album prodotto da Carl Brown (Spinefarm). Unica data italiana: Unipol Forum di Assago il 25 gennaio 2027, con Pendulum e Dark Divine. Prevendite dal 28 settembre, vendita generale dal 30. Fuori dalle 48 ore.",
+  "tipo": "album e tour"
+ },
+ {
+  "id": "metal-2027-italia",
+  "title": "Concerti metal in Italia nel 2027: Manowar (26-27 marzo, Bergamo), Megadeth (6 aprile, Assago)",
+  "source": "Ticketone, manowar.com",
+  "affidabilita": "secondaria",
+  "date": "2026-10-08",
+  "brief": "Manowar suonano integralmente Kings of Metal e Fighting The World alla ChorusLife Arena di Bergamo; Megadeth tornano all'Unipol Forum il 6 aprile 2027 con Black Label Society e Testament. Date degli annunci non verificate.",
+  "tipo": "tour in Italia"
+ }
 ]

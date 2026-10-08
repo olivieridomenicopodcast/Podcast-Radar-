@@ -1,47 +1,38 @@
 [
  {
-  "id": "nerd-2026-10-06-star-wars-galactic-racer",
-  "title": "Star Wars: Galactic Racer esce il 6 ottobre su PC, Xbox e PS5",
-  "source": "Risultati di ricerca web (aggregatori)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-06",
-  "brief": "Secondo i risultati di ricerca il gioco di corse e uscito martedi 6 ottobre 2026 su PC, Xbox e PS5. Dettagli e recensioni non verificati sulla fonte originale.",
-  "tipo": "uscita videogioco"
- },
- {
-  "id": "nerd-2026-10-06-epic-mickey-switch2",
-  "title": "Disney Epic Mickey: Rebrushed esce su Switch 2 il 6 ottobre",
-  "source": "Nintendo Life / THQ Nordic (via ricerca web)",
+  "id": "nerd-2026-10-22-essen",
+  "title": "SPIEL Essen 2026: 22-25 ottobre, tutti gli 8 padiglioni per la prima volta",
+  "source": "Spielwarenmesse, Spielbox, Zatu",
   "affidabilita": "secondaria",
-  "date": "2026-10-06",
-  "brief": "Versione Switch 2 con risoluzione e framerate migliorati, controlli in stile mouse con i Joy-Con 2 e Costume Pack DLC incluso. Aggiornamento gratuito per chi possiede la versione Switch 1.",
-  "tipo": "uscita videogioco"
+  "date": "2026-10-08",
+  "brief": "La fiera occuperà per la prima volta tutti gli 8 padiglioni (81.200 m²). Circa 921 espositori da 53 paesi e oltre 1.500 novità attese; nuovo premio TCG Awards e area laser tag Warhammer 40,000. Un listing riporta date diverse (8-11 ottobre), ma appare errato.",
+  "tipo": "fiera internazionale"
  },
  {
-  "id": "nerd-2026-10-06-gears-eday",
-  "title": "Gears of War: E-Day e uscito il 6 ottobre su Xbox Series e PC",
-  "source": "Risultati di ricerca web",
+  "id": "nerd-2026-10-28-lucca",
+  "title": "Lucca Comics & Games 2026: 60 anni, dal 28 ottobre al 1° novembre",
+  "source": "Ticketone, Smartworld, Italotreno",
   "affidabilita": "secondaria",
-  "date": "2026-10-06",
-  "brief": "Lancio il 6 ottobre 2026 per console Xbox e PC. Recensioni e voti gia riportati nel precedente inbox; qui nessun nuovo dato verificato.",
-  "tipo": "uscita videogioco"
+  "date": "2026-10-08",
+  "brief": "Edizione del sessantesimo con tema 'Legacy'; mostre aperte dal 3 ottobre. Ospiti videogiochi annunciati: Yoshinori Kitase e Hideki Kamiya. Una fonte parla di chiusura al 31 ottobre, ma la maggioranza indica il 1° novembre.",
+  "tipo": "fiera italiana"
  },
  {
-  "id": "nerd-2026-10-essen-date",
-  "title": "Spiel Essen 2026 si terra dal 22 al 25 ottobre alla Messe Essen",
-  "source": "Risultati di ricerca web (pagine fiera)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-07",
-  "brief": "Piu di 900 espositori da oltre 50 paesi e circa 1.700 novita attese in fiera. Non e una notizia nuova delle ultime 48 ore ma conferma le date.",
-  "tipo": "fiera gioco da tavolo"
+  "id": "nerd-2026-10-13-valor-mortis",
+  "title": "Videogiochi in uscita: Valor Mortis il 13 ottobre, Call of Duty: Modern Warfare 4 il 23 ottobre",
+  "source": "Vgmag.it, esports.gg, GameDaily (resoconti TGS e gamescom)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-08",
+  "brief": "Date emerse tra gamescom e Tokyo Game Show: Valor Mortis (soulslike) il 13 ottobre, Call of Duty: Modern Warfare 4 il 23 ottobre, Neon Abyss 2 l'8 ottobre. Le fonti di aggregazione sono però secondarie.",
+  "tipo": "uscite videogiochi"
  },
  {
-  "id": "nerd-2026-10-lucca-date",
-  "title": "Lucca Comics & Games 2026: date 28 ottobre - 1 novembre, nessun nuovo annuncio da tavolo verificato oggi",
-  "source": "Risultati di ricerca web",
+  "id": "nerd-2026-10-capcom-tgs",
+  "title": "Capcom al TGS: Monster Hunter Wilds: Ascendance nel 2027, Arjun in Street Fighter 6 il 13 o 14 ottobre",
+  "source": "CGMagOnline, resoconti TGS",
   "affidabilita": "segnale debole",
-  "date": "2026-10-07",
-  "brief": "Ricerche sulle novita da tavolo di Lucca ed Essen non hanno restituito annunci datati alle ultime 48 ore. Date gia riportate nell'inbox precedente.",
-  "tipo": "fiera gioco da tavolo"
+  "date": "2026-09-17",
+  "brief": "Capcom ha annunciato Monster Hunter Wilds: Ascendance per il 2027 e un nuovo personaggio per Street Fighter 6. Le fonti non concordano sul giorno (13 o 14 ottobre). Notizia fuori dalle 48 ore.",
+  "tipo": "annuncio videogioco"
  }
 ]

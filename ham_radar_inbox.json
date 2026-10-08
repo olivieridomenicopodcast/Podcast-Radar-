@@ -1,56 +1,38 @@
 [
  {
-  "id": "ham-001",
-  "title": "DXpedition attive a ottobre 2026: HF0PAS, KH8A, H49A, 9T0MD, 7P8GE/7P9EA, V55Y, S9R",
-  "source": "DX Zone (calendario eventi ottobre 2026)",
+  "id": "ham-2026-10-08-g2-cme",
+  "title": "Allerta G2 per il 9 ottobre: CME da AR4549 in arrivo",
+  "source": "Space.com, SWPC/NOAA (riportato)",
   "affidabilita": "secondaria",
-  "date": "2026-10-07",
-  "brief": "Il calendario di DX Zone elenca per ottobre le attivita HF0PAS (South Shetland, AN-010), KH8A (Samoa Americane, OC-045), H49A (Isole Salomone, OC-047), 9T0MD (RD Congo), 7P8GE e 7P9EA (Lesotho), V55Y (Namibia) e S9R (Sao Tome). Le date esatte di ciascuna non sono state verificate; controllare NG3K ADXO.",
-  "rilevanza": "Occasioni per nuovi DXCC e band-slot, da confermare sulle date prima di operare."
+  "date": "2026-10-08",
+  "brief": "NOAA ha emesso un avviso (watch) G2 per il 9 ottobre per una CME generata da flare M1.4 e M1.8 della regione AR4549. L'orario d'arrivo è incerto (prime ore UTC del 9). Flusso solare a 10.7 cm circa 93 sfu il 5 ottobre. Possibile degrado dell'HF e aurore alle alte latitudini; è una mia inferenza, non una fonte HF.",
+  "rilevanza": "Condizioni HF instabili tra 9 e 10 ottobre, soprattutto sui percorsi polari."
  },
  {
-  "id": "ham-002",
-  "title": "Contest di ottobre: Oceania DX (Phone e CW), TRC DX, SAC SSB, JARTS RTTY, WAG, Stew Perry",
-  "source": "DX Zone (calendario contest ottobre 2026)",
+  "id": "ham-2026-10-24-cqww-ssb",
+  "title": "CQ WW DX Contest SSB: 24-25 ottobre 2026",
+  "source": "cqww.com, regolamento 2026",
+  "affidabilita": "primaria",
+  "date": "2026-10-08",
+  "brief": "Il sito ufficiale indica SSB dalle 00:00 UTC di sabato 24 alle 23:59 UTC di domenica 25 ottobre; la parte CW il 28-29 novembre. Scambio: RS più zona CQ, bande 160-10 m. Una fonte secondaria riporta date diverse, ma è datata.",
+  "rilevanza": "Il contest più grande dell'anno: occasione per DXCC e zone CQ."
+ },
+ {
+  "id": "ham-2026-10-dxzone-dxpedition",
+  "title": "DXpedition di ottobre: KH8A, H49A, 7P8GE/7P9EA, V55Y, S9R",
+  "source": "DX Zone (calendario ottobre 2026)",
   "affidabilita": "secondaria",
-  "date": "2026-10-07",
-  "brief": "Il calendario contest di ottobre include Oceania DX Contest, TRC DX Contest, Scandinavian Activity Contest SSB, JARTS WW RTTY, Worked All Germany, Stew Perry Topband Challenge e CQ WW DX SSB. Le date specifiche vanno confermate sui regolamenti ufficiali.",
-  "rilevanza": "Utile per pianificare i fine settimana operativi."
+  "date": "2026-10-08",
+  "brief": "Il calendario elenca KH8A (Samoa Americane), H49A (Salomone), 7P8GE e 7P9EA (Lesotho), V55Y (Namibia) e S9R (São Tomé). Date esatte non verificate; confronta con NG3K ADXO.",
+  "rilevanza": "Occasioni per nuovi DXCC, da confermare prima di operare."
  },
  {
-  "id": "ham-003",
-  "title": "CQ WW DX SSB: date discordanti (24-25 o 25-26 ottobre)",
-  "source": "DX Zone; cqww.com (da ricerca precedente)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-07",
-  "brief": "Una fonte indica il 25-26 ottobre, mentre la voce precedente dell'inbox citava il 24-25 ottobre. La regola del contest e l'ultimo fine settimana completo di ottobre, che nel 2026 sembra il 24-25, ma la conferma va fatta su cqww.com.",
-  "rilevanza": "Il piu grande contest DX di fonia autunnale: serve la data corretta per pianificare."
- },
- {
-  "id": "ham-004",
-  "title": "Hamlib vince l'Amateur Radio Software Award 2026",
-  "source": "HamWeekly (aprile 2026)",
+  "id": "ham-2026-10-contest-minori",
+  "title": "Altri contest di ottobre: Oceania DX, Scandinavian Activity, JARTS WW RTTY",
+  "source": "DX Zone",
   "affidabilita": "secondaria",
-  "date": "2026-04-01",
-  "brief": "Hamlib e stato scelto per l'Amateur Radio Software Award 2026, riconoscendo i core developer N0NB, N3GB, IU5HKX e OH3BHX per il ruolo nel controllo dei ricetrasmettitori da software. Notizia di aprile, non delle ultime 48 ore; inclusa come contesto.",
-  "rilevanza": "Conferma la solidita del progetto per chi controlla radio Kenwood e altre da software."
- },
- {
-  "id": "ham-005",
-  "title": "Nuovi apparati mostrati a Ham Fair Japan: Yaesu FTX-1F, Icom IC-7760, mobile Kenwood non ancora nominato",
-  "source": "HamWeekly (agosto 2024)",
-  "affidabilita": "segnale debole",
-  "date": "2024-08-01",
-  "brief": "Un articolo di agosto 2024 riporta Yaesu FTX-1F, Icom IC-7760 e un mobile Kenwood APRS/D-STAR senza nome. Risale a oltre due anni fa e non e una novita di questi giorni; inclusa solo perche non e emersa alcuna novita Kenwood o SDR recente.",
-  "rilevanza": "Per le ultime 48 ore non risultano novita attrezzatura Kenwood o SDR verificate."
- },
- {
-  "id": "ham-006",
-  "title": "Propagazione e meteo spaziale: nessun dato aggiornato verificato per il 6-7 ottobre",
-  "source": "NOAA SWPC (non raggiungibile in questa ricerca)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-07",
-  "brief": "Le ricerche di oggi non hanno restituito bollettini NOAA o K-index aggiornati; l'ultimo quadro nell'inbox precedente (6 ottobre) indicava Kp massimo 3,67 con G1 possibile tra il 5 e il 7. Nessuna nuova norma IARU o nazionale trovata nelle ultime 48 ore.",
-  "rilevanza": "Controllare direttamente NOAA SWPC prima di operare sulle bande alte."
+  "date": "2026-10-08",
+  "brief": "Oltre al CQ WW, il calendario DX Zone elenca Oceania DX (fonia e CW), Scandinavian Activity SSB e JARTS WW RTTY. Date puntuali non verificate.",
+  "rilevanza": "Alternative più leggere per fare pratica."
  }
 ]

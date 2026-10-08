@@ -1,178 +1,112 @@
 [
-{
-"id": "es-01",
-"title": "Codenames su Netflix: CGE sviluppa il gioco dopo una richiesta di licenza",
-"source": "BoardGameWire",
-"affidabilita": "segnale debole",
-"date": "2026-10-02",
-"brief": "Secondo BoardGameWire, Netflix aveva contattato CGE per una licenza e poi ha incaricato CGE di sviluppare il gioco. Fonte unica. Fuori finestra di 48 ore (5 giorni fa).",
-"tipo": "licenza / digitale",
-"mercato": "estero",
-"rilevanza": "Percorso licenza-sviluppo su commissione per un party game: utile a chi pensa a pitch verso piattaforme digitali."
-},
-{
-"id": "es-02",
-"title": "Game Store Day: seconda edizione con più publisher e più tempo di preparazione",
-"source": "BoardGameWire",
-"affidabilita": "segnale debole",
-"date": "2026-10-01",
-"brief": "BoardGameWire scrive che retailer e publisher hanno avuto più tempo che al debutto; l'iniziativa GAMA punta a portare più persone nei negozi di giochi. Fonte unica. Fuori finestra di 48 ore.",
-"tipo": "distribuzione / retail",
-"mercato": "estero",
-"rilevanza": "Canale di visibilità retail per i titoli in uscita, da conoscere per il lancio di un gioco."
-},
-{
-"id": "es-03",
-"title": "MyMiniFactory: l'ex responsabile marketing lancia Tabletop Growth Partners, agenzia per publisher",
-"source": "BoardGameWire (da risultato di ricerca)",
-"affidabilita": "segnale debole",
-"date": "2026-10-02",
-"brief": "Il responsabile marketing di MyMiniFactory lascia per lanciare un'agenzia di crescita per publisher da tavolo, rivolta soprattutto a GdR e wargame. Fonte unica, dettagli non verificati. Fuori finestra di 48 ore.",
-"tipo": "persone / servizi per editori",
-"mercato": "estero",
-"rilevanza": "Segnala servizi di marketing esterni per piccoli editori: possibile interlocutore per chi autopubblica."
-},
-{
-"id": "es-04",
-"title": "Holy Radish annuncia la data di arrivo di Midgardr con un nuovo trailer",
-"source": "risultato di ricerca web (testata non verificata)",
-"affidabilita": "segnale debole",
-"date": "2026-10-06",
-"brief": "Holy Radish ha annunciato la data per Midgardr, gioco narrativo e city builder, con un trailer. Fonte unica e data non verificata alla fonte; potrebbe riguardare anche il titolo digitale.",
-"tipo": "annuncio titolo",
-"mercato": "estero",
-"rilevanza": "Esempio di comunicazione di lancio per un gioco narrativo a scelte e conseguenze."
-},
-{
-"id": "es-05",
-"title": "Satisfactory: The Board Game, di MOOD Publishing, su Gamefound",
-"source": "Gamingtrend, Wargamer, Bleeding Cool (da risultati di ricerca)",
-"affidabilita": "secondaria",
-"date": "2026-10-13",
-"brief": "Coffee Stain Studios e MOOD Publishing (Deep Rock Galactic, Valheim) portano Satisfactory su tavolo, 1-4 giocatori, su Gamefound. Le fonti indicano la campagna in settembre in un testo e dal 13 ottobre 2026 in un altro: discrepanza non risolta, data nel campo non verificata. Non è una notizia delle ultime 48 ore.",
-"tipo": "licenza videogioco / crowdfunding",
-"mercato": "estero",
-"rilevanza": "Modello di adattamento di un videogioco di successo da parte di un editore specializzato in licenze di videogiochi."
-},
-{
-"id": "es-06",
-"title": "SPIEL Essen 2026: dal 22 al 25 ottobre",
-"source": "Combo Festival / risultati di ricerca",
-"affidabilita": "secondaria",
-"date": "2026-10-22",
-"brief": "La fiera di Essen è in programma dal 22 al 25 ottobre 2026 (data confermata anche dalla comunicazione del Combo Festival). Data nel campo: inizio fiera, non una notizia delle ultime 48 ore.",
-"tipo": "fiera",
-"mercato": "estero",
-"rilevanza": "Occasione principale per incontri con editori e prototipi: fissare gli appuntamenti in anticipo."
-},
-{
-"id": "es-07",
-"title": "Dixit Signature: due set di carte, Villains e Adventure & Mystery, dal 9 ottobre",
-"source": "risultato di ricerca web (testata non verificata)",
-"affidabilita": "segnale debole",
-"date": "2026-10-09",
-"brief": "Due espansioni da 21 carte ciascuna, illustrate da James Rey Sanchez e John Stone, richiedono il gioco base. Data di pubblicazione dell'articolo non verificata. Le uscite in Italia sono indicate da Asmodee Italia per il 9 ottobre.",
-"tipo": "catalogo / espansioni",
-"mercato": "estero",
-"rilevanza": "Esempio di sfruttamento di una meccanica evergreen con espansioni a basso costo."
-},
-{
-"id": "it-01",
-"title": "COMBO Festival a Milano: 150 tavoli, oltre 40 editori e 35 anteprime assolute",
-"source": "Mentelocale, Assogiocattoli, MilanoWeekend",
-"affidabilita": "secondaria",
-"date": "2026-10-04",
-"brief": "Il primo COMBO Festival di Pedine, Dadi e Carte si è tenuto al Morel Milano il 3 e 4 ottobre 2026, organizzato da Ludo Labo, Studiolabo e Cranio Creations. Oltre 300 giochi da provare, talk, mostre, prototipi. Installazione 'Un gioco da ragazze' dedicata a 14 game designer donne. Evento appena concluso (circa 72 ore).",
-"tipo": "fiera",
-"mercato": "italia",
-"rilevanza": "Vetrina di editori italiani e spazio per prototipi, subito prima di Essen e Lucca."
-},
-{
-"id": "it-02",
-"title": "dV Games e Ghenos Games: uscite settembre-ottobre 2026 (Wine & Cheese, Super Boss Monster, Odino, Kronologic Babylon 2500)",
-"source": "Metropolitan Magazine, Nerdgames",
-"affidabilita": "secondaria",
-"date": "2026-10-01",
-"brief": "Le testate riportano le uscite in edizione italiana di dV Games e Ghenos Games, tra cui Tentar non noce (2 ottobre) e Kronologic: Babylon 2500 (9 ottobre). Data di pubblicazione degli articoli non verificata.",
-"tipo": "localizzazioni / catalogo",
-"mercato": "italia",
-"rilevanza": "Mostra quali giochi stranieri localizzano gli editori italiani."
-},
-{
-"id": "it-03",
-"title": "Asmodee Italia: uscite di ottobre 2026 (Dixit Signature il 9, Gatti che fanno cadere cose, Paradox Island e The King's Dilemma il 28)",
-"source": "GameScore (27 set 2026)",
-"affidabilita": "segnale debole",
-"date": "2026-09-27",
-"brief": "GameScore elenca le uscite di ottobre di Asmodee Italia. Fonte unica e fuori finestra di 48 ore.",
-"tipo": "catalogo / localizzazioni",
-"mercato": "italia",
-"rilevanza": "Panoramica del catalogo di un grande distributore-editore italiano."
-},
-{
-"id": "it-04",
-"title": "PLAY 2026: Panopticon su Gamefound a ottobre e nuova linea Foxy Games per i più piccoli",
-"source": "IoGioco.it",
-"affidabilita": "segnale debole",
-"date": "data non verificata",
-"brief": "IoGioco.it riporta che Panopticon sarà lanciato su Gamefound a ottobre 2026 e che una nuova linea, Foxy Games, proporrà giochi per bambini come Lava Run e Maya Run. Data dell'articolo non verificata, probabilmente più vecchia di 48 ore.",
-"tipo": "catalogo / crowdfunding",
-"mercato": "italia",
-"rilevanza": "Nuova linea editoriale per bambini: possibile interesse per autori di giochi per famiglie."
-},
-{
-"id": "it-05",
-"title": "Need Games: novità d'autunno online dal 5 ottobre, anteprima al Combo Festival",
-"source": "Geek.pizza (1 ott 2026)",
-"affidabilita": "segnale debole",
-"date": "2026-10-05",
-"brief": "Le uscite d'autunno di Need Games sono disponibili sullo shop dal 5 ottobre, con anteprima al Combo Festival. Fonte unica; titoli non verificati.",
-"tipo": "catalogo / uscite",
-"mercato": "italia",
-"rilevanza": "Aggiornamento sul catalogo di un editore italiano attivo."
-},
-{
-"id": "it-06",
-"title": "Gioco Inedito: concorso per prototipi con pubblicazione professionale da parte di dV Games",
-"source": "giocoinedito.com (da estratto di ricerca)",
-"affidabilita": "segnale debole",
-"date": "data non verificata",
-"brief": "Il sito del premio indica che la migliore proposta viene pubblicata da dV Games. Scadenza ed edizione 2026 non verificate: non è una notizia delle ultime 48 ore.",
-"tipo": "call for submissions",
-"mercato": "italia",
-"rilevanza": "Via diretta alla pubblicazione per autori inediti: controllare il bando sul sito."
-},
-{
-"id": "it-07",
-"title": "Lucca Comics & Games 2026: dal 28 ottobre al 1 novembre",
-"source": "SpazioGames, ToyStoreBiz (da ricerca precedente)",
-"affidabilita": "secondaria",
-"date": "2026-10-28",
-"brief": "Fiera dal 28 ottobre al 1 novembre. Data nel campo: inizio fiera. Le notizie sul programma sono di settembre, non delle ultime 48 ore.",
-"tipo": "fiera",
-"mercato": "italia",
-"rilevanza": "Appuntamento italiano più importante dell'autunno per editori e autori."
-},
-{
-"id": "it-08",
-"title": "IDEAG 2026 a Parma: ventunesima edizione con oltre 250 autori",
-"source": "IlGiocoInTavolo, idea-g.it",
-"affidabilita": "secondaria",
-"date": "2026-01-11",
-"brief": "La 21a edizione si è tenuta a Parma con oltre 250 autori e 15-25 editori in cerca di titoli. Nessuna nuova data IdeaG verificata. Molto più vecchia di 48 ore.",
-"tipo": "evento autori-editori",
-"mercato": "italia",
-"rilevanza": "Riferimento per il formato di IdeaG; controllare idea-g.it per le prossime date."
-},
-{
-"id": "it-09",
-"title": "Mario Cortese (Zerosem: DungeonDice e GateOnGames): DDCON e intervista sulle fiere italiane",
-"source": "Giochi sul Nostro Tavolo, Goblins.net, InfoLudiche (da ricerca precedente)",
-"affidabilita": "secondaria",
-"date": "2026-08-28",
-"brief": "GateOnGames, guidata da Mario Cortese, ha festeggiato 10 anni; la prima DDCON si è svolta il 28-30 agosto. Nessuna notizia nuova nelle ultime 48 ore.",
-"tipo": "persone / editori",
-"mercato": "italia",
-"rilevanza": "Punto di vista di un editore italiano sul canale fiere."
-}
+ {
+  "id": "gd-2026-10-essen-asmodee",
+  "title": "Asmodee a SPIEL Essen: Forest Shuffle Smoky Mountains, Citadels Duel, Harmonies e anteprima di Concept Stories (2027)",
+  "source": "Comunicato Asmodee del 23 settembre",
+  "affidabilita": "primaria",
+  "date": "2026-09-23",
+  "brief": "Zona Novità con Forest Shuffle: Smoky Mountains, Citadels Duel, Harmonies, Melodies, Rocket Rollout; zona Lord of the Rings con Circle of Conflict. Comunicato fuori dalle 48 ore.",
+  "tipo": "cataloghi / fiere",
+  "mercato": "estero",
+  "rilevanza": "Utile a capire cosa cerca un grande publisher e i linguaggi dei nuovi titoli."
+ },
+ {
+  "id": "gd-2026-10-devir-gaudi",
+  "title": "Devir porta a Essen 'Gaudí' di Dani Garcia",
+  "source": "ICv2 (articolo sponsorizzato)",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-08",
+  "brief": "Devir indica Gaudí come titolo di punta e Risky Mixes come versione inglese del party game spagnolo Mal Trago. Articolo sponsorizzato: va letto come comunicazione del publisher.",
+  "tipo": "localizzazioni",
+  "mercato": "estero",
+  "rilevanza": "Esempio di party game localizzato dallo spagnolo all'inglese."
+ },
+ {
+  "id": "gd-2026-10-essen-fiera",
+  "title": "SPIEL Essen 2026: 921 espositori, 1.500 novità e nuovo strumento B2B nell'app",
+  "source": "Spielwarenmesse, Spielbox",
+  "affidabilita": "secondaria",
+  "date": "2026-10-08",
+  "brief": "La fiera (22-25 ottobre) introduce nell'app ufficiale un nuovo strumento di matchmaking B2B pensato per editori e rivenditori.",
+  "tipo": "fiere / contatti",
+  "mercato": "estero",
+  "rilevanza": "Un canale in più per fissare incontri con editori."
+ },
+ {
+  "id": "gd-2026-10-bgg-54-card",
+  "title": "BGG 54-Card Game Design Contest: iscrizioni entro il 16 ottobre",
+  "source": "BoardGameGeek",
+  "affidabilita": "primaria",
+  "date": "2026-10-16",
+  "brief": "La scadenza indicata è il 16 ottobre 2026, ore 23:59 ora BGG.",
+  "tipo": "concorso",
+  "mercato": "estero",
+  "rilevanza": "Occasione concreta per un game designer con un prototipo da carte."
+ },
+ {
+  "id": "gd-2026-10-submissions",
+  "title": "Editori aperti a proposte: Stonemaier, Blue Orange, Gigamic, TESA Collective",
+  "source": "Guida Rafal Reyzer (aggiornata il 3 ottobre), pagine degli editori",
+  "affidabilita": "secondaria",
+  "date": "2026-10-03",
+  "brief": "Stonemaier è aperto con riserva (calendario pieno per anni), Blue Orange accetta email tutto l'anno, Gigamic prevede contratto con royalty, TESA Collective cerca giochi già testati sul tema del cambiamento.",
+  "tipo": "ricerca titoli",
+  "mercato": "estero",
+  "rilevanza": "Elenco aggiornato a chi mandare un pitch."
+ },
+ {
+  "id": "gd-2026-10-it-essen-cranio",
+  "title": "Cranio Creations a Essen: anteprime Entropy, Drillers, Greenwood",
+  "source": "craniocreations.it, goblins.net",
+  "affidabilita": "secondaria",
+  "date": "2026-10-05",
+  "brief": "Cranio ha una pagina speciale per Essen con preordine online e ritiro in fiera. Entropy è di Battista, Luciani e Mangone (Board and Dice). Date esatte degli annunci non verificate.",
+  "tipo": "cataloghi / fiere",
+  "mercato": "italia",
+  "rilevanza": "Autori italiani pubblicati da un editore italiano a Essen."
+ },
+ {
+  "id": "gd-2026-10-it-giochi-uniti",
+  "title": "Giochi Uniti presenta 'All You Can Chili' a Essen",
+  "source": "giochiuniti.it",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-08",
+  "brief": "Il sito riporta un party game presentato a Essen Spiel 2026; la data indicata dal sito è incoerente, quindi va verificata.",
+  "tipo": "cataloghi",
+  "mercato": "italia",
+  "rilevanza": "Segnale di ricerca di party game da parte di un editore italiano."
+ },
+ {
+  "id": "gd-2026-10-it-lucca-gdr",
+  "title": "Lucca Games 2026: programma GdR con D&D, Daggerheart e ORKEN",
+  "source": "SpazioGames (2 ottobre)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-02",
+  "brief": "Joe Manganiello e Critical Role guideranno il programma D&D, con la nuova linea 'D&D Icons'. SpazioGames ha anche un articolo sulle novità di giochi da tavolo a Lucca, ma non ne ho letto il corpo.",
+  "tipo": "fiere",
+  "mercato": "italia",
+  "rilevanza": "Panorama degli editori presenti a Lucca."
+ },
+ {
+  "id": "gd-2026-10-it-premio-archimede",
+  "title": "Bando del Premio Archimede 2027",
+  "source": "Studio Giochi",
+  "affidabilita": "secondaria",
+  "date": "2026-10-08",
+  "brief": "È online il bando del più importante concorso italiano per giochi da tavolo inediti. Data di pubblicazione non verificata.",
+  "tipo": "concorso",
+  "mercato": "italia",
+  "rilevanza": "Concorso italiano per giochi inediti, da seguire per le scadenze."
+ },
+ {
+  "id": "gd-2026-10-it-ideag",
+  "title": "IdeaG 2026: nessuna data ufficiale trovata",
+  "source": "spieleautorenzunft.de, idea-g.it",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-08",
+  "brief": "Non ho trovato date né sede dell'edizione 2026 di IdeaG. L'edizione 2023 si è tenuta a Parma il 1 e 2 aprile con oltre 360 prototipi. Controlla idea-g.it.",
+  "tipo": "IdeaG",
+  "mercato": "italia",
+  "rilevanza": "Evento chiave per presentare prototipi agli editori."
+ }
 ]
