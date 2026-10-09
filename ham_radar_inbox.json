@@ -34,5 +34,13 @@
   "date": "2026-10-08",
   "brief": "Oltre al CQ WW, il calendario DX Zone elenca Oceania DX (fonia e CW), Scandinavian Activity SSB e JARTS WW RTTY. Date puntuali non verificate.",
   "rilevanza": "Alternative più leggere per fare pratica."
+ },
+ {
+  "id": "ham-2026-10-10-oceania-cw",
+  "title": "Oceania DX Contest, parte CW: 10-11 ottobre",
+  "source": "ARI (annuncio 83ª edizione)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-09",
+  "brief": "L'ARI annuncia l'83ª edizione dell'Oceania DX Contest: SSB il 3-4 ottobre, CW il 10-11 ottobre 2026. Occasione per collegare Oceania e Pacifico, ma con la CME G2 attesa tra 9 e 10 ottobre le condizioni HF potrebbero essere instabili. Fonte singola, orari da verificare sul regolamento."
  }
 ]

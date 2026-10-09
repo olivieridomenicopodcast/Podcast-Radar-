@@ -91,5 +91,23 @@
    "Pensi che 100 play siano 100 persone che ti ascoltano? Forse. Se la tua intro regge mezzo minuto.",
    "Hai 40 secondi di sigla prima di dire qualcosa? Eccoti spiegato perché i numeri non tornano."
   ]
+ },
+ {
+  "id": "podcast-2026-10-09-apple-audio-video",
+  "title": "Apple Podcasts: passaggio audio/video e download dei video per l'offline",
+  "source": "Podcastvideos.com (roundup 2026)",
+  "affidabilita": "segnale debole",
+  "target": 6,
+  "date": "2026-10-09",
+  "brief": "Un riepilogo del settore riporta che Apple Podcasts permetterà di passare dalla versione audio a quella video dello stesso episodio e di scaricare i video per l'ascolto offline. Fonte singola e senza data precisa: da verificare sulle note ufficiali Apple prima di darlo per certo.",
+  "angles": [
+   "Se hai un podcast solo audio, ti serve il video? Come decidere",
+   "Un solo episodio, due versioni: come organizzare il lavoro di editing"
+  ],
+  "hooks": [
+   "Hai un podcast solo audio e senti dire che ormai serve il video? Calma: prima controlla che l'audio non sia da buttare.",
+   "Stai per comprare una videocamera per il tuo podcast? Ferma il carrello: Apple sta facendo scegliere audio o video all'ascoltatore, quindi parti dall'audio fatto bene.",
+   "Hai già un episodio registrato e ti chiedi se farlo anche in video? Se puoi scegliere, tieni la stessa registrazione e lavora sul taglio, non su dieci telecamere."
+  ]
  }
 ]
