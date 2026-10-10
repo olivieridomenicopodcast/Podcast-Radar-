@@ -1,20 +1,29 @@
 [
  {
+  "id": "creator-2026-lucca-jundo",
+  "title": "Jundo annuncia in live Twitch nuovi ospiti di Lucca 2026",
+  "source": "Animeclick",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Durante una live sul canale Twitch di Animeclick-Jundo sono stati comunicati ospiti fumettisti e illustratori, tra cui Samuel Spano e Liang Azha, presenti tutti i giorni. Data esatta della live non verificata.",
+  "rilevanza": "Mostra come Lucca usi gli streamer per annunciare gli ospiti."
+ },
+ {
   "id": "creator-2026-lucca-moccia",
   "title": "Lucca Comics 2026: Dario Moccia al Tomodachi Playground (30 ottobre)",
   "source": "Redcapes, Meganerd",
   "affidabilita": "segnale debole",
   "date": "2026-09-24",
-  "brief": "Tomodachi Press presenta la conferenza di annunci con Dario Moccia, Davide Masella e Agnese Innocente. Fuori dalle 48 ore: confermato dai programmi già visti nei giorni scorsi.",
-  "tipo": "evento"
+  "brief": "Tomodachi Press presenta una conferenza di annunci con Dario Moccia, Davide Masella e Agnese Innocente. Fuori dalle 48 ore: contesto.",
+  "rilevanza": "Uno dei pochi creator di peso confermati a Lucca."
  },
  {
-  "id": "creator-2026-lucca-jundo",
-  "title": "Jundo annuncia in live Twitch gli ospiti di Lucca 2026",
-  "source": "Animeclick",
+  "id": "creator-2026-nessuna-novita",
+  "title": "Nessun nuovo elenco ufficiale di youtuber e streamer a Lucca nelle ultime 48 ore",
+  "source": "Ricerca web su ospiti Lucca 2026",
   "affidabilita": "segnale debole",
-  "date": "2026-10-08",
-  "brief": "Il canale Twitch di Jundo ha dato novità sugli ospiti di Lucca. Non è chiaro se sarà lui stesso presente. Nessun elenco ufficiale di youtuber o streamer trovato oggi: è un segnale debole.",
-  "tipo": "creator e fiere"
+  "date": "2026-10-10",
+  "brief": "Le fonti trovate parlano di ospiti di fumetto, manga e videogiochi, non di creator. Non ho trovato oggi collaborazioni, crescite di canale o dibattiti verificabili.",
+  "rilevanza": "Meglio guardare il programma ufficiale di Lucca."
  }
 ]

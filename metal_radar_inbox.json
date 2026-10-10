@@ -1,56 +1,42 @@
 [
  {
-  "id": "metal-2026-10-09-uscite",
-  "title": "Uscite del 9 ottobre: Graveyard, Tungsten, Unpeople",
-  "source": "Loudwire (calendario uscite 2026)",
+  "id": "metal-2026-slash-flying-blind",
+  "title": "Slash feat. Myles Kennedy and The Conspirators: album 'Flying Blind' il 26 febbraio 2027, due date italiane a giugno",
+  "source": "Ticketone",
   "affidabilita": "secondaria",
   "date": "2026-10-09",
-  "brief": "Il calendario Loudwire elenca per venerdì 9 ottobre Fever dei Graveyard (Nuclear Blast), Ashes dei Tungsten e We Are Unpeople degli Unpeople (SharpTone). Fonte unica.",
-  "tipo": "album in uscita"
+  "brief": "Tour in Italia il 12 giugno 2027 al Carroponte di Sesto San Giovanni e il 13 giugno a Rock in Roma. Prevendite dal 7 ottobre, vendita generale dal 9 ottobre. È hard rock più che metal. Fonte unica."
  },
  {
-  "id": "metal-2026-10-02-uscite",
-  "title": "Uscite del 2 ottobre: Miss May I, Frozen Crown, Brymir",
-  "source": "Loudwire (calendario uscite 2026)",
+  "id": "metal-2027-megadeth-assago",
+  "title": "Megadeth: tour d'addio europeo, il 6 aprile 2027 all'Unipol Forum di Assago con Black Label Society e Testament",
+  "source": "Ticketone",
   "affidabilita": "secondaria",
-  "date": "2026-10-02",
-  "brief": "Usciti il 2 ottobre No Place For Me dei Miss May I (Solid State), The Legend Of The Six Kings dei Frozen Crown e What We Leave Behind dei Brymir (Napalm). Fuori dalle 48 ore, riportato come contesto.",
-  "tipo": "album usciti"
+  "date": "2026-10",
+  "brief": "Unica data milanese del tour 'Daddio' d'addio. Data di annuncio non verificata."
  },
  {
-  "id": "metal-2026-bfmv-social-apocalypse",
-  "title": "Bullet For My Valentine: nuovo album 'Social Apocalypse' il 19 marzo 2027, data a Assago il 25 gennaio",
-  "source": "Ticketone, Impericon, Kerrang!",
+  "id": "metal-2027-manowar-bergamo",
+  "title": "Manowar: 26 e 27 marzo 2027 alla ChorusLife Arena di Bergamo",
+  "source": "Ticketone, manowar.com",
+  "affidabilita": "primaria",
+  "date": "2026-10",
+  "brief": "Due serate con esecuzione integrale di due album nel 'Kings of Metal Fighting the World Tour 2027'. Annunciata dalla band e dal ticketer."
+ },
+ {
+  "id": "metal-2027-the-ocean-whitechapel",
+  "title": "The Ocean e Whitechapel a Milano il 9 febbraio 2027",
+  "source": "Ticketone",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "The Ocean al Legend Club per l'album 'Solaris'; Whitechapel ai Magazzini Generali. Stessa data in due locali: da verificare che non si tratti di un errore di una delle due schede."
+ },
+ {
+  "id": "metal-2026-bfmv-assago",
+  "title": "Bullet For My Valentine: 'Social Apocalypse' il 19 marzo 2027, data ad Assago il 25 gennaio",
+  "source": "Ticketone, Impericon, Kerrang!, Rockol",
   "affidabilita": "secondaria",
   "date": "2026-09-28",
-  "brief": "Album prodotto da Carl Brown (Spinefarm). Unica data italiana: Unipol Forum di Assago il 25 gennaio 2027, con Pendulum e Dark Divine. Prevendite dal 28 settembre, vendita generale dal 30. Fuori dalle 48 ore.",
-  "tipo": "album e tour"
- },
- {
-  "id": "metal-2027-italia",
-  "title": "Concerti metal in Italia nel 2027: Manowar (26-27 marzo, Bergamo), Megadeth (6 aprile, Assago)",
-  "source": "Ticketone, manowar.com",
-  "affidabilita": "secondaria",
-  "date": "2026-10-08",
-  "brief": "Manowar suonano integralmente Kings of Metal e Fighting The World alla ChorusLife Arena di Bergamo; Megadeth tornano all'Unipol Forum il 6 aprile 2027 con Black Label Society e Testament. Date degli annunci non verificate.",
-  "tipo": "tour in Italia"
- },
- {
-  "id": "metal-2026-hatebreed-fatal-paradox",
-  "title": "Hatebreed: 'Fatal Paradox' il 6 novembre, primo album dal 2020",
-  "source": "Live-Metal (riportato)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-09",
-  "brief": "Il nuovo album degli Hatebreed uscirà il 6 novembre 2026 per BLKIIBLK. Fonte singola e annuncio non nuovo delle ultime 48 ore; non trovate date italiane.",
-  "tipo": "album in arrivo"
- },
- {
-  "id": "metal-2026-imminence-axis-mundi",
-  "title": "Imminence: 'Axis Mundi' uscito il 2 ottobre (Sumerian)",
-  "source": "Knotfest, Distorted Sound",
-  "affidabilita": "secondaria",
-  "date": "2026-10-02",
-  "brief": "Sesto album degli svedesi Imminence, anticipato dal singolo 'If Not Now, When'. Fuori dalle 48 ore, riportato come contesto. Oggi non ho trovato nuovi annunci di metalcore datati 8-9 ottobre.",
-  "tipo": "album usciti"
+  "brief": "Prodotto da Carl Brown (Spinefarm). Con Pendulum e Dark Divine. Fuori dalle 48 ore: contesto."
  }
 ]

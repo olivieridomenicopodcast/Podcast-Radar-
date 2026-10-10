@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-09",
+ "aggiornato": "2026-10-10",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.3bmeteo.com/meteo/pesaro",
@@ -9,21 +9,11 @@
  ],
  "previsioni": [
   {
-   "data": "2026-10-09",
-   "giorno": "venerdì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "maltempo atteso soprattutto al Centro-Sud (tendenza nazionale, non specifica per Pesaro)",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "dato non reperito"
-  },
-  {
    "data": "2026-10-10",
    "giorno": "sabato",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "fenomeni più discontinui, possibili rovesci al Centro-Sud (tendenza nazionale)",
+   "condizioni": "dato non reperito",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito"
@@ -37,7 +27,17 @@
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito"
+  },
+  {
+   "data": "2026-10-12",
+   "giorno": "lunedì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "dato non reperito",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "dato non reperito"
   }
  ],
- "note": "Oggi le ricerche non hanno restituito previsioni puntuali per Pesaro (siti meteo non raggiungibili o pagine datate). Nessun valore numerico riportato. Controllare allertameteo.regione.marche.it per eventuali allerte."
+ "note": "Oggi non sono riuscito a ottenere previsioni aggiornate per Pesaro: le pagine dei siti meteo non sono raggiungibili da qui e la ricerca ha restituito solo pagine datate. Nessun valore inventato. Controlla allertameteo.regione.marche.it per eventuali allerte."
 }

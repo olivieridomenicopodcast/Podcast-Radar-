@@ -1,38 +1,47 @@
 [
  {
-  "id": "rb-2026-10-08-radiance-preview",
-  "title": "Radiance (Set 5): anteprime fino al 9 ottobre, uscita il 23 ottobre",
-  "source": "playriftbound.com (The Radiance Overview); TCGTalk; StarCityGames",
+  "id": "rb-2026-10-radiance-calendario",
+  "title": "Radiance (Set 5): uscita il 23 ottobre, Pre-Rift dal 16 al 22 ottobre",
+  "source": "playriftbound.com (The Radiance Overview), ICv2, riftbound.gg",
   "affidabilita": "primaria",
-  "date": "2026-10-08",
-  "brief": "Il calendario ufficiale indica la stagione di anteprime dal 25 settembre al 9 ottobre, Pre-Rift dal 16 al 22 ottobre e uscita il 23 ottobre. Tema musicale, 9 nuove Legend attese e 5 confermate: Ekko, Evelynn, Seraphine, Jarvan IV, Ziggs. La Ultimate Rare sarà rivelata verso la fine delle anteprime. Il numero di carte Showcase varia tra le fonti (60 o 66).",
-  "rilevanza": "Chi gioca ha poco tempo per valutare i mazzi; chi colleziona deve decidere i preordini e la Ultimate Rare."
+  "date": "2026-10-10",
+  "brief": "Radiance esce il 23 ottobre in inglese, cinese e francese. Pre-Rift dal 16 al 22 ottobre, anteprime concluse il 9 ottobre. Nuove meccaniche: Deploy, Show Off, Disarm e token Bomb. Riot cita 180 carte con 66 Showcase; un listing parla di 60+, quindi il numero Showcase varia per fonte.",
+  "rilevanza": "Hai poco più di una settimana per decidere mazzi e preordini prima dei Pre-Rift."
  },
  {
-  "id": "rb-2026-07-vendetta-ban",
-  "title": "Riepilogo ban list in vigore da luglio: Stealthy Pursuer, The Arena's Greatest, Aspirant's Climb",
-  "source": "Sheepesports, Skillshotz (fonti fan/retail), Riftbound Rules Hub",
+  "id": "rb-2026-10-packed-amphitheater",
+  "title": "Packed Amphitheater: rivelata la seconda Ultimate Rare di Radiance",
+  "source": "riftbound.gg",
   "affidabilita": "secondaria",
-  "date": "2026-07-24",
-  "brief": "Dal 24 luglio in Standard sono bannate Stealthy Pursuer, The Arena's Greatest e Aspirant's Climb; in 2v2 anche Master Yi, Wuju Bladesman. Sideboard portato da 8 a 10 carte. Non ho trovato nuovi ban a ottobre: controlla il Rules Hub ufficiale. Fuori dalle 48 ore, riportato come contesto.",
-  "rilevanza": "Base per capire il meta prima che Radiance entri in Standard."
+  "date": "2026-10",
+  "brief": "La seconda Ultimate Rare del set è Packed Amphitheater, una carta Battlefield, mostrata al Radiance Creator Summit. La fonte stima circa lo 0,025% dei booster; è una stima, non un dato ufficiale. Nessun guaranteed Ultimate Rare in pack, box o case. Data esatta della reveal non verificata.",
+  "rilevanza": "Per chi colleziona: rarità estrema, occhio ai prezzi gonfiati nel primo weekend."
  },
  {
-  "id": "rb-2026-vendetta-fr-23-ott",
-  "title": "Vendetta arriva in francese il 23 ottobre",
-  "source": "Fonte di settore (segnalazione singola)",
+  "id": "rb-2026-10-showdown-seraphine-evelynn",
+  "title": "Radiance Showdown Deck: Seraphine contro Evelynn a 34,99 $, liste il 16 ottobre",
+  "source": "ICv2, playriftbound.com",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Due mazzi preco da 56 carte, due booster, due playmat di carta e un regolamento. Le liste complete sono attese il 16 ottobre. Prezzo in dollari: in Italia può cambiare. Display da 24 pack a 119,99 $ secondo la stessa fonte.",
+  "rilevanza": "Il modo più economico per provare le nuove Legend e capire il meta del set."
+ },
+ {
+  "id": "rb-2026-09-ban-list",
+  "title": "Aggiornamento ban list del 18 settembre 2026 (contenuto non verificato)",
+  "source": "Titolo in risultato di ricerca, riftbound.leagueoflegends.com",
   "affidabilita": "segnale debole",
-  "date": "2026-10-08",
-  "brief": "Una fonte segnala che Vendetta entra in Standard il 31 luglio per le regioni inglese e cinese e il 23 ottobre per quelle francesi. Fonte unica, da confermare con il distributore. Data della notizia non verificata.",
-  "rilevanza": "Rilevante per chi compra o gioca con carte in francese."
+  "date": "2026-09-18",
+  "brief": "Ho visto solo il titolo 'Riftbound Ban List Updates – September 18, 2026', senza il contenuto. Non ho trovato il previsto aggiornamento regole dell'8 ottobre né nuovi ban a ottobre. Controlla il Rules Hub ufficiale prima del Pre-Rift.",
+  "rilevanza": "Le carte bannate decidono quali mazzi portare ai Pre-Rift."
  },
  {
-  "id": "rb-2026-10-09-radiance-prodotti",
-  "title": "Radiance: lancio in inglese, cinese semplificato e francese; Showdown Deck a 34,99 $",
-  "source": "Inven Global, The Outer Haven, Card Cosmos",
+  "id": "rb-2026-12-prossimi-prodotti",
+  "title": "Dopo Radiance: Gift of the Rift Bundle il 4 dicembre e Legacy, primo set pensato per il draft, il 29 gennaio 2027",
+  "source": "ICv2",
   "affidabilita": "secondaria",
-  "date": "2026-10-09",
-  "brief": "Radiance sarà il primo set Riftbound in uscita in contemporanea in inglese, cinese semplificato e francese (global release 23 ottobre). Prodotti: booster display, Showdown Deck (due mazzi campione da 56 carte, 2 buste, 2 playmat, regolamento; 34,99 $ di listino), Vault e kit Pre-Rift con nove mazzi campione. Confermato che K/DA avrà carte Special Alt Art. Il set ha un pool da 180 carte e oltre 60 Showcase; le anteprime chiudono oggi.",
-  "rilevanza": "Per chi colleziona: scegliere cosa preordinare prima del Pre-Rift (16-22 ottobre). Per chi gioca: i Showdown Deck sono un ingresso economico nel nuovo set."
+  "date": "2026-10",
+  "brief": "Il bundle include booster dei primi cinque set e una promo Akali esclusiva. Legacy è indicato come primo set focalizzato sul draft, in uscita il 29 gennaio 2027. Fonte unica trovata: da confermare.",
+  "rilevanza": "Aiuta a pianificare gli acquisti natalizi e a capire dove va il formato."
  }
 ]

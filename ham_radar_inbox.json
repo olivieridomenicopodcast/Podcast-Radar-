@@ -1,46 +1,47 @@
 [
  {
-  "id": "ham-2026-10-08-g2-cme",
-  "title": "Allerta G2 per il 9 ottobre: CME da AR4549 in arrivo",
-  "source": "Space.com, SWPC/NOAA (riportato)",
+  "id": "ham-2026-10-09-g2-cme",
+  "title": "Tempesta geomagnetica G2 prevista per il 9 ottobre (CME da AR4549)",
+  "source": "El Imparcial, Zendar Universe, SAN (riportano NOAA/SWPC)",
   "affidabilita": "secondaria",
-  "date": "2026-10-08",
-  "brief": "NOAA ha emesso un avviso (watch) G2 per il 9 ottobre per una CME generata da flare M1.4 e M1.8 della regione AR4549. L'orario d'arrivo è incerto (prime ore UTC del 9). Flusso solare a 10.7 cm circa 93 sfu il 5 ottobre. Possibile degrado dell'HF e aurore alle alte latitudini; è una mia inferenza, non una fonte HF.",
-  "rilevanza": "Condizioni HF instabili tra 9 e 10 ottobre, soprattutto sui percorsi polari."
+  "date": "2026-10-09",
+  "brief": "NOAA ha avvisato di una CME legata a un flare M1.4 della regione AR4549 con arrivo previsto il 9 ottobre e attività G1-G2. Un articolo SAN parla invece di un watch severo (livello 4 su 5) per il 10-11 ottobre: le date non coincidono, da verificare su SWPC. Attesa HF degradata, specie bande alte e tratte polari.",
+  "rilevanza": "Nel fine settimana l'HF può essere instabile: controlla Kp e SWPC prima di pianificare QSO DX."
  },
  {
   "id": "ham-2026-10-24-cqww-ssb",
   "title": "CQ WW DX Contest SSB: 24-25 ottobre 2026",
-  "source": "cqww.com, regolamento 2026",
+  "source": "cqww.com (verificato nella run precedente), DX Zone",
   "affidabilita": "primaria",
-  "date": "2026-10-08",
-  "brief": "Il sito ufficiale indica SSB dalle 00:00 UTC di sabato 24 alle 23:59 UTC di domenica 25 ottobre; la parte CW il 28-29 novembre. Scambio: RS più zona CQ, bande 160-10 m. Una fonte secondaria riporta date diverse, ma è datata.",
-  "rilevanza": "Il contest più grande dell'anno: occasione per DXCC e zone CQ."
+  "date": "2026-10-24",
+  "brief": "Il sito ufficiale indica SSB dalle 00:00 UTC del 24 alle 23:59 UTC del 25 ottobre; CW il 28-29 novembre. Un articolo che riporta il 25-26 ottobre è del 2025, quindi non vale per quest'anno. DX Zone elenca a ottobre anche Oceania DX, TRC DX e SAC SSB.",
+  "rilevanza": "Il contest più grande dell'anno: buona occasione per DXCC e zone CQ."
  },
  {
-  "id": "ham-2026-10-dxzone-dxpedition",
-  "title": "DXpedition di ottobre: KH8A, H49A, 7P8GE/7P9EA, V55Y, S9R",
-  "source": "DX Zone (calendario ottobre 2026)",
+  "id": "ham-2026-10-hf0pas",
+  "title": "HF0PAS dalle Shetland Meridionali attiva fino al 31 ottobre",
+  "source": "DX Zone (calendario DXpedition)",
   "affidabilita": "secondaria",
-  "date": "2026-10-08",
-  "brief": "Il calendario elenca KH8A (Samoa Americane), H49A (Salomone), 7P8GE e 7P9EA (Lesotho), V55Y (Namibia) e S9R (São Tomé). Date esatte non verificate; confronta con NG3K ADXO.",
-  "rilevanza": "Occasioni per nuovi DXCC, da confermare prima di operare."
+  "date": "2026-10-10",
+  "brief": "Il calendario indica l'attività HF0PAS dal 1 maggio al 31 ottobre 2026: base antartica, quindi operatività dipendente dai turni. Fonte unica.",
+  "rilevanza": "Entità rara per il DXCC, ancora lavorabile questo mese."
  },
  {
-  "id": "ham-2026-10-contest-minori",
-  "title": "Altri contest di ottobre: Oceania DX, Scandinavian Activity, JARTS WW RTTY",
-  "source": "DX Zone",
+  "id": "ham-2026-11-vk9xy",
+  "title": "VK9XY Isola di Natale: DXpedition dal 16 novembre al 4 dicembre",
+  "source": "DX Zone, Pacific Islands DXpedition Group (riportato)",
   "affidabilita": "secondaria",
-  "date": "2026-10-08",
-  "brief": "Oltre al CQ WW, il calendario DX Zone elenca Oceania DX (fonia e CW), Scandinavian Activity SSB e JARTS WW RTTY. Date puntuali non verificate.",
-  "rilevanza": "Alternative più leggere per fare pratica."
+  "date": "2026-10-10",
+  "brief": "Team di giovani operatori con mentori Glenn Johnson W0GJ e Gregg Marco W6IZT. Tutte le bande HF in CW, SSB e FT8, più il satellite QO-100.",
+  "rilevanza": "Da mettere in agenda per CW/SSB e FT8, e per chi ha QO-100."
  },
  {
-  "id": "ham-2026-10-10-oceania-cw",
-  "title": "Oceania DX Contest, parte CW: 10-11 ottobre",
-  "source": "ARI (annuncio 83ª edizione)",
-  "affidabilita": "secondaria",
-  "date": "2026-10-09",
-  "brief": "L'ARI annuncia l'83ª edizione dell'Oceania DX Contest: SSB il 3-4 ottobre, CW il 10-11 ottobre 2026. Occasione per collegare Oceania e Pacifico, ma con la CME G2 attesa tra 9 e 10 ottobre le condizioni HF potrebbero essere instabili. Fonte singola, orari da verificare sul regolamento."
+  "id": "ham-2026-09-flusso-solare",
+  "title": "Flusso solare: previsione di fine settembre intorno a 105-115 sfu, media 107,9",
+  "source": "Previsione NOAA riportata (25 settembre - 1 ottobre)",
+  "affidabilita": "segnale debole",
+  "date": "2026-09-25",
+  "brief": "Nessun valore di ottobre trovato oggi. La previsione citata è di fine settembre: usala come ordine di grandezza, non come condizione attuale.",
+  "rilevanza": "Con SFI attorno a 100+ le bande 20-15 m restano utilizzabili, salvo disturbi geomagnetici."
  }
 ]

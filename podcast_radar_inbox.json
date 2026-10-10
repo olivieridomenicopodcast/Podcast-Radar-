@@ -6,108 +6,110 @@
   "affidabilita": "secondaria",
   "target": 8,
   "date": "2026-10-03",
-  "brief": "Il Festival del Podcasting ha compiuto dieci anni (2-3 ottobre, Cascina Triulza, Milano MIND). Novità: una giornata dedicata a brand e agenzie, con temi come discoverability, video podcast, distribuzione e monetizzazione. Il 3 ottobre è stato assegnato il premio POD24 ai podcast indipendenti d'inchiesta.",
+  "brief": "Il Festival del Podcasting ha compiuto dieci anni (2-3 ottobre, Cascina Triulza, Milano MIND). Novità: una giornata dedicata a brand e agenzie, con temi come discoverability, video podcast, distribuzione e monetizzazione. Premi Pod24 e debutto del Branded Podcasts Award. Tre fonti indipendenti concordano. Non è una novità di oggi: è il fatto italiano più recente trovato.",
   "angles": [
    "Video podcast e discoverability: di cosa si parla davvero in Italia",
    "Cosa chiedono i brand a un podcast prima di investirci",
    "Perché anche un podcast piccolo dovrebbe pensare a distribuzione e promozione dal giorno uno"
   ],
   "hooks": [
-   "Hai appena aperto il tuo podcast e pensi che basti pubblicare? Al Festival del Podcasting hanno parlato di discoverability: se nessuno ti trova, il microfono costoso è solo un soprammobile.",
-   "Pensi che i brand cerchino solo i podcast famosi? A Milano hanno dedicato una giornata intera alle aziende. Quindi sì, qualcuno guarda anche te, se hai un'idea chiara.",
-   "Hai un podcast e non sai se farlo anche in video? In Italia ne parlano ormai in ogni palco. Prima, però, sistema l'audio: il video non lo salva."
+   "Hai appena aperto il tuo podcast e pensi che basti pubblicare? A Milano hanno parlato di discoverability: se nessuno ti trova, il microfono costoso è un soprammobile.",
+   "Pensi che i brand cerchino solo i podcast famosi? A Milano hanno fatto una giornata intera per le aziende. Quindi sì, qualcuno guarda anche te.",
+   "Hai un podcast e non sai se farlo anche in video? In Italia ne parlano su ogni palco. Prima sistema l'audio: il video non lo salva."
   ]
  },
  {
-  "id": "podcast-2026-10-ascoltatori-italia-nielseniq",
-  "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026 (NielsenIQ per Audible), 15,5 milioni per OBE nel 2025",
-  "source": "ItaliaOggi, Podcasting Today",
+  "id": "podcast-2026-ascoltatori-italia-nielseniq",
+  "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026 (+3%) secondo NielsenIQ per Audible",
+  "source": "ItaliaOggi (monitoraggio NielsenIQ per Audible); osservatorio OBE",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026-10-03",
-  "brief": "Il monitoraggio NielsenIQ per Audible stima 18,5 milioni di ascoltatori in Italia (circa +3% sul 2025). L'osservatorio OBE parlava di 15,5 milioni nel 2025 (+2%). Le metodologie sono diverse, quindi i numeri non si confrontano. Data di pubblicazione dell'articolo ItaliaOggi non verificata: uso la data del festival in cui i dati sono circolati.",
+  "date": "2026 (data esatta di pubblicazione non verificata)",
+  "brief": "Secondo il monitoraggio NielsenIQ per Audible gli ascoltatori italiani sono 18,5 milioni nel 2026, circa +3% sul 2025. L'osservatorio OBE parla invece di 15,5 milioni nel 2025 (+2%) e del 59% degli ascoltatori che ricorda di aver sentito branded podcast. Metodologie diverse: i due numeri non vanno confrontati tra loro.",
   "angles": [
-   "Quanto è grande davvero il pubblico italiano dei podcast",
-   "Perché due studi danno due numeri diversi",
-   "Cosa significa per chi parte da zero"
+   "Quanti italiani ascoltano podcast e cosa significa per chi parte da zero",
+   "Perché due ricerche danno numeri diversi e come leggerli",
+   "Il pubblico c'è: il problema è farsi trovare"
   ],
   "hooks": [
-   "Hai appena iniziato e pensi che in Italia i podcast li ascolti solo tu? Sono circa 18 milioni, secondo uno studio. Un altro dice 15. Insomma, siete in tanti.",
-   "Pensi che il pubblico sia saturo? Gli ascoltatori crescono di qualche punto all'anno. Il problema semmai è farsi trovare.",
-   "Hai paura che nessuno ti ascolti? Il pubblico c'è, e cresce. Manca solo che l'intro non faccia scappare tutti."
+   "Pensi che in Italia nessuno ascolti podcast? Sono milioni. Il problema non è il pubblico, è che non sa che esisti.",
+   "Hai paura di arrivare tardi con il tuo podcast? Il pubblico italiano cresce ancora. Arrivi tardi solo se non parti.",
+   "Hai letto 18 milioni di ascoltatori e ti sei gasato? Calma: dipende da chi misura. Te lo spiego in 30 secondi."
   ]
  },
  {
-  "id": "podcast-2026-10-08-raiplay-sound-nuovi-podcast",
-  "title": "RaiPlay Sound: in arrivo 'Prima del rumore' (14 ottobre), 'POPARC' (12 ottobre) e 'Grazie al caso' (8 ottobre)",
-  "source": "Giornale di Puglia, Spettacolo.eu, comunicati stampa",
-  "affidabilita": "segnale debole",
-  "target": 6,
-  "date": "2026-10-08",
-  "brief": "Tre nuovi podcast originali sulla piattaforma audio Rai: 'Prima del rumore' di Max Proietti (cronaca nera, 6 puntate settimanali dal 14 ottobre), 'POPARC' (boxset di 5 episodi dal 12 ottobre) e 'Grazie al caso' di Virginio Simoncelli, online dall'8 ottobre. Fonti: comunicati stampa, nessuna verifica indipendente.",
+  "id": "podcast-2026-01-spotify-partner-program",
+  "title": "Spotify Partner Program: soglia a 1.000 ascoltatori engaged e API per distribuire video podcast da host terzi",
+  "source": "Spotify Newsroom (7 gennaio 2026), Forbes",
+  "affidabilita": "primaria",
+  "target": 8,
+  "date": "2026-01-07",
+  "brief": "La soglia di ingresso scende da 2.000 ascoltatori a 1.000 audience engaged su Spotify (plays degli ultimi 30 giorni). Arriva una API di distribuzione video per pubblicare e monetizzare video podcast da hosting partner come Acast, Audioboom, Libsyn, Omny e Podigee. Fuori dalle 48 ore: contesto utile, non novità di oggi.",
   "angles": [
-   "Formati seriali a puntate settimanali vs boxset: quale scegliere",
-   "Come una piattaforma nazionale cambia il lancio di un podcast",
-   "Podcast narrativo di cronaca: errori di tono e di montaggio da evitare"
+   "Cosa devi avere per entrare nel Partner Program e cosa no",
+   "Video podcast: serve davvero o basta l'audio?",
+   "Come scegliere un hosting compatibile con la distribuzione video"
   ],
   "hooks": [
-   "Hai in mente un podcast in sei puntate e non sai come lanciarlo? Rai li fa uscire una a settimana. Tu, intanto, decidi se hai davvero sei puntate di cose da dire.",
-   "Pensi che il boxset sia solo roba da serie TV? Su RaiPlay Sound escono interi in un colpo. Vale la pena, se hai la storia già chiusa.",
-   "Vuoi fare un podcast di cronaca? Il tono è tutto: troppo grave diventa un funerale, troppo leggero un'offesa. Si registra una prova prima."
+   "Hai un podcast piccolo e pensi che Spotify non ti paghi mai? La soglia è scesa a 1.000 ascoltatori engaged. Non è tanto, ma non è zero.",
+   "Stai per scegliere un hosting per il tuo podcast? Controlla se supporta il video su Spotify. Poi non dire che nessuno te l'aveva detto.",
+   "Pensi che per guadagnare con un podcast servano numeri da star? Ti dico la soglia vera in 20 secondi, e non ti piacerà quanto è bassa."
   ]
  },
  {
-  "id": "podcast-2026-apple-video-hls",
-  "title": "Apple Podcasts: passaggio tra audio e video e download offline dei video podcast",
-  "source": "Nieman Lab (segnalazione)",
-  "affidabilita": "segnale debole",
+  "id": "podcast-2026-05-spotify-investor-day",
+  "title": "Spotify: oltre 500 milioni di utenti hanno guardato un video podcast; arrivano Creator Sponsorships",
+  "source": "Spotify Newsroom (21 maggio 2026), Podnews",
+  "affidabilita": "primaria",
   "target": 7,
-  "date": "2026-10-08",
-  "brief": "Secondo i resoconti trovati, Apple Podcasts permetterà di passare dalla versione audio a quella video di un episodio e di scaricare i video per l'ascolto offline, con tecnologia HLS. Fonte unica e data della notizia non verificata (uso la data di rilevazione): da confermare prima di raccontarla come definitiva.",
+  "date": "2026-05-21",
+  "brief": "All'Investor Day Spotify ha detto che più di 500 milioni di utenti hanno streamato un video podcast e che le Creator Sponsorships sono attive per i creator nel Partner Program. Annunciati anche i Personal Podcasts per utenti Premium USA. Dato dichiarato dall'azienda stessa, quindi da leggere come comunicazione. Fuori dalle 48 ore.",
   "angles": [
-   "Audio e video nello stesso episodio: cosa cambia per chi registra",
-   "Perché conviene pensare al video fin da subito, anche in modo semplice"
+   "Video podcast: cosa dice Spotify e cosa dicono i fatti",
+   "Sponsorizzazioni: da quanti ascolti si può iniziare a pensarci",
+   "Se parti oggi, audio o video?"
   ],
   "hooks": [
-   "Hai appena comprato un microfono e il video ti sembra un'altra vita? Apple sta spingendo i podcast video. Non devi fare una regia, basta una camera ferma e inquadrata bene.",
-   "Pensi che audio e video siano due mestieri diversi? Per Apple ormai sono lo stesso episodio. Meglio abituarsi all'idea.",
-   "Registri in cucina e ti vergogni a farti vedere? Il video non chiede uno studio, chiede una luce decente."
+   "Hai appena comprato un microfono e ti dicono che ormai serve il video? Spotify dice che mezzo miliardo di utenti ha guardato un video podcast. Ma l'audio rotto, nemmeno lui lo salva.",
+   "Pensi che le sponsorizzazioni siano roba da grandi? Spotify le ha aperte anche ai creator del Partner Program. Prima però devi avere un pubblico.",
+   "Non sai se fare il tuo podcast in video? Ti dico cosa farei io se partissi oggi, senza hype."
   ]
  },
  {
-  "id": "podcast-2026-spotify-play-30-secondi",
-  "title": "Spotify, una 'play' conta dopo 30 secondi di ascolto o visione",
-  "source": "Creator Weekly (newsletter)",
-  "affidabilita": "segnale debole",
-  "target": 7,
-  "date": "2026-06-30",
-  "brief": "Una newsletter per creator riporta che Spotify ha ridefinito la 'play' di un podcast: servono almeno 30 secondi di ascolto o visione, con nuove analytics in Spotify for Creators. Fonte unica e data approssimativa (periodo del Mondiale 2026): serve conferma ufficiale.",
-  "angles": [
-   "Cosa significa il 'numero di play' quando si parla con uno sponsor",
-   "Perché i primi 30 secondi decidono il tuo conteggio"
-  ],
-  "hooks": [
-   "Hai appena pubblicato e controlli ogni ora le play? Spotify le conta dopo 30 secondi. I primi 30 secondi sono quindi i più costosi del tuo episodio.",
-   "Pensi che 100 play siano 100 persone che ti ascoltano? Forse. Se la tua intro regge mezzo minuto.",
-   "Hai 40 secondi di sigla prima di dire qualcosa? Eccoti spiegato perché i numeri non tornano."
-  ]
- },
- {
-  "id": "podcast-2026-10-09-apple-audio-video",
-  "title": "Apple Podcasts: passaggio audio/video e download dei video per l'offline",
-  "source": "Podcastvideos.com (roundup 2026)",
-  "affidabilita": "segnale debole",
+  "id": "podcast-2026-02-apple-video-hls",
+  "title": "Apple Podcasts: passaggio fluido tra audio e video con HLS e download offline dei video",
+  "source": "Nieman Lab (febbraio 2026), Castos (guida)",
+  "affidabilita": "secondaria",
   "target": 6,
-  "date": "2026-10-09",
-  "brief": "Un riepilogo del settore riporta che Apple Podcasts permetterà di passare dalla versione audio a quella video dello stesso episodio e di scaricare i video per l'ascolto offline. Fonte singola e senza data precisa: da verificare sulle note ufficiali Apple prima di darlo per certo.",
+  "date": "2026-02",
+  "brief": "Apple ha annunciato che gli utenti potranno passare tra audio e video nell'app Podcasts via HLS e scaricare i video offline. Castos spiega le opzioni di distribuzione video: upload diretto, HLS nel feed RSS o feed video dedicato. Data esatta non verificata e fuori dalle 48 ore: contesto.",
   "angles": [
-   "Se hai un podcast solo audio, ti serve il video? Come decidere",
-   "Un solo episodio, due versioni: come organizzare il lavoro di editing"
+   "Feed audio e feed video: come organizzarli",
+   "Cosa cambia per chi pubblica via RSS",
+   "Errore da principianti: caricare il video solo su YouTube"
   ],
   "hooks": [
-   "Hai un podcast solo audio e senti dire che ormai serve il video? Calma: prima controlla che l'audio non sia da buttare.",
-   "Stai per comprare una videocamera per il tuo podcast? Ferma il carrello: Apple sta facendo scegliere audio o video all'ascoltatore, quindi parti dall'audio fatto bene.",
-   "Hai già un episodio registrato e ti chiedi se farlo anche in video? Se puoi scegliere, tieni la stessa registrazione e lavora sul taglio, non su dieci telecamere."
+   "Hai un podcast solo su YouTube e pensi di essere a posto? Apple ora spinge il video nel feed. Il tuo RSS esiste, usalo.",
+   "Registri in video e non sai dove pubblicarlo? Ti faccio vedere i tre modi, dal più semplice al più scomodo.",
+   "Pensi che il video podcast sia solo YouTube? No. E se lo sapevi già, mi dici perché non sei su Apple?"
+  ]
+ },
+ {
+  "id": "podcast-2026-05-youtube-funzioni-podcast",
+  "title": "YouTube: nuove funzioni dedicate ai podcast (modalità solo audio, velocità automatica)",
+  "source": "Blog Ecosistema Startup (fonte unica, in spagnolo)",
+  "affidabilita": "segnale debole",
+  "target": 5,
+  "date": "2026-05-28",
+  "brief": "Una sola fonte, non verificata sul sito ufficiale YouTube, riporta funzioni pensate per l'ascolto dei podcast, tra cui una modalità audio e la velocità automatica per Premium su Android. Una fonte sola è rumore: da controllare prima di usarla.",
+  "angles": [
+   "YouTube come app per ascoltare podcast: che cambia per chi pubblica",
+   "Perché il video non deve farti trascurare l'audio"
+  ],
+  "hooks": [
+   "Hai un podcast su YouTube e pensi che la gente lo guardi? Molti lo ascoltano e basta. Ecco perché l'audio conta anche lì.",
+   "Stai montando il video del tuo podcast per ore? Forse chi ti ascolta nemmeno lo apre. Te lo spiego.",
+   "Pensi che YouTube sia solo per i video? Per i podcast ormai è anche una radio. Controlla come suona il tuo."
   ]
  }
 ]

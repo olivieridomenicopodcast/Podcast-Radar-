@@ -1,47 +1,47 @@
 [
  {
   "id": "nerd-2026-10-22-essen",
-  "title": "SPIEL Essen 2026: 22-25 ottobre, tutti gli 8 padiglioni per la prima volta",
-  "source": "Spielwarenmesse, Spielbox, Zatu",
+  "title": "SPIEL Essen 2026: 22-25 ottobre, per la prima volta tutti gli 8 padiglioni",
+  "source": "Spielwarenmesse, Zatu, Asmodee",
   "affidabilita": "secondaria",
-  "date": "2026-10-08",
-  "brief": "La fiera occuperà per la prima volta tutti gli 8 padiglioni (81.200 m²). Circa 921 espositori da 53 paesi e oltre 1.500 novità attese; nuovo premio TCG Awards e area laser tag Warhammer 40,000. Un listing riporta date diverse (8-11 ottobre), ma appare errato.",
+  "date": "2026-10-10",
+  "brief": "Circa 921 espositori da 53 paesi, oltre 1.500 novità attese e fino a 230.000 visitatori previsti. Arena laser tag Warhammer 40,000 con Games Workshop e nuovo strumento B2B nell'app. PocketGamer.biz riporta 8-11 ottobre: appare errato.",
   "tipo": "fiera internazionale"
  },
  {
   "id": "nerd-2026-10-28-lucca",
-  "title": "Lucca Comics & Games 2026: 60 anni, dal 28 ottobre al 1° novembre",
-  "source": "Ticketone, Smartworld, Italotreno",
+  "title": "Lucca Comics & Games 2026: 60 anni, dal 28 ottobre al 1° novembre, tema 'Legacy'",
+  "source": "Multiplayer.it, Smartworld, Ticketone",
   "affidabilita": "secondaria",
-  "date": "2026-10-08",
-  "brief": "Edizione del sessantesimo con tema 'Legacy'; mostre aperte dal 3 ottobre. Ospiti videogiochi annunciati: Yoshinori Kitase e Hideki Kamiya. Una fonte parla di chiusura al 31 ottobre, ma la maggioranza indica il 1° novembre.",
+  "date": "2026-10-10",
+  "brief": "Ospiti annunciati: Go Nagai, Frank Miller, Paco Roca, Jonathan Hickman per i fumetti; Yoshinori Kitase, Hideaki Kamiya e Noah Falstein per i videogiochi. Più fonti concordano.",
   "tipo": "fiera italiana"
  },
  {
-  "id": "nerd-2026-10-13-valor-mortis",
-  "title": "Videogiochi in uscita: Valor Mortis il 13 ottobre, Call of Duty: Modern Warfare 4 il 23 ottobre",
-  "source": "Vgmag.it, esports.gg, GameDaily (resoconti TGS e gamescom)",
-  "affidabilita": "secondaria",
-  "date": "2026-10-08",
-  "brief": "Date emerse tra gamescom e Tokyo Game Show: Valor Mortis (soulslike) il 13 ottobre, Call of Duty: Modern Warfare 4 il 23 ottobre, Neon Abyss 2 l'8 ottobre. Le fonti di aggregazione sono però secondarie.",
-  "tipo": "uscite videogiochi"
- },
- {
-  "id": "nerd-2026-10-capcom-tgs",
-  "title": "Capcom al TGS: Monster Hunter Wilds: Ascendance nel 2027, Arjun in Street Fighter 6 il 13 o 14 ottobre",
-  "source": "CGMagOnline, resoconti TGS",
+  "id": "nerd-2026-10-lucca-dnd-manganiello",
+  "title": "Lucca 2026: Joe Manganiello guida il programma D&D con la linea D&D Icons",
+  "source": "SpazioGames (2 ottobre)",
   "affidabilita": "segnale debole",
-  "date": "2026-09-17",
-  "brief": "Capcom ha annunciato Monster Hunter Wilds: Ascendance per il 2027 e un nuovo personaggio per Street Fighter 6. Le fonti non concordano sul giorno (13 o 14 ottobre). Notizia fuori dalle 48 ore.",
-  "tipo": "annuncio videogioco"
+  "date": "2026-10-02",
+  "brief": "Il programma di gioco di ruolo punta su Dungeons & Dragons, Daggerheart e ORKEN. Fonte unica e fuori dalle 48 ore.",
+  "tipo": "fiera italiana / gdr"
  },
  {
-  "id": "nerd-2026-10-lucca-videogiochi",
-  "title": "Lucca 2026: SEGA e ATLUS portano Alien: Isolation 2, Stranger Than Heaven e Persona 4 Revival",
-  "source": "Multiplayer.it, Techprincess, Ticketone",
+  "id": "nerd-2026-05-play-bologna",
+  "title": "Play 2026 si è tenuto a Bologna (22-24 maggio): il festival lascia Modena",
+  "source": "play-festival.it, Opinionated Gamers",
   "affidabilita": "secondaria",
-  "date": "2026-10-09",
-  "brief": "Per l'edizione del 60° (28 ottobre - 1° novembre) sono annunciate tre anteprime nazionali SEGA/ATLUS, Metaphor: ReFantazio su Switch 2 e Hideki Kamiya in incontro il 29 e 30 ottobre. L'indie italiano Nara Studio mostrerà un trailer di Wonderful Neoran Valley il 27 ottobre. Articoli non datati a oggi: contesto, non novità delle ultime 48 ore.",
-  "tipo": "fiera italiana / videogiochi"
+  "date": "2026-05-24",
+  "brief": "La 17ª edizione si è svolta a BolognaFiere con ModenaFiere partner, 5 padiglioni e oltre 700 eventi. Non ho trovato date del 2027. Fuori dalle 48 ore: contesto.",
+  "tipo": "fiera italiana"
+ },
+ {
+  "id": "nerd-2026-10-videogiochi-nessun-annuncio",
+  "title": "Videogiochi: nessun nuovo annuncio verificato nelle ultime 48 ore",
+  "source": "Ricerca web (nessun risultato pertinente)",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-10",
+  "brief": "Le ricerche non hanno restituito annunci di videogiochi datati 9-10 ottobre. Dalla run precedente restano, da confermare, Valor Mortis il 13 ottobre e Call of Duty: Modern Warfare 4 il 23 ottobre (fonti secondarie).",
+  "tipo": "videogiochi"
  }
 ]
