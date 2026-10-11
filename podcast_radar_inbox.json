@@ -1,115 +1,97 @@
 [
  {
+  "id": "podcast-2026-10-nielseniq-18-5-milioni",
+  "title": "Ascoltatori di podcast in Italia: 18,5 milioni nel 2026, +3% (NielsenIQ per Audible)",
+  "source": "ItaliaOggi, Il Sole 24 Ore",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": "2026-10",
+  "brief": "Secondo NielsenIQ per Audible gli ascoltatori di podcast in Italia sono 18,5 milioni nel 2026, circa +3% sul 2025. L'Osservatorio OBE aveva stimato 15,5 milioni nel 2025 (+2%): metodologie diverse, quindi i due numeri non sono confrontabili uno a uno. Data esatta di pubblicazione non verificata.",
+  "angles": [
+   "Il pubblico cresce, ma piano: cosa significa per chi parte adesso",
+   "Perché a pochi ascoltatori serve comunque un format chiaro",
+   "Come leggere i dati di ascolto senza farsi illudere"
+  ],
+  "hooks": [
+   "Stai per aprire un podcast e pensi che in Italia lo ascolti nessuno? Siamo 18,5 milioni. Il problema è che nessuno conosce il tuo.",
+   "Hai un microfono e un'idea e ti chiedi se sia troppo tardi? Il pubblico italiano cresce ancora. Tu intanto smetti di rimandare.",
+   "Hai paura che il mercato sia pieno? Cresce del 3%. Il tuo problema non è il mercato, è il titolo dell'episodio."
+  ]
+ },
+ {
   "id": "podcast-2026-10-03-festival-podcasting-milano",
-  "title": "Festival del Podcasting 2026 a Milano: al decimo anno arriva la giornata per brand e aziende",
-  "source": "Il Sole 24 Ore, Milano Finanza, Podcasting Today",
+  "title": "Festival del Podcasting a Milano al decimo anno: giornata per brand, video podcast e discoverability",
+  "source": "Milano Finanza, Il Sole 24 Ore, Podcasting Today",
   "affidabilita": "secondaria",
   "target": 8,
   "date": "2026-10-03",
-  "brief": "Il Festival del Podcasting ha compiuto dieci anni (2-3 ottobre, Cascina Triulza, Milano MIND). Novità: una giornata dedicata a brand e agenzie, con temi come discoverability, video podcast, distribuzione e monetizzazione. Premi Pod24 e debutto del Branded Podcasts Award. Tre fonti indipendenti concordano. Non è una novità di oggi: è il fatto italiano più recente trovato.",
+  "brief": "Il 2-3 ottobre, a Cascina Triulza (Milano MIND), decima edizione con una giornata per brand e agenzie. Temi: scopribilità, video podcast, distribuzione, monetizzazione. Il 3 ottobre il premio POD24 per inchieste e reportage indipendenti. Non è di oggi: è il fatto italiano verificato più recente.",
   "angles": [
-   "Video podcast e discoverability: di cosa si parla davvero in Italia",
-   "Cosa chiedono i brand a un podcast prima di investirci",
-   "Perché anche un podcast piccolo dovrebbe pensare a distribuzione e promozione dal giorno uno"
+   "Video podcast e scopribilità: cosa dicono i palchi italiani",
+   "Cosa guardano i brand prima di sponsorizzare un podcast",
+   "Distribuzione dal giorno uno, non dopo la decima puntata"
   ],
   "hooks": [
-   "Hai appena aperto il tuo podcast e pensi che basti pubblicare? A Milano hanno parlato di discoverability: se nessuno ti trova, il microfono costoso è un soprammobile.",
-   "Pensi che i brand cerchino solo i podcast famosi? A Milano hanno fatto una giornata intera per le aziende. Quindi sì, qualcuno guarda anche te.",
-   "Hai un podcast e non sai se farlo anche in video? In Italia ne parlano su ogni palco. Prima sistema l'audio: il video non lo salva."
+   "Hai appena aperto un podcast e pensi che basti pubblicare? A Milano hanno parlato solo di come farsi trovare.",
+   "Pensi che i brand cerchino solo i podcast famosi? Hanno fatto una giornata intera per loro. Qualcuno guarda anche te.",
+   "Ti chiedi se fare anche il video? In Italia ne parlano su ogni palco. Prima sistema l'audio, il video non lo salva."
   ]
  },
  {
-  "id": "podcast-2026-ascoltatori-italia-nielseniq",
-  "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026 (+3%) secondo NielsenIQ per Audible",
-  "source": "ItaliaOggi (monitoraggio NielsenIQ per Audible); osservatorio OBE",
+  "id": "podcast-2026-youtube-secondo-podnews",
+  "title": "Podnews Report Card 2026: YouTube al secondo posto tra le piattaforme di ascolto, davanti a Spotify",
+  "source": "Podnews",
   "affidabilita": "secondaria",
-  "target": 7,
-  "date": "2026 (data esatta di pubblicazione non verificata)",
-  "brief": "Secondo il monitoraggio NielsenIQ per Audible gli ascoltatori italiani sono 18,5 milioni nel 2026, circa +3% sul 2025. L'osservatorio OBE parla invece di 15,5 milioni nel 2025 (+2%) e del 59% degli ascoltatori che ricorda di aver sentito branded podcast. Metodologie diverse: i due numeri non vanno confrontati tra loro.",
-  "angles": [
-   "Quanti italiani ascoltano podcast e cosa significa per chi parte da zero",
-   "Perché due ricerche danno numeri diversi e come leggerli",
-   "Il pubblico c'è: il problema è farsi trovare"
-  ],
-  "hooks": [
-   "Pensi che in Italia nessuno ascolti podcast? Sono milioni. Il problema non è il pubblico, è che non sa che esisti.",
-   "Hai paura di arrivare tardi con il tuo podcast? Il pubblico italiano cresce ancora. Arrivi tardi solo se non parti.",
-   "Hai letto 18 milioni di ascoltatori e ti sei gasato? Calma: dipende da chi misura. Te lo spiego in 30 secondi."
-  ]
- },
- {
-  "id": "podcast-2026-01-spotify-partner-program",
-  "title": "Spotify Partner Program: soglia a 1.000 ascoltatori engaged e API per distribuire video podcast da host terzi",
-  "source": "Spotify Newsroom (7 gennaio 2026), Forbes",
-  "affidabilita": "primaria",
   "target": 8,
-  "date": "2026-01-07",
-  "brief": "La soglia di ingresso scende da 2.000 ascoltatori a 1.000 audience engaged su Spotify (plays degli ultimi 30 giorni). Arriva una API di distribuzione video per pubblicare e monetizzare video podcast da hosting partner come Acast, Audioboom, Libsyn, Omny e Podigee. Fuori dalle 48 ore: contesto utile, non novità di oggi.",
+  "date": "2026 (data esatta non verificata)",
+  "brief": "Il Report Card 2026 di Podnews indica per la prima volta YouTube al #2 dopo Apple Podcasts, sopra Spotify, che resta pressoché stabile. Fonte unica trovata, dati da leggere come segnale e non come classifica ufficiale.",
   "angles": [
-   "Cosa devi avere per entrare nel Partner Program e cosa no",
-   "Video podcast: serve davvero o basta l'audio?",
-   "Come scegliere un hosting compatibile con la distribuzione video"
+   "Perché il tuo podcast deve esistere anche su YouTube",
+   "Audio caricato su sfondo fisso: perché non funziona",
+   "Quale piattaforma curare per prima se parti da zero"
   ],
   "hooks": [
-   "Hai un podcast piccolo e pensi che Spotify non ti paghi mai? La soglia è scesa a 1.000 ascoltatori engaged. Non è tanto, ma non è zero.",
-   "Stai per scegliere un hosting per il tuo podcast? Controlla se supporta il video su Spotify. Poi non dire che nessuno te l'aveva detto.",
-   "Pensi che per guadagnare con un podcast servano numeri da star? Ti dico la soglia vera in 20 secondi, e non ti piacerà quanto è bassa."
+   "Hai un podcast solo su Spotify? YouTube ormai gli sta davanti. Forse è ora di aprire anche quel canale.",
+   "Pensi che caricare l'audio su YouTube con una foto fissa basti? Spoiler: no, e lo sa anche l'algoritmo.",
+   "Hai appena registrato la prima puntata e ti chiedi dove pubblicarla? Non solo dove la ascolta tua madre."
   ]
  },
  {
-  "id": "podcast-2026-05-spotify-investor-day",
-  "title": "Spotify: oltre 500 milioni di utenti hanno guardato un video podcast; arrivano Creator Sponsorships",
-  "source": "Spotify Newsroom (21 maggio 2026), Podnews",
-  "affidabilita": "primaria",
-  "target": 7,
-  "date": "2026-05-21",
-  "brief": "All'Investor Day Spotify ha detto che più di 500 milioni di utenti hanno streamato un video podcast e che le Creator Sponsorships sono attive per i creator nel Partner Program. Annunciati anche i Personal Podcasts per utenti Premium USA. Dato dichiarato dall'azienda stessa, quindi da leggere come comunicazione. Fuori dalle 48 ore.",
-  "angles": [
-   "Video podcast: cosa dice Spotify e cosa dicono i fatti",
-   "Sponsorizzazioni: da quanti ascolti si può iniziare a pensarci",
-   "Se parti oggi, audio o video?"
-  ],
-  "hooks": [
-   "Hai appena comprato un microfono e ti dicono che ormai serve il video? Spotify dice che mezzo miliardo di utenti ha guardato un video podcast. Ma l'audio rotto, nemmeno lui lo salva.",
-   "Pensi che le sponsorizzazioni siano roba da grandi? Spotify le ha aperte anche ai creator del Partner Program. Prima però devi avere un pubblico.",
-   "Non sai se fare il tuo podcast in video? Ti dico cosa farei io se partissi oggi, senza hype."
-  ]
- },
- {
-  "id": "podcast-2026-02-apple-video-hls",
-  "title": "Apple Podcasts: passaggio fluido tra audio e video con HLS e download offline dei video",
-  "source": "Nieman Lab (febbraio 2026), Castos (guida)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-02",
-  "brief": "Apple ha annunciato che gli utenti potranno passare tra audio e video nell'app Podcasts via HLS e scaricare i video offline. Castos spiega le opzioni di distribuzione video: upload diretto, HLS nel feed RSS o feed video dedicato. Data esatta non verificata e fuori dalle 48 ore: contesto.",
-  "angles": [
-   "Feed audio e feed video: come organizzarli",
-   "Cosa cambia per chi pubblica via RSS",
-   "Errore da principianti: caricare il video solo su YouTube"
-  ],
-  "hooks": [
-   "Hai un podcast solo su YouTube e pensi di essere a posto? Apple ora spinge il video nel feed. Il tuo RSS esiste, usalo.",
-   "Registri in video e non sai dove pubblicarlo? Ti faccio vedere i tre modi, dal più semplice al più scomodo.",
-   "Pensi che il video podcast sia solo YouTube? No. E se lo sapevi già, mi dici perché non sei su Apple?"
-  ]
- },
- {
-  "id": "podcast-2026-05-youtube-funzioni-podcast",
-  "title": "YouTube: nuove funzioni dedicate ai podcast (modalità solo audio, velocità automatica)",
-  "source": "Blog Ecosistema Startup (fonte unica, in spagnolo)",
+  "id": "podcast-2026-apple-video-hls",
+  "title": "Apple Podcasts verso il video con HLS: passaggio fluido tra audio e video",
+  "source": "Report di settore (roundup, testata tedesca t3n)",
   "affidabilita": "segnale debole",
-  "target": 5,
-  "date": "2026-05-28",
-  "brief": "Una sola fonte, non verificata sul sito ufficiale YouTube, riporta funzioni pensate per l'ascolto dei podcast, tra cui una modalità audio e la velocità automatica per Premium su Android. Una fonte sola è rumore: da controllare prima di usarla.",
+  "target": 7,
+  "date": "2026 (data esatta non verificata)",
+  "brief": "Alcune fonti parlano di passaggio fluido tra audio e video in Apple Podcasts tramite HLS, collegato a iOS 26.4. Spotify cita oltre 250.000 video podcast. Fonti non primarie e dettagli non confermati: verifica sulle note ufficiali Apple prima di usarlo in un contenuto.",
   "angles": [
-   "YouTube come app per ascoltare podcast: che cambia per chi pubblica",
-   "Perché il video non deve farti trascurare l'audio"
+   "Video podcast: serve davvero o basta l'audio?",
+   "Cosa cambia per chi registra già con una camera",
+   "Come prepararsi al video senza buttare soldi"
   ],
   "hooks": [
-   "Hai un podcast su YouTube e pensi che la gente lo guardi? Molti lo ascoltano e basta. Ecco perché l'audio conta anche lì.",
-   "Stai montando il video del tuo podcast per ore? Forse chi ti ascolta nemmeno lo apre. Te lo spiego.",
-   "Pensi che YouTube sia solo per i video? Per i podcast ormai è anche una radio. Controlla come suona il tuo."
+   "Hai un podcast solo audio e senti dire che il video è il futuro? Prima chiediti se hai già una buona puntata.",
+   "Stai comprando una camera per il podcast? Aspetta, guarda prima cosa fanno davvero Apple e Spotify.",
+   "Hai paura di apparire in video? Tranquillo, anche il microfono lo noterebbe lo stesso."
+  ]
+ },
+ {
+  "id": "podcast-2026-youtube-netflix-esclusiva",
+  "title": "YouTube spinge i creator di punta a non pubblicare su Netflix (secondo Bloomberg)",
+  "source": "Bloomberg (riportato indirettamente)",
+  "affidabilita": "segnale debole",
+  "target": 6,
+  "date": "2026 (data esatta non verificata)",
+  "brief": "Secondo quanto riportato, YouTube starebbe facendo pressione sui creator più grandi perché tengano i video lontani da Netflix, con possibili penalità in promozione e campagne. Una sola fonte indiretta, non confermata.",
+  "angles": [
+   "Esclusiva o ovunque: cosa conviene a un podcast piccolo",
+   "Dipendere da una sola piattaforma: il rischio vero",
+   "Perché la newsletter o il sito restano tuoi"
+  ],
+  "hooks": [
+   "Pensi di pubblicare solo su una piattaforma? Se cambia le regole, il tuo pubblico resta da loro.",
+   "Hai appena aperto un podcast e pensi a esclusive? Prima trova qualcuno che ti ascolti.",
+   "Ti chiedi dove conviene stare? Ovunque, ma con un posto tuo dove ti trovano sempre."
   ]
  }
 ]

@@ -1,47 +1,42 @@
 [
  {
-  "id": "ham-2026-10-09-g2-cme",
-  "title": "Tempesta geomagnetica G2 prevista per il 9 ottobre (CME da AR4549)",
-  "source": "El Imparcial, Zendar Universe, SAN (riportano NOAA/SWPC)",
+  "id": "ham-2026-10-h49a-solomon",
+  "title": "H49A Isole Salomone: DXpedition dal 9 al 21 ottobre",
+  "source": "The DX Zone",
   "affidabilita": "secondaria",
   "date": "2026-10-09",
-  "brief": "NOAA ha avvisato di una CME legata a un flare M1.4 della regione AR4549 con arrivo previsto il 9 ottobre e attività G1-G2. Un articolo SAN parla invece di un watch severo (livello 4 su 5) per il 10-11 ottobre: le date non coincidono, da verificare su SWPC. Attesa HF degradata, specie bande alte e tratte polari.",
-  "rilevanza": "Nel fine settimana l'HF può essere instabile: controlla Kp e SWPC prima di pianificare QSO DX."
+  "brief": "Team guidato da Rolando 9A3MR, tutte le bande HF più 6 m in CW, SSB e FT8. Fonte unica trovata: conferma sulla pagina ufficiale."
  },
  {
-  "id": "ham-2026-10-24-cqww-ssb",
-  "title": "CQ WW DX Contest SSB: 24-25 ottobre 2026",
-  "source": "cqww.com (verificato nella run precedente), DX Zone",
-  "affidabilita": "primaria",
-  "date": "2026-10-24",
-  "brief": "Il sito ufficiale indica SSB dalle 00:00 UTC del 24 alle 23:59 UTC del 25 ottobre; CW il 28-29 novembre. Un articolo che riporta il 25-26 ottobre è del 2025, quindi non vale per quest'anno. DX Zone elenca a ottobre anche Oceania DX, TRC DX e SAC SSB.",
-  "rilevanza": "Il contest più grande dell'anno: buona occasione per DXCC e zone CQ."
- },
- {
-  "id": "ham-2026-10-hf0pas",
-  "title": "HF0PAS dalle Shetland Meridionali attiva fino al 31 ottobre",
-  "source": "DX Zone (calendario DXpedition)",
+  "id": "ham-2026-10-s9r-sao-tome",
+  "title": "S9R São Tomé e Príncipe: operazione dal 17 al 31 ottobre",
+  "source": "The DX Zone",
   "affidabilita": "secondaria",
-  "date": "2026-10-10",
-  "brief": "Il calendario indica l'attività HF0PAS dal 1 maggio al 31 ottobre 2026: base antartica, quindi operatività dipendente dai turni. Fonte unica.",
-  "rilevanza": "Entità rara per il DXCC, ancora lavorabile questo mese."
+  "date": "2026-10",
+  "brief": "Da 160 a 6 m incluso 60 m, CW, SSB e digitale; QSL manager ancora da definire. Annunciata, non ancora attiva."
  },
  {
-  "id": "ham-2026-11-vk9xy",
-  "title": "VK9XY Isola di Natale: DXpedition dal 16 novembre al 4 dicembre",
-  "source": "DX Zone, Pacific Islands DXpedition Group (riportato)",
-  "affidabilita": "secondaria",
-  "date": "2026-10-10",
-  "brief": "Team di giovani operatori con mentori Glenn Johnson W0GJ e Gregg Marco W6IZT. Tutte le bande HF in CW, SSB e FT8, più il satellite QO-100.",
-  "rilevanza": "Da mettere in agenda per CW/SSB e FT8, e per chi ha QO-100."
- },
- {
-  "id": "ham-2026-09-flusso-solare",
-  "title": "Flusso solare: previsione di fine settembre intorno a 105-115 sfu, media 107,9",
-  "source": "Previsione NOAA riportata (25 settembre - 1 ottobre)",
+  "id": "ham-2026-10-hf0pas-9t0md",
+  "title": "HF0PAS (Shetland Australi) attiva fino al 31 ottobre; 9T0MD (RD Congo) prevista fino al 13 ottobre",
+  "source": "The DX Zone, bollettino LABRE DX",
   "affidabilita": "segnale debole",
-  "date": "2026-09-25",
-  "brief": "Nessun valore di ottobre trovato oggi. La previsione citata è di fine settembre: usala come ordine di grandezza, non come condizione attuale.",
-  "rilevanza": "Con SFI attorno a 100+ le bande 20-15 m restano utilizzabili, salvo disturbi geomagnetici."
+  "date": "2026-10",
+  "brief": "HF0PAS risulta attiva fino al 31 ottobre. Per 9T0MD il bollettino di maggio dava 30 settembre-13 ottobre e cercava un operatore CW: date e stato da verificare."
+ },
+ {
+  "id": "ham-2026-10-propagazione",
+  "title": "Propagazione HF: nessun avviso SWPC per l'11 ottobre trovato",
+  "source": "ARRL Solar Update 46 (25 settembre), SWPC",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-11",
+  "brief": "Il dato più recente reperito è lo Solar Update del 25 settembre: attività bassa, G1 isolato da corona hole, periodo equinoziale. La nota di ieri su una G2 per il 9 ottobre non è stata riconfermata. Controlla swpc.noaa.gov (Kp e previsione a 3 giorni)."
+ },
+ {
+  "id": "ham-2026-10-cqww-ssb",
+  "title": "CQ WW DX SSB: fine ottobre, data da verificare",
+  "source": "Hamweekly (CU2ARA)",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "CU2ARA annuncia la partecipazione alla sezione SSB indicando 25-26 ottobre, ma il 25 è domenica e il 26 lunedì: probabile errore. Verifica il calendario su cqww.com; CW a fine novembre (29-30)."
  }
 ]

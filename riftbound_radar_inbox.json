@@ -2,46 +2,37 @@
  {
   "id": "rb-2026-10-radiance-calendario",
   "title": "Radiance (Set 5): uscita il 23 ottobre, Pre-Rift dal 16 al 22 ottobre",
-  "source": "playriftbound.com (The Radiance Overview), ICv2, riftbound.gg",
+  "source": "playriftbound.com (The Radiance Overview), StarCityGames, TCGTalk",
   "affidabilita": "primaria",
   "date": "2026-10-10",
-  "brief": "Radiance esce il 23 ottobre in inglese, cinese e francese. Pre-Rift dal 16 al 22 ottobre, anteprime concluse il 9 ottobre. Nuove meccaniche: Deploy, Show Off, Disarm e token Bomb. Riot cita 180 carte con 66 Showcase; un listing parla di 60+, quindi il numero Showcase varia per fonte.",
-  "rilevanza": "Hai poco più di una settimana per decidere mazzi e preordini prima dei Pre-Rift."
+  "brief": "Radiance esce il 23 ottobre 2026 in inglese e cinese semplificato (precedente scheda indicava anche francese: non riconfermato). Pre-Rift dal 16 al 22 ottobre; stagione anteprime 25 settembre-9 ottobre, la pagina ufficiale dice che sarà aggiornata.",
+  "rilevanza": "Hai poco più di una settimana per prepararti: Pre-Rift e prime liste arrivano a ridosso."
  },
  {
-  "id": "rb-2026-10-packed-amphitheater",
-  "title": "Packed Amphitheater: rivelata la seconda Ultimate Rare di Radiance",
+  "id": "rb-2026-10-radiance-meccaniche",
+  "title": "Radiance: 180 carte, 9 Champion Legends e nuove meccaniche Deploy, Show Off, Disarm",
+  "source": "playriftbound.com, ICv2, The Outer Haven",
+  "affidabilita": "primaria",
+  "date": "2026-10",
+  "brief": "Il set conta 180 carte nuove e 9 nuove Champion Legends (confermate finora Ekko, Seraphine, Evelynn). Deploy: gear giocabile solo su un Battlefield, con benefici finché lo tieni, e va distrutto se lo controlla l'avversario. Disarm riduce il Might e scala con le istanze.",
+  "rilevanza": "Deploy cambia il valore dei Battlefield: occhio a mazzi che li controllano."
+ },
+ {
+  "id": "rb-2026-10-meta-unleashed",
+  "title": "Meta: riftbound.gg segue Unleashed, Diana e Master Yi candidati al top",
   "source": "riftbound.gg",
   "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "La seconda Ultimate Rare del set è Packed Amphitheater, una carta Battlefield, mostrata al Radiance Creator Summit. La fonte stima circa lo 0,025% dei booster; è una stima, non un dato ufficiale. Nessun guaranteed Ultimate Rare in pack, box o case. Data esatta della reveal non verificata.",
-  "rilevanza": "Per chi colleziona: rarità estrema, occhio ai prezzi gonfiati nel primo weekend."
+  "date": "2026 (data esatta non verificata)",
+  "brief": "Le analisi di riftbound.gg descrivono Unleashed come l'espansione più interessante finora, con Diana e Master Yi tra i candidati leader; Irelia rallenta in occidente. Tier list in rapido cambiamento, snapshot non datato con precisione.",
+  "rilevanza": "Se giochi competitivo, i tier cambiano con Radiance: non investire su liste vecchie."
  },
  {
-  "id": "rb-2026-10-showdown-seraphine-evelynn",
-  "title": "Radiance Showdown Deck: Seraphine contro Evelynn a 34,99 $, liste il 16 ottobre",
-  "source": "ICv2, playriftbound.com",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Due mazzi preco da 56 carte, due booster, due playmat di carta e un regolamento. Le liste complete sono attese il 16 ottobre. Prezzo in dollari: in Italia può cambiare. Display da 24 pack a 119,99 $ secondo la stessa fonte.",
-  "rilevanza": "Il modo più economico per provare le nuove Legend e capire il meta del set."
- },
- {
-  "id": "rb-2026-09-ban-list",
-  "title": "Aggiornamento ban list del 18 settembre 2026 (contenuto non verificato)",
-  "source": "Titolo in risultato di ricerca, riftbound.leagueoflegends.com",
+  "id": "rb-2026-10-nessuna-patch",
+  "title": "Nessuna patch o errata di bilanciamento trovata per Radiance",
+  "source": "ricerca su playriftbound.com e stampa di settore",
   "affidabilita": "segnale debole",
-  "date": "2026-09-18",
-  "brief": "Ho visto solo il titolo 'Riftbound Ban List Updates – September 18, 2026', senza il contenuto. Non ho trovato il previsto aggiornamento regole dell'8 ottobre né nuovi ban a ottobre. Controlla il Rules Hub ufficiale prima del Pre-Rift.",
-  "rilevanza": "Le carte bannate decidono quali mazzi portare ai Pre-Rift."
- },
- {
-  "id": "rb-2026-12-prossimi-prodotti",
-  "title": "Dopo Radiance: Gift of the Rift Bundle il 4 dicembre e Legacy, primo set pensato per il draft, il 29 gennaio 2027",
-  "source": "ICv2",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Il bundle include booster dei primi cinque set e una promo Akali esclusiva. Legacy è indicato come primo set focalizzato sul draft, in uscita il 29 gennaio 2027. Fonte unica trovata: da confermare.",
-  "rilevanza": "Aiuta a pianificare gli acquisti natalizi e a capire dove va il formato."
+  "date": "2026-10-11",
+  "brief": "Nelle ultime 48 ore non ho trovato annunci Riot di bilanciamento, ban o errata. Nessuna discussione Reddit o Discord rilevata dal motore di ricerca.",
+  "rilevanza": "Controlla la pagina ufficiale prima del lancio per eventuali errata."
  }
 ]

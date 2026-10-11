@@ -2,46 +2,46 @@
  {
   "id": "nerd-2026-10-22-essen",
   "title": "SPIEL Essen 2026: 22-25 ottobre, per la prima volta tutti gli 8 padiglioni",
-  "source": "Spielwarenmesse, Zatu, Asmodee",
+  "source": "Spielwarenmesse, Zatu",
   "affidabilita": "secondaria",
-  "date": "2026-10-10",
-  "brief": "Circa 921 espositori da 53 paesi, oltre 1.500 novità attese e fino a 230.000 visitatori previsti. Arena laser tag Warhammer 40,000 con Games Workshop e nuovo strumento B2B nell'app. PocketGamer.biz riporta 8-11 ottobre: appare errato.",
+  "date": "2026-10-11",
+  "brief": "921 espositori da 53 paesi, oltre 1.500 novità attese e fino a 230.000 visitatori. PocketGamer.biz riporta 8-11 ottobre: appare errato.",
   "tipo": "fiera internazionale"
  },
  {
   "id": "nerd-2026-10-28-lucca",
-  "title": "Lucca Comics & Games 2026: 60 anni, dal 28 ottobre al 1° novembre, tema 'Legacy'",
-  "source": "Multiplayer.it, Smartworld, Ticketone",
+  "title": "Lucca Comics & Games 2026 (60 anni): 28 ottobre-1 novembre, focus sul videogioco",
+  "source": "Multiplayer.it, Smartworld, Bestmovie",
   "affidabilita": "secondaria",
-  "date": "2026-10-10",
-  "brief": "Ospiti annunciati: Go Nagai, Frank Miller, Paco Roca, Jonathan Hickman per i fumetti; Yoshinori Kitase, Hideaki Kamiya e Noah Falstein per i videogiochi. Più fonti concordano.",
+  "date": "2026-10-11",
+  "brief": "Edizione Legacy per i 60 anni. Ospiti videoludici annunciati: Yoshinori Kitase, Hideki Kamiya, Stephen Bliss, Daniel Dociu, Noah Falstein, Chris Darril; per i fumetti Go Nagai e Frank Miller.",
   "tipo": "fiera italiana"
  },
  {
-  "id": "nerd-2026-10-lucca-dnd-manganiello",
-  "title": "Lucca 2026: Joe Manganiello guida il programma D&D con la linea D&D Icons",
-  "source": "SpazioGames (2 ottobre)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-02",
-  "brief": "Il programma di gioco di ruolo punta su Dungeons & Dragons, Daggerheart e ORKEN. Fonte unica e fuori dalle 48 ore.",
-  "tipo": "fiera italiana / gdr"
+  "id": "nerd-2026-10-asmodee-essen",
+  "title": "Asmodee a Spiel Essen 2026: otto zone tematiche e quasi 200 tavoli demo",
+  "source": "Comunicato Asmodee (Inderes)",
+  "affidabilita": "primaria",
+  "date": "2026-09-23",
+  "brief": "Asmodee ha annunciato la partecipazione il 23 settembre con demo di novità, titoli in arrivo ed esclusive di fiera.",
+  "tipo": "annuncio editore"
  },
  {
-  "id": "nerd-2026-05-play-bologna",
-  "title": "Play 2026 si è tenuto a Bologna (22-24 maggio): il festival lascia Modena",
-  "source": "play-festival.it, Opinionated Gamers",
-  "affidabilita": "secondaria",
-  "date": "2026-05-24",
-  "brief": "La 17ª edizione si è svolta a BolognaFiere con ModenaFiere partner, 5 padiglioni e oltre 700 eventi. Non ho trovato date del 2027. Fuori dalle 48 ore: contesto.",
+  "id": "nerd-2026-10-combo-milano",
+  "title": "Combo Festival di Pedine, Dadi e Carte: prima edizione a Milano, oltre 40 editori",
+  "source": "Mentelocale",
+  "affidabilita": "segnale debole",
+  "date": "data non verificata",
+  "brief": "Oltre quaranta case editrici, 35 anteprime assolute; presentato come anticipo di Spiel Essen. Date e titoli non verificati.",
   "tipo": "fiera italiana"
  },
  {
-  "id": "nerd-2026-10-videogiochi-nessun-annuncio",
-  "title": "Videogiochi: nessun nuovo annuncio verificato nelle ultime 48 ore",
-  "source": "Ricerca web (nessun risultato pertinente)",
+  "id": "nerd-2026-10-videogiochi",
+  "title": "Annunci videogiochi del 10-11 ottobre: nessuno verificabile",
+  "source": "ricerca generale",
   "affidabilita": "segnale debole",
-  "date": "2026-10-10",
-  "brief": "Le ricerche non hanno restituito annunci di videogiochi datati 9-10 ottobre. Dalla run precedente restano, da confermare, Valor Mortis il 13 ottobre e Call of Duty: Modern Warfare 4 il 23 ottobre (fonti secondarie).",
-  "tipo": "videogiochi"
+  "date": "2026-10-11",
+  "brief": "La ricerca non ha restituito annunci di videogiochi datati nelle ultime 48 ore: preferisco non inventarne.",
+  "tipo": "nota"
  }
 ]

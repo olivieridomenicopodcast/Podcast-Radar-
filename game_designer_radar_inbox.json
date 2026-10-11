@@ -22,91 +22,68 @@
   "rilevanza": "Mostra il lavoro di un'agenzia di autori italiana."
  },
  {
-  "id": "gd-it-lucca-2026",
-  "title": "Lucca Comics & Games 2026, 28 ottobre - 1° novembre: editori nel Padiglione Carducci",
-  "source": "Smartworld, SpazioGames",
+  "id": "gd-it-combo-milano",
+  "title": "Combo Festival di Pedine, Dadi e Carte (Milano): oltre 40 editori, 35 anteprime assolute",
+  "source": "Mentelocale",
   "affidabilita": "segnale debole",
-  "date": "2026-10",
+  "date": "data non verificata",
   "mercato": "italia",
   "tipo": "fiere",
-  "brief": "Le edizioni passate hanno concentrato nel Carducci i principali editori di giochi da tavolo, di ruolo e di carte. Non ho trovato la lista espositori 2026 né annunci di Asmodee Italia, Cranio Creations o Giochi Uniti. Per D&D è previsto Joe Manganiello (fonte unica).",
-  "rilevanza": "Occasione di incontro con gli editori, ma lista ufficiale da verificare."
+  "brief": "Prima edizione, presentata come anticipo di Essen. Date e lista editori da verificare sul programma.",
+  "rilevanza": "Occasione per incontrare editori italiani con un prototipo."
  },
  {
-  "id": "gd-it-play-bologna",
-  "title": "Play 2026 a Bologna (22-24 maggio) con Asmodee, Ravensburger e Clementoni",
-  "source": "play-festival.it, Opinionated Gamers",
+  "id": "gd-it-ideag",
+  "title": "IdeaG: incontro nazionale di autori di giochi, di solito a metà gennaio vicino Parma",
+  "source": "Spieleautorenzunft (SAZ)",
   "affidabilita": "secondaria",
-  "date": "2026-05-24",
   "mercato": "italia",
-  "tipo": "fiere",
-  "brief": "Il festival ha lasciato Modena per BolognaFiere. Date 2027 non trovate. Fuori dalle 48 ore.",
-  "rilevanza": "Capire dove si sposta la fiera italiana più grande per i prototipi."
+  "tipo": "autori",
+  "date": "2026-10-11",
+  "brief": "Fondato da Walter Obert; esistono anche incontri locali durante l'anno. Le date 2026-27 non sono state trovate: controlla il sito IdeaG.",
+  "rilevanza": "Il luogo più diretto per presentare prototipi agli editori."
  },
  {
-  "id": "gd-it-ideag-cortese-nota",
-  "title": "IdeaG e Mario Cortese (GateOnGames): nessun riscontro oggi",
-  "source": "Ricerca web senza risultati pertinenti",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-10",
-  "mercato": "italia",
-  "tipo": "nota",
-  "brief": "Non ho trovato date o luoghi degli IdeaG 2026 né notizie su Mario Cortese. Nessun dato inventato: serve la fonte diretta, per esempio i canali di GateOnGames.",
-  "rilevanza": "Gap di copertura da colmare."
- },
- {
-  "id": "gd-es-essen-fiera",
-  "title": "SPIEL Essen 2026 (22-25 ottobre): 921 espositori, 1.500 novità, nuovo matchmaking B2B nell'app",
-  "source": "Spielwarenmesse, Zatu",
+  "id": "gd-es-essen-record",
+  "title": "Spiel Essen 2026: record annunciato, 921 espositori e oltre 1.500 novità",
+  "source": "Spielwarenmesse",
   "affidabilita": "secondaria",
-  "date": "2026-10",
   "mercato": "estero",
   "tipo": "fiere",
-  "brief": "Il nuovo strumento B2B nell'app ufficiale è pensato per mettere in contatto operatori ed editori. Per la prima volta occupa tutti gli 8 padiglioni.",
-  "rilevanza": "Utile per chi vuole proporre un prototipo a un editore."
+  "date": "2026-10-11",
+  "brief": "22-25 ottobre, tutti gli 8 padiglioni. Nel 2025: 220.000 visitatori, oltre 1.700 novità, 948 espositori.",
+  "rilevanza": "Gli editori scelgono i giochi del prossimo anno anche qui."
  },
  {
   "id": "gd-es-asmodee-essen",
-  "title": "Asmodee a Essen: Forest Shuffle Smoky Mountains, Citadels Duel, Harmonies",
-  "source": "Comunicato Asmodee (23 settembre)",
+  "title": "Asmodee a Essen 2026: otto zone e quasi 200 tavoli",
+  "source": "Comunicato Asmodee (Inderes)",
   "affidabilita": "primaria",
+  "mercato": "estero",
+  "tipo": "cataloghi",
   "date": "2026-09-23",
-  "mercato": "estero",
-  "tipo": "cataloghi",
-  "brief": "Il comunicato elenca novità e uscite esclusive per la fiera. Fuori dalle 48 ore.",
-  "rilevanza": "Mostra cosa cerca un grande publisher: espansioni di successi, formati duel."
+  "brief": "Demo di novità e titoli in arrivo, con esclusive di fiera.",
+  "rilevanza": "Quale catalogo si sta allargando e con che generi."
  },
  {
-  "id": "gd-es-matagot-essen",
-  "title": "Matagot porta a Essen The Peak Team, Mission: Red Planet e Astérix & Co",
-  "source": "matagot.com (listing Essen)",
-  "affidabilita": "primaria",
-  "date": "2026-10",
-  "mercato": "estero",
-  "tipo": "cataloghi",
-  "brief": "Il publisher francese indica i titoli per la fiera. La pagina riporta 23-26 ottobre, mentre le altre fonti dicono 22-25: probabile errore.",
-  "rilevanza": "Esempio di catalogo con ristampe e licenze."
- },
- {
-  "id": "gd-es-devir-gaudi",
-  "title": "Devir a Essen con 'Gaudí' e Risky Mixes, versione inglese di Mal Trago",
-  "source": "ICv2 (articolo sponsorizzato)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-08",
-  "mercato": "estero",
-  "tipo": "localizzazioni",
-  "brief": "Articolo sponsorizzato: va letto come comunicazione del publisher. Esempio di party game localizzato dallo spagnolo all'inglese.",
-  "rilevanza": "Mostra come un titolo nazionale cerca mercati esteri."
- },
- {
-  "id": "gd-es-spiel-talks",
-  "title": "SPIEL Talks: aperte le candidature per Essen 2026",
+  "id": "gd-es-spieltalks",
+  "title": "Spiel.Talks: aperta la raccolta di proposte per interventi a Essen 2026",
   "source": "gamesmarket.global",
   "affidabilita": "segnale debole",
-  "date": "2026",
   "mercato": "estero",
   "tipo": "fiere",
-  "brief": "Fonte unica, data non verificata. Non so se le candidature siano ancora aperte.",
-  "rilevanza": "Possibile palco per chi vuole parlare di design."
+  "date": "2026",
+  "brief": "Call per designer e ricercatori che vogliono proporre talk sul palco principale. Scadenza non verificata.",
+  "rilevanza": "Visibilità per autori."
+ },
+ {
+  "id": "gd-es-nota",
+  "title": "Nota: nessun annuncio di licensing o ricerca titoli di editori trovato nelle ultime 48 ore",
+  "source": "ricerca",
+  "affidabilita": "segnale debole",
+  "mercato": "estero",
+  "tipo": "nota",
+  "date": "2026-10-11",
+  "brief": "Non ho trovato 10 + 10 notizie verificabili: preferisco poche voci reali. Persone come Mario Cortese (GateOnGames) non hanno restituito risultati recenti."
  }
 ]
