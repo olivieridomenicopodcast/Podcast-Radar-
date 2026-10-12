@@ -1,5 +1,21 @@
 [
  {
+  "id": "ham-2026-10-cqww-ssb-24-25",
+  "title": "CQ WW DX SSB: 24-25 ottobre, log entro il 27 ottobre; vietati i robot autonomi",
+  "source": "cqww.com (regole 2026); ng3k.com",
+  "affidabilita": "primaria",
+  "date": "2026-10",
+  "brief": "Il CQ WW DX SSB 2026 è il 24-25 ottobre. Dalle regole 2026: scadenza log 48 ore dopo la gara (23:59 UTC del 27 ottobre) e operazione autonoma da robot formalmente vietata. Ng3k elenca operazioni annunciate, tra cui FP/WF2A da Saint-Pierre e Miquelon (21-26 ottobre, 75 W) e GM5E da Shetland (22-26 ottobre)."
+ },
+ {
+  "id": "ham-2026-10-propagazione-sfi",
+  "title": "Propagazione: ultimo flusso solare verificato intorno a 108-112 (agosto-settembre), sotto la soglia utile per DX forte",
+  "source": "RSGB Propagation News (9 agosto 2026); 3fs.net.au",
+  "affidabilita": "segnale debole",
+  "date": "2026-09",
+  "brief": "Non ho trovato dati SWPC per questi giorni. Gli ultimi disponibili: SFI circa 108 a inizio agosto e 109-112 al 5-8 settembre, media a 90 giorni vicino a 127. Come regola empirica, per buon DX serve SFI sopra 150 con K basso. Ottobre resta storicamente buono per l'HF per la stagionalità: è una nota generale, non una previsione."
+ },
+ {
   "id": "ham-2026-10-h49a-solomon",
   "title": "H49A Isole Salomone: DXpedition dal 9 al 21 ottobre",
   "source": "The DX Zone",
@@ -22,21 +38,5 @@
   "affidabilita": "segnale debole",
   "date": "2026-10",
   "brief": "HF0PAS risulta attiva fino al 31 ottobre. Per 9T0MD il bollettino di maggio dava 30 settembre-13 ottobre e cercava un operatore CW: date e stato da verificare."
- },
- {
-  "id": "ham-2026-10-propagazione",
-  "title": "Propagazione HF: nessun avviso SWPC per l'11 ottobre trovato",
-  "source": "ARRL Solar Update 46 (25 settembre), SWPC",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-11",
-  "brief": "Il dato più recente reperito è lo Solar Update del 25 settembre: attività bassa, G1 isolato da corona hole, periodo equinoziale. La nota di ieri su una G2 per il 9 ottobre non è stata riconfermata. Controlla swpc.noaa.gov (Kp e previsione a 3 giorni)."
- },
- {
-  "id": "ham-2026-10-cqww-ssb",
-  "title": "CQ WW DX SSB: fine ottobre, data da verificare",
-  "source": "Hamweekly (CU2ARA)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "CU2ARA annuncia la partecipazione alla sezione SSB indicando 25-26 ottobre, ma il 25 è domenica e il 26 lunedì: probabile errore. Verifica il calendario su cqww.com; CW a fine novembre (29-30)."
  }
 ]

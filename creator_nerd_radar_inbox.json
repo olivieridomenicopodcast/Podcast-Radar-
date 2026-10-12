@@ -1,5 +1,23 @@
 [
  {
+  "id": "creator-2026-play-cigno-nerd",
+  "title": "Play 2026: Il Cigno NerD presente con il Collettivo Araldi",
+  "source": "Sito ufficiale Play Festival",
+  "affidabilita": "secondaria",
+  "date": "data non verificata",
+  "brief": "Dalla pagina ospiti di Play 2026 (Bologna) risulta la creator Il Cigno NerD, autrice del gioco di ruolo Il Canto dei Peccatori, con il Collettivo Araldi per tutta la durata del festival. Unica fonte.",
+  "rilevanza": "Esempio di creator che diventa autrice: utile se segui il ponte tra contenuti e game design."
+ },
+ {
+  "id": "creator-2026-nota",
+  "title": "Nota: nessuna notizia datata sui creator nerd italiani nelle ultime 48 ore",
+  "source": "Ricerca web",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-12",
+  "brief": "La ricerca ha restituito solo guide generiche (FaviJ, MikeShowSha, Sabaku no Maiku, Quei Due Sul Server) e un caso legale di Once Were Nerd del luglio 2025, di cui non ho lo stato attuale. Nulla di verificabile per questi giorni.",
+  "rilevanza": "Niente da agire oggi."
+ },
+ {
   "id": "creator-2026-lucca-assenza-creator",
   "title": "Lucca 2026: tra gli ospiti annunciati non risultano creator italiani del mondo nerd",
   "source": "Smartworld, Multiplayer.it",

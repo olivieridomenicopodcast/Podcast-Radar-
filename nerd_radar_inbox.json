@@ -1,5 +1,32 @@
 [
  {
+  "id": "nerd-2026-10-lucca-ospiti",
+  "title": "Lucca Comics & Games 2026: Kitase, Kamiya, CD Projekt Red e Remedy tra gli ospiti; showcase Final Fantasy VII Revelation",
+  "source": "Smartworld; SpazioGames; LoveHorror",
+  "affidabilita": "secondaria",
+  "tipo": "fiera",
+  "date": "2026-10 (fiera 28 ottobre-1 novembre)",
+  "brief": "Per i 60 anni (tema Legacy) Lucca punta sul videogioco: Yoshinori Kitase con masterclass, Q&A e Walk of Fame, Hideki Kamiya, CD Projekt Red, Remedy. Nel gioco di ruolo, Joe Manganiello cura il programma D&D con la linea D&D Icons (Dragonlance, Greyhawk), poi Daggerheart e ORKEN. Ospiti del fumetto: Go Nagai, Frank Miller, Jonathan Hickman, Peach Momoko, Paco Roca. Il programma dei panel non è completo."
+ },
+ {
+  "id": "nerd-2026-10-devir-essen",
+  "title": "Devir a Essen 2026: Gaudí e Shugendo (Luciani e Cuneo) tra le uscite d'autunno",
+  "source": "ICV2 (contenuto sponsorizzato Devir)",
+  "affidabilita": "secondaria",
+  "tipo": "annuncio gioco da tavolo",
+  "date": "2026-10",
+  "brief": "Devir porta a Essen (22-25 ottobre) Gaudí di Dani Garcia, Shugendo, euro di peso medio dei designer italiani Simone Luciani e Alessandro Cuneo, e Níjar di David Bernal (Perro Loko). Fonte sponsorizzata dal publisher: nessuna edizione italiana confermata. Un listing isolato dava date diverse per Essen: valgono 22-25 ottobre."
+ },
+ {
+  "id": "nerd-2026-10-videogiochi",
+  "title": "Annunci videogiochi del 10-12 ottobre: nessuno verificabile",
+  "source": "Ricerca web",
+  "affidabilita": "segnale debole",
+  "tipo": "nota",
+  "date": "2026-10-12",
+  "brief": "Non ho trovato annunci datati in queste ore. Le uniche cose vicine: Kingdom Hearts Collection su Switch 2 dall'8 ottobre (da Nintendo Direct di giugno, fonte secondaria) e il FF VII Revelation annunciato al Summer Game Fest, protagonista a Lucca."
+ },
+ {
   "id": "nerd-2026-10-22-essen",
   "title": "SPIEL Essen 2026: 22-25 ottobre, per la prima volta tutti gli 8 padiglioni",
   "source": "Spielwarenmesse, Zatu",
@@ -34,14 +61,5 @@
   "date": "data non verificata",
   "brief": "Oltre quaranta case editrici, 35 anteprime assolute; presentato come anticipo di Spiel Essen. Date e titoli non verificati.",
   "tipo": "fiera italiana"
- },
- {
-  "id": "nerd-2026-10-videogiochi",
-  "title": "Annunci videogiochi del 10-11 ottobre: nessuno verificabile",
-  "source": "ricerca generale",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-11",
-  "brief": "La ricerca non ha restituito annunci di videogiochi datati nelle ultime 48 ore: preferisco non inventarne.",
-  "tipo": "nota"
  }
 ]

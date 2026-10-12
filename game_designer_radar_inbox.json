@@ -1,5 +1,37 @@
 [
  {
+  "id": "gd-es-devir-luciani-cuneo",
+  "title": "Devir: Shugendo di Luciani e Cuneo, Gaudí e Níjar per Essen 2026",
+  "source": "ICV2 (sponsorizzato Devir)",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "mercato": "estero",
+  "tipo": "cataloghi",
+  "brief": "Devir presenta a Essen un catalogo con designer italiani (Luciani, Cuneo) e spagnoli (Dani Garcia, David Bernal). Contenuto sponsorizzato dal publisher; edizione italiana non confermata.",
+  "rilevanza": "Esempio di editore estero che pesca autori italiani: guarda i loro criteri per i pitch."
+ },
+ {
+  "id": "gd-it-play-bologna-2026",
+  "title": "Play 2026 a Bologna: 4 padiglioni, oltre 200 espositori, Hall 20 per gli editori di giochi da tavolo",
+  "source": "Viaggiapiccoli; sito Play Festival",
+  "affidabilita": "secondaria",
+  "date": "data non verificata",
+  "mercato": "italia",
+  "tipo": "fiere",
+  "brief": "L'anteprima 2026 parla di 43.000 mq, oltre 3.000 tavoli e più di 700 eventi, ospitati alla fiera di Bologna (dal 2025 non più a Modena). Cole Wehrle compare tra gli ospiti. Nessun elenco editori con novità.",
+  "rilevanza": "Capire dove e quando incontrare gli editori italiani. Le date esatte vanno controllate sul sito ufficiale."
+ },
+ {
+  "id": "gd-es-nota",
+  "title": "Nota: nessun annuncio di licensing o ricerca titoli di editori trovato; ne mancano molti per arrivare a 20",
+  "source": "Ricerca web",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-12",
+  "mercato": "nota",
+  "tipo": "nota",
+  "brief": "Anche oggi non ho trovato annunci di editori che cercano tipologie di giochi, né novità su persone negli editori. Pubblico solo quello che ho potuto verificare invece di riempire a 10+10."
+ },
+ {
   "id": "gd-it-archimede-2027",
   "title": "Premio Archimede 2027: giochi inediti da inviare entro il 28 febbraio 2027, finale a Venezia a metà settembre",
   "source": "studiogiochi.com (bando ufficiale, gennaio 2026)",
@@ -75,15 +107,5 @@
   "date": "2026",
   "brief": "Call per designer e ricercatori che vogliono proporre talk sul palco principale. Scadenza non verificata.",
   "rilevanza": "Visibilità per autori."
- },
- {
-  "id": "gd-es-nota",
-  "title": "Nota: nessun annuncio di licensing o ricerca titoli di editori trovato nelle ultime 48 ore",
-  "source": "ricerca",
-  "affidabilita": "segnale debole",
-  "mercato": "estero",
-  "tipo": "nota",
-  "date": "2026-10-11",
-  "brief": "Non ho trovato 10 + 10 notizie verificabili: preferisco poche voci reali. Persone come Mario Cortese (GateOnGames) non hanno restituito risultati recenti."
  }
 ]

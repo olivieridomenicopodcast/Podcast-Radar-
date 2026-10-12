@@ -1,5 +1,62 @@
 [
  {
+  "id": "podcast-2026-10-raiplaysound-prima-del-rumore",
+  "title": "Rai Play Sound: dal 14 ottobre arriva 'Prima del rumore' di Max Proietti, 6 episodi settimanali di true crime italiano",
+  "source": "Giornale di Puglia (articolo di ottobre 2026)",
+  "affidabilita": "segnale debole",
+  "target": 6,
+  "date": "2026-10 (uscita indicata: 14 ottobre)",
+  "brief": "Secondo un solo articolo, il nuovo podcast di Max Proietti debutta su Rai Play Sound il 14 ottobre: sei episodi, uno a settimana, su sei casi di cronaca nera italiani. Una fonte sola e nessuna conferma da Rai: da verificare prima di citarlo come fatto.",
+  "angles": [
+   "Perché un volto noto sceglie una piattaforma di editore e non il fai-da-te",
+   "Serie breve a uscita settimanale: 6 episodi sono un formato replicabile anche per chi parte da zero",
+   "Il true crime italiano è saturo: come distinguersi"
+  ],
+  "hooks": [
+   "Stai pensando a un podcast true crime come tutti gli altri? Ne escono sei a settimana, il tuo cosa ha di diverso?",
+   "Hai paura di non avere abbastanza idee per cento puntate? Ne bastano sei, fatte bene. Lo fa anche Rai.",
+   "Vuoi fare un podcast ma l'idea di una serie infinita ti blocca? Parti da sei episodi e poi vediamo."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-festival-podcasting-digitalic",
+  "title": "Festival del Podcasting 2026: dieci anni, il podcast italiano cerca la sua identità (Digitalic)",
+  "source": "Digitalic; Il Sole 24 Ore; Milano Finanza",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026-10 (festival 2-3 ottobre, Milano)",
+  "brief": "Il decimo Festival del Podcasting si è tenuto a Milano, Cascina Triulza (MIND). Temi: video podcast, monetizzazione, branded podcast, con una Podcast Pitch davanti a una giuria che include un dirigente di Rai Play Sound. Presentati il POD24 Award per podcast d'inchiesta indipendenti e il Premio Audioboost. Sponsor tra gli altri Audible. Non ho potuto aprire l'articolo Digitalic: i dettagli vengono dai riassunti dei risultati di ricerca.",
+  "angles": [
+   "Cosa è cambiato in dieci anni di podcast italiano",
+   "Il pitch a un editore: come presentare la tua idea in 3 minuti",
+   "Premi e concorsi come vetrina per podcast indipendenti"
+  ],
+  "hooks": [
+   "Hai un'idea di podcast ma non sai come venderla? Al festival l'hanno dovuta raccontare in pochi minuti. Allenati anche tu.",
+   "Pensi che i premi siano solo per i grandi? Ce n'è uno apposta per i podcast indipendenti.",
+   "Hai appena iniziato e ti senti fuori dal giro? Il giro è nato dieci anni fa con gente come te."
+  ]
+ },
+ {
+  "id": "podcast-2026-spotify-apple-video-interoperabilita",
+  "title": "Spotify adotta la tecnologia video di Apple: publish once, raggiungi entrambe le piattaforme",
+  "source": "eMarketer; Windows Report; TechCrunch (contesto)",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": "2026 (data esatta non verificata)",
+  "brief": "Le fonti trovate dicono che i video podcast caricati tramite Spotify for Creators/Megaphone potranno arrivare anche su Apple Podcasts, con monetizzazione. Resta da verificare data di partenza e condizioni: le fonti sono riassunti, senza data chiara. Nei risultati compare anche la nuova definizione di 'play' su Spotify (almeno 30 secondi).",
+  "angles": [
+   "Un solo file video per due piattaforme: conviene girare in video fin dall'inizio?",
+   "Cosa conta come 'play' e perché le tue statistiche possono cambiare",
+   "Hosting: da dove carichi decide dove arrivi"
+  ],
+  "hooks": [
+   "Hai appena comprato un microfono e pensi che il video sia un problema degli altri? Sta diventando anche un problema tuo.",
+   "Carichi il podcast su una piattaforma sola? Potresti essere su due senza fare niente di più.",
+   "Guardi le statistiche e non capisci cosa sia un ascolto? Per Spotify sono 30 secondi, e tu lo sapevi?"
+  ]
+ },
+ {
   "id": "podcast-2026-10-nielseniq-18-5-milioni",
   "title": "Ascoltatori di podcast in Italia: 18,5 milioni nel 2026, +3% (NielsenIQ per Audible)",
   "source": "ItaliaOggi, Il Sole 24 Ore",
