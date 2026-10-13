@@ -1,42 +1,34 @@
 [
  {
-  "id": "ham-2026-10-cqww-ssb-24-25",
-  "title": "CQ WW DX SSB: 24-25 ottobre, log entro il 27 ottobre; vietati i robot autonomi",
-  "source": "cqww.com (regole 2026); ng3k.com",
+  "id": "ham-2026-10-cqww-ssb",
+  "title": "CQ WW DX SSB entro 14 giorni; date esatte da verificare",
+  "source": "DX Zone",
+  "affidabilita": "secondaria",
+  "date": "2026-10-12",
+  "brief": "Il calendario DX Zone lo segnala nei prossimi 14 giorni. Un'altra fonte parla del 25-26 ottobre per un'operazione delle Azzorre. Controlla le regole ufficiali su cqww.com per le date esatte."
+ },
+ {
+  "id": "ham-2026-10-oceania",
+  "title": "Oceania DX Contest: SSB 3-4 ottobre, CW 10-11 ottobre",
+  "source": "DX Zone",
+  "affidabilita": "secondaria",
+  "date": "2026-10-10",
+  "brief": "La tranche CW del contest è appena finita (10-11 ottobre). Il log va inviato secondo le regole dell'organizzatore."
+ },
+ {
+  "id": "ham-2026-10-dxpedition",
+  "title": "DXpedition attive a ottobre: Gambia, Montserrat, Salomone, Samoa Americane, São Tomé, Namibia, Lesotho",
+  "source": "DX Zone",
+  "affidabilita": "secondaria",
+  "date": "2026-10-12",
+  "brief": "Il calendario DX Zone elenca tra le altre H49A, KH8A, S9R, V55Y, 9T0MD, 7P8GE e 7P9EA. Una operazione dal Gambia risultava attiva su 20 e 40 m in FT8 con circa 23 giorni rimasti. HF0PAS alle Shetland Antartiche va fino al 31 ottobre."
+ },
+ {
+  "id": "ham-2026-10-solar",
+  "title": "ARRL Solar Update del 25 settembre: attività solare bassa",
+  "source": "ARRL",
   "affidabilita": "primaria",
-  "date": "2026-10",
-  "brief": "Il CQ WW DX SSB 2026 è il 24-25 ottobre. Dalle regole 2026: scadenza log 48 ore dopo la gara (23:59 UTC del 27 ottobre) e operazione autonoma da robot formalmente vietata. Ng3k elenca operazioni annunciate, tra cui FP/WF2A da Saint-Pierre e Miquelon (21-26 ottobre, 75 W) e GM5E da Shetland (22-26 ottobre)."
- },
- {
-  "id": "ham-2026-10-propagazione-sfi",
-  "title": "Propagazione: ultimo flusso solare verificato intorno a 108-112 (agosto-settembre), sotto la soglia utile per DX forte",
-  "source": "RSGB Propagation News (9 agosto 2026); 3fs.net.au",
-  "affidabilita": "segnale debole",
-  "date": "2026-09",
-  "brief": "Non ho trovato dati SWPC per questi giorni. Gli ultimi disponibili: SFI circa 108 a inizio agosto e 109-112 al 5-8 settembre, media a 90 giorni vicino a 127. Come regola empirica, per buon DX serve SFI sopra 150 con K basso. Ottobre resta storicamente buono per l'HF per la stagionalità: è una nota generale, non una previsione."
- },
- {
-  "id": "ham-2026-10-h49a-solomon",
-  "title": "H49A Isole Salomone: DXpedition dal 9 al 21 ottobre",
-  "source": "The DX Zone",
-  "affidabilita": "secondaria",
-  "date": "2026-10-09",
-  "brief": "Team guidato da Rolando 9A3MR, tutte le bande HF più 6 m in CW, SSB e FT8. Fonte unica trovata: conferma sulla pagina ufficiale."
- },
- {
-  "id": "ham-2026-10-s9r-sao-tome",
-  "title": "S9R São Tomé e Príncipe: operazione dal 17 al 31 ottobre",
-  "source": "The DX Zone",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Da 160 a 6 m incluso 60 m, CW, SSB e digitale; QSL manager ancora da definire. Annunciata, non ancora attiva."
- },
- {
-  "id": "ham-2026-10-hf0pas-9t0md",
-  "title": "HF0PAS (Shetland Australi) attiva fino al 31 ottobre; 9T0MD (RD Congo) prevista fino al 13 ottobre",
-  "source": "The DX Zone, bollettino LABRE DX",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "HF0PAS risulta attiva fino al 31 ottobre. Per 9T0MD il bollettino di maggio dava 30 settembre-13 ottobre e cercava un operatore CW: date e stato da verificare."
+  "date": "2026-09-25",
+  "brief": "Ultimo aggiornamento trovato: attività solare probabilmente bassa. Non ho valori di flusso aggiornati: controlla spaceweatherlive.com o solarham.com."
  }
 ]

@@ -1,56 +1,29 @@
 [
  {
-  "id": "rb-2026-10-ziggs-explosive",
-  "title": "Radiance: rivelata Ziggs, Explosive, Champion con token Bomb",
-  "source": "Game Informer (esclusiva del 7 ottobre 2026)",
+  "id": "rb-2026-10-radiance-23",
+  "title": "Radiance, quinto set e ultimo del 2026: uscita il 23 ottobre in inglese, francese e cinese semplificato",
+  "source": "Inven Global; ICv2; riftbound.gg",
   "affidabilita": "secondaria",
-  "date": "2026-10-07",
-  "brief": "Game Informer ha rivelato in esclusiva Ziggs, Explosive, carta Champion di Radiance legata a un token Bomb (gear). Un'altra anteprima, Trinket Peddler (dominio Mind), è stata pubblicata da GameRant; per le Legend si citano Ekko, Orianna e Seraphine. Uscita il 23 ottobre.",
-  "rilevanza": "Le anteprime ti dicono che archetipi guardare prima delle Pre-Rift (16-22 ottobre): Bomb potrebbe aprire un filone aggro/burn."
- },
- {
-  "id": "rb-2026-09-ban-terza-ondata",
-  "title": "Ban list: terza ondata effettiva dal 18 settembre (Ekko, Recurrent e Stacked Deck)",
-  "source": "RiftCompare; pagina Annunci Riftbound",
-  "affidabilita": "secondaria",
-  "date": "2026-09-15",
-  "brief": "Secondo RiftCompare, Riot ha annunciato il 15 settembre due ban in vigore dal 18 settembre: Ekko, Recurrent e Stacked Deck. La pagina ufficiale conferma un aggiornamento della lista in quella data. La prima ondata era del 31 marzo 2026 (sette carte). Il dettaglio dei nomi viene da una sola fonte non ufficiale.",
-  "rilevanza": "Se giochi competitivo, controlla che i tuoi mazzi non contengano carte bannate prima dell'arrivo di Radiance."
- },
- {
-  "id": "rb-2026-10-radiance-calendario",
-  "title": "Radiance (Set 5): uscita il 23 ottobre, Pre-Rift dal 16 al 22 ottobre",
-  "source": "playriftbound.com (The Radiance Overview), StarCityGames, TCGTalk",
-  "affidabilita": "primaria",
-  "date": "2026-10-10",
-  "brief": "Radiance esce il 23 ottobre 2026 in inglese e cinese semplificato (precedente scheda indicava anche francese: non riconfermato). Pre-Rift dal 16 al 22 ottobre; stagione anteprime 25 settembre-9 ottobre, la pagina ufficiale dice che sarà aggiornata.",
-  "rilevanza": "Hai poco più di una settimana per prepararti: Pre-Rift e prime liste arrivano a ridosso."
- },
- {
-  "id": "rb-2026-10-radiance-meccaniche",
-  "title": "Radiance: 180 carte, 9 Champion Legends e nuove meccaniche Deploy, Show Off, Disarm",
-  "source": "playriftbound.com, ICv2, The Outer Haven",
-  "affidabilita": "primaria",
   "date": "2026-10",
-  "brief": "Il set conta 180 carte nuove e 9 nuove Champion Legends (confermate finora Ekko, Seraphine, Evelynn). Deploy: gear giocabile solo su un Battlefield, con benefici finché lo tieni, e va distrutto se lo controlla l'avversario. Disarm riduce il Might e scala con le istanze.",
-  "rilevanza": "Deploy cambia il valore dei Battlefield: occhio a mazzi che li controllano."
+  "brief": "Più fonti concordano su Radiance come quinto set, in uscita il 23 ottobre. Riot ha presentato nuove Legend e meccaniche in un aggiornamento di fine settembre. Verifica i dettagli sui canali ufficiali.",
+  "rilevanza": "Chi gioca competitivo deve preparare il mazzo; chi colleziona decide i preordini."
  },
  {
-  "id": "rb-2026-10-meta-unleashed",
-  "title": "Meta: riftbound.gg segue Unleashed, Diana e Master Yi candidati al top",
-  "source": "riftbound.gg",
+  "id": "rb-2026-10-2027-legacy-reckoning",
+  "title": "Roadmap 2027: Legacy (364 carte, crossover League of Legends Classic) il 29 gennaio e The Reckoning il 30 aprile",
+  "source": "ICv2; Inven Global",
   "affidabilita": "secondaria",
-  "date": "2026 (data esatta non verificata)",
-  "brief": "Le analisi di riftbound.gg descrivono Unleashed come l'espansione più interessante finora, con Diana e Master Yi tra i candidati leader; Irelia rallenta in occidente. Tier list in rapido cambiamento, snapshot non datato con precisione.",
-  "rilevanza": "Se giochi competitivo, i tier cambiano con Radiance: non investire su liste vecchie."
+  "date": "2026-10 (data annuncio non verificata)",
+  "brief": "Riot ha indicato i primi due set del 2027. Legacy ha 364 carte ed esce il 29 gennaio 2027; The Reckoning, sui campioni più grandi, il 30 aprile 2027. Gift of the Rift Bundle in vendita dal 4 dicembre 2026.",
+  "rilevanza": "Aiuta a pianificare quando comprare e quanto spendere."
  },
  {
-  "id": "rb-2026-10-nessuna-patch",
-  "title": "Nessuna patch o errata di bilanciamento trovata per Radiance",
-  "source": "ricerca su playriftbound.com e stampa di settore",
+  "id": "rb-2026-10-corea",
+  "title": "Riftbound in Corea del Sud dal 18 settembre con Origins in coreano",
+  "source": "riftbound.gg / ICv2",
   "affidabilita": "segnale debole",
-  "date": "2026-10-12",
-  "brief": "Nessuna patch di bilanciamento o errata per Radiance trovata: ultima modifica nota è la ban list del 18 settembre. Prima dell'uscita il 23 ottobre non ci si aspettano cambi.",
-  "rilevanza": "Controlla la pagina ufficiale prima del lancio per eventuali errata."
+  "date": "2026-09-18",
+  "brief": "Il gioco è arrivato in Corea del Sud con Origins in coreano. Notizia non recente e di fonte singola.",
+  "rilevanza": "Segno che il gioco si espande: più giocatori, ma l'impatto sull'Italia è nullo oggi."
  }
 ]

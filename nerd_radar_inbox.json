@@ -1,65 +1,38 @@
 [
  {
-  "id": "nerd-2026-10-lucca-ospiti",
-  "title": "Lucca Comics & Games 2026: Kitase, Kamiya, CD Projekt Red e Remedy tra gli ospiti; showcase Final Fantasy VII Revelation",
-  "source": "Smartworld; SpazioGames; LoveHorror",
+  "id": "nerd-2026-10-lucca-60",
+  "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre): videogiochi al centro, anteprime SEGA e ATLUS",
+  "source": "SmartWorld; Techprincess; BestMovie",
   "affidabilita": "secondaria",
   "tipo": "fiera",
-  "date": "2026-10 (fiera 28 ottobre-1 novembre)",
-  "brief": "Per i 60 anni (tema Legacy) Lucca punta sul videogioco: Yoshinori Kitase con masterclass, Q&A e Walk of Fame, Hideki Kamiya, CD Projekt Red, Remedy. Nel gioco di ruolo, Joe Manganiello cura il programma D&D con la linea D&D Icons (Dragonlance, Greyhawk), poi Daggerheart e ORKEN. Ospiti del fumetto: Go Nagai, Frank Miller, Jonathan Hickman, Peach Momoko, Paco Roca. Il programma dei panel non è completo."
- },
- {
-  "id": "nerd-2026-10-devir-essen",
-  "title": "Devir a Essen 2026: Gaudí e Shugendo (Luciani e Cuneo) tra le uscite d'autunno",
-  "source": "ICV2 (contenuto sponsorizzato Devir)",
-  "affidabilita": "secondaria",
-  "tipo": "annuncio gioco da tavolo",
   "date": "2026-10",
-  "brief": "Devir porta a Essen (22-25 ottobre) Gaudí di Dani Garcia, Shugendo, euro di peso medio dei designer italiani Simone Luciani e Alessandro Cuneo, e Níjar di David Bernal (Perro Loko). Fonte sponsorizzata dal publisher: nessuna edizione italiana confermata. Un listing isolato dava date diverse per Essen: valgono 22-25 ottobre."
+  "brief": "Per i 60 anni, tema Legacy, tra gli ospiti Kitase, Kamiya, CD Projekt Red e Remedy. SEGA e ATLUS portano tre anteprime nazionali, tra cui Alien: Isolation 2, STRANGER THAN HEAVEN e Persona 4 Revival. Bandai Namco ha più di 400 mq. Il materiale è in parte di giugno-luglio: il programma può cambiare."
  },
  {
-  "id": "nerd-2026-10-videogiochi",
-  "title": "Annunci videogiochi del 10-12 ottobre: nessuno verificabile",
-  "source": "Ricerca web",
-  "affidabilita": "segnale debole",
-  "tipo": "nota",
-  "date": "2026-10-12",
-  "brief": "Non ho trovato annunci datati in queste ore. Le uniche cose vicine: Kingdom Hearts Collection su Switch 2 dall'8 ottobre (da Nintendo Direct di giugno, fonte secondaria) e il FF VII Revelation annunciato al Summer Game Fest, protagonista a Lucca."
- },
- {
-  "id": "nerd-2026-10-22-essen",
-  "title": "SPIEL Essen 2026: 22-25 ottobre, per la prima volta tutti gli 8 padiglioni",
-  "source": "Spielwarenmesse, Zatu",
+  "id": "nerd-2026-10-essen",
+  "title": "SPIEL Essen 2026 (22-25 ottobre): circa 1500 novità, preview BGG oltre 1100 titoli",
+  "source": "BoardGameGeek; Giochi sul Nostro Tavolo",
   "affidabilita": "secondaria",
-  "date": "2026-10-11",
-  "brief": "921 espositori da 53 paesi, oltre 1.500 novità attese e fino a 230.000 visitatori. PocketGamer.biz riporta 8-11 ottobre: appare errato.",
-  "tipo": "fiera internazionale"
+  "tipo": "fiera",
+  "date": "2026-10",
+  "brief": "Tra i titoli più citati Avalon, Queen Alice e -60°. Board&Dice porta Maestro, ambientato nell'Italia del 1500. Le liste sono preliminari."
  },
  {
-  "id": "nerd-2026-10-28-lucca",
-  "title": "Lucca Comics & Games 2026 (60 anni): 28 ottobre-1 novembre, focus sul videogioco",
-  "source": "Multiplayer.it, Smartworld, Bestmovie",
+  "id": "nerd-2026-10-renegade-hasbro",
+  "title": "Renegade e Hasbro rinnovano l'accordo: Axis & Allies, Acquire, Diplomacy, Heroscape, Robo Rally",
+  "source": "BoardGameWire",
   "affidabilita": "secondaria",
-  "date": "2026-10-11",
-  "brief": "Edizione Legacy per i 60 anni. Ospiti videoludici annunciati: Yoshinori Kitase, Hideki Kamiya, Stephen Bliss, Daniel Dociu, Noah Falstein, Chris Darril; per i fumetti Go Nagai e Frank Miller.",
-  "tipo": "fiera italiana"
+  "tipo": "gioco da tavolo",
+  "date": "2026-10-05",
+  "brief": "L'accordo copre anche Ikusa, con nuovi giochi ed espansioni dal 2027. Una sola fonte."
  },
  {
-  "id": "nerd-2026-10-asmodee-essen",
-  "title": "Asmodee a Spiel Essen 2026: otto zone tematiche e quasi 200 tavoli demo",
-  "source": "Comunicato Asmodee (Inderes)",
-  "affidabilita": "primaria",
-  "date": "2026-09-23",
-  "brief": "Asmodee ha annunciato la partecipazione il 23 settembre con demo di novità, titoli in arrivo ed esclusive di fiera.",
-  "tipo": "annuncio editore"
- },
- {
-  "id": "nerd-2026-10-combo-milano",
-  "title": "Combo Festival di Pedine, Dadi e Carte: prima edizione a Milano, oltre 40 editori",
-  "source": "Mentelocale",
+  "id": "nerd-2026-10-chicago",
+  "title": "Chicago Toy and Game Fair: 5-9 novembre 2026",
+  "source": "BoardGameWire",
   "affidabilita": "segnale debole",
-  "date": "data non verificata",
-  "brief": "Oltre quaranta case editrici, 35 anteprime assolute; presentato come anticipo di Spiel Essen. Date e titoli non verificati.",
-  "tipo": "fiera italiana"
+  "tipo": "fiera",
+  "date": "2026-10",
+  "brief": "Indicata tra gli eventi in arrivo. Non ho altri dettagli."
  }
 ]

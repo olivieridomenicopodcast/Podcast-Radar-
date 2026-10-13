@@ -1,38 +1,20 @@
 [
  {
-  "id": "creator-2026-play-cigno-nerd",
-  "title": "Play 2026: Il Cigno NerD presente con il Collettivo Araldi",
-  "source": "Sito ufficiale Play Festival",
-  "affidabilita": "secondaria",
-  "date": "data non verificata",
-  "brief": "Dalla pagina ospiti di Play 2026 (Bologna) risulta la creator Il Cigno NerD, autrice del gioco di ruolo Il Canto dei Peccatori, con il Collettivo Araldi per tutta la durata del festival. Unica fonte.",
-  "rilevanza": "Esempio di creator che diventa autrice: utile se segui il ponte tra contenuti e game design."
+  "id": "creator-2026-10-classifiche",
+  "title": "Classifiche YouTuber italiani 2026: 7 canali gaming su 20 nella top 20, dati discordanti",
+  "source": "VeryContent; Collabios",
+  "affidabilita": "segnale debole",
+  "date": "2026",
+  "brief": "Una classifica mette Lionfield primo con circa 16,2 milioni di iscritti; Wikipedia cita Panda Boi a 62,6 milioni (giugno 2026) e Favij a 6,7 milioni. I criteri sono diversi: non citarli come fatto senza controllare.",
+  "rilevanza": "Mostra quanto il gaming domini YouTube Italia, ma non è una notizia delle ultime 48 ore."
  },
  {
-  "id": "creator-2026-nota",
-  "title": "Nota: nessuna notizia datata sui creator nerd italiani nelle ultime 48 ore",
-  "source": "Ricerca web",
+  "id": "creator-2026-10-lucca-ospiti",
+  "title": "Lucca 2026: gli ospiti creator non sono ancora stati confermati dalle fonti trovate",
+  "source": "ricerca generale",
   "affidabilita": "segnale debole",
-  "date": "2026-10-12",
-  "brief": "La ricerca ha restituito solo guide generiche (FaviJ, MikeShowSha, Sabaku no Maiku, Quei Due Sul Server) e un caso legale di Once Were Nerd del luglio 2025, di cui non ho lo stato attuale. Nulla di verificabile per questi giorni.",
-  "rilevanza": "Niente da agire oggi."
- },
- {
-  "id": "creator-2026-lucca-assenza-creator",
-  "title": "Lucca 2026: tra gli ospiti annunciati non risultano creator italiani del mondo nerd",
-  "source": "Smartworld, Multiplayer.it",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-11",
-  "brief": "Gli ospiti confermati nelle fonti sono internazionali (Kitase, Kamiya, Go Nagai, Frank Miller). Un articolo La Nazione cita Joepad17 e Giulia Uda per un campo estivo, senza anno: non collegabile a Lucca 2026.",
-  "rilevanza": "Lista creator ufficiale da cercare nel programma di Lucca."
- },
- {
-  "id": "creator-2026-lucca-jundo",
-  "title": "Jundo annuncia in live Twitch nuovi ospiti di Lucca 2026",
-  "source": "Animeclick",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "In una live del canale Twitch di Animeclick-Jundo sono stati comunicati ospiti fumettisti e illustratori, tra cui Samuel Spano e Liang Azha. Data della live non verificata (voce già presente nel precedente radar).",
-  "rilevanza": "Lucca usa gli streamer per gli annunci."
+  "date": "2026-10-13",
+  "brief": "Non ho trovato notizie verificabili delle ultime 48 ore su creator nerd italiani. La ricerca ha restituito solo classifiche e guide.",
+  "rilevanza": "Meglio una sezione corta che inventata."
  }
 ]

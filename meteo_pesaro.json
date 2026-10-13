@@ -1,29 +1,18 @@
 {
- "aggiornato": "2026-10-12",
+ "aggiornato": "2026-10-13",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.3bmeteo.com/meteo/pesaro",
   "https://www.ilmeteo.it/meteo/pesaro",
-  "https://www.meteo.it/meteo/pesaro-41044",
-  "https://allertameteo.regione.marche.it/bollettini-meteo"
+  "https://www.meteo.it/meteo/pesaro-41044"
  ],
  "previsioni": [
   {
-   "data": "2026-10-12",
-   "giorno": "lunedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "dato non reperito"
-  },
-  {
    "data": "2026-10-13",
    "giorno": "martedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
+   "temp_min_c": 14,
+   "temp_max_c": 19,
+   "condizioni": "poco nuvoloso, nessuna pioggia prevista",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito"
@@ -31,13 +20,23 @@
   {
    "data": "2026-10-14",
    "giorno": "mercoledì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
+   "temp_min_c": 12,
+   "temp_max_c": 21,
+   "condizioni": "poco nuvoloso (iLMeteo: 12/20)",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "dato non reperito"
+  },
+  {
+   "data": "2026-10-15",
+   "giorno": "giovedì",
+   "temp_min_c": 12,
+   "temp_max_c": 22,
+   "condizioni": "velature (3BMeteo 12/21, iLMeteo 14/22)",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito"
   }
  ],
- "note": "Previsioni non reperibili oggi: i siti meteo non sono raggiungibili da qui e la ricerca ha restituito solo pagine senza data. Nessun valore inventato. Controlla allertameteo.regione.marche.it per eventuali allerte."
+ "note": "Dati 3BMeteo e iLMeteo aggiornati al 12 ottobre. Una fonte meno recente (Tempo Italia) prevedeva pioggia e vento: in contrasto, non considerata. Vento, mare e allerte non reperiti."
 }
