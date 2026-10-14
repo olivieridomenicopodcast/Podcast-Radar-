@@ -1,29 +1,29 @@
 [
  {
-  "id": "rb-2026-10-radiance-23",
-  "title": "Radiance, quinto set e ultimo del 2026: uscita il 23 ottobre in inglese, francese e cinese semplificato",
-  "source": "Inven Global; ICv2; riftbound.gg",
+  "id": "rb-2026-10-radiance-calendar",
+  "title": "Radiance: uscita il 23 ottobre, Pre-Rift sigillato dal 16 al 22 ottobre, preview dal 25 settembre",
+  "source": "Calendario set 2026 (StarCityGames); UVS Games; riftbound.gg",
   "affidabilita": "secondaria",
   "date": "2026-10",
-  "brief": "Più fonti concordano su Radiance come quinto set, in uscita il 23 ottobre. Riot ha presentato nuove Legend e meccaniche in un aggiornamento di fine settembre. Verifica i dettagli sui canali ufficiali.",
-  "rilevanza": "Chi gioca competitivo deve preparare il mazzo; chi colleziona decide i preordini."
+  "brief": "Più fonti concordano: set 5, Radiance, in uscita il 23 ottobre. Teaser dal 18 settembre durante le trasmissioni LCS e LEC, preview ufficiale dal 25 settembre. Pre-Rift in formato sigillato dal 16 al 22 ottobre. Si parla di circa 180 carte, dato da una sola fonte di calendario.",
+  "rilevanza": "Questa settimana iniziano i Pre-Rift: chi gioca sigillato può già iscriversi; i collezionisti decidono i preordini."
  },
  {
-  "id": "rb-2026-10-2027-legacy-reckoning",
-  "title": "Roadmap 2027: Legacy (364 carte, crossover League of Legends Classic) il 29 gennaio e The Reckoning il 30 aprile",
-  "source": "ICv2; Inven Global",
-  "affidabilita": "secondaria",
-  "date": "2026-10 (data annuncio non verificata)",
-  "brief": "Riot ha indicato i primi due set del 2027. Legacy ha 364 carte ed esce il 29 gennaio 2027; The Reckoning, sui campioni più grandi, il 30 aprile 2027. Gift of the Rift Bundle in vendita dal 4 dicembre 2026.",
-  "rilevanza": "Aiuta a pianificare quando comprare e quanto spendere."
- },
- {
-  "id": "rb-2026-10-corea",
-  "title": "Riftbound in Corea del Sud dal 18 settembre con Origins in coreano",
-  "source": "riftbound.gg / ICv2",
+  "id": "rb-2026-09-ban-list",
+  "title": "Aggiornamento Ban List di settembre (effettivo dal 18 settembre 2026) per Standard e Constructed 2v2",
+  "source": "playriftbound.com (titolo in risultato di ricerca)",
   "affidabilita": "segnale debole",
   "date": "2026-09-18",
-  "brief": "Il gioco è arrivato in Corea del Sud con Origins in coreano. Notizia non recente e di fonte singola.",
-  "rilevanza": "Segno che il gioco si espande: più giocatori, ma l'impatto sull'Italia è nullo oggi."
+  "brief": "Il sito ufficiale elenca l'aggiornamento, ma non ho potuto leggere le carte coinvolte. Le prime ban del 30 marzo avevano tolto quattro carte e tre battlefield. Non scrivere quali carte sono bannate senza aver letto la pagina ufficiale.",
+  "rilevanza": "Chi costruisce mazzi per Radiance deve controllare la lista aggiornata."
+ },
+ {
+  "id": "rb-2026-08-state-of-game",
+  "title": "State of the Game di agosto 2026: Riot li pubblicherà due volte l'anno",
+  "source": "playriftbound.com",
+  "affidabilita": "primaria",
+  "date": "2026-08",
+  "brief": "Riot dice che gli aggiornamenti 'State of the Game' usciranno circa a febbraio e ad agosto. Quindi il prossimo è atteso verso febbraio 2027. Nessuna novità di bilanciamento nelle ultime 48 ore trovata.",
+  "rilevanza": "Non aspettarti grandi annunci di ruolo prima di Radiance."
  }
 ]

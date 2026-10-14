@@ -1,34 +1,34 @@
 [
  {
-  "id": "ham-2026-10-cqww-ssb",
-  "title": "CQ WW DX SSB entro 14 giorni; date esatte da verificare",
+  "id": "ham-2026-10-calendario",
+  "title": "Calendario DX Zone ottobre 2026: HF0PAS (Shetland Australi), KH8A (Samoa Americane), H49A (Isole Salomone), VK0TBC",
   "source": "DX Zone",
   "affidabilita": "secondaria",
-  "date": "2026-10-12",
-  "brief": "Il calendario DX Zone lo segnala nei prossimi 14 giorni. Un'altra fonte parla del 25-26 ottobre per un'operazione delle Azzorre. Controlla le regole ufficiali su cqww.com per le date esatte."
+  "date": "2026-10",
+  "brief": "Il calendario elenca varie operazioni DX in ottobre, con Oceania e Antartide in evidenza. Date e durata non verificate: conferma sui siti delle spedizioni."
  },
  {
-  "id": "ham-2026-10-oceania",
-  "title": "Oceania DX Contest: SSB 3-4 ottobre, CW 10-11 ottobre",
+  "id": "ham-2026-10-contest",
+  "title": "Contest di ottobre: Oceania DX (SSB e CW) e TRC DX; CQ WW DX SSB a fine mese",
   "source": "DX Zone",
   "affidabilita": "secondaria",
-  "date": "2026-10-10",
-  "brief": "La tranche CW del contest è appena finita (10-11 ottobre). Il log va inviato secondo le regole dell'organizzatore."
+  "date": "2026-10",
+  "brief": "Oceania SSB e CW sono già passati. Per CQ WW DX SSB le date non sono confermate in quello che ho letto: controlla cqww.com."
  },
  {
-  "id": "ham-2026-10-dxpedition",
-  "title": "DXpedition attive a ottobre: Gambia, Montserrat, Salomone, Samoa Americane, São Tomé, Namibia, Lesotho",
-  "source": "DX Zone",
+  "id": "ham-2026-11-vk9x",
+  "title": "Spedizione VK9XY a Christmas Island: dal 16 novembre al 4 dicembre 2026",
+  "source": "DX Zone / pagina spedizione",
   "affidabilita": "secondaria",
-  "date": "2026-10-12",
-  "brief": "Il calendario DX Zone elenca tra le altre H49A, KH8A, S9R, V55Y, 9T0MD, 7P8GE e 7P9EA. Una operazione dal Gambia risultava attiva su 20 e 40 m in FT8 con circa 23 giorni rimasti. HF0PAS alle Shetland Antartiche va fino al 31 ottobre."
+  "date": "2026-11-16",
+  "brief": "Obiettivo tutte le bande HF in CW, SSB e FT8, più satellite QO-100. Una sola fonte: segnale da confermare."
  },
  {
-  "id": "ham-2026-10-solar",
-  "title": "ARRL Solar Update del 25 settembre: attività solare bassa",
-  "source": "ARRL",
-  "affidabilita": "primaria",
-  "date": "2026-09-25",
-  "brief": "Ultimo aggiornamento trovato: attività solare probabilmente bassa. Non ho valori di flusso aggiornati: controlla spaceweatherlive.com o solarham.com."
+  "id": "ham-2026-prop",
+  "title": "Propagazione: analisi ARRL DX Phone di marzo 2026 parla di alte bande ancora forti, ma verso la fine del ciclo",
+  "source": "EUDXCC (risultati ARRL DX Phone)",
+  "affidabilita": "secondaria",
+  "date": "2026-03-07",
+  "brief": "Circa il 60% dei QSO su 15 e 10 metri. Non ho trovato indici solari o previsioni propagazione per oggi: controlla un servizio live."
  }
 ]

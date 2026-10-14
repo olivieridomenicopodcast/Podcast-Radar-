@@ -1,114 +1,97 @@
 [
  {
-  "id": "podcast-2026-10-apple-no-curation-paese",
-  "title": "Apple Podcasts abbandona la curatela per paese: dal 2 ottobre vista algoritmica unica",
-  "source": "Podnews",
+  "id": "podcast-2026-10-festival-podcasting-10",
+  "title": "Festival del Podcasting a Milano: decima edizione, giornata dedicata all'industria (2-3 ottobre)",
+  "source": "Milano Finanza; Il Sole 24 Ore; Podcasting Today",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026-10-02",
-  "brief": "Secondo Podnews, Apple Podcasts ha tolto la curatela specifica per paese e mostra una vista algoritmica. Alcuni la descrivono come una camera dell'eco. Una sola fonte trovata: da verificare prima di darla per certa. Per chi lancia un podcast cambia come si viene scoperti.",
+  "date": "2026-10-03",
+  "brief": "Il Festival si è tenuto a Cascina Triulza (MIND, Milano) il 2 e 3 ottobre, con una giornata solo per l'industria: scopribilità, video podcast, monetizzazione. Presentati il POD24 Award per le inchieste indipendenti e il Branded Podcasts Award. Più fonti concordano su date e luogo.",
   "angles": [
-   "Cosa cambia per un esordiente nella scoperta su Apple Podcasts",
-   "Perché non puoi contare sulla vetrina: serve un pubblico tuo",
-   "Titolo e copertina come uniche armi in un feed algoritmico"
+   "Cosa si dice in Italia su video podcast e scopribilità, tradotto per chi parte da zero",
+   "Perché un podcast indipendente non può ignorare monetizzazione e pubblico fin dal giorno uno",
+   "Eventi e premi italiani: dove farti notare con il tuo primo show"
   ],
   "hooks": [
-   "Hai appena pubblicato il tuo primo podcast su Apple e aspetti di essere scoperto? Ora decide l'algoritmo, non un redattore.",
-   "Pensi che basti mettere il podcast su Apple Podcasts? Spoiler: da ottobre ti sceglie un algoritmo.",
-   "Hai un podcast nuovo e zero ascoltatori? Meglio un pubblico tuo che sperare in una vetrina."
+   "Hai un podcast nuovo e ti chiedi se qualcuno in Italia ne parla davvero? A Milano ne hanno parlato per due giorni.",
+   "Pensi che il podcast sia roba da nerd col microfono in cantina? A Milano c'è un festival al decimo anno, ti sbagli di grosso.",
+   "Hai appena aperto il tuo podcast e senti parlare di video e monetizzazione? Calma, prima serve un episodio."
   ]
  },
  {
-  "id": "podcast-2026-10-ascoltatori-italia-18-5",
-  "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026 (+3%), 5 ascolti al mese",
-  "source": "ItaliaOggi (dati NielsenIQ per Audible); Osservatorio OBE",
+  "id": "podcast-2026-10-ascoltatori-italia",
+  "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026 (+3%) secondo NielsenIQ per Audible; Milano Finanza cita 15,5 milioni nel 2025 (+2%)",
+  "source": "ItaliaOggi; Milano Finanza",
   "affidabilita": "secondaria",
   "target": 8,
   "date": "2026 (dato annuale, data esatta non verificata)",
-  "brief": "NielsenIQ per Audible stima 18,5 milioni di ascoltatori di podcast in Italia nel 2026, circa +3% sul 2025, con in media cinque ascolti al mese. L'Osservatorio OBE segnalava 15,5 milioni nel 2025; il 42% trova i branded podcast troppo commerciali. Le due rilevazioni usano metodi diversi: non vanno confrontate direttamente.",
+  "brief": "Due fonti danno cifre diverse perché riferite ad anni e metodologie diverse: va detto nei contenuti, senza mischiarle. In entrambe il pubblico cresce. L'Osservatorio OBE segnala che il 42% trova alcuni branded podcast troppo commerciali.",
   "angles": [
-   "Il pubblico italiano cresce piano: cosa significa per chi parte ora",
-   "Branded podcast percepiti come troppo commerciali: lezione per chi vuole sponsor",
-   "Come leggere i numeri senza farsi illudere"
+   "Il pubblico italiano c'è: cosa significa per chi comincia oggi",
+   "Perché 'troppo commerciale' è il primo motivo per cui ti mollano",
+   "Come leggere i dati senza farsi prendere dall'hype"
   ],
   "hooks": [
-   "Hai paura che in Italia il podcast sia già saturo? Sono 18,5 milioni gli ascoltatori. Non è tardi, è che devi essere bravo.",
-   "Pensi di fare un podcast per vendere il tuo servizio? Il 42% dice che i branded sono troppo commerciali.",
-   "Vuoi sapere se c'è pubblico per il tuo podcast? In Italia ascoltano in media cinque volte al mese."
+   "Hai paura che in Italia nessuno ascolti podcast? Sono milioni e crescono.",
+   "Pensi di dover fare un podcast per vendere qualcosa? Metà del pubblico si stanca proprio per quello.",
+   "Hai un'idea di podcast ma ti blocca il 'tanto chi mi ascolta'? Guarda i numeri, poi ne riparliamo."
   ]
  },
  {
-  "id": "podcast-2026-10-festival-podcasting-decimo",
-  "title": "Festival del Podcasting a Milano (2-3 ottobre): decimo anno, giornata per brand, video podcast e AI",
-  "source": "Il Sole 24 Ore; Milano Finanza; Podcasting Today",
+  "id": "podcast-2026-10-video-youtube-apple",
+  "title": "YouTube secondo dopo Apple Podcasts nel Podnews Report Card 2026; Apple punta sul video con passaggio audio/video",
+  "source": "Podnews; Podcast Video",
   "affidabilita": "secondaria",
-  "target": 7,
-  "date": "2026-10-02",
-  "brief": "Il decimo Festival del Podcasting ha avuto una giornata aggiuntiva per brand e agenzie, con temi come video podcast, monetizzazione, branded e AI. Il 3 ottobre il POD24 Award per l'inchiesta indipendente. Ho trovato solo anteprime, nessun resoconto: cosa sia stato detto non è verificato.",
+  "target": 8,
+  "date": "2026 (data esatta non verificata)",
+  "brief": "Il Podnews Report Card 2026 mette YouTube al secondo posto dopo Apple Podcasts, davanti a Spotify. Un roundup riporta che Apple sta aggiungendo il passaggio fluido audio/video con HLS e video offline. Dato di fonte secondaria, da verificare. Cambia la domanda: video o solo audio?",
   "angles": [
-   "Video podcast: serve davvero la telecamera quando parti?",
-   "Cosa chiede il mercato ai creator indipendenti",
-   "Come usare l'AI senza perdere la tua voce"
+   "Solo audio o video per iniziare: cosa conviene a un principiano",
+   "Il minimo indispensabile per il video senza raddoppiare il lavoro",
+   "Perché il microfono resta la parte più importante anche se fai video"
   ],
   "hooks": [
-   "Stai pensando di aprire il podcast e ti chiedi se serve pure il video? Il mercato ne parla molto, ma tu parti dall'audio.",
-   "Hai un podcast e vorresti guadagnarci? Le aziende ora hanno un festival tutto per loro: ti serve un prodotto serio.",
-   "Hai un microfono nuovo e sei tentato dall'AI per tutto? La voce è l'unica cosa che non puoi delegare."
+   "Hai appena comprato un microfono e ora ti dicono che serve pure il video? Respira, parti dall'audio.",
+   "Pensi di dover comprare una telecamera da 2000 euro per fare podcast? No, e adesso ti spiego perché.",
+   "Hai un podcast solo audio e ti senti già vecchio? YouTube sta salendo, ma l'audio non è morto."
   ]
  },
  {
-  "id": "podcast-2026-10-ads-ascoltatori",
-  "title": "Podcast Study 2026: meno di 1 ascoltatore su 10 accetta più pubblicità per avere show gratis",
-  "source": "Podnews (The Podcast Study 2026)",
+  "id": "podcast-2026-10-ai-disclosure-apple",
+  "title": "Apple Podcasts: obbligo di dichiarare l'uso di AI generativa per audio/video sintetici nei metadati",
+  "source": "Linee guida Apple Podcasts (via ricerca web)",
   "affidabilita": "secondaria",
   "target": 6,
-  "date": "2026-10",
-  "brief": "Secondo Podnews, che cita The Podcast Study 2026, i listener sono restii a più pubblicità: meno di 1 su 10 la accetterebbe in cambio di show gratuiti. Il rapporto sottolinea anche il legame di fiducia con il conduttore. Dati USA.",
+  "date": "2026 (data esatta non verificata)",
+  "brief": "Le linee guida Apple chiedono di dichiarare nei metadati se l'audio o il video è sintetizzato con AI generativa. Utile per chi usa voci sintetiche o clonate. Data di introduzione non verificata.",
   "angles": [
-   "Fiducia nel conduttore come vera valuta",
-   "Quanta pubblicità mettere nel tuo primo podcast",
-   "Alternative: community, abbonamenti, servizi"
+   "Voce AI nel tuo podcast: cosa devi dichiarare",
+   "Editing AI (pulizia, denoise) o voce sintetica: la differenza",
+   "Fiducia del pubblico e trasparenza"
   ],
   "hooks": [
-   "Vuoi riempire il tuo podcast di pubblicità per guadagnare subito? Meno di 1 ascoltatore su 10 lo tollera.",
-   "Hai appena iniziato e pensi già agli sponsor? Prima ti serve qualcuno che si fidi di te.",
-   "Pensi che il pubblico del podcast sia di bocca buona? Con le pubblicità no."
+   "Hai provato una voce AI per il tuo podcast? Controlla le regole prima di pubblicare.",
+   "Pensi che pulire l'audio con l'AI conti come 'audio sintetico'? Non è la stessa cosa.",
+   "Hai clonato la tua voce per risparmiare tempo? Apple vuole saperlo."
   ]
  },
  {
-  "id": "podcast-2026-10-maple-castro",
-  "title": "Maple Media compra l'app Castro: quarta acquisizione di app podcast",
-  "source": "Podnews Daily",
-  "affidabilita": "secondaria",
-  "target": 4,
-  "date": "2026-10 (data esatta non verificata)",
-  "brief": "Podnews riporta che Maple Media ha acquisito l'app indipendente Castro, la quarta app podcast comprata dal gruppo. Una sola fonte. Utile per chi vuole capire come si concentra il mercato dei player.",
+  "id": "podcast-2026-10-tool-riverside-descript",
+  "title": "Tool: Riverside annuncia il maggior rilascio (30 giugno 2026) con pubblicazione e distribuzione; Descript e Adobe Podcast aggiornano",
+  "source": "Changelog vendor; roundup The Neuron, Dupple",
+  "affidabilita": "segnale debole",
+  "target": 6,
+  "date": "2026-06-30",
+  "brief": "Notizia di giugno, non di giornata: la riporto solo come contesto. Riverside ha aggiunto flussi di distribuzione/pubblicazione; Descript ha rilasciato molti miglioramenti in estate; Adobe Podcast ha aggiornato la registrazione remota a marzo. Controlla i changelog ufficiali.",
   "angles": [
-   "Il mercato delle app podcast si consolida",
-   "Perché non dipendere da una sola app d'ascolto"
+   "Registrare e pubblicare dallo stesso tool: comodo o rischioso?",
+   "Quale tool scegliere in base al budget",
+   "Audacity gratis vs tool a pagamento per chi inizia"
   ],
   "hooks": [
-   "Ascolti podcast con una app indipendente? Magari domani cambia padrone.",
-   "Vuoi pubblicare il tuo podcast ovunque? Meglio un RSS tuo che un'app sola.",
-   "Hai un podcast e ti chiedi dove viene ascoltato? Spesso in app che non conosci nemmeno."
-  ]
- },
- {
-  "id": "podcast-2026-10-apple-heart",
-  "title": "Apple Original Podcasts: 'Heart' con Karen Kilgariff dal 19 ottobre, otto episodi true crime",
-  "source": "Podnews",
-  "affidabilita": "secondaria",
-  "target": 4,
-  "date": "2026-10",
-  "brief": "Apple ha pubblicato il trailer di 'Heart', serie in otto episodi condotta da Karen Kilgariff, in uscita il 19 ottobre. Una fonte. Mostra che le serie brevi di narrativa true crime restano un formato forte anche sulle piattaforme.",
-  "angles": [
-   "Serie chiusa a 8 episodi come formato per partire",
-   "Trailer: come presentare un podcast prima del lancio"
-  ],
-  "hooks": [
-   "Hai un'idea per un podcast ma non sai quanti episodi fare? Otto, con un inizio e una fine.",
-   "Stai per lanciare il tuo podcast senza trailer? Apple ne fa uno anche per le sue serie.",
-   "Vuoi un podcast che si finisce di ascoltare? Fai una stagione chiusa."
+   "Hai un budget da principiante e quattro tool diversi da scegliere? Parti dal più semplice.",
+   "Pensi che serva un software da 30 euro al mese per iniziare? Audacity è gratis, e funziona.",
+   "Hai installato tre programmi di editing e non ne usi nessuno? Succede a tutti."
   ]
  }
 ]

@@ -1,112 +1,46 @@
 [
  {
-  "id": "gd-es-hasbro-renegade",
-  "title": "Renegade Game Studios rinnova la licenza Hasbro, nuovi giochi dal 2027",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "licenze",
-  "date": "2026-10-05",
-  "brief": "Axis & Allies, Acquire, Diplomacy, Heroscape, Robo Rally e Ikusa.",
-  "rilevanza": "Chi propone a Renegade può guardare a giochi con IP storici."
- },
- {
-  "id": "gd-es-cmon-adventurers",
-  "title": "CMON cede il progetto The Adventurers per consegnarlo senza finanziarlo",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "editori",
-  "date": "2026-10-06",
-  "brief": "L'editore ha perso circa 23 milioni di dollari tra 2024 e 2025.",
-  "rilevanza": "Segnale di cautela sui contratti con editori in difficoltà."
- },
- {
-  "id": "gd-es-steamforged",
-  "title": "Steamforged: backer in protesta per rimborsi, un terzo dello staff tagliato",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "editori",
-  "date": "2026-10-09",
-  "brief": "Rimborsi irrisolti e aggiornamenti rallentati.",
-  "rilevanza": "Da considerare prima di firmare un contratto."
- },
- {
-  "id": "gd-es-ttgda",
-  "title": "TTGDA lancia un benchmark sui contratti degli editori",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "contratti",
-  "date": "2026-08-11",
-  "brief": "Per confrontare il trattamento degli autori. Notizia di agosto.",
-  "rilevanza": "Utile da consultare prima di un pitch."
- },
- {
-  "id": "gd-es-essen",
-  "title": "SPIEL Essen 22-25 ottobre: circa 1500 novità",
-  "source": "Giochi sul Nostro Tavolo; BGG",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "fiere",
-  "date": "2026-10",
-  "brief": "Occasione per incontrare editori.",
-  "rilevanza": "Calendario degli incontri con editori."
- },
- {
-  "id": "gd-it-combo",
-  "title": "COMBO Festival Milano: prototipo su Pinocchio, tutoring SAZ Italia, iscrizione IdeaG e buono Cranio Creations",
-  "source": "Buongiorno Online",
-  "affidabilita": "segnale debole",
-  "mercato": "italia",
-  "tipo": "concorsi",
-  "date": "2026-10 (circa 11 giorni fa)",
-  "brief": "La finestra di iscrizione potrebbe essere chiusa.",
-  "rilevanza": "Esempio di concorso con premio editoriale."
- },
- {
-  "id": "gd-it-ideag",
-  "title": "IDEAG 2026 si è tenuta a Parma a gennaio; per il 2027 date da verificare",
-  "source": "ilgiocointavolo.it; idea-g.it",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "IdeaG",
-  "date": "2026",
-  "brief": "Gli editori partecipano per scoprire titoli. Un'altra fonte parla di un IdeaG a Padova a maggio: due edizioni diverse, da distinguere. Date 2027 non trovate.",
-  "rilevanza": "Segnati le date appena escono."
- },
- {
-  "id": "gd-it-math-on-games",
-  "title": "Math On Games: giovane editore italiano al debutto a Essen",
-  "source": "IoGioco.it",
-  "affidabilita": "segnale debole",
-  "mercato": "italia",
-  "tipo": "editori",
-  "date": "2026-10",
-  "brief": "Segnalata dopo Play 2026.",
-  "rilevanza": "Nuovo editore da conoscere."
- },
- {
-  "id": "gd-it-board-dice",
-  "title": "Board&Dice porta Maestro a Essen, ambientato nell'Italia del 1500",
-  "source": "Giochi sul Nostro Tavolo",
-  "affidabilita": "segnale debole",
-  "mercato": "italia",
-  "tipo": "cataloghi",
-  "date": "2026-10",
-  "brief": "Competizione tra Leonardo e Michelangelo.",
-  "rilevanza": "Catalogo da seguire."
- },
- {
-  "id": "gd-it-archimede",
-  "title": "Premio Archimede 2027: bando online",
-  "source": "studiogiochi.com",
+  "id": "gd-it-archimede-2027",
+  "title": "Premio Archimede 2027: aperto il bando per giochi inediti da presentare agli editori",
+  "source": "Studiogiochi",
   "affidabilita": "secondaria",
   "mercato": "italia",
   "tipo": "concorsi",
   "date": "2026 (data esatta non verificata)",
-  "brief": "Concorso per giochi inediti, il più grande in Italia secondo il sito.",
-  "rilevanza": "Occasione concreta per un prototipo."
+  "brief": "Concorso italiano per autori di giochi inediti che permette di presentarli agli editori. Controlla scadenze e regole sul sito ufficiale.",
+  "rilevanza": "Occasione concreta per un autore alla ricerca di un editore."
+ },
+ {
+  "id": "gd-es-spiel-essen",
+  "title": "SPIEL Essen 2026 (22-25 ottobre): matchmaking B2B nell'app per editori, autori e retailer",
+  "source": "Spielwarenmesse; Games Market",
+  "affidabilita": "secondaria",
+  "mercato": "estero",
+  "tipo": "fiere",
+  "date": "2026-10",
+  "brief": "921 espositori, oltre 1.500 novità attese. Nuovo strumento di matchmaking business nell'app ufficiale; Spiel.talks con proposte chiuse il 17 maggio.",
+  "rilevanza": "Per un autore è il luogo dove fissare incontri con gli editori."
+ },
+ {
+  "id": "gd-it-lucca-games",
+  "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre) include l'area giochi da tavolo",
+  "source": "BestMovie; TicketOne",
+  "affidabilita": "secondaria",
+  "mercato": "italia",
+  "tipo": "fiere",
+  "date": "2026-10",
+  "brief": "Le fonti trovate parlano soprattutto di videogiochi. Nessun programma editori/giochi da tavolo né dettagli IdeaG trovati.",
+  "rilevanza": "Da seguire per incontrare editori italiani, ma servono fonti ufficiali."
+ },
+ {
+  "id": "gd-note",
+  "title": "Nessuna notizia verificata sugli IdeaG 2026 e sugli editori italiani",
+  "source": "ricerca web",
+  "affidabilita": "segnale debole",
+  "mercato": "italia",
+  "tipo": "nota",
+  "date": "2026-10-14",
+  "brief": "Le ricerche non hanno trovato date o luoghi degli IdeaG 2026, né annunci di persone negli editori. Controlla ideag.it e i canali degli editori.",
+  "rilevanza": "Meglio un buco dichiarato che una data inventata."
  }
 ]

@@ -1,38 +1,29 @@
 [
  {
   "id": "nerd-2026-10-lucca-60",
-  "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre): videogiochi al centro, anteprime SEGA e ATLUS",
-  "source": "SmartWorld; Techprincess; BestMovie",
+  "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre): tema Legacy, 60 anni",
+  "source": "BestMovie; Techprincess; Multiplayer.it",
   "affidabilita": "secondaria",
   "tipo": "fiera",
   "date": "2026-10",
-  "brief": "Per i 60 anni, tema Legacy, tra gli ospiti Kitase, Kamiya, CD Projekt Red e Remedy. SEGA e ATLUS portano tre anteprime nazionali, tra cui Alien: Isolation 2, STRANGER THAN HEAVEN e Persona 4 Revival. Bandai Namco ha più di 400 mq. Il materiale è in parte di giugno-luglio: il programma può cambiare."
+  "brief": "Ospiti: Yoshinori Kitase (ospite d'onore), Hideki Kamiya (29-30 ottobre). SEGA e ATLUS portano tre anteprime nazionali: Alien: Isolation 2, STRANGER THAN HEAVEN e Persona 4 Revival. Gran parte del materiale è di giugno-luglio: il programma può cambiare."
  },
  {
-  "id": "nerd-2026-10-essen",
-  "title": "SPIEL Essen 2026 (22-25 ottobre): circa 1500 novità, preview BGG oltre 1100 titoli",
-  "source": "BoardGameGeek; Giochi sul Nostro Tavolo",
+  "id": "nerd-2026-10-spiel-essen",
+  "title": "SPIEL Essen 2026: 22-25 ottobre, per la prima volta tutti gli otto padiglioni",
+  "source": "Spielwarenmesse; PocketGamer.biz",
   "affidabilita": "secondaria",
   "tipo": "fiera",
   "date": "2026-10",
-  "brief": "Tra i titoli più citati Avalon, Queen Alice e -60°. Board&Dice porta Maestro, ambientato nell'Italia del 1500. Le liste sono preliminari."
+  "brief": "Attesi fino a 230.000 visitatori, 921 espositori da 53 paesi, oltre 1.500 novità. Arena di laser tag con Games Workshop. Alcune schede riportano date diverse: la maggioranza indica 22-25 ottobre, conferma su spiel-messe.com."
  },
  {
-  "id": "nerd-2026-10-renegade-hasbro",
-  "title": "Renegade e Hasbro rinnovano l'accordo: Axis & Allies, Acquire, Diplomacy, Heroscape, Robo Rally",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "tipo": "gioco da tavolo",
-  "date": "2026-10-05",
-  "brief": "L'accordo copre anche Ikusa, con nuovi giochi ed espansioni dal 2027. Una sola fonte."
- },
- {
-  "id": "nerd-2026-10-chicago",
-  "title": "Chicago Toy and Game Fair: 5-9 novembre 2026",
-  "source": "BoardGameWire",
+  "id": "nerd-2026-08-gamescom",
+  "title": "gamescom 2026: 26-30 agosto (già concluso)",
+  "source": "ricerca web",
   "affidabilita": "segnale debole",
   "tipo": "fiera",
-  "date": "2026-10",
-  "brief": "Indicata tra gli eventi in arrivo. Non ho altri dettagli."
+  "date": "2026-08-26",
+  "brief": "Solo per contesto: l'edizione si è svolta a fine agosto. Nessun nuovo annuncio di giornata trovato."
  }
 ]

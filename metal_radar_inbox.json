@@ -1,34 +1,34 @@
 [
  {
-  "id": "metal-2027-manowar-bergamo",
+  "id": "metal-2027-bfmv",
+  "title": "Bullet for My Valentine: nuovo album 'Social Apocalypse' il 19 marzo 2027 e concerto al Forum di Assago il 25 gennaio 2027",
+  "source": "TicketOne; Impericon",
+  "affidabilita": "secondaria",
+  "date": "2026-10 (data annuncio non verificata)",
+  "brief": "Primo album dal 2021 (via Spinefarm), titolo già disponibile come singolo. A Milano con Pendulum come ospiti speciali e Dark Divine in apertura. Prevendita dal 28 settembre, vendita generale dal 30 settembre. L'uscita è slittata da gennaio a marzo 2027."
+ },
+ {
+  "id": "metal-2027-manowar",
   "title": "Manowar a Bergamo, ChorusLife Arena: 26 marzo 2027 'Kings of Metal', 27 marzo 'Fighting The World'",
   "source": "TicketOne; manowar.com",
   "affidabilita": "primaria",
   "date": "2026-10 (data annuncio non verificata)",
-  "brief": "Due serate in cui suoneranno per intero i due album. Annuncio sul sito della band."
+  "brief": "Due serate con album suonati per intero. Biglietti in vendita da luglio 2026."
  },
  {
-  "id": "metal-2027-megadeth-assago",
-  "title": "Megadeth all'Unipol Forum di Assago il 6 aprile 2027, con Black Label Society e Testament",
+  "id": "metal-2027-megadeth",
+  "title": "Megadeth a Milano, Unipol Forum, 6 aprile 2027, con Black Label Society e Testament",
   "source": "TicketOne",
   "affidabilita": "secondaria",
   "date": "2026-10 (data annuncio non verificata)",
-  "brief": "Tour europeo indoor 2027 del tour d'addio, titolo 'Breakout: Hibernation Of The Nations'."
+  "brief": "Tour europeo d'addio 'Breakout: Hibernation Of The Nations'."
  },
  {
-  "id": "metal-2026-wcar-circularity",
-  "title": "We Came as Romans: deluxe 'Circularity' indicata per il 6 novembre 2026",
-  "source": "Wikipedia",
-  "affidabilita": "segnale debole",
-  "date": "2026-09-23",
-  "brief": "La pagina indica il singolo 'Born from Nothing' il 23 settembre, ma ha dettagli incoerenti: da verificare sui canali della band."
- },
- {
-  "id": "metal-2026-ffdp",
-  "title": "Five Finger Death Punch: tour europeo 2027 senza date italiane, decimo album atteso senza data",
-  "source": "regioactive.de",
-  "affidabilita": "segnale debole",
-  "date": "2026-05-13",
-  "brief": "Notizia di maggio, non recente: Germania e Austria sì, Italia no."
+  "id": "metal-2027-epica",
+  "title": "Epica all'Arcimboldi di Milano nel 2027 con il Symphonic Synergy Tour (annuncio del 15 settembre)",
+  "source": "TicketOne",
+  "affidabilita": "secondaria",
+  "date": "2026-09-15",
+  "brief": "Data esatta non verificata. Soen a Milano a marzo 2027 e Eihwar a Moncalieri il 13 febbraio 2027 sono segnalati nella stessa ricerca."
  }
 ]
