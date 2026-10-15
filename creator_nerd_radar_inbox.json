@@ -1,11 +1,29 @@
 [
  {
+  "id": "creator-2026-10-lucca-tiktok",
+  "title": "Lucca #Lucca60: sei storyteller TikTok raccontano il festival, tra cui Martina Levato, Frà Gullo, Edoardo Poveromo",
+  "source": "Lucca Comics & Games / gonews.it",
+  "affidabilita": "secondaria",
+  "date": "2026-09-24",
+  "brief": "TikTok Italia partner di intrattenimento per il quarto anno. Non delle ultime 48 ore.",
+  "rilevanza": "Chi segue questi creator li vedrà a Lucca dal 28 ottobre."
+ },
+ {
+  "id": "creator-2026-10-play",
+  "title": "Play 2026: Il Cigno NerD e Murinerd tra i creator ospiti",
+  "source": "play-festival.it",
+  "affidabilita": "secondaria",
+  "date": "2026 (data non verificata)",
+  "brief": "Il Cigno NerD parla di Warhammer, GDR e fumetti; Murinerd fa contenuti brevi sui giochi da tavolo.",
+  "rilevanza": "Segnale per chi lavora nel settore giochi e creator."
+ },
+ {
   "id": "creator-2026-10-nessuna-novita",
-  "title": "Nessuna notizia verificata delle ultime 48 ore sui creator nerd italiani",
+  "title": "Nessuna notizia datata delle ultime 48 ore sui creator nerd italiani",
   "source": "ricerca web",
   "affidabilita": "segnale debole",
   "date": "2026-10-14",
-  "brief": "La ricerca ha restituito solo guide generali e classifiche senza data (FaviJ, MikeShowSha, Playerinside, Yotobi, Sabaku no Maiku). Non pubblico come notizia nulla che non sia verificato. Prossimo appuntamento da seguire: Lucca Comics & Games dal 28 ottobre.",
-  "rilevanza": "Nessuna novità di giornata: da ricontrollare con ricerche mirate sui singoli canali."
+  "brief": "Solo guide generali e programmi di fiera. Non pubblico come notizia nulla di non verificato.",
+  "rilevanza": "Da ricontrollare con ricerche sui singoli canali."
  }
 ]

@@ -1,29 +1,29 @@
 [
  {
-  "id": "rb-2026-10-radiance-calendar",
-  "title": "Radiance: uscita il 23 ottobre, Pre-Rift sigillato dal 16 al 22 ottobre, preview dal 25 settembre",
-  "source": "Calendario set 2026 (StarCityGames); UVS Games; riftbound.gg",
+  "id": "rb-2026-10-errata-radiance",
+  "title": "Radiance: patch alle regole, 4 errata e regolamento tornei, tutto in vigore dal 16 ottobre",
+  "source": "RiftCompare; riftbound.zone (citano Riot)",
   "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Più fonti concordano: set 5, Radiance, in uscita il 23 ottobre. Teaser dal 18 settembre durante le trasmissioni LCS e LEC, preview ufficiale dal 25 settembre. Pre-Rift in formato sigillato dal 16 al 22 ottobre. Si parla di circa 180 carte, dato da una sola fonte di calendario.",
-  "rilevanza": "Questa settimana iniziano i Pre-Rift: chi gioca sigillato può già iscriversi; i collezionisti decidono i preordini."
+  "date": "2026-10-09",
+  "brief": "Riot ha pubblicato il 9 ottobre le patch note del regolamento, 4 errata (Elnuk Herd, Forbidden Technique, Last Caress, Neeko Blending In) e il changelog delle regole torneo. Neeko passa da 'scegli 3 diverse leggende' a 'fino a 3'. Gli errata servono alla chiarezza del testo, non al bilanciamento.",
+  "rilevanza": "Chi gioca Neeko o queste carte deve rileggere il testo prima dei Pre-Rift. Fonti fan che citano Riot: verifica sul sito ufficiale."
  },
  {
-  "id": "rb-2026-09-ban-list",
-  "title": "Aggiornamento Ban List di settembre (effettivo dal 18 settembre 2026) per Standard e Constructed 2v2",
-  "source": "playriftbound.com (titolo in risultato di ricerca)",
-  "affidabilita": "segnale debole",
-  "date": "2026-09-18",
-  "brief": "Il sito ufficiale elenca l'aggiornamento, ma non ho potuto leggere le carte coinvolte. Le prime ban del 30 marzo avevano tolto quattro carte e tre battlefield. Non scrivere quali carte sono bannate senza aver letto la pagina ufficiale.",
-  "rilevanza": "Chi costruisce mazzi per Radiance deve controllare la lista aggiornata."
+  "id": "rb-2026-10-radiance-uscita",
+  "title": "Radiance in uscita il 23 ottobre, Pre-Rift dal 16",
+  "source": "riftbound.zone; RiftCompare",
+  "affidabilita": "secondaria",
+  "date": "2026-10-15",
+  "brief": "Il nuovo set esce il 23 ottobre e gli eventi Pre-Rift partono il 16. Le fonti recenti non segnalano nuovi ban con il set.",
+  "rilevanza": "Settimana decisiva per preordini e iscrizione ai Pre-Rift."
  },
  {
-  "id": "rb-2026-08-state-of-game",
-  "title": "State of the Game di agosto 2026: Riot li pubblicherà due volte l'anno",
-  "source": "playriftbound.com",
+  "id": "rb-2026-09-ban",
+  "title": "Ban list del 18 settembre: Ekko Recurrent e Stacked Deck banditi in Standard e 2v2",
+  "source": "playriftbound.com; RiftCompare",
   "affidabilita": "primaria",
-  "date": "2026-08",
-  "brief": "Riot dice che gli aggiornamenti 'State of the Game' usciranno circa a febbraio e ad agosto. Quindi il prossimo è atteso verso febbraio 2027. Nessuna novità di bilanciamento nelle ultime 48 ore trovata.",
-  "rilevanza": "Non aspettarti grandi annunci di ruolo prima di Radiance."
+  "date": "2026-09-18",
+  "brief": "Ultimo aggiornamento noto alla ban list (13 carte bandite in totale secondo RiftCompare). Riot gestisce il potere con i ban, non con gli errata. Non è delle ultime 48 ore: lo inserisco come contesto per il meta.",
+  "rilevanza": "Il meta con cui arrivi a Radiance parte da qui."
  }
 ]

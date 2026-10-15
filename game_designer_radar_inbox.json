@@ -1,46 +1,65 @@
 [
  {
   "id": "gd-it-archimede-2027",
-  "title": "Premio Archimede 2027: aperto il bando per giochi inediti da presentare agli editori",
+  "title": "Premio Archimede 2027: aperto il bando per giochi inediti",
   "source": "Studiogiochi",
   "affidabilita": "secondaria",
   "mercato": "italia",
   "tipo": "concorsi",
   "date": "2026 (data esatta non verificata)",
-  "brief": "Concorso italiano per autori di giochi inediti che permette di presentarli agli editori. Controlla scadenze e regole sul sito ufficiale.",
-  "rilevanza": "Occasione concreta per un autore alla ricerca di un editore."
+  "brief": "Il maggiore concorso italiano per giochi inediti, con novità nel regolamento. Controlla scadenze sul sito ufficiale.",
+  "rilevanza": "Occasione concreta per trovare un editore."
+ },
+ {
+  "id": "gd-it-lucca-giochi-uniti",
+  "title": "Lucca 2026: Giochi Uniti presenta The Social Contract con Factanza; Asmodee Toy Battle e 25 anni di Lupi Mannari",
+  "source": "Nerdpool; ProjectNerd",
+  "affidabilita": "secondaria",
+  "mercato": "italia",
+  "tipo": "editori",
+  "date": "2026-10-12",
+  "brief": "The Social Contract è semi-cooperativo e politico. Toy Battle è di Paolo Mori e Alessandro Zucchini. Hidden Games e MS Edizioni portano Murder Over a Legacy.",
+  "rilevanza": "Cataloghi e collaborazioni italiane da seguire per chi propone prototipi."
+ },
+ {
+  "id": "gd-it-lucca-hogwarts",
+  "title": "Defenders of Hogwarts: anteprima mondiale a Lucca, distribuzione primavera 2027",
+  "source": "SpazioGames",
+  "affidabilita": "secondaria",
+  "mercato": "estero",
+  "tipo": "licenze",
+  "date": "2026-10-12",
+  "brief": "MinaLima presenta il gioco con licenza Harry Potter.",
+  "rilevanza": "Esempio di licenza forte lanciata in fiera."
  },
  {
   "id": "gd-es-spiel-essen",
-  "title": "SPIEL Essen 2026 (22-25 ottobre): matchmaking B2B nell'app per editori, autori e retailer",
-  "source": "Spielwarenmesse; Games Market",
+  "title": "SPIEL Essen 2026 (22-25 ottobre): oltre 1.500 novità, Kingdom Come: Deliverance di CGE",
+  "source": "SPIEL Essen; Meeple Mountain",
   "affidabilita": "secondaria",
   "mercato": "estero",
   "tipo": "fiere",
   "date": "2026-10",
-  "brief": "921 espositori, oltre 1.500 novità attese. Nuovo strumento di matchmaking business nell'app ufficiale; Spiel.talks con proposte chiuse il 17 maggio.",
-  "rilevanza": "Per un autore è il luogo dove fissare incontri con gli editori."
+  "brief": "Preordini ritiro in fiera. Ambassador Peter Mohrbacher. Programma con Spiel.talks e Educators Day."
  },
  {
-  "id": "gd-it-lucca-games",
-  "title": "Lucca Comics & Games 2026 (28 ottobre-1 novembre) include l'area giochi da tavolo",
-  "source": "BestMovie; TicketOne",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "fiere",
-  "date": "2026-10",
-  "brief": "Le fonti trovate parlano soprattutto di videogiochi. Nessun programma editori/giochi da tavolo né dettagli IdeaG trovati.",
-  "rilevanza": "Da seguire per incontrare editori italiani, ma servono fonti ufficiali."
+  "id": "gd-es-sdj",
+  "title": "Spiel des Jahres 2026 a Dito! di Martin Ang (Game Factory Kenner)",
+  "source": "SPIEL Essen",
+  "affidabilita": "primaria",
+  "mercato": "estero",
+  "tipo": "premi",
+  "date": "2026",
+  "brief": "Premio già assegnato; utile come riferimento di mercato."
  },
  {
-  "id": "gd-note",
-  "title": "Nessuna notizia verificata sugli IdeaG 2026 e sugli editori italiani",
+  "id": "gd-nessuna-ideag",
+  "title": "IdeaG, editori in fiera e movimenti di persone: nessuna notizia datata trovata",
   "source": "ricerca web",
   "affidabilita": "segnale debole",
   "mercato": "italia",
   "tipo": "nota",
   "date": "2026-10-14",
-  "brief": "Le ricerche non hanno trovato date o luoghi degli IdeaG 2026, né annunci di persone negli editori. Controlla ideag.it e i canali degli editori.",
-  "rilevanza": "Meglio un buco dichiarato che una data inventata."
+  "brief": "Le ricerche non hanno trovato date o luoghi verificati degli IdeaG né cambi di ruolo negli editori. Non inventato nulla: serve ricerca mirata. Sono stati trovati meno delle 20 notizie richieste."
  }
 ]

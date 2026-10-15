@@ -1,42 +1,42 @@
 {
- "aggiornato": "2026-10-13",
+ "aggiornato": "2026-10-15",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
-  "https://www.3bmeteo.com/meteo/pesaro",
   "https://www.ilmeteo.it/meteo/pesaro",
-  "https://www.meteo.it/meteo/pesaro-41044"
+  "https://www.3bmeteo.com/meteo/pesaro",
+  "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723"
  ],
  "previsioni": [
   {
-   "data": "2026-10-13",
-   "giorno": "martedì",
-   "temp_min_c": 14,
-   "temp_max_c": 19,
-   "condizioni": "poco nuvoloso, nessuna pioggia prevista",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "dato non reperito"
-  },
-  {
-   "data": "2026-10-14",
-   "giorno": "mercoledì",
-   "temp_min_c": 12,
-   "temp_max_c": 21,
-   "condizioni": "poco nuvoloso (iLMeteo: 12/20)",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "dato non reperito"
-  },
-  {
    "data": "2026-10-15",
    "giorno": "giovedì",
-   "temp_min_c": 12,
-   "temp_max_c": 22,
-   "condizioni": "velature (3BMeteo 12/21, iLMeteo 14/22)",
+   "temp_min_c": 11,
+   "temp_max_c": 21,
+   "condizioni": "poco nuvoloso o sereno",
+   "vento": "da sud-ovest, circa 6-9 km/h (3BMeteo: moderato da ovest-sudovest al mattino, da nord nel pomeriggio)",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-10-16",
+   "giorno": "venerdì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "poco nuvoloso al mattino, bel tempo da pomeriggio (pagina iLMeteo non aggiornata di recente)",
+   "vento": "da nord-nord-est fino a circa 25 km/h (da verificare)",
+   "mare": "dato non reperito",
+   "allerta": "dato non reperito"
+  },
+  {
+   "data": "2026-10-17",
+   "giorno": "sabato",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "dato non reperito",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito"
   }
  ],
- "note": "Dati 3BMeteo e iLMeteo aggiornati al 12 ottobre. Una fonte meno recente (Tempo Italia) prevedeva pioggia e vento: in contrasto, non considerata. Vento, mare e allerte non reperiti."
+ "note": "Solo giovedì ha dati affidabili. Venerdì parziali, sabato assenti: le fonti trovate erano datate."
 }

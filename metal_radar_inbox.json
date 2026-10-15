@@ -1,34 +1,34 @@
 [
  {
+  "id": "metal-2026-10-16-uscite",
+  "title": "Uscite del 16 ottobre: Insomnium «Netherworlds», Eivør «Tungl», Fervence «Constructs»",
+  "source": "Loudwire (calendario 2026)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-16",
+  "brief": "Domani tra le uscite elencate Insomnium (Century Media), Eivør (Nuclear Blast), Fervence (Metal Blade), Elysion e Defects. Calendario di una sola fonte: date da confermare."
+ },
+ {
+  "id": "metal-2026-10-recenti",
+  "title": "Uscite recenti: Amon Amarth «The Allfather Awakens» (2 ottobre), HateSphere e Graveyard (9 ottobre)",
+  "source": "XS Rock",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-09",
+  "brief": "Elenco di una sola fonte, non confermato altrove."
+ },
+ {
   "id": "metal-2027-bfmv",
-  "title": "Bullet for My Valentine: nuovo album 'Social Apocalypse' il 19 marzo 2027 e concerto al Forum di Assago il 25 gennaio 2027",
+  "title": "Bullet for My Valentine: album «Social Apocalypse» il 19 marzo 2027, Forum di Assago il 25 gennaio 2027",
   "source": "TicketOne; Impericon",
   "affidabilita": "secondaria",
   "date": "2026-10 (data annuncio non verificata)",
-  "brief": "Primo album dal 2021 (via Spinefarm), titolo già disponibile come singolo. A Milano con Pendulum come ospiti speciali e Dark Divine in apertura. Prevendita dal 28 settembre, vendita generale dal 30 settembre. L'uscita è slittata da gennaio a marzo 2027."
+  "brief": "Primo album dal 2021. Con Pendulum come ospiti speciali. Già presente nei giorni scorsi."
  },
  {
-  "id": "metal-2027-manowar",
-  "title": "Manowar a Bergamo, ChorusLife Arena: 26 marzo 2027 'Kings of Metal', 27 marzo 'Fighting The World'",
-  "source": "TicketOne; manowar.com",
-  "affidabilita": "primaria",
-  "date": "2026-10 (data annuncio non verificata)",
-  "brief": "Due serate con album suonati per intero. Biglietti in vendita da luglio 2026."
- },
- {
-  "id": "metal-2027-megadeth",
-  "title": "Megadeth a Milano, Unipol Forum, 6 aprile 2027, con Black Label Society e Testament",
-  "source": "TicketOne",
-  "affidabilita": "secondaria",
-  "date": "2026-10 (data annuncio non verificata)",
-  "brief": "Tour europeo d'addio 'Breakout: Hibernation Of The Nations'."
- },
- {
-  "id": "metal-2027-epica",
-  "title": "Epica all'Arcimboldi di Milano nel 2027 con il Symphonic Synergy Tour (annuncio del 15 settembre)",
-  "source": "TicketOne",
-  "affidabilita": "secondaria",
-  "date": "2026-09-15",
-  "brief": "Data esatta non verificata. Soen a Milano a marzo 2027 e Eihwar a Moncalieri il 13 febbraio 2027 sono segnalati nella stessa ricerca."
+  "id": "metal-2027-milano",
+  "title": "Concerti metal a Milano nel 2027: Imminence/August Burns Red il 21 gennaio, Obscura/Pestilence a febbraio",
+  "source": "Metalitalia; Songkick",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Le fonti discordano su alcune date (Rhapsody of Fire, U.D.O., Draconian): verifica sui siti dei locali."
  }
 ]
