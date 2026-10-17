@@ -1,32 +1,11 @@
 {
- "aggiornato": "2026-10-15",
+ "aggiornato": "2026-10-17",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.ilmeteo.it/meteo/pesaro",
-  "https://www.3bmeteo.com/meteo/pesaro",
-  "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723"
+  "https://www.3bmeteo.com/meteo/pesaro"
  ],
  "previsioni": [
-  {
-   "data": "2026-10-15",
-   "giorno": "giovedì",
-   "temp_min_c": 11,
-   "temp_max_c": 21,
-   "condizioni": "poco nuvoloso o sereno",
-   "vento": "da sud-ovest, circa 6-9 km/h (3BMeteo: moderato da ovest-sudovest al mattino, da nord nel pomeriggio)",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta reperita"
-  },
-  {
-   "data": "2026-10-16",
-   "giorno": "venerdì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "poco nuvoloso al mattino, bel tempo da pomeriggio (pagina iLMeteo non aggiornata di recente)",
-   "vento": "da nord-nord-est fino a circa 25 km/h (da verificare)",
-   "mare": "dato non reperito",
-   "allerta": "dato non reperito"
-  },
   {
    "data": "2026-10-17",
    "giorno": "sabato",
@@ -35,8 +14,28 @@
    "condizioni": "dato non reperito",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
-   "allerta": "dato non reperito"
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-10-18",
+   "giorno": "domenica",
+   "temp_min_c": 14,
+   "temp_max_c": 21,
+   "condizioni": "tempo prevalentemente stabile",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-10-19",
+   "giorno": "lunedì",
+   "temp_min_c": 12,
+   "temp_max_c": 21,
+   "condizioni": "sereno o poco nuvoloso, nessuna pioggia (3BMeteo); iLMeteo: min 15, max 21",
+   "vento": "dato non reperito (una fonte meno affidabile indica maestrale moderato da NO a 12 km/h)",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
   }
  ],
- "note": "Solo giovedì ha dati affidabili. Venerdì parziali, sabato assenti: le fonti trovate erano datate."
+ "note": "Sabato non reperito. Domenica da iLMeteo (aggiornato 15/10). Lunedì: minime discordanti tra iLMeteo (15) e 3BMeteo (12); massima 21 per entrambe."
 }

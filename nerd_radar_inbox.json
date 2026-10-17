@@ -1,38 +1,47 @@
 [
  {
-  "id": "nerd-2026-10-lucca-videogiochi",
-  "title": "Lucca Comics & Games 2026 (28 ott-1 nov): videogiochi al centro, anteprime SEGA/ATLUS e Bandai Namco",
-  "source": "Smartworld; Techprincess; Il Videogiocatore",
+  "id": "nerd-2026-10-lucca60",
+  "title": "Lucca Comics & Games 2026: 60ª edizione dal 28 ottobre al 1° novembre",
+  "source": "Fumettologica; gonews.it; Quotidiano.net",
   "affidabilita": "secondaria",
   "tipo": "fiera",
-  "date": "2026-10-14",
-  "brief": "Anteprime nazionali giocabili di Alien: Isolation 2, Stranger Than Heaven e Persona 4 Revival; Bandai Namco con oltre 400 mq; panel sul Witcher 3 Songs of the Past il 31 ottobre; Remedy con Control Resonant. Ospiti Kitase e Kamiya. Il programma può cambiare."
- },
- {
-  "id": "nerd-2026-10-lucca-tavolo",
-  "title": "Lucca 2026: Defenders of Hogwarts in anteprima mondiale, Tetris da tavolo, Horrified Ravenloft",
-  "source": "SpazioGames; Nerdpool",
-  "affidabilita": "secondaria",
-  "tipo": "gioco da tavolo",
-  "date": "2026-10-12",
-  "brief": "MinaLima presenta Defenders of Hogwarts (distribuzione primavera 2027), Spin Master un Tetris da tavolo, Ravensburger Horrified Ravenloft e i 40 anni di Labyrinth con Carcassonne, Asmodee Toy Battle, Giochi Uniti The Social Contract."
+  "date": "2026-09-24",
+  "brief": "Programma e ospiti annunciati (autori, fumettisti, creator). Palco Games con Silvia Escilgioco e Marco Marzocca; Jundo porta autori asiatici, tra cui Li Haoling alla prima apparizione ufficiale in Italia. Programma ancora soggetto a modifiche."
  },
  {
   "id": "nerd-2026-10-essen",
-  "title": "SPIEL Essen 2026 (22-25 ottobre): oltre 1.500 novità attese",
-  "source": "SPIEL Essen; Meeple Mountain; BGG",
+  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre",
+  "source": "spiel-essen.de; Meeple Mountain",
   "affidabilita": "secondaria",
   "tipo": "fiera",
-  "date": "2026-10-14",
-  "brief": "Tra i titoli più attesi Kingdom Come: Deliverance da Czech Games Edition, con preordini ritiro in fiera aperti dal 14 settembre. Spiel des Jahres 2026 a Dito! (Game Factory Kenner)."
+  "date": "2026-10-17",
+  "brief": "Le stime sui titoli in debutto variano tra circa 1.300 e 1.500 nelle anteprime. Preordini e anteprime fioccano: Goblins.net con il «Listone di Pennuto» e Geek.pizza."
  },
  {
-  "id": "nerd-2026-10-lucca-d-d",
-  "title": "Lucca 2026: Joe Manganiello cura il programma D&D, linea D&D Icons",
-  "source": "SpazioGames; Sugarpulp",
+  "id": "nerd-2026-10-kcd-boardgame",
+  "title": "Kingdom Come: Deliverance – The Board Game: preordini ritiro a Essen aperti da CGE",
+  "source": "Meeple Mountain",
   "affidabilita": "secondaria",
-  "tipo": "fiera",
-  "date": "2026-10-12",
-  "brief": "Programma D&D con Dragonlance e Greyhawk, più Daggerheart e ORKEN. Fonti concordi."
+  "tipo": "gioco da tavolo",
+  "date": "2026-09-14",
+  "brief": "Adattamento del videogioco, copie limitate vendute direttamente in fiera. Preordini aperti il 14 settembre."
+ },
+ {
+  "id": "nerd-2026-10-gamescom-date",
+  "title": "Gamescom Opening Night 2026: date d'uscita in arrivo",
+  "source": "Multiplayer.it; Everyeye",
+  "affidabilita": "secondaria",
+  "tipo": "videogiochi",
+  "date": "2026-08-25",
+  "brief": "Annunci dal 25 agosto: Exodus il 7 aprile 2027, Ananta free-to-play dal 15 gennaio 2027, Mega Man Dual Override nel 2027. Non è di oggi, ma le date restano."
+ },
+ {
+  "id": "nerd-2026-10-dito",
+  "title": "Spiel des Jahres 2026: vince «Dito!» di Martin Ang (Game Factory)",
+  "source": "Meeple Mountain / jury SdJ",
+  "affidabilita": "secondaria",
+  "tipo": "premio",
+  "date": "2026",
+  "brief": "Titolo vincitore del Kennerspiel/gioco dell'anno secondo la fonte; verifica la categoria sul sito del premio. Data esatta non verificata."
  }
 ]
