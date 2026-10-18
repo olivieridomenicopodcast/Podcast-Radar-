@@ -1,11 +1,35 @@
 [
  {
-  "id": "metal-2026-10-uscite-16",
-  "title": "Uscite del 16 ottobre: Insomnium «Netherworlds», Eivør «Tungl», Fervence «Constructs»",
-  "source": "Loudwire (calendario 2026)",
+  "id": "metal-2026-10-megadeth",
+  "title": "Megadeth: tour d'addio, in Italia il 6 aprile 2027 all'Unipol Forum di Assago con Black Label Society e Testament",
+  "source": "TicketOne",
   "affidabilita": "secondaria",
-  "date": "2026-10-16",
-  "brief": "Calendario di una sola fonte: date da confermare."
+  "date": "2026",
+  "brief": "Data annunciata in precedenza, non delle ultime 48 ore."
+ },
+ {
+  "id": "metal-2026-10-manowar",
+  "title": "Manowar a Bergamo, ChorusLife Arena: 26 e 27 marzo 2027",
+  "source": "manowar.com; TicketOne",
+  "affidabilita": "primaria",
+  "date": "2026-07-17",
+  "brief": "Il 26 suonano Kings of Metal, il 27 Fighting the World."
+ },
+ {
+  "id": "metal-2026-10-hatebreed",
+  "title": "Hatebreed: «Fatal Paradox» il 6 novembre su BLKIIBLK, primo album dal 2020",
+  "source": "live-metal.com",
+  "affidabilita": "segnale debole",
+  "date": "2026",
+  "brief": "Fonte singola: verifica con la label."
+ },
+ {
+  "id": "metal-2026-10-comeback",
+  "title": "Comeback Kid: nuovo album il 6 novembre, singolo «Chosen Hell»",
+  "source": "roundup di fine agosto",
+  "affidabilita": "segnale debole",
+  "date": "2026-08",
+  "brief": "Titolo dell'album riportato in modo ambiguo."
  },
  {
   "id": "metal-2026-10-forbidden",
@@ -13,46 +37,14 @@
   "source": "Blabbermouth",
   "affidabilita": "secondaria",
   "date": "2026-07-22",
-  "brief": "Annunciato il 22 luglio col singolo «Psyclops», registrato in Oakland con Zack Ohren. Esce venerdì 23 ottobre."
+  "brief": "Esce venerdì 23 ottobre."
  },
  {
-  "id": "metal-2026-10-mystic",
-  "title": "Mystic Prophecy: «In Metal» il 27 novembre, singolo «Robots»",
-  "source": "Blabbermouth",
-  "affidabilita": "secondaria",
-  "date": "2026-08-21",
-  "brief": "Etichetta Perception. Annuncio di agosto."
- },
- {
-  "id": "metal-2026-10-manowar",
-  "title": "Manowar a Bergamo, ChorusLife Arena: 26 e 27 marzo 2027",
-  "source": "TicketOne; manowar.com",
-  "affidabilita": "primaria",
-  "date": "2026-07-17",
-  "brief": "26 marzo suonano per intero Kings of Metal, 27 marzo Fighting the World. Biglietti in vendita dal 17 luglio 2026."
- },
- {
-  "id": "metal-2026-10-megadeth",
-  "title": "Megadeth: tour d'addio con quattro date in Germania in primavera 2027",
-  "source": "regioactive.de",
+  "id": "metal-2026-10-epica",
+  "title": "Epica, Soen ed Eihwar: date italiane nel 2027",
+  "source": "Rockol (titoli di elenco)",
   "affidabilita": "segnale debole",
   "date": "2026",
-  "brief": "Date italiane non emerse. Fonte singola."
- },
- {
-  "id": "metal-2026-10-rhapsody",
-  "title": "Rhapsody of Fire: tour per i 30 anni dal 7 gennaio al 6 febbraio 2027, 11 paesi",
-  "source": "regioactive.de",
-  "affidabilita": "segnale debole",
-  "date": "2026",
-  "brief": "Tappa italiana non confermata nei risultati. Verificare le date."
- },
- {
-  "id": "metal-2026-10-ffdp",
-  "title": "Five Finger Death Punch: tour europeo dal 16 gennaio al 22 febbraio 2027",
-  "source": "regioactive.de",
-  "affidabilita": "segnale debole",
-  "date": "2026-05-13",
-  "brief": "Per i 20 anni di carriera, nuovo materiale. Date italiane non emerse."
+  "brief": "Epica al Teatro Arcimboldi di Milano, Soen a Milano a marzo 2027, Eihwar a Moncalieri il 13 febbraio 2027. Dettagli da verificare nelle fonti originali."
  }
 ]

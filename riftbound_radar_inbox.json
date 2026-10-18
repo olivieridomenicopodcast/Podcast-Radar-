@@ -1,38 +1,56 @@
 [
  {
-  "id": "rb-2026-10-errata-radiance",
-  "title": "Radiance: patch alle regole, 4 errata e changelog regolamento torneo, in vigore dal 16 ottobre",
-  "source": "riftbound.gg; RiftCompare",
+  "id": "rb-2026-10-radiance-prerift",
+  "title": "Radiance: Pre-Rift in corso fino al 22 ottobre, uscita globale il 23",
+  "source": "Riftbound Zone; Riot (playriftbound.com)",
   "affidabilita": "secondaria",
-  "date": "2026-10-09",
-  "brief": "Riot ha pubblicato il 9 ottobre patch del regolamento, errata per Last Caress, Forbidden Technique, Neeko ed Elnuk Herd e il changelog delle regole torneo; tutto vale dal 16 ottobre. Elnuk Herd cambia come gioca: togliendo «another» può darsi da solo il +3. Riot dice di non usare errata per gestire la potenza.",
-  "rilevanza": "Chi gioca queste carte deve rileggere il testo prima dei Pre-Rift."
+  "date": "2026-10-16",
+  "brief": "Gli eventi Pre-Rift vanno dal 16 al 22 ottobre. Ogni partecipante apre un Pre-Rift Kit con cinque booster da 14 carte e un mazzo costruito attorno a una delle nove nuove Legend, più la promo Heimerdinger, Academy Instructor finché ci sono scorte.",
+  "rilevanza": "Chi vuole carte una settimana prima deve iscriversi a un evento adesso."
  },
  {
-  "id": "rb-2026-10-radiance-calendario",
-  "title": "Radiance: Pre-Rift dal 16 al 22 ottobre, uscita globale il 23",
-  "source": "Star City Games; roadmap Riot",
+  "id": "rb-2026-10-regole",
+  "title": "Regole aggiornate per Radiance in vigore dal 16 ottobre",
+  "source": "riftbound.gg",
   "affidabilita": "secondaria",
-  "date": "2026-10-17",
-  "brief": "Calendario: anteprime dal 28 settembre al 9 ottobre, Pre-Rift 16-22 ottobre, uscita il 23 ottobre. Il set ha 180 carte nuove (60 Showcase) e nove nuove Champion Legends; confermati Ekko, Seraphine ed Evelynn. Uscita in cinese semplificato e inglese.",
-  "rilevanza": "Chi vuole giocare i Pre-Rift deve organizzarsi questa settimana."
+  "date": "2026-10-16",
+  "brief": "Il regolamento base è aggiornato con le regole delle nuove meccaniche (Deploy, Show Off, Disarm), gli FAQ Vendetta e scenari per interazioni complicate. Vale dai Pre-Rift.",
+  "rilevanza": "Rileggi il regolamento prima del torneo."
  },
  {
-  "id": "rb-2026-10-banlist",
-  "title": "Banlist: nessun ban annunciato per Radiance al 14 ottobre; ultimi ban del 18 settembre",
-  "source": "riftbound.zone; riftbound.gg",
+  "id": "rb-2026-10-set",
+  "title": "Radiance: set da 180 carte e nove Legend; Ziggs rivelato da Game Informer",
+  "source": "Game Informer; Riftbound.org",
   "affidabilita": "secondaria",
-  "date": "2026-10-14",
-  "brief": "Al 14 ottobre Riot non ha annunciato ban per l'uscita di Radiance. Gli ultimi sono di settembre (in vigore dal 18): Ekko, Recurrent e Stacked Deck.",
-  "rilevanza": "Chi costruisce mazzi nuovi sa cosa è bannato oggi, ma la lista può cambiare dopo il lancio."
+  "date": "2026-10-07",
+  "brief": "Il quinto set è il più grande finora. Tra le Legend ci sono Seraphine, Ziggs, Jarvan IV, Ekko, Evelynn. Ziggs, Explosive può esaurire risorse per schierare un Bomb token. Il numero di carte Showcase varia tra le fonti (60 o 66).",
+  "rilevanza": "Capire il nuovo archetipo bombe prima del lancio."
+ },
+ {
+  "id": "rb-2026-10-promo",
+  "title": "Nexus Night: pool rinnovato con 24 carte di Radiance e Lulu, Whimsical come promo",
+  "source": "Riftbound Zone",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Secondo una fonte di community i pacchetti Nexus Night sono aggiornati con 24 carte del set e Lulu, Whimsical come chase. Prossimi Summoner Skirmish il 9 novembre e il 14 dicembre. Non confermato da una seconda fonte.",
+  "rilevanza": "Utile se frequenti i negozi per le serate."
+ },
+ {
+  "id": "rb-2026-10-preordini",
+  "title": "Preordini europei di Radiance in esaurimento: 6 negozi su 23 monitorati ancora aperti",
+  "source": "tracker di community",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Una sola fonte segnala che le scorte si stanno stringendo. Va letta come indicazione, non come dato.",
+  "rilevanza": "Se vuoi un box al day one, non aspettare."
  },
  {
   "id": "rb-2026-10-meta",
-  "title": "Meta Radiance: prime ipotesi, Trifarian Captain e Nocturne al centro del dibattito",
-  "source": "tcgtalk; guide di community",
+  "title": "Nessun dato meta su Radiance prima del 23 ottobre",
+  "source": "riftbound.gg; articoli di community",
   "affidabilita": "segnale debole",
-  "date": "2026-10 (opinioni, non fatti)",
-  "brief": "Opinione, non fatto: i commentatori ritengono che Trifarian Captain (corpo da 2 che scava 4 carte) possa riaprire pattern con Nocturne. Altre guide suggeriscono prove con Deploy in mazzi Azir/Irelia e Disarm contro Rengar. Nessuno sa ancora com'è il meta.",
-  "rilevanza": "Utile come lista di cose da testare nei Pre-Rift."
+  "date": "2026-10-18",
+  "brief": "Le tier list attuali riflettono ancora Vendetta. La discussione è guidata dalle singole rivelazioni, non da risultati di torneo. Nessun ban annunciato per il set nelle fonti trovate.",
+  "rilevanza": "Aspetta i primi tornei prima di comprare singole in preda al panico."
  }
 ]

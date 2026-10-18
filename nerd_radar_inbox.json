@@ -1,47 +1,56 @@
 [
  {
-  "id": "nerd-2026-10-lucca60",
-  "title": "Lucca Comics & Games 2026: 60ª edizione dal 28 ottobre al 1° novembre",
-  "source": "Fumettologica; gonews.it; Quotidiano.net",
-  "affidabilita": "secondaria",
-  "tipo": "fiera",
-  "date": "2026-09-24",
-  "brief": "Programma e ospiti annunciati (autori, fumettisti, creator). Palco Games con Silvia Escilgioco e Marco Marzocca; Jundo porta autori asiatici, tra cui Li Haoling alla prima apparizione ufficiale in Italia. Programma ancora soggetto a modifiche."
- },
- {
   "id": "nerd-2026-10-essen",
-  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre",
-  "source": "spiel-essen.de; Meeple Mountain",
+  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre: oltre 1.100 titoli in anteprima",
+  "source": "Giochi sul Nostro Tavolo; Goblins.net",
   "affidabilita": "secondaria",
   "tipo": "fiera",
-  "date": "2026-10-17",
-  "brief": "Le stime sui titoli in debutto variano tra circa 1.300 e 1.500 nelle anteprime. Preordini e anteprime fioccano: Goblins.net con il «Listone di Pennuto» e Geek.pizza."
+  "date": "2026-10-18",
+  "brief": "Tra i più attesi della classifica BGG: Avalon (Shadowborne), Queen Alice, -60°, Kingdom Come: Deliverance – The Board Game. Anteprime su Goblins.net per Drillers, Gaudì, Medico di Stefan Feld, Enchanted Ivy."
  },
  {
-  "id": "nerd-2026-10-kcd-boardgame",
-  "title": "Kingdom Come: Deliverance – The Board Game: preordini ritiro a Essen aperti da CGE",
-  "source": "Meeple Mountain",
+  "id": "nerd-2026-10-lucca",
+  "title": "Lucca Comics & Games 2026: 60ª edizione dal 28 ottobre al 1° novembre, tema «Legacy»",
+  "source": "TicketOne; Quotidiano.net",
+  "affidabilita": "secondaria",
+  "tipo": "fiera",
+  "date": "2026-10",
+  "brief": "Ospiti: Go Nagai, Frank Miller, Jonathan Hickman, Peach Momoko, Paco Roca. Giochi al Padiglione Carducci. Le mostre a Palazzo Ducale sono aperte dal 3 ottobre."
+ },
+ {
+  "id": "nerd-2026-10-codenames",
+  "title": "Codenames diventa un gioco Netflix, sviluppato da CGE",
+  "source": "BoardGameWire",
   "affidabilita": "secondaria",
   "tipo": "gioco da tavolo",
-  "date": "2026-09-14",
-  "brief": "Adattamento del videogioco, copie limitate vendute direttamente in fiera. Preordini aperti il 14 settembre."
+  "date": "2026-10",
+  "brief": "Netflix ha contattato CGE per una licenza e poi l'ha incaricata di sviluppare il gioco."
  },
  {
-  "id": "nerd-2026-10-gamescom-date",
-  "title": "Gamescom Opening Night 2026: date d'uscita in arrivo",
-  "source": "Multiplayer.it; Everyeye",
+  "id": "nerd-2026-10-phantom",
+  "title": "Phantom Blade Zero rinviato al 29 ottobre 2026",
+  "source": "guide alle uscite",
+  "affidabilita": "segnale debole",
+  "tipo": "videogiochi",
+  "date": "2026-10",
+  "brief": "Slittato dal 9 settembre. Fonte secondaria singola: verifica sul sito ufficiale."
+ },
+ {
+  "id": "nerd-2026-10-gta",
+  "title": "GTA 6 indicato al 19 novembre 2026 su PS5 e Xbox",
+  "source": "Dexerto; calendari uscite",
   "affidabilita": "secondaria",
   "tipo": "videogiochi",
-  "date": "2026-08-25",
-  "brief": "Annunci dal 25 agosto: Exodus il 7 aprile 2027, Ananta free-to-play dal 15 gennaio 2027, Mega Man Dual Override nel 2027. Non è di oggi, ma le date restano."
+  "date": "2026-10",
+  "brief": "Data riportata nei calendari di uscita, non è un annuncio delle ultime 48 ore."
  },
  {
-  "id": "nerd-2026-10-dito",
-  "title": "Spiel des Jahres 2026: vince «Dito!» di Martin Ang (Game Factory)",
-  "source": "Meeple Mountain / jury SdJ",
+  "id": "nerd-2026-10-osprey",
+  "title": "Osprey Games licenzia il team giochi e cancella lo stand a Essen",
+  "source": "BoardGameWire",
   "affidabilita": "secondaria",
-  "tipo": "premio",
-  "date": "2026",
-  "brief": "Titolo vincitore del Kennerspiel/gioco dell'anno secondo la fonte; verifica la categoria sul sito del premio. Data esatta non verificata."
+  "tipo": "industria",
+  "date": "2026-10-16",
+  "brief": "La capogruppo Bloomsbury cerca un acquirente per la linea giochi e si riconcentra sui libri."
  }
 ]
