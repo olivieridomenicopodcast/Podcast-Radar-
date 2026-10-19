@@ -1,101 +1,90 @@
 [
  {
+  "id": "gd-it-essen-italiani",
+  "title": "Cranio Creations a Essen con cinque titoli",
+  "source": "craniocreations.com; Goblins.net",
+  "affidabilita": "secondaria",
+  "mercato": "italia",
+  "tipo": "editori",
+  "date": "2026-10",
+  "brief": "Oil Rock di Marco Piola Caselli, Crossing Heroes, Minikin City, Planet Bee e Knock Twice; Ghenos porta The Old King's Crown.",
+  "rilevanza": "Mostra quali editori italiani investono su autori e titoli in uscita."
+ },
+ {
+  "id": "gd-it-combo",
+  "title": "Combo Festival a Milano: oltre 40 editori durante Essen",
+  "source": "Mentelocale",
+  "affidabilita": "secondaria",
+  "mercato": "italia",
+  "tipo": "fiere",
+  "date": "2026-10",
+  "brief": "Prima edizione, 35 anteprime assolute.",
+  "rilevanza": "Occasione per incontrare editori italiani mentre molti sono a Essen."
+ },
+ {
+  "id": "gd-it-archimede",
+  "title": "Premio Archimede 2027: bando per giochi inediti",
+  "source": "Studiogiochi",
+  "affidabilita": "segnale debole",
+  "mercato": "italia",
+  "tipo": "concorsi",
+  "date": "2026",
+  "brief": "Concorso per autori che vogliono proporre giochi agli editori. Scadenze non verificate.",
+  "rilevanza": "Verifica i termini sul sito."
+ },
+ {
+  "id": "gd-it-ideag",
+  "title": "IdeaG: date 2026 non confermate",
+  "source": "spieleautorenzunft.de",
+  "affidabilita": "segnale debole",
+  "mercato": "italia",
+  "tipo": "eventi",
+  "date": "2026",
+  "brief": "L'incontro di solito si tiene a metà gennaio vicino a Parma, ma non ho trovato date 2026.",
+  "rilevanza": "Controlla il sito ufficiale."
+ },
+ {
+  "id": "gd-int-essen",
+  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre con Asmodee nelle hall 5 e 7",
+  "source": "Asmodee (comunicato 23 settembre)",
+  "affidabilita": "primaria",
+  "mercato": "estero",
+  "tipo": "fiere",
+  "date": "2026-09-23",
+  "brief": "Asmodee mostra novità, tra cui The Lord of the Rings: Circle of Conflict.",
+  "rilevanza": "Un'altra occasione per proporre prototipi."
+ },
+ {
   "id": "gd-int-osprey",
-  "title": "Osprey Games licenzia l'intero team di sviluppo giochi e cancella lo stand a Essen",
+  "title": "Osprey Games: team licenziato e stand a Essen cancellato",
   "source": "BoardGameWire",
   "affidabilita": "secondaria",
   "mercato": "estero",
   "tipo": "editori",
   "date": "2026-10-16",
-  "brief": "Bloomsbury cerca un acquirente per la linea giochi. Meno editori attivi significa meno porte per i prototipi.",
-  "rilevanza": "Se avevi un contatto in Osprey, è ora di aggiornare la lista."
+  "brief": "Bloomsbury cerca un acquirente per la linea giochi.",
+  "rilevanza": "Meno porte per i prototipi."
  },
  {
   "id": "gd-int-codenames",
-  "title": "Codenames per Netflix: CGE sviluppa il gioco",
+  "title": "Codenames per Netflix, sviluppato da CGE",
   "source": "BoardGameWire",
   "affidabilita": "secondaria",
   "mercato": "estero",
   "tipo": "licenze",
   "date": "2026-10",
-  "brief": "Netflix ha chiesto una licenza e poi ha incaricato CGE di svilupparlo.",
-  "rilevanza": "Le piattaforme streaming cercano partner editoriali."
+  "brief": "Netflix ha chiesto una licenza e poi ha incaricato CGE.",
+  "rilevanza": "Le piattaforme cercano partner editoriali."
  },
  {
-  "id": "gd-int-essen-matchmaking",
-  "title": "Spiel Essen 2026: matchmaking B2B e panel per professionisti",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "fiere",
-  "date": "2026-10-13",
-  "brief": "Fiera dal 22 al 25 ottobre con sistema di appuntamenti tra professionisti.",
-  "rilevanza": "Occasione per fissare incontri con editori."
- },
- {
-  "id": "gd-int-asmodee",
-  "title": "Asmodee acquista Welcome To… da Blue Cocker",
-  "source": "BoardGameWire",
+  "id": "gd-nota",
+  "title": "Copertura parziale: meno di 20 notizie verificate",
+  "source": "ricerca odierna",
   "affidabilita": "segnale debole",
-  "mercato": "estero",
-  "tipo": "editori",
-  "date": "2026",
-  "brief": "Data non verificata; fonte singola.",
-  "rilevanza": "Consolidamento in corso."
- },
- {
-  "id": "gd-int-road-to-essen",
-  "title": "Road to Essen (Vietnam): showcase internazionale spostato a Spiel Essen 2027",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "concorsi",
-  "date": "2026-08-24",
-  "brief": "Più tempo per trovare un partner editoriale.",
-  "rilevanza": "Esempio di concorso che porta ai deal."
- },
- {
-  "id": "gd-it-ideag",
-  "title": "IdeaG 2026: Parma (9-11 gennaio), Padova (16-17 maggio), Brescia a Orzinuovi",
-  "source": "idea-g.it; Giochi sul Nostro Tavolo",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "IdeaG",
-  "date": "2026",
-  "brief": "Non ho trovato date di nuove edizioni dopo queste. Controlla idea-g.it per il prossimo calendario.",
-  "rilevanza": "Dove portare i prototipi."
- },
- {
-  "id": "gd-it-ghenos-asmodee-play",
-  "title": "Ghenos e Asmodee Italia al Play 2026: anteprima del TCG Hellbreak per l'autunno",
-  "source": "Giochi sul Nostro Tavolo",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "editori",
-  "date": "2026-05-09",
-  "brief": "Non delle ultime 48 ore.",
-  "rilevanza": "Capire dove si muovono i cataloghi."
- },
- {
-  "id": "gd-it-essen-goblins",
-  "title": "Anteprime Essen 2026 di Goblins.net: Il Listone di Pennuto",
-  "source": "Goblins.net",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "fiere",
-  "date": "2026-10",
-  "brief": "Guida italiana ai titoli di Essen: Drillers, Gaudì, Medico, Queen Alice.",
-  "rilevanza": "Panoramica dei cataloghi esteri."
- },
- {
-  "id": "gd-it-lucca",
-  "title": "Lucca Comics & Games dal 28 ottobre al 1° novembre: area giochi al Padiglione Carducci",
-  "source": "TicketOne",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "fiere",
-  "date": "2026-10",
-  "brief": "Gli editori presenti non sono elencati nelle fonti trovate.",
-  "rilevanza": "Occasione per incontrare editori."
+  "mercato": "nota",
+  "tipo": "nota",
+  "date": "2026-10-19",
+  "brief": "Non ho trovato 10 + 10 notizie verificabili delle ultime 48 ore; ho tenuto solo quelle con fonte.",
+  "rilevanza": ""
  }
 ]

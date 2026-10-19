@@ -1,56 +1,29 @@
 [
  {
-  "id": "rb-2026-10-radiance-prerift",
-  "title": "Radiance: Pre-Rift in corso fino al 22 ottobre, uscita globale il 23",
-  "source": "Riftbound Zone; Riot (playriftbound.com)",
+  "id": "rb-2026-10-prerift",
+  "title": "Radiance: Pre-Rift dal 16 al 22 ottobre, uscita globale il 23 ottobre",
+  "source": "Riftbound Zone; playriftbound.com",
   "affidabilita": "secondaria",
   "date": "2026-10-16",
-  "brief": "Gli eventi Pre-Rift vanno dal 16 al 22 ottobre. Ogni partecipante apre un Pre-Rift Kit con cinque booster da 14 carte e un mazzo costruito attorno a una delle nove nuove Legend, più la promo Heimerdinger, Academy Instructor finché ci sono scorte.",
-  "rilevanza": "Chi vuole carte una settimana prima deve iscriversi a un evento adesso."
- },
- {
-  "id": "rb-2026-10-regole",
-  "title": "Regole aggiornate per Radiance in vigore dal 16 ottobre",
-  "source": "riftbound.gg",
-  "affidabilita": "secondaria",
-  "date": "2026-10-16",
-  "brief": "Il regolamento base è aggiornato con le regole delle nuove meccaniche (Deploy, Show Off, Disarm), gli FAQ Vendetta e scenari per interazioni complicate. Vale dai Pre-Rift.",
-  "rilevanza": "Rileggi il regolamento prima del torneo."
- },
- {
-  "id": "rb-2026-10-set",
-  "title": "Radiance: set da 180 carte e nove Legend; Ziggs rivelato da Game Informer",
-  "source": "Game Informer; Riftbound.org",
-  "affidabilita": "secondaria",
-  "date": "2026-10-07",
-  "brief": "Il quinto set è il più grande finora. Tra le Legend ci sono Seraphine, Ziggs, Jarvan IV, Ekko, Evelynn. Ziggs, Explosive può esaurire risorse per schierare un Bomb token. Il numero di carte Showcase varia tra le fonti (60 o 66).",
-  "rilevanza": "Capire il nuovo archetipo bombe prima del lancio."
- },
- {
-  "id": "rb-2026-10-promo",
-  "title": "Nexus Night: pool rinnovato con 24 carte di Radiance e Lulu, Whimsical come promo",
-  "source": "Riftbound Zone",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Secondo una fonte di community i pacchetti Nexus Night sono aggiornati con 24 carte del set e Lulu, Whimsical come chase. Prossimi Summoner Skirmish il 9 novembre e il 14 dicembre. Non confermato da una seconda fonte.",
-  "rilevanza": "Utile se frequenti i negozi per le serate."
- },
- {
-  "id": "rb-2026-10-preordini",
-  "title": "Preordini europei di Radiance in esaurimento: 6 negozi su 23 monitorati ancora aperti",
-  "source": "tracker di community",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Una sola fonte segnala che le scorte si stanno stringendo. Va letta come indicazione, non come dato.",
-  "rilevanza": "Se vuoi un box al day one, non aspettare."
+  "brief": "Gli eventi Pre-Rift durano fino al 22 ottobre e il lancio globale di Radiance è fissato al 23. Il regolamento base è aggiornato dal 16 ottobre con le nuove meccaniche e gli FAQ di Vendetta.",
+  "rilevanza": "Chi vuole le carte in anticipo deve iscriversi a un evento ora; rileggi il regolamento prima del torneo."
  },
  {
   "id": "rb-2026-10-meta",
-  "title": "Nessun dato meta su Radiance prima del 23 ottobre",
-  "source": "riftbound.gg; articoli di community",
+  "title": "Meta pre-lancio: Kennen in testa nei dati Radiance, Vendetta con Irelia, Master Yi, Rengar e Kennen in Tier 1",
+  "source": "RiftDecks; riftbound.gg",
   "affidabilita": "segnale debole",
-  "date": "2026-10-18",
-  "brief": "Le tier list attuali riflettono ancora Vendetta. La discussione è guidata dalle singole rivelazioni, non da risultati di torneo. Nessun ban annunciato per il set nelle fonti trovate.",
-  "rilevanza": "Aspetta i primi tornei prima di comprare singole in preda al panico."
+  "date": "2026-10",
+  "brief": "RiftDecks mostra Kennen intorno al 13% di metashare, seguito da Riven e Jayce, con campioni piccoli. La tier list di riftbound.gg (circa 10 giorni fa) riguarda l'era Vendetta e dovrebbe cambiare poco prima del lancio.",
+  "rilevanza": "Numeri molto precoci: non costruire il mazzo solo su questi."
+ },
+ {
+  "id": "rb-2026-10-stoccarda",
+  "title": "Stoccarda 6-8 novembre: primo grande evento dell'era Radiance",
+  "source": "RiftCompare",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Secondo RiftCompare il meta Radiance è ancora ignoto e Stoccarda sarà il primo vero test.",
+  "rilevanza": "Se segui il competitivo, aspetta i risultati prima di comprare singole."
  }
 ]

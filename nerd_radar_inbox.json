@@ -1,56 +1,29 @@
 [
  {
   "id": "nerd-2026-10-essen",
-  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre: oltre 1.100 titoli in anteprima",
-  "source": "Giochi sul Nostro Tavolo; Goblins.net",
+  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre",
+  "source": "Asmodee; Meeple Mountain; Goblins.net; Geek Pizza",
+  "affidabilita": "primaria",
+  "tipo": "fiera",
+  "date": "2026-10-13",
+  "brief": "Asmodee sarà nelle hall 5 e 7 e porta anteprime tra cui The Lord of the Rings: Circle of Conflict. Cranio Creations porta Oil Rock, Crossing Heroes, Minikin City, Planet Bee e Knock Twice."
+ },
+ {
+  "id": "nerd-2026-10-lucca-videogiochi",
+  "title": "Lucca Comics & Games 2026, 28 ottobre-1 novembre: Kitase, Kamiya e anteprime SEGA/ATLUS",
+  "source": "Multiplayer.it; Techprincess",
   "affidabilita": "secondaria",
   "tipo": "fiera",
-  "date": "2026-10-18",
-  "brief": "Tra i più attesi della classifica BGG: Avalon (Shadowborne), Queen Alice, -60°, Kingdom Come: Deliverance – The Board Game. Anteprime su Goblins.net per Drillers, Gaudì, Medico di Stefan Feld, Enchanted Ivy."
+  "date": "2026-10",
+  "brief": "Yoshinori Kitase ospite d'onore, Hideki Kamiya il 29 e 30. SEGA e ATLUS mostrano Alien: Isolation 2, nuovo Stranger Than Heaven e Persona 4 Revival; Bandai Namco ha oltre 400 mq."
  },
  {
-  "id": "nerd-2026-10-lucca",
-  "title": "Lucca Comics & Games 2026: 60ª edizione dal 28 ottobre al 1° novembre, tema «Legacy»",
-  "source": "TicketOne; Quotidiano.net",
+  "id": "nerd-2026-10-combo",
+  "title": "Combo Festival di Pedine, Dadi e Carte: prima edizione in concomitanza con Essen",
+  "source": "Mentelocale",
   "affidabilita": "secondaria",
   "tipo": "fiera",
   "date": "2026-10",
-  "brief": "Ospiti: Go Nagai, Frank Miller, Jonathan Hickman, Peach Momoko, Paco Roca. Giochi al Padiglione Carducci. Le mostre a Palazzo Ducale sono aperte dal 3 ottobre."
- },
- {
-  "id": "nerd-2026-10-codenames",
-  "title": "Codenames diventa un gioco Netflix, sviluppato da CGE",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "tipo": "gioco da tavolo",
-  "date": "2026-10",
-  "brief": "Netflix ha contattato CGE per una licenza e poi l'ha incaricata di sviluppare il gioco."
- },
- {
-  "id": "nerd-2026-10-phantom",
-  "title": "Phantom Blade Zero rinviato al 29 ottobre 2026",
-  "source": "guide alle uscite",
-  "affidabilita": "segnale debole",
-  "tipo": "videogiochi",
-  "date": "2026-10",
-  "brief": "Slittato dal 9 settembre. Fonte secondaria singola: verifica sul sito ufficiale."
- },
- {
-  "id": "nerd-2026-10-gta",
-  "title": "GTA 6 indicato al 19 novembre 2026 su PS5 e Xbox",
-  "source": "Dexerto; calendari uscite",
-  "affidabilita": "secondaria",
-  "tipo": "videogiochi",
-  "date": "2026-10",
-  "brief": "Data riportata nei calendari di uscita, non è un annuncio delle ultime 48 ore."
- },
- {
-  "id": "nerd-2026-10-osprey",
-  "title": "Osprey Games licenzia il team giochi e cancella lo stand a Essen",
-  "source": "BoardGameWire",
-  "affidabilita": "secondaria",
-  "tipo": "industria",
-  "date": "2026-10-16",
-  "brief": "La capogruppo Bloomsbury cerca un acquirente per la linea giochi e si riconcentra sui libri."
+  "brief": "Oltre 40 editori, 35 con anteprime assolute, a Milano durante le date di SPIEL."
  }
 ]

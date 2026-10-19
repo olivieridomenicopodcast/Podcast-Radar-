@@ -1,133 +1,108 @@
 [
  {
-  "id": "podcast-2026-10-podnews-video-pilot",
-  "title": "Podnews Daily va in video: una settimana di pilota con Liquid Studios dal 14 al 20 ottobre",
-  "source": "Podnews",
+  "id": "podcast-2026-10-pave-disney",
+  "title": "PAVE Studios: i suoi podcast arrivano su Disney+ e Hulu",
+  "source": "Podnews (archivio)",
   "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-10-14",
-  "brief": "Per una settimana, dal 14 al 20 ottobre, ogni edizione del notiziario quotidiano Podnews esce anche in video, in collaborazione con Liquid Studios. È un altro segnale di come anche le testate di settore si spostino sul formato video.",
+  "target": 5,
+  "date": "2026-10-16",
+  "brief": "Podnews Daily del 16 ottobre segnala che gli show di PAVE Studios approdano su Disney+ e Hulu. Il podcast esce dall'app audio e va dove sta la TV: conferma che il formato video è sempre meno un optional.",
   "angles": [
-   "Video podcast: quando ha senso e quando è fatica sprecata",
-   "Il podcast in video non richiede studio: cosa serve davvero",
-   "Come testare il video per una settimana prima di impegnarti"
+   "Podcast in streaming TV: cosa cambia per chi parte da zero",
+   "Audio puro o video: come decidere prima di comprare il microfono",
+   "Perché pensare al video fin dal primo episodio"
   ],
   "hooks": [
-   "Hai un podcast solo audio e ti senti già vecchio? Tranquillo, una settimana di prova basta per capire.",
-   "Pensi che per il video serva uno studio? Anche i professionisti lo stanno solo provando.",
-   "Stai per metterti davanti a una telecamera e hai paura? Fai un test di sette giorni, poi decidi."
+   "Hai un podcast e pensi che la TV non ti riguardi? Intanto i podcast ci stanno entrando.",
+   "Stai registrando solo audio e ti chiedi se il video serva? Forse ti conviene ragionarci prima.",
+   "Hai appena aperto un microfono e ti dicono 'fai anche il video'? Respira, ti spiego da dove cominciare."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-youtube-secondo",
+  "title": "Report Card 2026 di Podnews: YouTube è secondo tra le piattaforme per podcast, davanti a Spotify",
+  "source": "Podnews (Report Card 2026)",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": "2026-10",
+  "brief": "Nei risultati della Report Card 2026 YouTube sale per la prima volta al secondo posto dietro Apple Podcasts e supera Spotify, che resta stabile. Il giorno esatto di pubblicazione non è verificato. Indicazione dei creator intervistati, non dato di ascolto.",
+  "angles": [
+   "Dove pubblicare se parti oggi: Apple, YouTube o Spotify",
+   "Perché caricare l'audio su YouTube con un'immagine fissa non basta",
+   "Come impostare un podcast pensando a YouTube dal giorno uno"
+  ],
+  "hooks": [
+   "Hai appena lanciato il podcast e lo pubblichi solo su Spotify? Aspetta, guarda dove ti cercano.",
+   "Pensi che YouTube sia roba da youtuber? Per i podcaster ormai è la seconda piattaforma.",
+   "Hai caricato l'audio con una copertina fissa su YouTube? Ti ho già visto, e non funziona."
   ]
  },
  {
   "id": "podcast-2026-10-apple-video",
-  "title": "Apple Podcasts punta sul video: passaggio audio/video nell'app e download offline",
-  "source": "Nieman Lab; Podnews (riepiloghi)",
-  "affidabilita": "secondaria",
-  "target": 7,
-  "date": "2026-02",
-  "brief": "Secondo i riepiloghi del settore, Apple Podcasts permette di passare tra audio e video e scaricare episodi video per l'offline. Apple richiede anche di dichiarare nei metadati i contenuti sintetizzati con IA generativa. Non è una novità delle ultime 48 ore: contesto utile.",
-  "angles": [
-   "Cosa cambia per chi pubblica solo audio",
-   "Dichiarare l'uso di IA nei metadati: come e perché",
-   "Video podcast su tutte le piattaforme: una checklist minima"
-  ],
-  "hooks": [
-   "Hai appena registrato l'episodio e pensi che il video sia un extra? Per Apple ormai no.",
-   "Usi un po' di IA per ripulire la voce? Ricordati di dichiararlo, o ti scappa il metadato.",
-   "Pubblichi solo audio da due anni? Controlla come lo vede chi apre l'app e trova il video."
-  ]
- },
- {
-  "id": "podcast-2026-10-spotify-play",
-  "title": "Spotify cambia cosa conta come «play»: almeno 30 secondi di ascolto o visione",
-  "source": "riepiloghi di settore",
+  "title": "Apple Podcasts con iOS 26.4: si passa da audio a video dentro l'app",
+  "source": "Podnews e stampa di settore (riepiloghi)",
   "affidabilita": "segnale debole",
   "target": 7,
   "date": "2026",
-  "brief": "Nei riepiloghi di settore Spotify ha ridefinito il play di un podcast (almeno 30 secondi) e aggiunto analytics a Spotify for Creators. Data esatta non verificata: una fonte sola, da controllare nella documentazione ufficiale prima di usarla.",
+  "brief": "Secondo i riepiloghi, con iOS 26.4 Apple Podcasts permette di alternare audio e video della stessa puntata. Data precisa e dettagli tecnici di pubblicazione non verificati su fonte primaria.",
   "angles": [
-   "Perché i tuoi numeri possono scendere senza che tu abbia fatto niente",
-   "Come leggere le statistiche senza farti il sangue amaro",
-   "Gli intro lunghi: quanto ti costano davvero"
+   "Feed video su Apple Podcasts: cosa serve davvero",
+   "Il tuo podcast ha una versione video? Come prepararla senza impazzire",
+   "Come non farti sorprendere dai metadati"
   ],
   "hooks": [
-   "I tuoi ascolti sono calati e non hai toccato niente? Forse è cambiato il metro.",
-   "Hai un'intro di un minuto con la musichetta? Mettiti comodo, le statistiche ti guardano.",
-   "Controlli le statistiche ogni mattina? Ti conviene prima sapere cosa contano."
+   "Hai un podcast solo audio e Apple ora spinge il video? Calma, non devi fare uno studio.",
+   "Ti hanno detto che il video serve su Apple? Prima controlla se il tuo hosting lo supporta.",
+   "Stai per girare video per il podcast e non sai da dove partire? Parti da una sola camera."
   ]
  },
  {
-  "id": "podcast-2026-10-italia-ascoltatori",
-  "title": "Ascoltatori di podcast in Italia: 18,5 milioni nel 2026 (NielsenIQ per Audible), 5 ascolti al mese",
-  "source": "ItaliaOggi; Sky TG24",
-  "affidabilita": "secondaria",
-  "target": 8,
-  "date": "2026-10",
-  "brief": "Il monitoraggio NielsenIQ per Audible stima 18,5 milioni di ascoltatori in Italia nel 2026, circa +3% sul 2025, con 5 ascolti al mese e sessioni medie di 26,9 minuti. L'Osservatorio OBE parlava di 15,5 milioni nel 2025: le metodologie sono diverse, non confrontare i due numeri alla leggera.",
-  "angles": [
-   "Sessioni da 27 minuti: quanto dovrebbe durare il tuo episodio",
-   "Mercato italiano in crescita ma con numeri discordanti: come leggerli",
-   "Cosa significa per chi parte oggi"
-  ],
-  "hooks": [
-   "Pensi che un episodio da un'ora sia obbligatorio? Gli italiani ne ascoltano in media 27 minuti.",
-   "Hai paura che sia tardi per partire? In Italia si ascolta di più, non di meno.",
-   "Ti hanno detto che il podcast è saturo? Guarda i numeri, poi decidi."
-  ]
- },
- {
-  "id": "podcast-2026-10-festival-podcasting",
-  "title": "Festival del Podcasting 2026 a Milano: decima edizione con giornata industry, video podcast e monetizzazione",
-  "source": "Milano Finanza; Il Sole 24 Ore; Digitalic",
-  "affidabilita": "secondaria",
-  "target": 7,
-  "date": "2026-10-03",
-  "brief": "Il 2-3 ottobre a Cascina Triulza (MIND) la decima edizione ha aggiunto una giornata dedicata a brand e agenzie, con temi come discoverability, video podcast, distribuzione e monetizzazione. Digitalic titola sul podcast italiano che «cerca la sua identità». Più fonti concordano.",
-  "angles": [
-   "Cosa si dice in Italia di discoverability",
-   "Video podcast e monetizzazione per chi parte da zero",
-   "Podcast Pitch: presentare un'idea di show in due minuti"
-  ],
-  "hooks": [
-   "Hai un'idea di podcast ma nessuno che la ascolti? A Milano c'è una gara apposta.",
-   "Vuoi monetizzare al secondo episodio? Calma: prima serve qualcuno che ti ascolti.",
-   "Pensi che il podcast sia roba da nerd col microfono? Hanno fatto due giornate di fiera."
-  ]
- },
- {
-  "id": "podcast-2026-10-raiplay-sound",
-  "title": "RaiPlay Sound: nuovi podcast Original da settembre, giuria al Podcast Pitch",
-  "source": "ILovePodcast; Digitalic",
-  "affidabilita": "secondaria",
-  "target": 5,
-  "date": "2026-09",
-  "brief": "RaiPlay Sound ha lanciato nuovi podcast Original tra fine estate e settembre. Andrea Borgnino di RaiPlay Sound era in giuria al Podcast Pitch del festival. Non emergono novità dell'ultima settimana.",
-  "angles": [
-   "Come ti presenti a una piattaforma",
-   "Il podcast originale vs il tuo: cosa copiare e cosa no"
-  ],
-  "hooks": [
-   "Sogni di finire su RaiPlay Sound? Intanto fai finire l'episodio uno.",
-   "Vuoi proporre il tuo format a una piattaforma? Parti da una frase sola.",
-   "Hai tre idee e nessun format? Sceglierne una è già un lavoro."
-  ]
- },
- {
-  "id": "podcast-2026-10-ai-controversia",
-  "title": "Podnews Weekly: controversia su Inception Point AI e intervista a Dave Jones di Podcast Index",
-  "source": "Podnews Weekly Review",
+  "id": "podcast-2026-10-fable-folly",
+  "title": "Il network Fable and Folly annuncia la chiusura",
+  "source": "Podnews (archivio)",
   "affidabilita": "segnale debole",
   "target": 4,
-  "date": "2026-10-03",
-  "brief": "Nell'episodio del 3 ottobre si parla dell'ultima controversia su Inception Point AI (podcast generati con IA) e di Podcast Index. Dettagli non verificati: solo il titolo dell'episodio.",
+  "date": "2026-10",
+  "brief": "L'archivio di Podnews elenca tra i titoli di ottobre la chiusura del network Fable and Folly. Non ho letto l'articolo completo, quindi motivi e data restano da verificare.",
   "angles": [
-   "Podcast generati con IA: perché chi ascolta se ne accorge",
-   "Voce vera contro voce sintetica"
+   "Perché i podcast che dipendono da un network sono fragili",
+   "Possedere il tuo feed RSS: la prima cosa da fare",
+   "Cosa imparare dalle chiusure"
   ],
   "hooks": [
-   "Pensi che l'IA farà il tuo podcast al posto tuo? Chiedile di ridere alle tue battute.",
-   "Hai paura che ti rubino il lavoro? La tua voce non si copia in un pomeriggio.",
-   "Ti sei chiesto perché ascolti proprio quella persona? Ecco, quella roba lì non la fa una macchina."
+   "Hai il podcast su una piattaforma che non controlli? Un network che chiude e il tuo feed sparisce.",
+   "Pensi che entrare in un network sia sicuro? Leggi prima chi possiede il feed.",
+   "Stai per mettere i tuoi episodi in mano a un altro? Fai prima un backup, poi ne parliamo."
   ]
+ },
+ {
+  "id": "podcast-2026-10-podnews-video",
+  "title": "Podnews Daily in video: pilota con Liquid Studios dal 14 al 20 ottobre",
+  "source": "Podnews",
+  "affidabilita": "secondaria",
+  "target": 6,
+  "date": "2026-10-14",
+  "brief": "Per una settimana, ogni edizione del notiziario esce anche in video con Liquid Studios. Test limitato nel tempo.",
+  "angles": [
+   "Provare il video per sette giorni prima di impegnarti",
+   "Il video non richiede studio",
+   "Come capire se il tuo pubblico lo vuole"
+  ],
+  "hooks": [
+   "Hai un podcast solo audio e senti la pressione del video? Una settimana di prova basta.",
+   "Pensi che serva uno studio? Anche i professionisti lo stanno solo testando.",
+   "Stai per metterti davanti a una telecamera e hai paura? Fai un test di sette giorni."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-italia-nessuna",
+  "title": "Mercato italiano: nessuna novità datata trovata oggi",
+  "source": "ricerca odierna",
+  "affidabilita": "segnale debole",
+  "target": 0,
+  "date": "2026-10-19",
+  "brief": "Nessuna notizia verificabile e recente su Spreaker, Spotify Italia, RaiPlay Sound o dati Nielsen/AGCOM. Trovato solo materiale vecchio, scartato. Meglio un vuoto onesto che una notizia inventata.",
+  "angles": [],
+  "hooks": []
  }
 ]

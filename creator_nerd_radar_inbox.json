@@ -1,28 +1,11 @@
 [
  {
-  "id": "creator-2026-10-lucca-palco",
-  "title": "Lucca60: Casa Abis, Silvia Escilgioco e Marco Marzocca tra i volti del Palco Games",
-  "source": "Quotidiano.net; Fumettologica",
-  "affidabilita": "secondaria",
-  "date": "2026-09",
-  "brief": "Creator di giochi da tavolo sul Palco Games. Non delle ultime 48 ore.",
-  "rilevanza": "Utile per prepararsi a Lucca dal 28 ottobre."
- },
- {
-  "id": "creator-2026-10-indipendenza",
-  "title": "Creator videoludici italiani che rinunciano a partnership e codici review",
-  "source": "AnimeClick",
-  "affidabilita": "secondaria",
-  "date": "2025",
-  "brief": "Falconero, poi PlayerInside e Sabaku no Maiku. Articolo di circa un anno fa, non delle ultime 48 ore.",
-  "rilevanza": "Dibattito su indipendenza editoriale ancora attuale."
- },
- {
   "id": "creator-2026-10-nessuna",
-  "title": "Nessuna notizia datata delle ultime 48 ore trovata sui creator nerd italiani",
+  "title": "Nessuna notizia datata delle ultime 48 ore sui creator nerd italiani",
   "source": "ricerca odierna",
   "affidabilita": "segnale debole",
-  "date": "2026-10-18",
-  "brief": "Le ricerche non hanno prodotto fatti recenti verificabili. Meglio un vuoto onesto che notizie inventate."
+  "date": "2026-10-19",
+  "brief": "Nessun fatto recente verificabile. Il materiale trovato è datato: una guida sui creator (8 ottobre) e interviste di febbraio.",
+  "rilevanza": "Preferisco un vuoto onesto a notizie inventate."
  }
 ]

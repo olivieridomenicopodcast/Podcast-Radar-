@@ -1,50 +1,26 @@
 [
  {
-  "id": "metal-2026-10-megadeth",
-  "title": "Megadeth: tour d'addio, in Italia il 6 aprile 2027 all'Unipol Forum di Assago con Black Label Society e Testament",
-  "source": "TicketOne",
-  "affidabilita": "secondaria",
-  "date": "2026",
-  "brief": "Data annunciata in precedenza, non delle ultime 48 ore."
- },
- {
   "id": "metal-2026-10-manowar",
-  "title": "Manowar a Bergamo, ChorusLife Arena: 26 e 27 marzo 2027",
+  "title": "Manowar a Bergamo, ChorusLife Arena, 26 e 27 marzo 2027",
   "source": "manowar.com; TicketOne",
   "affidabilita": "primaria",
   "date": "2026-07-17",
-  "brief": "Il 26 suonano Kings of Metal, il 27 Fighting the World."
- },
- {
-  "id": "metal-2026-10-hatebreed",
-  "title": "Hatebreed: «Fatal Paradox» il 6 novembre su BLKIIBLK, primo album dal 2020",
-  "source": "live-metal.com",
-  "affidabilita": "segnale debole",
-  "date": "2026",
-  "brief": "Fonte singola: verifica con la label."
- },
- {
-  "id": "metal-2026-10-comeback",
-  "title": "Comeback Kid: nuovo album il 6 novembre, singolo «Chosen Hell»",
-  "source": "roundup di fine agosto",
-  "affidabilita": "segnale debole",
-  "date": "2026-08",
-  "brief": "Titolo dell'album riportato in modo ambiguo."
+  "brief": "Una sera Kings of Metal, una Fighting the World, suonati per intero. Annuncio di luglio, non delle ultime 48 ore."
  },
  {
   "id": "metal-2026-10-forbidden",
-  "title": "Forbidden: album omonimo il 23 ottobre su BLKIIBLK (Frontiers)",
+  "title": "Forbidden: album omonimo il 23 ottobre",
   "source": "Blabbermouth",
   "affidabilita": "secondaria",
   "date": "2026-07-22",
   "brief": "Esce venerdì 23 ottobre."
  },
  {
-  "id": "metal-2026-10-epica",
-  "title": "Epica, Soen ed Eihwar: date italiane nel 2027",
-  "source": "Rockol (titoli di elenco)",
+  "id": "metal-2026-10-nessuna",
+  "title": "Nessuna novità datata nelle ultime 48 ore",
+  "source": "ricerca odierna",
   "affidabilita": "segnale debole",
-  "date": "2026",
-  "brief": "Epica al Teatro Arcimboldi di Milano, Soen a Milano a marzo 2027, Eihwar a Moncalieri il 13 febbraio 2027. Dettagli da verificare nelle fonti originali."
+  "date": "2026-10-19",
+  "brief": "Rhapsody of Fire tour Europa 7 gennaio-6 febbraio 2027 (nessuna data italiana trovata), Megadeth tour d'addio nel 2027: informazioni non recenti."
  }
 ]
