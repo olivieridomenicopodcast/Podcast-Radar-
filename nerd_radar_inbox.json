@@ -2,28 +2,46 @@
  {
   "id": "nerd-2026-10-essen",
   "title": "SPIEL Essen 2026 dal 22 al 25 ottobre",
-  "source": "Asmodee; Meeple Mountain; Goblins.net; Geek Pizza",
+  "source": "Asmodee (comunicato 23 settembre); Meeple Mountain; spiel-essen.de",
   "affidabilita": "primaria",
   "tipo": "fiera",
-  "date": "2026-10-13",
-  "brief": "Asmodee sarà nelle hall 5 e 7 e porta anteprime tra cui The Lord of the Rings: Circle of Conflict. Cranio Creations porta Oil Rock, Crossing Heroes, Minikin City, Planet Bee e Knock Twice."
+  "date": "2026-10-22",
+  "brief": "Oltre 935 espositori da 56 paesi. Asmodee porta in anteprima The Lord of the Rings: Circle of Conflict (Office Dog) e LEGO Ninjago: Destiny's Bounty Adventures, e la sua linea di GDR sotto il proprio nome."
  },
  {
-  "id": "nerd-2026-10-lucca-videogiochi",
-  "title": "Lucca Comics & Games 2026, 28 ottobre-1 novembre: Kitase, Kamiya e anteprime SEGA/ATLUS",
-  "source": "Multiplayer.it; Techprincess",
+  "id": "nerd-2026-10-lucca",
+  "title": "Lucca Comics & Games 2026: 28 ottobre-1 novembre, 60° anniversario, tema 'Legacy'",
+  "source": "TicketOne; CGMagazine",
   "affidabilita": "secondaria",
   "tipo": "fiera",
+  "date": "2026-10-28",
+  "brief": "Poster firmato da Claudio Castellini; le mostre ufficiali aprono già dal 3 ottobre. Nel 2025 oltre 280mila biglietti venduti. Ospiti videogiochi (Kitase, Kamiya) e anteprime SEGA/ATLUS già segnalati."
+ },
+ {
+  "id": "nerd-2026-10-ravenloft",
+  "title": "D&D Ravenloft - Le Nebbie del Terrore in italiano dal 20 ottobre",
+  "source": "fonti di settore italiane",
+  "affidabilita": "segnale debole",
+  "tipo": "annuncio gioco di ruolo",
+  "date": "2026-10-20",
+  "brief": "Una fonte indica l'uscita italiana ufficiale oggi. Non confermato da seconda fonte indipendente."
+ },
+ {
+  "id": "nerd-2026-10-asmodee-it",
+  "title": "Asmodee Italia ottobre: Star Wars Unlimited - Mondi di Origine e Lords of Waterdeep",
+  "source": "CorriereNerd",
+  "affidabilita": "secondaria",
+  "tipo": "annuncio gioco da tavolo",
   "date": "2026-10",
-  "brief": "Yoshinori Kitase ospite d'onore, Hideki Kamiya il 29 e 30. SEGA e ATLUS mostrano Alien: Isolation 2, nuovo Stranger Than Heaven e Persona 4 Revival; Bandai Namco ha oltre 400 mq."
+  "brief": "Star Wars: Unlimited - Mondi di Origine esce il 9 ottobre e Lords of Waterdeep il 16, secondo il catalogo mensile."
  },
  {
   "id": "nerd-2026-10-combo",
-  "title": "Combo Festival di Pedine, Dadi e Carte: prima edizione in concomitanza con Essen",
-  "source": "Mentelocale",
+  "title": "Combo Festival a Milano durante Essen, con oltre 40 editori",
+  "source": "Mentelocale; House of Games",
   "affidabilita": "secondaria",
   "tipo": "fiera",
   "date": "2026-10",
-  "brief": "Oltre 40 editori, 35 con anteprime assolute, a Milano durante le date di SPIEL."
+  "brief": "Evento milanese in contemporanea con Essen; circolano guide con circa 120 uscite tra Lucca e Combo."
  }
 ]

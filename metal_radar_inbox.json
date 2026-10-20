@@ -1,26 +1,50 @@
 [
  {
+  "id": "metal-2026-10-nessuna",
+  "title": "Nessuna novità metal verificata datata nelle ultime 48 ore",
+  "source": "ricerca odierna",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-20",
+  "brief": "Le ricerche non hanno prodotto annunci con data 18-20 ottobre verificabile. Sotto, le notizie recenti più utili, con data reale."
+ },
+ {
+  "id": "metal-2026-10-heathen",
+  "title": "Heathen: nuovo album 'Lifetime In Hell' il 19 febbraio 2027",
+  "source": "Blabbermouth",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Uscita via Napalm Records, singolo 'Escapegoat'. L'annuncio risale a circa 6 giorni fa."
+ },
+ {
+  "id": "metal-2026-10-trivium",
+  "title": "Trivium annunciano 'Crown In The Grave'",
+  "source": "Blabbermouth",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Nuovo album annunciato con title track, circa 11 giorni fa; data di uscita non letta."
+ },
+ {
+  "id": "metal-2026-10-forbidden",
+  "title": "Forbidden: album omonimo venerdì 23 ottobre",
+  "source": "Blabbermouth",
+  "affidabilita": "secondaria",
+  "date": "2026-07-22",
+  "brief": "Annuncio di luglio, uscita tra tre giorni."
+ },
+ {
   "id": "metal-2026-10-manowar",
   "title": "Manowar a Bergamo, ChorusLife Arena, 26 e 27 marzo 2027",
   "source": "manowar.com; TicketOne",
   "affidabilita": "primaria",
   "date": "2026-07-17",
-  "brief": "Una sera Kings of Metal, una Fighting the World, suonati per intero. Annuncio di luglio, non delle ultime 48 ore."
+  "brief": "Una sera Kings of Metal, una Fighting the World, per intero. Unica pista italiana trovata."
  },
  {
-  "id": "metal-2026-10-forbidden",
-  "title": "Forbidden: album omonimo il 23 ottobre",
-  "source": "Blabbermouth",
-  "affidabilita": "secondaria",
-  "date": "2026-07-22",
-  "brief": "Esce venerdì 23 ottobre."
- },
- {
-  "id": "metal-2026-10-nessuna",
-  "title": "Nessuna novità datata nelle ultime 48 ore",
-  "source": "ricerca odierna",
+  "id": "metal-2026-10-tour-ue",
+  "title": "Tour europei 2027: Megadeth (addio), Five Finger Death Punch + Lamb of God, Rhapsody of Fire",
+  "source": "regioactive.de; mvp.de",
   "affidabilita": "segnale debole",
-  "date": "2026-10-19",
-  "brief": "Rhapsody of Fire tour Europa 7 gennaio-6 febbraio 2027 (nessuna data italiana trovata), Megadeth tour d'addio nel 2027: informazioni non recenti."
+  "date": "2026-10",
+  "brief": "Date tedesche e svizzere confermate, nessuna data italiana trovata."
  }
 ]

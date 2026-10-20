@@ -4,8 +4,35 @@
   "title": "Nessuna notizia datata delle ultime 48 ore sui creator nerd italiani",
   "source": "ricerca odierna",
   "affidabilita": "segnale debole",
+  "date": "2026-10-20",
+  "brief": "Nessun fatto verificabile sul periodo. Sotto, i segnali recenti trovati.",
+  "rilevanza": "Meglio un vuoto onesto che notizie inventate."
+ },
+ {
+  "id": "creator-2026-10-bgf",
+  "title": "Board Games Francesco in diretta YouTube lunedì 19 ottobre alle 21",
+  "source": "boardgamesfrancesco.it",
+  "affidabilita": "secondaria",
   "date": "2026-10-19",
-  "brief": "Nessun fatto recente verificabile. Il materiale trovato è datato: una guida sui creator (8 ottobre) e interviste di febbraio.",
-  "rilevanza": "Preferisco un vuoto onesto a notizie inventate."
+  "brief": "Il blog annuncia una diretta sul proprio canale; argomento non letto.",
+  "rilevanza": "Esempio di live fissa come abitudine con la community."
+ },
+ {
+  "id": "creator-2026-10-houseofgames",
+  "title": "House of Games: guida a tutte le uscite di ottobre, Lucca e Combo 2026",
+  "source": "houseofgames.it; YouTube",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Video con circa 120 giochi tra uscite e anteprime. Data esatta non verificata.",
+  "rilevanza": "Format utile per capire cosa si aspettano i fan prima di Lucca."
+ },
+ {
+  "id": "creator-2026-10-gsnt",
+  "title": "Giochi sul Nostro Tavolo: recensioni del 16 e 17 ottobre",
+  "source": "canale Telegram Giochi sul Nostro Tavolo",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-17",
+  "brief": "Tra le recensioni Avalon: The Riven Veil. Fonte unica.",
+  "rilevanza": "Mostra il ritmo di pubblicazione dei canali di recensione italiani."
  }
 ]

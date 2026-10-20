@@ -1,26 +1,50 @@
 [
  {
+  "id": "ham-2026-10-geomag",
+  "title": "Tempesta geomagnetica G1 (Kp 5) prevista il 20 ottobre, 03-06 UTC",
+  "source": "NOAA SWPC; EarthSky; srpske.rs",
+  "affidabilita": "secondaria",
+  "date": "2026-10-20",
+  "brief": "Un flusso veloce da buco coronale dovrebbe causare condizioni G1 il 20, poi attenuarsi il 21. Una fonte minore dà Kp 4,7: dato discordante. Possibile degrado sui percorsi ad alta latitudine."
+ },
+ {
+  "id": "ham-2026-10-sfi",
+  "title": "Flusso solare alto: previsione SFI 135 per oggi e domani, 125 mercoledì",
+  "source": "PARSgram 19 ottobre; ARRL Solar Update 16 ottobre",
+  "affidabilita": "secondaria",
+  "date": "2026-10-19",
+  "brief": "Sunspot number e flusso 10,7 cm restano attorno o sopra 100, trainati dalla regione 4551, buono per le bande alte. ARRL avverte che l'attività calerà nel resto del mese."
+ },
+ {
   "id": "ham-2026-10-cqww",
-  "title": "CQ WW DX SSB il 24-25 ottobre, 00:00-23:59 UTC",
-  "source": "cqww.com",
+  "title": "CQ WW DX SSB il 24-25 ottobre",
+  "source": "cqww.com; bollettino DX",
   "affidabilita": "primaria",
   "date": "2026-10-24",
-  "brief": "Contest su sei bande da 1,8 a 28 MHz, già segnalato nei giorni scorsi."
+  "brief": "Contest SSB di fine mese, prossimo a una finestra di flusso solare alto. Il CW sarà il 28-29 novembre."
  },
  {
-  "id": "ham-2026-10-s9r",
-  "title": "S9R São Tomé e Príncipe: DXpedition fino al 31 ottobre",
-  "source": "DX-World",
+  "id": "ham-2026-10-3b9",
+  "title": "3B9 (Rodrigues): operazione prima e dopo il contest, 20-28 ottobre",
+  "source": "bollettino DX (425 DX News)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-20",
+  "brief": "Operazioni come 3B9/nominativo tra il 20 e il 28 ottobre, QSL via LoTW. Dettagli dai bollettini, non verificati sul sito ufficiale."
+ },
+ {
+  "id": "ham-2026-10-senegal",
+  "title": "Team italiano attivo dal Senegal dal 28 ottobre al 9 novembre",
+  "source": "bollettino DX",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-28",
+  "brief": "Una spedizione italiana è annunciata dal Senegal; nominativo e modi non reperiti. Fonte unica."
+ },
+ {
+  "id": "ham-2026-10-hf0pas",
+  "title": "HF0PAS, Isole Shetland Meridionali (AN-010), fino al 31 ottobre; S9R São Tomé fino al 31",
+  "source": "DXZone; DX-World",
   "affidabilita": "secondaria",
   "date": "2026-10-17",
-  "brief": "Operativa su QO-100 e FT8 su 10-15-20 m. Aggiornamento di ieri, non verificato oggi."
- },
- {
-  "id": "ham-2026-10-nessuna",
-  "title": "Nessuna novità datata nelle ultime 48 ore su propagazione o normative",
-  "source": "ricerca odierna",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-19",
-  "brief": "Le ricerche non hanno prodotto fatti recenti verificabili. Per condizioni aggiornate controlla NG3K, ARRL e DX-World."
+  "brief": "HF0PAS è in calendario fino al 31 ottobre. S9R è già segnalato nei giorni scorsi (QO-100 e FT8). Più avanti VK9XY Christmas Island dal 16 novembre al 4 dicembre."
  }
 ]

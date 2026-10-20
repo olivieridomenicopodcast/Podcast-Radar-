@@ -2,13 +2,24 @@
  {
   "id": "gd-it-essen-italiani",
   "title": "Cranio Creations a Essen con cinque titoli",
-  "source": "craniocreations.com; Goblins.net",
+  "source": "craniocreations.com; Goblins.net; Board Game Review",
   "affidabilita": "secondaria",
   "mercato": "italia",
   "tipo": "editori",
   "date": "2026-10",
-  "brief": "Oil Rock di Marco Piola Caselli, Crossing Heroes, Minikin City, Planet Bee e Knock Twice; Ghenos porta The Old King's Crown.",
-  "rilevanza": "Mostra quali editori italiani investono su autori e titoli in uscita."
+  "brief": "Oil Rock di Marco Piola Caselli, Crossing Heroes, Minikin City, Planet Bee e Knock Twice; Ghenos porta The Old King's Crown. Una fonte cita anche Orcs Up!: titoli da riconfermare.",
+  "rilevanza": "Mostra su quali autori e titoli investono gli editori italiani."
+ },
+ {
+  "id": "gd-it-dv-villa",
+  "title": "dV Giochi pubblica 'Villa' di Emiliano Castellano",
+  "source": "Meeple Mountain",
+  "affidabilita": "segnale debole",
+  "mercato": "italia",
+  "tipo": "editori",
+  "date": "2026-10",
+  "brief": "Gioco di piazzamento tessere sulle siepi di un giardino di villa italiana, tra i più attesi di Essen secondo la lista di Meeple Mountain.",
+  "rilevanza": "Un autore italiano in una lista internazionale di anteprime."
  },
  {
   "id": "gd-it-combo",
@@ -18,73 +29,106 @@
   "mercato": "italia",
   "tipo": "fiere",
   "date": "2026-10",
-  "brief": "Prima edizione, 35 anteprime assolute.",
-  "rilevanza": "Occasione per incontrare editori italiani mentre molti sono a Essen."
+  "brief": "Evento milanese in contemporanea con Essen, occasione per incontrare editori italiani.",
+  "rilevanza": "Alternativa italiana a Essen per fare networking."
+ },
+ {
+  "id": "gd-it-lucca",
+  "title": "Lucca Comics & Games dal 28 ottobre al 1 novembre",
+  "source": "TicketOne",
+  "affidabilita": "secondaria",
+  "mercato": "italia",
+  "tipo": "fiere",
+  "date": "2026-10-28",
+  "brief": "Edizione del 60° anniversario con area giochi: occasione per vedere editori e catalogo.",
+  "rilevanza": "Evento principale per editori e autori in Italia."
  },
  {
   "id": "gd-it-archimede",
-  "title": "Premio Archimede 2027: bando per giochi inediti",
+  "title": "Premio Archimede 2027: bando online",
   "source": "Studiogiochi",
-  "affidabilita": "segnale debole",
+  "affidabilita": "secondaria",
   "mercato": "italia",
   "tipo": "concorsi",
-  "date": "2026",
-  "brief": "Concorso per autori che vogliono proporre giochi agli editori. Scadenze non verificate.",
-  "rilevanza": "Verifica i termini sul sito."
+  "date": "2026-01-10",
+  "brief": "Il bando per autori di giochi inediti che vogliono presentarli a editori è online dal 10 gennaio 2026; scadenze non lette.",
+  "rilevanza": "Canale diretto per presentare prototipi."
  },
  {
   "id": "gd-it-ideag",
-  "title": "IdeaG: date 2026 non confermate",
+  "title": "IdeaG: incontro autori, di norma a gennaio vicino a Parma",
   "source": "spieleautorenzunft.de",
   "affidabilita": "segnale debole",
   "mercato": "italia",
-  "tipo": "eventi",
-  "date": "2026",
-  "brief": "L'incontro di solito si tiene a metà gennaio vicino a Parma, ma non ho trovato date 2026.",
-  "rilevanza": "Controlla il sito ufficiale."
+  "tipo": "fiere",
+  "date": "non verificata",
+  "brief": "Date e luogo 2027 non reperiti; la fonte descrive l'incontro come annuale a metà gennaio con editori presenti.",
+  "rilevanza": "Da verificare sui canali ufficiali per prepararsi."
  },
  {
-  "id": "gd-int-essen",
-  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre con Asmodee nelle hall 5 e 7",
+  "id": "gd-it-yas",
+  "title": "Yas!Games svela i giochi da tavolo in arrivo a fine 2026",
+  "source": "Nerdgames",
+  "affidabilita": "segnale debole",
+  "mercato": "italia",
+  "tipo": "editori",
+  "date": "2026-10",
+  "brief": "Elenco dei titoli di fine anno. Dettagli e data esatta non letti.",
+  "rilevanza": "Cataloghi italiani in uscita."
+ },
+ {
+  "id": "gd-int-asmodee-essen",
+  "title": "Asmodee a SPIEL Essen: LOTR Circle of Conflict, LEGO Ninjago, linea GDR propria",
   "source": "Asmodee (comunicato 23 settembre)",
   "affidabilita": "primaria",
   "mercato": "estero",
-  "tipo": "fiere",
+  "tipo": "editori",
   "date": "2026-09-23",
-  "brief": "Asmodee mostra novità, tra cui The Lord of the Rings: Circle of Conflict.",
-  "rilevanza": "Un'altra occasione per proporre prototipi."
+  "brief": "Quasi 200 tavoli demo in otto zone tematiche; Circle of Conflict di Office Dog in anteprima.",
+  "rilevanza": "Segnala le licenze su cui punta il maggior gruppo."
  },
  {
-  "id": "gd-int-osprey",
-  "title": "Osprey Games: team licenziato e stand a Essen cancellato",
-  "source": "BoardGameWire",
+  "id": "gd-int-essen-numeri",
+  "title": "SPIEL Essen 22-25 ottobre: 935 espositori da 56 paesi",
+  "source": "spiel-essen.de",
+  "affidabilita": "secondaria",
+  "mercato": "estero",
+  "tipo": "fiere",
+  "date": "2026-10-22",
+  "brief": "Fiera aperta tra due giorni, con la stagione di annunci e licenze.",
+  "rilevanza": "Il momento dell'anno per incontrare editori."
+ },
+ {
+  "id": "gd-int-rpg-essen",
+  "title": "Essen 2026, novità GDR: casa per gli editori tedeschi",
+  "source": "teilzeithelden.de",
   "affidabilita": "secondaria",
   "mercato": "estero",
   "tipo": "editori",
-  "date": "2026-10-16",
-  "brief": "Bloomsbury cerca un acquirente per la linea giochi.",
-  "rilevanza": "Meno porte per i prototipi."
+  "date": "2026-10-18",
+  "brief": "Panoramica delle novità di ruolo, con la linea GDR di Asmodee (Arkham Horror, Star Wars).",
+  "rilevanza": "Chi disegna giochi di ruolo vede dove vanno i cataloghi."
  },
  {
-  "id": "gd-int-codenames",
-  "title": "Codenames per Netflix, sviluppato da CGE",
-  "source": "BoardGameWire",
+  "id": "gd-int-meeple",
+  "title": "I 21 giochi più attesi di Essen 2026",
+  "source": "Meeple Mountain",
   "affidabilita": "secondaria",
   "mercato": "estero",
-  "tipo": "licenze",
+  "tipo": "cataloghi",
   "date": "2026-10",
-  "brief": "Netflix ha chiesto una licenza e poi ha incaricato CGE.",
-  "rilevanza": "Le piattaforme cercano partner editoriali."
+  "brief": "Lista pre-fiera con titoli e editori, tra cui l'italiano Villa (dV Giochi). Data esatta non verificata.",
+  "rilevanza": "Mappa utile dei titoli in vetrina."
  },
  {
-  "id": "gd-nota",
-  "title": "Copertura parziale: meno di 20 notizie verificate",
-  "source": "ricerca odierna",
+  "id": "gd-int-colovini",
+  "title": "Roaring 20s di Leo Colovini premiato 'Must Play' da Tabletop Gaming",
+  "source": "Studiogiochi",
   "affidabilita": "segnale debole",
-  "mercato": "nota",
-  "tipo": "nota",
-  "date": "2026-10-19",
-  "brief": "Non ho trovato 10 + 10 notizie verificabili delle ultime 48 ore; ho tenuto solo quelle con fonte.",
-  "rilevanza": ""
+  "mercato": "estero",
+  "tipo": "recensioni",
+  "date": "2026",
+  "brief": "Recensione britannica del gioco di carte di Colovini. Data non letta.",
+  "rilevanza": "Visibilità estera per un autore italiano."
  }
 ]

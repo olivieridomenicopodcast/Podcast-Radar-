@@ -1,29 +1,47 @@
 [
  {
-  "id": "rb-2026-10-prerift",
-  "title": "Radiance: Pre-Rift dal 16 al 22 ottobre, uscita globale il 23 ottobre",
-  "source": "Riftbound Zone; playriftbound.com",
+  "id": "rb-2026-10-radiance-uscita",
+  "title": "Radiance esce il 23 ottobre; Pre-Rift fino al 22",
+  "source": "riftbound.zone; StarCityGames; playriftbound.com",
   "affidabilita": "secondaria",
-  "date": "2026-10-16",
-  "brief": "Gli eventi Pre-Rift durano fino al 22 ottobre e il lancio globale di Radiance è fissato al 23. Il regolamento base è aggiornato dal 16 ottobre con le nuove meccaniche e gli FAQ di Vendetta.",
-  "rilevanza": "Chi vuole le carte in anticipo deve iscriversi a un evento ora; rileggi il regolamento prima del torneo."
+  "date": "2026-10-23",
+  "brief": "Il quinto set, 180 carte e 9 nuove Legend (tra cui Ekko, Seraphine, Evelynn), esce in tutto il mondo il 23 ottobre. Gli eventi Pre-Rift durano fino al 22. Le anteprime sono finite il 9-10 ottobre.",
+  "rilevanza": "Se vuoi le carte in anticipo iscriviti a un Pre-Rift oggi o domani; per gli altri mancano tre giorni."
  },
  {
-  "id": "rb-2026-10-meta",
-  "title": "Meta pre-lancio: Kennen in testa nei dati Radiance, Vendetta con Irelia, Master Yi, Rengar e Kennen in Tier 1",
-  "source": "RiftDecks; riftbound.gg",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "RiftDecks mostra Kennen intorno al 13% di metashare, seguito da Riven e Jayce, con campioni piccoli. La tier list di riftbound.gg (circa 10 giorni fa) riguarda l'era Vendetta e dovrebbe cambiare poco prima del lancio.",
-  "rilevanza": "Numeri molto precoci: non costruire il mazzo solo su questi."
+  "id": "rb-2026-10-errata",
+  "title": "Errata e regolamento Radiance in vigore dal 16 ottobre: quattro carte toccate",
+  "source": "riftbound.gg; RiftCompare",
+  "affidabilita": "secondaria",
+  "date": "2026-10-09",
+  "brief": "Riot ha pubblicato il 9 ottobre patch del regolamento, errata per Elnuk Herd, Last Caress, Forbidden Technique e Neeko, Blending In, e changelog delle regole torneo, tutto attivo dal 16 ottobre. Riot precisa che non sono bilanciamenti.",
+  "rilevanza": "Rileggi le carte prima di giocare: le tue liste potrebbero comportarsi diversamente."
  },
  {
-  "id": "rb-2026-10-stoccarda",
-  "title": "Stoccarda 6-8 novembre: primo grande evento dell'era Radiance",
-  "source": "RiftCompare",
+  "id": "rb-2026-10-ban",
+  "title": "Banlist ferma al 18 settembre: Ekko, Recurrent e Stack the Deck",
+  "source": "riftbound.zone; mobalytics.gg; tracker di terzi (14 ottobre)",
+  "affidabilita": "secondaria",
+  "date": "2026-09-18",
+  "brief": "Gli ultimi ban in Standard e 2v2 restano Ekko, Recurrent e Stack the Deck dal 18 settembre. Un tracker del 14 ottobre dice che regole base e regole torneo di ottobre non cambiano la lista. Le fonti divergono su alcune date dei ban precedenti.",
+  "rilevanza": "Non aspettarti nuovi ban al lancio; controlla gli annunci Riot ufficiali prima dei tornei."
+ },
+ {
+  "id": "rb-2026-10-chase",
+  "title": "Carta chase di Radiance: Packed Amphitheater, rarità Ultimate Rare al 0,025%",
+  "source": "polkastarter.com; riftbound.zone",
   "affidabilita": "segnale debole",
   "date": "2026-10",
-  "brief": "Secondo RiftCompare il meta Radiance è ancora ignoto e Stoccarda sarà il primo vero test.",
-  "rilevanza": "Se segui il competitivo, aspetta i risultati prima di comprare singole."
+  "brief": "Il set introduce una nuova rarità collezionistica; la chase è Packed Amphitheater, un Battlefield, in circa 0,025% dei pack (una su quattromila). Dato da siti di terzi, non da Riot.",
+  "rilevanza": "Per chi colleziona: aspettative realistiche prima di aprire box."
+ },
+ {
+  "id": "rb-2026-10-meta-opinione",
+  "title": "Opinione: Trifarian Captain potrebbe aggirare il ban di Stack the Deck",
+  "source": "tcgtalk.com e commentatori",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Alcuni commentatori sostengono che la nuova Trifarian Captain scavi il mazzo in modo simile alla carta bannata. È un'opinione, non una posizione ufficiale Riot.",
+  "rilevanza": "Occhio al meta Kennen nelle prime settimane di Radiance."
  }
 ]
