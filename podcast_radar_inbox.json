@@ -1,5 +1,79 @@
 [
  {
+  "id": "podcast-2026-10-remote-rec-webinar",
+  "title": "Registrare da remoto: webinar Podnews sulle buone pratiche (20 ottobre)",
+  "source": "Podnews (calendario eventi)",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026-10-20",
+  "brief": "Podnews segnala per il 20 ottobre un webinar su 'Better Remote Recordings: Best Practices' con approfondimento su un registratore remoto. Il tema (ospiti in remoto, qualità audio) è uno dei punti dove i principianti sbagliano di più. Ho visto solo il listing, non il contenuto del webinar.",
+  "angles": [
+   "Ospite in remoto: i 3 errori che rovinano l'audio prima ancora di premere rec",
+   "Registrazione locale vs videochiamata: perché non registrare Zoom e basta",
+   "Checklist da mandare all'ospite prima dell'intervista"
+  ],
+  "hooks": [
+   "Hai un ospite in videochiamata e pensi di registrare direttamente Zoom? Ferma tutto.",
+   "Stai per intervistare qualcuno da remoto col microfono del portatile? L'audio ti ringrazierà, poco.",
+   "Hai invitato un ospite e non sai cosa dirgli per l'audio? Gli mandi tre righe, te le scrivo io."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-obe-vs-nielsen",
+  "title": "Ascoltatori di podcast in Italia: 15,5 milioni (OBE, 2025) contro 18,5 milioni (NielsenIQ per Audible, 2026)",
+  "source": "Il Sole 24 Ore (en); ItaliaOggi",
+  "affidabilita": "secondaria",
+  "target": 6,
+  "date": "2026-10",
+  "brief": "Due misurazioni diverse sullo stesso mercato: l'osservatorio OBE parla di 15,5 milioni nel 2025 (+2%), NielsenIQ per Audible di 18,5 milioni nel 2026 (+3%). Metodi e campioni non coincidono, quindi non vanno confrontati direttamente: l'indicazione solida è la crescita costante.",
+  "angles": [
+   "Quanti sono gli ascoltatori italiani? Perché due numeri diversi dicono la stessa cosa",
+   "Come leggere i dati sul podcast senza farsi vendere fumo",
+   "Il mercato cresce ma lentamente: cosa significa per chi parte ora"
+  ],
+  "hooks": [
+   "Hai letto che in Italia ascoltano podcast 15 milioni di persone, o 18? Hanno ragione entrambi.",
+   "Stai per aprire un podcast e ti chiedi se il mercato c'è? Due ricerche, due numeri, stessa risposta.",
+   "Ti hanno detto che il podcast in Italia è un boom? Cresce, ma del 2-3%, calma."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-24ore-hub",
+  "title": "24 ORE Podcast: un'unica casa per tutti i podcast del gruppo",
+  "source": "Gruppo 24 ORE (comunicato); Il Sole 24 Ore",
+  "affidabilita": "primaria",
+  "target": 4,
+  "date": "2026-01",
+  "brief": "Il Gruppo 24 ORE ha unificato i suoi podcast in un unico punto d'accesso (24orepodcast.com). Non è una notizia di oggi, ma mostra gli editori italiani che aggregano i podcast in hub di marca.",
+  "angles": [
+   "Gli editori italiani fanno hub: i podcast indipendenti come si differenziano?",
+   "Branded podcast: perché le aziende vogliono l'audio"
+  ],
+  "hooks": [
+   "Pensi che i podcast siano roba da indipendenti? I grossi editori stanno aprendo case apposta.",
+   "Hai un podcast piccolo e temi i grandi? Loro hanno un hub, tu hai una voce tua.",
+   "Ti chiedi se vale la pena fare podcast in Italia? Se lo fa il Sole 24 Ore, un motivo c'è."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-triton-q2",
+  "title": "USA: commedia in cima ai generi (44,5% di reach), news in crescita dell'8,4% (Triton Q2 2026)",
+  "source": "Triton Digital Q2 2026 US Podcast Ranker (via sintesi web)",
+  "affidabilita": "segnale debole",
+  "target": 4,
+  "date": "non verificata",
+  "brief": "Secondo la sintesi trovata, nel ranker Triton del secondo trimestre 2026 la commedia guida con il 44,5% di reach e le news salgono dell'8,4% con le elezioni di metà mandato. Non ho verificato la fonte primaria né la data esatta.",
+  "angles": [
+   "Quale genere scegliere: dati USA e cosa ci dicono sull'Italia",
+   "Nicchia o generalista? Come scegliere il tuo tema"
+  ],
+  "hooks": [
+   "Non sai che genere di podcast fare? In America vince chi fa ridere, ma da noi non è detto.",
+   "Stai copiando un genere perché va di moda? Guarda prima i dati, poi il tuo pubblico.",
+   "Hai un'idea di podcast e pensi che non interessi a nessuno? I dati dicono che ogni nicchia ha il suo pubblico."
+  ]
+ },
+ {
   "id": "podcast-2026-10-it-ascoltatori",
   "title": "Italia: 18,5 milioni di ascoltatori di podcast nel 2026 (+3%)",
   "source": "ItaliaOggi (dati NielsenIQ per Audible)",

@@ -1,5 +1,50 @@
 [
  {
+  "id": "rb-2026-10-lopez-ban",
+  "title": "Squalifica fino al 1 gennaio 2029 per Koko Lopez: barava con il mazzo runa",
+  "source": "riftbound.gg",
+  "affidabilita": "primaria",
+  "date": "2026-10-20",
+  "brief": "Riot ha escluso Koko Lopez dagli eventi ufficiali fino al 1 gennaio 2029: avrebbe impilato di proposito il mazzo runa al Regional Qualifier di Los Angeles del 26 settembre. Riot lo qualifica come cheating secondo il regolamento torneo. La data esatta della comunicazione è da riverificare sulla pagina.",
+  "rilevanza": "Segnale forte sul fatto che Riot fa rispettare le regole nei tornei: utile se giochi competitivo e fai shuffle in pubblico."
+ },
+ {
+  "id": "rb-2026-10-regional-policy",
+  "title": "Regional Championship: liste aperte, nuove regole sui premi e squalifica per concessioni illegali",
+  "source": "Star City Games",
+  "affidabilita": "secondaria",
+  "date": "2026-10-15",
+  "brief": "Riot ha aggiornato premi e policy: i Foil Plated Legend in eccesso dipenderanno dall'ordine di arrivo, nei Regional le liste saranno aperte e chi fa concessioni illegali o collusione rischia la squalifica.",
+  "rilevanza": "Cambia il modo di prepararsi ai Regional: le liste saranno pubbliche."
+ },
+ {
+  "id": "rb-2026-10-worlds-china",
+  "title": "Worlds Showcase in Cina a fine gennaio: 24 posti, 8 per ogni Regional Championship",
+  "source": "riftbound.zone",
+  "affidabilita": "secondaria",
+  "date": "2026-10-15",
+  "brief": "Riot ha annunciato un evento World Championship Showcase in Cina a fine gennaio con 24 posti, otto per ciascuno dei tre Regional Championship.",
+  "rilevanza": "Chiarisce quanti posti ci sono per il percorso competitivo."
+ },
+ {
+  "id": "rb-2026-10-roadmap-2027",
+  "title": "Roadmap 2027: Legacy il 29 gennaio (primo set pensato per il Draft), poi The Reckoning",
+  "source": "The Outer Haven; The Escapist",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Legacy esce il 29 gennaio 2027 ed è il primo set costruito attorno al Draft, con un crossover League of Legends Classic. Annunciato anche The Reckoning e un bundle 'Gift of the Rift' in vendita dal 4 dicembre 2026.",
+  "rilevanza": "Pianifica gli acquisti: il bundle natalizio arriva prima di Legacy."
+ },
+ {
+  "id": "rb-2026-10-digital",
+  "title": "Offerta di lavoro Riot fa ipotizzare un Riftbound digitale (non confermato)",
+  "source": "Sheep Esports",
+  "affidabilita": "segnale debole",
+  "date": "non verificata",
+  "brief": "Un annuncio di lavoro per un progetto non annunciato alimenta le voci su una versione digitale. Riot non ha confermato nulla.",
+  "rilevanza": "Solo speculazione, non farci piani."
+ },
+ {
   "id": "rb-2026-10-radiance-uscita",
   "title": "Radiance esce il 23 ottobre; Pre-Rift fino al 22",
   "source": "riftbound.zone; StarCityGames; playriftbound.com",

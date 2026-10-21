@@ -1,5 +1,37 @@
 [
  {
+  "id": "metal-2026-10-trivium",
+  "title": "Trivium: nuovo album 'Crown In The Grave' il 20 novembre",
+  "source": "Metal Hammer / Louder",
+  "affidabilita": "secondaria",
+  "date": "2026-10-09",
+  "brief": "Dopo il singolo 'Dead Inside Of Me', la band ha annunciato l'album per il 20 novembre. Più metal che metalcore. La notizia ha oltre 48 ore."
+ },
+ {
+  "id": "metal-2026-10-manowar",
+  "title": "Manowar a Bergamo il 26 e 27 marzo 2027: due serate, due album interi",
+  "source": "manowar.com; TicketOne",
+  "affidabilita": "primaria",
+  "date": "2026-07",
+  "brief": "ChorusLife Arena: il 26 'Kings of Metal', il 27 'Fighting The World' per intero. Biglietti in vendita da luglio 2026. Non è novità delle ultime 48 ore."
+ },
+ {
+  "id": "metal-2026-10-rhapsody",
+  "title": "Rhapsody of Fire headliner del Motocultor Across Europe Tour 2027 (7 gennaio-6 febbraio)",
+  "source": "mvp.de",
+  "affidabilita": "segnale debole",
+  "date": "non verificata",
+  "brief": "Con Serious Black. Non risulta confermata una data italiana."
+ },
+ {
+  "id": "metal-2026-10-wcar",
+  "title": "We Came as Romans: deluxe di 'All Is Beautiful... Because We're Doomed' il 6 novembre",
+  "source": "Wikipedia (non verificato altrove)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-06",
+  "brief": "Indicata un'edizione deluxe con singoli collegati; una sola fonte, da confermare."
+ },
+ {
   "id": "metal-2026-10-nessuna",
   "title": "Nessuna novità metal verificata datata nelle ultime 48 ore",
   "source": "ricerca odierna",
@@ -16,28 +48,12 @@
   "brief": "Uscita via Napalm Records, singolo 'Escapegoat'. L'annuncio risale a circa 6 giorni fa."
  },
  {
-  "id": "metal-2026-10-trivium",
-  "title": "Trivium annunciano 'Crown In The Grave'",
-  "source": "Blabbermouth",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Nuovo album annunciato con title track, circa 11 giorni fa; data di uscita non letta."
- },
- {
   "id": "metal-2026-10-forbidden",
   "title": "Forbidden: album omonimo venerdì 23 ottobre",
   "source": "Blabbermouth",
   "affidabilita": "secondaria",
   "date": "2026-07-22",
   "brief": "Annuncio di luglio, uscita tra tre giorni."
- },
- {
-  "id": "metal-2026-10-manowar",
-  "title": "Manowar a Bergamo, ChorusLife Arena, 26 e 27 marzo 2027",
-  "source": "manowar.com; TicketOne",
-  "affidabilita": "primaria",
-  "date": "2026-07-17",
-  "brief": "Una sera Kings of Metal, una Fighting the World, per intero. Unica pista italiana trovata."
  },
  {
   "id": "metal-2026-10-tour-ue",

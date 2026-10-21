@@ -1,5 +1,53 @@
 [
  {
+  "id": "ham-2026-10-newsline-2555",
+  "title": "Newsline 2555: nuove regole FCC sulla vendita online di apparati, e nuovo accordo NASA–ARISS di 4 anni",
+  "source": "Amateur Radio Newsline",
+  "affidabilita": "secondaria",
+  "date": "2026-10-16",
+  "brief": "Il bollettino del 16 ottobre riporta le nuove regole FCC sulla vendita online di elettronica, che hanno portato eBay a restringere le inserzioni di apparati trasmittenti (esenti quelli per sole bande radioamatoriali), e un nuovo accordo quadriennale NASA–ARISS."
+ },
+ {
+  "id": "ham-2026-10-cqww-ssb",
+  "title": "CQ WW DX SSB nel weekend 24-25 ottobre",
+  "source": "DX Zone; bollettini DX",
+  "affidabilita": "secondaria",
+  "date": "2026-10-24",
+  "brief": "Il contest SSB si tiene nell'ultimo weekend pieno di ottobre. Una fonte locale cita il 25-26: conferma date e orari sul regolamento ufficiale CQ prima di pianificare."
+ },
+ {
+  "id": "ham-2026-10-contest-dxzone",
+  "title": "Calendario ottobre: Oceania DX Phone/CW, Scandinavian Activity SSB, JARTS WW RTTY",
+  "source": "DX Zone",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Il calendario DX Zone elenca diversi contest in ottobre. Le date precise vanno verificate sui regolamenti."
+ },
+ {
+  "id": "ham-2026-10-dxpeditions",
+  "title": "DXpedition attive: HF0PAS (Shetland Meridionali) fino al 31 ottobre; in calendario KH8A e H49A",
+  "source": "DX Zone",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "HF0PAS è indicata attiva dal 1 maggio al 31 ottobre. KH8A (Samoa Americane) e H49A (Isole Salomone) compaiono nel calendario di ottobre: date di attività da verificare."
+ },
+ {
+  "id": "ham-2026-10-arrl-auction",
+  "title": "ARRL Online Auction: oltre 200 oggetti, chiude il 22 ottobre",
+  "source": "ARRL; nerfd.net",
+  "affidabilita": "secondaria",
+  "date": "2026-10-22",
+  "brief": "La 21ª asta online ARRL, sponsorizzata da GigaParts, resta aperta fino al 22 ottobre. Il ricavato va ai programmi educativi ARRL."
+ },
+ {
+  "id": "ham-2026-10-propagazione",
+  "title": "Propagazione: nessun bollettino aggiornato trovato oggi",
+  "source": "ricerca odierna",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-21",
+  "brief": "Non ho trovato una previsione di propagazione datata oggi. Controlla i dati solari NOAA SWPC direttamente."
+ },
+ {
   "id": "ham-2026-10-geomag",
   "title": "Tempesta geomagnetica G1 (Kp 5) prevista il 20 ottobre, 03-06 UTC",
   "source": "NOAA SWPC; EarthSky; srpske.rs",

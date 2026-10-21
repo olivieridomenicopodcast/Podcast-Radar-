@@ -1,5 +1,27 @@
 [
  {
+  "id": "gd-it-essen-board-dice",
+  "title": "Board&Dice a Essen con Entropy e Maestro (Leonardo vs Michelangelo)",
+  "source": "Giochi sul Nostro Tavolo; Goblins",
+  "affidabilita": "secondaria",
+  "mercato": "italia",
+  "tipo": "editori",
+  "date": "2026-10-19",
+  "brief": "Gli anteprime citano Maestro, ambientato nella competizione fra Leonardo e Michelangelo. Cranio Creations porta anche Drillers (mech in una miniera abbandonata).",
+  "rilevanza": "Cosa pubblicano gli editori italiani: temi storici italiani e giochi da fiera."
+ },
+ {
+  "id": "gd-int-essen-localizzazioni",
+  "title": "Essen 2026: Batusaki pubblica 'Cena', Devir 'Gaudì', Nanox 'Sixty Below'",
+  "source": "Goblins.net; uplay.it",
+  "affidabilita": "secondaria",
+  "mercato": "estero",
+  "tipo": "cataloghi",
+  "date": "2026-10",
+  "brief": "Cena (presa, di Masafumi Mizuno, Batusaki), Gaudì (Devir) e -60° (Nanox Games, circa 2 ore, 1-4 giocatori; disponibile dal 30/10 secondo uplay.it).",
+  "rilevanza": "Mappa di editori che accettano prese, eurogame e medio-pesanti."
+ },
+ {
   "id": "gd-it-essen-italiani",
   "title": "Cranio Creations a Essen con cinque titoli",
   "source": "craniocreations.com; Goblins.net; Board Game Review",

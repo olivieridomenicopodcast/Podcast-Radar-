@@ -1,5 +1,32 @@
 [
  {
+  "id": "nerd-2026-10-golden-demon",
+  "title": "Il Golden Demon europeo torna a SPIEL Essen",
+  "source": "spiel-essen.de (news)",
+  "affidabilita": "primaria",
+  "tipo": "fiera",
+  "date": "2026-10-19",
+  "brief": "La pagina news di SPIEL Essen annuncia il ritorno della competizione europea di pittura di miniature Golden Demon durante la fiera (22-25 ottobre). La data di pubblicazione è da riverificare sulla pagina."
+ },
+ {
+  "id": "nerd-2026-10-tcg-awards",
+  "title": "A SPIEL Essen debuttano i primi 'Global Industry Awards' per i giochi di carte collezionabili",
+  "source": "spiel-essen.de (news)",
+  "affidabilita": "primaria",
+  "tipo": "fiera",
+  "date": "2026-10",
+  "brief": "La fiera tedesca ospiterà la prima edizione di premi di settore dedicati ai TCG. Date e categorie dei premi non verificate."
+ },
+ {
+  "id": "nerd-2026-10-lucca-60",
+  "title": "Lucca Comics & Games 2026 (60°): dal 28 ottobre al 1 novembre, tema 'Legacy'",
+  "source": "lucca2026.luccacomicsandgames.com; TicketOne",
+  "affidabilita": "primaria",
+  "tipo": "fiera",
+  "date": "2026-10-28",
+  "brief": "Per il 60° anniversario tema 'Legacy'; mostre dal 3 ottobre. Tra gli ospiti annunciati Go Nagai, Frank Miller, Jonathan Hickman, Peach Momoko e Paco Roca. Ai possessori di biglietto è legata una carta Pikachu (data della notizia non verificata)."
+ },
+ {
   "id": "nerd-2026-10-essen",
   "title": "SPIEL Essen 2026 dal 22 al 25 ottobre",
   "source": "Asmodee (comunicato 23 settembre); Meeple Mountain; spiel-essen.de",
