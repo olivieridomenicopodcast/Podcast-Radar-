@@ -1,98 +1,42 @@
 [
  {
-  "id": "ham-2026-10-newsline-2555",
-  "title": "Newsline 2555: nuove regole FCC sulla vendita online di apparati, e nuovo accordo NASA–ARISS di 4 anni",
-  "source": "Amateur Radio Newsline",
-  "affidabilita": "secondaria",
-  "date": "2026-10-16",
-  "brief": "Il bollettino del 16 ottobre riporta le nuove regole FCC sulla vendita online di elettronica, che hanno portato eBay a restringere le inserzioni di apparati trasmittenti (esenti quelli per sole bande radioamatoriali), e un nuovo accordo quadriennale NASA–ARISS."
- },
- {
   "id": "ham-2026-10-cqww-ssb",
-  "title": "CQ WW DX SSB nel weekend 24-25 ottobre",
-  "source": "DX Zone; bollettini DX",
-  "affidabilita": "secondaria",
-  "date": "2026-10-24",
-  "brief": "Il contest SSB si tiene nell'ultimo weekend pieno di ottobre. Una fonte locale cita il 25-26: conferma date e orari sul regolamento ufficiale CQ prima di pianificare."
- },
- {
-  "id": "ham-2026-10-contest-dxzone",
-  "title": "Calendario ottobre: Oceania DX Phone/CW, Scandinavian Activity SSB, JARTS WW RTTY",
-  "source": "DX Zone",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Il calendario DX Zone elenca diversi contest in ottobre. Le date precise vanno verificate sui regolamenti."
- },
- {
-  "id": "ham-2026-10-dxpeditions",
-  "title": "DXpedition attive: HF0PAS (Shetland Meridionali) fino al 31 ottobre; in calendario KH8A e H49A",
-  "source": "DX Zone",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "HF0PAS è indicata attiva dal 1 maggio al 31 ottobre. KH8A (Samoa Americane) e H49A (Isole Salomone) compaiono nel calendario di ottobre: date di attività da verificare."
- },
- {
-  "id": "ham-2026-10-arrl-auction",
-  "title": "ARRL Online Auction: oltre 200 oggetti, chiude il 22 ottobre",
-  "source": "ARRL; nerfd.net",
-  "affidabilita": "secondaria",
-  "date": "2026-10-22",
-  "brief": "La 21ª asta online ARRL, sponsorizzata da GigaParts, resta aperta fino al 22 ottobre. Il ricavato va ai programmi educativi ARRL."
- },
- {
-  "id": "ham-2026-10-propagazione",
-  "title": "Propagazione: nessun bollettino aggiornato trovato oggi",
-  "source": "ricerca odierna",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-21",
-  "brief": "Non ho trovato una previsione di propagazione datata oggi. Controlla i dati solari NOAA SWPC direttamente."
- },
- {
-  "id": "ham-2026-10-geomag",
-  "title": "Tempesta geomagnetica G1 (Kp 5) prevista il 20 ottobre, 03-06 UTC",
-  "source": "NOAA SWPC; EarthSky; srpske.rs",
-  "affidabilita": "secondaria",
-  "date": "2026-10-20",
-  "brief": "Un flusso veloce da buco coronale dovrebbe causare condizioni G1 il 20, poi attenuarsi il 21. Una fonte minore dà Kp 4,7: dato discordante. Possibile degrado sui percorsi ad alta latitudine."
- },
- {
-  "id": "ham-2026-10-sfi",
-  "title": "Flusso solare alto: previsione SFI 135 per oggi e domani, 125 mercoledì",
-  "source": "PARSgram 19 ottobre; ARRL Solar Update 16 ottobre",
-  "affidabilita": "secondaria",
-  "date": "2026-10-19",
-  "brief": "Sunspot number e flusso 10,7 cm restano attorno o sopra 100, trainati dalla regione 4551, buono per le bande alte. ARRL avverte che l'attività calerà nel resto del mese."
- },
- {
-  "id": "ham-2026-10-cqww",
-  "title": "CQ WW DX SSB il 24-25 ottobre",
-  "source": "cqww.com; bollettino DX",
+  "title": "CQ WW SSB: 24-25 ottobre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica",
+  "source": "cqww.com (regolamento 2026)",
   "affidabilita": "primaria",
   "date": "2026-10-24",
-  "brief": "Contest SSB di fine mese, prossimo a una finestra di flusso solare alto. Il CW sarà il 28-29 novembre."
+  "brief": "Il weekend è quello del maggior contest SSB mondiale. Sei bande (160-10 m, escluse WARC), scambio rapporto + zona CQ. Contest imminente: occhio al QRM e alle bande affollate."
  },
  {
-  "id": "ham-2026-10-3b9",
-  "title": "3B9 (Rodrigues): operazione prima e dopo il contest, 20-28 ottobre",
-  "source": "bollettino DX (425 DX News)",
+  "id": "ham-2026-10-solar",
+  "title": "ARRL Solar Update del 16 ottobre: flusso solare sceso, atteso miglioramento delle bande alte",
+  "source": "ARRL; radio-propagation.net",
   "affidabilita": "secondaria",
-  "date": "2026-10-20",
-  "brief": "Operazioni come 3B9/nominativo tra il 20 e il 28 ottobre, QSL via LoTW. Dettagli dai bollettini, non verificati sul sito ufficiale."
+  "date": "2026-10-16",
+  "brief": "Flusso solare con picco a 136 il 13 ottobre, poi periodo con valori sotto 100 s.f.u.; l'aggiornamento prevede bande alte in miglioramento con flusso intorno o sopra 100. Snapshot del 16 ottobre: SFI 126, SN 95. Più vecchio di 48 ore: controlla i valori di oggi."
  },
  {
-  "id": "ham-2026-10-senegal",
-  "title": "Team italiano attivo dal Senegal dal 28 ottobre al 9 novembre",
-  "source": "bollettino DX",
+  "id": "ham-2026-10-10m",
+  "title": "10 metri al CQ WW: si dubita che andrà come l'anno scorso",
+  "source": "dx-world.net",
   "affidabilita": "segnale debole",
-  "date": "2026-10-28",
-  "brief": "Una spedizione italiana è annunciata dal Senegal; nominativo e modi non reperiti. Fonte unica."
+  "date": "2026-10-16",
+  "brief": "Un post prima del contest ritiene improbabile che i 10 m rendano come l'anno scorso, 'ma il CQWW crea la sua propagazione'. Opinione, fonte unica."
  },
  {
-  "id": "ham-2026-10-hf0pas",
-  "title": "HF0PAS, Isole Shetland Meridionali (AN-010), fino al 31 ottobre; S9R São Tomé fino al 31",
-  "source": "DXZone; DX-World",
+  "id": "ham-2026-10-fcc-rf",
+  "title": "FCC e HHS: nuovo procedimento sull'esposizione RF",
+  "source": "ARRL News",
   "affidabilita": "secondaria",
-  "date": "2026-10-17",
-  "brief": "HF0PAS è in calendario fino al 31 ottobre. S9R è già segnalato nei giorni scorsi (QO-100 e FT8). Più avanti VK9XY Christmas Island dal 16 novembre al 4 dicembre."
+  "date": "2026-09-25",
+  "brief": "L'ARRL elenca un nuovo procedimento FCC/HHS sull'esposizione a radiofrequenze; non ho visto il contenuto. Notizia vecchia, rilevante per le norme sulle stazioni."
+ },
+ {
+  "id": "ham-2026-10-rade",
+  "title": "ARRL: 'Will RADE Be the Next SSB?'",
+  "source": "ARRL News",
+  "affidabilita": "segnale debole",
+  "date": "2026-09-25",
+  "brief": "Articolo sul modo digitale RADE come possibile erede della fonia SSB. Ho visto solo il titolo. Non c'è novità di giornata."
  }
 ]

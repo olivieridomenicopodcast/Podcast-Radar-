@@ -1,74 +1,47 @@
 [
  {
-  "id": "nerd-2026-10-golden-demon",
-  "title": "Il Golden Demon europeo torna a SPIEL Essen",
-  "source": "spiel-essen.de (news)",
-  "affidabilita": "primaria",
-  "tipo": "fiera",
-  "date": "2026-10-19",
-  "brief": "La pagina news di SPIEL Essen annuncia il ritorno della competizione europea di pittura di miniature Golden Demon durante la fiera (22-25 ottobre). La data di pubblicazione è da riverificare sulla pagina."
- },
- {
-  "id": "nerd-2026-10-tcg-awards",
-  "title": "A SPIEL Essen debuttano i primi 'Global Industry Awards' per i giochi di carte collezionabili",
-  "source": "spiel-essen.de (news)",
-  "affidabilita": "primaria",
-  "tipo": "fiera",
-  "date": "2026-10",
-  "brief": "La fiera tedesca ospiterà la prima edizione di premi di settore dedicati ai TCG. Date e categorie dei premi non verificate."
- },
- {
-  "id": "nerd-2026-10-lucca-60",
-  "title": "Lucca Comics & Games 2026 (60°): dal 28 ottobre al 1 novembre, tema 'Legacy'",
-  "source": "lucca2026.luccacomicsandgames.com; TicketOne",
-  "affidabilita": "primaria",
-  "tipo": "fiera",
-  "date": "2026-10-28",
-  "brief": "Per il 60° anniversario tema 'Legacy'; mostre dal 3 ottobre. Tra gli ospiti annunciati Go Nagai, Frank Miller, Jonathan Hickman, Peach Momoko e Paco Roca. Ai possessori di biglietto è legata una carta Pikachu (data della notizia non verificata)."
- },
- {
-  "id": "nerd-2026-10-essen",
-  "title": "SPIEL Essen 2026 dal 22 al 25 ottobre",
-  "source": "Asmodee (comunicato 23 settembre); Meeple Mountain; spiel-essen.de",
-  "affidabilita": "primaria",
-  "tipo": "fiera",
+  "id": "nerd-2026-10-spiel-apre",
+  "title": "SPIEL Essen 2026 apre oggi: 22-25 ottobre, oltre 1.000 novità",
+  "source": "spiel-essen.de; Meeple Mountain",
+  "affidabilita": "secondaria",
   "date": "2026-10-22",
-  "brief": "Oltre 935 espositori da 56 paesi. Asmodee porta in anteprima The Lord of the Rings: Circle of Conflict (Office Dog) e LEGO Ninjago: Destiny's Bounty Adventures, e la sua linea di GDR sotto il proprio nome."
+  "brief": "La fiera di giochi da tavolo più grande al mondo apre oggi a Messe Essen. Meeple Mountain parla di quasi 1.300 giochi al debutto sul mercato europeo; Spielwarenmesse di 921 espositori da 53 paesi.",
+  "tipo": "fiera"
  },
  {
-  "id": "nerd-2026-10-lucca",
-  "title": "Lucca Comics & Games 2026: 28 ottobre-1 novembre, 60° anniversario, tema 'Legacy'",
-  "source": "TicketOne; CGMagazine",
+  "id": "nerd-2026-10-lucca-sega",
+  "title": "Lucca Comics & Games 2026 (28 ott-1 nov): SEGA e ATLUS portano tre anteprime nazionali",
+  "source": "Multiplayer.it; Techprincess",
   "affidabilita": "secondaria",
-  "tipo": "fiera",
-  "date": "2026-10-28",
-  "brief": "Poster firmato da Claudio Castellini; le mostre ufficiali aprono già dal 3 ottobre. Nel 2025 oltre 280mila biglietti venduti. Ospiti videogiochi (Kitase, Kamiya) e anteprime SEGA/ATLUS già segnalati."
+  "date": "2026-10",
+  "brief": "Alla Casermetta San Paolino: Alien: Isolation 2, il nuovo Stranger Than Heaven di RGG Studio e Persona 4 Revival; Metaphor: ReFantazio su Switch 2 giocabile. Data della notizia non verificata.",
+  "tipo": "fiera/videogioco"
  },
  {
-  "id": "nerd-2026-10-ravenloft",
-  "title": "D&D Ravenloft - Le Nebbie del Terrore in italiano dal 20 ottobre",
-  "source": "fonti di settore italiane",
+  "id": "nerd-2026-10-lucca-ospiti",
+  "title": "Lucca 60 anni: ospiti Kitase (Walk of Fame), Kamiya il 29 e 30 ottobre, Go Nagai, Frank Miller, Zerocalcare",
+  "source": "Multiplayer.it; Smartworld",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Tema 'Legacy'. Yoshinori Kitase è ospite d'onore legato a Final Fantasy VII Revelation. Mostre ufficiali aperte dal 3 ottobre. Elenco da fonti di presentazione, da confrontare col programma ufficiale.",
+  "tipo": "fiera"
+ },
+ {
+  "id": "nerd-2026-10-luke-clea",
+  "title": "Per i 60 anni Lucca lancia un videogioco gratuito: Luke & Clea (iOS e Android)",
+  "source": "Multiplayer.it",
   "affidabilita": "segnale debole",
-  "tipo": "annuncio gioco di ruolo",
-  "date": "2026-10-20",
-  "brief": "Una fonte indica l'uscita italiana ufficiale oggi. Non confermato da seconda fonte indipendente."
+  "date": "2026-10",
+  "brief": "Un gioco gratuito che ripercorre storia e valori della manifestazione. Fonte unica trovata, data non verificata.",
+  "tipo": "videogioco"
  },
  {
-  "id": "nerd-2026-10-asmodee-it",
-  "title": "Asmodee Italia ottobre: Star Wars Unlimited - Mondi di Origine e Lords of Waterdeep",
-  "source": "CorriereNerd",
+  "id": "nerd-2026-10-forest-shuffle",
+  "title": "Forest Shuffle – Smoky Mountains: Lookout porta a Essen il terzo standalone della serie",
+  "source": "Meeple Mountain / BGG",
   "affidabilita": "secondaria",
-  "tipo": "annuncio gioco da tavolo",
-  "date": "2026-10",
-  "brief": "Star Wars: Unlimited - Mondi di Origine esce il 9 ottobre e Lords of Waterdeep il 16, secondo il catalogo mensile."
- },
- {
-  "id": "nerd-2026-10-combo",
-  "title": "Combo Festival a Milano durante Essen, con oltre 40 editori",
-  "source": "Mentelocale; House of Games",
-  "affidabilita": "secondaria",
-  "tipo": "fiera",
-  "date": "2026-10",
-  "brief": "Evento milanese in contemporanea con Essen; circolano guide con circa 120 uscite tra Lucca e Combo."
+  "date": "2026-10-22",
+  "brief": "Lookout Games presenta a SPIEL il terzo gioco autonomo della serie Forest Shuffle.",
+  "tipo": "gioco da tavolo"
  }
 ]

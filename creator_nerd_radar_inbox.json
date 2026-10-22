@@ -4,35 +4,17 @@
   "title": "Nessuna notizia datata delle ultime 48 ore sui creator nerd italiani",
   "source": "ricerca odierna",
   "affidabilita": "segnale debole",
-  "date": "2026-10-21",
-  "brief": "Anche oggi nessun fatto verificabile nel periodo. I segnali sotto restano i più recenti trovati. Contesto: al festival Play 2026 sono stati indicati ospiti creator come Silvia 'Escilgioco' Fossati (caster Lorcana), Il Cigno NerD e Gianandrea Muià (InnTale).",
-  "rilevanza": "Meglio un vuoto onesto che notizie inventate."
+  "date": "2026-10-22",
+  "brief": "Nessun fatto verificabile nel periodo. Meglio un vuoto onesto che notizie inventate.",
+  "rilevanza": "Segnale debole: riprovare domani."
  },
  {
-  "id": "creator-2026-10-bgf",
-  "title": "Board Games Francesco in diretta YouTube lunedì 19 ottobre alle 21",
-  "source": "boardgamesfrancesco.it",
-  "affidabilita": "secondaria",
-  "date": "2026-10-19",
-  "brief": "Il blog annuncia una diretta sul proprio canale; argomento non letto.",
-  "rilevanza": "Esempio di live fissa come abitudine con la community."
- },
- {
-  "id": "creator-2026-10-houseofgames",
-  "title": "House of Games: guida a tutte le uscite di ottobre, Lucca e Combo 2026",
-  "source": "houseofgames.it; YouTube",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Video con circa 120 giochi tra uscite e anteprime. Data esatta non verificata.",
-  "rilevanza": "Format utile per capire cosa si aspettano i fan prima di Lucca."
- },
- {
-  "id": "creator-2026-10-gsnt",
-  "title": "Giochi sul Nostro Tavolo: recensioni del 16 e 17 ottobre",
-  "source": "canale Telegram Giochi sul Nostro Tavolo",
+  "id": "creator-2026-10-lucca-live",
+  "title": "Lucca Live Show su Twitch per cinque giorni: conducono Cydonia, Escilgioco, Claudio Di Biagio, Martina Levato e CKibe",
+  "source": "Twitch di Lucca Comics & Games",
   "affidabilita": "segnale debole",
-  "date": "2026-10-17",
-  "brief": "Tra le recensioni Avalon: The Riven Veil. Fonte unica.",
-  "rilevanza": "Mostra il ritmo di pubblicazione dei canali di recensione italiani."
+  "date": "2026-10",
+  "brief": "Dalla pagina Twitch ufficiale risultano questi conduttori per la copertura live. Data della scheda non verificata e anno da confermare.",
+  "rilevanza": "Mostra quali creator italiani l'evento sceglie come volti ufficiali."
  }
 ]

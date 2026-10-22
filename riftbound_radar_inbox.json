@@ -2,91 +2,37 @@
  {
   "id": "rb-2026-10-lopez-ban",
   "title": "Squalifica fino al 1 gennaio 2029 per Koko Lopez: barava con il mazzo runa",
-  "source": "riftbound.gg",
+  "source": "riftbound.gg; TheGamer",
   "affidabilita": "primaria",
   "date": "2026-10-20",
-  "brief": "Riot ha escluso Koko Lopez dagli eventi ufficiali fino al 1 gennaio 2029: avrebbe impilato di proposito il mazzo runa al Regional Qualifier di Los Angeles del 26 settembre. Riot lo qualifica come cheating secondo il regolamento torneo. La data esatta della comunicazione è da riverificare sulla pagina.",
-  "rilevanza": "Segnale forte sul fatto che Riot fa rispettare le regole nei tornei: utile se giochi competitivo e fai shuffle in pubblico."
+  "brief": "Riot ha escluso Koko Lopez dagli eventi ufficiali fino al 1 gennaio 2029: avrebbe impilato di proposito il mazzo runa al Regional Qualifier di Los Angeles del 26 settembre. Riot lo classifica come cheating e avverte che nuove violazioni possono portare a pene maggiori.",
+  "rilevanza": "Segnale forte sull'applicazione delle regole nei tornei: se giochi competitivo, mescola bene e in modo visibile."
  },
  {
-  "id": "rb-2026-10-regional-policy",
-  "title": "Regional Championship: liste aperte, nuove regole sui premi e squalifica per concessioni illegali",
-  "source": "Star City Games",
+  "id": "rb-2026-10-radiance",
+  "title": "Radiance in arrivo il 23 ottobre: nessun nuovo ban annunciato finora",
+  "source": "riftbound.zone (ban list)",
   "affidabilita": "secondaria",
-  "date": "2026-10-15",
-  "brief": "Riot ha aggiornato premi e policy: i Foil Plated Legend in eccesso dipenderanno dall'ordine di arrivo, nei Regional le liste saranno aperte e chi fa concessioni illegali o collusione rischia la squalifica.",
-  "rilevanza": "Cambia il modo di prepararsi ai Regional: le liste saranno pubbliche."
+  "date": "2026-10-14",
+  "brief": "Secondo il tracker, al 14 ottobre Riot non aveva annunciato ban per l'uscita di Radiance e l'aggiornamento delle regole torneo di ottobre non ha toccato la lista. Ultimo aggiornamento noto: 15 settembre, con Ekko, Recurrent e Stacked Deck bannati in Standard e 2v2 dal 18 settembre. Notizia più vecchia di 48 ore.",
+  "rilevanza": "Se costruisci un mazzo per Radiance, la lista ban resta quella di settembre, salvo novità dell'ultimo minuto."
  },
  {
-  "id": "rb-2026-10-worlds-china",
-  "title": "Worlds Showcase in Cina a fine gennaio: 24 posti, 8 per ogni Regional Championship",
+  "id": "rb-2026-10-buffed-legends",
+  "title": "Le Leggende più potenziate da Radiance (guida del 20 ottobre)",
+  "source": "riftbound.gg",
+  "affidabilita": "secondaria",
+  "date": "2026-10-20",
+  "brief": "Il sito pubblica un articolo sulle Leggende che guadagnano di più con Radiance. Ho visto solo il titolo nei risultati, non il contenuto.",
+  "rilevanza": "Utile per scegliere la Leggenda prima che escano le liste competitive."
+ },
+ {
+  "id": "rb-2026-10-regional-rules",
+  "title": "Regolamento Regional Championship: decklist aperte e nuovi premi (Stoccarda)",
   "source": "riftbound.zone",
-  "affidabilita": "secondaria",
-  "date": "2026-10-15",
-  "brief": "Riot ha annunciato un evento World Championship Showcase in Cina a fine gennaio con 24 posti, otto per ciascuno dei tre Regional Championship.",
-  "rilevanza": "Chiarisce quanti posti ci sono per il percorso competitivo."
- },
- {
-  "id": "rb-2026-10-roadmap-2027",
-  "title": "Roadmap 2027: Legacy il 29 gennaio (primo set pensato per il Draft), poi The Reckoning",
-  "source": "The Outer Haven; The Escapist",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Legacy esce il 29 gennaio 2027 ed è il primo set costruito attorno al Draft, con un crossover League of Legends Classic. Annunciato anche The Reckoning e un bundle 'Gift of the Rift' in vendita dal 4 dicembre 2026.",
-  "rilevanza": "Pianifica gli acquisti: il bundle natalizio arriva prima di Legacy."
- },
- {
-  "id": "rb-2026-10-digital",
-  "title": "Offerta di lavoro Riot fa ipotizzare un Riftbound digitale (non confermato)",
-  "source": "Sheep Esports",
-  "affidabilita": "segnale debole",
-  "date": "non verificata",
-  "brief": "Un annuncio di lavoro per un progetto non annunciato alimenta le voci su una versione digitale. Riot non ha confermato nulla.",
-  "rilevanza": "Solo speculazione, non farci piani."
- },
- {
-  "id": "rb-2026-10-radiance-uscita",
-  "title": "Radiance esce il 23 ottobre; Pre-Rift fino al 22",
-  "source": "riftbound.zone; StarCityGames; playriftbound.com",
-  "affidabilita": "secondaria",
-  "date": "2026-10-23",
-  "brief": "Il quinto set, 180 carte e 9 nuove Legend (tra cui Ekko, Seraphine, Evelynn), esce in tutto il mondo il 23 ottobre. Gli eventi Pre-Rift durano fino al 22. Le anteprime sono finite il 9-10 ottobre.",
-  "rilevanza": "Se vuoi le carte in anticipo iscriviti a un Pre-Rift oggi o domani; per gli altri mancano tre giorni."
- },
- {
-  "id": "rb-2026-10-errata",
-  "title": "Errata e regolamento Radiance in vigore dal 16 ottobre: quattro carte toccate",
-  "source": "riftbound.gg; RiftCompare",
-  "affidabilita": "secondaria",
-  "date": "2026-10-09",
-  "brief": "Riot ha pubblicato il 9 ottobre patch del regolamento, errata per Elnuk Herd, Last Caress, Forbidden Technique e Neeko, Blending In, e changelog delle regole torneo, tutto attivo dal 16 ottobre. Riot precisa che non sono bilanciamenti.",
-  "rilevanza": "Rileggi le carte prima di giocare: le tue liste potrebbero comportarsi diversamente."
- },
- {
-  "id": "rb-2026-10-ban",
-  "title": "Banlist ferma al 18 settembre: Ekko, Recurrent e Stack the Deck",
-  "source": "riftbound.zone; mobalytics.gg; tracker di terzi (14 ottobre)",
-  "affidabilita": "secondaria",
-  "date": "2026-09-18",
-  "brief": "Gli ultimi ban in Standard e 2v2 restano Ekko, Recurrent e Stack the Deck dal 18 settembre. Un tracker del 14 ottobre dice che regole base e regole torneo di ottobre non cambiano la lista. Le fonti divergono su alcune date dei ban precedenti.",
-  "rilevanza": "Non aspettarti nuovi ban al lancio; controlla gli annunci Riot ufficiali prima dei tornei."
- },
- {
-  "id": "rb-2026-10-chase",
-  "title": "Carta chase di Radiance: Packed Amphitheater, rarità Ultimate Rare al 0,025%",
-  "source": "polkastarter.com; riftbound.zone",
   "affidabilita": "segnale debole",
   "date": "2026-10",
-  "brief": "Il set introduce una nuova rarità collezionistica; la chase è Packed Amphitheater, un Battlefield, in circa 0,025% dei pack (una su quattromila). Dato da siti di terzi, non da Riot.",
-  "rilevanza": "Per chi colleziona: aspettative realistiche prima di aprire box."
- },
- {
-  "id": "rb-2026-10-meta-opinione",
-  "title": "Opinione: Trifarian Captain potrebbe aggirare il ban di Stack the Deck",
-  "source": "tcgtalk.com e commentatori",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Alcuni commentatori sostengono che la nuova Trifarian Captain scavi il mazzo in modo simile alla carta bannata. È un'opinione, non una posizione ufficiale Riot.",
-  "rilevanza": "Occhio al meta Kennen nelle prime settimane di Radiance."
+  "brief": "Riportate decklist aperte e nuovo prizing per i Regional, con regole pre-rift di Radiance e un test sul giocare per secondi. Fonte unica di terze parti, data esatta non verificata.",
+  "rilevanza": "Cambia come ci si prepara a un torneo: le liste saranno visibili."
  }
 ]

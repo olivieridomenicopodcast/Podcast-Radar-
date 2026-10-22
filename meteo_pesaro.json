@@ -1,42 +1,43 @@
 {
- "aggiornato": "2026-10-21",
+ "aggiornato": "2026-10-22",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
-  "https://www.meteo.it/meteo/pesaro-41044",
+  "https://www.3bmeteo.com/meteo/pesaro",
   "https://www.ilmeteo.it/meteo/pesaro",
-  "https://www.3bmeteo.com/meteo/pesaro"
+  "https://www.meteo.it/meteo/pesaro-41044",
+  "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723"
  ],
  "previsioni": [
-  {
-   "data": "2026-10-21",
-   "giorno": "mercoledì",
-   "temp_min_c": 17,
-   "temp_max_c": 23,
-   "condizioni": "peggioramento con pioggia leggera (meteo.it); probabilità di precipitazioni intorno al 57% (iLMeteo)",
-   "vento": "vento forte segnalato da meteo.it",
-   "mare": "dato non reperito",
-   "allerta": "meteo.it segnala avviso per pioggia e vento forte; verifica il bollettino di Protezione Civile Marche"
-  },
   {
    "data": "2026-10-22",
    "giorno": "giovedì",
    "temp_min_c": 13,
-   "temp_max_c": 18,
-   "condizioni": "prevalentemente soleggiato (meteo.it)",
-   "vento": "avviso per vento forte ancora presente (meteo.it)",
+   "temp_max_c": 19,
+   "condizioni": "parzialmente nuvoloso, senza pioggia (3BMeteo); 20% di pioggia (Meteoradar)",
+   "vento": "moderato da OSO al mattino, poi da NNO (3BMeteo)",
    "mare": "dato non reperito",
-   "allerta": "solo avviso vento forte"
+   "allerta": "nessuna allerta reperita"
   },
   {
    "data": "2026-10-23",
    "giorno": "venerdì",
-   "temp_min_c": 11,
+   "temp_min_c": 10,
    "temp_max_c": 20,
-   "condizioni": "cielo in gran parte nuvoloso",
+   "condizioni": "poco nuvoloso (3BMeteo)",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-10-24",
+   "giorno": "sabato",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "dato non reperito",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
   }
  ],
- "note": "Temperature di giovedì da iLMeteo (13-18); venerdì: iLMeteo 11-20 e meteo.it 12-19. Mercoledì 17-23 da iLMeteo. Dati da sintesi di ricerca, fonti non sempre concordi."
+ "note": "Dati da sintesi di ricerca di previsioni pubblicate il 20-21 ottobre: possono essere superati. Sabato non reperito. Fonti non sempre concordi sul vento."
 }
