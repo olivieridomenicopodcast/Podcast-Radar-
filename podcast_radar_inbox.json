@@ -1,96 +1,92 @@
 [
  {
-  "id": "podcast-2026-10-spotify-memberships",
-  "title": "Spotify rilancia le Memberships: badge nei commenti, livelli di accesso, email dei membri scaricabili",
-  "source": "Podnews (21 ottobre)",
+  "id": "podcast-2026-10-podnews-22",
+  "title": "Serial Productions e NYT lanciano \"METRO\" con Sarah Koenig; The Walrus annuncia un network podcast canadese",
+  "source": "Podnews (22 ottobre)",
   "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-10-21",
-  "brief": "Podnews riporta che Spotify ha ribattezzato e potenziato l'offerta Memberships: iscrizione più chiara in app, badge per i membri nei commenti, diversi livelli di accesso e la possibilità per i creator di scaricare le email dei membri. Ho visto solo il riassunto, non il comunicato Spotify.",
+  "target": 4,
+  "date": "2026-10-22",
+  "brief": "Podnews riporta il debutto di METRO, narrativa su New York a episodi quindicinali (primi due già online), e il network canadese The Walrus in arrivo nella primavera 2027, motivato dal fatto che solo il 43% dell'ascolto in Canada va a show prodotti lì. Letto solo il riassunto Podnews.",
   "angles": [
-   "Podcast gratis o a pagamento? Quando ha senso una membership e quando no",
-   "Cosa offrire ai membri senza lavorare il doppio",
-   "Perché avere le email del tuo pubblico conta più dei numeri di ascolto"
+   "Podcast narrativo: quanto lavoro di editing c'è dietro una serie \"solo parlata\"",
+   "Perché i network nascono quando il pubblico locale ascolta altrove"
   ],
   "hooks": [
-   "Hai 40 ascoltatori e già pensi di farli pagare? Facciamo due conti.",
-   "Vuoi monetizzare il podcast ma non sai nemmeno chi ti ascolta? Parti dalle email.",
-   "Hai un podcast e ti chiedono 'cosa ci guadagno se mi iscrivo'? Preparati la risposta."
+   "Pensi che un podcast narrativo sia solo registrare e parlare? Ti deludo subito.",
+   "Vuoi fare un podcast sulla tua città e ti chiedi chi lo ascolterà? Parti da qui.",
+   "Hai un microfono e una storia, ma non un metodo? Succede, ne parliamo."
   ]
  },
  {
-  "id": "podcast-2026-10-festival-podcasting-milano",
-  "title": "Festival del Podcasting 2026: decima edizione a Milano (2-3 ottobre), con giornata industry, video podcast e AI",
+  "id": "podcast-2026-10-iab-v23",
+  "title": "IAB Tech Lab chiude le Podcast Technical Measurement Guidelines v2.3",
+  "source": "rassegna di settore (via ricerca web)",
+  "affidabilita": "segnale debole",
+  "target": 3,
+  "date": "2026-10",
+  "brief": "Una rassegna di settore cita la versione 2.3 finalizzata delle linee guida IAB sulla misurazione dei podcast. Fonte unica, nessun dettaglio verificato sui cambiamenti.",
+  "angles": [
+   "Cosa significa \"download\" e \"ascolto\" quando fai numeri",
+   "Perché i numeri di un hosting non sono uguali a quelli di Spotify"
+  ],
+  "hooks": [
+   "Hai 100 download e non sai se sono 100 persone? Ti spiego il trucco.",
+   "Guardi le statistiche del tuo podcast e non ci capisci niente? Normale.",
+   "Hai pubblicato la prima puntata e fissi i numeri? Respira, partiamo da qui."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-festival-milano",
+  "title": "Festival del Podcasting 2026, decima edizione a Milano (2-3 ottobre): per la prima volta una giornata per brand e agenzie",
   "source": "Il Sole 24 Ore (en); Milano Finanza",
   "affidabilita": "secondaria",
   "target": 6,
   "date": "2026-10-02",
-  "brief": "La decima edizione si è tenuta a Cascina Triulza (MIND, Milano) il 2 e 3 ottobre, con workshop, Podcast Pitch, premi e per la prima volta una giornata dedicata a brand e agenzie. Temi: AI, contenuti multicanale, video podcast. Non è dell'ultima ora, ma è il segnale più recente sul podcasting italiano.",
+  "brief": "Alla decima edizione c'è una giornata dedicata a brand, aziende e agenzie; tra i temi video podcast e monetizzazione. Premio POD24 ai migliori podcast investigativi e di reportage indipendenti. Non è una notizia delle ultime 48 ore.",
   "angles": [
-   "Cosa dice l'industria italiana a chi sta partendo adesso",
-   "Video podcast in Italia: serve davvero o è una moda?",
-   "Come presentare un'idea di podcast in 3 minuti (il Pitch)"
+   "Il mercato italiano si sta spostando verso i brand: cosa cambia per un indipendente",
+   "Video podcast: serve davvero?"
   ],
   "hooks": [
-   "Hai un'idea di podcast e non sai come raccontarla? In Italia c'è un festival apposta.",
-   "Pensi che il podcast sia solo audio? Milano ti sta dicendo il contrario.",
-   "Vuoi fare un podcast per il tuo brand e ti perdi nei formati? Parti da qui."
+   "Hai un podcast e ti chiedi se un brand ti noterebbe? Dipende da una cosa sola.",
+   "Stai pensando di mettere la telecamera davanti al microfono? Aspetta un attimo.",
+   "Fai podcast da solo e senti che il mercato corre senza di te? Sposta lo sguardo."
   ]
  },
  {
-  "id": "podcast-2026-10-obe-vs-nielsen",
-  "title": "Ascoltatori di podcast in Italia: 15,5 milioni (OBE, 2025) contro 18,5 milioni (NielsenIQ per Audible, 2026)",
-  "source": "ItaliaOggi; Il Sole 24 Ore (en)",
+  "id": "podcast-2026-nielsen-italia",
+  "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026 (NielsenIQ per Audible), +3% sul 2025",
+  "source": "ItaliaOggi",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026",
+  "brief": "ItaliaOggi riporta 18,5 milioni di ascoltatori in Italia, crescita di circa il 3%. L'osservatorio OBE aggiunge che il 59% ricorda i branded podcast, ma il 42% ne trova alcuni troppo commerciali. Data esatta della pubblicazione non verificata.",
+  "angles": [
+   "Il pubblico italiano cresce piano: meglio nicchia che massa",
+   "Branded podcast: come non sembrare una pubblicità"
+  ],
+  "hooks": [
+   "Pensi di essere in ritardo per fare un podcast in Italia? Spoiler: no, il pubblico cresce ancora.",
+   "Vuoi un podcast per promuovere la tua attività e sei tentato dal parlare solo di te? Fermati.",
+   "Ti chiedi se in Italia ci sia ancora spazio? I numeri dicono di sì, ma non per tutti."
+  ]
+ },
+ {
+  "id": "podcast-2026-apple-hls",
+  "title": "Apple Podcasts passa al video in HLS: cambio audio/video senza interruzioni e download offline",
+  "source": "Podnews; Nieman Lab (febbraio 2026)",
   "affidabilita": "secondaria",
   "target": 6,
-  "date": "2026-10",
-  "brief": "Due misurazioni con metodologie diverse sullo stesso mercato: OBE parla di 15,5 milioni di ascoltatori nel 2025 (+2%, 6,2 milioni abituali), NielsenIQ per Audible di 18,5 milioni nel 2026 (circa +3%). Non sono numeri confrontabili direttamente. Data esatta di pubblicazione non verificata.",
+  "date": "2026-02",
+  "brief": "Apple porta il video HLS nell'app con passaggio fluido tra versione audio e video. Notizia di febbraio, non di giornata; inclusa come contesto per chi sceglie fra solo audio e video.",
   "angles": [
-   "Quanti ascoltatori servono davvero per 'avere successo' in Italia",
-   "Come leggere i dati di mercato senza farsi illudere",
-   "Il pubblico c'è: perché allora il tuo podcast non decolla?"
+   "Audio o video: come decidere senza impazzire",
+   "Cosa cambia per chi fa video podcast su Apple"
   ],
   "hooks": [
-   "Hai aperto un podcast e ti sembra che non lo ascolti nessuno? In Italia sono milioni, il problema è un altro.",
-   "Leggi 'milioni di ascoltatori' e pensi sia facile? Due fonti, due numeri diversi.",
-   "Hai un podcast da 30 ascolti e ti confronti coi numeri nazionali? Ferma."
-  ]
- },
- {
-  "id": "podcast-2026-10-apple-video-ai",
-  "title": "Apple Podcasts: passaggio audio/video con HLS e obbligo di dichiarare l'uso di AI generativa nei metadati",
-  "source": "Nieman Lab (riassunto di ricerca); linee guida Apple Podcasts",
-  "affidabilita": "segnale debole",
-  "target": 5,
-  "date": "non verificata",
-  "brief": "I risultati di ricerca riportano che Apple sta introducendo il passaggio fluido tra versione audio e video con HLS e richiede di dichiarare nei metadati di show ed episodio l'uso di AI per sintetizzare audio o video (linea guida 1.11). Data non verificata: tratta come contesto, non come notizia di giornata.",
-  "angles": [
-   "Se usi una voce AI o un clone, devi dichiararlo: come e dove",
-   "Video podcast: quando conviene pubblicare anche il video",
-   "Cosa cambia per chi pubblica su Apple Podcasts"
-  ],
-  "hooks": [
-   "Usi un po' di AI per ripulire l'audio e ti chiedi se devi dichiararlo? Dipende da cosa fa.",
-   "Hai solo audio e ti dicono che ormai serve il video? Calma, guardiamo i fatti.",
-   "Stai per pubblicare su Apple Podcasts con una voce sintetica? Leggi prima questa riga."
-  ]
- },
- {
-  "id": "podcast-2026-10-netflix-podcast-silenzio",
-  "title": "Netflix, nessuna menzione dei podcast nella lettera agli azionisti del Q3",
-  "source": "Podnews (21 ottobre)",
-  "affidabilita": "secondaria",
-  "target": 4,
-  "date": "2026-10-21",
-  "brief": "Podnews segnala che nella lettera agli azionisti e nella call sui conti del terzo trimestre Netflix non ha parlato di podcast. Va letto come assenza di segnale, non come notizia in sé: il video podcast si gioca ancora soprattutto su YouTube e Spotify.",
-  "angles": [
-   "Dove mettere il video del tuo podcast oggi: YouTube, Spotify o altro",
-   "Non inseguire ogni piattaforma: scegline una e fai bene"
-  ],
-  "hooks": [
-   "Hai un podcast video e non sai dove pubblicarlo? Non serve inseguire Netflix.",
-   "Ti dicono 'devi stare ovunque'? Ovunque è il modo più veloce per mollare.",
-   "Vuoi che il tuo podcast sia anche video ma hai un telefono e basta? Basta e avanza, parti da lì."
+   "Non sai se fare il podcast con o senza telecamera? Ti dico come scegliere.",
+   "Hai un microfono ma non hai voglia di farti vedere? Buone notizie, forse.",
+   "Stai per comprare una telecamera per il tuo podcast? Fermo, rileggi."
   ]
  }
 ]

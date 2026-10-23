@@ -1,42 +1,34 @@
 [
  {
   "id": "ham-2026-10-cqww-ssb",
-  "title": "CQ WW SSB: 24-25 ottobre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica",
+  "title": "CQ WW SSB: 24-25 ottobre, da sabato 00:00 UTC a domenica 23:59 UTC",
   "source": "cqww.com (regolamento 2026)",
   "affidabilita": "primaria",
   "date": "2026-10-24",
-  "brief": "Il weekend è quello del maggior contest SSB mondiale. Sei bande (160-10 m, escluse WARC), scambio rapporto + zona CQ. Contest imminente: occhio al QRM e alle bande affollate."
+  "brief": "Sei bande da 160 a 10 m (WARC escluse), scambio rapporto + zona CQ. Oltre 35.000 partecipanti attesi nel weekend. Il CW sarà il 28-29 novembre."
  },
  {
-  "id": "ham-2026-10-solar",
-  "title": "ARRL Solar Update del 16 ottobre: flusso solare sceso, atteso miglioramento delle bande alte",
-  "source": "ARRL; radio-propagation.net",
+  "id": "ham-2026-10-solar-outlook",
+  "title": "Previsioni NOAA/SWPC: flusso solare ~115-118, geomagnetico da quieto ad attivo",
+  "source": "spaceweatherlive (rapporti SWPC 19-20 ottobre)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-20",
+  "brief": "Per il 22 ottobre previsto SFI circa 115-118, sopra la media di 90 giorni (circa 116); probabilità di flare M intorno al 5%. Previsioni, non osservazioni: controlla i valori di oggi."
+ },
+ {
+  "id": "ham-2026-10-arrl-47",
+  "title": "ARRL Solar Update 47: attività solare attesa in calo nel resto del mese",
+  "source": "ARRL",
   "affidabilita": "secondaria",
   "date": "2026-10-16",
-  "brief": "Flusso solare con picco a 136 il 13 ottobre, poi periodo con valori sotto 100 s.f.u.; l'aggiornamento prevede bande alte in miglioramento con flusso intorno o sopra 100. Snapshot del 16 ottobre: SFI 126, SN 95. Più vecchio di 48 ore: controlla i valori di oggi."
+  "brief": "L'aggiornamento segnala un periodo di flusso basso che ha reso l'HF meno favorevole del solito per la stagione. Più vecchio di 48 ore."
  },
  {
-  "id": "ham-2026-10-10m",
-  "title": "10 metri al CQ WW: si dubita che andrà come l'anno scorso",
-  "source": "dx-world.net",
+  "id": "ham-2026-11-vk9xy",
+  "title": "DXpedition VK9XY Christmas Island: 16 novembre-4 dicembre 2026",
+  "source": "dxzone.com",
   "affidabilita": "segnale debole",
-  "date": "2026-10-16",
-  "brief": "Un post prima del contest ritiene improbabile che i 10 m rendano come l'anno scorso, 'ma il CQWW crea la sua propagazione'. Opinione, fonte unica."
- },
- {
-  "id": "ham-2026-10-fcc-rf",
-  "title": "FCC e HHS: nuovo procedimento sull'esposizione RF",
-  "source": "ARRL News",
-  "affidabilita": "secondaria",
-  "date": "2026-09-25",
-  "brief": "L'ARRL elenca un nuovo procedimento FCC/HHS sull'esposizione a radiofrequenze; non ho visto il contenuto. Notizia vecchia, rilevante per le norme sulle stazioni."
- },
- {
-  "id": "ham-2026-10-rade",
-  "title": "ARRL: 'Will RADE Be the Next SSB?'",
-  "source": "ARRL News",
-  "affidabilita": "segnale debole",
-  "date": "2026-09-25",
-  "brief": "Articolo sul modo digitale RADE come possibile erede della fonia SSB. Ho visto solo il titolo. Non c'è novità di giornata."
+  "date": "2026-10",
+  "brief": "Otto operatori giovani, 160-6 m, attivi per il CQWW CW. Fonte unica e dettagli non concordi."
  }
 ]

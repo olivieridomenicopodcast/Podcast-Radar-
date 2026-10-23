@@ -207,5 +207,49 @@
   "date": "2026-10-18",
   "brief": "Il gioco cooperativo di escape ha una pagina dedicata su Gamefound.",
   "rilevanza": "Esempio di editore che usa il crowdfunding."
+ },
+ {
+  "id": "gd-it-yas",
+  "title": "Yas!Games a Lucca 2026 con party game e Party Gamers stagione 3",
+  "source": "askanews; Nerdgames",
+  "affidabilita": "secondaria",
+  "mercato": "italia",
+  "tipo": "editori",
+  "date": "2026-10-19",
+  "brief": "Stand CAR 354 al Padiglione Carducci con novità party game.",
+  "rilevanza": "Editore italiano attivo sul party game."
+ },
+ {
+  "id": "gd-int-final-titan",
+  "title": "Final Titan di Nerdlab Games a Essen, in tedesco e inglese",
+  "source": "ricerca web (anteprime Essen)",
+  "affidabilita": "segnale debole",
+  "mercato": "estero",
+  "tipo": "editori",
+  "date": "2026-10-22",
+  "brief": "Gioco di draft e duello di dadi; edizione Ghost Galaxy a fine novembre secondo una sola fonte.",
+  "rilevanza": "Esempio di co-edizioni internazionali."
+ },
+ {
+  "id": "gd-int-entropy",
+  "title": "Entropy in edizione spagnola con Tranjis Games (originale Board&Dice)",
+  "source": "eltallerdelmodelista.com",
+  "affidabilita": "segnale debole",
+  "mercato": "estero",
+  "tipo": "localizzazioni",
+  "date": "2026-10",
+  "brief": "Localizzazione di un titolo di un editore italiano.",
+  "rilevanza": "Segnale di export di titoli italiani."
+ },
+ {
+  "id": "gd-int-tcg-awards",
+  "title": "SPIEL 2026: debuttano i TCG Awards",
+  "source": "Spielwarenmesse",
+  "affidabilita": "secondaria",
+  "mercato": "estero",
+  "tipo": "fiere",
+  "date": "2026-10-22",
+  "brief": "Prima edizione di premi per i giochi di carte collezionabili.",
+  "rilevanza": "La fiera si apre ai TCG."
  }
 ]

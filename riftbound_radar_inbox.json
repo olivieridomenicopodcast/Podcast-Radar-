@@ -1,38 +1,29 @@
 [
  {
-  "id": "rb-2026-10-lopez-ban",
-  "title": "Squalifica fino al 1 gennaio 2029 per Koko Lopez: barava con il mazzo runa",
-  "source": "riftbound.gg; TheGamer",
+  "id": "rb-2026-10-radiance-launch",
+  "title": "Radiance esce oggi, 23 ottobre: lancio globale in inglese, cinese semplificato e francese",
+  "source": "riftbound.gg; playriftbound.com",
+  "affidabilita": "secondaria",
+  "date": "2026-10-23",
+  "brief": "Dopo i Pre-Rift dal 16 al 22 ottobre, arriva il quinto set. Nuove meccaniche: Deploy, Show Off e Disarm. Prodotti: Showdown Deck a 34,99 $ e Vault con sei buste.",
+  "rilevanza": "Da oggi si può comprare e giocare il set nei negozi."
+ },
+ {
+  "id": "rb-2026-10-radiance-rules",
+  "title": "Regole base aggiornate per Radiance dal 16 ottobre",
+  "source": "riftbound.gg (Radiance core rules patch notes)",
   "affidabilita": "primaria",
-  "date": "2026-10-20",
-  "brief": "Riot ha escluso Koko Lopez dagli eventi ufficiali fino al 1 gennaio 2029: avrebbe impilato di proposito il mazzo runa al Regional Qualifier di Los Angeles del 26 settembre. Riot lo classifica come cheating e avverte che nuove violazioni possono portare a pene maggiori.",
-  "rilevanza": "Segnale forte sull'applicazione delle regole nei tornei: se giochi competitivo, mescola bene e in modo visibile."
+  "date": "2026-10-16",
+  "brief": "Il regolamento include le nuove meccaniche, gli aggiornamenti dalle FAQ di Vendetta e scenari su interazioni complesse.",
+  "rilevanza": "Leggi le patch notes prima del primo torneo: cambiano interazioni già note."
  },
  {
-  "id": "rb-2026-10-radiance",
-  "title": "Radiance in arrivo il 23 ottobre: nessun nuovo ban annunciato finora",
-  "source": "riftbound.zone (ban list)",
+  "id": "rb-2026-10-ban-status",
+  "title": "Lista ban Standard: nessuna modifica annunciata con Radiance",
+  "source": "Shonen TCG; Riot",
   "affidabilita": "secondaria",
-  "date": "2026-10-14",
-  "brief": "Secondo il tracker, al 14 ottobre Riot non aveva annunciato ban per l'uscita di Radiance e l'aggiornamento delle regole torneo di ottobre non ha toccato la lista. Ultimo aggiornamento noto: 15 settembre, con Ekko, Recurrent e Stacked Deck bannati in Standard e 2v2 dal 18 settembre. Notizia più vecchia di 48 ore.",
-  "rilevanza": "Se costruisci un mazzo per Radiance, la lista ban resta quella di settembre, salvo novità dell'ultimo minuto."
- },
- {
-  "id": "rb-2026-10-buffed-legends",
-  "title": "Le Leggende più potenziate da Radiance (guida del 20 ottobre)",
-  "source": "riftbound.gg",
-  "affidabilita": "secondaria",
-  "date": "2026-10-20",
-  "brief": "Il sito pubblica un articolo sulle Leggende che guadagnano di più con Radiance. Ho visto solo il titolo nei risultati, non il contenuto.",
-  "rilevanza": "Utile per scegliere la Leggenda prima che escano le liste competitive."
- },
- {
-  "id": "rb-2026-10-regional-rules",
-  "title": "Regolamento Regional Championship: decklist aperte e nuovi premi (Stoccarda)",
-  "source": "riftbound.zone",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Riportate decklist aperte e nuovo prizing per i Regional, con regole pre-rift di Radiance e un test sul giocare per secondi. Fonte unica di terze parti, data esatta non verificata.",
-  "rilevanza": "Cambia come ci si prepara a un torneo: le liste saranno visibili."
+  "date": "2026-10-23",
+  "brief": "Restano i ban di marzo, luglio e settembre (Ekko, Recurrent, Stacked Deck dal 18 settembre). Non ho trovato annunci di nuovi ban né analisi meta post-lancio.",
+  "rilevanza": "Costruisci su una lista che per ora non cambia."
  }
 ]

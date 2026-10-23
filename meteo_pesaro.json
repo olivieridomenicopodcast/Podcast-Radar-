@@ -1,29 +1,19 @@
 {
- "aggiornato": "2026-10-22",
+ "aggiornato": "2026-10-23",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.3bmeteo.com/meteo/pesaro",
-  "https://www.ilmeteo.it/meteo/pesaro",
   "https://www.meteo.it/meteo/pesaro-41044",
+  "https://www.meteopop.it/previsioni-meteo-per-pesaro/",
   "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723"
  ],
  "previsioni": [
-  {
-   "data": "2026-10-22",
-   "giorno": "giovedì",
-   "temp_min_c": 13,
-   "temp_max_c": 19,
-   "condizioni": "parzialmente nuvoloso, senza pioggia (3BMeteo); 20% di pioggia (Meteoradar)",
-   "vento": "moderato da OSO al mattino, poi da NNO (3BMeteo)",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta reperita"
-  },
   {
    "data": "2026-10-23",
    "giorno": "venerdì",
    "temp_min_c": 10,
    "temp_max_c": 20,
-   "condizioni": "poco nuvoloso (3BMeteo)",
+   "condizioni": "poco nuvoloso (3BMeteo, dato dell'aggiornamento precedente)",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
@@ -31,13 +21,23 @@
   {
    "data": "2026-10-24",
    "giorno": "sabato",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
+   "temp_min_c": 12,
+   "temp_max_c": 16,
+   "condizioni": "pioggia e schiarite, deboli piogge dal pomeriggio, circa 2 mm (3BMeteo); Meteopop 11-21 °C; MeteoRadar probabilità pioggia 60% con temporale da NO",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-10-25",
+   "giorno": "domenica",
+   "temp_min_c": 10,
+   "temp_max_c": 16,
+   "condizioni": "nubi sparse, senza pioggia (3BMeteo); MeteoRadar sole con 10% di pioggia",
+   "vento": "dato non reperito",
+   "mare": "Forza 5 agitato (meteo.it)",
+   "allerta": "nessuna allerta reperita (3BMeteo)"
   }
  ],
- "note": "Dati da sintesi di ricerca di previsioni pubblicate il 20-21 ottobre: possono essere superati. Sabato non reperito. Fonti non sempre concordi sul vento."
+ "note": "Fonti non concordi sul sabato. Venerdì ripreso dal dato precedente. Verifica a ridosso."
 }

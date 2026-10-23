@@ -1,47 +1,38 @@
 [
  {
-  "id": "nerd-2026-10-spiel-apre",
-  "title": "SPIEL Essen 2026 apre oggi: 22-25 ottobre, oltre 1.000 novità",
-  "source": "spiel-essen.de; Meeple Mountain",
+  "id": "nerd-2026-10-spiel",
+  "title": "SPIEL Essen 2026 (22-25 ottobre): per la prima volta occupa tutti e otto i padiglioni",
+  "source": "Spielwarenmesse; Meeple Mountain",
   "affidabilita": "secondaria",
   "date": "2026-10-22",
-  "brief": "La fiera di giochi da tavolo più grande al mondo apre oggi a Messe Essen. Meeple Mountain parla di quasi 1.300 giochi al debutto sul mercato europeo; Spielwarenmesse di 921 espositori da 53 paesi.",
+  "brief": "921 espositori da 53 paesi, oltre 1.500 novità attese (altre fonti parlano di circa 1.700). Debuttano i TCG Awards e un'arena laser tag di Warhammer 40,000 con Games Workshop.",
   "tipo": "fiera"
  },
  {
-  "id": "nerd-2026-10-lucca-sega",
-  "title": "Lucca Comics & Games 2026 (28 ott-1 nov): SEGA e ATLUS portano tre anteprime nazionali",
-  "source": "Multiplayer.it; Techprincess",
+  "id": "nerd-2026-10-lucca",
+  "title": "Lucca Comics & Games 2026: 28 ottobre-1 novembre, sessantesima edizione, tema \"Legacy\"",
+  "source": "TicketOne; Senal News",
   "affidabilita": "secondaria",
   "date": "2026-10",
-  "brief": "Alla Casermetta San Paolino: Alien: Isolation 2, il nuovo Stranger Than Heaven di RGG Studio e Persona 4 Revival; Metaphor: ReFantazio su Switch 2 giocabile. Data della notizia non verificata.",
-  "tipo": "fiera/videogioco"
- },
- {
-  "id": "nerd-2026-10-lucca-ospiti",
-  "title": "Lucca 60 anni: ospiti Kitase (Walk of Fame), Kamiya il 29 e 30 ottobre, Go Nagai, Frank Miller, Zerocalcare",
-  "source": "Multiplayer.it; Smartworld",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Tema 'Legacy'. Yoshinori Kitase è ospite d'onore legato a Final Fantasy VII Revelation. Mostre ufficiali aperte dal 3 ottobre. Elenco da fonti di presentazione, da confrontare col programma ufficiale.",
+  "brief": "Ospiti annunciati tra cui Frank Miller e Go Nagai. Dettagli sui videogiochi in anteprima non verificati in questa ricerca: vedi programma ufficiale.",
   "tipo": "fiera"
  },
  {
-  "id": "nerd-2026-10-luke-clea",
-  "title": "Per i 60 anni Lucca lancia un videogioco gratuito: Luke & Clea (iOS e Android)",
-  "source": "Multiplayer.it",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Un gioco gratuito che ripercorre storia e valori della manifestazione. Fonte unica trovata, data non verificata.",
-  "tipo": "videogioco"
+  "id": "nerd-2026-10-yas",
+  "title": "Yas!Games torna a Lucca con novità, party game e terza stagione di Party Gamers",
+  "source": "askanews (19 ottobre); Nerdgames",
+  "affidabilita": "secondaria",
+  "date": "2026-10-19",
+  "brief": "Stand CAR 354 al Padiglione Carducci; con loro creator e ospiti dello spettacolo.",
+  "tipo": "gioco da tavolo/fiera"
  },
  {
-  "id": "nerd-2026-10-forest-shuffle",
-  "title": "Forest Shuffle – Smoky Mountains: Lookout porta a Essen il terzo standalone della serie",
-  "source": "Meeple Mountain / BGG",
+  "id": "nerd-2026-10-sdj",
+  "title": "Spiel des Jahres 2026 a \"Dito!\" di Martin Ang (Game Factory)",
+  "source": "gamesmarket.global",
   "affidabilita": "secondaria",
-  "date": "2026-10-22",
-  "brief": "Lookout Games presenta a SPIEL il terzo gioco autonomo della serie Forest Shuffle.",
+  "date": "2026",
+  "brief": "Premio annunciato prima della fiera; non è una notizia delle ultime 48 ore.",
   "tipo": "gioco da tavolo"
  }
 ]
