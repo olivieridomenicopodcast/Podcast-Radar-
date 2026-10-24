@@ -1,5 +1,27 @@
 [
  {
+  "id": "gd-2026-10-essen-ita",
+  "title": "SPIEL Essen 2026: gli editori italiani in fiera, tra anteprime e matchmaking per professionisti",
+  "source": "Combo Festival / Spielwarenmesse",
+  "affidabilita": "secondaria",
+  "mercato": "internazionale",
+  "tipo": "fiere",
+  "date": "2026-10-22",
+  "brief": "Essen 22-25 ottobre con app ufficiale dotata di business matchmaking per professionisti. Per gli autori è la finestra per incontrare editori; ho trovato elenchi italiani solo parziali.",
+  "rilevanza": "Occasione di pitch per autori che sono a Essen."
+ },
+ {
+  "id": "gd-2026-10-ideag",
+  "title": "IdeaG: nessuna notizia 2026 trovata",
+  "source": "spieleautorenzunft.de",
+  "affidabilita": "segnale debole",
+  "mercato": "italia",
+  "tipo": "eventi",
+  "date": "2026-10-24",
+  "brief": "Non ho trovato date 2026 per IdeaG. In passato si tiene a Parma (la 18ª edizione era 1-2 aprile 2023, organizzata da SAZ Italia). Da verificare su idea-g.it.",
+  "rilevanza": "Da controllare per pianificare pitch ai publisher."
+ },
+ {
   "id": "gd-it-board-dice",
   "title": "Board&Dice a Essen con Maestro, Entropy e Thessaloniki (co-design di Daniele Tascini)",
   "source": "Giochi sul Nostro Tavolo; Goblins; Meeple Mountain",
@@ -9,61 +31,6 @@
   "date": "2026-10-19",
   "brief": "Maestro è ambientato nella rivalità fra Leonardo e Michelangelo. Board&Dice porta anche Entropy e Thessaloniki.",
   "rilevanza": "Un editore italiano con autori italiani di peso in vetrina a Essen."
- },
- {
-  "id": "gd-it-creardo-tatanka",
-  "title": "Tatanka di Danilo Sabia portato a Essen da Creardo",
-  "source": "Goblins",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "autori",
-  "date": "2026-10",
-  "brief": "Gioco per 1-4 giocatori, 70-90 minuti, di un autore italiano.",
-  "rilevanza": "Esempio di autore italiano pubblicato in fiera."
- },
- {
-  "id": "gd-it-dv-black-flag",
-  "title": "Black Flag! di Emiliano Sciarra, edito da DV Games",
-  "source": "Goblins",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "autori",
-  "date": "2026-10",
-  "brief": "Gioco a ruoli nascosti per 4-8 giocatori, circa 30 minuti.",
-  "rilevanza": "Filler sociale di un autore italiano: tipologia richiesta dagli editori."
- },
- {
-  "id": "gd-it-devir-shugendo",
-  "title": "Shugendo di Alessandro Cuneo e Simone Luciani (Devir)",
-  "source": "Goblins",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "autori",
-  "date": "2026-10",
-  "brief": "Per 2-4 giocatori, 50-60 minuti. Autori italiani pubblicati da editore spagnolo.",
-  "rilevanza": "Mostra la via 'autore italiano, editore estero'."
- },
- {
-  "id": "gd-it-wireless",
-  "title": "Wireless di Niccolini e Canetta (1-4 giocatori)",
-  "source": "Goblins",
-  "affidabilita": "segnale debole",
-  "mercato": "italia",
-  "tipo": "autori",
-  "date": "2026-10",
-  "brief": "Gli autori tornano a Essen dopo Kingdom Crossing dell'anno scorso. Un solo blog come fonte.",
-  "rilevanza": "Percorso di autori ripetuti sul mercato."
- },
- {
-  "id": "gd-it-archimede",
-  "title": "Premio Archimede 2027: iscrizione entro il 28 febbraio 2027, premiazione a Venezia a metà settembre",
-  "source": "Studiogiochi",
-  "affidabilita": "primaria",
-  "mercato": "italia",
-  "tipo": "concorsi",
-  "date": "2026-01",
-  "brief": "Concorso per giochi inediti, aperto a chiunque senza limiti di età o residenza. Il bando è online da gennaio, contatto archimede@studiogiochi.com.",
-  "rilevanza": "Scadenza concreta per chi ha un prototipo."
  },
  {
   "id": "gd-it-ideag",
@@ -77,28 +44,6 @@
   "rilevanza": "Da verificare direttamente sul sito dell'evento."
  },
  {
-  "id": "gd-it-uplay",
-  "title": "Uplay, Goblins e LSGiochi pubblicano gli speciali Essen 2026",
-  "source": "Uplay; LSGiochi; Goblins",
-  "affidabilita": "secondaria",
-  "mercato": "italia",
-  "tipo": "cataloghi",
-  "date": "2026-10",
-  "brief": "Elenchi di novità consultabili per vedere cosa portano gli editori italiani e quali formati dominano.",
-  "rilevanza": "Utile come mappa dei cataloghi."
- },
- {
-  "id": "gd-it-volpe",
-  "title": "SPIEL Essen 2026: 6 titoli che raccontano storie (Volpe Giocosa)",
-  "source": "Volpe Giocosa",
-  "affidabilita": "segnale debole",
-  "mercato": "italia",
-  "tipo": "recensioni",
-  "date": "2026-10",
-  "brief": "Selezione di giochi con forte componente narrativa.",
-  "rilevanza": "Tendenza narrativa letta da un blog italiano."
- },
- {
   "id": "gd-int-spiel-apre",
   "title": "SPIEL Essen apre il 22 ottobre: quasi 1.300 debutti europei",
   "source": "Meeple Mountain; Spielwarenmesse",
@@ -110,17 +55,6 @@
   "rilevanza": "È il momento in cui si vedono i cataloghi esteri."
  },
  {
-  "id": "gd-int-sdj",
-  "title": "Spiel des Jahres 2026: 'Dito!' di Martin Ang (Game Factory)",
-  "source": "spiel-essen.de",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "premi",
-  "date": "2026",
-  "brief": "Elencato nella pagina news della fiera come vincitore. Data dell'assegnazione non verificata.",
-  "rilevanza": "Indica cosa premia la critica tedesca."
- },
- {
   "id": "gd-int-forest-shuffle",
   "title": "Forest Shuffle – Smoky Mountains: terzo standalone",
   "source": "Meeple Mountain",
@@ -130,83 +64,6 @@
   "date": "2026-10-22",
   "brief": "Lookout Games lo porta a SPIEL.",
   "rilevanza": "Esempio di espansione di brand con serie di standalone."
- },
- {
-  "id": "gd-int-albi",
-  "title": "ALBI: la più grande presenza della sua storia a Essen",
-  "source": "albi.eu",
-  "affidabilita": "primaria",
-  "mercato": "estero",
-  "tipo": "editori",
-  "date": "2026-10",
-  "brief": "L'editore ha annunciato la sua presenza più ampia di sempre.",
-  "rilevanza": "Segnale di crescita di un editore centro-europeo."
- },
- {
-  "id": "gd-int-medico",
-  "title": "Medico di Stefan Feld: pick-up and delivery medievale, 2-4 giocatori, 90 minuti",
-  "source": "Goblins",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "autori",
-  "date": "2026-10",
-  "brief": "Barbieri-medici itineranti nel Medioevo.",
-  "rilevanza": "Autore famoso in un genere di mercato."
- },
- {
-  "id": "gd-int-cena",
-  "title": "Cena di Masafumi Mizuno (Batusaki): gioco di prese per 3-5, circa mezz'ora",
-  "source": "Goblins",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "autori",
-  "date": "2026-10",
-  "brief": "Gioco di prese di un autore giapponese.",
-  "rilevanza": "Formato breve e leggero."
- },
- {
-  "id": "gd-int-age-innovation",
-  "title": "Age of Innovation: Future & Past di Helge Ostertag",
-  "source": "Goblins",
-  "affidabilita": "segnale debole",
-  "mercato": "estero",
-  "tipo": "espansioni",
-  "date": "2026-10",
-  "brief": "Prima espansione del gioco. Un solo blog come fonte.",
-  "rilevanza": "Espansione di un titolo già forte."
- },
- {
-  "id": "gd-int-greenwood",
-  "title": "Greenwood di Giannakoulas e Zachariadis, titolo di punta di Feuerland Spiele",
-  "source": "Goblins",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "editori",
-  "date": "2026-10",
-  "brief": "Il gioco è il principale della casa tedesca per questa Essen.",
-  "rilevanza": "Strategia di punta di un editore indipendente."
- },
- {
-  "id": "gd-int-sixty-below",
-  "title": "-60° (Sixty Below) di Pfister e Prinz, Nanox e DLP Games, disponibile dal 30/10/2026",
-  "source": "Goblins",
-  "affidabilita": "segnale debole",
-  "mercato": "estero",
-  "tipo": "editori",
-  "date": "2026-10",
-  "brief": "Titolo in preordine.",
-  "rilevanza": "Co-edizione tra due editori."
- },
- {
-  "id": "gd-int-sound-of-drums",
-  "title": "Sound of Drums sposta The Great Escape su Gamefound",
-  "source": "The Boardgames Chronicle",
-  "affidabilita": "secondaria",
-  "mercato": "estero",
-  "tipo": "crowdfunding",
-  "date": "2026-10-18",
-  "brief": "Il gioco cooperativo di escape ha una pagina dedicata su Gamefound.",
-  "rilevanza": "Esempio di editore che usa il crowdfunding."
  },
  {
   "id": "gd-it-yas",
@@ -229,17 +86,6 @@
   "date": "2026-10-22",
   "brief": "Gioco di draft e duello di dadi; edizione Ghost Galaxy a fine novembre secondo una sola fonte.",
   "rilevanza": "Esempio di co-edizioni internazionali."
- },
- {
-  "id": "gd-int-entropy",
-  "title": "Entropy in edizione spagnola con Tranjis Games (originale Board&Dice)",
-  "source": "eltallerdelmodelista.com",
-  "affidabilita": "segnale debole",
-  "mercato": "estero",
-  "tipo": "localizzazioni",
-  "date": "2026-10",
-  "brief": "Localizzazione di un titolo di un editore italiano.",
-  "rilevanza": "Segnale di export di titoli italiani."
  },
  {
   "id": "gd-int-tcg-awards",

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-23",
+ "aggiornato": "2026-10-24",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.3bmeteo.com/meteo/pesaro",
@@ -8,16 +8,6 @@
   "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723"
  ],
  "previsioni": [
-  {
-   "data": "2026-10-23",
-   "giorno": "venerdì",
-   "temp_min_c": 10,
-   "temp_max_c": 20,
-   "condizioni": "poco nuvoloso (3BMeteo, dato dell'aggiornamento precedente)",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta reperita"
-  },
   {
    "data": "2026-10-24",
    "giorno": "sabato",
@@ -39,5 +29,5 @@
    "allerta": "nessuna allerta reperita (3BMeteo)"
   }
  ],
- "note": "Fonti non concordi sul sabato. Venerdì ripreso dal dato precedente. Verifica a ridosso."
+ "note": "Ricerca odierna senza nuovi dati affidabili per Pesaro: valori del 24 e 25 ripresi dall'aggiornamento precedente, il 26 non reperito. Fonti non concordi sul sabato. Verifica a ridosso."
 }

@@ -1,5 +1,21 @@
 [
  {
+  "id": "ham-2026-10-6w-senegal",
+  "title": "Italian DXpedition Team in Senegal (6W) dal 28 ottobre al 9 novembre",
+  "source": "425 DX News",
+  "affidabilita": "secondaria",
+  "date": "2026-09",
+  "brief": "Il team italiano (IV3FSG, I1FQH, I1HJT, I2PJA, I2YSB, IK2AQZ, IK2CKR, IK2HKT) sarà attivo come 6W. Annuncio di settembre, una sola fonte letta."
+ },
+ {
+  "id": "ham-2026-10-solar-16",
+  "title": "ARRL Solar Update 16 ottobre: flusso solare attorno o sopra 100, attesi 10 e 12 m migliori",
+  "source": "ARRL (K7RA Solar Update)",
+  "affidabilita": "primaria",
+  "date": "2026-10-16",
+  "brief": "Numero di macchie e flusso 10,7 cm intorno o sopra 100, dovuto soprattutto alla regione 4551. Il previsore W3LPL vede DX molto migliorato su 10 e 12 m per circa 10 giorni; OK1HH prevede però attività in calo per il resto di ottobre. Dato non di oggi: verifica l'ultimo bollettino."
+ },
+ {
   "id": "ham-2026-10-cqww-ssb",
   "title": "CQ WW SSB: 24-25 ottobre, da sabato 00:00 UTC a domenica 23:59 UTC",
   "source": "cqww.com (regolamento 2026)",
@@ -14,21 +30,5 @@
   "affidabilita": "secondaria",
   "date": "2026-10-20",
   "brief": "Per il 22 ottobre previsto SFI circa 115-118, sopra la media di 90 giorni (circa 116); probabilità di flare M intorno al 5%. Previsioni, non osservazioni: controlla i valori di oggi."
- },
- {
-  "id": "ham-2026-10-arrl-47",
-  "title": "ARRL Solar Update 47: attività solare attesa in calo nel resto del mese",
-  "source": "ARRL",
-  "affidabilita": "secondaria",
-  "date": "2026-10-16",
-  "brief": "L'aggiornamento segnala un periodo di flusso basso che ha reso l'HF meno favorevole del solito per la stagione. Più vecchio di 48 ore."
- },
- {
-  "id": "ham-2026-11-vk9xy",
-  "title": "DXpedition VK9XY Christmas Island: 16 novembre-4 dicembre 2026",
-  "source": "dxzone.com",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Otto operatori giovani, 160-6 m, attivi per il CQWW CW. Fonte unica e dettagli non concordi."
  }
 ]

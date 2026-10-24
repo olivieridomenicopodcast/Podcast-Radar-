@@ -1,5 +1,32 @@
 [
  {
+  "id": "rift-2026-10-radiance-errata",
+  "title": "Radiance: rules patch e 4 errata in vigore dal 16 ottobre, nessun nuovo ban",
+  "source": "playriftbound.com; Riftbound.gg; RiftCompare",
+  "affidabilita": "primaria",
+  "date": "2026-10-09",
+  "brief": "Riot ha pubblicato il 9 ottobre patch alle regole core, quattro errata (Last Caress, Forbidden Technique, Elnuk Herd, Neeko Blending In) e changelog regole torneo, in vigore dal 16 ottobre. Le fonti parlano di interventi per lo più di pulizia. Nessun nuovo ban con Radiance: l'ultimo è del 18 settembre (Ekko, Recurrent e Stacked Deck in Standard e 2v2).",
+  "rilevanza": "Chi gioca deve ricontrollare il testo di Neeko ed Elnuk Herd; la ban list resta quella di settembre."
+ },
+ {
+  "id": "rift-2026-10-radiance-launch",
+  "title": "Radiance (quinto set) in uscita globale il 23 ottobre",
+  "source": "Riot via press release; Wargamer",
+  "affidabilita": "primaria",
+  "date": "2026-10-23",
+  "brief": "Pre-Rift dal 16 al 22 ottobre, lancio globale il 23 in inglese e cinese semplificato. Campioni di punta: Ekko, Seraphine, Evelynn. Alcune fonti parlano di 180 carte e 3 nuove meccaniche, tra cui Deploy.",
+  "rilevanza": "È l'ultimo set dell'anno: si apre la finestra di nuove build e acquisti."
+ },
+ {
+  "id": "rift-2026-10-meta",
+  "title": "Meta di ottobre: Kennen in testa (~15%), poi Riven (~11%) e Kai'Sa (~6%)",
+  "source": "RiftDecks (tier list ottobre)",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Snapshot di una sola fonte, precedente al pieno impatto delle carte Radiance. Percentuali indicative.",
+  "rilevanza": "Utile come punto di partenza, da rivedere dopo i primi tornei con Radiance."
+ },
+ {
   "id": "rb-2026-10-radiance-launch",
   "title": "Radiance esce oggi, 23 ottobre: lancio globale in inglese, cinese semplificato e francese",
   "source": "riftbound.gg; playriftbound.com",
@@ -7,15 +34,6 @@
   "date": "2026-10-23",
   "brief": "Dopo i Pre-Rift dal 16 al 22 ottobre, arriva il quinto set. Nuove meccaniche: Deploy, Show Off e Disarm. Prodotti: Showdown Deck a 34,99 $ e Vault con sei buste.",
   "rilevanza": "Da oggi si può comprare e giocare il set nei negozi."
- },
- {
-  "id": "rb-2026-10-radiance-rules",
-  "title": "Regole base aggiornate per Radiance dal 16 ottobre",
-  "source": "riftbound.gg (Radiance core rules patch notes)",
-  "affidabilita": "primaria",
-  "date": "2026-10-16",
-  "brief": "Il regolamento include le nuove meccaniche, gli aggiornamenti dalle FAQ di Vendetta e scenari su interazioni complesse.",
-  "rilevanza": "Leggi le patch notes prima del primo torneo: cambiano interazioni già note."
  },
  {
   "id": "rb-2026-10-ban-status",

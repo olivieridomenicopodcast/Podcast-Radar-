@@ -1,5 +1,21 @@
 [
  {
+  "id": "metal-2026-10-bfmv",
+  "title": "Bullet For My Valentine: nuovo album \"Social Apocalypse\" il 19 marzo 2027, unica data italiana il 25 gennaio al Forum di Assago",
+  "source": "Rockol via TicketOne; Impericon",
+  "affidabilita": "secondaria",
+  "date": "2026-09",
+  "brief": "Primo album dal 2021, su Spinefarm. Ospiti Pendulum e Dark Divine. Fonti coerenti su luogo e data; articoli di fine settembre."
+ },
+ {
+  "id": "metal-2026-10-italia-2027",
+  "title": "Date italiane 2027: Megadeth a Assago il 6 aprile, Manowar a Bergamo 26-27 marzo",
+  "source": "TicketOne",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Megadeth (tour d'addio, con Black Label Society e Testament) e Manowar (due serate con album integrali Kings Of Metal e Fighting The World). Altre date: Soen a Milano a marzo, Epica agli Arcimboldi. Annunci non nuovi, riepilogo."
+ },
+ {
   "id": "metal-2026-10-mental-cruelty",
   "title": "Mental Cruelty: \"Echoes of a Forlorn Land\" esce oggi, 23 ottobre",
   "source": "Rock Hard Italia",
@@ -14,29 +30,5 @@
   "affidabilita": "secondaria",
   "date": "2026-10-23",
   "brief": "Calendario delle prossime uscite."
- },
- {
-  "id": "metal-2026-manowar",
-  "title": "Manowar a Bergamo il 26 e 27 marzo 2027 (ChorusLife Arena)",
-  "source": "Ticketone; manowar.com",
-  "affidabilita": "primaria",
-  "date": "2026-07",
-  "brief": "Due serate con album interi (Kings of Metal e Fighting the World). Notizia di luglio, unico concerto italiano 2027 confermato trovato."
- },
- {
-  "id": "metal-2026-megadeth",
-  "title": "Megadeth: tour d'addio 2027, quattro date in Germania",
-  "source": "regioactive.de",
-  "affidabilita": "segnale debole",
-  "date": "2026",
-  "brief": "Nessuna data italiana confermata nei risultati. Fonte unica."
- },
- {
-  "id": "metal-2026-amon-amarth",
-  "title": "Amon Amarth: tour UK/EU in autunno e nuovo album atteso a fine 2026",
-  "source": "Metal Blade",
-  "affidabilita": "segnale debole",
-  "date": "2026",
-  "brief": "Il tour corre fino a ottobre; data dell'album non confermata."
  }
 ]
