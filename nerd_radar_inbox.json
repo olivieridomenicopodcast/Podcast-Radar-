@@ -1,38 +1,47 @@
 [
  {
-  "id": "nerd-2026-10-spiel-essen",
-  "title": "SPIEL Essen 2026 in corso (22-25 ottobre): tutti e 8 i padiglioni, 921 espositori",
-  "source": "Spielwarenmesse; spiel-essen.de",
+  "id": "nerd-2026-10-lucca-60",
+  "title": "Lucca Comics & Games 2026 dal 28 ottobre al 1° novembre: 60 anni, tema 'Legacy'",
+  "source": "Techprincess; multiplayer.it; Sky TG24",
   "affidabilita": "secondaria",
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "tipo": "fiera",
-  "brief": "Fiera più grande di sempre secondo gli organizzatori: 921 espositori da 53 paesi, oltre 1.500 novità attese, fino a 230.000 visitatori previsti. Biglietti di giovedì, venerdì e sabato esauriti."
+  "brief": "Edizione del sessantesimo con anteprime italiane, demo e tornei. Ospiti citati: Go Nagai, Frank Miller, Hideki Kamiya e Yoshinori Kitase. Una pagina riporta date diverse (29 ott-2 nov): fanno fede le date ufficiali."
  },
  {
-  "id": "nerd-2026-10-lucca",
-  "title": "Lucca Comics & Games 2026 dal 28 ottobre al 1° novembre, 60° anniversario, tema Legacy",
-  "source": "Multiplayer.it; CGMagOnline; BestMovie",
+  "id": "nerd-2026-10-lucca-sega",
+  "title": "SEGA e ATLUS a Lucca con tre anteprime nazionali: Alien: Isolation 2, il nuovo Stranger Than Heaven e Persona 4 Revival",
+  "source": "Firenze Made in Tuscany; Techprincess",
   "affidabilita": "secondaria",
   "date": "2026-10",
+  "tipo": "annuncio videogioco / fiera",
+  "brief": "Le anteprime sono alla Casermetta San Paolino. Titoli citati in programma anche CONTROL Resonant e The Witcher. Elenco da articoli di preview."
+ },
+ {
+  "id": "nerd-2026-10-lucca-giochi",
+  "title": "Lucca Games: Ravensburger porta Horrified Ravenloft, Mattel Wiped Out, Giochi Uniti The Social Contract",
+  "source": "Alien Universe Italia; SpazioGames; a6fanzine",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "tipo": "giochi da tavolo / fiera",
+  "brief": "Ravensburger anticipa Horrified Ravenloft e i 40 anni di Labyrinth; Asmodee festeggia i 25 anni dei Lupi Mannari di Roccascura; MinaLima presenta Defenders of Hogwarts. Tra i finalisti del Gioco dell'Anno: Art Society, Bomb Busters, Echoes of Time, Rebirth, Thunder Road Vendetta."
+ },
+ {
+  "id": "nerd-2026-10-spiel-essen",
+  "title": "SPIEL Essen 2026 si chiude oggi (22-25 ottobre)",
+  "source": "spiel-essen.de; Spielwarenmesse",
+  "affidabilita": "secondaria",
+  "date": "2026-10-25",
   "tipo": "fiera",
-  "brief": "Ospiti annunciati: Go Nagai, Frank Miller, Yoshinori Kitase, Hideki Kamiya, Yoko Kanno, Zerocalcare. Anteprime: Harry Potter: Defenders of Hogwarts (MiniLima) e nuova espansione di The Witcher 3 (CD Projekt RED). Fonti di giugno-luglio: il programma può essere cambiato."
+  "brief": "Fiera con oltre 900 espositori. Le cifre (921 o 935 espositori, 53 o 56 paesi) differiscono tra le fonti, quindi non le fisso."
  },
  {
-  "id": "nerd-2026-10-uscite-22",
-  "title": "22 ottobre: escono Final Fantasy Resonance e Nintendo Switch Sports Resort",
-  "source": "Everyeye",
+  "id": "nerd-2026-10-luke-clea",
+  "title": "Per i 60 anni di Lucca esce un videogioco gratuito: Luke & Clea (iOS e Android)",
+  "source": "multiplayer.it",
   "affidabilita": "secondaria",
-  "date": "2026-10-22",
-  "tipo": "videogioco",
-  "brief": "Final Fantasy Resonance su PC, Switch, Switch 2, Xbox Series e PS5; Switch Sports Resort esclusiva Switch 2. Date da calendario, non verificate sui siti degli editori."
- },
- {
-  "id": "nerd-2026-10-spiel",
-  "title": "SPIEL Essen 2026 (22-25 ottobre): per la prima volta occupa tutti e otto i padiglioni",
-  "source": "Spielwarenmesse; Meeple Mountain",
-  "affidabilita": "secondaria",
-  "date": "2026-10-22",
-  "brief": "921 espositori da 53 paesi, oltre 1.500 novità attese (altre fonti parlano di circa 1.700). Debuttano i TCG Awards e un'arena laser tag di Warhammer 40,000 con Games Workshop.",
-  "tipo": "fiera"
+  "date": "2026-10",
+  "tipo": "annuncio videogioco",
+  "brief": "Gioco mobile gratuito che ripercorre la storia della manifestazione. Una sola fonte letta."
  }
 ]

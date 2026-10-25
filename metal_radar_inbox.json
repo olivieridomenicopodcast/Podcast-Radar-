@@ -1,34 +1,50 @@
 [
  {
-  "id": "metal-2026-10-bfmv",
-  "title": "Bullet For My Valentine: nuovo album \"Social Apocalypse\" il 19 marzo 2027, unica data italiana il 25 gennaio al Forum di Assago",
-  "source": "Rockol via TicketOne; Impericon",
+  "id": "metal-2026-10-parkway",
+  "title": "Parkway Drive a Ferrara il 20 giugno 2027 con Lorna Shore, The Amity Affliction e Fit For A King; live album il 4 dicembre",
+  "source": "TicketOne",
   "affidabilita": "secondaria",
-  "date": "2026-09",
-  "brief": "Primo album dal 2021, su Spinefarm. Ospiti Pendulum e Dark Divine. Fonti coerenti su luogo e data; articoli di fine settembre."
+  "date": "2026-10-09",
+  "brief": "Primo ritorno in Italia dopo otto anni, biglietti in vendita dal 9 ottobre. Il 4 dicembre esce 'Home – Live at the Sydney Opera House', album dal vivo e non di studio."
  },
  {
-  "id": "metal-2026-10-italia-2027",
-  "title": "Date italiane 2027: Megadeth a Assago il 6 aprile, Manowar a Bergamo 26-27 marzo",
+  "id": "metal-2026-10-whitechapel",
+  "title": "Whitechapel a Milano il 9 febbraio 2027 ai Magazzini Generali",
   "source": "TicketOne",
   "affidabilita": "secondaria",
   "date": "2026-10",
-  "brief": "Megadeth (tour d'addio, con Black Label Society e Testament) e Manowar (due serate con album integrali Kings Of Metal e Fighting The World). Altre date: Soen a Milano a marzo, Epica agli Arcimboldi. Annunci non nuovi, riepilogo."
+  "brief": "Unica data italiana del Burn Forever European Tour 2027, con Sylosis."
  },
  {
-  "id": "metal-2026-10-mental-cruelty",
-  "title": "Mental Cruelty: \"Echoes of a Forlorn Land\" esce oggi, 23 ottobre",
-  "source": "Rock Hard Italia",
+  "id": "metal-2026-10-imminence",
+  "title": "Imminence all'Alcatraz di Milano il 21 gennaio 2027 con August Burns Red",
+  "source": "Mentelocale; Eventim",
   "affidabilita": "secondaria",
-  "date": "2026-10-23",
-  "brief": "Album Century Media prodotto da Jens Bogren. Annuncio di agosto, uscita oggi."
+  "date": "2026-10",
+  "brief": "Tour europeo 2027 della band svedese. Ultimo album 'The Black' (2024)."
  },
  {
-  "id": "metal-2026-10-uscite",
-  "title": "Uscite in calendario: 23/10 Angra (Holy Land, 30° anniversario) e Dragonland; 30/10 Cirith Ungol e Arckanum",
+  "id": "metal-2026-10-bfmv",
+  "title": "Bullet For My Valentine: 'Social Apocalypse' il 19 marzo 2027, data italiana il 25 gennaio al Forum di Assago",
+  "source": "Rockol via TicketOne; Impericon",
+  "affidabilita": "secondaria",
+  "date": "2026-09",
+  "brief": "Primo album dal 2021, su Spinefarm. Articoli di fine settembre, fonti coerenti."
+ },
+ {
+  "id": "metal-2026-10-half-me",
+  "title": "HALF ME pubblicano 'Dogma' il 23 ottobre su Arising Empire",
+  "source": "Metal Italia",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-23",
+  "brief": "Uscita segnalata con tre singoli (Through Prayer, Melancholia, Coup d'Etat). Una sola fonte letta."
+ },
+ {
+  "id": "metal-2026-10-calendario",
+  "title": "Calendario uscite: Armory 'Echoes Of The Astrolith' (23 ottobre) e Absolute Power (30 ottobre)",
   "source": "Loudwire",
   "affidabilita": "secondaria",
   "date": "2026-10-23",
-  "brief": "Calendario delle prossime uscite."
+  "brief": "Il calendario Loudwire segnala queste uscite. Per il 24 e 25 non ho trovato annunci di album."
  }
 ]

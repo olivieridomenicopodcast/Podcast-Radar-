@@ -1,75 +1,97 @@
 [
  {
-  "id": "podcast-2026-10-spotify-next-milano",
-  "title": "Spotify NEXT a Milano: Partner Program e Memberships per i creator, video podcast +97% in Italia",
-  "source": "askanews via Unione Sarda / La Voce di New York (20-21 ottobre)",
+  "id": "podcast-2026-10-spotify-pp-italia-live",
+  "title": "Spotify Partner Program e Memberships attivi in Italia dal 20 ottobre: i requisiti per entrare",
+  "source": "Techprincess; Mediatrends; MEGAMODO; askanews",
   "affidabilita": "secondaria",
   "target": 9,
   "date": "2026-10-20",
-  "brief": "All'evento Spotify NEXT e Video Podcast Club al Teatro Elfo Puccini di Milano, Spotify ha presentato Partner Program e Memberships (contenuti esclusivi e accessi anticipati per i sostenitori). Secondo Francesco Buccino di Spotify, le ore di visione video in Italia sono cresciute del 97% in un anno e l'Italia è sesta per adozione di video podcast. Sono dati dichiarati da Spotify, non verificati in modo indipendente.",
+  "brief": "Più testate italiane riportano il lancio in Italia del Partner Program con le Memberships. Requisiti citati: almeno 3 episodi, 100 persone raggiunte e 100 ore di ascolto negli ultimi 30 giorni. Spotify riconosce il 50% dei ricavi sugli annunci che gestisce. Engage.it parla ancora di arrivo 'in autunno': le fonti non sono allineate sui tempi.",
   "angles": [
-   "Video o solo audio: cosa cambia se parti oggi",
-   "Monetizzare un podcast piccolo: cosa serve davvero prima del Partner Program",
-   "Memberships: serve una community prima ancora di un microfono"
+   "Cosa devi avere prima di sognare i soldi: i 3 requisiti spiegati a chi parte da zero",
+   "Video o solo audio per entrare nel Partner Program",
+   "Memberships: serve una community prima ancora del microfono"
   ],
   "hooks": [
-   "Hai un podcast solo audio e pensi che il video non faccia per te? Occhio ai numeri.",
-   "Ti hanno detto che col podcast si guadagna ma non sai da dove partire? Cominciamo dalle basi.",
-   "Hai appena comprato un microfono e ti stanno dicendo di fare anche il video? Calma, respira."
+   "Hai un podcast con 5 ascoltatori e già pensi a Spotify che ti paga? Calma, guarda i requisiti.",
+   "Hai appena aperto un podcast e ti dicono 'monetizza'? Prima fai 3 episodi, poi ne parliamo.",
+   "Pensi che il Partner Program sia solo per i grandi? Cento ore di ascolto: forse sei più vicino di quanto credi."
   ]
  },
  {
-  "id": "podcast-2026-10-spotify-pp-italia",
-  "title": "Spotify Partner Program in espansione a oltre 35 mercati, Italia inclusa, in arrivo in autunno",
-  "source": "Netinfluencer; SmartWorld; Techdogs",
+  "id": "podcast-2026-10-nielseniq-audible",
+  "title": "Ascoltatori di podcast in Italia: 18,5 milioni nel 2026, circa +3% sul 2025 (ricerca NielsenIQ per Audible)",
+  "source": "ItaliaOggi; Il Sole 24 Ore (Podcasting Festival)",
   "affidabilita": "secondaria",
   "target": 8,
   "date": "2026-10",
-  "brief": "Più testate riportano l'estensione del Partner Program a oltre 35 nuovi mercati (tra cui Italia, Spagna, Polonia, Brasile). I creator idonei guadagnerebbero da video Premium, pubblicità e sponsorizzazioni, tenendo il 100% degli sponsor inseriti. La data esatta e i requisiti per l'Italia non sono confermati nelle fonti che ho letto.",
+  "brief": "Secondo la ricerca NielsenIQ commissionata da Audible, in Italia ascoltano podcast 18,5 milioni di persone, circa il 3% in più sul 2025. Si ascolta in media 5 volte al mese, con sessioni di circa 27 minuti. Dati di una ricerca commissionata da un player del settore, non un'indagine indipendente. Data esatta di pubblicazione non verificata.",
   "angles": [
-   "Cosa controllare prima di iscriversi a un programma di monetizzazione",
-   "Sponsor propri vs pubblicità della piattaforma"
+   "Sessioni da 27 minuti: quanto dovrebbe durare il tuo episodio",
+   "Mercato che cresce piano: perché la costanza batte l'hype",
+   "Chi ti ascolta davvero: costruire il podcast attorno all'ascoltatore medio"
   ],
   "hooks": [
-   "Hai un podcast da 50 ascolti e sogni di monetizzare? Prima guardiamo i requisiti.",
-   "Pensi che per guadagnare col podcast basti iscriversi? Magari.",
-   "Hai un podcast in video e non sai se vale la pena? Facciamo due conti."
+   "Fai episodi da un'ora e mezza e ti chiedi perché non finiscono? L'ascoltatore medio dura 27 minuti.",
+   "Hai paura che in Italia il podcast sia già saturo? Sono 18 milioni e mezzo, tranquillo.",
+   "Pensi di dover fare un episodio al giorno? Chi ti ascolta lo fa cinque volte al mese."
   ]
  },
  {
-  "id": "podcast-2026-nielseniq-audible",
-  "title": "Podcast in Italia: 18,5 milioni di ascoltatori nel 2026 (NielsenIQ per Audible)",
-  "source": "ItaliaOggi",
+  "id": "podcast-2026-10-podcasting-festival",
+  "title": "Podcasting Festival a Milano per il decimo anno: per la prima volta una giornata solo per l'industria",
+  "source": "Il Sole 24 Ore (en); Podcasting Today",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026",
-  "brief": "Secondo NielsenIQ per Audible, gli ascoltatori di podcast in Italia sono 18,5 milioni, circa +3% sul 2025. Ascolto medio 5 volte al mese, sessioni di circa 26,9 minuti. Data precisa dell'articolo non verificata.",
+  "date": "2026-10-02",
+  "brief": "Il festival ha festeggiato i dieci anni a Milano il 2 e 3 ottobre, con una giornata dedicata agli operatori. Temi: video podcast, discoverability e monetizzazione. Nuova edizione del festival come termometro del mercato italiano.",
   "angles": [
-   "26 minuti di sessione: quanto deve durare il tuo episodio",
-   "Il pubblico italiano cresce piano: come farsi notare"
+   "I temi che contano nel 2026: video, scoperta, soldi",
+   "Cosa portarti a casa da un festival se sei un podcaster piccolo",
+   "Discoverability: come ti trovano se nessuno ti conosce"
   ],
   "hooks": [
-   "Fai episodi da un'ora e ti chiedi perché nessuno arriva alla fine? Guarda la durata media.",
-   "Pensi che in Italia i podcast li ascoltino in quattro? Sono 18 milioni.",
-   "Hai paura che il mercato sia saturo? Dati alla mano, no."
+   "Hai un podcast e nessuno lo trova? Il tema del festival era proprio quello.",
+   "Pensi che i festival siano roba da big? Ti dico cosa ci hanno detto per te.",
+   "Hai pubblicato 10 episodi e zero ascolti? Si chiama discoverability, e ha un nome apposta."
   ]
  },
  {
-  "id": "podcast-2026-10-podnews-22",
-  "title": "Serial Productions e NYT lanciano \"METRO\" con Sarah Koenig; The Walrus annuncia un network podcast canadese",
-  "source": "Podnews (22 ottobre)",
-  "affidabilita": "secondaria",
-  "target": 4,
-  "date": "2026-10-22",
-  "brief": "Podnews riporta il debutto di METRO, narrativa su New York a episodi quindicinali (primi due già online), e il network canadese The Walrus in arrivo nella primavera 2027, motivato dal fatto che solo il 43% dell'ascolto in Canada va a show prodotti lì. Letto solo il riassunto Podnews.",
+  "id": "podcast-2026-10-ai-audio-tools",
+  "title": "Editing e pulizia audio con AI: Adobe Podcast con slider di intensità, Riverside e Descript nei confronti 2026",
+  "source": "Recensioni e confronti di blog di settore (techpresso, mixinggpt, podcastsetuplab)",
+  "affidabilita": "segnale debole",
+  "target": 6,
+  "date": "2026-10",
+  "brief": "Non ho trovato annunci ufficiali datati ottobre 2026 da Descript, Adobe, Riverside o Audacity. Le recensioni di settore parlano di Enhance Speech con slider di intensità e funzioni AI di montaggio. Sono fonti secondarie e non datate con precisione: da verificare sui changelog ufficiali prima di usarle in un contenuto.",
   "angles": [
-   "Podcast narrativo: quanto lavoro di editing c'è dietro una serie \"solo parlata\"",
-   "Perché i network nascono quando il pubblico locale ascolta altrove"
+   "Enhance Speech al 100% fa il robot: come dosarlo",
+   "AI che pulisce non salva una registrazione fatta male in stanza vuota",
+   "Descript, Riverside o Audacity: chi sceglie cosa all'inizio"
   ],
   "hooks": [
-   "Pensi che un podcast narrativo sia solo registrare e parlare? Ti deludo subito.",
-   "Vuoi fare un podcast sulla tua città e ti chiedi chi lo ascolterà? Parti da qui.",
-   "Hai un microfono e una storia, ma non un metodo? Succede, ne parliamo."
+   "Hai passato la voce nell'AI e adesso sembri un robot? Hai esagerato con l'intensità.",
+   "Pensi che il software ti sistemi qualsiasi audio? La stanza conta ancora.",
+   "Hai tre programmi di editing aperti e non sai quale usare? Parti da quello che sai chiudere."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-video-podcast-it",
+  "title": "Video podcast in Italia: ore di visione +97% in un anno e Italia sesta al mondo per adozione (dati dichiarati da Spotify)",
+  "source": "askanews; Libero; Mediatrends",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": "2026-10-20",
+  "brief": "Dall'evento Spotify NEXT a Milano: Spotify dichiara una crescita del 97% delle ore di visione video in Italia in un anno e il sesto posto mondiale per adozione dei video podcast. Dati di parte, non verificati in modo indipendente.",
+  "angles": [
+   "Video sì o no: la domanda giusta è quanto tempo hai",
+   "Un setup video minimo che non ti costa un mese di stipendio",
+   "Audio e video insieme senza raddoppiare il lavoro"
+  ],
+  "hooks": [
+   "Hai un podcast solo audio e ti senti già vecchio? Respira, non è obbligatorio il video.",
+   "Hai appena comprato un microfono e ora ti dicono di comprare anche la telecamera? Aspetta.",
+   "Pensi che il video podcast richieda uno studio? Ti serve una luce e una parete."
   ]
  }
 ]

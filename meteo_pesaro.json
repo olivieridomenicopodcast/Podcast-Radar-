@@ -1,33 +1,44 @@
 {
- "aggiornato": "2026-10-24",
+ "aggiornato": "2026-10-25",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
-  "https://www.3bmeteo.com/meteo/pesaro",
+  "https://allertameteo.regione.marche.it/bollettini-meteo",
   "https://www.meteo.it/meteo/pesaro-41044",
-  "https://www.meteopop.it/previsioni-meteo-per-pesaro/",
-  "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723"
+  "https://www.3bmeteo.com/meteo/pesaro",
+  "https://www.ilmeteo.it/meteo/pesaro/domani",
+  "https://www.meteopop.it/previsioni/pesaro/"
  ],
  "previsioni": [
   {
-   "data": "2026-10-24",
-   "giorno": "sabato",
-   "temp_min_c": 12,
-   "temp_max_c": 16,
-   "condizioni": "pioggia e schiarite, deboli piogge dal pomeriggio, circa 2 mm (3BMeteo); Meteopop 11-21 °C; MeteoRadar probabilità pioggia 60% con temporale da NO",
+   "data": "2026-10-26",
+   "giorno": "lunedì",
+   "temp_min_c": 10,
+   "temp_max_c": 18,
+   "condizioni": "asciutto con nubi sparse; meteo.it cielo molto nuvoloso 13-19 °C; MeteoPop 45% di debole pioggia (circa 0,6 mm); 3BMeteo poco nuvoloso 10-18 °C",
    "vento": "dato non reperito",
-   "mare": "dato non reperito",
+   "mare": "più mosso (meteo.it)",
    "allerta": "nessuna allerta reperita"
   },
   {
-   "data": "2026-10-25",
-   "giorno": "domenica",
-   "temp_min_c": 10,
-   "temp_max_c": 16,
-   "condizioni": "nubi sparse, senza pioggia (3BMeteo); MeteoRadar sole con 10% di pioggia",
+   "data": "2026-10-27",
+   "giorno": "martedì",
+   "temp_min_c": 11,
+   "temp_max_c": 18,
+   "condizioni": "prevalentemente soleggiato, asciutto (meteo.it 14-20 °C, 3BMeteo 11-18 °C)",
    "vento": "dato non reperito",
-   "mare": "Forza 5 agitato (meteo.it)",
-   "allerta": "nessuna allerta reperita (3BMeteo)"
+   "mare": "calmo (meteo.it)",
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-10-28",
+   "giorno": "mercoledì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "dato non reperito",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
   }
  ],
- "note": "Ricerca odierna senza nuovi dati affidabili per Pesaro: valori del 24 e 25 ripresi dall'aggiornamento precedente, il 26 non reperito. Fonti non concordi sul sabato. Verifica a ridosso."
+ "note": "Il 25 non incluso (oggi). Fonti concordi su asciutto e temperature miti; divergono su nuvolosità e minime del lunedì. Il 28 non reperito. Verifica sul bollettino Regione Marche."
 }

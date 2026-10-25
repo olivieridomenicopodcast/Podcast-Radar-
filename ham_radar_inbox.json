@@ -1,34 +1,42 @@
 [
  {
-  "id": "ham-2026-10-6w-senegal",
-  "title": "Italian DXpedition Team in Senegal (6W) dal 28 ottobre al 9 novembre",
-  "source": "425 DX News",
-  "affidabilita": "secondaria",
-  "date": "2026-09",
-  "brief": "Il team italiano (IV3FSG, I1FQH, I1HJT, I2PJA, I2YSB, IK2AQZ, IK2CKR, IK2HKT) sarà attivo come 6W. Annuncio di settembre, una sola fonte letta."
- },
- {
-  "id": "ham-2026-10-solar-16",
-  "title": "ARRL Solar Update 16 ottobre: flusso solare attorno o sopra 100, attesi 10 e 12 m migliori",
-  "source": "ARRL (K7RA Solar Update)",
-  "affidabilita": "primaria",
-  "date": "2026-10-16",
-  "brief": "Numero di macchie e flusso 10,7 cm intorno o sopra 100, dovuto soprattutto alla regione 4551. Il previsore W3LPL vede DX molto migliorato su 10 e 12 m per circa 10 giorni; OK1HH prevede però attività in calo per il resto di ottobre. Dato non di oggi: verifica l'ultimo bollettino."
- },
- {
   "id": "ham-2026-10-cqww-ssb",
-  "title": "CQ WW SSB: 24-25 ottobre, da sabato 00:00 UTC a domenica 23:59 UTC",
-  "source": "cqww.com (regolamento 2026)",
+  "title": "CQ WW DX SSB in corso: 24-25 ottobre, 0000-2359 UTC",
+  "source": "cqww.com; DX-World",
   "affidabilita": "primaria",
   "date": "2026-10-24",
-  "brief": "Sei bande da 160 a 10 m (WARC escluse), scambio rapporto + zona CQ. Oltre 35.000 partecipanti attesi nel weekend. Il CW sarà il 28-29 novembre."
+  "brief": "Il contest mondiale SSB si chiude oggi alle 23:59 UTC. DX-World nota che il CQWW 'crea la propria propagazione' e che i 10 m potrebbero non ripetere l'anno scorso."
  },
  {
-  "id": "ham-2026-10-solar-outlook",
-  "title": "Previsioni NOAA/SWPC: flusso solare ~115-118, geomagnetico da quieto ad attivo",
-  "source": "spaceweatherlive (rapporti SWPC 19-20 ottobre)",
+  "id": "ham-2026-10-6w-senegal",
+  "title": "Italian DXpedition Team in Senegal (6W) dal 28 ottobre al 9 novembre",
+  "source": "425 DX News; SARC guide; DX-World",
   "affidabilita": "secondaria",
-  "date": "2026-10-20",
-  "brief": "Per il 22 ottobre previsto SFI circa 115-118, sopra la media di 90 giorni (circa 116); probabilità di flare M intorno al 5%. Previsioni, non osservazioni: controlla i valori di oggi."
+  "date": "2026-09-18",
+  "brief": "Operazione dal 28 ottobre al 9 novembre da 160 a 6 m in CW, SSB e RTTY come 6W/I2YSB, FT8 come 6W/IK2HKT; QSL diretta via I2YSB. Più fonti concordi sulle date. Una pagina cita un'altra operazione 6W/DL4JS (18-28 ottobre) ma sembra vecchia: non confermata."
+ },
+ {
+  "id": "ham-2026-10-v47t",
+  "title": "V47T da St Kitts attiva nel weekend CQWW SSB",
+  "source": "DX-World",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "DX-World elenca V47T tra le operazioni del contest. Una sola fonte letta."
+ },
+ {
+  "id": "ham-2026-10-fp-wf2a",
+  "title": "FP/WF2A da Saint-Pierre e Miquelon dal 21 al 26 ottobre",
+  "source": "DX-World",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-21",
+  "brief": "Operazione dal 21 al 26 ottobre, ancora in corso. Una sola fonte letta."
+ },
+ {
+  "id": "ham-2026-10-solar",
+  "title": "Propagazione HF: ultimo bollettino solare letto, 16 ottobre",
+  "source": "ARRL K7RA Solar Update",
+  "affidabilita": "primaria",
+  "date": "2026-10-16",
+  "brief": "Oggi non ho trovato dati solari più recenti: flusso solare attorno o sopra 100 con 10 e 12 m favoriti nel bollettino del 16. Controlla NOAA SWPC per i valori di oggi."
  }
 ]
