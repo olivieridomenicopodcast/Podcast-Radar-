@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-25",
+ "aggiornato": "2026-10-26",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://allertameteo.regione.marche.it/bollettini-meteo",
@@ -22,9 +22,9 @@
   {
    "data": "2026-10-27",
    "giorno": "martedì",
-   "temp_min_c": 11,
+   "temp_min_c": 9,
    "temp_max_c": 18,
-   "condizioni": "prevalentemente soleggiato, asciutto (meteo.it 14-20 °C, 3BMeteo 11-18 °C)",
+   "condizioni": "poco nuvoloso/soleggiato, asciutto (3BMeteo 9-18 °C, meteo.it 14-20 °C, AccuWeather max circa 23 °C)",
    "vento": "dato non reperito",
    "mare": "calmo (meteo.it)",
    "allerta": "nessuna allerta reperita"

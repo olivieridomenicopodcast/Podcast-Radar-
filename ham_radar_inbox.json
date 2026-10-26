@@ -1,5 +1,13 @@
 [
  {
+  "id": "ham-2026-10-solar-25",
+  "title": "Propagazione 25 ottobre: flusso solare 93, 20 m la banda più affidabile, 10 e 12 m quasi chiuse",
+  "source": "radio-propagation.net; Club Log",
+  "affidabilita": "secondaria",
+  "date": "2026-10-25",
+  "brief": "Il rapporto del 25 ottobre indica flusso solare 93 e numero di macchie 25, con attività geomagnetica quieta. Giorni prima (15-21 ottobre) Club Log mostrava un flusso tra 121 e 137: condizioni in calo. Per l'ultimo giorno del CQ WW SSB, 20 m è la banda più sicura."
+ },
+ {
   "id": "ham-2026-10-cqww-ssb",
   "title": "CQ WW DX SSB in corso: 24-25 ottobre, 0000-2359 UTC",
   "source": "cqww.com; DX-World",
@@ -30,13 +38,5 @@
   "affidabilita": "segnale debole",
   "date": "2026-10-21",
   "brief": "Operazione dal 21 al 26 ottobre, ancora in corso. Una sola fonte letta."
- },
- {
-  "id": "ham-2026-10-solar",
-  "title": "Propagazione HF: ultimo bollettino solare letto, 16 ottobre",
-  "source": "ARRL K7RA Solar Update",
-  "affidabilita": "primaria",
-  "date": "2026-10-16",
-  "brief": "Oggi non ho trovato dati solari più recenti: flusso solare attorno o sopra 100 con 10 e 12 m favoriti nel bollettino del 16. Controlla NOAA SWPC per i valori di oggi."
  }
 ]

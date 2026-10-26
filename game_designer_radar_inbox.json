@@ -1,5 +1,27 @@
 [
  {
+  "id": "gd-it-essen-dv-ms",
+  "title": "Essen 2026, editori italiani: DV Games con Black Flag! e MS Edizioni su Roxane",
+  "source": "Goblins.net (lista di Pennuto); Giochi sul Nostro Tavolo",
+  "affidabilita": "segnale debole",
+  "mercato": "italiana",
+  "tipo": "cataloghi",
+  "date": "2026-10",
+  "brief": "Fiera dal 22 al 25 ottobre con circa 1500 novità stimate. DV Games pubblica Black Flag! (4-8 giocatori, circa 30 minuti), MS Edizioni compare tra gli editori di Roxane. Una sola fonte: da verificare sui siti degli editori.",
+  "rilevanza": "Gli editori italiani stanno nei party game e nelle co-edizioni: utile per capire dove proporre un prototipo."
+ },
+ {
+  "id": "gd-it-lucca-editori",
+  "title": "Lucca 2026: Giochi Uniti, MS Edizioni, Need Games e Asmodee portano novità e licenze",
+  "source": "SpazioGames; Nerdgames; Orgoglio Nerd",
+  "affidabilita": "secondaria",
+  "mercato": "italiana",
+  "tipo": "fiere",
+  "date": "2026-10",
+  "brief": "Giochi Uniti con The Social Contract (con Factanza), MS Edizioni con Fourth Wing, Need Games con Fabula Ultima, Asmodee con i 25 anni di Lupi Mannari di Roccascura. Date del festival: 28 ottobre-1° novembre per la maggior parte delle fonti.",
+  "rilevanza": "Le licenze (libri, creator, brand) pesano sempre di più nei cataloghi: chi cerca editori deve saperlo."
+ },
+ {
   "id": "gd-it-cranio-essen",
   "title": "Cranio Creations a Essen con Oil Rock, Crossing Heroes, Minikin City, Planet Bee e Knock Twice",
   "source": "craniocreations.com; Board House",
