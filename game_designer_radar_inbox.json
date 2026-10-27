@@ -152,5 +152,27 @@
   "date": "2026",
   "brief": "Data dell'accordo non verificata, probabilmente precedente.",
   "rilevanza": "Esempio di trasferimento di cataloghi."
+ },
+ {
+  "id": "gd-int-asmodee-essen-2026",
+  "title": "Asmodee a Spiel Essen 2026: 8 zone e circa 200 tavoli, con Forest Shuffle: Smoky Mountains, Citadels Duel e una zona Netflix",
+  "source": "Comunicato Asmodee (23 settembre 2026) via Inderes",
+  "affidabilita": "primaria",
+  "mercato": "straniera",
+  "tipo": "cataloghi",
+  "date": "2026-09-23",
+  "brief": "Dal comunicato pre-fiera: Lookout Games lancia Forest Shuffle: Smoky Mountains, Office Dog fa provare The Lord of the Rings: Circle of Conflict. Il comunicato è precedente alla fiera (22-25 ottobre): non conferma cosa sia stato davvero presentato.",
+  "rilevanza": "Mostra come Asmodee organizza il catalogo per zone tematiche e dà una mappa dei generi su cui spinge."
+ },
+ {
+  "id": "gd-it-combo-festival-passato",
+  "title": "COMBO Festival Milano: prima edizione il 3-4 ottobre, oltre 40 editori e 35 anteprime assolute secondo il programma",
+  "source": "Mentelocale; Assogiocattoli; Zero",
+  "affidabilita": "secondaria",
+  "mercato": "italiana",
+  "tipo": "fiere / editori",
+  "date": "2026-10-03",
+  "brief": "Organizzato da Ludo Labo, Studiolabo e Cranio Creations al Morel di Milano, con ludoteca di La Tana dei Goblin e installazione sulle game designer. Cifre dal programma pre-evento, non da un resoconto a posteriori.",
+  "rilevanza": "Evento nuovo dove trovare editori italiani in anticipo su Essen."
  }
 ]

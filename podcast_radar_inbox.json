@@ -112,5 +112,24 @@
    "Hai appena comprato un microfono e ora ti dicono di comprare anche la telecamera? Aspetta.",
    "Pensi che il video podcast richieda uno studio? Ti serve una luce e una parete."
   ]
+ },
+ {
+  "id": "podcast-2026-10-apple-hls-video",
+  "title": "Apple Podcasts e il video con HLS: un solo feed per audio e video, annunciato a febbraio 2026",
+  "source": "Apple Newsroom; TechRepublic; Drop Media",
+  "affidabilita": "primaria",
+  "target": 7,
+  "date": "2026-02-16",
+  "brief": "Non è una notizia di oggi: è il contesto per chi sceglie tra audio e video. Apple ha annunciato un feed unico con audio e video via HLS: l'ascoltatore passa da uno all'altro, guarda in orizzontale e scarica. Per i creator la distribuzione è gratuita; Apple farà pagare ai network pubblicitari una tariffa per le inserzioni video dinamiche. Partner al lancio: Acast, ART19, Omny Studio, SiriusXM. Non ho trovato conferme sulla data di arrivo effettiva nell'app.",
+  "angles": [
+   "Un solo feed per audio e video: cosa cambia per chi parte adesso",
+   "Controlla se il tuo hosting supporta HLS prima di scegliere",
+   "Video sì, ma senza raddoppiare il lavoro"
+  ],
+  "hooks": [
+   "Hai appena scelto l'hosting e non sai se supporta il video? Controlla prima di pagare.",
+   "Pensi che Apple Podcasts sia solo audio? Non più, a quanto dice Apple.",
+   "Hai paura di dover rifare tutto in video? Un feed solo, e respiri."
+  ]
  }
 ]

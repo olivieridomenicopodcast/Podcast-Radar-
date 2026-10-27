@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26",
+ "aggiornato": "2026-10-27",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://allertameteo.regione.marche.it/bollettini-meteo",
@@ -9,16 +9,6 @@
   "https://www.meteopop.it/previsioni/pesaro/"
  ],
  "previsioni": [
-  {
-   "data": "2026-10-26",
-   "giorno": "lunedì",
-   "temp_min_c": 10,
-   "temp_max_c": 18,
-   "condizioni": "asciutto con nubi sparse; meteo.it cielo molto nuvoloso 13-19 °C; MeteoPop 45% di debole pioggia (circa 0,6 mm); 3BMeteo poco nuvoloso 10-18 °C",
-   "vento": "dato non reperito",
-   "mare": "più mosso (meteo.it)",
-   "allerta": "nessuna allerta reperita"
-  },
   {
    "data": "2026-10-27",
    "giorno": "martedì",
@@ -38,7 +28,17 @@
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-10-29",
+   "giorno": "giovedì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "dato non reperito",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
   }
  ],
- "note": "Il 25 non incluso (oggi). Fonti concordi su asciutto e temperature miti; divergono su nuvolosità e minime del lunedì. Il 28 non reperito. Verifica sul bollettino Regione Marche."
+ "note": "Oggi le ricerche non hanno restituito previsioni aggiornate per Pesaro (le pagine fornite erano di altre date) e i siti meteo non erano raggiungibili. Il 27 è quello di ieri: da ricontrollare. Verifica sul bollettino Regione Marche."
 }
