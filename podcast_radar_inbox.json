@@ -1,135 +1,94 @@
 [
  {
-  "id": "podcast-2026-10-spotify-memberships-90",
-  "title": "Spotify Memberships in Italia: abbonamenti diretti ai tuoi ascoltatori, al creator va il 90%",
-  "source": "Vies News; PhoneToday; Media Key",
+  "id": "podcast-2026-10-instagram-features",
+  "title": "Instagram testa 'Features': video orizzontali fino a 90 minuti, pensati anche per i podcast",
+  "source": "The Verge; Variety; The Hollywood Reporter (via iPhone in Canada, TNW, Dexerto)",
   "affidabilita": "secondaria",
   "target": 8,
-  "date": "2026-10-20",
-  "brief": "Insieme al Partner Program, dal 20 ottobre arrivano in Italia le Memberships: abbonamenti a pagamento venduti direttamente su Spotify, con episodi esclusivi, prove gratuite e badge per gli iscritti. Le testate riportano al creator il 90% dei ricavi. Cifre riprese dal comunicato Spotify, da verificare su Spotify for Creators.",
+  "date": "2026-10-26",
+  "brief": "Dal 26 ottobre Instagram prova con alcuni creator USA un formato orizzontale lungo fino a 90 minuti (il limite è ancora in test). Reel brevi possono rimandare al video completo, che compare in feed ed Explore. Nessuna esclusiva richiesta. Rollout generale non annunciato.",
   "angles": [
-   "Memberships: cosa offrire a chi paga se hai ancora 20 ascoltatori",
-   "Episodi esclusivi: come pianificarli senza bruciarti",
-   "Community prima del microfono: perché conta più dei numeri"
+   "Podcast video su Instagram: serve davvero o basta YouTube?",
+   "Dalla puntata intera ai clip: come tagliare per rimandare al lungo",
+   "Orizzontale vs verticale: dove metti la camera"
   ],
   "hooks": [
-   "Hai 30 ascoltatori e già vendi l'abbonamento? Forse prima serve un motivo per pagare.",
-   "Pensi che Memberships sia roba da big? Guarda quanto è bassa l'asticella.",
-   "Hai un podcast e nessuna community? Allora le Memberships sono il tuo secondo problema."
-  ]
- },
- {
-  "id": "podcast-2026-10-spotify-pp-italia-live",
-  "title": "Spotify Partner Program e Memberships attivi in Italia dal 20 ottobre: i requisiti per entrare",
-  "source": "Techprincess; Mediatrends; MEGAMODO; askanews",
-  "affidabilita": "secondaria",
-  "target": 9,
-  "date": "2026-10-20",
-  "brief": "Più testate italiane riportano il lancio in Italia del Partner Program con le Memberships. Requisiti citati: almeno 3 episodi, 100 persone raggiunte e 100 ore di ascolto negli ultimi 30 giorni. Spotify riconosce il 50% dei ricavi sugli annunci che gestisce. Engage.it parla ancora di arrivo 'in autunno': le fonti non sono allineate sui tempi.",
-  "angles": [
-   "Cosa devi avere prima di sognare i soldi: i 3 requisiti spiegati a chi parte da zero",
-   "Video o solo audio per entrare nel Partner Program",
-   "Memberships: serve una community prima ancora del microfono"
-  ],
-  "hooks": [
-   "Hai un podcast con 5 ascoltatori e già pensi a Spotify che ti paga? Calma, guarda i requisiti.",
-   "Hai appena aperto un podcast e ti dicono 'monetizza'? Prima fai 3 episodi, poi ne parliamo.",
-   "Pensi che il Partner Program sia solo per i grandi? Cento ore di ascolto: forse sei più vicino di quanto credi."
+   "Hai un podcast video e lo carichi ovunque uguale? Instagram ora vuole l'orizzontale.",
+   "Stai tagliando clip verticali senza un episodio lungo a cui rimandare? Parti dal fondo.",
+   "Pensi che Instagram sia solo per i Reel da 30 secondi? Novanta minuti, eh."
   ]
  },
  {
   "id": "podcast-2026-10-nielseniq-audible",
-  "title": "Ascoltatori di podcast in Italia: 18,5 milioni nel 2026, circa +3% sul 2025 (ricerca NielsenIQ per Audible)",
-  "source": "ItaliaOggi; Il Sole 24 Ore (Podcasting Festival)",
+  "title": "Italia: circa 18,5 milioni di ascoltatori di podcast nel 2026, crescita più lenta (+3%)",
+  "source": "ItaliaOggi (ricerca NielsenIQ per Audible)",
   "affidabilita": "secondaria",
   "target": 8,
   "date": "2026-10",
-  "brief": "Secondo la ricerca NielsenIQ commissionata da Audible, in Italia ascoltano podcast 18,5 milioni di persone, circa il 3% in più sul 2025. Si ascolta in media 5 volte al mese, con sessioni di circa 27 minuti. Dati di una ricerca commissionata da un player del settore, non un'indagine indipendente. Data esatta di pubblicazione non verificata.",
+  "brief": "Secondo il monitoraggio 2026 NielsenIQ per Audible gli ascoltatori italiani sono circa 18,5 milioni (+3% sul 2025, contro +5% dell'anno prima). Si ascolta in media 5 volte al mese per circa 27 minuti a sessione; pubblico più coinvolto 24-35 anni. Altre indagini danno cifre molto diverse (circa 11 milioni mensili): cambia la metodologia. Data esatta di uscita da verificare.",
   "angles": [
-   "Sessioni da 27 minuti: quanto dovrebbe durare il tuo episodio",
-   "Mercato che cresce piano: perché la costanza batte l'hype",
-   "Chi ti ascolta davvero: costruire il podcast attorno all'ascoltatore medio"
+   "Mercato maturo: perché conta il formato più dei numeri",
+   "Sessioni da 27 minuti: quanto deve durare la tua puntata",
+   "Come leggere i dati senza farti prendere in giro dalle metodologie"
   ],
   "hooks": [
-   "Fai episodi da un'ora e mezza e ti chiedi perché non finiscono? L'ascoltatore medio dura 27 minuti.",
-   "Hai paura che in Italia il podcast sia già saturo? Sono 18 milioni e mezzo, tranquillo.",
-   "Pensi di dover fare un episodio al giorno? Chi ti ascolta lo fa cinque volte al mese."
+   "Vuoi aprire un podcast perché 'tanto lo ascoltano tutti'? Sono 18 milioni, ma la crescita rallenta.",
+   "Fai puntate da un'ora e mezza? Gli italiani ascoltano in media 27 minuti.",
+   "Hai letto che il podcast è morto? Spoiler: sono ancora milioni, ma non ti regalano niente."
   ]
  },
  {
-  "id": "podcast-2026-10-podcasting-festival",
-  "title": "Podcasting Festival a Milano per il decimo anno: per la prima volta una giornata solo per l'industria",
-  "source": "Il Sole 24 Ore (en); Podcasting Today",
-  "affidabilita": "secondaria",
-  "target": 7,
-  "date": "2026-10-02",
-  "brief": "Il festival ha festeggiato i dieci anni a Milano il 2 e 3 ottobre, con una giornata dedicata agli operatori. Temi: video podcast, discoverability e monetizzazione. Nuova edizione del festival come termometro del mercato italiano.",
-  "angles": [
-   "I temi che contano nel 2026: video, scoperta, soldi",
-   "Cosa portarti a casa da un festival se sei un podcaster piccolo",
-   "Discoverability: come ti trovano se nessuno ti conosce"
-  ],
-  "hooks": [
-   "Hai un podcast e nessuno lo trova? Il tema del festival era proprio quello.",
-   "Pensi che i festival siano roba da big? Ti dico cosa ci hanno detto per te.",
-   "Hai pubblicato 10 episodi e zero ascolti? Si chiama discoverability, e ha un nome apposta."
-  ]
- },
- {
-  "id": "podcast-2026-10-ai-audio-tools",
-  "title": "Editing e pulizia audio con AI: Adobe Podcast con slider di intensità, Riverside e Descript nei confronti 2026",
-  "source": "Recensioni e confronti di blog di settore (techpresso, mixinggpt, podcastsetuplab)",
-  "affidabilita": "segnale debole",
-  "target": 6,
-  "date": "2026-10",
-  "brief": "Non ho trovato annunci ufficiali datati ottobre 2026 da Descript, Adobe, Riverside o Audacity. Le recensioni di settore parlano di Enhance Speech con slider di intensità e funzioni AI di montaggio. Sono fonti secondarie e non datate con precisione: da verificare sui changelog ufficiali prima di usarle in un contenuto.",
-  "angles": [
-   "Enhance Speech al 100% fa il robot: come dosarlo",
-   "AI che pulisce non salva una registrazione fatta male in stanza vuota",
-   "Descript, Riverside o Audacity: chi sceglie cosa all'inizio"
-  ],
-  "hooks": [
-   "Hai passato la voce nell'AI e adesso sembri un robot? Hai esagerato con l'intensità.",
-   "Pensi che il software ti sistemi qualsiasi audio? La stanza conta ancora.",
-   "Hai tre programmi di editing aperti e non sai quale usare? Parti da quello che sai chiudere."
-  ]
- },
- {
-  "id": "podcast-2026-10-video-podcast-it",
-  "title": "Video podcast in Italia: ore di visione +97% in un anno e Italia sesta al mondo per adozione (dati dichiarati da Spotify)",
-  "source": "askanews; Libero; Mediatrends",
+  "id": "podcast-2026-10-spotify-it-video",
+  "title": "Spotify Italia: ore di visione video podcast +97% in un anno, Italia sesta per adozione",
+  "source": "La Voce di New York (da annuncio Spotify NEXT / Video Podcast Club, Milano)",
   "affidabilita": "secondaria",
   "target": 8,
-  "date": "2026-10-20",
-  "brief": "Dall'evento Spotify NEXT a Milano: Spotify dichiara una crescita del 97% delle ore di visione video in Italia in un anno e il sesto posto mondiale per adozione dei video podcast. Dati di parte, non verificati in modo indipendente.",
+  "date": "2026-10-21",
+  "brief": "Spotify ha presentato a Milano Partner Program e Memberships, riportando un +97% delle ore di visione dei video podcast e l'Italia sesta per adozione. Dato di fonte Spotify, non indipendente.",
   "angles": [
-   "Video sì o no: la domanda giusta è quanto tempo hai",
-   "Un setup video minimo che non ti costa un mese di stipendio",
-   "Audio e video insieme senza raddoppiare il lavoro"
+   "Video podcast su Spotify: serve una camera?",
+   "Partner Program: requisiti realistici per chi parte",
+   "Audio-only vs video: cosa conviene ai principianti"
   ],
   "hooks": [
-   "Hai un podcast solo audio e ti senti già vecchio? Respira, non è obbligatorio il video.",
-   "Hai appena comprato un microfono e ora ti dicono di comprare anche la telecamera? Aspetta.",
-   "Pensi che il video podcast richieda uno studio? Ti serve una luce e una parete."
+   "Hai un podcast solo audio e ti chiedi se serve la camera? Spotify dice che il video corre.",
+   "Hai 50 ascoltatori e pensi al Partner Program? Prima guarda i requisiti.",
+   "Pensi che il video sia un obbligo? Prima sistema l'audio, poi ne parliamo."
   ]
  },
  {
-  "id": "podcast-2026-10-apple-hls-video",
-  "title": "Apple Podcasts e il video con HLS: un solo feed per audio e video, annunciato a febbraio 2026",
-  "source": "Apple Newsroom; TechRepublic; Drop Media",
+  "id": "podcast-2026-10-podbean-mcp",
+  "title": "Podbean lancia un server MCP: gestisci il podcast da Claude, ChatGPT e Cursor",
+  "source": "Podnews (comunicato Podbean)",
   "affidabilita": "primaria",
-  "target": 7,
-  "date": "2026-02-16",
-  "brief": "Non è una notizia di oggi: è il contesto per chi sceglie tra audio e video. Apple ha annunciato un feed unico con audio e video via HLS: l'ascoltatore passa da uno all'altro, guarda in orizzontale e scarica. Per i creator la distribuzione è gratuita; Apple farà pagare ai network pubblicitari una tariffa per le inserzioni video dinamiche. Partner al lancio: Acast, ART19, Omny Studio, SiriusXM. Non ho trovato conferme sulla data di arrivo effettiva nell'app.",
+  "target": 5,
+  "date": "2026-10-28",
+  "brief": "Podbean ha annunciato un server MCP ufficiale che collega i suoi strumenti di pubblicazione ad assistenti AI. È un comunicato dell'azienda: l'utilità reale per i principianti è da verificare.",
   "angles": [
-   "Un solo feed per audio e video: cosa cambia per chi parte adesso",
-   "Controlla se il tuo hosting supporta HLS prima di scegliere",
-   "Video sì, ma senza raddoppiare il lavoro"
+   "AI per descrizioni e note puntata: cosa delegare",
+   "Automatizzare la pubblicazione senza perdere la voce"
   ],
   "hooks": [
-   "Hai appena scelto l'hosting e non sai se supporta il video? Controlla prima di pagare.",
-   "Pensi che Apple Podcasts sia solo audio? Non più, a quanto dice Apple.",
-   "Hai paura di dover rifare tutto in video? Un feed solo, e respiri."
+   "Passi più tempo sulle note della puntata che a registrare? C'è chi le delega all'AI.",
+   "Hai paura che l'AI scriva il tuo podcast? Per ora scrive le descrizioni, non le freddure.",
+   "Pubblichi a mano ogni settimana? Forse è ora di automatizzare."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-audi-spotify",
+  "title": "Audi è la prima casa auto con l'app Spotify nativa in auto; PRX cambia CEO",
+  "source": "Podcast News Daily",
+  "affidabilita": "segnale debole",
+  "target": 4,
+  "date": "2026-10-27",
+  "brief": "Podcast News Daily riporta l'app Spotify nativa su Audi e il passaggio di Jason Saldanha da COO a CEO di PRX. Una sola fonte: segnale debole, utile solo come contesto sull'ascolto in auto.",
+  "angles": [
+   "Ascolto in auto: come cambia la durata ideale"
+  ],
+  "hooks": [
+   "Registri pensando solo a chi ti ascolta con le cuffie? Molti ti sentono in auto.",
+   "Fai intro da due minuti? In macchina non perdonano.",
+   "Il tuo audio regge in auto con il rumore di fondo? Provalo davvero."
   ]
  }
 ]

@@ -1,56 +1,29 @@
 [
  {
-  "id": "rift-2026-10-radiance-launch",
-  "title": "Radiance disponibile dal 23 ottobre: 180 carte, nove Champion Legend, nuove keyword Deploy, Show Off e Disarm",
-  "source": "TriplePoint newsroom (comunicato Riot); Inven Global",
+  "id": "rift-2026-10-radiance-live",
+  "title": "Radiance disponibile dal 23 ottobre in inglese, francese e cinese semplificato, per la prima volta in contemporanea",
+  "source": "TriplePoint (comunicato Riot); Inven Global; Bleeding Cool",
   "affidabilita": "primaria",
   "date": "2026-10-23",
-  "brief": "Quinto set di Riftbound, a tema musicale con carte K/DA e Heartsteel. Porta 180 carte, nove nuove Champion Legend (tra cui Evelynn) e le keyword Deploy, Show Off e Disarm.",
-  "rilevanza": "Si apre un nuovo ciclo di draft, acquisti e costruzione mazzi; le nuove keyword cambiano le interazioni da imparare."
+  "brief": "Quinto set di Riftbound, a tema musicale (K/DA, Heartsteel). Nove nuove Legend (Seraphine, Evelynn, Ekko, K'Sante, Riven...), nuove keyword Deploy, Show Off e Disarm, Equipment Unit e token Bomb. Le fonti divergono sul totale carte (167 numerate o 180).",
+  "rilevanza": "Nuovo ciclo di draft e costruzione mazzi: le keyword cambiano le interazioni."
  },
  {
-  "id": "rift-2026-10-evelynn-showdown",
-  "title": "Evelynn vs Seraphine: il Showdown Deck di Radiance punta sulle carte giocate a faccia in giù",
-  "source": "Riot Games merch; Riftbound.zone",
+  "id": "rift-2026-10-radiance-prodotti",
+  "title": "Radiance: Showdown Deck Seraphine vs Evelynn, oltre 60 carte Showcase e Ultimate Rare a circa 1 su 4.000 pacchetti",
+  "source": "Inven Global; TCG Sealed Alerts",
   "affidabilita": "secondaria",
   "date": "2026-10-23",
-  "brief": "Il mazzo con Evelynn, Agony's Embrace pesca quando giochi una carta a faccia in giù e gira intorno alla keyword Hidden. Decklist letta su fonti di guida, non su risultati di torneo.",
-  "rilevanza": "Punto di ingresso economico per provare il nuovo archetipo prima di spendere in singole."
+  "brief": "Il secondo prodotto preconfezionato da due giocatori è Seraphine vs Evelynn. Presenti alt art K/DA e Overnumbered Heartsteel; la carta più rara, Packed Amphitheater, è circa 1 su 4.000 pacchetti (stima delle fonti).",
+  "rilevanza": "Utile a chi collezione: rarità e probabilità incidono sui prezzi sul mercato secondario."
  },
  {
-  "id": "rift-2026-10-meta-snapshot",
-  "title": "Prima fotografia del meta: Kennen 13% e Riven 12% in testa, Evelynn ancora marginale",
-  "source": "riftdecks.com (tier list ottobre 2026)",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Una tier list di ottobre mostra Kennen, Heart of the Tempest con 32 mazzi e circa il 13% e Riven, The Exile con 28 mazzi e 12%, con Riven valutato S-tier (win rate 55%). Evelynn compare con 7 mazzi. Campione piccolo e periodo non verificato.",
-  "rilevanza": "Utile come indicazione, ma aspetta i primi risultati di torneo prima di decidere acquisti."
- },
- {
-  "id": "rift-2026-10-roadmap-2027",
-  "title": "Roadmap 2027: Legacy il 29 gennaio 2027, primo set pensato per il Draft",
-  "source": "The Outer Haven; Bleeding Cool",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Riot ha presentato la roadmap 2027 con altri quattro set e il debutto di Legacy, espansione costruita attorno al Draft. Una fonte cita anche un crossover League of Legends Classic: da confermare.",
-  "rilevanza": "Chi colleziona può pianificare la spesa; chi gioca Draft ha un set dedicato in arrivo."
- },
- {
-  "id": "rift-2026-10-bundle-t1",
-  "title": "Con Radiance anche la T1 Worlds Champion Collection e il Secret Garden Gift Box",
-  "source": "Comunicati Riot per il primo anniversario",
+  "id": "rift-2026-11-summoner-skirmish",
+  "title": "Prossimi eventi: Summoner Skirmish il 9 novembre e il 14 dicembre",
+  "source": "Inven Global",
   "affidabilita": "secondaria",
   "date": "2026-10-23",
-  "brief": "Per il primo anniversario escono insieme a Radiance la collezione dedicata ai campioni del mondo T1 2025 e il Secret Garden Gift Box.",
-  "rilevanza": "Prodotti da collezione a tiratura probabilmente limitata: valuta prima della finestra di prenotazione."
- },
- {
-  "id": "rift-2026-10-ban-list",
-  "title": "Ban list Riftbound: dopo la prima ondata di marzo, aggiornamento del 24 luglio con Stealthy Pursuer e due Battlefield",
-  "source": "Riftbound (sito ufficiale); StarCityGames; riftbound.gg",
-  "affidabilita": "primaria",
-  "date": "2026-07-24",
-  "brief": "Non è una novità delle ultime 48 ore: la ricerca non ha trovato ban o patch di bilanciamento specifici per Radiance. Le liste vigenti: la prima ondata del 31 marzo (quattro carte, tre Battlefield, tra cui Draven e Vanquisher) e l'aggiornamento di luglio con Stealthy Pursuer, The Arena's Greatest e Aspirant's Climb, più una lista separata per il 2v2. Controlla la Rules Hub ufficiale per la lista corrente.",
-  "rilevanza": "Chi costruisce mazzi per Radiance deve partire dalle liste vietate attuali prima di comprare singole."
+  "brief": "Dopo i Pre-Rift (16-22 ottobre) restano in calendario i Summoner Skirmish. Una sola fonte: controlla il localizzatore eventi ufficiale per il negozio più vicino.",
+  "rilevanza": "Occasione per giocare il nuovo set in ambiente organizzato."
  }
 ]

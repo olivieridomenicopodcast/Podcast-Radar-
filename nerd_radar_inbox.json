@@ -1,56 +1,38 @@
 [
  {
-  "id": "nerd-2026-10-lucca-programma-videogiochi",
-  "title": "Lucca Comics & Games parte domani: Kitase, Kamiya (nuovo Okami), Remedy con Control Resonant e Bandai Namco con 400 mq",
-  "source": "Multiplayer.it; Techprincess; Smartworld",
-  "affidabilita": "secondaria",
-  "date": "2026-10-27",
-  "tipo": "fiera",
-  "brief": "Fiera dal 28 ottobre al 1° novembre (un sito riporta il 2 novembre: fanno fede le date ufficiali). Kitase terrà un Q&A su Final Fantasy VII, Kamiya parlerà del nuovo Okami, Charles Cecil presenterà Broken Sword - The Smoking Mirror: Reforged. Remedy porta Control Resonant (il direttore creativo c'è dal 30 ottobre al 1° novembre). Per gli indie italiani, Wonderful Neoran Valley di Nara Studio ha un trailer il 27 ottobre e un watch party il 30."
- },
- {
   "id": "nerd-2026-10-lucca-60",
-  "title": "Lucca Comics & Games 2026 dal 28 ottobre al 1° novembre: 60 anni, tema 'Legacy'",
-  "source": "Techprincess; multiplayer.it; Sky TG24",
+  "title": "Lucca Comics & Games 2026, 60 anni, tema 'Legacy': dal 28 ottobre al 1° novembre",
+  "source": "Smartworld; Multiplayer.it; Sky TG24",
   "affidabilita": "secondaria",
-  "date": "2026-10-23",
+  "date": "2026-10-28",
   "tipo": "fiera",
-  "brief": "Edizione del sessantesimo con anteprime italiane, demo e tornei. Ospiti citati: Go Nagai, Frank Miller, Hideki Kamiya e Yoshinori Kitase. Una pagina riporta date diverse (29 ott-2 nov): fanno fede le date ufficiali."
+  "brief": "Un sito riporta date diverse (29 ottobre-2 novembre): fanno fede i canali ufficiali. Ospiti: Yoshinori Kitase, Hideki Kamiya (29-30 ottobre), Go Nagai, Frank Miller, Zerocalcare. Mostre aperte dal 3 ottobre."
  },
  {
-  "id": "nerd-2026-10-lucca-sega",
-  "title": "SEGA e ATLUS a Lucca con tre anteprime nazionali: Alien: Isolation 2, il nuovo Stranger Than Heaven e Persona 4 Revival",
-  "source": "Firenze Made in Tuscany; Techprincess",
+  "id": "nerd-2026-10-lucca-videogiochi",
+  "title": "Lucca videogiochi: Remedy con Control Resonant, Nintendo con Metaphor: ReFantazio su Switch 2, Bandai Namco con 400 mq",
+  "source": "Smartworld; Multiplayer.it",
   "affidabilita": "secondaria",
-  "date": "2026-10",
-  "tipo": "annuncio videogioco / fiera",
-  "brief": "Le anteprime sono alla Casermetta San Paolino. Titoli citati in programma anche CONTROL Resonant e The Witcher. Elenco da articoli di preview."
+  "date": "2026-10-24",
+  "tipo": "fiera",
+  "brief": "Charles Cecil presenta Broken Sword - The Smoking Mirror: Reforged; debutta Indie Vault a Palazzo Guinigi; Nara Studio mostra un trailer di Wonderful Neoran Valley."
  },
  {
-  "id": "nerd-2026-10-lucca-giochi",
-  "title": "Lucca Games: Ravensburger porta Horrified Ravenloft, Mattel Wiped Out, Giochi Uniti The Social Contract",
-  "source": "Alien Universe Italia; SpazioGames; a6fanzine",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "tipo": "giochi da tavolo / fiera",
-  "brief": "Ravensburger anticipa Horrified Ravenloft e i 40 anni di Labyrinth; Asmodee festeggia i 25 anni dei Lupi Mannari di Roccascura; MinaLima presenta Defenders of Hogwarts. Tra i finalisti del Gioco dell'Anno: Art Society, Bomb Busters, Echoes of Time, Rebirth, Thunder Road Vendetta."
- },
- {
-  "id": "nerd-2026-10-spiel-essen",
-  "title": "SPIEL Essen 2026 si chiude oggi (22-25 ottobre)",
-  "source": "spiel-essen.de; Spielwarenmesse",
+  "id": "nerd-2026-10-essen",
+  "title": "Spiel Essen 2026 (22-25 ottobre): 921 espositori da 53 Paesi e oltre 1.500 novità attese",
+  "source": "Spielwarenmesse; bluewin",
   "affidabilita": "secondaria",
   "date": "2026-10-25",
   "tipo": "fiera",
-  "brief": "Fiera con oltre 900 espositori. Le cifre (921 o 935 espositori, 53 o 56 paesi) differiscono tra le fonti, quindi non le fisso."
+  "brief": "Prima volta con tutti gli otto padiglioni, record di visitatori atteso (fino a 230.000), debutto dei TCG Awards. Il numero di novità varia: 1.500 o circa 1.900 secondo le fonti."
  },
  {
-  "id": "nerd-2026-10-luke-clea",
-  "title": "Per i 60 anni di Lucca esce un videogioco gratuito: Luke & Clea (iOS e Android)",
-  "source": "multiplayer.it",
+  "id": "nerd-2026-10-lucca-tavolo",
+  "title": "Lucca Games: finalisti Gioco dell'Anno e Games Café Live su Twitch",
+  "source": "SpazioGames; Itakon",
   "affidabilita": "secondaria",
   "date": "2026-10",
-  "tipo": "annuncio videogioco",
-  "brief": "Gioco mobile gratuito che ripercorre la storia della manifestazione. Una sola fonte letta."
+  "tipo": "gioco da tavolo",
+  "brief": "Finalisti: Art Society, Bomb Busters, Echoes of Time, Rebirth, Thunder Road Vendetta. Per la prima volta il gioco da tavolo va in diretta su Twitch."
  }
 ]

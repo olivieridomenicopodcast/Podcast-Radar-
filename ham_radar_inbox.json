@@ -1,42 +1,26 @@
 [
  {
-  "id": "ham-2026-10-solar-25",
-  "title": "Propagazione 25 ottobre: flusso solare 93, 20 m la banda più affidabile, 10 e 12 m quasi chiuse",
-  "source": "radio-propagation.net; Club Log",
-  "affidabilita": "secondaria",
-  "date": "2026-10-25",
-  "brief": "Il rapporto del 25 ottobre indica flusso solare 93 e numero di macchie 25, con attività geomagnetica quieta. Giorni prima (15-21 ottobre) Club Log mostrava un flusso tra 121 e 137: condizioni in calo. Per l'ultimo giorno del CQ WW SSB, 20 m è la banda più sicura."
- },
- {
-  "id": "ham-2026-10-cqww-ssb",
-  "title": "CQ WW DX SSB in corso: 24-25 ottobre, 0000-2359 UTC",
-  "source": "cqww.com; DX-World",
+  "id": "ham-2026-10-sfi-21",
+  "title": "Flusso solare 115 il 21 ottobre, previsione 112-115 fino al 24; campo geomagnetico da quieto ad attivo",
+  "source": "SpaceWeatherLive (rapporto USAF/NOAA)",
   "affidabilita": "primaria",
-  "date": "2026-10-24",
-  "brief": "Il contest mondiale SSB si chiude oggi alle 23:59 UTC. DX-World nota che il CQWW 'crea la propria propagazione' e che i 10 m potrebbero non ripetere l'anno scorso."
+  "date": "2026-10-21",
+  "brief": "Il rapporto del 21 ottobre dà flusso 10,7 cm a 115 con previsione 112-115 per 22-24 ottobre; probabilità di brillamenti classe M 15-20%, X 1-5%. Il dato più recente trovato: da ricontrollare su NOAA SWPC per i prossimi giorni."
  },
  {
-  "id": "ham-2026-10-6w-senegal",
-  "title": "Italian DXpedition Team in Senegal (6W) dal 28 ottobre al 9 novembre",
-  "source": "425 DX News; SARC guide; DX-World",
-  "affidabilita": "secondaria",
-  "date": "2026-09-18",
-  "brief": "Operazione dal 28 ottobre al 9 novembre da 160 a 6 m in CW, SSB e RTTY come 6W/I2YSB, FT8 come 6W/IK2HKT; QSL diretta via I2YSB. Più fonti concordi sulle date. Una pagina cita un'altra operazione 6W/DL4JS (18-28 ottobre) ma sembra vecchia: non confermata."
- },
- {
-  "id": "ham-2026-10-v47t",
-  "title": "V47T da St Kitts attiva nel weekend CQWW SSB",
-  "source": "DX-World",
+  "id": "ham-2026-10-dxped",
+  "title": "DX-pedition in corso: S9R (São Tomé, fino al 31 ottobre) e HF0PAS (Shetland Australi, fino al 31)",
+  "source": "The DX Zone",
   "affidabilita": "segnale debole",
   "date": "2026-10",
-  "brief": "DX-World elenca V47T tra le operazioni del contest. Una sola fonte letta."
+  "brief": "S9R opera dal 17 al 31 ottobre da 160 a 6 m in CW, SSB e digitale; HF0PAS risulta attiva fino al 31. Date da calendario, non confermate da fonti ufficiali: verifica prima di inseguirle."
  },
  {
-  "id": "ham-2026-10-fp-wf2a",
-  "title": "FP/WF2A da Saint-Pierre e Miquelon dal 21 al 26 ottobre",
-  "source": "DX-World",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-21",
-  "brief": "Operazione dal 21 al 26 ottobre, ancora in corso. Una sola fonte letta."
+  "id": "ham-2026-11-cqww-cw",
+  "title": "CQ WW DX CW il 28-29 novembre; nuova regola: vietato il funzionamento autonomo da robot",
+  "source": "CQ WW (regolamento ufficiale); NG3K",
+  "affidabilita": "primaria",
+  "date": "2026-10",
+  "brief": "Il CQ WW CW si svolge il 28-29 novembre, 48 ore, 160-10 m, scambio RST + zona CQ; log entro le 23:59 UTC dell'1 dicembre. Annunciate operazioni come J38W (Grenada, 22 nov-2 dic), TO9W e 3B9KW."
  }
 ]
