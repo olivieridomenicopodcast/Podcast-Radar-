@@ -86,5 +86,71 @@
   "date": "2026-10-25",
   "brief": "Vincitori del Deutscher Spiele Preis non trovati.",
   "rilevanza": "Panorama del mercato."
+ },
+ {
+  "id": "gd-st-asmodee-essen",
+  "title": "Asmodee a SPIEL Essen 2026: novità, esclusive e sessioni di firma con gli autori",
+  "source": "Asmodee (comunicato 23 settembre, via Inderes)",
+  "affidabilita": "primaria",
+  "mercato": "straniera",
+  "tipo": "fiere",
+  "date": "2026-10-22",
+  "brief": "Nella Momentum Zone sessioni di firma per Ticket to Ride e Star Wars: Legion e incontri con i designer.",
+  "rilevanza": "Mostra come i grandi editori usano le fiere per dare visibilità agli autori."
+ },
+ {
+  "id": "gd-st-essen-record",
+  "title": "SPIEL Essen 2026 (22-25 ottobre) punta al record: fino a 230.000 visitatori",
+  "source": "Spielwarenmesse",
+  "affidabilita": "secondaria",
+  "mercato": "straniera",
+  "tipo": "fiere",
+  "date": "2026-10-22",
+  "brief": "Dato di previsione degli organizzatori, non a consuntivo.",
+  "rilevanza": "Il mercato internazionale per proporre prototipi e contatti è in crescita."
+ },
+ {
+  "id": "gd-st-arclight-iga",
+  "title": "Hisashi Hayashi (Railway Boom, Arclight) vince l'International Gamers Award; Square Enix e Arclight con un gioco FF7",
+  "source": "Hashout.jp",
+  "affidabilita": "segnale debole",
+  "mercato": "straniera",
+  "tipo": "premi",
+  "date": "2026-10",
+  "brief": "Fonte unica, giapponese: da confermare.",
+  "rilevanza": "Se vero, segnala l'apertura verso autori asiatici."
+ },
+ {
+  "id": "gd-st-minalima",
+  "title": "MinaLima presenta a Lucca un nuovo gioco da tavolo su Harry Potter",
+  "source": "Smartworld; Multiplayer.it",
+  "affidabilita": "secondaria",
+  "mercato": "straniera",
+  "tipo": "licenze",
+  "date": "2026-10-28",
+  "brief": "Per i vent'anni dello studio, durante Lucca Comics & Games.",
+  "rilevanza": "Altro caso di licenza forte come motore del catalogo."
+ },
+ {
+  "id": "gd-it-games-cafe-twitch",
+  "title": "Games Café Live porta per la prima volta il gioco da tavolo su Twitch a Lucca",
+  "source": "SpazioGames",
+  "affidabilita": "secondaria",
+  "mercato": "italiana",
+  "tipo": "fiere",
+  "date": "2026-10-28",
+  "brief": "Il Padiglione Carducci ospita le novità dei giochi da tavolo.",
+  "rilevanza": "Nuovo canale di visibilità per giochi e autori."
+ },
+ {
+  "id": "gd-it-ideag-nessuna-info",
+  "title": "Nessuna conferma verificata su date e luoghi degli IdeaG in Italia",
+  "source": "ricerche web",
+  "affidabilita": "segnale debole",
+  "mercato": "italiana",
+  "tipo": "ricerca autori",
+  "date": "2026-10-30",
+  "brief": "Le ricerche non hanno trovato fonti su IdeaG 2026-27 né su elenchi di editori presenti a Lucca (Giochi Uniti, Cranio, DV Giochi, Pendragon); solo dati generali sul Padiglione Carducci. Siti specializzati non raggiungibili.",
+  "rilevanza": "Meglio non inventare: controlla i canali ufficiali degli editori."
  }
 ]

@@ -1,24 +1,5 @@
 [
  {
-  "id": "podcast-2026-10-instagram-features",
-  "title": "Instagram testa 'Features': video orizzontali fino a 90 minuti, pensati anche per i podcast",
-  "source": "The Verge; Variety; The Hollywood Reporter (via iPhone in Canada, TNW, Dexerto)",
-  "affidabilita": "secondaria",
-  "target": 8,
-  "date": "2026-10-26",
-  "brief": "Dal 26 ottobre Instagram prova con alcuni creator USA un formato orizzontale lungo fino a 90 minuti (il limite è ancora in test). Reel brevi possono rimandare al video completo, che compare in feed ed Explore. Nessuna esclusiva richiesta. Rollout generale non annunciato.",
-  "angles": [
-   "Podcast video su Instagram: serve davvero o basta YouTube?",
-   "Dalla puntata intera ai clip: come tagliare per rimandare al lungo",
-   "Orizzontale vs verticale: dove metti la camera"
-  ],
-  "hooks": [
-   "Hai un podcast video e lo carichi ovunque uguale? Instagram ora vuole l'orizzontale.",
-   "Stai tagliando clip verticali senza un episodio lungo a cui rimandare? Parti dal fondo.",
-   "Pensi che Instagram sia solo per i Reel da 30 secondi? Novanta minuti, eh."
-  ]
- },
- {
   "id": "podcast-2026-10-nielseniq-audible",
   "title": "Italia: circa 18,5 milioni di ascoltatori di podcast nel 2026, crescita più lenta (+3%)",
   "source": "ItaliaOggi (ricerca NielsenIQ per Audible)",
@@ -38,57 +19,59 @@
   ]
  },
  {
-  "id": "podcast-2026-10-spotify-it-video",
-  "title": "Spotify Italia: ore di visione video podcast +97% in un anno, Italia sesta per adozione",
-  "source": "La Voce di New York (da annuncio Spotify NEXT / Video Podcast Club, Milano)",
+  "id": "podcast-2026-10-beehiiv-ads",
+  "title": "beehiiv lancia gli strumenti pubblicitari per podcast: inserzioni dinamiche, programmatic e sponsor gestiti in autonomia",
+  "source": "GlobeNewswire (via Manila Times); MarTech Cube; Forbes",
+  "affidabilita": "secondaria",
+  "target": 6,
+  "date": "2026-10-27",
+  "brief": "Il 27 ottobre beehiiv ha presentato dynamic ad insertion, pubblicità programmatic e gestione delle sponsorizzazioni vendute dal creator, su tutti i piani a pagamento. Video hosting e distribuzione per i podcast sono promessi entro fine anno, la monetizzazione video nel 2027. Il 29 ottobre Forbes accosta la mossa a quella di Substack e all'arrivo delle newsletter su Supercast: le piattaforme di newsletter entrano nel podcasting.",
+  "angles": [
+   "Monetizzare un podcast piccolo: serve un'agenzia o basta la piattaforma?",
+   "Newsletter + podcast nello stesso posto: comodo o ti lega le mani?",
+   "Quando ha senso pensare alle sponsorizzazioni (spoiler: non alla puntata 3)"
+  ],
+  "hooks": [
+   "Hai 40 ascolti a puntata e già pensi agli sponsor? Respira, ci arriviamo.",
+   "Stai spezzettando il tuo progetto tra newsletter, podcast e social? Forse una piattaforma sola ti salva.",
+   "Ti hanno detto che col podcast si guadagna subito? Facciamo due conti, senza ridere."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-instagram-features",
+  "title": "Instagram testa 'Features': video orizzontali fino a 90 minuti, pensati anche per i podcast",
+  "source": "The Verge; Variety; The Hollywood Reporter (via iPhone in Canada, TNW, Dexerto)",
   "affidabilita": "secondaria",
   "target": 8,
-  "date": "2026-10-21",
-  "brief": "Spotify ha presentato a Milano Partner Program e Memberships, riportando un +97% delle ore di visione dei video podcast e l'Italia sesta per adozione. Dato di fonte Spotify, non indipendente.",
+  "date": "2026-10-26",
+  "brief": "Dal 26 ottobre Instagram prova con alcuni creator USA un formato orizzontale lungo fino a 90 minuti (il limite è ancora in test). Reel brevi possono rimandare al video completo, che compare in feed ed Explore. Nessuna esclusiva richiesta. Rollout generale non annunciato.",
   "angles": [
-   "Video podcast su Spotify: serve una camera?",
-   "Partner Program: requisiti realistici per chi parte",
-   "Audio-only vs video: cosa conviene ai principianti"
+   "Podcast video su Instagram: serve davvero o basta YouTube?",
+   "Dalla puntata intera ai clip: come tagliare per rimandare al lungo",
+   "Orizzontale vs verticale: dove metti la camera"
   ],
   "hooks": [
-   "Hai un podcast solo audio e ti chiedi se serve la camera? Spotify dice che il video corre.",
-   "Hai 50 ascoltatori e pensi al Partner Program? Prima guarda i requisiti.",
-   "Pensi che il video sia un obbligo? Prima sistema l'audio, poi ne parliamo."
+   "Hai un podcast video e lo carichi ovunque uguale? Instagram ora vuole l'orizzontale.",
+   "Stai tagliando clip verticali senza un episodio lungo a cui rimandare? Parti dal fondo.",
+   "Pensi che Instagram sia solo per i Reel da 30 secondi? Novanta minuti, eh."
   ]
  },
  {
-  "id": "podcast-2026-10-podbean-mcp",
-  "title": "Podbean lancia un server MCP: gestisci il podcast da Claude, ChatGPT e Cursor",
-  "source": "Podnews (comunicato Podbean)",
-  "affidabilita": "primaria",
-  "target": 5,
-  "date": "2026-10-28",
-  "brief": "Podbean ha annunciato un server MCP ufficiale che collega i suoi strumenti di pubblicazione ad assistenti AI. È un comunicato dell'azienda: l'utilità reale per i principianti è da verificare.",
-  "angles": [
-   "AI per descrizioni e note puntata: cosa delegare",
-   "Automatizzare la pubblicazione senza perdere la voce"
-  ],
-  "hooks": [
-   "Passi più tempo sulle note della puntata che a registrare? C'è chi le delega all'AI.",
-   "Hai paura che l'AI scriva il tuo podcast? Per ora scrive le descrizioni, non le freddure.",
-   "Pubblichi a mano ogni settimana? Forse è ora di automatizzare."
-  ]
- },
- {
-  "id": "podcast-2026-10-audi-spotify",
-  "title": "Audi è la prima casa auto con l'app Spotify nativa in auto; PRX cambia CEO",
-  "source": "Podcast News Daily",
+  "id": "podcast-2026-10-video-podcast-fox",
+  "title": "Il video podcast diventa standard anche per le TV: Fox Noticias parte con un settimanale su YouTube, Spotify Video e altre piattaforme",
+  "source": "TV News Check",
   "affidabilita": "segnale debole",
   "target": 4,
-  "date": "2026-10-27",
-  "brief": "Podcast News Daily riporta l'app Spotify nativa su Audi e il passaggio di Jason Saldanha da COO a CEO di PRX. Una sola fonte: segnale debole, utile solo come contesto sull'ascolto in auto.",
+  "date": "2026-10-29",
+  "brief": "Dal 29 ottobre Fox Noticias lancia 'Cafecito Chats', podcast settimanale in audio e video distribuito su YouTube, Fox One, Spotify Video e altre piattaforme. Una sola fonte e mercato USA: valore soprattutto come segnale del fatto che il formato video è ormai la scelta di default anche per chi viene dalla TV.",
   "angles": [
-   "Ascolto in auto: come cambia la durata ideale"
+   "Audio e video insieme dalla prima puntata o prima l'audio?",
+   "Quanto costa davvero passare al video"
   ],
   "hooks": [
-   "Registri pensando solo a chi ti ascolta con le cuffie? Molti ti sentono in auto.",
-   "Fai intro da due minuti? In macchina non perdonano.",
-   "Il tuo audio regge in auto con il rumore di fondo? Provalo davvero."
+   "Hai un microfono e basta, e ti dicono che ormai si fa solo video? Calma.",
+   "Stai per comprare una telecamera per il podcast? Prima rispondi a una domanda.",
+   "Ti chiedi se il podcast solo audio sia morto? No, ma ha il raffreddore."
   ]
  }
 ]

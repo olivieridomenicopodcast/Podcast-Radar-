@@ -1,29 +1,38 @@
 [
  {
   "id": "rift-2026-10-radiance-live",
-  "title": "Radiance disponibile dal 23 ottobre in inglese, francese e cinese semplificato, per la prima volta in contemporanea",
-  "source": "TriplePoint (comunicato Riot); Inven Global; Bleeding Cool",
+  "title": "Radiance è uscito il 23 ottobre in inglese, francese e cinese semplificato, in contemporanea",
+  "source": "TriplePoint (comunicato Riot); Inven Global; StarCityGames",
   "affidabilita": "primaria",
   "date": "2026-10-23",
-  "brief": "Quinto set di Riftbound, a tema musicale (K/DA, Heartsteel). Nove nuove Legend (Seraphine, Evelynn, Ekko, K'Sante, Riven...), nuove keyword Deploy, Show Off e Disarm, Equipment Unit e token Bomb. Le fonti divergono sul totale carte (167 numerate o 180).",
-  "rilevanza": "Nuovo ciclo di draft e costruzione mazzi: le keyword cambiano le interazioni."
+  "brief": "Quinto set principale di Riftbound, con nove nuove Legend (tra cui Ekko, Seraphine, Evelynn). Le fonti divergono sul totale carte: 180 secondo alcune, 167 numerate secondo altre. Stagione preview dal 28 settembre al 9 ottobre, Pre-Rift dal 16 al 22 ottobre.",
+  "rilevanza": "Nuovo ciclo di draft e di costruzione mazzi: è la settimana in cui il meta si assesta."
  },
  {
-  "id": "rift-2026-10-radiance-prodotti",
-  "title": "Radiance: Showdown Deck Seraphine vs Evelynn, oltre 60 carte Showcase e Ultimate Rare a circa 1 su 4.000 pacchetti",
-  "source": "Inven Global; TCG Sealed Alerts",
+  "id": "rift-2026-10-no-ban-radiance",
+  "title": "Nessun ban con l'uscita di Radiance: l'ultima ondata resta quella del 18 settembre",
+  "source": "Riftcompare; Riftbound Zone; Skillshotz",
   "affidabilita": "secondaria",
-  "date": "2026-10-23",
-  "brief": "Il secondo prodotto preconfezionato da due giocatori è Seraphine vs Evelynn. Presenti alt art K/DA e Overnumbered Heartsteel; la carta più rara, Packed Amphitheater, è circa 1 su 4.000 pacchetti (stima delle fonti).",
-  "rilevanza": "Utile a chi collezione: rarità e probabilità incidono sui prezzi sul mercato secondario."
+  "date": "2026-10-25",
+  "brief": "L'aggiornamento regolamento di inizio ottobre non ha bandito carte. Le ultime restrizioni per Standard e 2v2 sono in vigore dal 18 settembre (tra queste Ekko). Non ho trovato ban o errata successivi al lancio: va ricontrollata la lista ufficiale Riot.",
+  "rilevanza": "Se hai le carte bandite di settembre, sai già cosa non puoi giocare; per ora nessun'altra sorpresa nota."
  },
  {
-  "id": "rift-2026-11-summoner-skirmish",
-  "title": "Prossimi eventi: Summoner Skirmish il 9 novembre e il 14 dicembre",
-  "source": "Inven Global",
+  "id": "rift-2026-10-radiance-pronostici",
+  "title": "Prime analisi su Radiance: capitano a 2 mana che pesca più carte e un board wipe che spaventa i mazzi go-wide",
+  "source": "TCGTalk; guide di settore",
+  "affidabilita": "segnale debole",
+  "date": "2026-10",
+  "brief": "Sono pronostici pre-lancio e non risultati di torneo. Si discute di un 2-drop che scava quattro carte (dopo il ban di Stack the Deck per Kennen) e di una spazzata di campo che frena i mazzi a token. Non ho trovato dati di win rate o piazzamenti della prima settimana.",
+  "rilevanza": "Da trattare come ipotesi: aspetta i primi tornei prima di comprare singole."
+ },
+ {
+  "id": "rift-2026-10-roadmap-2027",
+  "title": "Roadmap 2027: Riot ha già fissato date per tre set, annunciati nello State of the Game di agosto",
+  "source": "Inven Global; StarCityGames",
   "affidabilita": "secondaria",
-  "date": "2026-10-23",
-  "brief": "Dopo i Pre-Rift (16-22 ottobre) restano in calendario i Summoner Skirmish. Una sola fonte: controlla il localizzatore eventi ufficiale per il negozio più vicino.",
-  "rilevanza": "Occasione per giocare il nuovo set in ambiente organizzato."
+  "date": "2026-08",
+  "brief": "Il calendario arriva fino alla primavera 2027. Nei risultati non c'erano nomi e date dei set: non li riporto per non inventarli.",
+  "rilevanza": "Serve a pianificare gli acquisti: i set escono con cadenza fitta."
  }
 ]

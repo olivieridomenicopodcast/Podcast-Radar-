@@ -1,30 +1,20 @@
 {
- "aggiornato": "2026-10-29",
+ "aggiornato": "2026-10-30",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
-  "https://www.3bmeteo.com/meteo/pesaro/1",
-  "https://www.ilmeteo.it/meteo/pesaro/domani",
-  "https://www.meteoplanet.it/meteo/pesaro",
+  "https://www.3bmeteo.com/meteo/pesaro",
   "https://www.meteo.it/meteo/pesaro-3-giorni-41044",
+  "https://www.scimarche.it",
+  "https://www.civonline.it",
   "https://allertameteo.regione.marche.it/bollettini-meteo"
  ],
  "previsioni": [
-  {
-   "data": "2026-10-29",
-   "giorno": "giovedì",
-   "temp_min_c": 13,
-   "temp_max_c": 18,
-   "condizioni": "schiarite nel pomeriggio, nessuna pioggia prevista (3BMeteo, aggiornamento del 28)",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta reperita"
-  },
   {
    "data": "2026-10-30",
    "giorno": "venerdì",
    "temp_min_c": null,
    "temp_max_c": 18,
-   "condizioni": "cielo variabile, 17-18 °C; poco nuvoloso (Meteoplanet) o pioviggine leggera (3BMeteo)",
+   "condizioni": "variabile, ultimo giorno stabile (dato del 28 ottobre)",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
@@ -32,13 +22,23 @@
   {
    "data": "2026-10-31",
    "giorno": "sabato",
-   "temp_min_c": null,
+   "temp_min_c": 12,
    "temp_max_c": 16,
-   "condizioni": "pioggia debole alternata a schiarite; giorno più incerto",
+   "condizioni": "peggioramento: pioviggine e piogge deboli",
    "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-11-01",
+   "giorno": "domenica",
+   "temp_min_c": 12,
+   "temp_max_c": 16,
+   "condizioni": "giorno peggiore: pioggia più diffusa dal pomeriggio, aria fredda dai Balcani, temperature fino a 7 °C sotto media, possibile graupel sulla costa e neve sull'Appennino oltre 1300-1400 m; le fonti non concordano sui valori",
+   "vento": "vento sull'Adriatico (Civonline), intensità non reperita",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
   }
  ],
- "note": "Minime e vento non reperiti per venerdì e sabato. Verifica il bollettino Regione Marche."
+ "note": "Fonti discordanti per sabato e domenica. Minime e vento non reperiti: controlla il bollettino della Regione Marche."
 }

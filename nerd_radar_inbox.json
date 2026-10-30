@@ -1,38 +1,52 @@
 [
  {
   "id": "nerd-2026-10-lucca-60",
-  "title": "Lucca Comics & Games 2026, 60 anni, tema 'Legacy': dal 28 ottobre al 1° novembre",
-  "source": "Smartworld; Multiplayer.it; Sky TG24",
+  "title": "Lucca Comics & Games 2026 in corso fino al 1° novembre: 60 anni, tema 'Legacy'",
+  "source": "Smartworld; Multiplayer.it; Cinefilos",
   "affidabilita": "secondaria",
   "date": "2026-10-28",
   "tipo": "fiera",
-  "brief": "Un sito riporta date diverse (29 ottobre-2 novembre): fanno fede i canali ufficiali. Ospiti: Yoshinori Kitase, Hideki Kamiya (29-30 ottobre), Go Nagai, Frank Miller, Zerocalcare. Mostre aperte dal 3 ottobre."
+  "brief": "Dal 28 ottobre al 1° novembre. Tra gli ospiti Go Nagai, Frank Miller, Jonathan Hickman, Hideaki Kamiya e Zerocalcare. Le fonti parlano di oltre 400-500 autori di fumetti e più di 80 editori. Pokémon festeggia i 30 anni e POP MART debutta a Lucca.",
+  "rilevanza": "Il momento in cui si concentrano annunci di giochi, manga e carte."
+ },
+ {
+  "id": "nerd-2026-10-bandai-namco",
+  "title": "Bandai Namco Palace a Lucca per il quarto anno: oltre 400 mq e il nuovo padiglione The Gundam Base",
+  "source": "Comunicato Bandai Namco (15 ottobre); SpazioGames; AnimeClick",
+  "affidabilita": "primaria",
+  "date": "2026-10-15",
+  "tipo": "fiera",
+  "brief": "Alla Palestra Ducale videogiochi in anteprima, figure, model kit e store ufficiali. Una fonte indica anche anteprime nazionali SEGA e ATLUS. I titoli precisi mostrati non sono emersi dalle ricerche.",
+  "rilevanza": "Per chi va a Lucca: dove provare i giochi in demo."
  },
  {
   "id": "nerd-2026-10-lucca-videogiochi",
-  "title": "Lucca videogiochi: Remedy con Control Resonant, Nintendo con Metaphor: ReFantazio su Switch 2, Bandai Namco con 400 mq",
-  "source": "Smartworld; Multiplayer.it",
+  "title": "Lucca 2026, programma videoludico: anteprime italiane, demo, trailer e tornei",
+  "source": "Techprincess; Multiplayer.it",
   "affidabilita": "secondaria",
-  "date": "2026-10-24",
+  "date": "2026-10-28",
   "tipo": "fiera",
-  "brief": "Charles Cecil presenta Broken Sword - The Smoking Mirror: Reforged; debutta Indie Vault a Palazzo Guinigi; Nara Studio mostra un trailer di Wonderful Neoran Valley."
+  "brief": "Tra i titoli citati Alien: Isolation 2, Persona 4 Revival, CONTROL Resonant, The Witcher e Final Fantasy VII. Il festival ha anche lanciato Luke & Clea, gioco pixel art a 8 bit per i 60 anni, con ultimo livello sbloccato il 28 ottobre.",
+  "rilevanza": "Elenco dei giochi da tenere d'occhio, da incrociare col programma ufficiale."
  },
  {
   "id": "nerd-2026-10-essen",
-  "title": "Spiel Essen 2026 (22-25 ottobre): 921 espositori da 53 Paesi e oltre 1.500 novità attese",
-  "source": "Spielwarenmesse; bluewin",
+  "title": "SPIEL Essen 2026 (22-25 ottobre): affluenza attesa fino a 230.000 visitatori, record",
+  "source": "Spielwarenmesse; Asmodee (comunicato 23 settembre)",
   "affidabilita": "secondaria",
   "date": "2026-10-25",
   "tipo": "fiera",
-  "brief": "Prima volta con tutti gli otto padiglioni, record di visitatori atteso (fino a 230.000), debutto dei TCG Awards. Il numero di novità varia: 1.500 o circa 1.900 secondo le fonti."
+  "brief": "Gli organizzatori puntavano al record di visitatori. Asmodee ha portato novità ed esclusive con sessioni di firma degli autori. Un sito (pocketgamer.biz) dà date diverse, 8-11 ottobre, in contrasto con tutte le altre fonti.",
+  "rilevanza": "La fiera chiusa pochi giorni fa che alimenta le uscite dei prossimi mesi."
  },
  {
-  "id": "nerd-2026-10-lucca-tavolo",
-  "title": "Lucca Games: finalisti Gioco dell'Anno e Games Café Live su Twitch",
-  "source": "SpazioGames; Itakon",
-  "affidabilita": "secondaria",
+  "id": "nerd-2026-10-ff7-boardgame",
+  "title": "Square Enix annuncerebbe un gioco da tavolo cooperativo di Final Fantasy VII con Arclight",
+  "source": "Hashout.jp",
+  "affidabilita": "segnale debole",
   "date": "2026-10",
-  "tipo": "gioco da tavolo",
-  "brief": "Finalisti: Art Society, Bomb Busters, Echoes of Time, Rebirth, Thunder Road Vendetta. Per la prima volta il gioco da tavolo va in diretta su Twitch."
+  "tipo": "annuncio gioco da tavolo",
+  "brief": "Una sola fonte, giapponese: va confermata. Nello stesso articolo Hisashi Hayashi, autore di Railway Boom (Arclight), avrebbe vinto l'International Gamers Award multigiocatore, primo giapponese a riuscirci.",
+  "rilevanza": "Da verificare prima di rilanciarlo."
  }
 ]

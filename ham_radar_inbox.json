@@ -1,26 +1,28 @@
 [
  {
+  "id": "ham-2026-10-cqww-ssb-chiuso",
+  "title": "CQ WW DX SSB concluso (24-25 ottobre): log da inviare entro il 27, il CW sarà il 28-29 novembre",
+  "source": "CQ WW DX Contest (cqww.com); NG3K",
+  "affidabilita": "primaria",
+  "date": "2026-10-25",
+  "brief": "Il contest SSB si è svolto dalle 00:00 UTC di sabato 24 alle 23:59 UTC di domenica 25; la scadenza dei log era il 27 ottobre. Il prossimo appuntamento è il CQ WW CW il 28-29 novembre, log entro il 1° dicembre. Bande ammesse: 160-10 m (senza WARC), scambio RS più zona CQ. L'edizione SSB 2025 aveva segnato il record di 10.576 log.",
+  "rilevanza": "Se non hai ancora spedito il log SSB sei fuori tempo; il CW è il prossimo banco di prova."
+ },
+ {
   "id": "ham-2026-10-sfi-21",
-  "title": "Flusso solare 115 il 21 ottobre, previsione 112-115 fino al 24; campo geomagnetico da quieto ad attivo",
+  "title": "Flusso solare 115 il 21 ottobre, previsione 112-115 fino al 24",
   "source": "SpaceWeatherLive (rapporto USAF/NOAA)",
   "affidabilita": "primaria",
   "date": "2026-10-21",
-  "brief": "Il rapporto del 21 ottobre dà flusso 10,7 cm a 115 con previsione 112-115 per 22-24 ottobre; probabilità di brillamenti classe M 15-20%, X 1-5%. Il dato più recente trovato: da ricontrollare su NOAA SWPC per i prossimi giorni."
+  "brief": "Dato più recente trovato, ormai vecchio di 9 giorni: da ricontrollare su NOAA SWPC. Probabilità di brillamenti M 15-20% e X 1-5% per quei giorni.",
+  "rilevanza": "Indicatore di base per le bande alte; non sostituisce un bollettino di oggi."
  },
  {
-  "id": "ham-2026-10-dxped",
-  "title": "DX-pedition in corso: S9R (São Tomé, fino al 31 ottobre) e HF0PAS (Shetland Australi, fino al 31)",
-  "source": "The DX Zone",
+  "id": "ham-2026-10-nessun-dx",
+  "title": "Nessuna DX-pedition e nessuna novità normativa o di attrezzatura verificata nelle ultime 48 ore",
+  "source": "ricerche web",
   "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "S9R opera dal 17 al 31 ottobre da 160 a 6 m in CW, SSB e digitale; HF0PAS risulta attiva fino al 31. Date da calendario, non confermate da fonti ufficiali: verifica prima di inseguirle."
- },
- {
-  "id": "ham-2026-11-cqww-cw",
-  "title": "CQ WW DX CW il 28-29 novembre; nuova regola: vietato il funzionamento autonomo da robot",
-  "source": "CQ WW (regolamento ufficiale); NG3K",
-  "affidabilita": "primaria",
-  "date": "2026-10",
-  "brief": "Il CQ WW CW si svolge il 28-29 novembre, 48 ore, 160-10 m, scambio RST + zona CQ; log entro le 23:59 UTC dell'1 dicembre. Annunciate operazioni come J38W (Grenada, 22 nov-2 dic), TO9W e 3B9KW."
+  "date": "2026-10-30",
+  "brief": "Le ricerche non hanno restituito fonti aggiornate su spedizioni in corso, Kenwood, Hamlib, SDR o IARU. I siti specializzati (ARRL, DX bulletin) non sono raggiungibili da questa sessione, quindi non pubblico nulla che non sia verificato."
  }
 ]

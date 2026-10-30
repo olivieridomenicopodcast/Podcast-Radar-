@@ -1,34 +1,47 @@
 [
  {
-  "id": "metal-2026-whitechapel-mi",
-  "title": "Whitechapel a Milano il 9 febbraio 2027, unica data italiana, con Sylosis",
+  "id": "metal-2026-manowar-bergamo",
+  "title": "Manowar a Bergamo il 26 e 27 marzo 2027, prima volta in Italia dopo 14 anni",
   "source": "Ticketone",
   "affidabilita": "secondaria",
   "date": "2026-10",
-  "brief": "Burn Forever European Tour 2027 ai Magazzini Generali. Biglietti in vendita dal 12 marzo 2026; non è un annuncio delle ultime 48 ore."
+  "brief": "Due serate al ChorusLife Arena: 'Kings of Metal' il 26 e 'Fighting the World' il 27, suonati per intero. Non è confermato che l'annuncio sia delle ultime 48 ore.",
+  "rilevanza": "Raggiungibile dal Nord Italia: biglietti da controllare."
  },
  {
-  "id": "metal-2026-manowar",
-  "title": "Manowar a Bergamo, 26-27 marzo 2027 (ChorusLife Arena)",
-  "source": "Ticketone; manowar.com",
-  "affidabilita": "primaria",
-  "date": "2026-10",
-  "brief": "Due serate con un album intero ciascuna, prima volta in Italia dopo 14 anni. Vendita aperta dal 17 luglio: promemoria, non novità del giorno."
- },
- {
-  "id": "metal-2026-release-30",
-  "title": "Uscite del 30 ottobre: Atreyu (A Death-Grip On Yesterday, riedizione), Cathedral, Torian",
-  "source": "Loudwire; Metal Connect",
+  "id": "metal-2026-megadeth-assago",
+  "title": "Megadeth all'Unipol Forum di Assago il 6 aprile 2027, tour d'addio europeo",
+  "source": "Ticketone",
   "affidabilita": "secondaria",
-  "date": "2026-10-30",
-  "brief": "Calendari delle uscite della settimana; date di uscita, non di annuncio. Metal Connect segnala anche Velnias e Trolldom."
+  "date": "2026-10",
+  "brief": "Unica data italiana indicata nel leg europeo indoor del tour d'addio. Data dell'annuncio non verificata.",
+  "rilevanza": "Una delle ultime occasioni dal vivo."
  },
  {
-  "id": "metal-2027-tour-europa",
-  "title": "Tour europei 2027: Five Finger Death Punch (da gennaio), Rhapsody of Fire (7 gennaio-6 febbraio), Megadeth farewell",
-  "source": "regioactive.de; mvp.de",
+  "id": "metal-2026-dragonforce-tour",
+  "title": "DragonForce: tour europeo primavera 2027 con Visions of Atlantis e Wings of Steel, nuovo singolo 'Hunger of the Beast'",
+  "source": "Blabbermouth",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Annunciati nuovo singolo e nuovo album. Nei risultati non c'era la lista delle date: non so se tocchi l'Italia. Data esatta dell'annuncio non confermata.",
+  "rilevanza": "Da controllare se arriva in zona."
+ },
+ {
+  "id": "metal-2026-saxon-album",
+  "title": "Saxon: nuovo album 'Gods of Thunder' a gennaio",
+  "source": "Rockol",
   "affidabilita": "segnale debole",
   "date": "2026-10",
-  "brief": "Nei risultati non compaiono date italiane per questi tour: da verificare sui siti ufficiali."
+  "brief": "Titolo letto in una pagina indice di Rockol, senza dettagli né data di uscita precisa.",
+  "rilevanza": "Uscita da tenere d'occhio nel 2027."
+ },
+ {
+  "id": "metal-2026-whitechapel-mi",
+  "title": "Whitechapel a Milano il 9 febbraio 2027 con Sylosis, unica data italiana",
+  "source": "Ticketone",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "brief": "Burn Forever European Tour ai Magazzini Generali. Biglietti in vendita dal 12 marzo 2026: non è una novità recente.",
+  "rilevanza": "Metalcore raggiungibile."
  }
 ]
