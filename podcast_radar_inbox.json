@@ -1,77 +1,113 @@
 [
  {
+  "id": "podcast-2026-10-spreaker-copie",
+  "title": "Podnews: l'importatore RSS di Spreaker permette di copiare interi podcast altrui e monetizzarli",
+  "source": "Podnews; tutkit.com (sintesi in tedesco)",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": "2026-10-24",
+  "brief": "Podnews riporta che bastano un account gratuito e l'indirizzo RSS di un altro show per duplicarlo su Spreaker, con artwork ed episodi futuri, e venderne la pubblicità. Un conteggio su Podcast Index (24 ottobre) parla di circa 1.778 show copiati; Podnews dice che Spreaker trattiene il 41% dei ricavi. Spreaker risponde che non consente upload senza diritti e interviene sulle segnalazioni. Cifra di 1.778 da una fonte secondaria: l'originale non è stato verificato.",
+  "angles": [
+   "Come proteggere il tuo feed RSS (tag podcast:locked) prima di pubblicare",
+   "Perché la scelta dell'hosting non è solo questione di prezzo",
+   "Cosa controllare ogni mese: il tuo show esiste anche dove non l'hai caricato?"
+  ],
+  "hooks": [
+   "Hai appena pubblicato il tuo primo podcast e pensi che nessuno lo copi? Ti basta un RSS e qualcuno lo fa suo.",
+   "Stai scegliendo dove ospitare il podcast solo per il prezzo? Guarda cosa si può fare col tuo feed.",
+   "Hai messo il tuo RSS ovunque senza pensarci? Facciamo il giro dei lucchetti, prima che te lo clonino."
+  ]
+ },
+ {
+  "id": "podcast-2026-10-festival-podcasting",
+  "title": "Festival del Podcasting a Milano (2-3 ottobre), decimo anno: discoverability, video podcast e monetizzazione i temi chiave",
+  "source": "Milano Finanza; Il Sole 24 Ore; Podcasting Today",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026-10-02",
+  "brief": "Decima edizione a Cascina Triulza (MIND): venerdì Industry Day per brand e piattaforme, sabato Creator Day. Organizza Podstar, direzione di Ester Memeo. Milano Finanza parla di 15,5 milioni di ascoltatori nel 2025 (+2%), un mercato descritto come maturo. Non è una notizia delle ultime 48 ore, ma resta il contesto italiano più recente.",
+  "angles": [
+   "Cosa significa 'mercato maturo' per chi parte adesso",
+   "Video podcast in Italia: serve davvero?",
+   "Come presentarsi a un festival o a un brand senza sentirsi un impostore"
+  ],
+  "hooks": [
+   "Hai un podcast e ti chiedi se in Italia ha ancora senso partire? Il festival ha una risposta, e non è 'sì a prescindere'.",
+   "Pensi che il video podcast sia solo una moda americana? A Milano ne hanno parlato per due giorni.",
+   "Hai paura di non essere abbastanza 'professionista'? Il Creator Day esiste proprio per quelli come te."
+  ]
+ },
+ {
   "id": "podcast-2026-10-nielseniq-audible",
   "title": "Italia: circa 18,5 milioni di ascoltatori di podcast nel 2026, crescita più lenta (+3%)",
   "source": "ItaliaOggi (ricerca NielsenIQ per Audible)",
   "affidabilita": "secondaria",
   "target": 8,
   "date": "2026-10",
-  "brief": "Secondo il monitoraggio 2026 NielsenIQ per Audible gli ascoltatori italiani sono circa 18,5 milioni (+3% sul 2025, contro +5% dell'anno prima). Si ascolta in media 5 volte al mese per circa 27 minuti a sessione; pubblico più coinvolto 24-35 anni. Altre indagini danno cifre molto diverse (circa 11 milioni mensili): cambia la metodologia. Data esatta di uscita da verificare.",
+  "brief": "Secondo NielsenIQ per Audible gli ascoltatori sono circa 18,5 milioni (+3% sul 2025). Si ascolta in media 5 volte al mese per circa 27 minuti a sessione. Altre fonti danno numeri diversi (15,5 milioni nel 2025 per Milano Finanza): cambia la metodologia. Giorno esatto di uscita da verificare.",
   "angles": [
-   "Mercato maturo: perché conta il formato più dei numeri",
    "Sessioni da 27 minuti: quanto deve durare la tua puntata",
-   "Come leggere i dati senza farti prendere in giro dalle metodologie"
+   "Come leggere i numeri senza farti fregare dalle metodologie",
+   "Mercato maturo: vince il formato, non il volume"
   ],
   "hooks": [
-   "Vuoi aprire un podcast perché 'tanto lo ascoltano tutti'? Sono 18 milioni, ma la crescita rallenta.",
-   "Fai puntate da un'ora e mezza? Gli italiani ascoltano in media 27 minuti.",
-   "Hai letto che il podcast è morto? Spoiler: sono ancora milioni, ma non ti regalano niente."
+   "Fai puntate da un'ora e mezza? Gli italiani ne ascoltano in media 27 minuti per volta.",
+   "Vuoi partire perché 'tanto lo ascoltano tutti'? Sono 18 milioni, ma la crescita rallenta.",
+   "Hai letto che il podcast è morto? Spoiler: no, ma non ti regala più niente."
   ]
  },
  {
-  "id": "podcast-2026-10-beehiiv-ads",
-  "title": "beehiiv lancia gli strumenti pubblicitari per podcast: inserzioni dinamiche, programmatic e sponsor gestiti in autonomia",
-  "source": "GlobeNewswire (via Manila Times); MarTech Cube; Forbes",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-10-27",
-  "brief": "Il 27 ottobre beehiiv ha presentato dynamic ad insertion, pubblicità programmatic e gestione delle sponsorizzazioni vendute dal creator, su tutti i piani a pagamento. Video hosting e distribuzione per i podcast sono promessi entro fine anno, la monetizzazione video nel 2027. Il 29 ottobre Forbes accosta la mossa a quella di Substack e all'arrivo delle newsletter su Supercast: le piattaforme di newsletter entrano nel podcasting.",
-  "angles": [
-   "Monetizzare un podcast piccolo: serve un'agenzia o basta la piattaforma?",
-   "Newsletter + podcast nello stesso posto: comodo o ti lega le mani?",
-   "Quando ha senso pensare alle sponsorizzazioni (spoiler: non alla puntata 3)"
-  ],
-  "hooks": [
-   "Hai 40 ascolti a puntata e già pensi agli sponsor? Respira, ci arriviamo.",
-   "Stai spezzettando il tuo progetto tra newsletter, podcast e social? Forse una piattaforma sola ti salva.",
-   "Ti hanno detto che col podcast si guadagna subito? Facciamo due conti, senza ridere."
-  ]
- },
- {
-  "id": "podcast-2026-10-instagram-features",
-  "title": "Instagram testa 'Features': video orizzontali fino a 90 minuti, pensati anche per i podcast",
-  "source": "The Verge; Variety; The Hollywood Reporter (via iPhone in Canada, TNW, Dexerto)",
-  "affidabilita": "secondaria",
-  "target": 8,
-  "date": "2026-10-26",
-  "brief": "Dal 26 ottobre Instagram prova con alcuni creator USA un formato orizzontale lungo fino a 90 minuti (il limite è ancora in test). Reel brevi possono rimandare al video completo, che compare in feed ed Explore. Nessuna esclusiva richiesta. Rollout generale non annunciato.",
-  "angles": [
-   "Podcast video su Instagram: serve davvero o basta YouTube?",
-   "Dalla puntata intera ai clip: come tagliare per rimandare al lungo",
-   "Orizzontale vs verticale: dove metti la camera"
-  ],
-  "hooks": [
-   "Hai un podcast video e lo carichi ovunque uguale? Instagram ora vuole l'orizzontale.",
-   "Stai tagliando clip verticali senza un episodio lungo a cui rimandare? Parti dal fondo.",
-   "Pensi che Instagram sia solo per i Reel da 30 secondi? Novanta minuti, eh."
-  ]
- },
- {
-  "id": "podcast-2026-10-video-podcast-fox",
-  "title": "Il video podcast diventa standard anche per le TV: Fox Noticias parte con un settimanale su YouTube, Spotify Video e altre piattaforme",
-  "source": "TV News Check",
+  "id": "podcast-2026-10-podnews-podcastone",
+  "title": "PodcastOne: più soggetti interessati all'acquisto, secondo Podnews",
+  "source": "Podnews (30 ottobre)",
   "affidabilita": "segnale debole",
   "target": 4,
-  "date": "2026-10-29",
-  "brief": "Dal 29 ottobre Fox Noticias lancia 'Cafecito Chats', podcast settimanale in audio e video distribuito su YouTube, Fox One, Spotify Video e altre piattaforme. Una sola fonte e mercato USA: valore soprattutto come segnale del fatto che il formato video è ormai la scelta di default anche per chi viene dalla TV.",
+  "date": "2026-10-30",
+  "brief": "Podnews titola 'Who's buying PodcastOne?' e scrive che più parti sarebbero interessate. Dettagli non verificati e fonte unica: è un segnale sul consolidamento delle reti podcast USA, non una notizia confermata.",
   "angles": [
-   "Audio e video insieme dalla prima puntata o prima l'audio?",
-   "Quanto costa davvero passare al video"
+   "Reti e network: ti servono davvero all'inizio?",
+   "Cosa succede ai tuoi diritti se la rete viene venduta"
   ],
   "hooks": [
-   "Hai un microfono e basta, e ti dicono che ormai si fa solo video? Calma.",
-   "Stai per comprare una telecamera per il podcast? Prima rispondi a una domanda.",
-   "Ti chiedi se il podcast solo audio sia morto? No, ma ha il raffreddore."
+   "Pensi di entrare in un network per 'crescere in fretta'? Guarda cosa succede quando il network cambia padrone.",
+   "Hai firmato un contratto senza leggerlo? Ti spiego cosa controllare adesso.",
+   "Sogni la rete grossa per il tuo podcast? Prima chiediti di chi sarà domani."
+  ]
+ },
+ {
+  "id": "podcast-2026-castro-maple",
+  "title": "L'app Castro venduta a Maple Media, annuncia il creatore Dustin Bluck",
+  "source": "Podcast News Daily",
+  "affidabilita": "segnale debole",
+  "target": 3,
+  "date": "2026-10-30",
+  "brief": "Podcast News Daily riporta la vendita di Castro, app di ascolto, a Maple Media. Fonte unica, dettagli dell'accordo non verificati. Interessa soprattutto come segnale sul mercato delle app di ascolto indipendenti.",
+  "angles": [
+   "Perché il tuo pubblico non ascolta dove pensi tu",
+   "Distribuire ovunque, senza dipendere da una sola app"
+  ],
+  "hooks": [
+   "Pensi che tutti ti ascoltino su Spotify? Controlla le tue statistiche, ti stupisci.",
+   "Hai caricato il podcast solo su una piattaforma? Questa notizia ti spiega perché è rischioso.",
+   "Stai ottimizzando tutto per un'app sola? Ti racconto perché non conviene."
+  ]
+ },
+ {
+  "id": "podcast-2026-apple-video-spotify-play",
+  "title": "Video su Apple Podcasts (HLS da febbraio) e Spotify che conta un 'play' dopo 30 secondi: il quadro 2026 per i creator",
+  "source": "Nieman Lab; Podcast Videos; sintesi di ricerca",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026-02",
+  "brief": "Contesto, non notizia del giorno: Apple ha attivato il video HLS nei Podcasts a febbraio 2026 e l'ha esteso a Mac e tvOS; Spotify ha ridefinito il 'play' a 30 secondi di ascolto o visione e ha aggiunto analytics sui segmenti di pubblico. Dettagli da verificare sulle pagine ufficiali.",
+  "angles": [
+   "Solo audio o anche video: cosa serve davvero per partire",
+   "Come leggere le statistiche quando cambia la definizione di 'play'"
+  ],
+  "hooks": [
+   "Hai appena comprato un microfono e già ti dicono che serve la telecamera? Calma, ti spiego quando.",
+   "Guardi le visualizzazioni del tuo podcast e non ti tornano? Forse è cambiato come si contano.",
+   "Pensi che il video ti faccia crescere da solo? Spoiler: no, e costa pure il doppio."
   ]
  }
 ]

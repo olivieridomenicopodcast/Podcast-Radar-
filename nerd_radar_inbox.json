@@ -1,52 +1,56 @@
 [
  {
   "id": "nerd-2026-10-lucca-60",
-  "title": "Lucca Comics & Games 2026 in corso fino al 1° novembre: 60 anni, tema 'Legacy'",
-  "source": "Smartworld; Multiplayer.it; Cinefilos",
+  "title": "Lucca Comics & Games 2026, 60 anni, fino al 1° novembre",
+  "source": "Sky TG24; Smartworld; Multiplayer.it",
   "affidabilita": "secondaria",
   "date": "2026-10-28",
   "tipo": "fiera",
-  "brief": "Dal 28 ottobre al 1° novembre. Tra gli ospiti Go Nagai, Frank Miller, Jonathan Hickman, Hideaki Kamiya e Zerocalcare. Le fonti parlano di oltre 400-500 autori di fumetti e più di 80 editori. Pokémon festeggia i 30 anni e POP MART debutta a Lucca.",
-  "rilevanza": "Il momento in cui si concentrano annunci di giochi, manga e carte."
+  "brief": "Dal 28 ottobre al 1° novembre, tema Legacy. Videogiochi, giochi da tavolo e GdR hanno spazio ampio, con il Padiglione Carducci per le novità del tavolo."
  },
  {
-  "id": "nerd-2026-10-bandai-namco",
-  "title": "Bandai Namco Palace a Lucca per il quarto anno: oltre 400 mq e il nuovo padiglione The Gundam Base",
-  "source": "Comunicato Bandai Namco (15 ottobre); SpazioGames; AnimeClick",
-  "affidabilita": "primaria",
-  "date": "2026-10-15",
-  "tipo": "fiera",
-  "brief": "Alla Palestra Ducale videogiochi in anteprima, figure, model kit e store ufficiali. Una fonte indica anche anteprime nazionali SEGA e ATLUS. I titoli precisi mostrati non sono emersi dalle ricerche.",
-  "rilevanza": "Per chi va a Lucca: dove provare i giochi in demo."
+  "id": "nerd-2026-10-minalima",
+  "title": "MinaLima presenta a Lucca un nuovo gioco da tavolo su Harry Potter: Defenders of Hogwarts",
+  "source": "Alien Universe Italia; Itakon",
+  "affidabilita": "secondaria",
+  "date": "2026-10",
+  "tipo": "annuncio gioco da tavolo",
+  "brief": "Per i vent'anni dello studio, i fondatori Miraphora Mina ed Eduardo Lima portano a Lucca la presentazione mondiale del titolo."
  },
  {
-  "id": "nerd-2026-10-lucca-videogiochi",
-  "title": "Lucca 2026, programma videoludico: anteprime italiane, demo, trailer e tornei",
-  "source": "Techprincess; Multiplayer.it",
+  "id": "nerd-2026-10-control",
+  "title": "Control Resonant a Lucca con il creative director Mikael Kasurinen (30 ottobre-1 novembre)",
+  "source": "Multiplayer.it",
+  "affidabilita": "secondaria",
+  "date": "2026-10-30",
+  "tipo": "fiera / videogioco",
+  "brief": "Il direttore creativo sarà in fiera per le ultime tre giornate. Non ci sono dettagli verificati su demo o annunci."
+ },
+ {
+  "id": "nerd-2026-10-luke-clea",
+  "title": "Luke & Clea – A Quest for Legacy: il videogioco 8 bit per i 60 anni di Lucca, ultimo livello il 28 ottobre",
+  "source": "Multiplayer.it",
   "affidabilita": "secondaria",
   "date": "2026-10-28",
-  "tipo": "fiera",
-  "brief": "Tra i titoli citati Alien: Isolation 2, Persona 4 Revival, CONTROL Resonant, The Witcher e Final Fantasy VII. Il festival ha anche lanciato Luke & Clea, gioco pixel art a 8 bit per i 60 anni, con ultimo livello sbloccato il 28 ottobre.",
-  "rilevanza": "Elenco dei giochi da tenere d'occhio, da incrociare col programma ufficiale."
+  "tipo": "annuncio videogioco",
+  "brief": "Gioco in pixel art disponibile via app dal 24 settembre, con l'ultimo livello sbloccato il 28 ottobre."
  },
  {
   "id": "nerd-2026-10-essen",
-  "title": "SPIEL Essen 2026 (22-25 ottobre): affluenza attesa fino a 230.000 visitatori, record",
-  "source": "Spielwarenmesse; Asmodee (comunicato 23 settembre)",
+  "title": "SPIEL Essen 2026 (22-25 ottobre): oltre 1.200 espositori da 50 paesi",
+  "source": "Spiel Essen; Meeplay; Board Game Wire",
   "affidabilita": "secondaria",
   "date": "2026-10-25",
   "tipo": "fiera",
-  "brief": "Gli organizzatori puntavano al record di visitatori. Asmodee ha portato novità ed esclusive con sessioni di firma degli autori. Un sito (pocketgamer.biz) dà date diverse, 8-11 ottobre, in contrasto con tutte le altre fonti.",
-  "rilevanza": "La fiera chiusa pochi giorni fa che alimenta le uscite dei prossimi mesi."
+  "brief": "La fiera si è chiusa; tra i titoli attesi Forest Shuffle – Smoky Mountains e -60° di Pfister e Prinz. Copertura post-fiera non trovata."
  },
  {
-  "id": "nerd-2026-10-ff7-boardgame",
-  "title": "Square Enix annuncerebbe un gioco da tavolo cooperativo di Final Fantasy VII con Arclight",
-  "source": "Hashout.jp",
-  "affidabilita": "segnale debole",
+  "id": "nerd-2026-10-orken",
+  "title": "Debutto europeo di ORKEN a Lucca, la serie fantasy transmediale di Marko Djurdjevic",
+  "source": "Multiplayer.it; SpazioGames",
+  "affidabilita": "secondaria",
   "date": "2026-10",
-  "tipo": "annuncio gioco da tavolo",
-  "brief": "Una sola fonte, giapponese: va confermata. Nello stesso articolo Hisashi Hayashi, autore di Railway Boom (Arclight), avrebbe vinto l'International Gamers Award multigiocatore, primo giapponese a riuscirci.",
-  "rilevanza": "Da verificare prima di rilanciarlo."
+  "tipo": "annuncio / GdR",
+  "brief": "ORKEN è tra i protagonisti del settore GdR a Lucca insieme a D&D e Daggerheart, con sessioni dal vivo e autori presenti."
  }
 ]

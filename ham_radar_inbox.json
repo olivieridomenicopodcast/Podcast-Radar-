@@ -1,28 +1,34 @@
 [
  {
-  "id": "ham-2026-10-cqww-ssb-chiuso",
-  "title": "CQ WW DX SSB concluso (24-25 ottobre): log da inviare entro il 27, il CW sarà il 28-29 novembre",
+  "id": "ham-2026-11-cqww-cw",
+  "title": "CQ WW DX CW il 28-29 novembre: log entro il 1° dicembre",
   "source": "CQ WW DX Contest (cqww.com); NG3K",
   "affidabilita": "primaria",
-  "date": "2026-10-25",
-  "brief": "Il contest SSB si è svolto dalle 00:00 UTC di sabato 24 alle 23:59 UTC di domenica 25; la scadenza dei log era il 27 ottobre. Il prossimo appuntamento è il CQ WW CW il 28-29 novembre, log entro il 1° dicembre. Bande ammesse: 160-10 m (senza WARC), scambio RS più zona CQ. L'edizione SSB 2025 aveva segnato il record di 10.576 log.",
-  "rilevanza": "Se non hai ancora spedito il log SSB sei fuori tempo; il CW è il prossimo banco di prova."
+  "date": "2026-11-28",
+  "brief": "Il contest CW va dalle 00:00 UTC di sabato 28 alle 23:59 UTC di domenica 29 novembre; scadenza log 1° dicembre. NG3K elenca tra le operazioni annunciate VP2VBB dalle Isole Vergini Britanniche, attiva prima del contest come VP2V/GU4YOX. L'elenco potrebbe non essere completo."
  },
  {
-  "id": "ham-2026-10-sfi-21",
-  "title": "Flusso solare 115 il 21 ottobre, previsione 112-115 fino al 24",
-  "source": "SpaceWeatherLive (rapporto USAF/NOAA)",
+  "id": "ham-2026-10-sfi",
+  "title": "Flusso solare tra 89 e 121 nella settimana 20-27 ottobre",
+  "source": "Club Log (DX report)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-27",
+  "brief": "Il report di Club Log riporta valori SFI da 89 a 121 nel periodo, indicati come bassi. È un'istantanea precedente a oggi, non una previsione per novembre; per le condizioni attuali controlla NOAA o hamqsl."
+ },
+ {
+  "id": "ham-2026-10-cqww-ssb",
+  "title": "CQ WW DX SSB concluso (24-25 ottobre), log scaduti il 27",
+  "source": "CQ WW DX Contest (cqww.com)",
   "affidabilita": "primaria",
-  "date": "2026-10-21",
-  "brief": "Dato più recente trovato, ormai vecchio di 9 giorni: da ricontrollare su NOAA SWPC. Probabilità di brillamenti M 15-20% e X 1-5% per quei giorni.",
-  "rilevanza": "Indicatore di base per le bande alte; non sostituisce un bollettino di oggi."
+  "date": "2026-10-25",
+  "brief": "Il contest SSB si è chiuso il 25 ottobre e il termine per i log era il 27. Prossimo appuntamento il CQ WW CW a fine novembre."
  },
  {
-  "id": "ham-2026-10-nessun-dx",
-  "title": "Nessuna DX-pedition e nessuna novità normativa o di attrezzatura verificata nelle ultime 48 ore",
+  "id": "ham-2026-10-nessuna-dxped",
+  "title": "Nessuna DX-pedition nuova verificata nelle ultime 48 ore",
   "source": "ricerche web",
   "affidabilita": "segnale debole",
-  "date": "2026-10-30",
-  "brief": "Le ricerche non hanno restituito fonti aggiornate su spedizioni in corso, Kenwood, Hamlib, SDR o IARU. I siti specializzati (ARRL, DX bulletin) non sono raggiungibili da questa sessione, quindi non pubblico nulla che non sia verificato."
+  "date": "2026-10-31",
+  "brief": "Le ricerche non hanno restituito annunci DX-pedition datati alle ultime 48 ore né notizie normative IARU/nazionali. Meglio vuoto che inventato: guarda 425 DX News e il DX Calendar di NG3K."
  }
 ]

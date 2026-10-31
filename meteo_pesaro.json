@@ -1,30 +1,19 @@
 {
- "aggiornato": "2026-10-30",
+ "aggiornato": "2026-10-31",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
-  "https://www.3bmeteo.com/meteo/pesaro",
-  "https://www.meteo.it/meteo/pesaro-3-giorni-41044",
-  "https://www.scimarche.it",
-  "https://www.civonline.it",
+  "https://www.ilmeteo.it/meteo/pesaro",
+  "https://www.meteolive.it",
+  "https://www.ilrestodelcarlino.it/meteo",
   "https://allertameteo.regione.marche.it/bollettini-meteo"
  ],
  "previsioni": [
   {
-   "data": "2026-10-30",
-   "giorno": "venerdì",
-   "temp_min_c": null,
-   "temp_max_c": 18,
-   "condizioni": "variabile, ultimo giorno stabile (dato del 28 ottobre)",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta reperita"
-  },
-  {
    "data": "2026-10-31",
    "giorno": "sabato",
-   "temp_min_c": 12,
-   "temp_max_c": 16,
-   "condizioni": "peggioramento: pioviggine e piogge deboli",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "nuvoloso con rovesci e temporali isolati, probabilità di pioggia intorno al 52% nel pomeriggio (iLMeteo)",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
@@ -32,13 +21,23 @@
   {
    "data": "2026-11-01",
    "giorno": "domenica",
-   "temp_min_c": 12,
-   "temp_max_c": 16,
-   "condizioni": "giorno peggiore: pioggia più diffusa dal pomeriggio, aria fredda dai Balcani, temperature fino a 7 °C sotto media, possibile graupel sulla costa e neve sull'Appennino oltre 1300-1400 m; le fonti non concordano sui valori",
-   "vento": "vento sull'Adriatico (Civonline), intensità non reperita",
-   "mare": "dato non reperito",
+   "temp_min_c": 9,
+   "temp_max_c": 14,
+   "condizioni": "piovoso su tutte le Marche, possibile graupel su fascia collinare e costiera, neve sull'Appennino dalla sera oltre 1000-1200 m",
+   "vento": "nord-orientale, anche forte sulla costa in serata",
+   "mare": "mosso",
+   "allerta": "nessuna allerta reperita; bollettino regionale non aggiornato"
+  },
+  {
+   "data": "2026-11-02",
+   "giorno": "lunedì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "forte calo termico, precipitazioni sparse",
+   "vento": "forte",
+   "mare": "agitato",
    "allerta": "nessuna allerta reperita"
   }
  ],
- "note": "Fonti discordanti per sabato e domenica. Minime e vento non reperiti: controlla il bollettino della Regione Marche."
+ "note": "I valori 9 e 14 °C sono quelli indicati per domenica da Allerta Meteo Marche (ore 5 e 14), ma il bollettino risulta datato. I modelli per il weekend cambiano spesso: ricontrolla."
 }

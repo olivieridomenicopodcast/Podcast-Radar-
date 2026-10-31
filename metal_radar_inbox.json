@@ -1,47 +1,42 @@
 [
  {
+  "id": "metal-2026-ministry",
+  "title": "Ministry: esce 'Hate To Go' (30 ottobre), ultimo album in studio; concerto d'addio il 30 ottobre 2027",
+  "source": "Loaded Radio",
+  "affidabilita": "secondaria",
+  "date": "2026-10-30",
+  "brief": "Al Jourgensen lo ha indicato come ultimo album in studio, per Cleopatra Records. Concerto finale annunciato al Kia Forum di Los Angeles il 30 ottobre 2027."
+ },
+ {
+  "id": "metal-2026-currents",
+  "title": "Currents firmano con Rise Records: nuovo album 'Our Fates Lie In Tandem' il 12 febbraio 2027",
+  "source": "Loaded Radio",
+  "affidabilita": "secondaria",
+  "date": "2026-10-30",
+  "brief": "Il gruppo metalcore/progressive annuncia contratto e album."
+ },
+ {
+  "id": "metal-2026-soil",
+  "title": "SOiL: singolo 'Enemy X' e nuovo album nel 2027 con Better Noise Music",
+  "source": "Loaded Radio",
+  "affidabilita": "secondaria",
+  "date": "2026-10-30",
+  "brief": "Primo materiale originale dal 2013 (album Whole)."
+ },
+ {
   "id": "metal-2026-manowar-bergamo",
   "title": "Manowar a Bergamo il 26 e 27 marzo 2027, prima volta in Italia dopo 14 anni",
-  "source": "Ticketone",
-  "affidabilita": "secondaria",
+  "source": "Manowar.com; Ticketone",
+  "affidabilita": "primaria",
   "date": "2026-10",
-  "brief": "Due serate al ChorusLife Arena: 'Kings of Metal' il 26 e 'Fighting the World' il 27, suonati per intero. Non è confermato che l'annuncio sia delle ultime 48 ore.",
-  "rilevanza": "Raggiungibile dal Nord Italia: biglietti da controllare."
+  "brief": "Due serate al ChorusLife Arena: Kings of Metal il 26 e Fighting the World il 27, eseguiti per intero. Data dell'annuncio non verificata."
  },
  {
-  "id": "metal-2026-megadeth-assago",
-  "title": "Megadeth all'Unipol Forum di Assago il 6 aprile 2027, tour d'addio europeo",
-  "source": "Ticketone",
+  "id": "metal-2026-rhapsody-tour",
+  "title": "Rhapsody of Fire: Motocultor Across Europe Tour dal 7 gennaio al 6 febbraio 2027, Italia inclusa",
+  "source": "Regioactive; Aeon Gods",
   "affidabilita": "secondaria",
   "date": "2026-10",
-  "brief": "Unica data italiana indicata nel leg europeo indoor del tour d'addio. Data dell'annuncio non verificata.",
-  "rilevanza": "Una delle ultime occasioni dal vivo."
- },
- {
-  "id": "metal-2026-dragonforce-tour",
-  "title": "DragonForce: tour europeo primavera 2027 con Visions of Atlantis e Wings of Steel, nuovo singolo 'Hunger of the Beast'",
-  "source": "Blabbermouth",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Annunciati nuovo singolo e nuovo album. Nei risultati non c'era la lista delle date: non so se tocchi l'Italia. Data esatta dell'annuncio non confermata.",
-  "rilevanza": "Da controllare se arriva in zona."
- },
- {
-  "id": "metal-2026-saxon-album",
-  "title": "Saxon: nuovo album 'Gods of Thunder' a gennaio",
-  "source": "Rockol",
-  "affidabilita": "segnale debole",
-  "date": "2026-10",
-  "brief": "Titolo letto in una pagina indice di Rockol, senza dettagli né data di uscita precisa.",
-  "rilevanza": "Uscita da tenere d'occhio nel 2027."
- },
- {
-  "id": "metal-2026-whitechapel-mi",
-  "title": "Whitechapel a Milano il 9 febbraio 2027 con Sylosis, unica data italiana",
-  "source": "Ticketone",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Burn Forever European Tour ai Magazzini Generali. Biglietti in vendita dal 12 marzo 2026: non è una novità recente.",
-  "rilevanza": "Metalcore raggiungibile."
+  "brief": "Tour in undici paesi legato ai 30 anni di carriera. Data e venue italiane non verificate."
  }
 ]
