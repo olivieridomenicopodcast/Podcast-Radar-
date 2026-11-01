@@ -1,113 +1,74 @@
 [
  {
-  "id": "podcast-2026-10-spreaker-copie",
-  "title": "Podnews: l'importatore RSS di Spreaker permette di copiare interi podcast altrui e monetizzarli",
-  "source": "Podnews; tutkit.com (sintesi in tedesco)",
+  "id": "podcast-2026-11-podcastone",
+  "title": "Podnews: più soggetti interessati ad acquistare PodcastOne",
+  "source": "Podnews",
+  "affidabilita": "secondaria",
+  "target": 5,
+  "date": "2026-10-30",
+  "brief": "Un episodio di Podnews del 30 ottobre racconta che diversi soggetti sarebbero interessati a rilevare PodcastOne. Dettagli non verificati in originale: letto solo il riassunto del titolo e della descrizione.",
+  "angles": [
+   "Perché le reti podcast cambiano proprietario e cosa significa per chi pubblica",
+   "Come tenere il tuo show indipendente dalla piattaforma"
+  ],
+  "hooks": [
+   "Hai appena aperto un podcast e ti sembra tutto stabile? Le reti cambiano padrone più spesso dei tuoi episodi.",
+   "Pensi che il tuo hosting sia eterno? Spoiler: nessuno lo è.",
+   "Hai un podcast su una rete e non hai mai letto il contratto? Qui ci si prende un caffè, poi si legge."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-spreaker-copia-classifica",
+  "title": "Copia non autorizzata di un podcast via Spreaker arriva nelle classifiche Apple in cinque giorni",
+  "source": "Podnews (via This Week in the Podverse)",
   "affidabilita": "secondaria",
   "target": 8,
-  "date": "2026-10-24",
-  "brief": "Podnews riporta che bastano un account gratuito e l'indirizzo RSS di un altro show per duplicarlo su Spreaker, con artwork ed episodi futuri, e venderne la pubblicità. Un conteggio su Podcast Index (24 ottobre) parla di circa 1.778 show copiati; Podnews dice che Spreaker trattiene il 41% dei ricavi. Spreaker risponde che non consente upload senza diritti e interviene sulle segnalazioni. Cifra di 1.778 da una fonte secondaria: l'originale non è stato verificato.",
+  "date": "2026-10-30",
+  "brief": "Una host ha scoperto una copia integrale del suo show su Spreaker, diffusa sulle piattaforme principali e arrivata nelle classifiche Apple in cinque giorni. Segue la notizia dell'importatore RSS di Spreaker che consente di copiare show altrui con pochi controlli. Fonte secondaria: originale Podnews non letto.",
   "angles": [
-   "Come proteggere il tuo feed RSS (tag podcast:locked) prima di pubblicare",
-   "Perché la scelta dell'hosting non è solo questione di prezzo",
-   "Cosa controllare ogni mese: il tuo show esiste anche dove non l'hai caricato?"
+   "Come controllare se qualcuno ha clonato il tuo feed",
+   "Perché l'hosting italiano/europeo non è solo questione di prezzo"
   ],
   "hooks": [
-   "Hai appena pubblicato il tuo primo podcast e pensi che nessuno lo copi? Ti basta un RSS e qualcuno lo fa suo.",
-   "Stai scegliendo dove ospitare il podcast solo per il prezzo? Guarda cosa si può fare col tuo feed.",
-   "Hai messo il tuo RSS ovunque senza pensarci? Facciamo il giro dei lucchetti, prima che te lo clonino."
+   "Hai appena pubblicato il tuo primo episodio? Controlla che non ci sia già il tuo show sul profilo di un altro.",
+   "Stai aspettando di crescere prima di proteggere il feed? Il clone, intanto, è già in classifica.",
+   "Hai il tuo RSS in giro senza lucchetto? Bastano cinque minuti, e una freddura per ricordartelo."
   ]
  },
  {
-  "id": "podcast-2026-10-festival-podcasting",
-  "title": "Festival del Podcasting a Milano (2-3 ottobre), decimo anno: discoverability, video podcast e monetizzazione i temi chiave",
-  "source": "Milano Finanza; Il Sole 24 Ore; Podcasting Today",
+  "id": "podcast-2026-11-buzzsprout-starter",
+  "title": "Buzzsprout lancia uno Starter Kit: titolo, descrizione, copertina e categorie da cinque domande",
+  "source": "Podnews (via This Week in the Podverse)",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026-10-02",
-  "brief": "Decima edizione a Cascina Triulza (MIND): venerdì Industry Day per brand e piattaforme, sabato Creator Day. Organizza Podstar, direzione di Ester Memeo. Milano Finanza parla di 15,5 milioni di ascoltatori nel 2025 (+2%), un mercato descritto come maturo. Non è una notizia delle ultime 48 ore, ma resta il contesto italiano più recente.",
-  "angles": [
-   "Cosa significa 'mercato maturo' per chi parte adesso",
-   "Video podcast in Italia: serve davvero?",
-   "Come presentarsi a un festival o a un brand senza sentirsi un impostore"
-  ],
-  "hooks": [
-   "Hai un podcast e ti chiedi se in Italia ha ancora senso partire? Il festival ha una risposta, e non è 'sì a prescindere'.",
-   "Pensi che il video podcast sia solo una moda americana? A Milano ne hanno parlato per due giorni.",
-   "Hai paura di non essere abbastanza 'professionista'? Il Creator Day esiste proprio per quelli come te."
-  ]
- },
- {
-  "id": "podcast-2026-10-nielseniq-audible",
-  "title": "Italia: circa 18,5 milioni di ascoltatori di podcast nel 2026, crescita più lenta (+3%)",
-  "source": "ItaliaOggi (ricerca NielsenIQ per Audible)",
-  "affidabilita": "secondaria",
-  "target": 8,
-  "date": "2026-10",
-  "brief": "Secondo NielsenIQ per Audible gli ascoltatori sono circa 18,5 milioni (+3% sul 2025). Si ascolta in media 5 volte al mese per circa 27 minuti a sessione. Altre fonti danno numeri diversi (15,5 milioni nel 2025 per Milano Finanza): cambia la metodologia. Giorno esatto di uscita da verificare.",
-  "angles": [
-   "Sessioni da 27 minuti: quanto deve durare la tua puntata",
-   "Come leggere i numeri senza farti fregare dalle metodologie",
-   "Mercato maturo: vince il formato, non il volume"
-  ],
-  "hooks": [
-   "Fai puntate da un'ora e mezza? Gli italiani ne ascoltano in media 27 minuti per volta.",
-   "Vuoi partire perché 'tanto lo ascoltano tutti'? Sono 18 milioni, ma la crescita rallenta.",
-   "Hai letto che il podcast è morto? Spoiler: no, ma non ti regala più niente."
-  ]
- },
- {
-  "id": "podcast-2026-10-podnews-podcastone",
-  "title": "PodcastOne: più soggetti interessati all'acquisto, secondo Podnews",
-  "source": "Podnews (30 ottobre)",
-  "affidabilita": "segnale debole",
-  "target": 4,
   "date": "2026-10-30",
-  "brief": "Podnews titola 'Who's buying PodcastOne?' e scrive che più parti sarebbero interessate. Dettagli non verificati e fonte unica: è un segnale sul consolidamento delle reti podcast USA, non una notizia confermata.",
+  "brief": "Il nuovo kit chiede a chi comincia cinque domande sull'idea e propone titolo, descrizione, artwork e categorie. Utile come spunto per chi parte da zero, ma i suggerimenti automatici vanno rivisti con la propria testa.",
   "angles": [
-   "Reti e network: ti servono davvero all'inizio?",
-   "Cosa succede ai tuoi diritti se la rete viene venduta"
+   "Titolo e descrizione: cosa un tool non sa del tuo pubblico",
+   "Primo setup di un podcast in un pomeriggio"
   ],
   "hooks": [
-   "Pensi di entrare in un network per 'crescere in fretta'? Guarda cosa succede quando il network cambia padrone.",
-   "Hai firmato un contratto senza leggerlo? Ti spiego cosa controllare adesso.",
-   "Sogni la rete grossa per il tuo podcast? Prima chiediti di chi sarà domani."
+   "Hai l'idea per un podcast ma non sai nemmeno come chiamarlo? Cinque domande e un tool ti dà un nome. Ora ti dico perché non basta.",
+   "Stai per farti scrivere la descrizione da un'AI? Aspetta, prima leggi questo.",
+   "Hai un'idea e zero titolo? Succede, il titolo arriva dopo l'imbarazzo."
   ]
  },
  {
-  "id": "podcast-2026-castro-maple",
-  "title": "L'app Castro venduta a Maple Media, annuncia il creatore Dustin Bluck",
-  "source": "Podcast News Daily",
-  "affidabilita": "segnale debole",
-  "target": 3,
-  "date": "2026-10-30",
-  "brief": "Podcast News Daily riporta la vendita di Castro, app di ascolto, a Maple Media. Fonte unica, dettagli dell'accordo non verificati. Interessa soprattutto come segnale sul mercato delle app di ascolto indipendenti.",
-  "angles": [
-   "Perché il tuo pubblico non ascolta dove pensi tu",
-   "Distribuire ovunque, senza dipendere da una sola app"
-  ],
-  "hooks": [
-   "Pensi che tutti ti ascoltino su Spotify? Controlla le tue statistiche, ti stupisci.",
-   "Hai caricato il podcast solo su una piattaforma? Questa notizia ti spiega perché è rischioso.",
-   "Stai ottimizzando tutto per un'app sola? Ti racconto perché non conviene."
-  ]
- },
- {
-  "id": "podcast-2026-apple-video-spotify-play",
-  "title": "Video su Apple Podcasts (HLS da febbraio) e Spotify che conta un 'play' dopo 30 secondi: il quadro 2026 per i creator",
-  "source": "Nieman Lab; Podcast Videos; sintesi di ricerca",
+  "id": "podcast-2026-11-podchaser-venerdi",
+  "title": "Podchaser: il venerdì è il giorno meno affollato per pubblicare, il martedì il più affollato",
+  "source": "Podchaser (analisi su circa 3 milioni di episodi, via ricerca web)",
   "affidabilita": "secondaria",
-  "target": 7,
-  "date": "2026-02",
-  "brief": "Contesto, non notizia del giorno: Apple ha attivato il video HLS nei Podcasts a febbraio 2026 e l'ha esteso a Mac e tvOS; Spotify ha ridefinito il 'play' a 30 secondi di ascolto o visione e ha aggiunto analytics sui segmenti di pubblico. Dettagli da verificare sulle pagine ufficiali.",
+  "target": 6,
+  "date": "2026-10-30",
+  "brief": "Su quasi 3 milioni di episodi, il venerdì risulta il giorno meno affollato in 18 categorie su 19; il martedì il più affollato. Correlazione sulle uscite, non prova che pubblicare il venerdì porti più ascolti.",
   "angles": [
-   "Solo audio o anche video: cosa serve davvero per partire",
-   "Come leggere le statistiche quando cambia la definizione di 'play'"
+   "Quando pubblicare: il dato e i suoi limiti",
+   "Costanza batte giorno della settimana"
   ],
   "hooks": [
-   "Hai appena comprato un microfono e già ti dicono che serve la telecamera? Calma, ti spiego quando.",
-   "Guardi le visualizzazioni del tuo podcast e non ti tornano? Forse è cambiato come si contano.",
-   "Pensi che il video ti faccia crescere da solo? Spoiler: no, e costa pure il doppio."
+   "Hai appena scelto il martedì per pubblicare? Pare che lo facciano tutti.",
+   "Ti chiedi quando pubblicare il tuo podcast? Un dato c'è, ma non ti salva da un audio brutto.",
+   "Pubblichi sempre di martedì perché fan tutti così? Come la fila al supermercato di sabato."
   ]
  }
 ]

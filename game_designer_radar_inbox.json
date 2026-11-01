@@ -1,123 +1,22 @@
 [
  {
-  "id": "gd-it-lucca-carducci",
-  "title": "Lucca 2026: nel Padiglione Carducci i principali editori di giochi da tavolo, GdR e TCG",
-  "source": "Itakon; SpazioGames",
+  "id": "gd-it-lucca-2026",
+  "title": "Lucca 2026: Padiglione Carducci con gli editori del tavolo e 'Games Café Live' su Twitch",
+  "source": "SpazioGames; Firenze Made in Tuscany",
   "affidabilita": "secondaria",
   "mercato": "italiana",
   "tipo": "fiera",
-  "date": "2026-10-28",
-  "brief": "Dal 28 ottobre al 1° novembre il padiglione ospita le novità del tavolo; sul sito ufficiale c'è la sezione '60 anni di Gioco'.",
-  "rilevanza": "Luogo dove incontrare editori e cataloghi."
+  "date": "2026-11-01",
+  "brief": "Ultimo giorno oggi. Novità tavolo, Daggerheart, D&D, debutto europeo di ORKEN. Elenco espositori 2026 non reperito."
  },
  {
-  "id": "gd-it-giochi-uniti",
-  "title": "Giochi Uniti presenta The Social Contract, gioco di geopolitica con Factanza",
-  "source": "Itakon; Alien Universe Italia",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "cataloghi",
-  "date": "2026-10",
-  "brief": "Titolo sviluppato con Factanza, tra le novità dell'editore a Lucca.",
-  "rilevanza": "Mostra un editore italiano aperto a collaborazioni con creator e brand."
- },
- {
-  "id": "gd-it-ms-hidden",
-  "title": "MS Edizioni e Hidden Games: anteprima di Fourth Wing – L'ascesa del Capo d'Ala",
-  "source": "Orgoglio Nerd",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "licenza",
-  "date": "2026-10",
-  "brief": "Anteprima con firmacopie a Lucca per un gioco su licenza letteraria.",
-  "rilevanza": "Le licenze letterarie sono una strada per i cataloghi."
- },
- {
-  "id": "gd-it-asmodee",
-  "title": "Asmodee Italia: Lupi Mannari di Roccascura (25 anni) e Toy Battle di Mori e Zucchini",
-  "source": "SpazioGames; Itakon",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "cataloghi",
-  "date": "2026-10",
-  "brief": "Edizione limitata per i 25 anni e nuovo gioco di autori italiani.",
-  "rilevanza": "Asmodee Italia lavora con autori italiani."
- },
- {
-  "id": "gd-it-games-cafe",
-  "title": "Games Café Live: i giochi da tavolo su Twitch a Lucca per la prima volta",
-  "source": "SpazioGames",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "evento",
-  "date": "2026-10",
-  "brief": "Spazio streaming dedicato al tavolo.",
-  "rilevanza": "Visibilità per titoli e autori."
- },
- {
-  "id": "gd-it-combo",
-  "title": "Combo Festival di Pedine, Dadi e Carte: programma della prima edizione a Milano",
-  "source": "Mentelocale",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "fiera",
-  "date": "2026-10",
-  "brief": "Nuovo festival milanese; date e editori presenti da verificare.",
-  "rilevanza": "Possibile nuova occasione per proporre prototipi."
- },
- {
-  "id": "gd-it-ideag",
-  "title": "IdeaG 2026: nessuna data o sede trovata",
-  "source": "ricerche web",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "IdeaG",
-  "date": "2026-10-31",
-  "brief": "Nessun annuncio verificato su IdeaG nelle ultime 48 ore. Controlla il sito dell'associazione.",
-  "rilevanza": "Informazione mancante, non inventata."
- },
- {
-  "id": "gd-int-osprey",
-  "title": "Osprey Games licenzia l'intero team di sviluppo giochi e cancella lo stand a Essen",
-  "source": "Board Game Wire",
-  "affidabilita": "secondaria",
+  "id": "gd-int-battlestar-ghost-galaxy",
+  "title": "Ghost Galaxy, con licenza Universal, annuncia una nuova edizione di Battlestar Galactica: The Board Game",
+  "source": "ICv2",
+  "affidabilita": "primaria",
   "mercato": "straniera",
-  "tipo": "editori",
-  "date": "2026-10-16",
-  "brief": "Bloomsbury ha confermato che chi lavorava solo ai giochi ha lasciato l'azienda. Non è delle ultime 48 ore.",
-  "rilevanza": "Segnale di mercato: editori che chiudono linee e cataloghi in contrazione per chi propone prototipi."
- },
- {
-  "id": "gd-int-lookout",
-  "title": "Lookout Games porta Forest Shuffle – Smoky Mountains a Essen",
-  "source": "Meeplay; Board Game Wire",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "cataloghi",
-  "date": "2026-10-22",
-  "brief": "Terzo gioco standalone della serie Forest Shuffle.",
-  "rilevanza": "Esempio di espansione di un brand di successo."
- },
- {
-  "id": "gd-int-nanox",
-  "title": "-60°: Pfister e Prinz, edizioni tedesca e inglese di Nanox Games",
-  "source": "Meeplay",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "cataloghi",
-  "date": "2026-10-22",
-  "brief": "Gioco di esplorazione antartica, distribuito da dlp games.",
-  "rilevanza": "Un autore affermato con un piccolo editore."
- },
- {
-  "id": "gd-int-ares",
-  "title": "Ares Games amplia la distribuzione con Draco Ideas in Spagna",
-  "source": "Board Game Wire",
-  "affidabilita": "segnale debole",
-  "mercato": "straniera",
-  "tipo": "distribuzione",
-  "date": "2026-10",
-  "brief": "Accordo di distribuzione internazionale; data non verificata.",
-  "rilevanza": "Ares è italiana: segnale sull'export."
+  "tipo": "licenza/editore",
+  "date": "2026-10-23",
+  "brief": "Crowdfunding previsto nel 2027. Oltre le 48 ore ma utile come segnale di licenze nel settore."
  }
 ]

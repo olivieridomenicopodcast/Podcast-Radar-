@@ -1,38 +1,20 @@
 [
  {
-  "id": "rift-2026-10-radiance-meta",
-  "title": "Radiance (uscito il 23 ottobre): tier list RiftMana con Kai'Sa, Evelynn, Jayce, Lillia, Ezreal, Mel e Renekton",
-  "source": "RiftMana; Wikipedia (tabella set)",
+  "id": "rift-2026-11-radiance-no-ban",
+  "title": "Radiance: aggiornamento regole senza nuovi ban, corretto il testo di quattro carte",
+  "source": "riftwatch.gg; guide di terze parti",
   "affidabilita": "secondaria",
-  "date": "2026-10-29",
-  "brief": "La tier list di RiftMana, aggiornata un paio di giorni fa, indica come mazzi in vista Fury/Mind Kai'Sa, Body/Chaos Evelynn, Mind/Body Jayce, Calm/Mind Lillia, Mind/Chaos Ezreal e Mel, Fury/Body Renekton. Radiance introduce le parole chiave Show Off, Deploy e Disarm. È un'istantanea: non è chiaro da quanti eventi derivi.",
-  "rilevanza": "Se stai costruendo mazzi per il nuovo set, ti dà una prima mappa del meta, da prendere con cautela."
+  "date": "2026-10-23",
+  "brief": "Più fonti indicano che l'aggiornamento regole di Radiance (uscito il 23 ottobre, Pre-Rift dal 16 al 22) aggiunge il set allo Standard senza modificare la ban list e corregge il testo di Elnuk Herd, Last Caress, Forbidden Technique e Neeko, Blending In. Non ho trovato annunci Riot ufficiali dopo il 18 settembre.",
+  "rilevanza": "Se giochi Standard, il meta di Radiance si evolve senza nuove carte vietate; controlla playriftbound.com per novità."
  },
  {
-  "id": "rift-2026-roadmap-2027",
-  "title": "Roadmap 2027: Legacy (draft) il 29 gennaio e The Reckoning il 30 aprile",
-  "source": "The Outer Haven; sintesi di ricerca",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "brief": "Riot ha presentato la roadmap 2027 con Draft Play e quattro set in più: Legacy, espansione pensata per il draft, il 29 gennaio 2027 e The Reckoning (settimo set) il 30 aprile 2027. Data dell'annuncio non verificata, quindi non è certo che sia delle ultime 48 ore.",
-  "rilevanza": "Aiuta a pianificare acquisti e rotazioni: Legacy cambia l'approccio al bilanciamento, essendo pensato per il draft."
- },
- {
-  "id": "rift-2026-lucca",
-  "title": "Riftbound a Lucca Comics & Games 2026",
-  "source": "Alien Universe Italia (programma Lucca)",
-  "affidabilita": "secondaria",
-  "date": "2026-10-28",
-  "brief": "Tra le presenze nel padiglione dei giochi di Lucca, fino al 1° novembre, il programma cita anche Riftbound con League of Legends sul tavolo. Nessun dettaglio verificato su tornei o promo.",
-  "rilevanza": "Se sei a Lucca, controlla stand ed eventi organizzati per promo e prove di gioco."
- },
- {
-  "id": "rift-2026-10-no-ban",
-  "title": "Nessun ban con Radiance: l'ultima ondata resta quella del 18 settembre",
-  "source": "Riftcompare; Riftbound Zone; Skillshotz (dal report precedente)",
-  "affidabilita": "secondaria",
-  "date": "2026-10-20",
-  "brief": "Riportato nei giorni scorsi: non risultano ban associati all'uscita di Radiance. Non ho trovato conferme nuove nelle ultime 48 ore.",
-  "rilevanza": "Il meta si assesta senza interventi: chi ha mazzi competitivi può contare sulla lista attuale fino a nuovo avviso."
+  "id": "rift-2026-11-ultimi-ban",
+  "title": "Ultimi ban noti: Ekko, Recurrent e Stacked Deck (annunci del 15 settembre, effettivi dal 18)",
+  "source": "guide ban list di terze parti",
+  "affidabilita": "segnale debole",
+  "date": "2026-09-18",
+  "brief": "Secondo le guide, la lista Standard conta ora 12 carte vietate e quella 2v2 13, ma i conteggi non coincidono del tutto tra le fonti. Notizia non recente: serve come contesto.",
+  "rilevanza": "Prima di costruire un mazzo, verifica la ban list ufficiale."
  }
 ]

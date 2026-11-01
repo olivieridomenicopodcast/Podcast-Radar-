@@ -1,56 +1,20 @@
 [
  {
-  "id": "nerd-2026-10-lucca-60",
-  "title": "Lucca Comics & Games 2026, 60 anni, fino al 1° novembre",
-  "source": "Sky TG24; Smartworld; Multiplayer.it",
+  "id": "nerd-2026-11-lucca-ultimo-giorno",
+  "title": "Lucca Comics & Games 2026, 60 anni: oggi l'ultimo giorno",
+  "source": "Multiplayer.it; SpazioGames; Smartworld",
   "affidabilita": "secondaria",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "tipo": "fiera",
-  "brief": "Dal 28 ottobre al 1° novembre, tema Legacy. Videogiochi, giochi da tavolo e GdR hanno spazio ampio, con il Padiglione Carducci per le novità del tavolo."
+  "brief": "Il festival si chiude il 1° novembre. Tra videogiochi: Control Resonant con il creative director Mikael Kasurinen, ospiti come Kitase e Kamiya. Tra tavolo e GdR: Padiglione Carducci, Daggerheart, D&D, debutto europeo di ORKEN (Marko Djurdjevic) e Games Café Live su Twitch. Le fonti discordano su 4 o 5 giorni."
  },
  {
-  "id": "nerd-2026-10-minalima",
-  "title": "MinaLima presenta a Lucca un nuovo gioco da tavolo su Harry Potter: Defenders of Hogwarts",
-  "source": "Alien Universe Italia; Itakon",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
+  "id": "nerd-2026-11-lucca-harry-potter",
+  "title": "MinaLima presenta a Lucca un nuovo gioco da tavolo su Harry Potter",
+  "source": "Firenze Made in Tuscany",
+  "affidabilita": "segnale debole",
+  "date": "2026-10-29",
   "tipo": "annuncio gioco da tavolo",
-  "brief": "Per i vent'anni dello studio, i fondatori Miraphora Mina ed Eduardo Lima portano a Lucca la presentazione mondiale del titolo."
- },
- {
-  "id": "nerd-2026-10-control",
-  "title": "Control Resonant a Lucca con il creative director Mikael Kasurinen (30 ottobre-1 novembre)",
-  "source": "Multiplayer.it",
-  "affidabilita": "secondaria",
-  "date": "2026-10-30",
-  "tipo": "fiera / videogioco",
-  "brief": "Il direttore creativo sarà in fiera per le ultime tre giornate. Non ci sono dettagli verificati su demo o annunci."
- },
- {
-  "id": "nerd-2026-10-luke-clea",
-  "title": "Luke & Clea – A Quest for Legacy: il videogioco 8 bit per i 60 anni di Lucca, ultimo livello il 28 ottobre",
-  "source": "Multiplayer.it",
-  "affidabilita": "secondaria",
-  "date": "2026-10-28",
-  "tipo": "annuncio videogioco",
-  "brief": "Gioco in pixel art disponibile via app dal 24 settembre, con l'ultimo livello sbloccato il 28 ottobre."
- },
- {
-  "id": "nerd-2026-10-essen",
-  "title": "SPIEL Essen 2026 (22-25 ottobre): oltre 1.200 espositori da 50 paesi",
-  "source": "Spiel Essen; Meeplay; Board Game Wire",
-  "affidabilita": "secondaria",
-  "date": "2026-10-25",
-  "tipo": "fiera",
-  "brief": "La fiera si è chiusa; tra i titoli attesi Forest Shuffle – Smoky Mountains e -60° di Pfister e Prinz. Copertura post-fiera non trovata."
- },
- {
-  "id": "nerd-2026-10-orken",
-  "title": "Debutto europeo di ORKEN a Lucca, la serie fantasy transmediale di Marko Djurdjevic",
-  "source": "Multiplayer.it; SpazioGames",
-  "affidabilita": "secondaria",
-  "date": "2026-10",
-  "tipo": "annuncio / GdR",
-  "brief": "ORKEN è tra i protagonisti del settore GdR a Lucca insieme a D&D e Daggerheart, con sessioni dal vivo e autori presenti."
+  "brief": "Per i vent'anni dello studio MinaLima è previsto un gioco da tavolo dedicato a Harry Potter. Fonte unica e senza dettagli su titolo e uscita."
  }
 ]
