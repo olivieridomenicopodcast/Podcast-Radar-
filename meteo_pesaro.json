@@ -1,42 +1,42 @@
 {
- "aggiornato": "2026-11-01",
+ "aggiornato": "2026-11-05",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.ilmeteo.it/meteo/pesaro",
-  "https://meteo.tempoitalia.it/previsioni/pesaro",
-  "https://www.meteo.it/meteo/pesaro-oggi-41044"
+  "https://www.meteo.it/meteo/pesaro-oggi-41044",
+  "https://www.3bmeteo.com/meteo/pesaro"
  ],
  "previsioni": [
   {
-   "data": "2026-11-01",
-   "giorno": "domenica",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "maltempo con rovesci (profonda bassa pressione sul Centro-Sud, secondo meteo.it)",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta reperita"
-  },
-  {
-   "data": "2026-11-02",
-   "giorno": "lunedì",
-   "temp_min_c": 12,
-   "temp_max_c": 14,
-   "condizioni": "coperto con qualche pioggia (iLMeteo); Tempoitalia indica parzialmente nuvoloso con max 18",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta reperita"
-  },
-  {
-   "data": "2026-11-03",
-   "giorno": "martedì",
+   "data": "2026-11-04",
+   "giorno": "mercoledì",
    "temp_min_c": 11,
-   "temp_max_c": 18,
-   "condizioni": "nuvoloso, pioggia 70% ma ~0,3 mm (Tempoitalia); iLMeteo indica 12/13",
-   "vento": "tramontana moderata, N 13 km/h (Tempoitalia)",
+   "temp_max_c": 15,
+   "condizioni": "molto nuvoloso o coperto (iLMeteo); coperto nel pomeriggio (meteo.it)",
+   "vento": "dato non reperito",
+   "mare": "mosso, ~18°C (3BMeteo, meteo.it)",
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-11-05",
+   "giorno": "giovedì",
+   "temp_min_c": 12,
+   "temp_max_c": 15,
+   "condizioni": "dato di dettaglio non reperito (solo temperature da iLMeteo)",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta reperita"
+  },
+  {
+   "data": "2026-11-06",
+   "giorno": "venerdì",
+   "temp_min_c": 11,
+   "temp_max_c": 14,
+   "condizioni": "probabilità di precipitazioni 47% (iLMeteo)",
+   "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta reperita"
   }
  ],
- "note": "Le fonti divergono sulle massime (iLMeteo 13-14, Tempoitalia 18). Miglioramento da martedì secondo meteo.it."
+ "note": "Le pagine consultate erano datate 4 novembre; i valori sono quelli indicati per i giorni 4-6. Dati su vento e condizioni dettagliate incompleti."
 }
