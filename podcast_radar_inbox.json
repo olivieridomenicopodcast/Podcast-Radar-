@@ -1,74 +1,92 @@
 [
  {
-  "id": "podcast-2026-11-podcastone",
-  "title": "Podnews: più soggetti interessati ad acquistare PodcastOne",
-  "source": "Podnews",
-  "affidabilita": "secondaria",
-  "target": 5,
-  "date": "2026-10-30",
-  "brief": "Un episodio di Podnews del 30 ottobre racconta che diversi soggetti sarebbero interessati a rilevare PodcastOne. Dettagli non verificati in originale: letto solo il riassunto del titolo e della descrizione.",
+  "id": "podcast-2026-11-adswizz-apple-video",
+  "title": "AdsWizz porta gli annunci audio sui video podcast di Apple Podcasts",
+  "source": "Podcast News Daily (via ricerca web)",
+  "affidabilita": "segnale debole",
+  "target": 6,
+  "date": "2026-11-06",
+  "brief": "Secondo una sola fonte, AdsWizz permette agli editori di usare gli spot audio già venduti anche nei video podcast su Apple Podcasts, con banner di accompagnamento. Data indicata come 'circa un giorno fa': non verificata in originale.",
   "angles": [
-   "Perché le reti podcast cambiano proprietario e cosa significa per chi pubblica",
-   "Come tenere il tuo show indipendente dalla piattaforma"
+   "Video su Apple Podcasts: serve davvero girare il video?",
+   "Monetizzare un podcast piccolo: perché gli spot per ora non sono affar tuo"
   ],
   "hooks": [
-   "Hai appena aperto un podcast e ti sembra tutto stabile? Le reti cambiano padrone più spesso dei tuoi episodi.",
-   "Pensi che il tuo hosting sia eterno? Spoiler: nessuno lo è.",
-   "Hai un podcast su una rete e non hai mai letto il contratto? Qui ci si prende un caffè, poi si legge."
+   "Hai 40 ascoltatori e già pensi agli spot? Calma, prima la puntata.",
+   "Ti hanno detto che ci vuole il video per forza? Ti rispondo con una telecamera spenta.",
+   "Hai un podcast audio e ti senti già vecchio? Respira, il microfono non è morto."
   ]
  },
  {
-  "id": "podcast-2026-11-spreaker-copia-classifica",
-  "title": "Copia non autorizzata di un podcast via Spreaker arriva nelle classifiche Apple in cinque giorni",
-  "source": "Podnews (via This Week in the Podverse)",
+  "id": "podcast-2026-10-spreaker-importer",
+  "title": "L'importatore RSS di Spreaker permette di copiare interi podcast: oltre 1.700 show duplicati già con pubblicità",
+  "source": "Podnews (via ricerca web)",
   "affidabilita": "secondaria",
   "target": 8,
   "date": "2026-10-30",
-  "brief": "Una host ha scoperto una copia integrale del suo show su Spreaker, diffusa sulle piattaforme principali e arrivata nelle classifiche Apple in cinque giorni. Segue la notizia dell'importatore RSS di Spreaker che consente di copiare show altrui con pochi controlli. Fonte secondaria: originale Podnews non letto.",
+  "brief": "Una host ha scoperto una copia integrale del suo show su Spreaker. Secondo la sintesi trovata, l'importatore consente di clonare podcast altrui, artwork e futuri episodi compresi, e oltre 1.700 show duplicati starebbero già incassando pubblicità. Non verificato in originale. Spreaker è piattaforma di origine italiana, quindi tocca da vicino chi pubblica qui.",
   "angles": [
-   "Come controllare se qualcuno ha clonato il tuo feed",
-   "Perché l'hosting italiano/europeo non è solo questione di prezzo"
+   "Come controllare se qualcuno ha clonato il tuo show",
+   "Perché il tuo feed RSS è il tuo bene più prezioso"
   ],
   "hooks": [
-   "Hai appena pubblicato il tuo primo episodio? Controlla che non ci sia già il tuo show sul profilo di un altro.",
-   "Stai aspettando di crescere prima di proteggere il feed? Il clone, intanto, è già in classifica.",
-   "Hai il tuo RSS in giro senza lucchetto? Bastano cinque minuti, e una freddura per ricordartelo."
+   "Hai appena pubblicato il tuo primo episodio? Controlla che qualcuno non l'abbia già pubblicato prima di te.",
+   "Il tuo podcast è uguale al tuo? Pure su Spreaker, a quanto pare.",
+   "Hai il tuo feed RSS in giro e non sai dove? Ecco, non è un buon inizio."
   ]
  },
  {
-  "id": "podcast-2026-11-buzzsprout-starter",
-  "title": "Buzzsprout lancia uno Starter Kit: titolo, descrizione, copertina e categorie da cinque domande",
-  "source": "Podnews (via This Week in the Podverse)",
+  "id": "podcast-2026-it-nielseniq-audible",
+  "title": "Italia: 18,5 milioni di ascoltatori di podcast secondo NielsenIQ per Audible",
+  "source": "ItaliaOggi",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026-10-30",
-  "brief": "Il nuovo kit chiede a chi comincia cinque domande sull'idea e propone titolo, descrizione, artwork e categorie. Utile come spunto per chi parte da zero, ma i suggerimenti automatici vanno rivisti con la propria testa.",
+  "date": "2026-10-01",
+  "brief": "ItaliaOggi riporta un monitoraggio NielsenIQ per Audible: 18,5 milioni di ascoltatori di podcast in Italia nel 2026. Data esatta dell'articolo non reperita, il titolo indica la stima 2026. Un solo articolo, dato da citare con cautela.",
   "angles": [
-   "Titolo e descrizione: cosa un tool non sa del tuo pubblico",
-   "Primo setup di un podcast in un pomeriggio"
+   "Quanto è grande il pubblico podcast in Italia davvero",
+   "Come farti trovare in un mercato in crescita"
   ],
   "hooks": [
-   "Hai l'idea per un podcast ma non sai nemmeno come chiamarlo? Cinque domande e un tool ti dà un nome. Ora ti dico perché non basta.",
-   "Stai per farti scrivere la descrizione da un'AI? Aspetta, prima leggi questo.",
-   "Hai un'idea e zero titolo? Succede, il titolo arriva dopo l'imbarazzo."
+   "Pensi che in Italia nessuno ascolti podcast? Ce ne sono 18,5 milioni, e non sono tutti tua zia.",
+   "Hai paura che il mercato sia saturo? Intanto ti ascolta chi non conosci.",
+   "Vuoi fare un podcast e ti chiedi se ha senso in Italia? Eccoti qualche numero."
   ]
  },
  {
-  "id": "podcast-2026-11-podchaser-venerdi",
-  "title": "Podchaser: il venerdì è il giorno meno affollato per pubblicare, il martedì il più affollato",
-  "source": "Podchaser (analisi su circa 3 milioni di episodi, via ricerca web)",
+  "id": "podcast-2026-it-festival-decennale",
+  "title": "Festival del Podcasting: decima edizione a Milano, temi video podcast, scopribilità e monetizzazione",
+  "source": "Sky TG24; Il Sole 24 Ore",
   "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-10-30",
-  "brief": "Su quasi 3 milioni di episodi, il venerdì risulta il giorno meno affollato in 18 categorie su 19; il martedì il più affollato. Correlazione sulle uscite, non prova che pubblicare il venerdì porti più ascolti.",
+  "target": 7,
+  "date": "2026-10-03",
+  "brief": "Il Festival del Podcasting, organizzato da Podstar, ha festeggiato i dieci anni a Milano il 2 e 3 ottobre 2026. Tra i temi: promozione, scopribilità, video podcast, distribuzione e monetizzazione. Non è notizia di giornata ma utile contesto italiano.",
   "angles": [
-   "Quando pubblicare: il dato e i suoi limiti",
-   "Costanza batte giorno della settimana"
+   "Cosa si dice oggi nel podcasting italiano",
+   "Video podcast in Italia: moda o svolta?"
   ],
   "hooks": [
-   "Hai appena scelto il martedì per pubblicare? Pare che lo facciano tutti.",
-   "Ti chiedi quando pubblicare il tuo podcast? Un dato c'è, ma non ti salva da un audio brutto.",
-   "Pubblichi sempre di martedì perché fan tutti così? Come la fila al supermercato di sabato."
+   "Hai un podcast e non sai dove farti vedere? Ci sono i festival, e hanno pure il caffè.",
+   "Pensi che il podcasting italiano sia roba da nicchia? Dieci anni di festival dicono altro.",
+   "Hai appena iniziato e ti senti solo? Guarda quanta gente ci è già passata."
+  ]
+ },
+ {
+  "id": "podcast-2026-it-24ore-podcast",
+  "title": "Gruppo 24 ORE lancia 24Ore Podcast, casa degli originali con più video podcast",
+  "source": "Gruppo 24 ORE (comunicato)",
+  "affidabilita": "primaria",
+  "target": 5,
+  "date": "2026-03-01",
+  "brief": "Il Gruppo 24 ORE ha presentato una nuova casa per i podcast originali, con serie di approfondimento e più video podcast nel 2026. Comunicato di marzo 2026, non recente: segnala solo che gli editori italiani spingono sul video.",
+  "angles": [
+   "Gli editori investono nel video podcast: tu come ti posizioni",
+   "Format di approfondimento vs format personali"
+  ],
+  "hooks": [
+   "Hai un podcast da solo in camera e ti confronti col Sole 24 Ore? Giusto, ma tu costi meno.",
+   "Pensi che l'audio basti ancora? Gli editori grossi stanno comprando telecamere.",
+   "Ti serve davvero uno studio per fare video? Spoiler: no, ma una luce aiuta."
   ]
  }
 ]

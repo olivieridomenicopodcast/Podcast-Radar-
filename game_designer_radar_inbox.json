@@ -1,22 +1,12 @@
 [
  {
-  "id": "gd-it-lucca-2026",
-  "title": "Lucca 2026: Padiglione Carducci con gli editori del tavolo e 'Games Café Live' su Twitch",
-  "source": "SpazioGames; Firenze Made in Tuscany",
-  "affidabilita": "secondaria",
+  "id": "gd-it-nessun-segnale",
+  "title": "Nessun annuncio verificato su editori, IdeaG o cercatori di giochi nelle ultime 48 ore",
+  "source": "ricerche web",
+  "affidabilita": "segnale debole",
   "mercato": "italiana",
-  "tipo": "fiera",
-  "date": "2026-11-01",
-  "brief": "Ultimo giorno oggi. Novità tavolo, Daggerheart, D&D, debutto europeo di ORKEN. Elenco espositori 2026 non reperito."
- },
- {
-  "id": "gd-int-battlestar-ghost-galaxy",
-  "title": "Ghost Galaxy, con licenza Universal, annuncia una nuova edizione di Battlestar Galactica: The Board Game",
-  "source": "ICv2",
-  "affidabilita": "primaria",
-  "mercato": "straniera",
-  "tipo": "licenza/editore",
-  "date": "2026-10-23",
-  "brief": "Crowdfunding previsto nel 2027. Oltre le 48 ore ma utile come segnale di licenze nel settore."
+  "tipo": "nessun segnale",
+  "date": "2026-11-07",
+  "brief": "Le ricerche non hanno restituito fonti recenti: date e luoghi dell'IdeaG 2026 non trovati, cataloghi degli editori solo datati. Siti di settore come studiogiochi.com non raggiungibili da questa sessione. Nessuna notizia estera verificata. Non ho inventato niente."
  }
 ]

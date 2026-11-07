@@ -1,34 +1,26 @@
 [
  {
+  "id": "ham-2026-11-propagazione-10-12m",
+  "title": "ARRL Solar Update: una macchia solare in rotazione fuori vista, meno aperture su 10 e 12 metri",
+  "source": "ARRL Solar Update",
+  "affidabilita": "primaria",
+  "date": "2026-10-23",
+  "brief": "L'aggiornamento del 23 ottobre prevede meno DX su 10 e 12 m. Non ho trovato l'aggiornamento di novembre: il dato non è di queste 48 ore."
+ },
+ {
   "id": "ham-2026-11-cqww-cw",
   "title": "CQ WW DX CW il 28-29 novembre: log entro il 1° dicembre",
-  "source": "CQ WW DX Contest (cqww.com); NG3K",
+  "source": "CQ WW DX Contest; NG3K",
   "affidabilita": "primaria",
   "date": "2026-11-28",
-  "brief": "Il contest CW va dalle 00:00 UTC di sabato 28 alle 23:59 UTC di domenica 29 novembre; scadenza log 1° dicembre. NG3K elenca tra le operazioni annunciate VP2VBB dalle Isole Vergini Britanniche, attiva prima del contest come VP2V/GU4YOX. L'elenco potrebbe non essere completo."
+  "brief": "Da sabato 28 alle 00:00 UTC a domenica 29 alle 23:59 UTC. Date già note, dedotte dal weekend dopo il Thanksgiving e dal file precedente; non riconfermate oggi."
  },
  {
-  "id": "ham-2026-10-sfi",
-  "title": "Flusso solare tra 89 e 121 nella settimana 20-27 ottobre",
-  "source": "Club Log (DX report)",
+  "id": "ham-2026-11-hamdaily",
+  "title": "HamDaily 'Today on the Bands': newsletter quotidiana di propagazione",
+  "source": "HamDaily",
   "affidabilita": "secondaria",
-  "date": "2026-10-27",
-  "brief": "Il report di Club Log riporta valori SFI da 89 a 121 nel periodo, indicati come bassi. È un'istantanea precedente a oggi, non una previsione per novembre; per le condizioni attuali controlla NOAA o hamqsl."
- },
- {
-  "id": "ham-2026-10-cqww-ssb",
-  "title": "CQ WW DX SSB concluso (24-25 ottobre), log scaduti il 27",
-  "source": "CQ WW DX Contest (cqww.com)",
-  "affidabilita": "primaria",
-  "date": "2026-10-25",
-  "brief": "Il contest SSB si è chiuso il 25 ottobre e il termine per i log era il 27. Prossimo appuntamento il CQ WW CW a fine novembre."
- },
- {
-  "id": "ham-2026-10-nessuna-dxped",
-  "title": "Nessuna DX-pedition nuova verificata nelle ultime 48 ore",
-  "source": "ricerche web",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-31",
-  "brief": "Le ricerche non hanno restituito annunci DX-pedition datati alle ultime 48 ore né notizie normative IARU/nazionali. Meglio vuoto che inventato: guarda 425 DX News e il DX Calendar di NG3K."
+  "date": "2026-10-19",
+  "brief": "Esiste una newsletter quotidiana (buttondown.com/hamdaily) con la situazione bande. Non ho trovato l'edizione di oggi."
  }
 ]
