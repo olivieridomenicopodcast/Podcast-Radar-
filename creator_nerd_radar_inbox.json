@@ -1,11 +1,20 @@
 [
  {
-  "id": "creator-2026-11-nessun-segnale",
-  "title": "Nessun segnale verificato sui creator nerd italiani nelle ultime 48 ore",
-  "source": "ricerche web",
+  "id": "creator-2026-11-heepsy",
+  "title": "Heepsy: classifica mensile dei gaming creator italiani, edizione di ottobre 2026",
+  "source": "Heepsy",
   "affidabilita": "segnale debole",
-  "date": "2026-11-07",
-  "brief": "Le ricerche danno solo guide generali e articoli datati. Unico spunto utile: Milan Games Week & Cartoomics dal 27 al 29 novembre, con area creator, ma nessun elenco confermato. Meglio vuoto che inventato.",
-  "rilevanza": "Controlla il programma creator della fiera quando uscirà."
+  "date": null,
+  "brief": "La classifica più recente trovata è quella di ottobre; non ho visto quella di novembre. Nessuna notizia specifica su creator nelle ultime 48 ore.",
+  "rilevanza": "Utile come mappa dei canali, non come notizia."
+ },
+ {
+  "id": "creator-2026-11-youtube-shorts-ia",
+  "title": "YouTube: Shorts con avatar IA dei creator e più formati per gli Shorts",
+  "source": "Smartworld; Multiplayer.it",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Novità di piattaforma per il 2026 che toccano anche i creator italiani. Data degli articoli non verificata.",
+  "rilevanza": "Cambia come i creator nerd pubblicano formati brevi."
  }
 ]

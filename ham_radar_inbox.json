@@ -1,26 +1,34 @@
 [
  {
-  "id": "ham-2026-11-propagazione-10-12m",
-  "title": "ARRL Solar Update: una macchia solare in rotazione fuori vista, meno aperture su 10 e 12 metri",
-  "source": "ARRL Solar Update",
-  "affidabilita": "primaria",
-  "date": "2026-10-23",
-  "brief": "L'aggiornamento del 23 ottobre prevede meno DX su 10 e 12 m. Non ho trovato l'aggiornamento di novembre: il dato non è di queste 48 ore."
+  "id": "ham-2026-11-c8k",
+  "title": "DXpedition in Mozambico (C8K): arrivo il 9 novembre, partenza il 20",
+  "source": "aggregatori DX (via ricerca web)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-09",
+  "brief": "Una sola sintesi indica attività dal 9 al 20 novembre 2026. Nominativo e date da riconfermare su 425 DX News o DXZone."
+ },
+ {
+  "id": "ham-2026-11-vk9x",
+  "title": "Christmas Island VK9XY: dal 16 novembre al 4 dicembre con Youth on the Air",
+  "source": "aggregatori DX (via ricerca web)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-16",
+  "brief": "PIDXG con YOTA pianifica l'attivazione dell'isola con nominativo VK9XY. Una fonte sola, date non riconfermate."
  },
  {
   "id": "ham-2026-11-cqww-cw",
-  "title": "CQ WW DX CW il 28-29 novembre: log entro il 1° dicembre",
-  "source": "CQ WW DX Contest; NG3K",
-  "affidabilita": "primaria",
+  "title": "CQ WW DX CW il 28-29 novembre",
+  "source": "CQ WW DX Contest",
+  "affidabilita": "secondaria",
   "date": "2026-11-28",
-  "brief": "Da sabato 28 alle 00:00 UTC a domenica 29 alle 23:59 UTC. Date già note, dedotte dal weekend dopo il Thanksgiving e dal file precedente; non riconfermate oggi."
+  "brief": "Date già note dal calendario abituale (ultimo weekend di novembre), non riconfermate oggi."
  },
  {
-  "id": "ham-2026-11-hamdaily",
-  "title": "HamDaily 'Today on the Bands': newsletter quotidiana di propagazione",
-  "source": "HamDaily",
-  "affidabilita": "secondaria",
-  "date": "2026-10-19",
-  "brief": "Esiste una newsletter quotidiana (buttondown.com/hamdaily) con la situazione bande. Non ho trovato l'edizione di oggi."
+  "id": "ham-2026-11-propagazione",
+  "title": "Nessun bollettino di propagazione nuovo reperito",
+  "source": "ricerche web",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-08",
+  "brief": "ARRL, NOAA e DXZone non sono raggiungibili da questa sessione. L'ultimo dato noto resta l'ARRL Solar Update del 23 ottobre."
  }
 ]

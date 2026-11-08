@@ -1,38 +1,29 @@
 [
  {
-  "id": "rift-2026-11-ban-list-ferma",
-  "title": "Ban list Riftbound invariata dal 18 settembre; Radiance non ha aggiunto ban",
-  "source": "guide di terze parti (skillshotzgaming, riftbound.zone)",
+  "id": "rift-2026-11-radiance-lancio",
+  "title": "Radiance, quinto set di Riftbound: lancio previsto il 23 ottobre 2026",
+  "source": "Riot Games (aggiornamento febbraio 2026, via ricerca web)",
   "affidabilita": "secondaria",
   "date": "2026-10-23",
-  "brief": "Più guide indicano tre ondate di ban nel 2026 (31 marzo, 24 luglio, 18 settembre). L'ultima ha tolto Ekko Recurrent e Stacked Deck. Nessun ban con Radiance. Non ho trovato un post Riot più recente. Le guide sono state aggiornate a ottobre, potrebbero essere superate.",
-  "rilevanza": "Se giochi Standard, nessun cambio ufficiale ai ban noto: controlla il sito Riot prima dei tornei."
+  "brief": "Riot aveva indicato il 23 ottobre 2026 come data globale di Radiance. Non ho trovato conferme di novembre né patch note nuove nelle ultime 48 ore.",
+  "rilevanza": "Se collezioni, il set è il riferimento attuale; per il meta controlla le fonti ufficiali."
  },
  {
-  "id": "rift-2026-11-radiance-errata",
-  "title": "Radiance: errata su quattro carte (Elnuk Herd, Last Caress, Forbidden Technique, Neeko Blending In)",
-  "source": "guide di terze parti",
+  "id": "rift-2026-11-vendetta-patch",
+  "title": "Ultimi aggiornamenti ufficiali listati: Core Rules Vendetta Patch Notes e ban list di luglio",
+  "source": "playriftbound.com (via ricerca web)",
   "affidabilita": "secondaria",
-  "date": "2026-10-09",
-  "brief": "Le fonti datano l'aggiornamento regole al 9 ottobre, senza ban; Radiance è uscito il 23 ottobre dopo i Pre-Rift del 16-22. Nota: il file precedente indicava il 23 ottobre per l'errata, la data va verificata.",
-  "rilevanza": "Chi costruisce mazzi Radiance deve usare i testi corretti."
+  "date": null,
+  "brief": "La pagina news ufficiale elenca queste come ultime voci balance trovate. I contenuti non erano leggibili. Nessun bilanciamento nuovo confermato nelle ultime 48 ore.",
+  "rilevanza": "Prima di un torneo controlla direttamente la pagina news ufficiale."
  },
  {
-  "id": "rift-2026-11-meta-speculazioni",
-  "title": "Speculazioni in community su futuri ban (Star Spring, Stellacorn, Riven)",
-  "source": "post X di un account fan",
+  "id": "rift-2026-11-nessun-meta",
+  "title": "Nessun segnale verificato su discussioni meta nelle ultime 48 ore",
+  "source": "ricerche web",
   "affidabilita": "segnale debole",
-  "date": "2026-11-01",
-  "brief": "Un account fan ipotizza ban futuri. Sono voci, non annunci. Nessuna conferma Riot.",
-  "rilevanza": "Utile solo come termometro del meta: non comprare o vendere carte per questo."
- },
- {
-  "id": "rift-2026-11-roadmap-2027",
-  "title": "Roadmap 2027: settimo set 'The Reckoning' previsto il 30 aprile 2027, arriva il draft play",
-  "source": "The Outer Haven",
-  "affidabilita": "secondaria",
-  "date": "2026-10-15",
-  "brief": "Un articolo riporta la roadmap Riot 2027 con quattro nuovi set e il draft play. Data di pubblicazione dell'articolo non confermata. Una sola fonte.",
-  "rilevanza": "Chi colleziona può pianificare la spesa 2027."
+  "date": "2026-11-08",
+  "brief": "Reddit, Discord e riftbound.gg non sono raggiungibili da questa sessione. Non ho inventato niente.",
+  "rilevanza": "Meglio vuoto che falso."
  }
 ]

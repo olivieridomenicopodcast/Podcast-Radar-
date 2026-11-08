@@ -1,12 +1,32 @@
 [
  {
-  "id": "gd-it-nessun-segnale",
-  "title": "Nessun annuncio verificato su editori, IdeaG o cercatori di giochi nelle ultime 48 ore",
-  "source": "ricerche web",
+  "id": "gd-it-ideag",
+  "title": "IdeaG: incontro nazionale degli autori, di solito a metà gennaio vicino a Parma",
+  "source": "Spieleautorenzunft",
+  "affidabilita": "secondaria",
+  "mercato": "italiana",
+  "tipo": "evento",
+  "date": null,
+  "brief": "La pagina dell'organizzatore indica metà gennaio nei dintorni di Parma, ma le date elencate sono del 2024 e 2025. Date 2027 non trovate: controlla i canali ufficiali di IdeaG."
+ },
+ {
+  "id": "gd-it-lucca-tavolo",
+  "title": "Lucca 2026: debutti di giochi da tavolo e carte (Naruto, Palworld, MinaLima Harry Potter)",
+  "source": "ricerca web",
   "affidabilita": "segnale debole",
   "mercato": "italiana",
+  "tipo": "annunci",
+  "date": "2026-11-01",
+  "brief": "Annunci visti dal lato fiera, non dal lato editori italiani. Nessun dato su cataloghi o ricerche di giochi."
+ },
+ {
+  "id": "gd-it-nessun-estero",
+  "title": "Nessuna notizia estera o editoriale verificata nelle ultime 48 ore",
+  "source": "ricerche web",
+  "affidabilita": "segnale debole",
+  "mercato": "internazionale",
   "tipo": "nessun segnale",
-  "date": "2026-11-07",
-  "brief": "Le ricerche non hanno restituito fonti recenti: date e luoghi dell'IdeaG 2026 non trovati, cataloghi degli editori solo datati. Siti di settore come studiogiochi.com non raggiungibili da questa sessione. Nessuna notizia estera verificata. Non ho inventato niente."
+  "date": "2026-11-08",
+  "brief": "Siti di settore come studiogiochi.com, BGG news e BoardGameGeek non sono stati raggiungibili o non hanno dato risultati recenti. Non ho inventato niente."
  }
 ]
