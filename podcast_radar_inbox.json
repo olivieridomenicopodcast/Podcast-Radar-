@@ -1,110 +1,92 @@
 [
  {
-  "id": "podcast-2026-11-doac-youtube",
-  "title": "The Diary Of A CEO diventa il podcast più iscritto su YouTube: 21,3 milioni di iscritti",
-  "source": "Podnews (comunicato stampa, via ricerca web)",
+  "id": "podcast-2026-11-apple-video",
+  "title": "Apple Podcasts ha attivato il video HLS (da febbraio 2026)",
+  "source": "Podnews, podcastvideos.com (via ricerca web)",
   "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-11-01",
-  "brief": "Secondo un comunicato ripreso da Podnews, al 1° novembre The Diary Of A CEO ha 21,3 milioni di iscritti ed è in cima alle classifiche podcast di YouTube. È un dato dichiarato dal produttore (comunicato), non una verifica indipendente.",
-  "angles": [
-   "YouTube è ormai il posto dove i podcast crescono: serve il video?",
-   "Cosa copiare da un grande show quando hai 12 ascoltatori"
-  ],
-  "hooks": [
-   "Hai appena aperto il tuo podcast e guardi i numeri dei grandi? Smetti, fa male alla schiena.",
-   "Pensi che senza video non esisti più? Calma, prima impara a registrare.",
-   "Hai 12 ascoltatori e sogni 21 milioni? Partiamo da 13, dai."
-  ]
- },
- {
-  "id": "podcast-2026-flightcast-youtube-spotify",
-  "title": "Flightcast lancia la distribuzione automatica da YouTube a Spotify",
-  "source": "Podnews (via ricerca web)",
-  "affidabilita": "segnale debole",
   "target": 7,
-  "date": null,
-  "brief": "Secondo una sola fonte, Flightcast porta in automatico il catalogo video di YouTube su Spotify, comprese le uscite future, senza lavoro manuale. Data non verificata, una fonte sola.",
+  "date": "2026-02-01",
+  "brief": "Apple ha abilitato il video HLS in Apple Podcasts lasciando i file sull'hosting del creator. Insieme a Spotify e YouTube, il video diventa un'opzione su tutte le piattaforme principali. Non è una novità di giornata: è il contesto in cui scegliere formato oggi.",
   "angles": [
-   "Pubblicare ovunque senza impazzire: un solo file, tante piattaforme",
-   "Il rischio di automatizzare tutto prima di avere un formato"
+   "Solo audio o anche video: come decidere senza impazzire",
+   "Un unico girato, tre piattaforme: flusso di lavoro minimo"
   ],
   "hooks": [
-   "Hai un canale YouTube e Spotify ti sembra un secondo lavoro? Forse non più.",
-   "Carichi la puntata in tre posti a mano? Ti capisco, io avevo pure un post-it.",
-   "Hai già un formato o stai solo automatizzando il caos?"
+   "Hai un microfono e zero voglia di farti vedere in video? Tranquillo, ora puoi scegliere.",
+   "Ti dicono che senza video non esisti? Apple ora lo supporta, ma il tuo audio fa schifo lo stesso.",
+   "Hai già un podcast audio e ti chiedi se aggiungere la telecamera? Prima sistema il suono, poi la faccia."
   ]
  },
  {
-  "id": "podcast-2026-uk-youtube-spotify",
-  "title": "UK: YouTube supera Spotify come servizio principale per ascoltare podcast",
-  "source": "Podnews (via ricerca web)",
+  "id": "podcast-2026-11-spotify-netflix",
+  "title": "Spotify porta alcuni show su Netflix, togliendoli da YouTube",
+  "source": "podcastvideos.com (via ricerca web)",
   "affidabilita": "segnale debole",
   "target": 6,
   "date": null,
-  "brief": "Un sondaggio britannico citato da Podnews: 29% degli ascoltatori settimanali sceglie YouTube, 28% Spotify, 15% BBC Sounds, 10% Apple Podcasts. Data e istituto del sondaggio non verificati; i download non misurano YouTube.",
+  "brief": "Una sola fonte riferisce di un accordo per portare certi podcast su Netflix, con rimozione da YouTube. Data e dettagli non verificati: da confermare.",
   "angles": [
-   "Dove pubblicare il tuo primo episodio",
-   "Solo audio o video: come decidere senza farsi guidare dall'ansia"
+   "Esclusiva o ovunque: cosa conviene a un piccolo creator",
+   "Non dipendere da una sola piattaforma"
   ],
   "hooks": [
-   "Ti chiedi dove pubblicare il tuo podcast? Prima chiediti dove ti ascolta la gente.",
-   "Pensi che YouTube sia solo per i video? Anche le orecchie ci vivono, ormai.",
-   "Hai scelto la piattaforma per simpatia? Capita, anche io col primo microfono."
+   "Pensi di pubblicare solo su una piattaforma? Poi cambiano le regole e ciao.",
+   "Hai appena aperto il tuo show e già temi le esclusive? Per ora pensa a finire la puntata 3.",
+   "Ti sembra che le piattaforme decidano per te? Un po' sì: tieni il tuo RSS."
   ]
  },
  {
-  "id": "podcast-2026-it-18-5-milioni",
-  "title": "Italia: 18,5 milioni di ascoltatori di podcast nel 2026, il pubblico più attivo ha 24-35 anni",
-  "source": "ItaliaOggi (monitoraggio NielsenIQ per Audible)",
+  "id": "podcast-2026-11-it-nielseniq",
+  "title": "Italia: 18,5 milioni di ascoltatori di podcast (monitoraggio NielsenIQ per Audible, 2026)",
+  "source": "ItaliaOggi (via ricerca web)",
   "affidabilita": "secondaria",
   "target": 8,
-  "date": null,
-  "brief": "Secondo un monitoraggio NielsenIQ per Audible riportato da ItaliaOggi, gli ascoltatori di podcast in Italia nel 2026 sarebbero 18,5 milioni, con il pubblico più coinvolto tra i 24 e i 35 anni. Data dell'articolo non verificata; la crescita indicata (+80%) va controllata nella fonte.",
+  "date": "2026-01-01",
+  "brief": "Secondo il monitoraggio 2026 NielsenIQ per Audible, gli ascoltatori italiani sono 18,5 milioni, con sessioni medie di circa 27 minuti e circa 5 ascolti al mese. Dato non di oggi ma utile per spiegare il mercato italiano.",
   "angles": [
-   "Il pubblico italiano c'è: a chi parli davvero?",
-   "Come scrivere per i 24-35enni senza fare il cugino simpatico"
+   "Quanto dura davvero una puntata in Italia: 27 minuti",
+   "Perché partire adesso in Italia ha senso"
   ],
   "hooks": [
-   "Hai un podcast in italiano e pensi che non lo ascolti nessuno? Siamo in 18 milioni, ti stiamo cercando.",
-   "Parli a tutti con la tua puntata? Allora non parli a nessuno, e lo dico con affetto.",
-   "Hai 30 anni e un microfono? Sei esattamente il pubblico che gli altri inseguono."
+   "Pensi che in Italia i podcast non li ascolti nessuno? Sono 18,5 milioni di persone.",
+   "Hai una puntata da 90 minuti e ti chiedi perché non la finisce nessuno? Il pubblico ne regge circa 27.",
+   "Stai per mollare perché sei piccolo? Il mercato italiano è cresciuto, tu intanto registra."
   ]
  },
  {
-  "id": "podcast-2026-it-podcasting-festival",
-  "title": "Il Podcasting Festival (Podstar) compie dieci anni e amplia la portata nazionale",
-  "source": "Il Sole 24 Ore (edizione inglese)",
+  "id": "podcast-2026-11-it-festival",
+  "title": "Podcasting Festival: decima edizione, temi video podcast e monetizzazione",
+  "source": "Il Sole 24 Ore English (via ricerca web)",
   "affidabilita": "secondaria",
-  "target": 7,
+  "target": 6,
   "date": null,
-  "brief": "Il Sole 24 Ore racconta i dieci anni del festival diretto da Ester Memeo e organizzato da Podstar, con temi 2026 come promozione, video podcast e monetizzazione. Date esatte dell'edizione non verificate in questa ricerca.",
+  "brief": "Il Podcasting Festival (Podstar) compie dieci anni nel 2026; temi: video podcast, discoverability, monetizzazione. Data dell'edizione non verificata. Il Torino Podcast Festival si è tenuto 5-7 giugno 2026.",
   "angles": [
-   "Perché andare a un evento di podcasting se sei alle prime armi",
-   "Video podcast e monetizzazione: cosa ti serve davvero all'inizio"
+   "Eventi italiani dove farsi conoscere",
+   "Cosa si dice oggi di discoverability"
   ],
   "hooks": [
-   "Hai un podcast e lo fai da solo in cameretta? Prima o poi serve parlare con qualcuno vivo.",
-   "Vuoi monetizzare e non hai ancora un episodio 10? Una cosa alla volta.",
-   "Ti vergogni di dire che fai un podcast? Al festival lo dicono tutti, tranquillo."
+   "Fai un podcast da solo in cameretta? I festival esistono, e c'è anche da mangiare.",
+   "Ti manca il pubblico? Un festival vale più di tre post inutili.",
+   "Hai paura di presentarti ad altri podcaster? Siamo tutti nervosi con le cuffie."
   ]
  },
  {
-  "id": "podcast-2026-it-24ore-podcast",
-  "title": "Gruppo 24 ORE: nuova casa digitale per i podcast originali, più video podcast",
-  "source": "Il Sole 24 Ore (comunicato e sito)",
+  "id": "podcast-2026-11-it-24ore",
+  "title": "Gruppo 24 ORE lancia la 'casa' 24Ore Podcast con serie originali e video podcast",
+  "source": "Gruppo Il Sole 24 Ore, comunicato (marzo 2026)",
   "affidabilita": "primaria",
-  "target": 4,
-  "date": null,
-  "brief": "Il Gruppo 24 ORE ha aperto a inizio 2026 una pagina dedicata ai podcast originali, con nuove serie e più video podcast. È un'azienda che parla di sé: fatto, non valutazione.",
+  "target": 5,
+  "date": "2026-03-01",
+  "brief": "Il gruppo ha annunciato una nuova casa per podcast e programmi, con serie originali e video podcast nel 2026. Segnale di un editore tradizionale che investe in video.",
   "angles": [
-   "Anche gli editori italiani spingono sul video",
-   "Cosa può imparare un podcaster indipendente da un editore"
+   "Gli editori italiani entrano nel video podcast",
+   "Cosa può copiare un indipendente"
   ],
   "hooks": [
-   "Pensi che i grandi editori facciano solo audio? Hanno scoperto il video pure loro.",
-   "Hai un podcast indipendente e ti senti piccolo? Anche i grandi cambiano formato a tentoni.",
-   "Ti chiedi se serve la telecamera? I giornali se lo stanno chiedendo con te."
+   "Pensi che i grandi editori ti schiaccino? Hanno budget, tu hai un'idea tua.",
+   "Hai un'idea e non sai se vale un podcast? Se ti diverti a parlarne, sì.",
+   "Ti sembra tutto già occupato? Anche i grandi sbagliano il suono, e tu no."
   ]
  }
 ]

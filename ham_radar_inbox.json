@@ -1,34 +1,26 @@
 [
  {
-  "id": "ham-2026-11-c8k",
-  "title": "DXpedition in Mozambico (C8K): arrivo il 9 novembre, partenza il 20",
-  "source": "aggregatori DX (via ricerca web)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-09",
-  "brief": "Una sola sintesi indica attività dal 9 al 20 novembre 2026. Nominativo e date da riconfermare su 425 DX News o DXZone."
- },
- {
-  "id": "ham-2026-11-vk9x",
-  "title": "Christmas Island VK9XY: dal 16 novembre al 4 dicembre con Youth on the Air",
-  "source": "aggregatori DX (via ricerca web)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-16",
-  "brief": "PIDXG con YOTA pianifica l'attivazione dell'isola con nominativo VK9XY. Una fonte sola, date non riconfermate."
+  "id": "ham-2026-11-solar",
+  "title": "ARRL: flusso solare previsto sopra 100, buona F2 su 17 e 15 m",
+  "source": "ARRL Solar Update 6 novembre 2026 (via ricerca web)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-06",
+  "brief": "Flusso solare previsto oltre 100 nella settimana, buone aperture su 17 e 15 metri dal mattino a sera. NOAA indica attività bassa con possibili flare classe M."
  },
  {
   "id": "ham-2026-11-cqww-cw",
-  "title": "CQ WW DX CW il 28-29 novembre",
-  "source": "CQ WW DX Contest",
-  "affidabilita": "secondaria",
-  "date": "2026-11-28",
-  "brief": "Date già note dal calendario abituale (ultimo weekend di novembre), non riconfermate oggi."
+  "title": "CQ WW CW: di norma ultimo weekend di novembre (probabile 28-29)",
+  "source": "inferenza dalla ricorrenza abituale",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Date non confermate da fonte diretta: verificare sul sito del contest."
  },
  {
-  "id": "ham-2026-11-propagazione",
-  "title": "Nessun bollettino di propagazione nuovo reperito",
-  "source": "ricerche web",
+  "id": "ham-2026-11-dxped",
+  "title": "DX-pedition di novembre da riconfermare",
+  "source": "aggregatori DX",
   "affidabilita": "segnale debole",
-  "date": "2026-11-08",
-  "brief": "ARRL, NOAA e DXZone non sono raggiungibili da questa sessione. L'ultimo dato noto resta l'ARRL Solar Update del 23 ottobre."
+  "date": null,
+  "brief": "Non ho potuto raggiungere DXZone né 425 DX News da questa sessione: nessuna DX-pedition verificata oggi."
  }
 ]

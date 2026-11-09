@@ -1,34 +1,26 @@
 [
  {
-  "id": "metal-2026-manowar",
-  "title": "Manowar in Italia il 26-27 marzo 2027: Kings of Metal per intero la prima sera",
-  "source": "TicketOne Magazine",
+  "id": "metal-2026-novembre",
+  "title": "Novembre: esce 'Words of Indigo' il 7 novembre (Peaceville)",
+  "source": "metalgigs.us (via ricerca web)",
   "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Prima serata venerdì 26 marzo 2027 con l'esecuzione integrale di Kings of Metal, due serate con scalette diverse. Annuncio non delle ultime 48 ore."
+  "date": "2026-11-07",
+  "brief": "Il nono album della band doom/death italiana è indicato in uscita il 7 novembre. Tour italiano non confermato."
  },
  {
-  "id": "metal-2026-megadeth",
-  "title": "Megadeth a Assago il 6 aprile 2027, tour d'addio europeo",
-  "source": "TicketOne Magazine",
+  "id": "metal-2026-messa",
+  "title": "Messa: chiusura del tour europeo a Trezzo sull'Adda il 21 novembre",
+  "source": "Chaoszine, Terra Relicta (via ricerca web)",
   "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Tappa all'Unipol Forum nel tour di addio europeo. Annuncio già noto."
+  "date": "2026-11-21",
+  "brief": "Prima tournée europea headline dopo 'The Spin', con data finale italiana al Live Club."
  },
  {
-  "id": "metal-2026-marilyn-manson",
-  "title": "Marilyn Manson al Parco della Musica di Milano il 29 giugno 2027",
-  "source": "Studentville",
-  "affidabilita": "segnale debole",
-  "date": "2026-10-30",
-  "brief": "Biglietti in vendita dal 30 ottobre su MC2Live e Vivaticket. Una fonte sola."
- },
- {
-  "id": "metal-2026-altre-date",
-  "title": "Altre date italiane 2027: Motionless in White (Milano 16 giugno), Eihwar (Moncalieri 13 febbraio), Epica (Arcimboldi Milano), Rhapsody of Fire 30 anni",
-  "source": "Rockol (sezione Metal, via ricerca)",
+  "id": "metal-2026-avatar",
+  "title": "Avatar: tour europeo dal 20 novembre al 19 dicembre",
+  "source": "Blabbermouth (via ricerca web)",
   "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Elenco di date, non tutte con la data di annuncio. Si segnala anche un nuovo album dei Black Sabbath con concerto al Forum di Milano: fonte non verificata."
+  "date": "2026-11-20",
+  "brief": "Parte da Wolverhampton e finisce a Wrocław; date italiane non confermate."
  }
 ]

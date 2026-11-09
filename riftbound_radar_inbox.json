@@ -1,29 +1,29 @@
 [
  {
-  "id": "rift-2026-11-radiance-lancio",
-  "title": "Radiance, quinto set di Riftbound: lancio previsto il 23 ottobre 2026",
-  "source": "Riot Games (aggiornamento febbraio 2026, via ricerca web)",
+  "id": "rift-2026-11-radiance",
+  "title": "Radiance: quinto set, lancio indicato per il 23 ottobre 2026",
+  "source": "Riot Games, comunicato (via ricerca web)",
   "affidabilita": "secondaria",
   "date": "2026-10-23",
-  "brief": "Riot aveva indicato il 23 ottobre 2026 come data globale di Radiance. Non ho trovato conferme di novembre né patch note nuove nelle ultime 48 ore.",
-  "rilevanza": "Se collezioni, il set è il riferimento attuale; per il meta controlla le fonti ufficiali."
+  "brief": "Un comunicato indica Radiance in lancio il 23 ottobre 2026. Non ho trovato nuove patch note nelle ultime 48 ore.",
+  "rilevanza": "È il set di riferimento per collezionisti e meta attuale."
  },
  {
-  "id": "rift-2026-11-vendetta-patch",
-  "title": "Ultimi aggiornamenti ufficiali listati: Core Rules Vendetta Patch Notes e ban list di luglio",
+  "id": "rift-2026-11-vendetta",
+  "title": "Core Rules: Vendetta Patch Notes, ultimo aggiornamento di regole listato",
   "source": "playriftbound.com (via ricerca web)",
   "affidabilita": "secondaria",
   "date": null,
-  "brief": "La pagina news ufficiale elenca queste come ultime voci balance trovate. I contenuti non erano leggibili. Nessun bilanciamento nuovo confermato nelle ultime 48 ore.",
-  "rilevanza": "Prima di un torneo controlla direttamente la pagina news ufficiale."
+  "brief": "Ultima patch di regole core visibile nei risultati; Vendetta indicato con lancio al 31 luglio 2026. Data della patch non verificata.",
+  "rilevanza": "Base per capire le regole in vigore."
  },
  {
-  "id": "rift-2026-11-nessun-meta",
-  "title": "Nessun segnale verificato su discussioni meta nelle ultime 48 ore",
-  "source": "ricerche web",
+  "id": "rift-2026-11-2027",
+  "title": "Roadmap 2027 di Riftbound annunciata (Legacy, The Reckoning)",
+  "source": "sito di recensioni, solo titolo (via ricerca web)",
   "affidabilita": "segnale debole",
-  "date": "2026-11-08",
-  "brief": "Reddit, Discord e riftbound.gg non sono raggiungibili da questa sessione. Non ho inventato niente.",
-  "rilevanza": "Meglio vuoto che falso."
+  "date": "2026-08-03",
+  "brief": "Visto solo il titolo di un articolo di agosto; contenuto non verificato.",
+  "rilevanza": "Utile a pianificare acquisti, da confermare sul sito ufficiale."
  }
 ]

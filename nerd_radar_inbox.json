@@ -1,38 +1,20 @@
 [
  {
-  "id": "nerd-2026-11-lucca-60",
-  "title": "Lucca Comics & Games 2026 (28 ott-1 nov): anteprime di cinque videogiochi in uscita nel 2027",
-  "source": "Multiplayer.it; Open",
+  "id": "nerd-2026-11-lucca",
+  "title": "Lucca Comics & Games 2026 (60 anni) concluso: videogioco 'Luke & Clea' e anteprime",
+  "source": "Multiplayer.it, Viaggiapiccoli (via ricerca web)",
   "affidabilita": "secondaria",
   "date": "2026-11-01",
   "tipo": "fiera",
-  "brief": "A Lucca, edizione dei 60 anni, si sono potuti provare cinque titoli del 2027, tra cui un'azione legata a Gundam. Fiera già conclusa."
+  "brief": "Edizione dei 60 anni dal 28 ottobre al 1 novembre (una fonte indica il 2). Lanciato il videogioco pixel art 'Luke & Clea – A Quest for Legacy'. Bilanci finali non trovati."
  },
  {
-  "id": "nerd-2026-11-tcg-lucca",
-  "title": "Naruto Card Game, Palworld Official Card Game (Bushiroad) e un titolo Cyberpunk tra i debutti di Lucca",
-  "source": "ricerca web (testate italiane)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "tipo": "gioco da tavolo/carte",
-  "brief": "Il TCG di Naruto è atteso ufficialmente nel 2027. Dettagli su Palworld e Cyberpunk non verificati."
- },
- {
-  "id": "nerd-2026-11-harry-potter-minalima",
-  "title": "MinaLima presenta un nuovo gioco da tavolo di Harry Potter per i vent'anni dello studio",
-  "source": "programma Lucca Comics & Games",
-  "affidabilita": "secondaria",
+  "id": "nerd-2026-11-harrypotter",
+  "title": "MinaLima: nuovo gioco da tavolo Wizarding World in anteprima mondiale a Lucca",
+  "source": "Mondadori Store (via ricerca web)",
+  "affidabilita": "segnale debole",
   "date": null,
   "tipo": "gioco da tavolo",
-  "brief": "I fondatori Miraphora Mina ed Eduardo Lima lo hanno presentato in occasione dell'evento. Nessun dettaglio su uscita o editore."
- },
- {
-  "id": "nerd-2026-11-mgw",
-  "title": "Milan Games Week & Cartoomics: 27-29 novembre a Fiera Milano Rho",
-  "source": "Il Sole 24 Ore; Techprincess; Multiplayer.it",
-  "affidabilita": "secondaria",
-  "date": "2026-11-07",
-  "tipo": "fiera",
-  "brief": "Date già note, confermate da più fonti in precedenza. Non è una novità delle ultime 48 ore."
+  "brief": "Una sola fonte; dettagli e data di uscita non verificati."
  }
 ]

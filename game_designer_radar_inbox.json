@@ -1,32 +1,32 @@
 [
  {
   "id": "gd-it-ideag",
-  "title": "IdeaG: incontro nazionale degli autori, di solito a metà gennaio vicino a Parma",
+  "title": "IdeaG: incontro autori, di solito a metà gennaio vicino a Parma",
   "source": "Spieleautorenzunft",
   "affidabilita": "secondaria",
   "mercato": "italiana",
   "tipo": "evento",
   "date": null,
-  "brief": "La pagina dell'organizzatore indica metà gennaio nei dintorni di Parma, ma le date elencate sono del 2024 e 2025. Date 2027 non trovate: controlla i canali ufficiali di IdeaG."
+  "brief": "Date 2027 non trovate: controllare i canali ufficiali."
  },
  {
-  "id": "gd-it-lucca-tavolo",
-  "title": "Lucca 2026: debutti di giochi da tavolo e carte (Naruto, Palworld, MinaLima Harry Potter)",
-  "source": "ricerca web",
+  "id": "gd-it-gate",
+  "title": "GateOnGames: 'Spectacular' gioco di dadi annunciato, circa 34,99 €",
+  "source": "meeple.it (via ricerca web)",
   "affidabilita": "segnale debole",
   "mercato": "italiana",
-  "tipo": "annunci",
-  "date": "2026-11-01",
-  "brief": "Annunci visti dal lato fiera, non dal lato editori italiani. Nessun dato su cataloghi o ricerche di giochi."
+  "tipo": "catalogo",
+  "date": null,
+  "brief": "Una sola fonte, stato 'Annunciato'."
  },
  {
-  "id": "gd-it-nessun-estero",
-  "title": "Nessuna notizia estera o editoriale verificata nelle ultime 48 ore",
-  "source": "ricerche web",
+  "id": "gd-it-lucca",
+  "title": "Lucca 2026: Padiglione Carducci con le novità dei giochi da tavolo",
+  "source": "Firenze Made in Tuscany (via ricerca web)",
   "affidabilita": "segnale debole",
-  "mercato": "internazionale",
-  "tipo": "nessun segnale",
-  "date": "2026-11-08",
-  "brief": "Siti di settore come studiogiochi.com, BGG news e BoardGameGeek non sono stati raggiungibili o non hanno dato risultati recenti. Non ho inventato niente."
+  "mercato": "italiana",
+  "tipo": "fiera",
+  "date": null,
+  "brief": "Nessun elenco editori verificato; fiera già conclusa."
  }
 ]
