@@ -1,92 +1,110 @@
 [
  {
+  "id": "podcast-2026-11-it-ascolto",
+  "title": "Italia: 18,5 milioni di ascoltatori di podcast, 5 volte al mese per ~27 minuti",
+  "source": "ItaliaOggi (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": null,
+  "brief": "Secondo ItaliaOggi nel 2026 gli italiani ascoltano podcast in media cinque volte al mese, sessioni da circa 26,9 minuti. Data esatta della pubblicazione non verificata: è un dato di contesto, non una novità di giornata. Fonte unica.",
+  "angles": [
+   "Episodi da 25-30 minuti: la durata giusta per chi parte",
+   "Il pubblico italiano c'è: perché non è scusa per non iniziare"
+  ],
+  "hooks": [
+   "Pensi che in Italia nessuno ascolti podcast? Sono milioni, e nessuno ascolta il tuo silenzio.",
+   "Hai paura che il tuo episodio sia troppo corto? La media d'ascolto è 27 minuti, rilassati.",
+   "Stai per fare un podcast da 90 minuti a caso? Tieni presente che la gente ne regge 27."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-podcasting-festival",
+  "title": "Podcasting Festival Milano 2026: decima edizione con giornata dedicata all'industria",
+  "source": "Il Sole 24 Ore (en) (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026-10-03",
+  "brief": "Il festival si è tenuto il 2 e 3 ottobre a Cascina Triulza, MIND, Milano, con sponsor come Acast, Audible e Sony e una giornata tutta sul lato industriale. Non è di questi giorni ma è il riferimento per eventi italiani del settore.",
+  "angles": [
+   "Cosa portarsi a casa da un festival se sei un principiante",
+   "Networking tra podcaster: da dove si comincia"
+  ],
+  "hooks": [
+   "Fai podcast da solo in cameretta? Esistono posti dove incontrare gente come te.",
+   "Hai un microfono e nessuno con cui parlarne? I festival servono anche a quello.",
+   "Pensi che il podcasting sia solo microfoni? Ce n'è un'intera industria, e ti serve capirla."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-torino",
+  "title": "Torino Podcast Festival: prima edizione gratuita a giugno 2026",
+  "source": "turismotorino.org (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "target": 5,
+  "date": "2026-06-07",
+  "brief": "Prima edizione dal 5 al 7 giugno 2026, ingresso gratuito, con autori e professionisti dell'audio. Contesto: non è una novità recente.",
+  "angles": [
+   "Eventi gratuiti per chi inizia",
+   "Mappa degli eventi podcast italiani"
+  ],
+  "hooks": [
+   "Vuoi imparare dai podcaster ma non hai budget? Alcuni eventi sono gratis.",
+   "Hai appena aperto un canale e ti senti solo? Vai dove si parla di audio.",
+   "Credi che servano soldi per entrare nel giro? Certe porte sono aperte."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-24ore",
+  "title": "Il Sole 24 Ore lancia 24Ore Podcast, casa di produzione interna",
+  "source": "Comunicato Gruppo 24 Ore (via ricerca web 2026-11-10)",
+  "affidabilita": "primaria",
+  "target": 5,
+  "date": "2026-03-01",
+  "brief": "Il gruppo ha annunciato una casa di produzione podcast con serie originali nel 2026. Data precisa del comunicato non verificata (il file è indicato marzo 2026). Contesto: gli editori italiani investono nell'audio.",
+  "angles": [
+   "Podcast indipendente vs editoriale: dove stai tu",
+   "Cosa significa per chi vuole vivere di audio"
+  ],
+  "hooks": [
+   "Pensi di essere piccolo per fare podcast? Anche i grandi giornali ci stanno entrando ora.",
+   "Fai il tuo show da solo? Il tuo vantaggio è che non devi passare da nessun comitato.",
+   "Ti chiedi se c'è spazio? C'è, ma devi avere una voce tua."
+  ]
+ },
+ {
   "id": "podcast-2026-11-apple-video",
-  "title": "Apple Podcasts ha attivato il video HLS (da febbraio 2026)",
-  "source": "Podnews, podcastvideos.com (via ricerca web)",
+  "title": "Apple Podcasts: video HLS attivo dal 2026, i file restano sull'hosting",
+  "source": "Podnews, podcastvideos.com (via ricerca web 2026-11-10)",
   "affidabilita": "secondaria",
   "target": 7,
   "date": "2026-02-01",
-  "brief": "Apple ha abilitato il video HLS in Apple Podcasts lasciando i file sull'hosting del creator. Insieme a Spotify e YouTube, il video diventa un'opzione su tutte le piattaforme principali. Non è una novità di giornata: è il contesto in cui scegliere formato oggi.",
+  "brief": "Apple ha abilitato video HLS (iOS 26.4). Non è una novità di giornata: è il contesto per scegliere solo audio o video.",
   "angles": [
-   "Solo audio o anche video: come decidere senza impazzire",
-   "Un unico girato, tre piattaforme: flusso di lavoro minimo"
+   "Audio o video: come decidere",
+   "Un girato, tre piattaforme"
   ],
   "hooks": [
-   "Hai un microfono e zero voglia di farti vedere in video? Tranquillo, ora puoi scegliere.",
-   "Ti dicono che senza video non esisti? Apple ora lo supporta, ma il tuo audio fa schifo lo stesso.",
-   "Hai già un podcast audio e ti chiedi se aggiungere la telecamera? Prima sistema il suono, poi la faccia."
+   "Hai un microfono e zero voglia di mostrarti? Ora puoi scegliere.",
+   "Pensi che senza video non esisti? Apple lo supporta, ma l'audio scadente resta scadente.",
+   "Hai già un podcast audio e pensi alla telecamera? Prima sistema il suono."
   ]
  },
  {
   "id": "podcast-2026-11-spotify-netflix",
-  "title": "Spotify porta alcuni show su Netflix, togliendoli da YouTube",
-  "source": "podcastvideos.com (via ricerca web)",
-  "affidabilita": "segnale debole",
+  "title": "Spotify porta alcuni video podcast su Netflix (solo USA), video tolto da YouTube",
+  "source": "Podnews, podcastvideos.com (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
   "target": 6,
   "date": null,
-  "brief": "Una sola fonte riferisce di un accordo per portare certi podcast su Netflix, con rimozione da YouTube. Data e dettagli non verificati: da confermare.",
+  "brief": "Due fonti riferiscono un accordo per una selezione di video podcast di punta di Spotify su Netflix, solo USA, con video integrale rimosso da YouTube (restano clip e audio). Data precisa non verificata.",
   "angles": [
-   "Esclusiva o ovunque: cosa conviene a un piccolo creator",
+   "Esclusiva o ovunque: cosa conviene a un piccolo",
    "Non dipendere da una sola piattaforma"
   ],
   "hooks": [
-   "Pensi di pubblicare solo su una piattaforma? Poi cambiano le regole e ciao.",
-   "Hai appena aperto il tuo show e già temi le esclusive? Per ora pensa a finire la puntata 3.",
-   "Ti sembra che le piattaforme decidano per te? Un po' sì: tieni il tuo RSS."
-  ]
- },
- {
-  "id": "podcast-2026-11-it-nielseniq",
-  "title": "Italia: 18,5 milioni di ascoltatori di podcast (monitoraggio NielsenIQ per Audible, 2026)",
-  "source": "ItaliaOggi (via ricerca web)",
-  "affidabilita": "secondaria",
-  "target": 8,
-  "date": "2026-01-01",
-  "brief": "Secondo il monitoraggio 2026 NielsenIQ per Audible, gli ascoltatori italiani sono 18,5 milioni, con sessioni medie di circa 27 minuti e circa 5 ascolti al mese. Dato non di oggi ma utile per spiegare il mercato italiano.",
-  "angles": [
-   "Quanto dura davvero una puntata in Italia: 27 minuti",
-   "Perché partire adesso in Italia ha senso"
-  ],
-  "hooks": [
-   "Pensi che in Italia i podcast non li ascolti nessuno? Sono 18,5 milioni di persone.",
-   "Hai una puntata da 90 minuti e ti chiedi perché non la finisce nessuno? Il pubblico ne regge circa 27.",
-   "Stai per mollare perché sei piccolo? Il mercato italiano è cresciuto, tu intanto registra."
-  ]
- },
- {
-  "id": "podcast-2026-11-it-festival",
-  "title": "Podcasting Festival: decima edizione, temi video podcast e monetizzazione",
-  "source": "Il Sole 24 Ore English (via ricerca web)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": null,
-  "brief": "Il Podcasting Festival (Podstar) compie dieci anni nel 2026; temi: video podcast, discoverability, monetizzazione. Data dell'edizione non verificata. Il Torino Podcast Festival si è tenuto 5-7 giugno 2026.",
-  "angles": [
-   "Eventi italiani dove farsi conoscere",
-   "Cosa si dice oggi di discoverability"
-  ],
-  "hooks": [
-   "Fai un podcast da solo in cameretta? I festival esistono, e c'è anche da mangiare.",
-   "Ti manca il pubblico? Un festival vale più di tre post inutili.",
-   "Hai paura di presentarti ad altri podcaster? Siamo tutti nervosi con le cuffie."
-  ]
- },
- {
-  "id": "podcast-2026-11-it-24ore",
-  "title": "Gruppo 24 ORE lancia la 'casa' 24Ore Podcast con serie originali e video podcast",
-  "source": "Gruppo Il Sole 24 Ore, comunicato (marzo 2026)",
-  "affidabilita": "primaria",
-  "target": 5,
-  "date": "2026-03-01",
-  "brief": "Il gruppo ha annunciato una nuova casa per podcast e programmi, con serie originali e video podcast nel 2026. Segnale di un editore tradizionale che investe in video.",
-  "angles": [
-   "Gli editori italiani entrano nel video podcast",
-   "Cosa può copiare un indipendente"
-  ],
-  "hooks": [
-   "Pensi che i grandi editori ti schiaccino? Hanno budget, tu hai un'idea tua.",
-   "Hai un'idea e non sai se vale un podcast? Se ti diverti a parlarne, sì.",
-   "Ti sembra tutto già occupato? Anche i grandi sbagliano il suono, e tu no."
+   "Pensi di mettere il tuo podcast solo su una piattaforma? Occhio, le regole cambiano.",
+   "Hai appena iniziato e ti preoccupi di Netflix? Preoccupati prima di finire un episodio.",
+   "Ti dicono 'esclusiva' come fosse un premio? Per te piccolo vuol dire meno pubblico."
   ]
  }
 ]

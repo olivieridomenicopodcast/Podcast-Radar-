@@ -1,29 +1,29 @@
 [
  {
-  "id": "rift-2026-11-radiance",
-  "title": "Radiance: quinto set, lancio indicato per il 23 ottobre 2026",
-  "source": "Riot Games, comunicato (via ricerca web)",
+  "id": "rift-2026-11-calendario",
+  "title": "Calendario 2026: Spiritforged, Unleashed, Vendetta, Radiance (23 ottobre)",
+  "source": "Riot Games / StarCityGames / Mobalytics (via ricerca web 2026-11-10)",
   "affidabilita": "secondaria",
   "date": "2026-10-23",
-  "brief": "Un comunicato indica Radiance in lancio il 23 ottobre 2026. Non ho trovato nuove patch note nelle ultime 48 ore.",
-  "rilevanza": "È il set di riferimento per collezionisti e meta attuale."
+  "brief": "Quattro set maggiori nel 2026: Spiritforged 13 febbraio, Unleashed 8 maggio, Vendetta 31 luglio, Radiance 23 ottobre. Nessuna fonte trovata conferma l'effettivo lancio di Radiance.",
+  "rilevanza": "Serve a capire in che set stai collezionando."
  },
  {
   "id": "rift-2026-11-vendetta",
-  "title": "Core Rules: Vendetta Patch Notes, ultimo aggiornamento di regole listato",
-  "source": "playriftbound.com (via ricerca web)",
+  "title": "Core Rules: Vendetta Patch Notes e aggiornamento ban list di luglio",
+  "source": "playriftbound.com (via ricerca web 2026-11-10)",
   "affidabilita": "secondaria",
   "date": null,
-  "brief": "Ultima patch di regole core visibile nei risultati; Vendetta indicato con lancio al 31 luglio 2026. Data della patch non verificata.",
-  "rilevanza": "Base per capire le regole in vigore."
+  "brief": "Riot ha pubblicato patch notes delle regole e un aggiornamento ban list. Il testo non è stato letto, quindi non so cosa sia cambiato.",
+  "rilevanza": "Controlla la ban list prima di costruire un mazzo."
  },
  {
-  "id": "rift-2026-11-2027",
-  "title": "Roadmap 2027 di Riftbound annunciata (Legacy, The Reckoning)",
-  "source": "sito di recensioni, solo titolo (via ricerca web)",
+  "id": "rift-2026-11-nessuna",
+  "title": "Nessuna patch o bilanciamento nelle ultime 48 ore trovati",
+  "source": "ricerca web",
   "affidabilita": "segnale debole",
-  "date": "2026-08-03",
-  "brief": "Visto solo il titolo di un articolo di agosto; contenuto non verificato.",
-  "rilevanza": "Utile a pianificare acquisti, da confermare sul sito ufficiale."
+  "date": "2026-11-10",
+  "brief": "Né il sito ufficiale né riftbound.gg sono raggiungibili da questa sessione; la ricerca non ha restituito notizie di novembre.",
+  "rilevanza": "Controlla manualmente playriftbound.com/en-us/news."
  }
 ]

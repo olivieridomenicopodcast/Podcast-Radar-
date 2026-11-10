@@ -10,23 +10,83 @@
   "brief": "Date 2027 non trovate: controllare i canali ufficiali."
  },
  {
+  "id": "gd-it-archimede",
+  "title": "Studiogiochi: concorso 'Archimede 2027'",
+  "source": "studiogiochi.com (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "mercato": "italiana",
+  "tipo": "concorso",
+  "date": "2026-01-01",
+  "brief": "Avviso pubblicato a gennaio 2026. Le pagine del sito riportano alcune date incoerenti."
+ },
+ {
   "id": "gd-it-gate",
   "title": "GateOnGames: 'Spectacular' gioco di dadi annunciato, circa 34,99 €",
-  "source": "meeple.it (via ricerca web)",
+  "source": "meeple.it",
   "affidabilita": "segnale debole",
   "mercato": "italiana",
   "tipo": "catalogo",
   "date": null,
-  "brief": "Una sola fonte, stato 'Annunciato'."
+  "brief": "Fonte unica, stato 'Annunciato'."
  },
  {
   "id": "gd-it-lucca",
-  "title": "Lucca 2026: Padiglione Carducci con le novità dei giochi da tavolo",
-  "source": "Firenze Made in Tuscany (via ricerca web)",
+  "title": "Lucca 2026: MinaLima, gioco Wizarding World in anteprima",
+  "source": "Mondadori Store",
   "affidabilita": "segnale debole",
   "mercato": "italiana",
-  "tipo": "fiera",
+  "tipo": "licenza",
   "date": null,
-  "brief": "Nessun elenco editori verificato; fiera già conclusa."
+  "brief": "Fonte unica."
+ },
+ {
+  "id": "gd-int-asmodee",
+  "title": "Asmodee a Spiel Essen 2026 con novità ed esclusive",
+  "source": "Comunicato Asmodee (23 settembre) (via ricerca web 2026-11-10)",
+  "affidabilita": "primaria",
+  "mercato": "straniera",
+  "tipo": "publisher",
+  "date": "2026-09-23",
+  "brief": "Titoli non elencati nello snippet letto."
+ },
+ {
+  "id": "gd-int-kosmos",
+  "title": "KOSMOS: espansione 'Eternal Frost' per The Legends of Andor, fine 2026",
+  "source": "Board Game Beat (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "mercato": "straniera",
+  "tipo": "catalogo",
+  "date": null,
+  "brief": "Fonte unica."
+ },
+ {
+  "id": "gd-int-pd",
+  "title": "PD-Verlag pubblicherà 'Sweet Lands' in tedesco, da un autore/editore giapponese",
+  "source": "Board Game Beat / Brettspielbox (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "mercato": "straniera",
+  "tipo": "localizzazione",
+  "date": "2026-04-15",
+  "brief": "Accordo di localizzazione di metà aprile 2026: esempio di scouting di giochi giapponesi."
+ },
+ {
+  "id": "gd-int-essen",
+  "title": "Spiel Essen 2026: record di presenze, circa 230.000",
+  "source": "Meeple Mountain",
+  "affidabilita": "segnale debole",
+  "mercato": "straniera",
+  "tipo": "fiera",
+  "date": "2026-10-25",
+  "brief": "Cifra da fonte unica."
+ },
+ {
+  "id": "gd-nota",
+  "title": "Nota: poche notizie delle ultime 48 ore reperibili",
+  "source": "ricerca web",
+  "affidabilita": "segnale debole",
+  "mercato": "italiana",
+  "tipo": "nota",
+  "date": "2026-11-10",
+  "brief": "Molte fonti non raggiungibili. Non ho raggiunto le 20 notizie richieste senza inventare."
  }
 ]

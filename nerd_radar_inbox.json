@@ -1,20 +1,38 @@
 [
  {
   "id": "nerd-2026-11-lucca",
-  "title": "Lucca Comics & Games 2026 (60 anni) concluso: videogioco 'Luke & Clea' e anteprime",
-  "source": "Multiplayer.it, Viaggiapiccoli (via ricerca web)",
+  "title": "Lucca Comics & Games 2026 (60 anni) concluso: videogioco 'Luke & Clea'",
+  "source": "Multiplayer.it, CGMagazine (via ricerca web 2026-11-10)",
   "affidabilita": "secondaria",
   "date": "2026-11-01",
   "tipo": "fiera",
-  "brief": "Edizione dei 60 anni dal 28 ottobre al 1 novembre (una fonte indica il 2). Lanciato il videogioco pixel art 'Luke & Clea – A Quest for Legacy'. Bilanci finali non trovati."
+  "brief": "Edizione 'Legacy' dal 28 ottobre al 1 novembre. Annunciato il primo videogioco ufficiale 'Luke & Clea – A Quest for Legacy'. Ospiti: Yoshinori Kitase, Go Nagai."
  },
  {
-  "id": "nerd-2026-11-harrypotter",
-  "title": "MinaLima: nuovo gioco da tavolo Wizarding World in anteprima mondiale a Lucca",
-  "source": "Mondadori Store (via ricerca web)",
-  "affidabilita": "segnale debole",
+  "id": "nerd-2026-11-mgw",
+  "title": "Milan Games Week & Cartoomics: 27-29 novembre a Fiera Milano Rho",
+  "source": "Techprincess (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-27",
+  "tipo": "fiera",
+  "brief": "Prossimo grande appuntamento italiano per videogiochi e fumetti."
+ },
+ {
+  "id": "nerd-2026-11-essen",
+  "title": "Spiel Essen 2026 (22-25 ottobre): record di presenze, circa 230.000",
+  "source": "Meeple Mountain; Asmodee (comunicato) (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "date": "2026-10-25",
+  "tipo": "fiera",
+  "brief": "Asmodee ha portato novità ed esclusive; il numero di visitatori è riportato da una sola fonte."
+ },
+ {
+  "id": "nerd-2026-11-moccia",
+  "title": "Dario Moccia e soci fondano una casa editrice di carte, fumetti e giochi da tavolo",
+  "source": "Artribune (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
   "date": null,
-  "tipo": "gioco da tavolo",
-  "brief": "Una sola fonte; dettagli e data di uscita non verificati."
+  "tipo": "annuncio",
+  "brief": "Data non indicata. Fonte unica."
  }
 ]

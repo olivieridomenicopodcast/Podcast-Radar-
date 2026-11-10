@@ -1,26 +1,42 @@
 [
  {
-  "id": "metal-2026-novembre",
-  "title": "Novembre: esce 'Words of Indigo' il 7 novembre (Peaceville)",
-  "source": "metalgigs.us (via ricerca web)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-07",
-  "brief": "Il nono album della band doom/death italiana è indicato in uscita il 7 novembre. Tour italiano non confermato."
+  "id": "metal-2026-manowar",
+  "title": "Manowar in Italia il 26 e 27 marzo 2027: due serate, due album interi",
+  "source": "manowar.com (via ricerca web 2026-11-10)",
+  "affidabilita": "primaria",
+  "date": null,
+  "brief": "Kings of Metal e Fighting the World eseguiti per intero. Città non verificata."
+ },
+ {
+  "id": "metal-2026-ffdp",
+  "title": "Five Finger Death Punch: tour europeo gennaio-febbraio 2027 con Lamb of God e Bleed From Within",
+  "source": "pulse.bot (via ricerca web 2026-11-10)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Date italiane non trovate. Decimo album atteso a inizio 2027."
  },
  {
   "id": "metal-2026-messa",
-  "title": "Messa: chiusura del tour europeo a Trezzo sull'Adda il 21 novembre",
-  "source": "Chaoszine, Terra Relicta (via ricerca web)",
+  "title": "Messa chiude il tour europeo al Live Club di Trezzo il 21 novembre",
+  "source": "Chaoszine (via ricerca web 2026-11-10)",
   "affidabilita": "secondaria",
   "date": "2026-11-21",
-  "brief": "Prima tournée europea headline dopo 'The Spin', con data finale italiana al Live Club."
+  "brief": "Prima tournée headline dopo 'The Spin'."
  },
  {
-  "id": "metal-2026-avatar",
-  "title": "Avatar: tour europeo dal 20 novembre al 19 dicembre",
-  "source": "Blabbermouth (via ricerca web)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-20",
-  "brief": "Parte da Wolverhampton e finisce a Wrocław; date italiane non confermate."
+  "id": "metal-2026-rhapsody",
+  "title": "Rhapsody of Fire nel tour Motocultor, 7 gennaio-6 febbraio 2027",
+  "source": "regioactive.de (via ricerca web 2026-11-10)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Undici paesi, tappa italiana non confermata."
+ },
+ {
+  "id": "metal-2026-amorphis",
+  "title": "Amorphis: Borderland Tour 2027 in Europa",
+  "source": "eumetalindex.com (via ricerca web 2026-11-10)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Date italiane non confermate."
  }
 ]

@@ -1,21 +1,11 @@
 {
- "aggiornato": "2026-11-09",
+ "aggiornato": "2026-11-10",
  "citta": "Pesaro (PU), Marche, Italia",
  "fonti": [
   "https://www.meteo.it/meteo/pesaro-3-giorni-41044",
   "https://www.3bmeteo.com/meteo/pesaro/3"
  ],
  "previsioni": [
-  {
-   "data": "2026-11-09",
-   "giorno": "lunedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta ufficiale reperita"
-  },
   {
    "data": "2026-11-10",
    "giorno": "martedì",
@@ -35,7 +25,17 @@
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "nessuna allerta ufficiale reperita"
+  },
+  {
+   "data": "2026-11-12",
+   "giorno": "giovedì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "dato non reperito",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessuna allerta ufficiale reperita"
   }
  ],
- "note": "I siti meteo non sono raggiungibili da questa sessione e la ricerca ha restituito solo pagine datate. Nessun valore inventato."
+ "note": "Siti meteo non raggiungibili da questa sessione e la ricerca ha restituito solo pagine datate. Nessun valore inventato."
 }

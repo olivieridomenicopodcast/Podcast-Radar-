@@ -1,11 +1,29 @@
 [
  {
+  "id": "creator-2026-11-moccia",
+  "title": "Dario Moccia, Davide Masella e Luca Molinaro fondano una casa editrice",
+  "source": "Artribune (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Si occuperà di carte collezionabili, fumetti e giochi da tavolo. Data di lancio non indicata.",
+  "rilevanza": "Creator che passano a fare editoria: tema caro a chi autoproduce."
+ },
+ {
+  "id": "creator-2026-11-mgw",
+  "title": "Milan Games Week & Cartoomics 27-29 novembre",
+  "source": "Techprincess (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-27",
+  "brief": "Appuntamento principale per creator e community.",
+  "rilevanza": "Dove incontrare i creator."
+ },
+ {
   "id": "creator-2026-11-vuoto",
-  "title": "Nessuna notizia verificata sui creator nerd italiani nelle ultime 48 ore",
+  "title": "Nessun'altra notizia datata alle ultime 48 ore",
   "source": "ricerca web",
   "affidabilita": "segnale debole",
   "date": null,
-  "brief": "La ricerca non ha restituito contenuti datati agli ultimi due giorni.",
+  "brief": "La ricerca non ha restituito contenuti recenti.",
   "rilevanza": "Da riprovare domani."
  }
 ]

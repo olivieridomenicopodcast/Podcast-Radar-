@@ -1,26 +1,34 @@
 [
  {
-  "id": "ham-2026-11-solar",
-  "title": "ARRL: flusso solare previsto sopra 100, buona F2 su 17 e 15 m",
-  "source": "ARRL Solar Update 6 novembre 2026 (via ricerca web)",
+  "id": "ham-2026-11-vk9x",
+  "title": "DXpedition VK9XY a Christmas Island dal 16 novembre al 4 dicembre",
+  "source": "DX bulletin, DXZone (via ricerca web 2026-11-10)",
   "affidabilita": "secondaria",
-  "date": "2026-11-06",
-  "brief": "Flusso solare previsto oltre 100 nella settimana, buone aperture su 17 e 15 metri dal mattino a sera. NOAA indica attività bassa con possibili flare classe M."
+  "date": "2026-11-16",
+  "brief": "Il Pacific Islands DXpedition Group con Youth on the Air guida una spedizione di giovani operatori a Christmas Island. Da confermare sul sito ufficiale."
  },
  {
-  "id": "ham-2026-11-cqww-cw",
-  "title": "CQ WW CW: di norma ultimo weekend di novembre (probabile 28-29)",
-  "source": "inferenza dalla ricorrenza abituale",
+  "id": "ham-2026-11-3b9",
+  "title": "Rodrigues (3B9): attività prevista dal 22 novembre a inizio dicembre",
+  "source": "Bollettino DX LABRE (giugno 2026) (via ricerca web 2026-11-10)",
   "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Date non confermate da fonte diretta: verificare sul sito del contest."
+  "brief": "Bollettino datato giugno: piani non confermati di recente."
  },
  {
-  "id": "ham-2026-11-dxped",
-  "title": "DX-pedition di novembre da riconfermare",
-  "source": "aggregatori DX",
+  "id": "ham-2026-11-cqww",
+  "title": "CQ WW DX CW il 28-29 novembre",
+  "source": "Bollettino DX (via ricerca web 2026-11-10)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-28",
+  "brief": "Il contest cade nell'ultimo weekend di novembre. Alcune stazioni (es. 3B9KW) pianificano di partecipare."
+ },
+ {
+  "id": "ham-2026-11-prop",
+  "title": "Propagazione: nessun dato di oggi reperito",
+  "source": "ricerca web",
   "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Non ho potuto raggiungere DXZone né 425 DX News da questa sessione: nessuna DX-pedition verificata oggi."
+  "brief": "hamqsl e altri siti non raggiungibili da questa sessione. Ultimo dato noto dal file precedente: ARRL del 6 novembre con flusso solare sopra 100."
  }
 ]
