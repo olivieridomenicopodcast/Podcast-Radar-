@@ -1,41 +1,38 @@
 {
- "aggiornato": "2026-11-10",
+ "aggiornato": "2026-11-11",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": [
-  "https://www.meteo.it/meteo/pesaro-3-giorni-41044",
-  "https://www.3bmeteo.com/meteo/pesaro/3"
- ],
+ "fonti": ["https://www.ilmeteo.it/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteo.it/meteo/pesaro-41044", "https://www.meteo.it/meteo/pesaro-3-giorni-41044", "https://www.3bmeteo.com/meteo/pesaro", "https://www.meteoconsult.it/meteo-italia/citta-3716/previsioni-meteo-pesaro-oggi", "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723", "https://www.meteoplanet.it/meteo/pesaro/tra-11-giorni", "https://allertameteo.regione.marche.it"],
  "previsioni": [
-  {
-   "data": "2026-11-10",
-   "giorno": "martedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "nessuna allerta ufficiale reperita"
-  },
   {
    "data": "2026-11-11",
    "giorno": "mercoledì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
-   "vento": "dato non reperito",
+   "temp_min_c": 12,
+   "temp_max_c": 15,
+   "condizioni": "Pioggia, anche abbondante secondo iLMeteo.it; Meteoconsult indica min 11°C max 12°C con rischio pioggia elevato in serata; Meteo&Radar segnala pioggia da sud-ovest in mattinata con probabilità 60-80%",
+   "vento": "dato non reperito con precisione per questa data specifica",
    "mare": "dato non reperito",
-   "allerta": "nessuna allerta ufficiale reperita"
+   "allerta": "Nessuna allerta ufficiale Protezione Civile Marche reperita per questa data (l'ultima allerta trovata, n.57/2026 per vento e mareggiate, era valida solo 1-2 novembre 2026)"
   },
   {
    "data": "2026-11-12",
    "giorno": "giovedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "dato non reperito",
-   "vento": "dato non reperito",
+   "temp_min_c": 15,
+   "temp_max_c": 18,
+   "condizioni": "Dati discordanti tra fonti: iLMeteo.it indica assenza di precipitazioni (0% probabilità), mare mosso; 3BMeteo indica pioggia debole (16-19°C); Meteoplanet indica nuvoloso con pioggia moderata",
+   "vento": "dato non reperito con certezza",
+   "mare": "mosso (secondo iLMeteo.it); dato non confermato da altre fonti",
+   "allerta": "dato non reperito per questa data specifica"
+  },
+  {
+   "data": "2026-11-13",
+   "giorno": "venerdì",
+   "temp_min_c": 12,
+   "temp_max_c": 20,
+   "condizioni": "Dati discordanti: meteo.it indica prevalentemente soleggiato (16-20°C) ma segnala anche una fase di maltempo intenso tra giovedì 12 e venerdì 13 per le zone tirreniche (non necessariamente Marche); iLMeteo.it indica min 12°C max 20°C senza ulteriori dettagli; Meteoplanet indica nuvoloso con pioggia forte (13-14.5°C, valore discordante)",
+   "vento": "meteo.it segnala un allarme vento forte per questa data, senza valori numerici specifici reperiti",
    "mare": "dato non reperito",
-   "allerta": "nessuna allerta ufficiale reperita"
+   "allerta": "dato non reperito per questa data specifica dalla Protezione Civile Marche; meteo.it segnala solo un generico allarme vento forte"
   }
  ],
- "note": "Siti meteo non raggiungibili da questa sessione e la ricerca ha restituito solo pagine datate. Nessun valore inventato."
+ "note": "I dati provengono da snippet di ricerca web (Google), non da accesso diretto alle pagine (WebFetch bloccato per questi domini in questa sessione cloud). Le fonti meteo consultate (iLMeteo.it, Meteo.it, 3BMeteo, Meteoconsult, Meteoplanet, MeteoeRadar) mostrano previsioni tra loro discordanti per il 12 e 13 novembre, specialmente riguardo a pioggia vs sole. I valori di vento e mare sono in gran parte non reperiti con sufficiente precisione per queste date specifiche. Nessun bollettino ufficiale di allerta della Protezione Civile Marche per l'11-13 novembre 2026 è stato trovato nei risultati di ricerca; si raccomanda di verificare direttamente su allertameteo.regione.marche.it per un dato aggiornato e certo."
 }

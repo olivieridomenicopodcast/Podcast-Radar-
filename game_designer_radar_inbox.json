@@ -1,92 +1,202 @@
 [
- {
-  "id": "gd-it-ideag",
-  "title": "IdeaG: incontro autori, di solito a metà gennaio vicino a Parma",
-  "source": "Spieleautorenzunft",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "evento",
-  "date": null,
-  "brief": "Date 2027 non trovate: controllare i canali ufficiali."
- },
- {
-  "id": "gd-it-archimede",
-  "title": "Studiogiochi: concorso 'Archimede 2027'",
-  "source": "studiogiochi.com (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "concorso",
-  "date": "2026-01-01",
-  "brief": "Avviso pubblicato a gennaio 2026. Le pagine del sito riportano alcune date incoerenti."
- },
- {
-  "id": "gd-it-gate",
-  "title": "GateOnGames: 'Spectacular' gioco di dadi annunciato, circa 34,99 €",
-  "source": "meeple.it",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "catalogo",
-  "date": null,
-  "brief": "Fonte unica, stato 'Annunciato'."
- },
- {
-  "id": "gd-it-lucca",
-  "title": "Lucca 2026: MinaLima, gioco Wizarding World in anteprima",
-  "source": "Mondadori Store",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "licenza",
-  "date": null,
-  "brief": "Fonte unica."
- },
- {
-  "id": "gd-int-asmodee",
-  "title": "Asmodee a Spiel Essen 2026 con novità ed esclusive",
-  "source": "Comunicato Asmodee (23 settembre) (via ricerca web 2026-11-10)",
-  "affidabilita": "primaria",
-  "mercato": "straniera",
-  "tipo": "publisher",
-  "date": "2026-09-23",
-  "brief": "Titoli non elencati nello snippet letto."
- },
- {
-  "id": "gd-int-kosmos",
-  "title": "KOSMOS: espansione 'Eternal Frost' per The Legends of Andor, fine 2026",
-  "source": "Board Game Beat (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "catalogo",
-  "date": null,
-  "brief": "Fonte unica."
- },
- {
-  "id": "gd-int-pd",
-  "title": "PD-Verlag pubblicherà 'Sweet Lands' in tedesco, da un autore/editore giapponese",
-  "source": "Board Game Beat / Brettspielbox (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "localizzazione",
-  "date": "2026-04-15",
-  "brief": "Accordo di localizzazione di metà aprile 2026: esempio di scouting di giochi giapponesi."
- },
- {
-  "id": "gd-int-essen",
-  "title": "Spiel Essen 2026: record di presenze, circa 230.000",
-  "source": "Meeple Mountain",
-  "affidabilita": "segnale debole",
-  "mercato": "straniera",
-  "tipo": "fiera",
-  "date": "2026-10-25",
-  "brief": "Cifra da fonte unica."
- },
- {
-  "id": "gd-nota",
-  "title": "Nota: poche notizie delle ultime 48 ore reperibili",
-  "source": "ricerca web",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "nota",
-  "date": "2026-11-10",
-  "brief": "Molte fonti non raggiungibili. Non ho raggiunto le 20 notizie richieste senza inventare."
- }
+   {
+    "id": "gd-2026-11-11-milan-games-week-cartoomics",
+    "title": "Milan Games Week & Cartoomics 2026: appuntamento dal 27 al 29 novembre a Fiera Milano Rho",
+    "source": "Multiplayer.it, TicketOne, Italia.it (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "fiera",
+    "date": "2026-11-27",
+    "brief": "La fiera milanese dedicata a fumetti, giochi da tavolo, videogiochi e pop culture si terrà a Fiera Milano Rho dal 27 al 29 novembre 2026. È confermata la partecipazione di Sergio Bonelli Editore con un'area per i 40 anni di Dylan Dog. Non è stato trovato un elenco completo degli editori di giochi da tavolo presenti."
+   },
+   {
+    "id": "gd-2026-11-11-lucca-comics-games-60",
+    "title": "Lucca Comics & Games 2026 celebra il 60° anniversario con il tema 'Legacy'",
+    "source": "SenalNews, Cinefilos, Finestre sull'Arte (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "fiera",
+    "date": "2026-10-28",
+    "brief": "La manifestazione lucchese, alla 60ª edizione, si è svolta dal 28 ottobre al 1° novembre 2026 con il tema 'Legacy'. Il Padiglione Carducci ha ospitato come da tradizione gli editori di giochi da tavolo e di ruolo; introdotta anche una nuova LCG Card Collection per i visitatori."
+   },
+   {
+    "id": "gd-2026-11-11-lucca-gioco-anno-rebirth",
+    "title": "Rebirth di Reiner Knizia nominato Gioco dell'Anno 2026 a Lucca Comics & Games",
+    "source": "gusandco.net (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "mercato": "italiana",
+    "tipo": "concorso",
+    "date": "2026-10-29",
+    "brief": "Secondo il sito francese gusandco.net, il 29 ottobre 2026 Lucca Comics & Games avrebbe premiato Rebirth di Reiner Knizia come Gioco dell'Anno, dopo che il titolo aveva già vinto il Kennerspiel des Jahres in estate. Nessuna conferma trovata su fonti ufficiali o testate italiane."
+   },
+   {
+    "id": "gd-2026-11-11-paolo-mori-designer-anno",
+    "title": "Paolo Mori nominato Board Game Designer of the Year 2026 da Lucca Comics & Games",
+    "source": "gusandco.net (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "mercato": "italiana",
+    "tipo": "concorso",
+    "date": "2026-10-29",
+    "brief": "L'autore italiano Paolo Mori (Toy Battle, Nova Lectio Status) avrebbe ricevuto il titolo di Board Game Designer of the Year 2026 a Lucca Comics & Games, dopo l'annuncio anticipato a Milano il 24 settembre. Informazione da un'unica fonte estera, non confermata da editori o testate italiane."
+   },
+   {
+    "id": "gd-2026-11-11-giochi-uniti-assalto-castello",
+    "title": "Giochi Uniti riporta Assalto al Castello in una nuova edizione, debutto a Lucca Comics & Games",
+    "source": "SpazioGames (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "catalogo",
+    "date": "2026-10-28",
+    "brief": "L'editore italiano Giochi Uniti ha presentato a Lucca Comics & Games 2026 una nuova edizione del gioco di abilità Assalto al Castello, su licenza del brand Feudalesimo e Libertà, di ritorno in catalogo in autunno 2026."
+   },
+   {
+    "id": "gd-2026-11-11-need-games-fabula-ultima",
+    "title": "Need Games! presenta nuovo materiale per Fabula Ultima a Lucca Comics & Games 2026",
+    "source": "SpazioGames (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "catalogo",
+    "date": "2026-10-28",
+    "brief": "Need Games! ha annunciato a Lucca Comics & Games 2026 nuovi contenuti per il gioco di ruolo Fabula Ultima, tra cui il Bestiary Vol. I e una variante con illustrazioni di Yoshitaka Amano, nell'ambito del programma giochi di ruolo della fiera."
+   },
+   {
+    "id": "gd-2026-11-11-lucca-community-awards",
+    "title": "Aperte le votazioni per i Lucca Comics & Games Community Awards 2026",
+    "source": "AnimeClick, SpazioGames (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "concorso",
+    "date": null,
+    "brief": "Avviata la quarta edizione dei Community Awards di Lucca Comics & Games 2026, premio votato dal pubblico con categorie legate anche a giochi da tavolo e di ruolo. I vincitori sono stati annunciati in streaming durante il festival, ma i nomi non sono emersi dalle fonti consultate."
+   },
+   {
+    "id": "gd-2026-11-11-raven-distribution-chaosium",
+    "title": "Raven Distribution porta in Italia su licenza i titoli Chaosium (Call of Cthulhu, Pendragon, RuneQuest)",
+    "source": "FroGames, sito Chaosium (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "localizzazione",
+    "date": "2025-05-01",
+    "brief": "L'editore/distributore italiano Raven Distribution ha annunciato le versioni italiane su licenza degli starter set di Call of Cthulhu, Pendragon e RuneQuest, oltre al cofanetto per il 40° anniversario di Call of Cthulhu. È la notizia più recente e verificabile trovata sull'editore: risale al 2025, nessun annuncio confermato per novembre 2026."
+   },
+   {
+    "id": "gd-2026-11-11-ideag-nota",
+    "title": "Nessuna nuova edizione di IdeaG individuata per il 2026",
+    "source": "Spieleautorenzunft, studiogiochi.com (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "mercato": "italiana",
+    "tipo": "nota",
+    "date": null,
+    "brief": "IdeaG, l'incontro nazionale italiano degli autori di giochi (gestito da SAZ Italia a Parma), risulta nelle fonti reperite fermo alla 18ª edizione (aprile 2023). Nessuna comunicazione ufficiale trovata su data, sede o edizione 2026: nota di scarsità, da verificare sul sito SAZ Italia."
+   },
+   {
+    "id": "gd-2026-11-11-gateongames-nota",
+    "title": "Nessuna notizia verificabile su GateOnGames o Mario Cortese nel periodo considerato",
+    "source": "Ricerca web (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "mercato": "italiana",
+    "tipo": "nota",
+    "date": null,
+    "brief": "La ricerca non ha restituito annunci, interviste o comunicati recenti riconducibili a GateOnGames o a Mario Cortese. Nota inserita per trasparenza: nessun contenuto è stato inventato in assenza di fonti verificabili."
+   },
+   {
+    "id": "gd-2026-11-11-restoration-games-gw",
+    "title": "Restoration Games e Games Workshop annunciano un accordo di licenza pluriennale",
+    "source": "Gaming Trend, Toy Book, God Is a Geek (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "licenza",
+    "date": "2026-11-05",
+    "brief": "Restoration Games ha annunciato il 5 novembre 2026 un accordo pluriennale con Games Workshop per rilanciare tre vecchi titoli (Chaos in the Old World, Dungeons of Gravemarch e Warrior Knights) reimmaginati nel nuovo universo 'Gravemarch' del brand Talisman Realm. Il designer Eric Lang entra nel team di Restoration per la nuova versione di Chaos in the Old World."
+   },
+   {
+    "id": "gd-2026-11-11-allplay-zoo-vadis",
+    "title": "Allplay pubblicherà Zoo Vadis di Reiner Knizia",
+    "source": "ICv2 (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "catalogo",
+    "date": "2026-11-03",
+    "brief": "ICv2 riporta che l'editore Allplay distribuirà Zoo Vadis, nuovo titolo di Reiner Knizia, con uscita prevista entro la fine del 2026, confermando la produttività dell'autore dopo i recenti premi vinti con Rebirth."
+   },
+   {
+    "id": "gd-2026-11-11-spiel-essen-record",
+    "title": "Spiel Essen 2026 chiude con un record di 230.000 visitatori",
+    "source": "ICv2, Spielwarenmesse, God Is a Geek (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "fiera",
+    "date": "2026-10-25",
+    "brief": "La fiera tedesca Spiel Essen, la più grande al mondo dedicata ai giochi da tavolo, ha registrato un nuovo record di affluenza con 230.000 visitatori nell'edizione 2026, 10.000 in più rispetto al 2025, occupando per la prima volta tutti gli otto padiglioni della Messe Essen."
+   },
+   {
+    "id": "gd-2026-11-11-jack-kittredge-morte",
+    "title": "Morto Jack Kittredge, legato alla creazione di Cosmic Encounter",
+    "source": "Legacy.com, aggregatori board game (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "mercato": "straniera",
+    "tipo": "nota",
+    "date": "2026-10-25",
+    "brief": "È morto il 25 ottobre 2026 all'età di 82 anni John 'Jack' Kittredge, citato da un necrologio come legato al successo di Cosmic Encounter (1977), entrato nella Hall of Fame dell'Academy of Adventure Gaming Arts & Design nel 1997. Il necrologio non specifica con precisione il ruolo di 'co-creatore', da verificare con fonti di settore."
+   },
+   {
+    "id": "gd-2026-11-11-steam-digital-tabletop-fest",
+    "title": "Steam Digital Tabletop Fest 2026 in corso fino al 15 novembre",
+    "source": "NAG (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "evento",
+    "date": "2026-11-09",
+    "brief": "Valve sta ospitando su Steam il Digital Tabletop Fest 2026, con oltre 120 adattamenti digitali di giochi da tavolo in sconto fino al 15 novembre 2026: un'occasione di visibilità per editori con trasposizioni digitali dei propri titoli."
+   },
+   {
+    "id": "gd-2026-11-11-bggcon-dallas",
+    "title": "BGG.Con 2026 in programma a Dallas dal 18 al 22 novembre",
+    "source": "BoardGameWire, Tabletop Battles (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "evento",
+    "date": "2026-11-18",
+    "brief": "La convention annuale organizzata dalla community di BoardGameGeek, BGG.Con, si terrà a Dallas (USA) dal 18 al 22 novembre 2026: è uno degli appuntamenti più seguiti da autori ed editori per playtest e networking."
+   },
+   {
+    "id": "gd-2026-11-11-asmodee-nekuma-japon",
+    "title": "Asmodee acquisisce Japon Brand da CMON e lancia lo studio Nekuma per i giochi asiatici",
+    "source": "Comunicato Asmodee, Gaming Trend, BoardGameWire (via ricerca web 2026-11-11)",
+    "affidabilita": "primaria",
+    "mercato": "straniera",
+    "tipo": "publisher",
+    "date": "2026-03-20",
+    "brief": "Asmodee ha rilevato da CMON il marchio Japon Brand e lanciato Nekuma, nuovo studio dedicato alla selezione e pubblicazione di giochi di autori giapponesi e asiatici. Notizia non recentissima ma la più aggiornata reperita su questa strategia di espansione editoriale di Asmodee in Asia."
+   },
+   {
+    "id": "gd-2026-11-11-stonemaier-braided-skies",
+    "title": "Stonemaier Games annuncia Braided Skies, uscita retail a novembre 2026",
+    "source": "ICv2 (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "catalogo",
+    "date": null,
+    "brief": "Stonemaier Games ha presentato Braided Skies, nuovo titolo ambientato nell'universo di Smoking Bones, svelato a Essen Spiel 2026 con uscita retail prevista per novembre 2026."
+   },
+   {
+    "id": "gd-2026-11-11-rebirth2-kickstarter",
+    "title": "Rebirth 2 di Mighty Boards in campagna Kickstarter dal 10 novembre",
+    "source": "Advertising BoardGameGeek (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "mercato": "straniera",
+    "tipo": "publisher",
+    "date": "2026-11-10",
+    "brief": "Una pagina pubblicitaria su BoardGameGeek indica che la campagna Kickstarter di Rebirth 2, targata Mighty Boards Ltd., sarebbe attiva dal 10 novembre al 1° dicembre 2026. Trattandosi di un'inserzione e non di un comunicato editoriale, va verificata direttamente su Kickstarter."
+   },
+   {
+    "id": "gd-2026-11-11-asmodee-welcome-to",
+    "title": "Asmodee acquisisce il franchise Welcome To... da Blue Cocker",
+    "source": "Comunicato Asmodee (via ricerca web 2026-11-11)",
+    "affidabilita": "primaria",
+    "mercato": "straniera",
+    "tipo": "licenza",
+    "date": "2026-08-31",
+    "brief": "Asmodee ha annunciato il 31 agosto 2026 l'acquisizione della proprietà intellettuale e dell'intera linea di giochi Welcome To... dall'editore francese Blue Cocker, confermando la propria strategia di acquisizione di IP di successo nel segmento flip-and-write. Dettagli sulle prossime uscite non ancora comunicati."
+   }
 ]

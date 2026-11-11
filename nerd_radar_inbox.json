@@ -1,38 +1,65 @@
 [
- {
-  "id": "nerd-2026-11-lucca",
-  "title": "Lucca Comics & Games 2026 (60 anni) concluso: videogioco 'Luke & Clea'",
-  "source": "Multiplayer.it, CGMagazine (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "tipo": "fiera",
-  "brief": "Edizione 'Legacy' dal 28 ottobre al 1 novembre. Annunciato il primo videogioco ufficiale 'Luke & Clea – A Quest for Legacy'. Ospiti: Yoshinori Kitase, Go Nagai."
- },
- {
-  "id": "nerd-2026-11-mgw",
-  "title": "Milan Games Week & Cartoomics: 27-29 novembre a Fiera Milano Rho",
-  "source": "Techprincess (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "tipo": "fiera",
-  "brief": "Prossimo grande appuntamento italiano per videogiochi e fumetti."
- },
- {
-  "id": "nerd-2026-11-essen",
-  "title": "Spiel Essen 2026 (22-25 ottobre): record di presenze, circa 230.000",
-  "source": "Meeple Mountain; Asmodee (comunicato) (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "date": "2026-10-25",
-  "tipo": "fiera",
-  "brief": "Asmodee ha portato novità ed esclusive; il numero di visitatori è riportato da una sola fonte."
- },
- {
-  "id": "nerd-2026-11-moccia",
-  "title": "Dario Moccia e soci fondano una casa editrice di carte, fumetti e giochi da tavolo",
-  "source": "Artribune (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "tipo": "annuncio",
-  "brief": "Data non indicata. Fonte unica."
- }
+  {
+    "id": "nerd-2026-11-11-gta6-preload",
+    "title": "GTA VI: il pre-caricamento digitale anticipato al 10 novembre",
+    "source": "Rockstar Newswire / IBTimes / Beebom (via ricerca web 2026-11-11)",
+    "affidabilita": "primaria",
+    "date": "2026-11-10",
+    "tipo": "videogioco",
+    "brief": "Rockstar ha anticipato di due giorni l'apertura del pre-load digitale di GTA VI su PS5 e Xbox Series X|S, portandolo al 10 novembre 2026 (le copie fisiche con codice partono dal 12). Il file pesa fino a 212 GB; il lancio resta fissato per il 19 novembre 2026. Notizia davvero recente, confermata da più fonti indipendenti."
+  },
+  {
+    "id": "nerd-2026-11-11-halo-campaign-evolved-boardgame",
+    "title": "Halo: Campaign Evolved - The Board Game arriva in negozio il 14 novembre",
+    "source": "ICv2 / Mantic Games (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-14",
+    "tipo": "gioco da tavolo",
+    "brief": "Mantic Games conferma l'uscita retail per il 14 novembre 2026 del gioco da tavolo cooperativo 1-2 giocatori legato al franchise Halo, realizzato in collaborazione con Halo Studios. Il gioco era stato annunciato già a giugno 2026: la novità delle ultime ore è la data di uscita confermata dai rivenditori, non l'annuncio in sé."
+  },
+  {
+    "id": "nerd-2026-11-11-milan-games-week-cartoomics",
+    "title": "Milan Games Week & Cartoomics 2026: programma in arrivo per fine novembre",
+    "source": "Multiplayer.it / Techprincess (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-27",
+    "tipo": "fiera",
+    "brief": "La fiera si terrà dal 27 al 29 novembre 2026 a Fiera Milano Rho, in formato unificato con Cartoomics (comics, cinema, libri, arte digitale oltre a gaming/esport). Tra gli ospiti annunciati il cast della serie live-action di One Piece e una mostra Sergio Bonelli Editore per i 40 anni di Dylan Dog. Le date erano note da giugno 2026, quindi non è una notizia nuovissima, ma il dettaglio del programma/ospiti è un aggiornamento recente."
+  },
+  {
+    "id": "nerd-2026-11-11-lucca-comics-2027-date",
+    "title": "Lucca Comics & Games chiude l'edizione dei 60 anni e annuncia le date 2027",
+    "source": "SenalNews / Finestre sull'Arte (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-02",
+    "tipo": "fiera",
+    "brief": "La 60ª edizione (28 ottobre - 1 novembre 2026, tema 'Legacy') si è chiusa con ospiti come Go Nagai, Frank Miller e Jonathan Hickman; le fonti divergono sui visitatori totali (345.000 o 800.000 secondo articoli diversi, dato da verificare). Annunciate le date 2027: 28 ottobre - 1 novembre. È una notizia di circa 10 giorni fa, non delle ultime 48 ore, ma rilevante per il calendario eventi."
+  },
+  {
+    "id": "nerd-2026-11-11-kojima-physint-xbox",
+    "title": "PlayStation abbandona Physint di Kojima, Xbox ne diventa publisher",
+    "source": "TechRadar / GameDeveloper / VGC (via ricerca web 2026-11-11)",
+    "affidabilita": "secondaria",
+    "date": "2026-09-10",
+    "tipo": "videogioco",
+    "brief": "Xbox ha rilevato la pubblicazione di Physint, il nuovo gioco stealth di Kojima Productions, dopo che PlayStation Studios ha comunicato a sorpresa la cancellazione del progetto a giugno 2026. L'accordo si estenderebbe anche a film e TV. Notizia di oltre un mese fa, segnalata qui perché è l'argomento più vicino trovato di rilievo per il settore."
+  },
+  {
+    "id": "nerd-2026-11-11-gamescom-2027-date",
+    "title": "Gamescom 2027 fissata per il 23-29 agosto a Colonia (non ancora confermata ufficialmente)",
+    "source": "Insider Gaming / games.gg (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "date": null,
+    "tipo": "fiera",
+    "brief": "Diverse testate riportano le date del 23-29 agosto 2027 per Gamescom a Colonia, dedotte da materiale promozionale visto sul floor della fiera 2026 (agosto 2026), non da un comunicato ufficiale di Koelnmesse. Notizia non recentissima e non ancora confermata dall'organizzatore."
+  },
+  {
+    "id": "nerd-2026-11-11-essen-spiel-2027-date",
+    "title": "SPIEL Essen 2027: circolano date non ufficiali (21-24 ottobre)",
+    "source": "Showsbee / Cantonfair (via ricerca web 2026-11-11)",
+    "affidabilita": "segnale debole",
+    "date": null,
+    "tipo": "fiera",
+    "brief": "Alcuni siti di settore indicano il 21-24 ottobre 2027 per la fiera di giochi da tavolo di Essen, ma il sito ufficiale spiel-essen.de conferma al momento solo l'edizione 2026 (22-25 ottobre). Da trattare come indiscrezione non confermata."
+  }
 ]

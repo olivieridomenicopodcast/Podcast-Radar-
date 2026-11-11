@@ -1,29 +1,47 @@
 [
- {
-  "id": "creator-2026-11-moccia",
-  "title": "Dario Moccia, Davide Masella e Luca Molinaro fondano una casa editrice",
-  "source": "Artribune (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Si occuperà di carte collezionabili, fumetti e giochi da tavolo. Data di lancio non indicata.",
-  "rilevanza": "Creator che passano a fare editoria: tema caro a chi autoproduce."
- },
- {
-  "id": "creator-2026-11-mgw",
-  "title": "Milan Games Week & Cartoomics 27-29 novembre",
-  "source": "Techprincess (via ricerca web 2026-11-10)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "brief": "Appuntamento principale per creator e community.",
-  "rilevanza": "Dove incontrare i creator."
- },
- {
-  "id": "creator-2026-11-vuoto",
-  "title": "Nessun'altra notizia datata alle ultime 48 ore",
-  "source": "ricerca web",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "La ricerca non ha restituito contenuti recenti.",
-  "rilevanza": "Da riprovare domani."
- }
+    {
+      "id": "creator-2026-11-11-lucca-comics-tomodachi-press",
+      "title": "Lucca Comics & Games 2026 chiude i battenti: Dario Moccia e Tomodachi Press tra i protagonisti della 60ª edizione",
+      "source": "La Nazione, Multiplayer.it, Rolling Stone Italia (via ricerca web 2026-11-11)",
+      "affidabilita": "secondaria",
+      "date": "2026-11-01",
+      "brief": "La 60ª edizione di Lucca Comics & Games (28 ottobre-1 novembre 2026, 'Diamond Edition') si è chiusa con numeri da record (le fonti divergono: tra 275mila e 345mila biglietti secondo gli organizzatori, altre fonti citano cifre più alte sui visitatori totali). Lo streamer/content creator Dario Moccia, con la sua casa editrice Tomodachi Press (fondata insieme a Davide Masella e Luca Molinaro), ha presentato progetti di carte, fumetti e giochi da tavolo allo stand della fiera.",
+      "rilevanza": "Mostra il peso crescente dei content creator italiani (Moccia) come editori/imprenditori nel settore fumetti-giochi da tavolo, e la salute dell'evento nerd più importante d'Italia."
+    },
+    {
+      "id": "creator-2026-11-11-animeclick-awards",
+      "title": "AnimeClick Awards 2026: annunciati i vincitori votati dalla community a Lucca Comics",
+      "source": "AnimeClick.it (via ricerca web 2026-11-11)",
+      "affidabilita": "secondaria",
+      "date": "2026-10-29",
+      "brief": "Il portale italiano AnimeClick ha annunciato i vincitori della nuova edizione degli AnimeClick Awards 2026, il premio scelto dal voto della community di appassionati di anime e manga, cerimonia svoltasi in concomitanza con Lucca Comics & Games.",
+      "rilevanza": "Rappresenta il principale riconoscimento 'dal basso' della community nerd/anime italiana, un punto di riferimento per creator e appassionati di cultura pop giapponese in Italia."
+    },
+    {
+      "id": "creator-2026-11-11-esports-nations-cup-italia",
+      "title": "Esports Nations Cup 2026: la nazionale italiana di League of Legends in gara a Riyadh",
+      "source": "SheepEsports, Techprincess.it (via ricerca web 2026-11-11)",
+      "affidabilita": "secondaria",
+      "date": "2026-11-02",
+      "brief": "IIDEA è stata scelta come National Team Partner per l'Italia nella neonata Esports Nations Cup 2026 (Riyadh, inizio novembre). Il roster italiano di League of Legends comprende Gabbo, Goliah, Vigil, Ryuk e Click, guidato dal coach Fabrizio 'Gine' Ginestroni, con Tyrone e Shredder come riserve.",
+      "rilevanza": "Prima partecipazione italiana a una competizione esports a squadre nazionali di questo tipo, un passaggio rilevante per la scena competitiva e i creator legati agli esport in Italia."
+    },
+    {
+      "id": "creator-2026-11-11-milan-games-week-cartoomics",
+      "title": "Milan Games Week & Cartoomics 2026: annunciate le date dopo un'edizione 2025 da record",
+      "source": "Multiplayer.it (via ricerca web 2026-11-11)",
+      "affidabilita": "secondaria",
+      "date": null,
+      "brief": "Dopo numeri da record nel 2025, è stata confermata l'edizione 2026 di Milan Games Week & Cartoomics (27-29 novembre, Fiera Milano Rho), formato che unisce videogiochi, fumetti, cinema e arte digitale. Gli organizzatori hanno annunciato che ulteriori ospiti e content creator saranno rivelati nelle prossime settimane.",
+      "rilevanza": "Uno dei principali eventi nerd/gaming italiani, tradizionalmente frequentato da streamer e YouTuber italiani del settore, che useranno l'evento come vetrina nelle prossime settimane."
+    },
+    {
+      "id": "creator-2026-11-11-play-festival-creator-gdt",
+      "title": "Play Festival 2026: content creator italiani di giochi da tavolo e di ruolo tra gli ospiti ufficiali",
+      "source": "Play-festival.it (via ricerca web 2026-11-11)",
+      "affidabilita": "secondaria",
+      "date": null,
+      "brief": "Tra gli ospiti ufficiali di Play Festival 2026 (il festival del gioco di Modena) figurano diversi content creator italiani del mondo tabletop/RPG: il canale YouTube Coboldo Channel (attivo dal 2017 sul gioco di ruolo da tavolo), il videomaker Simone Rosini, Silvia 'Escilgioco' Fossati e il collettivo 'Amici di Giula'.",
+      "rilevanza": "Conferma la crescita e il radicamento della scena italiana di creator dedicati ai giochi da tavolo e di ruolo, che dagli stand del festival si confermano punti di riferimento per la community."
+    }
 ]
