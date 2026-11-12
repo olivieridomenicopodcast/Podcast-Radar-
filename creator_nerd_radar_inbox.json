@@ -1,47 +1,47 @@
 [
-    {
-      "id": "creator-2026-11-11-lucca-comics-tomodachi-press",
-      "title": "Lucca Comics & Games 2026 chiude i battenti: Dario Moccia e Tomodachi Press tra i protagonisti della 60ª edizione",
-      "source": "La Nazione, Multiplayer.it, Rolling Stone Italia (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": "2026-11-01",
-      "brief": "La 60ª edizione di Lucca Comics & Games (28 ottobre-1 novembre 2026, 'Diamond Edition') si è chiusa con numeri da record (le fonti divergono: tra 275mila e 345mila biglietti secondo gli organizzatori, altre fonti citano cifre più alte sui visitatori totali). Lo streamer/content creator Dario Moccia, con la sua casa editrice Tomodachi Press (fondata insieme a Davide Masella e Luca Molinaro), ha presentato progetti di carte, fumetti e giochi da tavolo allo stand della fiera.",
-      "rilevanza": "Mostra il peso crescente dei content creator italiani (Moccia) come editori/imprenditori nel settore fumetti-giochi da tavolo, e la salute dell'evento nerd più importante d'Italia."
-    },
-    {
-      "id": "creator-2026-11-11-animeclick-awards",
-      "title": "AnimeClick Awards 2026: annunciati i vincitori votati dalla community a Lucca Comics",
-      "source": "AnimeClick.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": "2026-10-29",
-      "brief": "Il portale italiano AnimeClick ha annunciato i vincitori della nuova edizione degli AnimeClick Awards 2026, il premio scelto dal voto della community di appassionati di anime e manga, cerimonia svoltasi in concomitanza con Lucca Comics & Games.",
-      "rilevanza": "Rappresenta il principale riconoscimento 'dal basso' della community nerd/anime italiana, un punto di riferimento per creator e appassionati di cultura pop giapponese in Italia."
-    },
-    {
-      "id": "creator-2026-11-11-esports-nations-cup-italia",
-      "title": "Esports Nations Cup 2026: la nazionale italiana di League of Legends in gara a Riyadh",
-      "source": "SheepEsports, Techprincess.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": "2026-11-02",
-      "brief": "IIDEA è stata scelta come National Team Partner per l'Italia nella neonata Esports Nations Cup 2026 (Riyadh, inizio novembre). Il roster italiano di League of Legends comprende Gabbo, Goliah, Vigil, Ryuk e Click, guidato dal coach Fabrizio 'Gine' Ginestroni, con Tyrone e Shredder come riserve.",
-      "rilevanza": "Prima partecipazione italiana a una competizione esports a squadre nazionali di questo tipo, un passaggio rilevante per la scena competitiva e i creator legati agli esport in Italia."
-    },
-    {
-      "id": "creator-2026-11-11-milan-games-week-cartoomics",
-      "title": "Milan Games Week & Cartoomics 2026: annunciate le date dopo un'edizione 2025 da record",
-      "source": "Multiplayer.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": null,
-      "brief": "Dopo numeri da record nel 2025, è stata confermata l'edizione 2026 di Milan Games Week & Cartoomics (27-29 novembre, Fiera Milano Rho), formato che unisce videogiochi, fumetti, cinema e arte digitale. Gli organizzatori hanno annunciato che ulteriori ospiti e content creator saranno rivelati nelle prossime settimane.",
-      "rilevanza": "Uno dei principali eventi nerd/gaming italiani, tradizionalmente frequentato da streamer e YouTuber italiani del settore, che useranno l'evento come vetrina nelle prossime settimane."
-    },
-    {
-      "id": "creator-2026-11-11-play-festival-creator-gdt",
-      "title": "Play Festival 2026: content creator italiani di giochi da tavolo e di ruolo tra gli ospiti ufficiali",
-      "source": "Play-festival.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": null,
-      "brief": "Tra gli ospiti ufficiali di Play Festival 2026 (il festival del gioco di Modena) figurano diversi content creator italiani del mondo tabletop/RPG: il canale YouTube Coboldo Channel (attivo dal 2017 sul gioco di ruolo da tavolo), il videomaker Simone Rosini, Silvia 'Escilgioco' Fossati e il collettivo 'Amici di Giula'.",
-      "rilevanza": "Conferma la crescita e il radicamento della scena italiana di creator dedicati ai giochi da tavolo e di ruolo, che dagli stand del festival si confermano punti di riferimento per la community."
-    }
+  {
+    "id": "creator-2026-11-12-play-festival-murinerd-ai-panel",
+    "title": "Play Festival 2026: tra i content creator italiani di giochi da tavolo confermati spunta anche Giulio \"MuriNerd\" Murino",
+    "source": "Play-festival.it (via ricerca web 2026-11-12)",
+    "affidabilita": "primaria",
+    "date": null,
+    "brief": "Le pagine ufficiali degli ospiti di Play Festival 2026 (il festival del gioco di Modena) confermano, oltre a Coboldo Channel, Simone Rosini e Simone Anselmi già noti, anche il content creator Giulio \"MuriNerd\" Murino. Tra gli ospiti figura inoltre Silvia \"Escilgioco\" Fossati, che presenterà i risultati di un'indagine multicanale sulle capacità dell'intelligenza artificiale applicata ai giochi, già discussa in un panel all'Università di Pisa.",
+    "rilevanza": "Mostra come i festival italiani di settore continuino ad allargare il numero di creator tabletop invitati come ospiti ufficiali, e introduce nella community il tema del rapporto tra IA e giochi da tavolo, portato avanti da una content creator italiana."
+  },
+  {
+    "id": "creator-2026-11-12-lucca-comics-numeri-discordanti",
+    "title": "Lucca Comics & Games 2026: bilancio da record, ma le fonti divergono sul numero reale di visitatori",
+    "source": "Multiplayer.it, Rolling Stone Italia, SenalNews (via ricerca web 2026-11-12)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-01",
+    "brief": "La 60ª edizione \"Diamond Edition\" di Lucca Comics & Games si è chiusa il 1° novembre con un bilancio presentato come da record, ma le cifre citate dalle fonti non coincidono: Multiplayer.it e Rolling Stone Italia parlano di circa 345mila biglietti venduti (oltre 60mila più del 2025), mentre SenalNews riporta 800mila visitatori in città nei cinque giorni. Non è stato trovato un comunicato ufficiale di Lucca Crea con un dato unico e definitivo.",
+    "rilevanza": "I numeri dell'evento nerd italiano più importante vengono citati continuamente da content creator e testate di settore per raccontarne la salute; la discrepanza tra le fonti invita alla cautela su un dato spesso ripreso senza verifica."
+  },
+  {
+    "id": "creator-2026-11-12-esports-nations-cup-date-riyadh",
+    "title": "Esports Nations Cup 2026: il torneo di League of Legends con la Nazionale italiana si giocherà a Riyadh dal 21 al 29 novembre",
+    "source": "RFT.gg, SheepEsports, Dot Esports (via ricerca web 2026-11-12)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-21",
+    "brief": "Il torneo di League of Legends della Esports Nations Cup 2026, in programma a Riyadh, si disputerà dal 21 al 29 novembre tra 32 nazioni, con finale al meglio delle cinque partite. Secondo SheepEsports la selezione italiana, scelta da IIDEA come National Team Partner, comprende Gabbo, Goliah, Vigil, Ryuk e Click, guidati dal coach Fabrizio \"Gine\" Ginestroni; il dettaglio del roster non è ancora confermato da un canale ufficiale italiano.",
+    "rilevanza": "È la prima partecipazione italiana a una competizione esports a squadre nazionali di questo tipo: molti streamer e content creator italiani di League of Legends seguiranno e commenteranno l'evento nelle prossime settimane."
+  },
+  {
+    "id": "creator-2026-11-12-animeclick-awards-jpop-manga",
+    "title": "AnimeClick Awards 2026: J-POP Manga si confirma editore manga preferito dalla community italiana",
+    "source": "AnimeClick.it (via ricerca web 2026-11-12)",
+    "affidabilita": "primaria",
+    "date": "2026-10-29",
+    "brief": "Nella nuova edizione degli AnimeClick Awards, premio votato dalla community italiana di appassionati di anime e manga e annunciato in concomitanza con Lucca Comics & Games, J-POP Manga (Edizioni BD) si è confermata come editore manga preferito dagli utenti, replicando il risultato dell'anno precedente.",
+    "rilevanza": "È il principale riconoscimento \"dal basso\" della fanbase italiana di manga e anime, un punto di riferimento che orienta anche le scelte editoriali seguite da content creator e recensori del settore."
+  },
+  {
+    "id": "creator-2026-11-12-milan-games-week-posuka-demizu",
+    "title": "Milan Games Week & Cartoomics 2026: la mangaka Posuka Demizu (The Promised Neverland) ospite e autrice del key visual ufficiale",
+    "source": "AnimeClick.it (via ricerca web 2026-11-12)",
+    "affidabilita": "secondaria",
+    "date": null,
+    "brief": "Gli organizzatori di Milan Games Week & Cartoomics 2026 (27-29 novembre, Fiera Milano Rho) hanno annunciato come ospite la mangaka giapponese Posuka Demizu, nota per le illustrazioni di \"The Promised Neverland\", che ha realizzato anche il key visual ufficiale dell'edizione 2026 dedicato al tema dell'acqua. La data esatta dell'annuncio non è stata confermata dalle fonti consultate.",
+    "rilevanza": "Rafforza l'attrattiva della fiera per il fandom manga italiano: content creator e canali dedicati a fumetti/manga useranno la presenza della mangaka come contenuto nelle prossime settimane, in avvicinamento all'evento."
+  }
 ]

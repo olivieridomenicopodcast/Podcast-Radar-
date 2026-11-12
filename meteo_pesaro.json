@@ -1,38 +1,51 @@
 {
- "aggiornato": "2026-11-11",
+ "aggiornato": "2026-11-12",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.ilmeteo.it/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteo.it/meteo/pesaro-41044", "https://www.meteo.it/meteo/pesaro-3-giorni-41044", "https://www.3bmeteo.com/meteo/pesaro", "https://www.meteoconsult.it/meteo-italia/citta-3716/previsioni-meteo-pesaro-oggi", "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723", "https://www.meteoplanet.it/meteo/pesaro/tra-11-giorni", "https://allertameteo.regione.marche.it"],
+ "fonti": [
+  "https://www.ilmeteo.it/meteo/pesaro",
+  "https://www.ilmeteo.it/meteo/pesaro/domani",
+  "https://www.3bmeteo.com/meteo/pesaro",
+  "https://www.3bmeteo.com/meteo/pesaro/1",
+  "https://www.3bmeteo.com/meteo/pesaro/2",
+  "https://www.3bmeteo.com/previsioni/mare/pesaro",
+  "https://www.meteo.it/meteo/pesaro-41044",
+  "https://www.meteo.it/meteo/pesaro-8-giorni-41044",
+  "https://www.meteo.it/meteo-mare/pesaro-41044",
+  "https://www.meteoplanet.it/meteo/pesaro",
+  "https://allertameteo.regione.marche.it",
+  "https://www.blog.it/meteo-marche-di-giovedi-12-novembre-2026-previsioni-provincia-per-provincia/"
+ ],
  "previsioni": [
-  {
-   "data": "2026-11-11",
-   "giorno": "mercoledì",
-   "temp_min_c": 12,
-   "temp_max_c": 15,
-   "condizioni": "Pioggia, anche abbondante secondo iLMeteo.it; Meteoconsult indica min 11°C max 12°C con rischio pioggia elevato in serata; Meteo&Radar segnala pioggia da sud-ovest in mattinata con probabilità 60-80%",
-   "vento": "dato non reperito con precisione per questa data specifica",
-   "mare": "dato non reperito",
-   "allerta": "Nessuna allerta ufficiale Protezione Civile Marche reperita per questa data (l'ultima allerta trovata, n.57/2026 per vento e mareggiate, era valida solo 1-2 novembre 2026)"
-  },
   {
    "data": "2026-11-12",
    "giorno": "giovedì",
    "temp_min_c": 15,
-   "temp_max_c": 18,
-   "condizioni": "Dati discordanti tra fonti: iLMeteo.it indica assenza di precipitazioni (0% probabilità), mare mosso; 3BMeteo indica pioggia debole (16-19°C); Meteoplanet indica nuvoloso con pioggia moderata",
-   "vento": "dato non reperito con certezza",
-   "mare": "mosso (secondo iLMeteo.it); dato non confermato da altre fonti",
-   "allerta": "dato non reperito per questa data specifica"
+   "temp_max_c": 19,
+   "condizioni": "Fonti discordanti. meteo.it e 3bmeteo indicano una perturbazione in arrivo con pioggia (3bmeteo: pioggia debole) e vento in rinforzo, con meteo.it che segnala rischio vento forte/allerta locale; ilmeteo.it è invece più ottimista, con probabilità di pioggia vicina allo 0% nel pomeriggio; un articolo generico su Blog.it per le Marche parla di cieli sereni senza precipitazioni significative. Tendenza prevalente nelle fonti meteo specifiche di Pesaro: tempo instabile con possibili piogge, specie sulla costa, ma non c'è accordo totale tra le fonti.",
+   "vento": "iLMeteo indica vento da ovest-nordovest moderato, 12-19 km/h nelle ore notturne; meteo.it segnala invece un possibile rinforzo del vento (allarme vento) legato al peggioramento. Dato non univoco tra le fonti.",
+   "mare": "dato non reperito in modo specifico e datato per il 12 novembre 2026",
+   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche datata 12 novembre 2026 è stata reperita durante la ricerca. L'allerta più recente individuata (bollettino n. 57/2026, vento e mareggiate) era valida per il 1-2 novembre 2026 e non riguarda questo periodo. Si raccomanda di verificare direttamente su allertameteo.regione.marche.it."
   },
   {
    "data": "2026-11-13",
    "giorno": "venerdì",
-   "temp_min_c": 12,
+   "temp_min_c": 13,
    "temp_max_c": 20,
-   "condizioni": "Dati discordanti: meteo.it indica prevalentemente soleggiato (16-20°C) ma segnala anche una fase di maltempo intenso tra giovedì 12 e venerdì 13 per le zone tirreniche (non necessariamente Marche); iLMeteo.it indica min 12°C max 20°C senza ulteriori dettagli; Meteoplanet indica nuvoloso con pioggia forte (13-14.5°C, valore discordante)",
-   "vento": "meteo.it segnala un allarme vento forte per questa data, senza valori numerici specifici reperiti",
-   "mare": "dato non reperito",
-   "allerta": "dato non reperito per questa data specifica dalla Protezione Civile Marche; meteo.it segnala solo un generico allarme vento forte"
+   "condizioni": "Fonti parzialmente concordanti su un peggioramento con piogge: 3bmeteo indica 'pioggia e schiarite' (12°/20°), meteo.it prevede forti piogge con temperature 16°/20°, ilmeteo.it indica 12°/19° con tempo variabile, meteoplanet segnala 'nuvoloso con pioggia forte' e accumuli di pioggia elevati nelle ore diurne. Le temperature massime sono abbastanza concordi (19-20°C), le minime variano tra 12 e 16°C secondo la fonte.",
+   "vento": "dato non reperito in modo univoco; più fonti indicano un rinforzo del vento associato al peggioramento perturbato in atto",
+   "mare": "dato non reperito in modo specifico e datato per il 13 novembre 2026",
+   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche datata 13 novembre 2026 è stata reperita durante la ricerca. Si raccomanda di verificare direttamente su allertameteo.regione.marche.it, data la perturbazione segnalata da più fonti meteo per questa giornata."
+  },
+  {
+   "data": "2026-11-14",
+   "giorno": "sabato",
+   "temp_min_c": 10,
+   "temp_max_c": 13,
+   "condizioni": "Fonti con alcune discordanze: ilmeteo.it indica tempo con probabilità di pioggia intorno al 50% e temperature 9°/12°C, meteo.it indica 11°/15°C, 3bmeteo riporta invece 'poco nuvoloso' con 7°/12°C (valore minimo probabilmente influenzato da un dato climatico mensile non aggiornato, quindi da trattare con cautela). Il quadro prevalente è un calo termico netto rispetto ai giorni precedenti, con tempo variabile e residua instabilità in attenuazione.",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito in modo specifico e datato per il 14 novembre 2026",
+   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche datata 14 novembre 2026 è stata reperita durante la ricerca. Si raccomanda di verificare direttamente su allertameteo.regione.marche.it."
   }
  ],
- "note": "I dati provengono da snippet di ricerca web (Google), non da accesso diretto alle pagine (WebFetch bloccato per questi domini in questa sessione cloud). Le fonti meteo consultate (iLMeteo.it, Meteo.it, 3BMeteo, Meteoconsult, Meteoplanet, MeteoeRadar) mostrano previsioni tra loro discordanti per il 12 e 13 novembre, specialmente riguardo a pioggia vs sole. I valori di vento e mare sono in gran parte non reperiti con sufficiente precisione per queste date specifiche. Nessun bollettino ufficiale di allerta della Protezione Civile Marche per l'11-13 novembre 2026 è stato trovato nei risultati di ricerca; si raccomanda di verificare direttamente su allertameteo.regione.marche.it per un dato aggiornato e certo."
+ "note": "Ricerca condotta tramite motore di ricerca web (gli accessi diretti alle pagine di ilmeteo.it, 3bmeteo.com, meteo.it e allertameteo.regione.marche.it non sono risultati raggiungibili dall'ambiente di lavoro per restrizioni di rete, quindi i dati derivano da snippet e riassunti dei risultati di ricerca, non da lettura diretta e integrale delle pagine). Esistono discordanze non risolte tra le fonti, specialmente sull'intensità delle precipitazioni del 12 novembre e sui valori minimi del 14 novembre; i valori riportati nello schema sono stime centrali ragionevoli tra le fonti consultate, non un dato unico certificato. Non è stato possibile individuare un bollettino di allerta della Protezione Civile Marche specificamente datato 12-14 novembre 2026: l'unica allerta recente trovata (n. 57/2026, vento e mareggiate) riguardava il 1-2 novembre 2026 ed è scaduta. Per un dato definitivo e aggiornato in tempo reale si raccomanda la consultazione diretta delle fonti elencate."
 }

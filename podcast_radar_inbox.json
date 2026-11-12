@@ -1,135 +1,135 @@
 [
-   {
-    "id": "podcast-2026-11-11-spotify-membership-italia",
-    "title": "Spotify apre le membership a pagamento per i podcast anche in Italia",
-    "source": "Spotify Newsroom, ripreso da Podcastingtoday e Tubefilter (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 8,
-    "date": "2026-10-20",
-    "brief": "Dal 20 ottobre 2026 Spotify ha avviato in 34 mercati, tra cui l'Italia, le Membership: abbonamenti a pagamento dei fan verso i podcaster, con una quota di ricavi alta trattenuta dai creator. In parallelo ha abbassato le soglie del Partner Program (1.000 follower attivi, 2.000 ore di ascolto in 30 giorni) e lanciato gli Sponsorship per i creator.",
+  {
+    "id": "podcast-2026-11-12-sky-voices-canale-video-podcast",
+    "title": "Sky lancia Sky Voices, il primo canale TV italiano dedicato ai video podcast",
+    "source": "Sorrisi.com, Sky Sport, Napolike, Calcio e Finanza, ItaliaOggi (via ricerca web 2026-11-12)",
+    "affidabilita": "primaria",
+    "target": 6,
+    "date": "2026-11-02",
+    "brief": "Dal 2 novembre 2026 Sky Voices è il primo canale tv italiano (canale 118, disponibile anche su NOW) dedicato interamente ai video podcast. Il palinsesto raccoglie produzioni Sky Original e titoli di Corax, OnePodcast, Vois e BSMT, con nomi come Pablo Trincia, Mia Ceran, Mariangela Pira e Stefania Andreoli. L'annuncio ufficiale è del 20 ottobre 2026; il dettaglio completo dei programmi è stato diffuso solo a ridosso del lancio.",
     "angles": [
-     "Monetizzare con un pubblico piccolo ma fedele: come funzionano davvero le membership",
-     "Partner Program più accessibile: cosa serve oggi per entrare, in numeri reali",
-     "Il mito del 'podcast che si mantiene da solo' smontato dai nuovi requisiti"
+      "Cosa significa per chi registra un podcast il fatto che la tv tradizionale ora ospiti video podcast",
+      "Come l'industria italiana sta spingendo sul video anche fuori da YouTube, e cosa cambia nel setup di registrazione",
+      "Perché un canale dedicato valida il formato video, senza che ogni podcast debba diventare uno show tv"
     ],
     "hooks": [
-     "Pensi che per guadagnare col podcast servano 100mila ascolti al mese? Le soglie sono scese parecchio, forse ti qualifichi già.",
-     "Hai 50 ascoltatori affezionati e pensi che non bastino a niente? Da ottobre su Spotify potrebbero pagarti direttamente.",
-     "Stai ancora aspettando di 'diventare virale' prima di monetizzare? Buona notizia: puoi iniziare a chiedere molto prima."
+      "Hai sempre pensato che il podcast fosse 'solo audio'? Sky ha appena aperto un canale tv tutto dedicato ai video podcast, quindi forse è il momento di accendere quella webcam che hai comprato e mai collegato.",
+      "Se registri ancora con la telecamera del laptop puntata dal basso, sappi che da questa settimana c'è un canale Sky che trasmette solo video podcast: la soglia è salita, non il tuo setup.",
+      "Pensavi che il video fosse un 'extra' per il tuo podcast? In Italia è arrivato un intero canale tv dedicato solo a quello, quindi forse è ora di smettere di chiamarlo 'contenuto bonus'."
     ]
-   },
-   {
-    "id": "podcast-2026-11-11-youtube-podcast-premium",
-    "title": "YouTube punta sui podcast: funzioni Premium, classifiche e sorpasso su Spotify nel Regno Unito",
-    "source": "Tubefilter, Fonearena, Radiotoday (via ricerca web 2026-11-11)",
+  },
+  {
+    "id": "podcast-2026-11-12-dati-ascolto-podcast-italia-nielsen",
+    "title": "In Italia 18,5 milioni di ascoltatori di podcast, secondo il monitoraggio NielsenIQ per Audible",
+    "source": "ItaliaOggi, dati NielsenIQ per Audible (via ricerca web 2026-11-12)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": null,
+    "brief": "Secondo il monitoraggio NielsenIQ realizzato per Audible, nel 2026 gli ascoltatori di podcast in Italia sono 18,5 milioni, con una media di 5 ascolti al mese a persona. Un'altra fonte, legata al Podcast Summit di Roma, riporta invece 18 milioni di ascoltatori riferiti al 2025: le due cifre sono vicine ma non coincidono e non è chiaro se misurino lo stesso periodo, quindi vanno usate con cautela.",
+    "angles": [
+      "Il podcast in Italia non è più una nicchia: usare questo dato per convincere chi è ancora scettico",
+      "Quante volte al mese ascolta davvero il pubblico italiano, e cosa significa per la frequenza di pubblicazione",
+      "Perché i numeri di crescita non bastano se il podcast non ha ancora un piano di distribuzione"
+    ],
+    "hooks": [
+      "Pensi ancora che fare podcast in Italia sia un hobby di nicchia? I dati Nielsen parlano di 18,5 milioni di ascoltatori quest'anno, quindi forse il problema non è il mercato, è il tuo primo episodio.",
+      "Hai mollato il podcast dopo tre puntate pensando che 'in Italia non ascolta nessuno'? I numeri raccontano un'altra storia, e no, non era una scusa valida nemmeno prima.",
+      "Se stai ancora decidendo se vale la pena investire in un podcast in italiano, sappi che gli ascoltatori sono quasi 20 milioni: il mercato c'è, mancano le puntate buone."
+    ]
+  },
+  {
+    "id": "podcast-2026-11-12-spotify-netflix-video-podcast",
+    "title": "Spotify porta i video podcast su Netflix, partenza negli USA nel 2026",
+    "source": "Axios, Radio Ink, Storyboard18, Vitrina.ai (via ricerca web 2026-11-12)",
+    "affidabilita": "primaria",
+    "target": 5,
+    "date": "2025-10-14",
+    "brief": "Spotify e Netflix hanno annunciato il 14 ottobre 2025 una partnership per portare una selezione di video podcast di Spotify Studios e The Ringer (tra cui The Bill Simmons Podcast, The Rewatchables, Conspiracy Theories) su Netflix, con partenza prevista nei primi mesi del 2026, inizialmente solo negli USA. I contenuti video verranno rimossi da YouTube (restano le clip e le versioni audio); le fonti non riportano se il lancio effettivo sia già avvenuto a novembre 2026, né i termini economici dell'accordo.",
+    "angles": [
+      "Le grandi piattaforme si stanno spartendo il video podcast: cosa significa per chi pubblica solo su YouTube",
+      "Se il tuo piano era 'pubblico tutto su YouTube e basta', questa notizia dice che il mercato video si sta frammentando",
+      "Perché conviene sempre avere un feed audio indipendente, qualunque cosa decidano di fare le piattaforme video"
+    ],
+    "hooks": [
+      "Hai messo tutte le uova nel paniere di YouTube per il tuo video podcast? Spotify e Netflix si stanno spartendo i contenuti più grossi, e tu stai ancora decidendo se aprire un canale.",
+      "Pensavi che 'pubblicare ovunque' fosse un consiglio esagerato da consulente? Ora pure Netflix vuole i video podcast: la distribuzione multipiattaforma non è più un'opzione, è la norma.",
+      "Se registri solo audio perché 'il video è troppo complicato', guarda che le major si stanno litigando i podcast video: forse è il momento di guardare in faccia la webcam."
+    ]
+  },
+  {
+    "id": "podcast-2026-11-12-youtube-supera-spotify-podcast",
+    "title": "YouTube supera Spotify nella visione dei podcast, secondo i report WARC ed Edison Research",
+    "source": "WARC (via newsletter Signal/The Podosphere), Edison Research UK (via ricerca web 2026-11-12)",
     "affidabilita": "secondaria",
     "target": 6,
-    "date": "2026-05-29",
-    "brief": "Nel 2026 YouTube ha aggiunto funzioni esclusive per gli abbonati Premium pensati per chi ascolta podcast, un Podcast Lineup di scoperta, una classifica podcast USA e clip generate con l'IA. Nel Regno Unito ha superato per la prima volta Spotify come servizio podcast più usato, segnale di quanto il video stia pesando anche in Europa.",
-    "angles": [
-     "Se pubblichi solo audio stai lasciando ascolti sul tavolo, non solo visualizzazioni",
-     "YouTube non è 'quello dei video lunghi', è già un'app podcast a tutti gli effetti",
-     "Cosa significa per l'Europa il sorpasso UK su Spotify"
-    ],
-    "hooks": [
-     "Carichi il podcast solo come audio su Spotify? Nel Regno Unito la gente lo ascolta già più su YouTube.",
-     "Hai paura della telecamera e resti solo audio? Spoiler: è lì che si sta spostando il pubblico, non il contrario.",
-     "Pensi che YouTube serva solo per i video da un'ora? Dentro c'è anche la classifica podcast che potresti scalare tu."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-descript-update-novembre",
-    "title": "Descript aggiorna l'editor con animazioni testo IA e ricerca intelligente nei file",
-    "source": "Descript, blog ufficiale (via ricerca web 2026-11-11)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-11-03",
-    "brief": "Il 3 novembre 2026 Descript ha rilasciato quattro novità: Animate Text per titoli animati in stile social, Generative Layouts, una ricerca che trova momenti precisi dentro i file audio/video, e gli 'Underlord Skills', automazioni IA pronte o personalizzabili.",
-    "angles": [
-     "L'editing che prima serviva un montatore ora lo fa l'IA in due click",
-     "Smettere di scorrere mezz'ora di registrazione per trovare 'quel momento'",
-     "Automazioni pronte all'uso vs farlo tutto a mano: quanto tempo perdi davvero"
-    ],
-    "hooks": [
-     "Passi ancora un'ora a cercare 'quel momento' nella registrazione? Ora c'è un motore di ricerca che lo trova per te.",
-     "Odi fare le animazioni per i titoli dei tuoi reel? Buone notizie: adesso le scrive l'IA mentre tu bevi il caffè.",
-     "Pensavi che montare un podcast richiedesse per forza un montatore pagato? Guarda cosa fa da sola una funzione del software."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-trend-verticale-orizzontale",
-    "title": "Video podcast 2026: vince il formato ibrido, verticale per farsi scoprire, orizzontale per farsi ascoltare a lungo",
-    "source": "DreamHost, Vivideo, Clipchamp, Reuters Institute (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 5,
     "date": null,
-    "brief": "Le analisi di settore 2026 convergono su un formato ibrido per i video podcast: il verticale domina la scoperta su mobile e social, l'orizzontale (o YouTube) resta per la visione lunga e intenzionale. Diversi editori spostano risorse sul video, ma resta un dato controverso: secondo eMarketer gli annunci nei video podcast convertirebbero il 18-25% in meno di quelli solo audio.",
+    "brief": "Il report annuale di WARC su YouTube stima oltre 700 milioni di ore mensili di podcast guardati su schermi TV, in crescita del 70% anno su anno, e sostiene che la piattaforma abbia superato Spotify nella visione dei podcast. Una ricerca separata di Edison Research nel Regno Unito conferma un sorpasso simile tra gli ascoltatori settimanali (29% indica YouTube come servizio podcast più usato contro il 28% di Spotify). Le fonti trovate riportano date diverse per la pubblicazione del report WARC (luglio o settembre 2026), quindi la data esatta resta incerta e le due misurazioni (ore su TV vs preferenza dichiarata) non sono direttamente comparabili.",
     "angles": [
-     "Non devi scegliere un solo formato: il pubblico li guarda su piattaforme diverse",
-     "Il verticale ti fa scoprire, non ti fa ascoltare per un'ora intera",
-     "Perché 'ora faccio anche video' non significa automaticamente più sponsor"
+      "Il video non è più 'opzionale' per chi fa podcast: i dati dicono che YouTube sta vincendo sulla visione",
+      "Cosa cambia nel montaggio se il pubblico ti guarda in TV e non solo ti ascolta in cuffia",
+      "Perché la scelta tra solo-audio e video dipende da dove vive davvero il pubblico, non da una moda"
     ],
     "hooks": [
-     "Giri il podcast solo in orizzontale perché 'fa più serio'? Sui social nessuno ti scopre così.",
-     "Pensi di dover scegliere per sempre tra verticale e orizzontale? Nel 2026 la risposta è: usali entrambi, con criterio diverso.",
-     "Hai comprato una telecamera convinto che il video paghi più degli sponsor audio? I dati dicono il contrario, almeno per ora."
+      "Hai ancora il podcast senza telecamera perché 'la gente ascolta in auto'? I dati dicono che su YouTube ormai lo guardano in salotto, sulla tv: quella webcam da 40 euro forse non era un capriccio.",
+      "Pensavi che Spotify avesse già vinto la guerra dei podcast? I report 2026 dicono che YouTube l'ha superata nella visione: il tuo feed solo audio sta perdendo un pezzo di pubblico che non sapevi di avere.",
+      "Se monti pensando solo all'audio, sappi che qualcuno, da qualche parte, ti sta guardando sulla smart TV: non serve diventare un regista, basta non sembrare un ostaggio davanti al computer."
     ]
-   },
-   {
-    "id": "podcast-2026-11-11-errori-principianti-reddit",
-    "title": "Dalle community di podcaster: gli errori che frenano chi comincia non sono cambiati",
-    "source": "r/podcasting e articoli di settore (via ricerca web 2026-11-11)",
+  },
+  {
+    "id": "podcast-2026-11-12-spreaker-create-web-distribuzione",
+    "title": "Spreaker aggiorna gli strumenti per i podcaster: registrazione gratis nel browser e distribuzione con un clic",
+    "source": "Spreaker, directory e review di settore (via ricerca web 2026-11-12)",
+    "affidabilita": "secondaria",
+    "target": 7,
+    "date": "2026-10-12",
+    "brief": "Spreaker, piattaforma di hosting nata in Italia e oggi parte di iHeartMedia, ha rilasciato il 24 giugno 2026 'Create for Web', strumento gratuito direttamente nel browser per registrare la voce, aggiungere musica di sottofondo ed esportare un episodio senza installare nulla. Il 12 ottobre 2026 ha poi aggiunto la distribuzione con un clic nell'app mobile Spreaker Podcasts. Non risultano, nelle fonti trovate, annunci ufficiali su nuovi piani di monetizzazione nello stesso periodo.",
+    "angles": [
+      "Strumenti gratuiti nel browser abbassano ancora la barriera d'ingresso: cosa consigliare a chi parte da zero",
+      "La differenza tra 'posso registrare gratis' e 'posso registrare bene': cosa manca ancora a questi tool",
+      "Pubblicare con un clic è comodo, ma non sostituisce una strategia di distribuzione"
+    ],
+    "hooks": [
+      "Hai rimandato il tuo primo episodio perché 'non ho un programma per registrare'? Ora c'è un tool gratis nel browser che fa il lavoro sporco: la scusa è scaduta.",
+      "Se pensavi che pubblicare un podcast richiedesse mezza giornata tra app e caricamenti, Spreaker ha appena aggiunto la distribuzione con un clic: comodo, ma il contenuto lo devi ancora scrivere tu.",
+      "Registrare gratis dal browser è bello, ma se il tuo episodio suona comunque come una call su Zoom non è colpa del software: è il momento di parlare di tecnica, non di scorciatoie."
+    ]
+  },
+  {
+    "id": "podcast-2026-11-12-errori-microfono-principianti",
+    "title": "Gli errori più comuni dei podcaster principianti con il microfono, secondo guide e community di settore",
+    "source": "Blog e guide di settore in inglese (The Podcast Haven, SASPod e altri) (via ricerca web 2026-11-12)",
+    "affidabilita": "segnale debole",
+    "target": 8,
+    "date": null,
+    "brief": "Diverse guide 2026 per podcaster alle prime armi segnalano gli stessi errori ricorrenti: usare il microfono del laptop o cuffie/auricolari wireless, scegliere un condensatore in una stanza non trattata acusticamente (troppo sensibile al rumore di fondo) invece di un dinamico più tollerante, usare un Blue Yeti nel pattern polare sbagliato, e sbagliare posizionamento o livello di gain. Sono fonti secondarie aggregate (blog, non ricerche primarie né thread Reddit verificabili), quindi il segnale è debole ma coerente con l'esperienza pratica diffusa nel settore.",
+    "angles": [
+      "Il contenuto didattico perfetto: lista degli errori da microfono che si vedono in ogni primo episodio",
+      "Perché un dinamico economico in una stanza piena di libri batte un condensatore costoso in salotto vuoto",
+      "Il gain giusto conta più del prezzo del microfono: come spiegarlo in 30 secondi"
+    ],
+    "hooks": [
+      "Hai comprato il microfono più costoso che hai trovato e il tuo podcast suona ancora come una chiamata in ascensore? Il problema quasi mai è il prezzo, è la stanza.",
+      "Se usi ancora gli auricolari bluetooth per registrare 'perché sono comodi', fermati un secondo: è probabilmente l'errore numero uno di chi comincia, e si sente eccome.",
+      "Pensi che un condensatore ti faccia suonare 'da professionista'? In una stanza normale, senza trattamento acustico, rischia di farti sentire peggio di un dinamico da 50 euro. La fisica non guarda il prezzo del microfono."
+    ]
+  },
+  {
+    "id": "podcast-2026-11-12-adobe-podcast-enhance-tracce-separate",
+    "title": "Adobe Podcast aggiorna Enhance: ora si possono controllare le tracce vocali separatamente",
+    "source": "Guide di settore su podcast.adobe.com (via ricerca web 2026-11-12)",
     "affidabilita": "segnale debole",
     "target": 6,
     "date": null,
-    "brief": "Nelle discussioni di community di podcaster del 2026 gli errori più citati da chi inizia restano gli stessi di sempre: pianificare all'infinito senza pubblicare, inseguire il microfono perfetto, lanciarsi su troppe piattaforme insieme e poi sparire per mesi. Sono thread spontanei, non uno studio, quindi vanno letti come segnale qualitativo, non come dato verificato.",
+    "brief": "Una guida di Adobe Podcast descrive un aggiornamento di Enhance che permette di trattare ogni traccia vocale separatamente, invece di elaborare un unico mix con tutte le voci insieme: utile per episodi con più relatori registrati in condizioni diverse. Le fonti trovate collocano l'aggiornamento genericamente a marzo 2026, senza un annuncio ufficiale ampiamente ripreso né una data precisa confermata, quindi resta un segnale isolato.",
     "angles": [
-     "Il problema non è il microfono sbagliato, è il mese passato a scegliere il microfono",
-     "Tre episodi mediocri pubblicati battono trenta episodi perfetti mai usciti",
-     "Perché aprire sei profili social il giorno del lancio ti stanca e basta"
+      "Perché pulire ogni voce separatamente cambia davvero la qualità di un'intervista a più persone",
+      "I tool AI di enhance sono comodi ma non sostituiscono una buona registrazione in origine",
+      "Come testare Enhance su un episodio con ospiti registrati in condizioni audio diverse"
     ],
     "hooks": [
-     "Stai confrontando microfoni da un mese senza aver registrato nulla? Il problema non è il microfono, dai.",
-     "Hai aperto podcast, TikTok, Instagram e Discord lo stesso giorno? Rallenta, nessun essere umano regge così.",
-     "Aspetti che l'episodio sia perfetto prima di pubblicarlo? Anche il decimo non lo sarà: pubblica il terzo."
+      "Hai registrato un'intervista con due microfoni diversi e ora il mix suona storto? Adobe ha aggiornato il suo tool AI per pulire ogni voce separatamente, non più tutto insieme in un frullato.",
+      "Se pensi che l'AI 'enhance' sia un tasto magico che risolve ogni registrazione fatta male, sappi che anche l'ultimo aggiornamento lavora meglio se parti già da un audio decente: la magia aiuta, non resuscita.",
+      "Due ospiti, due qualità audio diverse, un solo mix orribile? Ora si possono trattare le tracce separatamente invece che tutte insieme: piccolo aggiornamento, ma toglie un vero mal di testa in editing."
     ]
-   },
-   {
-    "id": "podcast-2026-11-11-microfoni-2026",
-    "title": "Microfoni per podcast 2026: nei test reali vincono ancora Shure MV7+ e Rode NT-USB+",
-    "source": "MusicRadar (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 5,
-    "date": null,
-    "brief": "Nel suo aggiornamento 2026 sui microfoni da podcast, testati direttamente in redazione, MusicRadar indica lo Shure MV7+ come preferito generale e il Rode NT-USB+ come miglior rapporto qualità-prezzo per chi fa l'upgrade; tra le opzioni economiche restano popolari Blue Yeti e i modelli USB/XLR di Fifine.",
-    "angles": [
-     "Non serve il microfono da 400 euro per iniziare bene",
-     "USB vs XLR: quando ha senso comprare anche una scheda audio",
-     "Il microfono giusto per il tuo budget costa meno di quanto pensi"
-    ],
-    "hooks": [
-     "Stai rimandando il lancio perché non puoi permetterti 'il microfono dei professionisti'? Non ti serve quello.",
-     "Hai comprato una scheda audio pensando di averne bisogno dal primo giorno? Forse ti bastava un microfono USB e via.",
-     "Pensi che il tuo podcast suoni male per colpa del microfono? Nove volte su dieci è la stanza, non il microfono."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-nielsen-audible-italia",
-    "title": "In Italia i podcast crescono: 18,5 milioni di ascoltatori secondo lo studio NielsenIQ per Audible",
-    "source": "NielsenIQ per Audible, ripreso da ItaliaOggi e Techprincess (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 7,
-    "date": null,
-    "brief": "Lo studio NielsenIQ realizzato per Audible stima in 18,5 milioni gli italiani che hanno ascoltato almeno un podcast nell'ultimo anno, con una media di circa 5 sessioni al mese da 27 minuti ciascuna. I social sono ormai il primo canale di scoperta di nuovi show, davanti al passaparola. Nota: un altro report (AGI, dati 2025) parla di 15,5 milioni di ascoltatori, quindi i numeri variano secondo la metodologia usata: va specificato nel contenuto quale fonte si cita.",
-    "angles": [
-     "Il pubblico italiano dei podcast esiste già: il problema è farsi scoprire sui social, non aspettare che 'il mercato cresca'",
-     "27 minuti a sessione: quanto deve durare davvero il tuo episodio",
-     "Smettere di pensare che in Italia 'i podcast non li ascolta nessuno'"
-    ],
-    "hooks": [
-     "Pensi che in Italia i podcast li ascoltino quattro gatti? Sono quasi 19 milioni di persone, forse il problema è un altro.",
-     "Fai episodi da due ore perché 'chi ascolta podcast ha tempo da perdere'? La media reale è 27 minuti, ripensaci.",
-     "Aspetti che qualcuno ti trovi per caso scorrendo Spotify? In Italia si scoprono i podcast soprattutto sui social, non lì."
-    ]
-   }
+  }
 ]
