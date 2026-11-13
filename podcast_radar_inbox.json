@@ -1,135 +1,116 @@
 [
-   {
-    "id": "podcast-2026-11-11-spotify-membership-italia",
-    "title": "Spotify apre le membership a pagamento per i podcast anche in Italia",
-    "source": "Spotify Newsroom, ripreso da Podcastingtoday e Tubefilter (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 8,
-    "date": "2026-10-20",
-    "brief": "Dal 20 ottobre 2026 Spotify ha avviato in 34 mercati, tra cui l'Italia, le Membership: abbonamenti a pagamento dei fan verso i podcaster, con una quota di ricavi alta trattenuta dai creator. In parallelo ha abbassato le soglie del Partner Program (1.000 follower attivi, 2.000 ore di ascolto in 30 giorni) e lanciato gli Sponsorship per i creator.",
-    "angles": [
-     "Monetizzare con un pubblico piccolo ma fedele: come funzionano davvero le membership",
-     "Partner Program più accessibile: cosa serve oggi per entrare, in numeri reali",
-     "Il mito del 'podcast che si mantiene da solo' smontato dai nuovi requisiti"
-    ],
-    "hooks": [
-     "Pensi che per guadagnare col podcast servano 100mila ascolti al mese? Le soglie sono scese parecchio, forse ti qualifichi già.",
-     "Hai 50 ascoltatori affezionati e pensi che non bastino a niente? Da ottobre su Spotify potrebbero pagarti direttamente.",
-     "Stai ancora aspettando di 'diventare virale' prima di monetizzare? Buona notizia: puoi iniziare a chiedere molto prima."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-youtube-podcast-premium",
-    "title": "YouTube punta sui podcast: funzioni Premium, classifiche e sorpasso su Spotify nel Regno Unito",
-    "source": "Tubefilter, Fonearena, Radiotoday (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 6,
-    "date": "2026-05-29",
-    "brief": "Nel 2026 YouTube ha aggiunto funzioni esclusive per gli abbonati Premium pensati per chi ascolta podcast, un Podcast Lineup di scoperta, una classifica podcast USA e clip generate con l'IA. Nel Regno Unito ha superato per la prima volta Spotify come servizio podcast più usato, segnale di quanto il video stia pesando anche in Europa.",
-    "angles": [
-     "Se pubblichi solo audio stai lasciando ascolti sul tavolo, non solo visualizzazioni",
-     "YouTube non è 'quello dei video lunghi', è già un'app podcast a tutti gli effetti",
-     "Cosa significa per l'Europa il sorpasso UK su Spotify"
-    ],
-    "hooks": [
-     "Carichi il podcast solo come audio su Spotify? Nel Regno Unito la gente lo ascolta già più su YouTube.",
-     "Hai paura della telecamera e resti solo audio? Spoiler: è lì che si sta spostando il pubblico, non il contrario.",
-     "Pensi che YouTube serva solo per i video da un'ora? Dentro c'è anche la classifica podcast che potresti scalare tu."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-descript-update-novembre",
-    "title": "Descript aggiorna l'editor con animazioni testo IA e ricerca intelligente nei file",
-    "source": "Descript, blog ufficiale (via ricerca web 2026-11-11)",
-    "affidabilita": "primaria",
-    "target": 7,
-    "date": "2026-11-03",
-    "brief": "Il 3 novembre 2026 Descript ha rilasciato quattro novità: Animate Text per titoli animati in stile social, Generative Layouts, una ricerca che trova momenti precisi dentro i file audio/video, e gli 'Underlord Skills', automazioni IA pronte o personalizzabili.",
-    "angles": [
-     "L'editing che prima serviva un montatore ora lo fa l'IA in due click",
-     "Smettere di scorrere mezz'ora di registrazione per trovare 'quel momento'",
-     "Automazioni pronte all'uso vs farlo tutto a mano: quanto tempo perdi davvero"
-    ],
-    "hooks": [
-     "Passi ancora un'ora a cercare 'quel momento' nella registrazione? Ora c'è un motore di ricerca che lo trova per te.",
-     "Odi fare le animazioni per i titoli dei tuoi reel? Buone notizie: adesso le scrive l'IA mentre tu bevi il caffè.",
-     "Pensavi che montare un podcast richiedesse per forza un montatore pagato? Guarda cosa fa da sola una funzione del software."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-trend-verticale-orizzontale",
-    "title": "Video podcast 2026: vince il formato ibrido, verticale per farsi scoprire, orizzontale per farsi ascoltare a lungo",
-    "source": "DreamHost, Vivideo, Clipchamp, Reuters Institute (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 5,
-    "date": null,
-    "brief": "Le analisi di settore 2026 convergono su un formato ibrido per i video podcast: il verticale domina la scoperta su mobile e social, l'orizzontale (o YouTube) resta per la visione lunga e intenzionale. Diversi editori spostano risorse sul video, ma resta un dato controverso: secondo eMarketer gli annunci nei video podcast convertirebbero il 18-25% in meno di quelli solo audio.",
-    "angles": [
-     "Non devi scegliere un solo formato: il pubblico li guarda su piattaforme diverse",
-     "Il verticale ti fa scoprire, non ti fa ascoltare per un'ora intera",
-     "Perché 'ora faccio anche video' non significa automaticamente più sponsor"
-    ],
-    "hooks": [
-     "Giri il podcast solo in orizzontale perché 'fa più serio'? Sui social nessuno ti scopre così.",
-     "Pensi di dover scegliere per sempre tra verticale e orizzontale? Nel 2026 la risposta è: usali entrambi, con criterio diverso.",
-     "Hai comprato una telecamera convinto che il video paghi più degli sponsor audio? I dati dicono il contrario, almeno per ora."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-errori-principianti-reddit",
-    "title": "Dalle community di podcaster: gli errori che frenano chi comincia non sono cambiati",
-    "source": "r/podcasting e articoli di settore (via ricerca web 2026-11-11)",
-    "affidabilita": "segnale debole",
-    "target": 6,
-    "date": null,
-    "brief": "Nelle discussioni di community di podcaster del 2026 gli errori più citati da chi inizia restano gli stessi di sempre: pianificare all'infinito senza pubblicare, inseguire il microfono perfetto, lanciarsi su troppe piattaforme insieme e poi sparire per mesi. Sono thread spontanei, non uno studio, quindi vanno letti come segnale qualitativo, non come dato verificato.",
-    "angles": [
-     "Il problema non è il microfono sbagliato, è il mese passato a scegliere il microfono",
-     "Tre episodi mediocri pubblicati battono trenta episodi perfetti mai usciti",
-     "Perché aprire sei profili social il giorno del lancio ti stanca e basta"
-    ],
-    "hooks": [
-     "Stai confrontando microfoni da un mese senza aver registrato nulla? Il problema non è il microfono, dai.",
-     "Hai aperto podcast, TikTok, Instagram e Discord lo stesso giorno? Rallenta, nessun essere umano regge così.",
-     "Aspetti che l'episodio sia perfetto prima di pubblicarlo? Anche il decimo non lo sarà: pubblica il terzo."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-microfoni-2026",
-    "title": "Microfoni per podcast 2026: nei test reali vincono ancora Shure MV7+ e Rode NT-USB+",
-    "source": "MusicRadar (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 5,
-    "date": null,
-    "brief": "Nel suo aggiornamento 2026 sui microfoni da podcast, testati direttamente in redazione, MusicRadar indica lo Shure MV7+ come preferito generale e il Rode NT-USB+ come miglior rapporto qualità-prezzo per chi fa l'upgrade; tra le opzioni economiche restano popolari Blue Yeti e i modelli USB/XLR di Fifine.",
-    "angles": [
-     "Non serve il microfono da 400 euro per iniziare bene",
-     "USB vs XLR: quando ha senso comprare anche una scheda audio",
-     "Il microfono giusto per il tuo budget costa meno di quanto pensi"
-    ],
-    "hooks": [
-     "Stai rimandando il lancio perché non puoi permetterti 'il microfono dei professionisti'? Non ti serve quello.",
-     "Hai comprato una scheda audio pensando di averne bisogno dal primo giorno? Forse ti bastava un microfono USB e via.",
-     "Pensi che il tuo podcast suoni male per colpa del microfono? Nove volte su dieci è la stanza, non il microfono."
-    ]
-   },
-   {
-    "id": "podcast-2026-11-11-nielsen-audible-italia",
-    "title": "In Italia i podcast crescono: 18,5 milioni di ascoltatori secondo lo studio NielsenIQ per Audible",
-    "source": "NielsenIQ per Audible, ripreso da ItaliaOggi e Techprincess (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "target": 7,
-    "date": null,
-    "brief": "Lo studio NielsenIQ realizzato per Audible stima in 18,5 milioni gli italiani che hanno ascoltato almeno un podcast nell'ultimo anno, con una media di circa 5 sessioni al mese da 27 minuti ciascuna. I social sono ormai il primo canale di scoperta di nuovi show, davanti al passaparola. Nota: un altro report (AGI, dati 2025) parla di 15,5 milioni di ascoltatori, quindi i numeri variano secondo la metodologia usata: va specificato nel contenuto quale fonte si cita.",
-    "angles": [
-     "Il pubblico italiano dei podcast esiste già: il problema è farsi scoprire sui social, non aspettare che 'il mercato cresca'",
-     "27 minuti a sessione: quanto deve durare davvero il tuo episodio",
-     "Smettere di pensare che in Italia 'i podcast non li ascolta nessuno'"
-    ],
-    "hooks": [
-     "Pensi che in Italia i podcast li ascoltino quattro gatti? Sono quasi 19 milioni di persone, forse il problema è un altro.",
-     "Fai episodi da due ore perché 'chi ascolta podcast ha tempo da perdere'? La media reale è 27 minuti, ripensaci.",
-     "Aspetti che qualcuno ti trovi per caso scorrendo Spotify? In Italia si scoprono i podcast soprattutto sui social, non lì."
-    ]
-   }
+ {
+  "id": "podcast-2026-11-13-sky-voices-canale",
+  "title": "Sky lancia Sky Voices, il primo canale italiano dedicato solo ai video podcast",
+  "source": "Sorrisi.com (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026-11-02",
+  "brief": "Dal 2 novembre 2026 è attivo Sky Voices, canale 118 di Sky e disponibile anche in streaming su NOW, interamente dedicato ai video podcast. È un segnale forte di quanto il formato video del podcast stia diventando mainstream anche in Italia, con una TV generalista che gli dedica un intero canale.",
+  "angles": [
+   "Se anche la TV lineare apre un canale di soli video podcast, il video non è più un optional",
+   "Cosa significa per un piccolo creator che un broadcaster nazionale validi il formato",
+   "Dalla nicchia al palinsesto: il percorso dei video podcast in Italia in due anni"
+  ],
+  "hooks": [
+   "Pensi ancora che il video podcast sia una moda passeggera? Sky gli ha appena dato un canale tutto suo.",
+   "Continui a registrare solo audio perché 'tanto in Italia il video non lo guarda nessuno'? C'è un canale Sky che dice il contrario.",
+   "Hai paura che il video podcast sia roba da americani? Da novembre c'è pure il canale 118 italiano."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-13-nielsen-audible-18-5-milioni",
+  "title": "In Italia 18,5 milioni di ascoltatori di podcast nel 2026, +80% in un anno secondo NielsenIQ per Audible",
+  "source": "ItaliaOggi (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": "2026-11-10",
+  "brief": "Lo studio NielsenIQ realizzato per Audible stima 18,5 milioni di italiani che hanno ascoltato almeno un podcast nel 2026, con una crescita dell'80% rispetto all'anno precedente. Un report diverso (AGI, dati 2025) parlava di 15,5 milioni: i numeri variano secondo la metodologia, ma il trend di crescita è confermato da entrambe le fonti.",
+  "angles": [
+   "Il pubblico italiano dei podcast è quasi raddoppiato in un anno: il problema non è 'se' ascoltano, ma come farti trovare",
+   "Perché continuare a dire 'in Italia i podcast non li ascolta nessuno' oggi è semplicemente falso",
+   "Crescita di ascolto vs crescita di ricavi: perché in Italia il mercato pubblicitario resta indietro"
+  ],
+  "hooks": [
+   "Pensi che in Italia i podcast siano ancora una nicchia per quattro nerd? Sono quasi 19 milioni di persone, forse il problema è un altro.",
+   "Hai rimandato il lancio del tuo podcast perché 'qui non li ascolta nessuno'? I numeri 2026 ti smentiscono clamorosamente.",
+   "Aspetti che 'il mercato italiano del podcast maturi' prima di iniziare? È già cresciuto dell'80% l'anno scorso, stai aspettando il treno sbagliato."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-13-spotify-apple-protocollo-video",
+  "title": "Spotify adotta il protocollo video di Apple Podcasts: un video, pubblicato una volta, visibile ovunque tranne YouTube",
+  "source": "eMarketer (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": null,
+  "brief": "Spotify ha annunciato l'adozione del protocollo Apple per i video podcast, permettendo di pubblicare un episodio video una volta sola e distribuirlo sia su Spotify che su Apple Podcasts tramite Spotify for Creators e Megaphone. YouTube resta fuori da questo standard comune e non offre una revenue share cross-piattaforma equivalente: per show piccoli e medi questo riduce drasticamente il lavoro di pubblicazione multipla.",
+  "angles": [
+   "Finisce l'incubo di esportare il video in tre formati diversi per tre piattaforme diverse",
+   "Perché Apple e Spotify si alleano proprio contro il 'giardino recintato' di YouTube",
+   "Cosa cambia in pratica per chi pubblica con Spotify for Creators o Megaphone"
+  ],
+  "hooks": [
+   "Passi ancora ore a esportare il video podcast in tre formati diversi per tre piattaforme diverse? Da ora potrebbe bastarne uno.",
+   "Odi dover scegliere tra Spotify e Apple Podcasts per il video? Hanno appena deciso di andare d'accordo, per una volta.",
+   "Pensi che YouTube sia l'unica piattaforma che conta per il video podcast? Spotify e Apple si sono appena alleate per farti cambiare idea."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-13-spotify-partner-program-sponsorship",
+  "title": "Spotify espande il Partner Program e lancia nuovi strumenti di sponsorizzazione per i creator video",
+  "source": "TheWrap (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "target": 8,
+  "date": null,
+  "brief": "Spotify ha abbassato le soglie di accesso al Partner Program (1.000 follower attivi, 2.000 ore di ascolto in 30 giorni) e ha introdotto nuovi strumenti di sponsorizzazione pensati per i creator video, mentre il consumo di video podcast sulla piattaforma è quasi raddoppiato. L'obiettivo dichiarato è competere direttamente con la monetizzazione di YouTube, offrendo una strada più accessibile a show piccoli e medi.",
+  "angles": [
+   "Le soglie per monetizzare sono scese parecchio: fai i conti prima di dire che 'non ci arriverai mai'",
+   "Sponsorizzazioni dirette via piattaforma: un'alternativa reale al cercare sponsor a mano",
+   "Perché Spotify sta corteggiando proprio i creator video, non solo quelli solo audio"
+  ],
+  "hooks": [
+   "Pensi che per entrare nel Partner Program ti servano numeri da star? Le soglie sono scese, forse ci sei già dentro.",
+   "Hai 50 ascoltatori affezionati e pensi che non bastino a niente per monetizzare? Spotify ha appena abbassato l'asticella apposta per te.",
+   "Stai ancora cercando sponsor scrivendo email a freddo? C'è un programma che ora te li porta un po' più vicino."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-13-festival-podcasting-milano-10-anni",
+  "title": "Il Festival del Podcasting di Milano compie 10 anni: industry e creator sotto lo stesso tetto",
+  "source": "ItaliaOggi (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "target": 6,
+  "date": null,
+  "brief": "Il Festival del Podcasting, l'evento italiano di riferimento per il settore con base a Milano, arriva alla decima edizione, articolata su due giornate con identità differenti: una più industry/business, una più rivolta ai creator e al pubblico. È uno dei pochi momenti italiani in cui editori, piattaforme e singoli podcaster si incontrano fisicamente.",
+  "angles": [
+   "Un decennio di podcasting italiano raccontato attraverso il suo festival più longevo",
+   "Perché andare a un evento di settore vale più di dieci tutorial su YouTube",
+   "Industry vs creator: due giornate, due pubblici, due modi di vivere lo stesso mestiere"
+  ],
+  "hooks": [
+   "Pensi che il podcasting italiano sia troppo piccolo per avere un suo festival serio? Questo è già alla decima edizione.",
+   "Hai sempre fatto tutto da solo senza mai conoscere altri podcaster dal vivo? Un evento così esiste apposta per smettere.",
+   "Credi che per 'contare' nel settore serva lavorare per una grande piattaforma? Al festival di Milano ci sono anche i piccoli, non solo l'industry."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-13-apple-video-25percento-sessioni",
+  "title": "Apple Podcasts: chi ha aggiunto il video ha visto le sessioni settimanali crescere del 25%",
+  "source": "Acast beta report (via ricerca web 2026-11-13)",
+  "affidabilita": "primaria",
+  "target": 7,
+  "date": null,
+  "brief": "Secondo un report beta di Acast, gli show che hanno aggiunto il video su Apple Podcasts nell'arco di quattro mesi hanno registrato un aumento stimato del 25% nelle sessioni di ascolto settimanali. È un dato di parte (viene dalla piattaforma che vende lo strumento), ma coerente con il trend generale verso il video osservato anche su Spotify e YouTube.",
+  "angles": [
+   "Un numero concreto per decidere se vale la pena accendere la telecamera anche per Apple Podcasts",
+   "Perché il video aiuta la scoperta anche su una piattaforma 'storicamente solo audio'",
+   "Da leggere con cautela: è un dato di chi vende il servizio, ma il trend è confermato altrove"
+  ],
+  "hooks": [
+   "Continui a pensare che su Apple Podcasts il video non serva a niente? Chi l'ha provato ha visto crescere gli ascolti di un quarto.",
+   "Hai paura che accendere la telecamera sia tempo buttato? Un dato recente dice che le sessioni salgono del 25%, non calano.",
+   "Pensi che Apple Podcasts sia rimasto 'solo audio per sempre'? Anche lì il video comincia a muovere i numeri."
+  ]
+ }
 ]

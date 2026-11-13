@@ -1,1 +1,47 @@
-[{"id":"rift-2026-11-11-ban-update-friday","title":"Riot anticipa un nuovo annuncio sui ban di carte, in arrivo venerdì 13 novembre","source":"riftbound.gg (via ricerca web 2026-11-11)","affidabilita":"secondaria","date":"2026-11-09","brief":"Il game director di Riftbound, Dave Guskin, ha confermato il 9 novembre che venerdì 13 novembre arriverà un nuovo annuncio relativo a ban di carte nel formato Constructed, precisando che eventuali ban non entreranno in vigore prima del prossimo weekend di gioco.","rilevanza":"I giocatori competitivi devono prepararsi a possibili cambi del meta prima dei prossimi tornei importanti; utile iniziare a valutare mazzi alternativi in caso di ban su carte top-tier."},{"id":"rift-2026-11-11-worlds-2026-bundle-draw","title":"Dal 13 al 16 novembre il sorteggio per il bundle Riftbound x Worlds 2026 Edition","source":"playriftbound.com / riftbound.gg (via ricerca web 2026-11-11)","affidabilita":"primaria","date":null,"brief":"Riot apre dal 13 al 16 novembre le registrazioni per il sorteggio online del bundle Riftbound x Worlds 2026 Edition (80$ più spedizione, solo in inglese); chi viene estratto ha 24 ore per completare l'acquisto. Il bundle sarà venduto anche di persona ai Worlds Quarterfinals/Semifinals di Allen (Texas) e al Fan Fest di New York, fino a esaurimento scorte.","rilevanza":"Informazione diretta e utile per collezionisti e fan che vogliono procurarsi il merchandising a tema Worlds legato a League of Legends."},{"id":"rift-2026-11-11-the-reckoning-set","title":"Annunciato \"The Reckoning\", nuovo set Riftbound da 250 carte in arrivo nel 2027","source":"ICv2 (via ricerca web 2026-11-11)","affidabilita":"secondaria","date":"2026-11-05","brief":"UVS Games e Riot Games hanno aperto il preorder (dal 5 novembre) per \"The Reckoning\", nuovo booster set da 250 carte con oltre 60 Showcase card, in uscita il 30 aprile 2027. Annunciati anche due Champion Deck dedicati a Shyvana e Vayne, con focus su campioni \"pesanti\" come Aurelion Sol, Cho'Gath e Zilean.","rilevanza":"Collezionisti e giocatori competitivi iniziano a pianificare acquisti futuri e a immaginare l'impatto delle nuove carte sul metagame."},{"id":"rift-2026-11-11-radiance-tier-list","title":"Tier list Radiance aggiornata: Riven in vetta, Kennen in rapida ascesa","source":"riftbound.gg (via ricerca web 2026-11-11)","affidabilita":"secondaria","date":"2026-11-04","brief":"L'ultimo aggiornamento della meta tier list di riftbound.gg, basato su torneo tenuti tra il 30 ottobre e il 4 novembre 2026 (incluse le City Challenge del Set 5 e il CoolStuffCon di Orlando), indica Riven come legend più forte del formato Constructed, con Kai'Sa e Kennen in Tier 1; Kennen viene segnalato come carta in forte crescita, con un win rate riportato del 59%.","rilevanza":"Fornisce un quadro concreto e aggiornato su quali legend/mazzi dominano il Constructed competitivo dopo il lancio del set Radiance."},{"id":"rift-2026-11-11-summoner-skirmish-november","title":"Summoner Skirmish di novembre: tappa locale a Flint (Michigan) il 29 novembre","source":"playriftbound.com (via ricerca web 2026-11-11)","affidabilita":"primaria","date":"2026-11-29","brief":"Il calendario eventi ufficiale di playriftbound.com elenca un Summoner Skirmish a Flint, Michigan, per il 29 novembre alle 19:00, con quota di iscrizione di 15$; l'evento fa parte del circuito locale di Organized Play di Riftbound.","rilevanza":"Utile per giocatori locali/regionali che cercano torneo ufficiali a basso costo d'ingresso con premi legati al circuito Organized Play."}]
+[
+ {
+  "id": "rift-2026-11-13-ban-announcement",
+  "title": "Riot pubblica l'annuncio sui ban di carte in Constructed previsto per venerdì 13 novembre",
+  "source": "riftbound.gg (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-13",
+  "brief": "Dopo l'anticipazione del game director Dave Guskin del 9 novembre, oggi 13 novembre è il giorno indicato per il nuovo annuncio sui ban di carte nel formato Constructed di Riftbound. Eventuali ban non entreranno in vigore prima del prossimo weekend di gioco, lasciando tempo ai giocatori per adattarsi.",
+  "rilevanza": "È il giorno x per capire se e quali carte top-tier verranno rimosse dal Constructed: chi gioca competitivo deve monitorare l'annuncio prima di investire tempo su un mazzo che potrebbe diventare illegale."
+ },
+ {
+  "id": "rift-2026-11-13-radiance-tier-list-week2",
+  "title": "Tier list Radiance settimana 2: Riven resta in Tier S, Kai'Sa e Kennen in Tier 1",
+  "source": "riftbound.gg (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-09",
+  "brief": "L'aggiornamento della tier list per il set Radiance, basato sui risultati di torneo tra cui il CoolStuffCon Orlando 2026 Showdown Series e il Convergence IV, confirma Riven come legend più forte del formato, con Kai'Sa e Kennen subito dietro in Tier 1 e Jayce, Irelia e Rengar in Tier 2.",
+  "rilevanza": "Fotografia aggiornata del meta competitivo dopo le prime settimane di Radiance: utile per chi vuole scegliere un mazzo prima dei prossimi eventi o capire se conviene aspettare i ban di venerdì."
+ },
+ {
+  "id": "rift-2026-11-13-radiance-core-rules-ottobre",
+  "title": "Patch delle regole base Radiance, in vigore dal 16 ottobre, resta il riferimento ufficiale",
+  "source": "playriftbound.com (via ricerca web 2026-11-13)",
+  "affidabilita": "primaria",
+  "date": "2026-10-16",
+  "brief": "La patch 'Radiance' alle regole base, pubblicata da Riot ed effettiva dagli eventi Pre-Rift del 16 ottobre 2026, chiarisce le interazioni delle nuove meccaniche del set e include un Q&A del team di design su carte controverse. Non è un cambio di bilanciamento ma un chiarimento regolamentare pensato soprattutto per i giudici di torneo.",
+  "rilevanza": "Riferimento tecnico utile per giudici e giocatori che incontrano interazioni ambigue con le carte di Radiance; va distinta dagli annunci di ban/bilanciamento, che seguono un canale separato."
+ },
+ {
+  "id": "rift-2026-11-13-bologna-regional-meta",
+  "title": "Il meta post-regionale di Bologna conferma lo spostamento verso mazzi aggressivi con Riven",
+  "source": "riftbound.gg (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Una delle tier list più recenti pubblicate da riftbound.gg è etichettata 'post Bologna metagame', segno che i risultati del regionale italiano di Bologna hanno influenzato la lettura del meta corrente di Spiritforged/Radiance, con mazzi aggressivi centrati su Riven in salita.",
+  "rilevanza": "Segnala che anche un torneo regionale europeo (Bologna) viene usato dalla community internazionale come dato per aggiornare le tier list: buon indicatore della rilevanza crescente della scena italiana/europea."
+ },
+ {
+  "id": "rift-2026-11-13-mobalytics-tier-list-attiva",
+  "title": "Mobalytics mantiene una tier list di Riftbound aggiornata con frequenza regolare",
+  "source": "Mobalytics.gg (via ricerca web 2026-11-13)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Oltre a riftbound.gg, anche Mobalytics pubblica e aggiorna periodicamente una propria tier list del gioco, segno che più siti di settore stanno investendo risorse editoriali su Riftbound, utile come secondo punto di riferimento per confrontare i giudizi sul meta.",
+  "rilevanza": "Due fonti indipendenti che tracciano il meta (riftbound.gg e Mobalytics) rendono più solide le letture sulle legend dominanti, riducendo il rischio di basarsi su un'unica fonte di parte."
+ }
+]

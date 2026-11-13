@@ -1,47 +1,47 @@
 [
-    {
-      "id": "creator-2026-11-11-lucca-comics-tomodachi-press",
-      "title": "Lucca Comics & Games 2026 chiude i battenti: Dario Moccia e Tomodachi Press tra i protagonisti della 60ª edizione",
-      "source": "La Nazione, Multiplayer.it, Rolling Stone Italia (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": "2026-11-01",
-      "brief": "La 60ª edizione di Lucca Comics & Games (28 ottobre-1 novembre 2026, 'Diamond Edition') si è chiusa con numeri da record (le fonti divergono: tra 275mila e 345mila biglietti secondo gli organizzatori, altre fonti citano cifre più alte sui visitatori totali). Lo streamer/content creator Dario Moccia, con la sua casa editrice Tomodachi Press (fondata insieme a Davide Masella e Luca Molinaro), ha presentato progetti di carte, fumetti e giochi da tavolo allo stand della fiera.",
-      "rilevanza": "Mostra il peso crescente dei content creator italiani (Moccia) come editori/imprenditori nel settore fumetti-giochi da tavolo, e la salute dell'evento nerd più importante d'Italia."
-    },
-    {
-      "id": "creator-2026-11-11-animeclick-awards",
-      "title": "AnimeClick Awards 2026: annunciati i vincitori votati dalla community a Lucca Comics",
-      "source": "AnimeClick.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": "2026-10-29",
-      "brief": "Il portale italiano AnimeClick ha annunciato i vincitori della nuova edizione degli AnimeClick Awards 2026, il premio scelto dal voto della community di appassionati di anime e manga, cerimonia svoltasi in concomitanza con Lucca Comics & Games.",
-      "rilevanza": "Rappresenta il principale riconoscimento 'dal basso' della community nerd/anime italiana, un punto di riferimento per creator e appassionati di cultura pop giapponese in Italia."
-    },
-    {
-      "id": "creator-2026-11-11-esports-nations-cup-italia",
-      "title": "Esports Nations Cup 2026: la nazionale italiana di League of Legends in gara a Riyadh",
-      "source": "SheepEsports, Techprincess.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": "2026-11-02",
-      "brief": "IIDEA è stata scelta come National Team Partner per l'Italia nella neonata Esports Nations Cup 2026 (Riyadh, inizio novembre). Il roster italiano di League of Legends comprende Gabbo, Goliah, Vigil, Ryuk e Click, guidato dal coach Fabrizio 'Gine' Ginestroni, con Tyrone e Shredder come riserve.",
-      "rilevanza": "Prima partecipazione italiana a una competizione esports a squadre nazionali di questo tipo, un passaggio rilevante per la scena competitiva e i creator legati agli esport in Italia."
-    },
-    {
-      "id": "creator-2026-11-11-milan-games-week-cartoomics",
-      "title": "Milan Games Week & Cartoomics 2026: annunciate le date dopo un'edizione 2025 da record",
-      "source": "Multiplayer.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": null,
-      "brief": "Dopo numeri da record nel 2025, è stata confermata l'edizione 2026 di Milan Games Week & Cartoomics (27-29 novembre, Fiera Milano Rho), formato che unisce videogiochi, fumetti, cinema e arte digitale. Gli organizzatori hanno annunciato che ulteriori ospiti e content creator saranno rivelati nelle prossime settimane.",
-      "rilevanza": "Uno dei principali eventi nerd/gaming italiani, tradizionalmente frequentato da streamer e YouTuber italiani del settore, che useranno l'evento come vetrina nelle prossime settimane."
-    },
-    {
-      "id": "creator-2026-11-11-play-festival-creator-gdt",
-      "title": "Play Festival 2026: content creator italiani di giochi da tavolo e di ruolo tra gli ospiti ufficiali",
-      "source": "Play-festival.it (via ricerca web 2026-11-11)",
-      "affidabilita": "secondaria",
-      "date": null,
-      "brief": "Tra gli ospiti ufficiali di Play Festival 2026 (il festival del gioco di Modena) figurano diversi content creator italiani del mondo tabletop/RPG: il canale YouTube Coboldo Channel (attivo dal 2017 sul gioco di ruolo da tavolo), il videomaker Simone Rosini, Silvia 'Escilgioco' Fossati e il collettivo 'Amici di Giula'.",
-      "rilevanza": "Conferma la crescita e il radicamento della scena italiana di creator dedicati ai giochi da tavolo e di ruolo, che dagli stand del festival si confermano punti di riferimento per la community."
-    }
+ {
+  "id": "creator-2026-11-13-lucca-dario-moccia-tomodachi",
+  "title": "Lucca Comics & Games 2026: Dario Moccia e Tomodachi Press tra i protagonisti della 60ª edizione",
+  "source": "La Nazione, Multiplayer.it, Rolling Stone Italia (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-01",
+  "brief": "La 60ª edizione 'Diamond Edition' di Lucca Comics & Games (28 ottobre-1 novembre) si è chiusa con numeri da record (le fonti divergono tra 275mila e oltre, secondo il conteggio). Lo streamer Dario Moccia, con la sua casa editrice Tomodachi Press fondata con Davide Masella e Luca Molinaro, ha presentato carte, fumetti e giochi da tavolo allo stand della fiera.",
+  "rilevanza": "Mostra il peso crescente dei content creator italiani come editori/imprenditori nel settore fumetti-giochi da tavolo, oltre alla semplice produzione di video."
+ },
+ {
+  "id": "creator-2026-11-13-play-festival-guest-creator",
+  "title": "Play Festival del Gioco 2026 confirma ospiti content creator italiani e internazionali",
+  "source": "play-festival.it (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Il sito ufficiale di Play - Festival del Gioco 2026 ha pubblicato le pagine degli ospiti content creator confermati, tra cui Murinerd (Giulio Murino), Escilgioco (Silvia Fossati) e Amicidigiula (Giulia), oltre al designer internazionale Cole Wehrle, segno di un programma ospiti sempre più incentrato sui creator di giochi da tavolo.",
+  "rilevanza": "Indica quali creator italiani del mondo tabletop saranno fisicamente presenti e attivi a uno degli eventi di settore più importanti, utile per chi vuole seguirli o collaborare con loro."
+ },
+ {
+  "id": "creator-2026-11-13-murinerd-canale-youtube",
+  "title": "Murinerd consolida la sua presenza come riferimento YouTube italiano sui giochi da tavolo",
+  "source": "Profili ufficiali citati da play-festival.it (via ricerca web 2026-11-13)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Giulio 'Murinerd' Murino, attivo da circa due anni nel settore, continua a pubblicare contenuti pensati sia per neofiti che per hobbisti esperti, tra sessioni di gioco, tutorial e approfondimenti, ed è tra gli ospiti confermati di Play 2026.",
+  "rilevanza": "Un riferimento utile per chi segue o vuole collaborare con creator italiani specializzati in giochi da tavolo in crescita costante, non solo legati a un singolo evento."
+ },
+ {
+  "id": "creator-2026-11-13-kurolily-kafkanya-scena-storica",
+  "title": "Le content creator storiche del gaming italiano (Kurolily, Kafkanya, Kodomo) restano un riferimento citato",
+  "source": "Eroica Fenice (via ricerca web 2026-11-13)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Una guida di settore cita ancora Kurolily, Kafkanya e Kodomo come creator storiche e tecnicamente preparate della scena italiana del gaming, segno che la loro autorevolezza resta un punto di riferimento nelle liste aggiornate del settore.",
+  "rilevanza": "Utile come mappa della community italiana nerd/gaming più consolidata, da tenere a mente quando si analizzano dinamiche di autorità e credibilità nel settore."
+ },
+ {
+  "id": "creator-2026-11-13-startupitalia-figure-videogiochi",
+  "title": "StartupItalia aggiorna l'elenco delle personalità italiane di rilievo nel mondo dei videogiochi",
+  "source": "StartupItalia (via ricerca web 2026-11-13)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "StartupItalia ha pubblicato un elenco (non definitivo, come specificato dalla stessa testata) di personalità italiane rilevanti nel mondo dei videogiochi, che include diversi content creator e YouTuber, utile come mappa generale ma da verificare caso per caso.",
+  "rilevanza": "Fonte di debole affidabilità ma utile come punto di partenza per individuare nuovi nomi emergenti nella scena italiana da monitorare."
+ }
 ]

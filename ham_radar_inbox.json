@@ -1,1 +1,51 @@
-[{"id":"ham-2026-11-11-propagazione-hf-solar-update","title":"Buona propagazione HF su 17 e 15 metri grazie a flusso solare elevato","source":"ARRL Solar Update #49 (via ricerca web 2026-11-11)","affidabilita":"primaria","date":"2026-11-05","brief":"Il bollettino ARRL del 5 novembre 2026 segnala flusso solare previsto sopra 100 per la settimana, con propagazione F2 eccellente su 17 e 15 metri dal mattino presto a sera tardi. La bassa attività geomagnetica tra il 24 e il 29 ottobre ha già migliorato la propagazione ionosferica globale, tendenza che dovrebbe continuare nella prima metà di novembre. Non ho trovato un bollettino più recente (es. del 9-11 novembre) indicizzato al momento della ricerca."},{"id":"ham-2026-11-11-dxpedition-c8k-mozambico","title":"DXpedition C8K in Mozambico in corso in questi giorni","source":"Programma via CQ.sk/calendario DXpedition (via ricerca web 2026-11-11)","affidabilita":"secondaria","date":"2026-11-09","brief":"Il team sarebbe arrivato il 9 novembre con montaggio antenne e operatività limitata il 10-11, piena attività dal 12 al 18 novembre e partenza il 19-20 novembre 2026. Le date provengono da un programma in lingua slovacca ripreso da aggregatori DX e non da un bollettino ufficiale del team, quindi vanno considerate indicative."},{"id":"ham-2026-11-11-dxpedition-zk3-tokelau","title":"DXpedition ZK3 Tokelau annunciata per fine novembre 2026","source":"Perseverance DX Group / Western Washington DX Club (via ricerca web 2026-11-11)","affidabilita":"secondaria","date":null,"brief":"Perseverance DX Group e Western Washington DX Club stanno organizzando un'operazione da Tokelau, uno dei DXCC più richiesti. Il team partirebbe da Apia (Samoa) a inizio novembre per essere sull'atollo nelle ultime due settimane del mese; il nominativo definitivo non era ancora stato comunicato nelle fonti trovate, quindi i dettagli restano da confermare."},{"id":"ham-2026-11-11-contest-wae-rtty","title":"WAE DX Contest RTTY nel weekend del 14-15 novembre 2026","source":"Regolamento ufficiale DARC / DX Zone (via ricerca web 2026-11-11)","affidabilita":"primaria","date":"2026-11-14","brief":"La manche RTTY del Worked All Europe DX Contest si svolge da sabato 14 novembre 00:00 UTC a domenica 15 novembre 23:59 UTC 2026, con invio log entro il 22 novembre. Date confermate dal regolamento DARC e coerenti con la scheda DX Zone 2026; contest imminente rispetto a oggi (11 novembre)."},{"id":"ham-2026-11-11-kenwood-tm-d750","title":"Kenwood lancia i nuovi mobili digitali TM-D750 / TM-D750S","source":"Comunicato stampa JVCKENWOOD / Dempa Digital (via ricerca web 2026-11-11)","affidabilita":"secondaria","date":"2026-07-30","brief":"JVCKENWOOD ha annunciato il 30 luglio 2026 i nuovi ricetrasmettitori mobili VHF/UHF (144/430 MHz) TM-D750 e TM-D750S, con supporto APRS e D-STAR e una nuova modalità D-STAR Direct via WiFi integrato, presentati a Ham Fair Tokyo (29-30 agosto). Notizia non delle ultime 48 ore: la segnalo con data reale di luglio/agosto 2026, non come novità fresca."},{"id":"ham-2026-11-11-hamlib-software-award","title":"Hamlib premiato come miglior software amatoriale 2026, rilascio 4.7.2 consolidato","source":"Amateur Radio Newsline / pacchettizzazione Debian-FreeBSD (via ricerca web 2026-11-11)","affidabilita":"secondaria","date":"2026-05-01","brief":"Hamlib ha vinto l'Amateur Radio Software Award 2026 (annuncio di inizio maggio); la versione stabile più recente individuata è la 4.7.2 (giugno-agosto 2026, con una CVE in fase di triage). La versione 5.0 con cambi ABI è in sviluppo ma senza data di rilascio. Informazione datata rispetto a oggi, non un evento delle ultime 48 ore."},{"id":"ham-2026-11-11-iaru-ast-spacemobile","title":"IARU contesta l'uso della banda 430-440 MHz da parte di AST SpaceMobile","source":"Bollettini IARU (via ricerca web 2026-11-11)","affidabilita":"segnale debole","date":"2026-04-21","brief":"Il 21 aprile 2026 la FCC ha autorizzato AST SpaceMobile a usare la banda amatoriale 430-440 MHz per telemetria/tracking/controllo dei propri satelliti fuori USA, invocando l'art. 4.4 ITU; la IARU ha contestato la base giuridica e ha chiesto ai radioamatori di segnalare interferenze ai rispettivi enti nazionali. Non ho trovato aggiornamenti successivi sull'esito della disputa: la segnalo come informazione datata e non confermata di recente, non come notizia fresca delle ultime 48 ore."}]
+[
+ {
+  "id": "ham-2026-11-13-cqww-cw-date-confermate",
+  "title": "CQ WW DX CW 2026 confermato per il weekend del 28-29 novembre",
+  "source": "Regolamento ufficiale CQWW (via ricerca web 2026-11-13)",
+  "affidabilita": "primaria",
+  "date": "2026-11-28",
+  "brief": "Il regolamento ufficiale 2026 del CQ World Wide DX Contest conferma la sessione CW per il weekend del 28-29 novembre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica. È tradizionalmente considerato uno dei weekend radio più intensi dell'anno a livello mondiale."
+ },
+ {
+  "id": "ham-2026-11-13-3b9kw-rodrigues",
+  "title": "DXpedition 3B9KW da Rodrigues Island durante il CQ WW CW di fine novembre",
+  "source": "Bollettino DX LABRE (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-28",
+  "brief": "Kazu, M0CFW, opererà come 3B9KW dall'isola di Rodrigues (Oceano Indiano) durante il weekend del CQ WW CW, 28-29 novembre 2026, offrendo un paese DX non banale per chi punta all'award DXCC.",
+  "angles_disclaimer": null
+ },
+ {
+  "id": "ham-2026-11-13-pj7uk-sint-maarten",
+  "title": "PJ7UK attivo da Sint Maarten dal 28 novembre al 7 dicembre su HF e 6 metri",
+  "source": "425 DX News (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-28",
+  "brief": "Un operatore QRV come PJ7UK da Sint Maarten sarà attivo dal 28 novembre al 7 dicembre 2026, con presenza prevista anche durante il CQ WW DX CW Contest, su varie bande HF e sui 6 metri: altra opportunità DX per chi partecipa al contest o cerca questo paese fuori gara."
+ },
+ {
+  "id": "ham-2026-11-13-vp9i-bermuda",
+  "title": "VP9I da Bermuda (NA-005) per il CQ WW CW con K3TEJ e K3CT",
+  "source": "Annunci contest (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-28",
+  "brief": "Gli operatori K3TEJ e K3CT parteciperanno al CQ WW CW come VP9I da Bermuda, riferimento IOTA NA-005, aggiungendo un'altra stazione multi-operatore di richiamo per il weekend di fine novembre."
+ },
+ {
+  "id": "ham-2026-11-13-arrl-solar-update-novembre",
+  "title": "ARRL Solar Update: propagazione F2 ancora favorevole su 17 e 15 metri a inizio novembre",
+  "source": "ARRL (via ricerca web 2026-11-13)",
+  "affidabilita": "primaria",
+  "date": "2026-11-05",
+  "brief": "Il bollettino ARRL Solar Update del 5 novembre segnalava flusso solare previsto sopra 100 e propagazione F2 eccellente su 17 e 15 metri dal mattino presto a sera tardi, con bassa attività geomagnetica tra fine ottobre che ha favorito la propagazione globale. Non è stato reperito un bollettino più aggiornato (9-13 novembre) al momento della ricerca."
+ },
+ {
+  "id": "ham-2026-11-13-qst-contest-season",
+  "title": "QST di novembre dedica una sezione speciale alla 'Contest Season 2026-2027'",
+  "source": "ARRL, indice QST novembre 2026 (via ricerca web 2026-11-13)",
+  "affidabilita": "primaria",
+  "date": null,
+  "brief": "L'indice del numero di novembre 2026 di QST, la rivista ARRL, include una sezione speciale sulla stagione contest 2026-2027, articoli di resoconto sui contest dei 10 metri e dei 160 metri, e un approfondimento sulla propagazione dei 6 metri: utile lettura di contesto in vista del weekend CQ WW."
+ }
+]

@@ -1,65 +1,56 @@
 [
-  {
-    "id": "nerd-2026-11-11-gta6-preload",
-    "title": "GTA VI: il pre-caricamento digitale anticipato al 10 novembre",
-    "source": "Rockstar Newswire / IBTimes / Beebom (via ricerca web 2026-11-11)",
-    "affidabilita": "primaria",
-    "date": "2026-11-10",
-    "tipo": "videogioco",
-    "brief": "Rockstar ha anticipato di due giorni l'apertura del pre-load digitale di GTA VI su PS5 e Xbox Series X|S, portandolo al 10 novembre 2026 (le copie fisiche con codice partono dal 12). Il file pesa fino a 212 GB; il lancio resta fissato per il 19 novembre 2026. Notizia davvero recente, confermata da più fonti indipendenti."
-  },
-  {
-    "id": "nerd-2026-11-11-halo-campaign-evolved-boardgame",
-    "title": "Halo: Campaign Evolved - The Board Game arriva in negozio il 14 novembre",
-    "source": "ICv2 / Mantic Games (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "date": "2026-11-14",
-    "tipo": "gioco da tavolo",
-    "brief": "Mantic Games conferma l'uscita retail per il 14 novembre 2026 del gioco da tavolo cooperativo 1-2 giocatori legato al franchise Halo, realizzato in collaborazione con Halo Studios. Il gioco era stato annunciato già a giugno 2026: la novità delle ultime ore è la data di uscita confermata dai rivenditori, non l'annuncio in sé."
-  },
-  {
-    "id": "nerd-2026-11-11-milan-games-week-cartoomics",
-    "title": "Milan Games Week & Cartoomics 2026: programma in arrivo per fine novembre",
-    "source": "Multiplayer.it / Techprincess (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "date": "2026-11-27",
-    "tipo": "fiera",
-    "brief": "La fiera si terrà dal 27 al 29 novembre 2026 a Fiera Milano Rho, in formato unificato con Cartoomics (comics, cinema, libri, arte digitale oltre a gaming/esport). Tra gli ospiti annunciati il cast della serie live-action di One Piece e una mostra Sergio Bonelli Editore per i 40 anni di Dylan Dog. Le date erano note da giugno 2026, quindi non è una notizia nuovissima, ma il dettaglio del programma/ospiti è un aggiornamento recente."
-  },
-  {
-    "id": "nerd-2026-11-11-lucca-comics-2027-date",
-    "title": "Lucca Comics & Games chiude l'edizione dei 60 anni e annuncia le date 2027",
-    "source": "SenalNews / Finestre sull'Arte (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "date": "2026-11-02",
-    "tipo": "fiera",
-    "brief": "La 60ª edizione (28 ottobre - 1 novembre 2026, tema 'Legacy') si è chiusa con ospiti come Go Nagai, Frank Miller e Jonathan Hickman; le fonti divergono sui visitatori totali (345.000 o 800.000 secondo articoli diversi, dato da verificare). Annunciate le date 2027: 28 ottobre - 1 novembre. È una notizia di circa 10 giorni fa, non delle ultime 48 ore, ma rilevante per il calendario eventi."
-  },
-  {
-    "id": "nerd-2026-11-11-kojima-physint-xbox",
-    "title": "PlayStation abbandona Physint di Kojima, Xbox ne diventa publisher",
-    "source": "TechRadar / GameDeveloper / VGC (via ricerca web 2026-11-11)",
-    "affidabilita": "secondaria",
-    "date": "2026-09-10",
-    "tipo": "videogioco",
-    "brief": "Xbox ha rilevato la pubblicazione di Physint, il nuovo gioco stealth di Kojima Productions, dopo che PlayStation Studios ha comunicato a sorpresa la cancellazione del progetto a giugno 2026. L'accordo si estenderebbe anche a film e TV. Notizia di oltre un mese fa, segnalata qui perché è l'argomento più vicino trovato di rilievo per il settore."
-  },
-  {
-    "id": "nerd-2026-11-11-gamescom-2027-date",
-    "title": "Gamescom 2027 fissata per il 23-29 agosto a Colonia (non ancora confermata ufficialmente)",
-    "source": "Insider Gaming / games.gg (via ricerca web 2026-11-11)",
-    "affidabilita": "segnale debole",
-    "date": null,
-    "tipo": "fiera",
-    "brief": "Diverse testate riportano le date del 23-29 agosto 2027 per Gamescom a Colonia, dedotte da materiale promozionale visto sul floor della fiera 2026 (agosto 2026), non da un comunicato ufficiale di Koelnmesse. Notizia non recentissima e non ancora confermata dall'organizzatore."
-  },
-  {
-    "id": "nerd-2026-11-11-essen-spiel-2027-date",
-    "title": "SPIEL Essen 2027: circolano date non ufficiali (21-24 ottobre)",
-    "source": "Showsbee / Cantonfair (via ricerca web 2026-11-11)",
-    "affidabilita": "segnale debole",
-    "date": null,
-    "tipo": "fiera",
-    "brief": "Alcuni siti di settore indicano il 21-24 ottobre 2027 per la fiera di giochi da tavolo di Essen, ma il sito ufficiale spiel-essen.de conferma al momento solo l'edizione 2026 (22-25 ottobre). Da trattare come indiscrezione non confermata."
-  }
+ {
+  "id": "nerd-2026-11-13-mgw-cartoomics-2026",
+  "title": "Milan Games Week & Cartoomics 2026: dal 27 al 29 novembre a Fiera Milano Rho",
+  "source": "Multiplayer.it, TicketOne (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-27",
+  "tipo": "fiera",
+  "brief": "La fiera milanese dedicata a fumetti, giochi da tavolo, videogiochi ed eSport si terrà a Fiera Milano Rho dal 27 al 29 novembre 2026, con biglietti già in vendita da tempo; confermata la presenza di Sergio Bonelli Editore per i 40 anni di Dylan Dog."
+ },
+ {
+  "id": "nerd-2026-11-13-dnd-world-of-warcraft",
+  "title": "Dungeons & Dragons annuncia il crossover con World of Warcraft (progetto \"Mondi Altrove\")",
+  "source": "AnimeClick (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Dopo gli annunci della Gen Con 2026, parte a novembre l'iniziativa 'Mondi Altrove' che lancia un crossover tra Dungeons & Dragons e World of Warcraft, sviluppato insieme a Blizzard, oltre a materiale annunciato per Star Wars.",
+  "tipo": "gioco di ruolo"
+ },
+ {
+  "id": "nerd-2026-11-13-gta6-preload",
+  "title": "GTA VI: pre-caricamento digitale anticipato, lancio confermato per il 19 novembre",
+  "source": "Rockstar Newswire (via ricerca web 2026-11-13)",
+  "affidabilita": "primaria",
+  "date": "2026-11-10",
+  "tipo": "videogioco",
+  "brief": "Rockstar ha anticipato di due giorni l'apertura del pre-load digitale di GTA VI su PS5 e Xbox Series X|S, al 10 novembre (le copie fisiche con codice partono dal 12). Il file pesa fino a 212 GB; il lancio resta fissato per il 19 novembre 2026, confermato da più fonti indipendenti."
+ },
+ {
+  "id": "nerd-2026-11-13-bggcon-dallas",
+  "title": "BGG.Con 2026 in programma a Dallas dal 18 al 22 novembre",
+  "source": "BoardGameWire (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-18",
+  "tipo": "fiera",
+  "brief": "La convention annuale organizzata dalla community di BoardGameGeek si terrà a Dallas (USA) dal 18 al 22 novembre 2026: è uno degli appuntamenti più seguiti da autori ed editori di giochi da tavolo per playtest e networking."
+ },
+ {
+  "id": "nerd-2026-11-13-steam-tabletop-fest",
+  "title": "Steam Digital Tabletop Fest 2026 in corso fino al 15 novembre",
+  "source": "NAG (via ricerca web 2026-11-13)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-09",
+  "tipo": "evento",
+  "brief": "Valve ospita su Steam il Digital Tabletop Fest 2026, con oltre 120 adattamenti digitali di giochi da tavolo in sconto fino al 15 novembre 2026, occasione di visibilità per gli editori con trasposizioni digitali dei propri titoli."
+ },
+ {
+  "id": "nerd-2026-11-13-football-manager-27",
+  "title": "Football Manager 27 in uscita il 10 novembre",
+  "source": "EveryEye (via ricerca web 2026-11-13)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-10",
+  "tipo": "videogioco",
+  "brief": "Secondo EveryEye, Football Manager 27 è uscito il 10 novembre 2026; dato da verificare direttamente sul sito ufficiale perché proveniente da un singolo aggregatore di uscite."
+ }
 ]
