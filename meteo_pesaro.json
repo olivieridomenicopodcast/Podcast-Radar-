@@ -1,27 +1,17 @@
 {
- "aggiornato": "2026-11-13",
+ "aggiornato": "2026-11-14",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.ilmeteo.it/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteo.it/meteo/pesaro-41044", "https://www.meteo.it/meteo/pesaro-3-giorni-41044", "https://www.3bmeteo.com/meteo/pesaro", "https://www.agi.it/meteo/italia/marche/pesaro/", "https://www.meteoblue.com/en/weather/week/pesaro_italy_3171173", "https://allertameteo.regione.marche.it"],
+ "fonti": ["https://www.ilmeteo.it/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteo.it/meteo/pesaro-3-giorni-41044", "https://www.3bmeteo.com/meteo/pesaro", "https://www.3bmeteo.com/meteo/pesaro/2", "https://www.meteoblue.com/en/weather/week/pesaro_italy_3171173", "https://allertameteo.regione.marche.it", "https://meteo.regione.marche.it"],
  "previsioni": [
-  {
-   "data": "2026-11-13",
-   "giorno": "venerdì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione per oggi: i risultati di ricerca restituiti dai siti meteo (ilMeteo, Meteo.it, 3BMeteo, AGI, Meteoblue) erano in gran parte snippet non datati o relativi ad altre giornate/mesi, quindi non utilizzabili come previsione affidabile per questa data specifica.",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per questa data nei risultati di ricerca disponibili"
-  },
   {
    "data": "2026-11-14",
    "giorno": "sabato",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: nessuna fonte consultata restituiva uno snippet datato in modo inequivocabile al 14 novembre 2026",
+   "condizioni": "Dato non reperito con sufficiente precisione per oggi: le pagine di ilMeteo.it, Meteo.it, 3BMeteo e Meteoblue restituite dalla ricerca erano snapshot non datati o relativi ad altri periodi (agosto, aprile, maggio 2026; settembre-novembre 2025), quindi non utilizzabili come previsione affidabile per questa data specifica.",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
-   "allerta": "dato non reperito per questa data specifica"
+   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per il 14 novembre 2026 nei risultati di ricerca disponibili; l'ultima allerta trovata (arancione per vento, zone interne) risale all'11-12 novembre 2026"
   },
   {
    "data": "2026-11-15",
@@ -32,7 +22,17 @@
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito per questa data specifica"
+  },
+  {
+   "data": "2026-11-16",
+   "giorno": "lunedì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "Dato non reperito con sufficiente precisione: nessuna fonte consultata restituiva uno snippet datato in modo inequivocabile al 16 novembre 2026",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "dato non reperito per questa data specifica"
   }
  ],
- "note": "I dati provengono da snippet di ricerca web (Google), non da accesso diretto alle pagine (WebFetch non disponibile per questi domini in questa sessione cloud). A differenza di aggiornamenti precedenti, questa volta le ricerche non hanno restituito valori numerici di temperatura/vento attribuibili con certezza alle date 13-15 novembre 2026: gli snippet di ilMeteo.it, Meteo.it, 3BMeteo, AGI e Meteoblue mostravano dati di altri mesi (aprile, maggio, luglio, agosto 2026) o bollettini della Regione Marche datati 2025. Media climatica di riferimento (non una previsione): per novembre a Pesaro si registrano storicamente circa 14 giorni di pioggia nel mese e una temperatura media intorno ai 13°C. Si raccomanda vivamente di consultare direttamente ilmeteo.it, meteo.it, 3bmeteo.com o il bollettino ufficiale della Protezione Civile Marche (allertameteo.regione.marche.it) per un dato numerico certo e aggiornato."
+ "note": "I dati provengono da snippet di ricerca web (Google), non da accesso diretto alle pagine (WebFetch non disponibile per questi domini in questa sessione cloud). Le ricerche non hanno restituito valori numerici di temperatura/vento attribuibili con certezza alle date 14-16 novembre 2026: gli snippet di ilMeteo.it, Meteo.it, 3BMeteo e Meteoblue mostravano dati di altri mesi (aprile, maggio, agosto 2026) o bollettini della Regione Marche datati 2025. Media climatica di riferimento (non una previsione): per metà novembre a Pesaro si registrano storicamente massime intorno a 15°C e minime intorno a 12°C, con circa 14 giorni di pioggia nel mese. Si raccomanda vivamente di consultare direttamente ilmeteo.it, meteo.it, 3bmeteo.com o il bollettino ufficiale della Protezione Civile Marche (allertameteo.regione.marche.it) per un dato numerico certo e aggiornato."
 }

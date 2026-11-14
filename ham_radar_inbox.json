@@ -1,51 +1,58 @@
 [
  {
-  "id": "ham-2026-11-13-cqww-cw-date-confermate",
+  "id": "ham-2026-11-14-cqww-cw-date-confermate",
   "title": "CQ WW DX CW 2026 confermato per il weekend del 28-29 novembre",
-  "source": "Regolamento ufficiale CQWW (via ricerca web 2026-11-13)",
+  "source": "Regolamento ufficiale CQWW, DXZone (via ricerca web 2026-11-14)",
   "affidabilita": "primaria",
   "date": "2026-11-28",
-  "brief": "Il regolamento ufficiale 2026 del CQ World Wide DX Contest conferma la sessione CW per il weekend del 28-29 novembre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica. È tradizionalmente considerato uno dei weekend radio più intensi dell'anno a livello mondiale."
+  "brief": "Il regolamento ufficiale 2026 del CQ World Wide DX Contest confirma la sessione CW per il weekend del 28-29 novembre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica, come da tradizione nell'ultimo weekend pieno del mese. È uno dei weekend radio più intensi dell'anno a livello mondiale."
  },
  {
-  "id": "ham-2026-11-13-3b9kw-rodrigues",
-  "title": "DXpedition 3B9KW da Rodrigues Island durante il CQ WW CW di fine novembre",
-  "source": "Bollettino DX LABRE (via ricerca web 2026-11-13)",
+  "id": "ham-2026-11-14-3x4u-guinea",
+  "title": "DXpedition 3X4U attiva dalla Guinea fino al 23 novembre",
+  "source": "DX-World.net, bollettini DX (via ricerca web 2026-11-14)",
   "affidabilita": "secondaria",
-  "date": "2026-11-28",
-  "brief": "Kazu, M0CFW, opererà come 3B9KW dall'isola di Rodrigues (Oceano Indiano) durante il weekend del CQ WW CW, 28-29 novembre 2026, offrendo un paese DX non banale per chi punta all'award DXCC.",
-  "angles_disclaimer": null
+  "date": "2026-11-11",
+  "brief": "Il Rockall DX Group belga opera come 3X4U dal Lac de Koba, in Guinea, dall'11 al 23 novembre 2026: un'opportunità DX non banale per chi punta a paesi rari su HF prima del weekend del CQ WW CW."
  },
  {
-  "id": "ham-2026-11-13-pj7uk-sint-maarten",
-  "title": "PJ7UK attivo da Sint Maarten dal 28 novembre al 7 dicembre su HF e 6 metri",
-  "source": "425 DX News (via ricerca web 2026-11-13)",
+  "id": "ham-2026-11-14-vk9xy-christmas-island",
+  "title": "VK9XY attiva da Christmas Island dal 16 novembre al 4 dicembre",
+  "source": "Pacific Islands DXpedition Group (via ricerca web 2026-11-14)",
   "affidabilita": "secondaria",
-  "date": "2026-11-28",
-  "brief": "Un operatore QRV come PJ7UK da Sint Maarten sarà attivo dal 28 novembre al 7 dicembre 2026, con presenza prevista anche durante il CQ WW DX CW Contest, su varie bande HF e sui 6 metri: altra opportunità DX per chi partecipa al contest o cerca questo paese fuori gara."
+  "date": "2026-11-16",
+  "brief": "Il Pacific Islands DXpedition Group, con il programma Youth on the Air, attiverà Christmas Island (VK9X) con il nominativo VK9XY dal 16 novembre al 4 dicembre 2026, coprendo anche il weekend del CQ WW DX CW."
  },
  {
-  "id": "ham-2026-11-13-vp9i-bermuda",
-  "title": "VP9I da Bermuda (NA-005) per il CQ WW CW con K3TEJ e K3CT",
-  "source": "Annunci contest (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-28",
-  "brief": "Gli operatori K3TEJ e K3CT parteciperanno al CQ WW CW come VP9I da Bermuda, riferimento IOTA NA-005, aggiungendo un'altra stazione multi-operatore di richiamo per il weekend di fine novembre."
+  "id": "ham-2026-11-14-c8k-mozambico",
+  "title": "C8K attivo dal Mozambico fino al 20 novembre",
+  "source": "Bollettini DX (via ricerca web 2026-11-14)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-09",
+  "brief": "Un team opera come C8K dal Mozambico, con arrivo il 9 novembre e partenza prevista il 20 novembre 2026: dato riportato da bollettini DX aggregatori, da verificare su QRZ.com o DX-World per i dettagli di bande e modi."
  },
  {
-  "id": "ham-2026-11-13-arrl-solar-update-novembre",
-  "title": "ARRL Solar Update: propagazione F2 ancora favorevole su 17 e 15 metri a inizio novembre",
-  "source": "ARRL (via ricerca web 2026-11-13)",
+  "id": "ham-2026-11-14-arrl-solar-update-49",
+  "title": "ARRL Solar Update 49: attività solare bassa ma buona propagazione notturna sulle basse HF",
+  "source": "ARRL (via ricerca web 2026-11-14)",
   "affidabilita": "primaria",
-  "date": "2026-11-05",
-  "brief": "Il bollettino ARRL Solar Update del 5 novembre segnalava flusso solare previsto sopra 100 e propagazione F2 eccellente su 17 e 15 metri dal mattino presto a sera tardi, con bassa attività geomagnetica tra fine ottobre che ha favorito la propagazione globale. Non è stato reperito un bollettino più aggiornato (9-13 novembre) al momento della ricerca."
+  "date": "2026-11-06",
+  "brief": "Il bollettino ARRL Solar Update 49 del 6 novembre segnala attività solare prevista bassa nei giorni successivi, con possibilità di brillamenti di classe M, ma propagazione notturna eccellente su 30, 40 e 80 metri. OK1HH prevede un aumento dell'attività solare nella prima metà di novembre, con beneficio per le onde corte."
  },
  {
-  "id": "ham-2026-11-13-qst-contest-season",
-  "title": "QST di novembre dedica una sezione speciale alla 'Contest Season 2026-2027'",
-  "source": "ARRL, indice QST novembre 2026 (via ricerca web 2026-11-13)",
+  "id": "ham-2026-11-14-kenwood-tm-d750e-produzione",
+  "title": "Kenwood TM-D750E: certificazione FCC avviata, produzione in corso, versione europea ancora in pre-ordine",
+  "source": "cq.sk, WiMo (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Il nuovo mobile VHF/UHF Kenwood TM-D750E (doppio ricevitore, D-Star, APRS/GPS) ha ottenuto la certificazione FCC per la versione USA a inizio 2026, avviando la produzione; la versione europea resta in pre-ordine presso rivenditori come WiMo, con prezzo sopra gli 1100 euro riportato ad aprile 2026."
+ },
+ {
+  "id": "ham-2026-11-14-ari-cyber-resilience-act",
+  "title": "ARI pubblica un'analisi sull'impatto del Cyber Resilience Act europeo sul radioamatorismo",
+  "source": "ARI - Associazione Radioamatori Italiani (via ricerca web 2026-11-14)",
   "affidabilita": "primaria",
   "date": null,
-  "brief": "L'indice del numero di novembre 2026 di QST, la rivista ARRL, include una sezione speciale sulla stagione contest 2026-2027, articoli di resoconto sui contest dei 10 metri e dei 160 metri, e un approfondimento sulla propagazione dei 6 metri: utile lettura di contesto in vista del weekend CQ WW."
+  "brief": "L'ARI ha pubblicato un approfondimento sul Cyber Resilience Act (CRA) dell'UE e sulle sue implicazioni per il radioamatorismo, chiarendo che l'attrezzatura radioamatoriale sviluppata in ambito non profit non è soggetta al regolamento: utile riferimento per chi si costruisce apparati in autocostruzione."
  }
 ]

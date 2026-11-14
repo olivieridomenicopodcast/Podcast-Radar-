@@ -1,47 +1,56 @@
 [
  {
-  "id": "rift-2026-11-13-ban-announcement",
-  "title": "Riot pubblica l'annuncio sui ban di carte in Constructed previsto per venerdì 13 novembre",
-  "source": "riftbound.gg (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
+  "id": "rift-2026-11-14-ban-friday-teaser",
+  "title": "Nessuna conferma reperita sull'annuncio ban di venerdì 13 novembre teaser da Dave Guskin",
+  "source": "riftbound.gg (via ricerca web 2026-11-14)",
+  "affidabilita": "segnale debole",
   "date": "2026-11-13",
-  "brief": "Dopo l'anticipazione del game director Dave Guskin del 9 novembre, oggi 13 novembre è il giorno indicato per il nuovo annuncio sui ban di carte nel formato Constructed di Riftbound. Eventuali ban non entreranno in vigore prima del prossimo weekend di gioco, lasciando tempo ai giocatori per adattarsi.",
-  "rilevanza": "È il giorno x per capire se e quali carte top-tier verranno rimosse dal Constructed: chi gioca competitivo deve monitorare l'annuncio prima di investire tempo su un mazzo che potrebbe diventare illegale."
+  "brief": "Il game director Dave Guskin aveva anticipato sui social un possibile nuovo annuncio sui ban in Constructed per venerdì 13 novembre, dopo la conclusione dell'Europe Regional Championship. Alla data della ricerca (14 novembre) non risulta ancora pubblicato un comunicato ufficiale con l'elenco delle carte coinvolte: l'ultimo ban ufficiale confermato resta quello del 18 settembre 2026.",
+  "rilevanza": "Chi gioca competitivo deve continuare a monitorare i canali ufficiali Riftbound prima di investire tempo su un mazzo che potrebbe diventare illegale a breve."
  },
  {
-  "id": "rift-2026-11-13-radiance-tier-list-week2",
-  "title": "Tier list Radiance settimana 2: Riven resta in Tier S, Kai'Sa e Kennen in Tier 1",
-  "source": "riftbound.gg (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-09",
-  "brief": "L'aggiornamento della tier list per il set Radiance, basato sui risultati di torneo tra cui il CoolStuffCon Orlando 2026 Showdown Series e il Convergence IV, confirma Riven come legend più forte del formato, con Kai'Sa e Kennen subito dietro in Tier 1 e Jayce, Irelia e Rengar in Tier 2.",
-  "rilevanza": "Fotografia aggiornata del meta competitivo dopo le prime settimane di Radiance: utile per chi vuole scegliere un mazzo prima dei prossimi eventi o capire se conviene aspettare i ban di venerdì."
- },
- {
-  "id": "rift-2026-11-13-radiance-core-rules-ottobre",
-  "title": "Patch delle regole base Radiance, in vigore dal 16 ottobre, resta il riferimento ufficiale",
-  "source": "playriftbound.com (via ricerca web 2026-11-13)",
+  "id": "rift-2026-11-14-settembre-ban-ultimo-confermato",
+  "title": "L'ultimo ban ufficiale confermato resta quello di Ekko, Recurrent e Stacked Deck del 18 settembre",
+  "source": "playriftbound.com (via ricerca web 2026-11-14)",
   "affidabilita": "primaria",
-  "date": "2026-10-16",
-  "brief": "La patch 'Radiance' alle regole base, pubblicata da Riot ed effettiva dagli eventi Pre-Rift del 16 ottobre 2026, chiarisce le interazioni delle nuove meccaniche del set e include un Q&A del team di design su carte controverse. Non è un cambio di bilanciamento ma un chiarimento regolamentare pensato soprattutto per i giudici di torneo.",
-  "rilevanza": "Riferimento tecnico utile per giudici e giocatori che incontrano interazioni ambigue con le carte di Radiance; va distinta dagli annunci di ban/bilanciamento, che seguono un canale separato."
+  "date": "2026-09-18",
+  "brief": "Riot ha bandito Ekko, Recurrent e Stacked Deck nei formati Standard e 2v2 Constructed a causa di una combo percepita come troppo rischiosa per l'equilibrio del gioco. È il riferimento ufficiale più recente in attesa di un eventuale nuovo comunicato.",
+  "rilevanza": "Base di partenza per valutare se e quanto il meta attuale (centrato su Riven, Kai'Sa e Kennen) possa cambiare con un nuovo giro di ban."
  },
  {
-  "id": "rift-2026-11-13-bologna-regional-meta",
-  "title": "Il meta post-regionale di Bologna conferma lo spostamento verso mazzi aggressivi con Riven",
-  "source": "riftbound.gg (via ricerca web 2026-11-13)",
+  "id": "rift-2026-11-14-kennen-sorpassa-kaisa",
+  "title": "Tier list Radiance: Kennen sale al 59% di winrate e supera Kai'Sa, Riven resta dominante in Tier S",
+  "source": "riftbound.gg (via ricerca web 2026-11-14)",
   "affidabilita": "secondaria",
   "date": null,
-  "brief": "Una delle tier list più recenti pubblicate da riftbound.gg è etichettata 'post Bologna metagame', segno che i risultati del regionale italiano di Bologna hanno influenzato la lettura del meta corrente di Spiritforged/Radiance, con mazzi aggressivi centrati su Riven in salita.",
-  "rilevanza": "Segnala che anche un torneo regionale europeo (Bologna) viene usato dalla community internazionale come dato per aggiornare le tier list: buon indicatore della rilevanza crescente della scena italiana/europea."
+  "brief": "Secondo l'ultimo aggiornamento della tier list fan-made basato su torneo tra cui il CoolStuffCon Orlando $25k e il Convergence IV, Riven resta la legend più forte del formato (5 vittorie, 16 top cut). Kennen però sta salendo rapidamente, con un winrate del 59% che la porta davanti a Kai'Sa, pur avendo meno top cut complessivi (10 contro 12).",
+  "rilevanza": "Segnale utile per chi deve scegliere un mazzo in vista dei prossimi eventi: Kennen potrebbe meritare più attenzione di quanta le dia la sola classifica per top cut."
  },
  {
-  "id": "rift-2026-11-13-mobalytics-tier-list-attiva",
-  "title": "Mobalytics mantiene una tier list di Riftbound aggiornata con frequenza regolare",
-  "source": "Mobalytics.gg (via ricerca web 2026-11-13)",
+  "id": "rift-2026-11-14-radiance-ambiente-attuale",
+  "title": "Radiance resta il set corrente: 180 carte e oltre 60 Showcase dal 23 ottobre",
+  "source": "Riot Games / playriftbound.com (via ricerca web 2026-11-14)",
+  "affidabilita": "primaria",
+  "date": "2026-10-23",
+  "brief": "Il quinto set di Riftbound, Radiance, è uscito il 23 ottobre 2026 con un pool di 180 carte, oltre 60 Showcase e nuove meccaniche; è il set su cui si basano sia le tier list attuali sia l'eventuale nuovo giro di ban.",
+  "rilevanza": "Contesto necessario per interpretare correttamente tier list e annunci di bilanciamento di questi giorni, tutti riferiti all'ambiente Radiance."
+ },
+ {
+  "id": "rift-2026-11-14-roadmap-legacy-reckoning",
+  "title": "Roadmap Riftbound: dopo Radiance in arrivo Legacy (29 gennaio 2027) e The Reckoning (30 aprile 2027)",
+  "source": "But Why Tho (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Una roadmap pubblicata da But Why Tho indica i prossimi due set in programma dopo Radiance: Riftbound Legacy previsto per il 29 gennaio 2027 e Riftbound The Reckoning per il 30 aprile 2027. Non è un comunicato Riot di prima mano, ma riprende informazioni già circolate ufficialmente sul calendario dei set.",
+  "rilevanza": "Utile per chi pianifica acquisti e collezione a medio termine, sapendo che il ciclo set di Riftbound resta su cadenza trimestrale."
+ },
+ {
+  "id": "rift-2026-11-14-lor-subreddit-flair-rimossi",
+  "title": "Il subreddit di Legends of Runeterra rimuove i flair dedicati a Riftbound, traffico indirizzato alla community ufficiale",
+  "source": "r/LegendsOfRuneterra (via ricerca web 2026-11-14)",
   "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Oltre a riftbound.gg, anche Mobalytics pubblica e aggiorna periodicamente una propria tier list del gioco, segno che più siti di settore stanno investendo risorse editoriali su Riftbound, utile come secondo punto di riferimento per confrontare i giudizi sul meta.",
-  "rilevanza": "Due fonti indipendenti che tracciano il meta (riftbound.gg e Mobalytics) rendono più solide le letture sulle legend dominanti, riducendo il rischio di basarsi su un'unica fonte di parte."
+  "brief": "I moderatori di r/LegendsOfRuneterra hanno rimosso i flair dedicati a Riftbound dal subreddit, indirizzando le discussioni sul TCG verso la community Reddit dedicata al gioco. Segno che la separazione tra i due prodotti Riot si sta consolidando anche a livello di spazi di discussione.",
+  "rilevanza": "Indicazione pratica per chi cerca discussioni di community su Riftbound: i canali di riferimento si stanno spostando verso spazi propri, separati da quelli di Legends of Runeterra."
  }
 ]

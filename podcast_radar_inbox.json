@@ -1,116 +1,135 @@
 [
  {
-  "id": "podcast-2026-11-13-sky-voices-canale",
-  "title": "Sky lancia Sky Voices, il primo canale italiano dedicato solo ai video podcast",
-  "source": "Sorrisi.com (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
-  "target": 7,
-  "date": "2026-11-02",
-  "brief": "Dal 2 novembre 2026 è attivo Sky Voices, canale 118 di Sky e disponibile anche in streaming su NOW, interamente dedicato ai video podcast. È un segnale forte di quanto il formato video del podcast stia diventando mainstream anche in Italia, con una TV generalista che gli dedica un intero canale.",
-  "angles": [
-   "Se anche la TV lineare apre un canale di soli video podcast, il video non è più un optional",
-   "Cosa significa per un piccolo creator che un broadcaster nazionale validi il formato",
-   "Dalla nicchia al palinsesto: il percorso dei video podcast in Italia in due anni"
-  ],
-  "hooks": [
-   "Pensi ancora che il video podcast sia una moda passeggera? Sky gli ha appena dato un canale tutto suo.",
-   "Continui a registrare solo audio perché 'tanto in Italia il video non lo guarda nessuno'? C'è un canale Sky che dice il contrario.",
-   "Hai paura che il video podcast sia roba da americani? Da novembre c'è pure il canale 118 italiano."
-  ]
- },
- {
-  "id": "podcast-2026-11-13-nielsen-audible-18-5-milioni",
-  "title": "In Italia 18,5 milioni di ascoltatori di podcast nel 2026, +80% in un anno secondo NielsenIQ per Audible",
-  "source": "ItaliaOggi (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
-  "target": 8,
-  "date": "2026-11-10",
-  "brief": "Lo studio NielsenIQ realizzato per Audible stima 18,5 milioni di italiani che hanno ascoltato almeno un podcast nel 2026, con una crescita dell'80% rispetto all'anno precedente. Un report diverso (AGI, dati 2025) parlava di 15,5 milioni: i numeri variano secondo la metodologia, ma il trend di crescita è confermato da entrambe le fonti.",
-  "angles": [
-   "Il pubblico italiano dei podcast è quasi raddoppiato in un anno: il problema non è 'se' ascoltano, ma come farti trovare",
-   "Perché continuare a dire 'in Italia i podcast non li ascolta nessuno' oggi è semplicemente falso",
-   "Crescita di ascolto vs crescita di ricavi: perché in Italia il mercato pubblicitario resta indietro"
-  ],
-  "hooks": [
-   "Pensi che in Italia i podcast siano ancora una nicchia per quattro nerd? Sono quasi 19 milioni di persone, forse il problema è un altro.",
-   "Hai rimandato il lancio del tuo podcast perché 'qui non li ascolta nessuno'? I numeri 2026 ti smentiscono clamorosamente.",
-   "Aspetti che 'il mercato italiano del podcast maturi' prima di iniziare? È già cresciuto dell'80% l'anno scorso, stai aspettando il treno sbagliato."
-  ]
- },
- {
-  "id": "podcast-2026-11-13-spotify-apple-protocollo-video",
-  "title": "Spotify adotta il protocollo video di Apple Podcasts: un video, pubblicato una volta, visibile ovunque tranne YouTube",
-  "source": "eMarketer (via ricerca web 2026-11-13)",
+  "id": "podcast-2026-11-14-ipsos-41-percento",
+  "title": "Ipsos: il 41% degli italiani ha ascoltato un podcast nell'ultimo mese, su dal 39% del 2024",
+  "source": "Ipsos Digital Audio Survey (via ricerca web 2026-11-14)",
   "affidabilita": "secondaria",
   "target": 7,
   "date": null,
-  "brief": "Spotify ha annunciato l'adozione del protocollo Apple per i video podcast, permettendo di pubblicare un episodio video una volta sola e distribuirlo sia su Spotify che su Apple Podcasts tramite Spotify for Creators e Megaphone. YouTube resta fuori da questo standard comune e non offre una revenue share cross-piattaforma equivalente: per show piccoli e medi questo riduce drasticamente il lavoro di pubblicazione multipla.",
+  "brief": "La Ipsos Digital Audio Survey registra un aumento della fruizione podcast in Italia nella fascia 16-60 anni: dal 39% del 2024 al 41% più recente. Il dato si affianca, con metodologia diversa, a quello di NielsenIQ per Audible (18,5 milioni di ascoltatori), confermando comunque una crescita costante del pubblico italiano.",
   "angles": [
-   "Finisce l'incubo di esportare il video in tre formati diversi per tre piattaforme diverse",
-   "Perché Apple e Spotify si alleano proprio contro il 'giardino recintato' di YouTube",
-   "Cosa cambia in pratica per chi pubblica con Spotify for Creators o Megaphone"
+   "Il dato Ipsos (41%) e quello Nielsen/Audible (18,5 milioni) usano metodologie diverse: come leggerli senza confondere il pubblico",
+   "Perché 'in Italia nessuno ascolta i podcast' è una frase morta anche nel 2026",
+   "Cosa significa per chi punta a una nicchia italiana specifica, non al pubblico generalista"
   ],
   "hooks": [
-   "Passi ancora ore a esportare il video podcast in tre formati diversi per tre piattaforme diverse? Da ora potrebbe bastarne uno.",
-   "Odi dover scegliere tra Spotify e Apple Podcasts per il video? Hanno appena deciso di andare d'accordo, per una volta.",
-   "Pensi che YouTube sia l'unica piattaforma che conta per il video podcast? Spotify e Apple si sono appena alleate per farti cambiare idea."
+   "Pensi che il podcast in Italia sia ancora robaccia di nicchia? Il 41% degli italiani ne ha ascoltato uno solo nell'ultimo mese.",
+   "Hai ancora dubbi se vale la pena iniziare ora? Gli ascoltatori italiani sono passati dal 39 al 41% in un anno, mentre tu stai ancora decidendo.",
+   "Ti scoraggi pensando 'chi vuoi che mi ascolti'? Quasi la metà degli italiani tra 16 e 60 anni un podcast lo ascolta già."
   ]
  },
  {
-  "id": "podcast-2026-11-13-spotify-partner-program-sponsorship",
-  "title": "Spotify espande il Partner Program e lancia nuovi strumenti di sponsorizzazione per i creator video",
-  "source": "TheWrap (via ricerca web 2026-11-13)",
+  "id": "podcast-2026-11-14-nielsen-social-scoperta",
+  "title": "NielsenIQ per Audible: i social superano il passaparola come primo canale di scoperta dei podcast in Italia",
+  "source": "NielsenIQ per Audible (via ricerca web 2026-11-14)",
   "affidabilita": "secondaria",
-  "target": 8,
+  "target": 7,
   "date": null,
-  "brief": "Spotify ha abbassato le soglie di accesso al Partner Program (1.000 follower attivi, 2.000 ore di ascolto in 30 giorni) e ha introdotto nuovi strumenti di sponsorizzazione pensati per i creator video, mentre il consumo di video podcast sulla piattaforma è quasi raddoppiato. L'obiettivo dichiarato è competere direttamente con la monetizzazione di YouTube, offrendo una strada più accessibile a show piccoli e medi.",
+  "brief": "L'aggiornamento 2026 del monitoraggio NielsenIQ per Audible segnala che i social media sono diventati il primo canale attraverso cui gli italiani scoprono nuovi podcast, superando il passaparola. La durata media di una sessione di ascolto è di circa 27 minuti.",
   "angles": [
-   "Le soglie per monetizzare sono scese parecchio: fai i conti prima di dire che 'non ci arriverai mai'",
-   "Sponsorizzazioni dirette via piattaforma: un'alternativa reale al cercare sponsor a mano",
-   "Perché Spotify sta corteggiando proprio i creator video, non solo quelli solo audio"
+   "Social vs passaparola: dove spostare davvero il tempo di promozione nel 2026",
+   "27 minuti di sessione media: cosa puoi raccontare in quel tempo e cosa no",
+   "Perché la 'scoperta' conta più della 'qualità' se nessuno sa che esisti"
   ],
   "hooks": [
-   "Pensi che per entrare nel Partner Program ti servano numeri da star? Le soglie sono scese, forse ci sei già dentro.",
-   "Hai 50 ascoltatori affezionati e pensi che non bastino a niente per monetizzare? Spotify ha appena abbassato l'asticella apposta per te.",
-   "Stai ancora cercando sponsor scrivendo email a freddo? C'è un programma che ora te li porta un po' più vicino."
+   "Pensi che basti pubblicare e aspettare che qualcuno ti trovi? I social hanno appena superato il passaparola come primo modo in cui gli italiani scoprono un podcast.",
+   "Hai puntato tutto sul passaparola per farti conoscere? Oggi in Italia i social battono anche quello, forse è lì che devi spostare l'energia.",
+   "Credi che 27 minuti di ascolto medio siano pochi per farti ricordare? È più tempo di quanto pensi per raccontare chi sei."
   ]
  },
  {
-  "id": "podcast-2026-11-13-festival-podcasting-milano-10-anni",
-  "title": "Il Festival del Podcasting di Milano compie 10 anni: industry e creator sotto lo stesso tetto",
-  "source": "ItaliaOggi (via ricerca web 2026-11-13)",
+  "id": "podcast-2026-11-14-descript-ricerca-clip",
+  "title": "Descript lancia la ricerca di clip per frase ricordata nell'aggiornamento di novembre",
+  "source": "Descript Blog (via ricerca web 2026-11-14)",
+  "affidabilita": "primaria",
+  "target": 6,
+  "date": "2026-11-03",
+  "brief": "Descript ha pubblicato il 3 novembre un aggiornamento che introduce una funzione di ricerca: basta digitare una frase che si ricorda di aver detto per ritrovare la clip esatta in qualsiasi progetto, utile per chi lavora su episodi lunghi o archivi con molte registrazioni.",
+  "angles": [
+   "Piccoli aggiornamenti tool che fanno risparmiare ore reali di editing, non solo headline IA",
+   "Come cambia il flusso di lavoro se smetti di affidarti solo alla timeline visiva",
+   "Perché conviene seguire i changelog degli strumenti che già usi, non solo le novità eclatanti"
+  ],
+  "hooks": [
+   "Passi ancora minuti a scorrere la timeline cercando quella frase che hai detto tre episodi fa? Ora basta scriverla e Descript te la trova.",
+   "Odi riascoltare mezz'ora di registrazione solo per ritrovare un momento preciso? C'è una funzione nuova che fa il lavoro sporco per te.",
+   "Hai un archivio di puntate enorme e la memoria di un pesce rosso? Digita quello che ricordi di aver detto e salta dritto lì."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-14-audible-apple-rollout-expand",
+  "title": "L'integrazione Audible-Apple Podcasts si espande ad Australia, Giappone e Canada",
+  "source": "AbsoluteGeeks, MacRumors (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "target": 5,
+  "date": null,
+  "brief": "Dopo il lancio della 'connected subscription' che permette agli abbonati Audible di ascoltare oltre 700 podcast premium dentro l'app Apple Podcasts (già attiva in oltre 135 paesi), Audible annuncia l'espansione del servizio ad Australia, Giappone e Canada nelle prossime settimane. Riguarda solo i podcast, non gli audiolibri.",
+  "angles": [
+   "Cosa cambia per un podcast premium quando la distribuzione si allarga a nuovi mercati",
+   "La differenza tra integrazione di piattaforma e vera monetizzazione cross-platform",
+   "Perché queste alleanze tra big ridisegnano dove conviene investire la distribuzione"
+  ],
+  "hooks": [
+   "Pensi che l'integrazione Audible su Apple Podcasts riguardi solo gli USA? Sta arrivando anche in Australia, Giappone e Canada.",
+   "Hai un podcast premium e ti chiedi se vale la pena stare su Apple? Più paesi si aggiungono a questo accordo, più pubblico potenziale c'è.",
+   "Ti sei perso l'uscita di questa integrazione a giugno? Si sta ancora espandendo, quindi non è troppo tardi per informarti."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-14-youtube-ai-clip-podcast",
+  "title": "YouTube estende ai video podcaster USA i clip generati automaticamente dall'IA",
+  "source": "TechCrunch e aggregatori di settore (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": null,
+  "brief": "YouTube amplia ai creator di video podcast statunitensi la funzione di generazione automatica di clip via IA, dopo un primo rilascio limitato a podcaster selezionati; in parallelo offre ai podcast solo audio uno strumento per generare un video personalizzato a partire dall'audio.",
+  "angles": [
+   "L'IA che genera clip al posto tuo: quanto tempo libera davvero e cosa resta da editare a mano",
+   "Audio-to-video automatico: una scorciatoia onesta o un video 'povero' che penalizza la scoperta",
+   "Perché queste funzioni partono sempre da pochi creator selezionati e cosa significa aspettare il rollout"
+  ],
+  "hooks": [
+   "Passi ore a tagliare clip dal tuo episodio per i social? YouTube vuole farlo per te, con l'IA, se fai video podcast negli USA.",
+   "Hai solo audio e pensi che il video non sia per te? YouTube sta testando uno strumento che te lo genera da solo.",
+   "Aspetti ancora che qualcuno ti spieghi come usare l'IA per promuovere il podcast? Una funzione per i clip automatici è già in rollout."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-14-spotify-video-lockin-warning",
+  "title": "Spotify avvisa i creator: la distribuzione video tramite hosting esterno può creare un lock-in",
+  "source": "Podnews (via ricerca web 2026-11-14)",
   "affidabilita": "secondaria",
   "target": 6,
   "date": null,
-  "brief": "Il Festival del Podcasting, l'evento italiano di riferimento per il settore con base a Milano, arriva alla decima edizione, articolata su due giornate con identità differenti: una più industry/business, una più rivolta ai creator e al pubblico. È uno dei pochi momenti italiani in cui editori, piattaforme e singoli podcaster si incontrano fisicamente.",
+  "brief": "Durante l'iscrizione alla distribuzione video, Spotify avverte i creator che collegano il proprio hosting esterno di un possibile effetto di lock-in verso quella piattaforma di hosting; Spotify sostiene che non sia permanente, ma la segnalazione arriva proprio mentre l'azienda promuove Spotify for Creators come hosting consigliato.",
   "angles": [
-   "Un decennio di podcasting italiano raccontato attraverso il suo festival più longevo",
-   "Perché andare a un evento di settore vale più di dieci tutorial su YouTube",
-   "Industry vs creator: due giornate, due pubblici, due modi di vivere lo stesso mestiere"
+   "Leggere gli avvisi in piccolo prima di cliccare 'accetta': un'abitudine da costruire fin dal primo episodio",
+   "Hosting e distribuzione video: perché non sono la stessa decisione",
+   "Cosa chiedere al tuo host attuale prima di attivare funzioni cross-piattaforma"
   ],
   "hooks": [
-   "Pensi che il podcasting italiano sia troppo piccolo per avere un suo festival serio? Questo è già alla decima edizione.",
-   "Hai sempre fatto tutto da solo senza mai conoscere altri podcaster dal vivo? Un evento così esiste apposta per smettere.",
-   "Credi che per 'contare' nel settore serva lavorare per una grande piattaforma? Al festival di Milano ci sono anche i piccoli, non solo l'industry."
+   "Stai per collegare il tuo hosting a Spotify per il video? Spotify stessa ti avvisa di un possibile effetto lock-in.",
+   "Pensi che cambiare host dopo sia sempre facile? Leggi bene l'avviso prima di attivare la distribuzione video.",
+   "Ti fidi ciecamente di ogni passaggio guidato in fase di iscrizione? Questo è uno di quelli da leggere con attenzione, non da clickare via."
   ]
  },
  {
-  "id": "podcast-2026-11-13-apple-video-25percento-sessioni",
-  "title": "Apple Podcasts: chi ha aggiunto il video ha visto le sessioni settimanali crescere del 25%",
-  "source": "Acast beta report (via ricerca web 2026-11-13)",
-  "affidabilita": "primaria",
-  "target": 7,
+  "id": "podcast-2026-11-14-errori-posizionamento-microfono",
+  "title": "Posizionare bene il microfono vale l'80% del risultato, anche più del modello che usi",
+  "source": "RØDE e guide tecniche di registrazione vocale (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "target": 8,
   "date": null,
-  "brief": "Secondo un report beta di Acast, gli show che hanno aggiunto il video su Apple Podcasts nell'arco di quattro mesi hanno registrato un aumento stimato del 25% nelle sessioni di ascolto settimanali. È un dato di parte (viene dalla piattaforma che vende lo strumento), ma coerente con il trend generale verso il video osservato anche su Spotify e YouTube.",
+  "brief": "Diverse guide tecniche su registrazione vocale concordano: l'errore più comune dei principianti non è il modello di microfono ma la sua posizione e l'ambiente di registrazione. RØDE indica che il corretto posizionamento rappresenta circa l'80% del lavoro per un buon audio, più di quanto pesi la scelta tra USB (più semplice, adatto ai principianti) e XLR (preferito dai professionisti).",
   "angles": [
-   "Un numero concreto per decidere se vale la pena accendere la telecamera anche per Apple Podcasts",
-   "Perché il video aiuta la scoperta anche su una piattaforma 'storicamente solo audio'",
-   "Da leggere con cautela: è un dato di chi vende il servizio, ma il trend è confermato altrove"
+   "Budget piccolo, posizionamento giusto: perché conta più di quanto pensi",
+   "USB vs XLR: la vera domanda da farsi prima di spendere",
+   "Perché il trattamento acustico della stanza batte l'upgrade del microfono, quasi sempre"
   ],
   "hooks": [
-   "Continui a pensare che su Apple Podcasts il video non serva a niente? Chi l'ha provato ha visto crescere gli ascolti di un quarto.",
-   "Hai paura che accendere la telecamera sia tempo buttato? Un dato recente dice che le sessioni salgono del 25%, non calano.",
-   "Pensi che Apple Podcasts sia rimasto 'solo audio per sempre'? Anche lì il video comincia a muovere i numeri."
+   "Hai appena comprato il microfono più costoso che potevi permetterti? Se lo posizioni male, hai buttato l'80% del lavoro.",
+   "Pensi che USB o XLR sia la scelta che conta davvero? Conta molto più dove metti il microfono rispetto alla tua bocca.",
+   "Continui a incolpare il microfono per un audio brutto? Il problema spesso è la stanza, non lo strumento."
   ]
  }
 ]

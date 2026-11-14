@@ -1,56 +1,57 @@
 [
  {
-  "id": "nerd-2026-11-13-mgw-cartoomics-2026",
-  "title": "Milan Games Week & Cartoomics 2026: dal 27 al 29 novembre a Fiera Milano Rho",
-  "source": "Multiplayer.it, TicketOne (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "tipo": "fiera",
-  "brief": "La fiera milanese dedicata a fumetti, giochi da tavolo, videogiochi ed eSport si terrà a Fiera Milano Rho dal 27 al 29 novembre 2026, con biglietti già in vendita da tempo; confermata la presenza di Sergio Bonelli Editore per i 40 anni di Dylan Dog."
- },
- {
-  "id": "nerd-2026-11-13-dnd-world-of-warcraft",
-  "title": "Dungeons & Dragons annuncia il crossover con World of Warcraft (progetto \"Mondi Altrove\")",
-  "source": "AnimeClick (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Dopo gli annunci della Gen Con 2026, parte a novembre l'iniziativa 'Mondi Altrove' che lancia un crossover tra Dungeons & Dragons e World of Warcraft, sviluppato insieme a Blizzard, oltre a materiale annunciato per Star Wars.",
-  "tipo": "gioco di ruolo"
- },
- {
-  "id": "nerd-2026-11-13-gta6-preload",
-  "title": "GTA VI: pre-caricamento digitale anticipato, lancio confermato per il 19 novembre",
-  "source": "Rockstar Newswire (via ricerca web 2026-11-13)",
+  "id": "nerd-2026-11-14-nintendo-direct-novembre",
+  "title": "Nintendo Direct del 9 novembre: nuovo Metroid 2D, aggiornamento Mario Kart World e reveal Kirby",
+  "source": "TechRadar (via ricerca web 2026-11-14)",
   "affidabilita": "primaria",
-  "date": "2026-11-10",
+  "date": "2026-11-09",
   "tipo": "videogioco",
-  "brief": "Rockstar ha anticipato di due giorni l'apertura del pre-load digitale di GTA VI su PS5 e Xbox Series X|S, al 10 novembre (le copie fisiche con codice partono dal 12). Il file pesa fino a 212 GB; il lancio resta fissato per il 19 novembre 2026, confermato da più fonti indipendenti."
+  "brief": "Il Nintendo Direct del 9 novembre 2026 ha confermato un nuovo capitolo 2D della serie Metroid, un aggiornamento a sorpresa per Mario Kart World e un reveal dedicato a Kirby, rilanciando l'attenzione sui prossimi annunci Switch in vista delle feste.",
+  "angles_disclaimer": null
  },
  {
-  "id": "nerd-2026-11-13-bggcon-dallas",
-  "title": "BGG.Con 2026 in programma a Dallas dal 18 al 22 novembre",
-  "source": "BoardGameWire (via ricerca web 2026-11-13)",
+  "id": "nerd-2026-11-14-halo-campaign-evolved-retail",
+  "title": "HALO: Campaign Evolved di Mantic Games arriva in negozio il 14 novembre",
+  "source": "ICv2 (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-14",
+  "tipo": "gioco da tavolo",
+  "brief": "Mantic Games porta oggi, 14 novembre 2026, nei negozi HALO: Campaign Evolved, il gioco da tavolo basato sulla serie videoludica annunciato a giugno 2026: segna l'arrivo definitivo sul mercato retail dopo mesi di attesa dagli annunci iniziali."
+ },
+ {
+  "id": "nerd-2026-11-14-dc-superheroes-united-asmodee",
+  "title": "DC Super Heroes United Core Box di CMON e Spin Master in uscita retail il 13 novembre con Asmodee",
+  "source": "ICv2 (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-13",
+  "tipo": "gioco da tavolo",
+  "brief": "Asmodee distribuisce da ieri, 13 novembre, il DC Super Heroes United Core Box, gioco da tavolo prodotto da CMON insieme a Spin Master Games: un nuovo esempio di collaborazione tra grande editore di giochi e licenza supereroistica mainstream."
+ },
+ {
+  "id": "nerd-2026-11-14-yugioh-magnificent-maestros",
+  "title": "Yu-Gi-Oh! Magnificent Maestros: nuovo set TCG da 125 carte disponibile dal 13 novembre",
+  "source": "ICv2 (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-13",
+  "tipo": "gioco di carte collezionabili",
+  "brief": "Konami ha messo in vendita dal 13 novembre 2026 il nuovo set Yu-Gi-Oh! Magnificent Maestros, composto da 125 carte: un'uscita che interessa sia il pubblico competitivo che i collezionisti del TCG."
+ },
+ {
+  "id": "nerd-2026-11-14-witcher-gamefound",
+  "title": "Il gioco da tavolo di The Witcher firmato Go On Board e CD Projekt Red debutta su Gamefound il 25 novembre",
+  "source": "ICv2 (via ricerca web 2026-11-14)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-25",
+  "tipo": "gioco da tavolo",
+  "brief": "Go On Board, in collaborazione con CD Projekt Red, lancerà il 25 novembre 2026 su Gamefound la campagna di crowdfunding per il gioco da tavolo ufficiale ambientato nell'universo di The Witcher, uno dei progetti più attesi dalla community di boardgamer legati ai videogiochi."
+ },
+ {
+  "id": "nerd-2026-11-14-bggcon-dallas-countdown",
+  "title": "BGG.Con 2026 a Dallas dal 18 al 22 novembre: countdown agli ultimi giorni prima dell'evento",
+  "source": "BoardGameWire (via ricerca web 2026-11-14)",
   "affidabilita": "secondaria",
   "date": "2026-11-18",
   "tipo": "fiera",
-  "brief": "La convention annuale organizzata dalla community di BoardGameGeek si terrà a Dallas (USA) dal 18 al 22 novembre 2026: è uno degli appuntamenti più seguiti da autori ed editori di giochi da tavolo per playtest e networking."
- },
- {
-  "id": "nerd-2026-11-13-steam-tabletop-fest",
-  "title": "Steam Digital Tabletop Fest 2026 in corso fino al 15 novembre",
-  "source": "NAG (via ricerca web 2026-11-13)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-09",
-  "tipo": "evento",
-  "brief": "Valve ospita su Steam il Digital Tabletop Fest 2026, con oltre 120 adattamenti digitali di giochi da tavolo in sconto fino al 15 novembre 2026, occasione di visibilità per gli editori con trasposizioni digitali dei propri titoli."
- },
- {
-  "id": "nerd-2026-11-13-football-manager-27",
-  "title": "Football Manager 27 in uscita il 10 novembre",
-  "source": "EveryEye (via ricerca web 2026-11-13)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-10",
-  "tipo": "videogioco",
-  "brief": "Secondo EveryEye, Football Manager 27 è uscito il 10 novembre 2026; dato da verificare direttamente sul sito ufficiale perché proveniente da un singolo aggregatore di uscite."
+  "brief": "Manca meno di una settimana a BGG.Con 2026, la convention organizzata dalla community di BoardGameGeek a Dallas dal 18 al 22 novembre: tra gli appuntamenti più seguiti da autori ed editori per playtest e networking prima della stagione natalizia."
  }
 ]
