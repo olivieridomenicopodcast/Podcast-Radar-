@@ -1,56 +1,56 @@
 [
  {
-  "id": "rift-2026-11-15-ban-friday-ancora-non-confermato",
-  "title": "Il teaser di Dave Guskin su un nuovo giro di ban resta senza seguito ufficiale",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
+  "id": "rift-2026-11-16-ban-list-novembre",
+  "title": "Riftbound: nuova ondata di ban annunciata il 13 novembre, in vigore dal 23",
+  "source": "Star City Games, riftbound.gg, riftbound.zone, Yahoo Tech, Rolling Out (via ricerca web 2026-11-16)",
+  "affidabilita": "secondaria",
   "date": "2026-11-13",
-  "brief": "Il game director Dave Guskin aveva anticipato sui social un possibile annuncio sui ban in Constructed per venerdì 13 novembre, dopo la fine dell'Europe Regional Championship di Stoccarda. Alla data di questa ricerca non risulta ancora pubblicato un comunicato ufficiale con l'elenco delle carte coinvolte: il teaser resta un teaser, senza lista di ban confermata.",
-  "rilevanza": "Chi gioca competitivo deve continuare a monitorare i canali ufficiali Riftbound prima di investire tempo su un mazzo che potrebbe diventare illegale a breve."
+  "brief": "Riot ha annunciato una nuova lista di carte e campi di battaglia banditi da Standard e 2v2 Constructed, in vigore dal 23 novembre 2026. Tra i bersagli principali risultano Riven, Nocturne, Zhonya's Hourglass e la carta Dazzling Aurora di Kai'Sa, insieme ai campi di battaglia Emperor's Dais e Star Spring. Le fonti divergono sul conteggio esatto: il titolo di Star City Games parla di '10 carte bandite', mentre altre fonti (Rolling Out, Polkastarter) riportano 8 carte più 2 campi di battaglia.",
+  "rilevanza": "Chi gioca in Standard o 2v2 Constructed deve aggiornare il mazzo prima del 23 novembre; il ban arriva a pochi giorni dal North American Regional Championship di Convergence Fest (11-13 dicembre, Las Vegas) e ridisegna il meta competitivo in vista di quell'evento."
  },
  {
-  "id": "rift-2026-11-15-settembre-resta-ultimo-ban-ufficiale",
-  "title": "L'ultimo ban ufficiale confermato resta quello di Ekko, Recurrent e Stacked Deck del 18 settembre",
-  "source": "playriftbound.com (via ricerca web 2026-11-15)",
+  "id": "rift-2026-11-16-riven-dominanza-stoccarda",
+  "title": "Riven al 43% dei mazzi al Regional Championship Europa di Stoccarda: la causa del ban",
+  "source": "riftbound.gg (analisi) e riftdecks.com (tabulati torneo) (via ricerca web 2026-11-16)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "Un'analisi di riftbound.gg, incrociata con i tabulati di riftdecks.com, riporta che Riven, l'Esiliata ha raggiunto il 43,3% dei mazzi iscritti nello Standard Challenge della domenica al Regional Championship Europa di Stoccarda (6-8 novembre 2026), con Kai'Sa e Kennen a completare un podio di popolarità molto distante dal resto del campo. Questo dato viene citato come la ragione principale dietro l'ondata di ban annunciata pochi giorni dopo.",
+  "rilevanza": "Spiega concretamente perché Riven è stata colpita dal ban e aiuta chi segue le tier list a capire quali archetipi guadagneranno spazio nel metagame post-ban."
+ },
+ {
+  "id": "rift-2026-11-16-guskin-annuncio-ban",
+  "title": "Il Game Director Dave Guskin anticipa sui social i nuovi ban dopo l'Europeo",
+  "source": "riftbound.gg (via ricerca web 2026-11-16)",
+  "affidabilita": "segnale debole",
+  "date": null,
+  "brief": "Secondo riftbound.gg, Dave Guskin, Game Director di Riftbound in Riot Games, ha pubblicato sui social un messaggio in cui anticipava un possibile annuncio di ban 'per venerdì', legato al metagame del momento e alla conclusione del Regional Championship Europa di Stoccarda. L'annuncio ufficiale dei ban è poi arrivato di venerdì 13 novembre. Non è stato possibile reperire il post originale su un canale social ufficiale per una verifica di prima mano.",
+  "rilevanza": "Segnale utile per chi vuole anticipare le mosse di bilanciamento di Riot dopo i grandi eventi competitivi, ma resta non confermato da fonti primarie dirette."
+ },
+ {
+  "id": "rift-2026-11-16-worlds-2026-edition-drawing",
+  "title": "Finestra di registrazione per il drawing di Riftbound x Worlds 2026 Edition e T1 Player Bundle",
+  "source": "playriftbound.com, pagina ufficiale \"Riftbound's 2026 Drawings\" (via ricerca web 2026-11-16)",
   "affidabilita": "primaria",
-  "date": "2026-09-18",
-  "brief": "In assenza di un nuovo comunicato, il riferimento ufficiale più recente resta il ban di Ekko, Recurrent e Stacked Deck in Standard e 2v2 Constructed, introdotto il 18 settembre 2026 per una combo giudicata troppo rischiosa per l'equilibrio del gioco.",
-  "rilevanza": "Base di partenza per chi deve costruire un mazzo oggi: finché non arriva un comunicato nuovo, le regole in vigore sono ancora queste."
+  "date": "2026-11-13",
+  "brief": "La pagina ufficiale dei drawing Riot per il 2026 indica una finestra di registrazione dal 13 al 16 novembre 2026 per il sorteggio d'acquisto del T1 2025 Worlds Champion Player Bundle (70$) e della Riftbound x Worlds 2026 Edition (80$); le prime email ai vincitori sono previste per il 17 novembre, con 24 ore di finestra d'acquisto da quel momento.",
+  "rilevanza": "Interesse diretto per i collezionisti: la finestra di registrazione per questi prodotti a tiratura limitata legati ai Worlds di League of Legends si chiude proprio oggi/domani."
  },
  {
-  "id": "rift-2026-11-15-tierlist-riven-s-kennen-sfidante",
-  "title": "Tier list riftbound.gg (torneo 30 ottobre-4 novembre): Riven domina il Tier S, Kennen si confirma la principale sfidante",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-04",
-  "brief": "L'ultima tier list di riftbound.gg, basata sui torneo della settimana 30 ottobre-4 novembre, mette Riven in Tier S con 5 vittorie e 16 top cut; Kennen resta in Tier 1 con 10 top cut (ma zero vittorie di torneo), descritta come la legend meglio posizionata per battere Riven grazie a mazzi costruiti apposta contro Kai'Sa.",
-  "rilevanza": "Segnale utile per chi deve scegliere un mazzo in vista dei prossimi eventi di dicembre: Riven resta il bersaglio da battere, Kennen la sfidante più solida sul piano dei top cut."
- },
- {
-  "id": "rift-2026-11-15-riftdecks-vs-riftboundgg-metashare",
-  "title": "Due fonti non sono d'accordo su chi domini il meta: Kennen prima per metashare, Riven per top cut",
-  "source": "RiftDecks, riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "rift-2026-11-16-legacy-preview-date-discrepanza",
+  "title": "Date discordanti per le prime anteprime di Riftbound: Legacy al Convergence Fest",
+  "source": "Shonen TCG, playriftbound.com, cardcosmos.de (via ricerca web 2026-11-16)",
+  "affidabilita": "segnale debole",
   "date": null,
-  "brief": "RiftDecks, che pesa i mazzi per quota di metagame (metashare), indica Kennen come legend più giocata (circa 13% dei mazzi, 15 liste) davanti a Riven (circa 8%, 10 liste); riftbound.gg, che pesa invece le vittorie e i top cut nei torneo principali, mette Riven in testa. Le due classifiche misurano cose diverse e quindi non vanno lette come contraddittorie.",
-  "rilevanza": "Promemoria pratico per chi segue il meta: 'la legend più forte' dipende dalla metrica usata (quanti la giocano vs quanti vincono con lei), non è un dato unico e assoluto."
+  "brief": "In vista del Convergence Fest di Las Vegas, dove debutteranno le prime carte del sesto set Riftbound: Legacy (uscita fissata al 29 gennaio 2027, con Pre-Rift events dal 22 al 28 gennaio), le fonti non concordano sulle date esatte dell'evento: pagine ufficiali più recenti indicano 13-15 dicembre 2026, mentre annunci precedenti di Riot e siti di settore parlano di 11-13 dicembre 2026. Anche il conteggio totale delle carte del set varia (239, 346 o 364 secondo le fonti).",
+  "rilevanza": "Chi pianifica di seguire le anteprime o partecipare all'evento deve verificare la data sul sito ufficiale prima di organizzarsi; la discrepanza sul numero di carte rende incerta per ora la portata reale del nuovo set."
  },
  {
-  "id": "rift-2026-11-15-legacy-data-discordante",
-  "title": "Due fonti diverse non concordano sulla data di uscita di Riftbound: Legacy (29 gennaio o 30 aprile 2027)",
-  "source": "Riot Games/playriftbound.com, Bleeding Cool (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "rift-2026-11-16-nessuna-discussione-reddit-verificata",
+  "title": "Nessuna discussione verificabile su r/riftbound nelle ultime 48 ore",
+  "source": "ricerca web diretta su Reddit e motori di ricerca (via ricerca web 2026-11-16)",
+  "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Il sesto set, Riftbound: Legacy, viene indicato da fonti vicine a Riot come in uscita il 29 gennaio 2027, con prima anteprima al Convergence Fest (11-13 dicembre 2026); Bleeding Cool riporta invece la data del 30 aprile 2027, che secondo altre fonti sarebbe quella di un set successivo (The Reckoning). Le due date non sono state riconciliate nelle fonti consultate.",
-  "rilevanza": "Chi pianifica acquisti o un torneo legato a un nuovo set dovrebbe verificare la data sul canale ufficiale Riot prima di fare programmi, visto il disaccordo tra fonti."
- },
- {
-  "id": "rift-2026-11-15-regional-nordamerica-dicembre",
-  "title": "Il Regional Championship del Nord America è fissato per dicembre 2026, dopo quello europeo di Stoccarda",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Dopo l'Europe Regional Championship di Stoccarda (6-8 novembre 2026), il prossimo grande evento del circuito competitivo è il Regional Championship del Nord America, in programma a dicembre 2026; non è stata reperita in questa ricerca una data esatta del giorno.",
-  "rilevanza": "Evento da seguire per chi vuole capire se il meta post-Riven/Kennen cambierà con un pool di giocatori diverso da quello europeo."
+  "brief": "La ricerca diretta non ha restituito thread specifici di r/riftbound sulla nuova ondata di ban o su altri temi delle ultime 48 ore. Gli annunci ufficiali di Riot indirizzano i fan a Discord e Reddit per la discussione, ma non è stato possibile verificare contenuti recenti del subreddit tramite i motori di ricerca disponibili in questa sessione.",
+  "rilevanza": "Nota di trasparenza: il sentiment della community sul nuovo ban è qui dedotto da siti di settore (riftbound.gg, riftdecks.com), non da post Reddit verificati direttamente."
  }
 ]

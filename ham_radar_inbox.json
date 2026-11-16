@@ -1,50 +1,58 @@
 [
  {
-  "id": "ham-2026-11-15-vk9xy-christmas-island-start",
-  "title": "VK9XY attiva da Christmas Island da domani 16 novembre fino al 4 dicembre",
-  "source": "Pacific Islands DXpedition Group, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "ham-2026-11-16-vk9xy-christmas-island",
+  "title": "Parte oggi la DXpedition VK9XY a Christmas Island (OC-002)",
+  "source": "Wireless Institute of Australia, 425 DX News, DXZone (via ricerca web 2026-11-16)",
+  "affidabilita": "primaria",
   "date": "2026-11-16",
-  "brief": "Il Pacific Islands DXpedition Group, con il programma Youth on the Air, inizia domani 16 novembre l'attivazione di Christmas Island (VK9X) con il nominativo VK9XY, in programma fino al 4 dicembre 2026: coprirà anche il weekend del CQ WW DX CW del 28-29 novembre."
+  "brief": "Il Pacific Islands DXpedition Group, in collaborazione con Youth on the Air, attiva Christmas Island come VK9XY dal 16 novembre al 4 dicembre 2026. Tre fonti indipendenti (WIA, 425 DX News, DXZone) confermano le stesse date; circa 40 operatori giovani in tutto il mondo partecipano anche in modalità remota. QSL via OQRS di M0OXO."
  },
  {
-  "id": "ham-2026-11-15-zk3-tokelau-annuncio",
-  "title": "ZK3 Tokelau: Perseverance DX Group annuncia l'attivazione per le ultime due settimane di novembre",
-  "source": "DX-World.net, dxnews.com (via ricerca web 2026-11-15)",
+  "id": "ham-2026-11-16-3x4u-guinea",
+  "title": "DXpedition 3X4U in Guinea attiva, ma le fonti non concordano sulle date esatte",
+  "source": "DXZone, DX-World.net (via ricerca web 2026-11-16)",
   "affidabilita": "secondaria",
   "date": null,
-  "brief": "Il Perseverance DX Group insieme al Western Washington DX Club conferma che il team sarà sull'atollo di Tokelau nelle ultime due settimane di novembre 2026, ma le date esatte restano da fissare in base al calendario delle navi dell'ufficio trasporti locale: uno dei DXCC più richiesti al mondo."
+  "brief": "Il Rockall DX Group belga opera come 3X4U dal Lac de Koba, in Guinea. DXZone indica il periodo 10-24 novembre 2026, mentre un report citato da DX-World.net parla di 11-23 novembre: le date non sono concordanti tra le fonti. Al 16 novembre la DXpedition dovrebbe comunque essere in corso secondo entrambe le versioni."
  },
  {
-  "id": "ham-2026-11-15-v63jx-chuuk-micronesia",
-  "title": "V63JX attivo da Chuuk, Micronesia, dal 26 al 30 novembre",
-  "source": "cq.sk, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-26",
-  "brief": "L'operatore JR3RIU sarà attivo come V63JX da Chuuk, in Micronesia, dal 26 al 30 novembre 2026: nuova opportunità DX che si aggiunge al calendario già denso di operazioni Pacifiche di fine mese, nei giorni immediatamente precedenti al CQ WW DX CW."
- },
- {
-  "id": "ham-2026-11-15-kh8a-samoa-conclusione",
-  "title": "KH8A conclude oggi la sua attivazione da American Samoa iniziata il 29 ottobre",
-  "source": "cq.sk, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-13",
-  "brief": "Il team tedesco attivo come KH8A da American Samoa ha operato dal 29 ottobre al 13 novembre 2026; i log e la richiesta QSL saranno gestiti tramite il sito ufficiale della spedizione. Utile riferimento per chi deve ancora verificare i propri collegamenti prima della chiusura dei log."
- },
- {
-  "id": "ham-2026-11-15-cqww-cw-countdown",
-  "title": "CQ WW DX Contest CW: conto alla rovescia, si parte il 28 novembre alle 00:00 UTC",
-  "source": "cqww.com, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-28",
-  "brief": "Il regolamento ufficiale 2026 confirma che la sessione CW del CQ World Wide DX Contest si tiene dal 28 al 29 novembre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica: mancano meno di due settimane, periodo in cui diverse DXpedition Pacifiche (VK9XY, ZK3, V63JX) saranno ancora attive e raggiungibili."
- },
- {
-  "id": "ham-2026-11-15-kenwood-tm-d750e-date-contrastanti",
-  "title": "Kenwood TM-D750E: le date di uscita europea restano contrastanti tra i rivenditori",
-  "source": "cq.sk, Wimo, Limmared (via ricerca web 2026-11-15)",
+  "id": "ham-2026-11-16-zk3-tokelau-annuncio",
+  "title": "ZK3 Tokelau: DXpedition annunciata per la seconda metà di novembre, date precise non ancora fissate",
+  "source": "cq.sk, qsl.net (via ricerca web 2026-11-16)",
   "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Sul nuovo mobile VHF/UHF Kenwood TM-D750E (doppio ricevitore, D-Star, APRS/GPS), i rivenditori europei danno indicazioni diverse: Wimo lo segnala 'disponibile a breve' senza prezzo fissato, mentre un altro negozio online indica settembre 2026 come finestra di arrivo, superata senza che il prodotto sia ancora regolarmente disponibile. La certificazione FCC per la versione USA risulta ottenuta a inizio 2026."
+  "brief": "Perseverance DX Group e Western Washington DX Club pianificano un'attivazione di Tokelau (ZK3) nelle ultime due settimane di novembre 2026, con una permanenza di circa 14 giorni. Le date esatte di arrivo non sono ancora state confermate pubblicamente al 16 novembre."
+ },
+ {
+  "id": "ham-2026-11-16-kh8a-samoa-conclusa",
+  "title": "Si è appena conclusa la DXpedition KH8A ad American Samoa",
+  "source": "cq.sk / DX Cluster, Club Log (via ricerca web 2026-11-16)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-13",
+  "brief": "Un team tedesco ha operato come KH8A da American Samoa dal 29 ottobre al 13 novembre 2026, con spot tracciati su DX Cluster e log su Club Log. L'informazione proviene da una sola fonte diretta trovata nella ricerca, quindi va considerata un segnale da confermare con altre fonti."
+ },
+ {
+  "id": "ham-2026-11-16-cqww-cw-contest",
+  "title": "CQ WW DX Contest CW: appuntamento confermato per il 28-29 novembre 2026",
+  "source": "cqww.com (sito ufficiale e pagina regole), DXZone (via ricerca web 2026-11-16)",
+  "affidabilita": "primaria",
+  "date": "2026-11-28",
+  "brief": "Il sito ufficiale cqww.com e il relativo regolamento (aggiornato al 5 settembre 2026) confermano l'edizione CW del CQ World Wide DX Contest dal 28 al 29 novembre 2026, 0000-2359 UTC. La data è confermata anche da DXZone, quindi il segnale è solido."
+ },
+ {
+  "id": "ham-2026-11-16-propagazione-g1-coronal-hole",
+  "title": "Possibile tempesta geomagnetica minore (G1) il 17-18 novembre per flusso da buco coronale ricorrente",
+  "source": "SpaceWeatherLive, Watchers.news (citando previsione NOAA a 27 giorni) (via ricerca web 2026-11-16)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-17",
+  "brief": "Dopo tempeste G1 minori registrate l'8-9 novembre 2026 per un flusso ad alta velocità da un ampio buco coronale, la previsione NOAA a 27 giorni (emessa il 9 novembre e ripresa da Watchers.news l'11 novembre) indica condizioni geomagnetiche da agitate ad attive tra il 16 e il 19 novembre, con possibile tempesta G1 il 17-18 novembre per la ricorrenza dello stesso buco coronale. Essendo una previsione e non un evento già osservato nelle ultime 48 ore, va trattata con cautela per gli effetti su propagazione HF (assorbimento polare, condizioni instabili sulle rotte ad alta latitudine)."
+ },
+ {
+  "id": "ham-2026-11-16-iaru-r3-ardf-giappone",
+  "title": "Si sono conclusi i Campionati IARU Region 3 di ARDF in Giappone",
+  "source": "IARU Region 3 (via ricerca web 2026-11-16)",
+  "affidabilita": "primaria",
+  "date": "2026-11-14",
+  "brief": "I 12th IARU Region 3 ARDF Championships (radiogoniometria amatoriale) si sono svolti dal 6 al 14 novembre 2026 nella regione del Kansai, Giappone, come evento ufficiale IARU Region 3. Rientra tra le attività organizzative/regolamentari IARU recenti, distinto dalle questioni di normativa spettrale (es. WRC-27) che restano in fase di preparazione."
  }
 ]

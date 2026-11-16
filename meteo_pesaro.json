@@ -1,38 +1,45 @@
 {
- "aggiornato": "2026-11-15",
+ "aggiornato": "2026-11-16",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.youmeteo.com/meteo/pesaro/", "https://www.3bmeteo.com/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723", "https://allertameteo.regione.marche.it", "https://meteo.regione.marche.it"],
+ "fonti": [
+  "https://www.3bmeteo.com/meteo/pesaro",
+  "https://www.ilmeteo.it/meteo/pesaro",
+  "https://www.meteo.it/meteo/pesaro-41044",
+  "https://www.youmeteo.com/meteo/pesaro/",
+  "https://allertameteo.regione.marche.it",
+  "https://meteo.regione.marche.it"
+ ],
  "previsioni": [
-  {
-   "data": "2026-11-15",
-   "giorno": "domenica",
-   "temp_min_c": 6,
-   "temp_max_c": 11,
-   "condizioni": "Giornata fresca con pioggia debole/cielo parzialmente nuvoloso. Dato convergente da più fonti (Youmeteo, 3BMeteo, Meteoeradar): min 6°C, max 10-11°C, pioggia debole o possibile pioggia da ovest.",
-   "vento": "Moderato, 9-15 km/h da NNE/WNW (3BMeteo) o ENE (Youmeteo), raffiche fino a 24 km/h",
-   "mare": "dato non reperito",
-   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per il 15 novembre 2026 nei risultati di ricerca disponibili"
-  },
   {
    "data": "2026-11-16",
    "giorno": "lunedì",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: le ricerche non hanno restituito uno snippet datato in modo inequivocabile al 16 novembre 2026 (i bollettini regionali trovati erano di anni precedenti)",
-   "vento": "dato non reperito",
+   "condizioni": "dato non reperito con certezza (fonti discordanti: tendenza generale a cielo nuvoloso/variabile, possibili piogge sparse, ma valori numerici non confermabili)",
+   "vento": "dato non reperito con certezza (una fonte indica venti da ovest-nordovest con raffiche moderate, altra fonte indica vento debole; non confermabile)",
    "mare": "dato non reperito",
-   "allerta": "dato non reperito per questa data specifica"
+   "allerta": "nessuna allerta ufficiale della Protezione Civile Marche datata 16 novembre 2026 è stata reperita; impossibile verificare direttamente il portale allertameteo.regione.marche.it per blocco di rete sulla sessione"
   },
   {
    "data": "2026-11-17",
    "giorno": "martedì",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: nessuna fonte consultata restituiva uno snippet datato in modo inequivocabile al 17 novembre 2026",
+   "condizioni": "dato non reperito con certezza",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
-   "allerta": "dato non reperito per questa data specifica"
+   "allerta": "nessun bollettino ufficiale datato 17 novembre 2026 reperito"
+  },
+  {
+   "data": "2026-11-18",
+   "giorno": "mercoledì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "dato non reperito con certezza",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "nessun bollettino ufficiale datato 18 novembre 2026 reperito"
   }
  ],
- "note": "WebFetch non disponibile in questa sessione cloud per ilmeteo.it, 3bmeteo.com, meteoblue.com e ilrestodelcarlino.it (host non risolvibile per policy di rete), quindi i dati provengono solo da snippet di ricerca web. Per oggi (15 novembre) più fonti indipendenti convergono su una giornata fresca, 6-11°C, con pioggia debole e vento moderato. Per il 16 e il 17 novembre non è stato possibile reperire un dato numerico affidabile e datato con certezza: le pagine trovate erano bollettini di anni precedenti (2023, 2025) o pagine senza data chiara. Si raccomanda di consultare direttamente 3bmeteo.com, ilmeteo.it o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per questi due giorni."
+ "note": "WebFetch non ha potuto accedere a nessuno dei siti meteo richiesti (3bmeteo.com, ilmeteo.it, meteoeradar.it, allertameteo.regione.marche.it, meteo.regione.marche.it) perché questi domini non risultano abilitati nella whitelist di rete di questa sessione cloud (errore DNS ENOTFOUND su tutti). È stato possibile usare solo WebSearch, che però ha restituito estratti di pagine cache/snapshot senza data certa o relativi ad altri periodi/anni (es. luglio-ottobre 2026, o 2021-2025), con valori di temperatura tra loro incoerenti per lo stesso giorno (16 novembre: variamente 9-15°C, 8-14°C, 10-12°C secondo fonti diverse). Non essendo possibile stabilire quale valore sia corretto e aggiornato, i campi numerici sono stati impostati a null per evitare di inventare dati. Nessun bollettino ufficiale della Protezione Civile Marche datato 16-18 novembre 2026 è stato trovato nei risultati di ricerca; l'ultima allerta trovata nei risultati riguardava il 12 novembre 2026 (allerta arancione vento, gialla idrogeologica) ed è quindi scaduta e non pertinente al periodo richiesto. Per un dato attendibile, è necessario che la sessione abbia accesso di rete diretto a 3bmeteo.com, ilmeteo.it e allertameteo.regione.marche.it, oppure che l'utente fornisca screenshot/testo direttamente copiato da quelle pagine."
 }

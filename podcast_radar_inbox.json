@@ -1,116 +1,135 @@
 [
  {
-  "id": "podcast-2026-11-15-sky-voices-canale-video",
-  "title": "Sky lancia Sky Voices, canale tutto dedicato ai video podcast (canale 118 e Now)",
-  "source": "Sorrisi.com (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-11-02",
-  "brief": "Dal 2 novembre Sky ha attivato Sky Voices, un canale (118) dedicato interamente ai video podcast, disponibile anche in streaming su Now: prima volta che un broadcaster italiano tradizionale dedica un intero canale lineare a questo formato, segno che il video podcast sta uscendo dalla nicchia online.",
+  "id": "podcast-2026-11-16-spotify-partner-program-italia",
+  "title": "Spotify Partner Program arriva ufficialmente in Italia",
+  "source": "Spotify for Creators (support.spotify.com), Spotify Newsroom, askanews/La Voce di New York, Smartworld (via ricerca web 2026-11-16)",
+  "affidabilita": "primaria",
+  "target": 8,
+  "date": "2026-10-20",
+  "brief": "Dal 20 ottobre 2026 lo Spotify Partner Program è attivo anche in Italia, pensato per far guadagnare i creator soprattutto sui video podcast. Spotify dichiara che in Italia le ore di visione di video podcast sono cresciute del 97% in un anno e che il paese è il sesto mercato per adozione del formato video. Il programma affianca Spotify Memberships per gli abbonamenti diretti dei fan.",
   "angles": [
-   "Cosa significa per un podcaster indipendente competere (o collaborare) con un canale TV dedicato al formato",
-   "Il video podcast come genere riconosciuto dalla TV generalista, non solo dalle piattaforme online",
-   "Chi può proporre il proprio show a un canale come questo, e cosa cambia rispetto a YouTube"
+   "Requisiti minimi reali per entrare nel programma, prima di farsi illusioni",
+   "Perché il video sta diventando centrale anche su Spotify, non solo su YouTube",
+   "Cosa significa in pratica per un podcast piccolo o medio italiano"
   ],
   "hooks": [
-   "Pensi che il video podcast sia roba da nicchia YouTube? Sky gli ha appena dato un canale tutto suo, il 118.",
-   "Hai un video podcast e ti chiedi se vale la pena farlo bene? C'è un canale TV italiano che adesso vive solo di questo.",
-   "Ti sei sempre chiesto se il podcast video 'conta' davvero? Quando la TV generalista gli dedica un canale, la risposta è sì."
+   "Fai podcast solo audio e pensavi di essere al sicuro dalla telecamera? Da ottobre Spotify paga pure chi fa video, quindi forse è il momento di accenderla.",
+   "Hai sempre detto 'il video lo faccio poi'? Spotify ora ti dà un motivo economico per farlo prima, non dopo averlo rimandato per un anno.",
+   "Sogni di guadagnare col tuo podcast? Il programma è arrivato anche in Italia, ma prima guarda i numeri minimi richiesti, sennò ti illudi e basta."
   ]
  },
  {
-  "id": "podcast-2026-11-15-spotify-partner-program-italia",
-  "title": "Spotify porta in Italia il Partner Program e le Memberships per monetizzare i podcast",
-  "source": "La Voce di New York, askanews, Smartworld.it (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "podcast-2026-11-16-spotify-memberships-fan-90",
+  "title": "Spotify Memberships: i creator tengono il 90% dei ricavi degli abbonamenti fan",
+  "source": "Spotify Newsroom, Podnews, Smartworld (via ricerca web 2026-11-16)",
+  "affidabilita": "primaria",
   "target": 7,
   "date": "2026-10-20",
-  "brief": "Durante Spotify NEXT e il Video Podcast Club al Teatro Elfo Puccini di Milano, Spotify ha presentato le novità per i creator italiani: il Partner Program si espande a oltre 35 nuovi mercati inclusa l'Italia (sesto paese per adozione di video podcast, consumo +97% in un anno), mentre le Spotify Memberships sono già attive per gli abbonamenti diretti ai fan, con i creator che trattengono il 90% dei ricavi.",
+  "brief": "Spotify ha estese gli abbonamenti diretti ai podcast ('Memberships') a 34 mercati, incluso l'Italia, dal 20 ottobre 2026. I creator possono offrire contenuti esclusivi ai fan paganti trattenendo il 90% dei ricavi, e possono importare o esportare le liste di abbonati tra piattaforme diverse.",
   "angles": [
-   "Partner Program vs Memberships: due strade diverse per monetizzare, quale ha senso per chi parte da zero",
-   "Perché l'Italia viene citata come mercato chiave per il video podcast e cosa significa per chi sceglie ora il formato",
-   "Cosa guardare nei requisiti di accesso prima di aspettarsi guadagni concreti"
+   "Abbonamenti fan vs sponsor: due strade di monetizzazione diverse, quale ha senso per te",
+   "Requisiti di pubblico per attivare i Memberships",
+   "Perché la portabilità delle liste abbonati conta se un giorno cambi hosting"
   ],
   "hooks": [
-   "Pensi che monetizzare un podcast in Italia sia impossibile? Spotify ha appena portato qui il suo Partner Program.",
-   "Hai fan che ti seguirebbero anche a pagamento? Le Spotify Memberships in Italia ti lasciano il 90% di quello che pagano.",
-   "Ti sei fatto scoraggiare dai requisiti per guadagnare su Spotify? Sono stati abbassati a inizio 2026, forse li superi già."
+   "Hai fan che ti scriverebbero un assegno solo per sentirti parlare più a lungo? Su Spotify ora possono farlo davvero, e tu ti porti a casa il 90%.",
+   "Pensavi che per guadagnare con un podcast servisse uno sponsor? C'è anche la strada degli abbonati paganti, ed è appena arrivata pure in Italia.",
+   "Se cambi piattaforma di solito perdi tutto, pubblico incluso. Qui almeno la lista abbonati te la porti dietro: un piccolo miracolo burocratico."
   ]
  },
  {
-  "id": "podcast-2026-11-15-spotify-apple-protocollo-video",
-  "title": "Spotify adotta il protocollo video di Apple Podcasts: un episodio pubblicato una volta arriverà su entrambe le app",
-  "source": "eMarketer, Sounds Profitable (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "podcast-2026-11-16-sky-voices-canale-italia",
+  "title": "Sky Voices: nasce in Italia il primo canale TV dedicato ai video podcast",
+  "source": "Sky TG24, Sky Sport, Sorrisi.com, Napolike, Il Post (via ricerca web 2026-11-16)",
+  "affidabilita": "primaria",
   "target": 6,
-  "date": null,
-  "brief": "Spotify ha annunciato l'adozione del protocollo HLS per i video podcast introdotto da Apple, permettendo ai creator di pubblicare un episodio video una sola volta e vederlo distribuito automaticamente sia su Apple Podcasts che su Spotify (via Spotify for Creators e Megaphone). Entrambe le aziende presentano la mossa come una risposta comune al controllo esercitato da YouTube sul formato video.",
+  "date": "2026-11-02",
+  "brief": "Dal 2 novembre 2026 è attivo su Sky (canale 118) e su NOW 'Sky Voices', primo canale italiano interamente dedicato ai video podcast, con produzioni Sky Original e contenuti di partner come Corax, OnePodcast, Vois e BSMT. Tra i volti coinvolti Pablo Trincia, Mia Ceran, Mariangela Pira e Stefania Andreoli. Il Post ha raccontato il fenomeno come parte di una spinta più ampia dei media italiani verso il video podcast.",
   "angles": [
-   "Un solo export video per due piattaforme: quanto tempo risparmia davvero nel flusso di pubblicazione",
-   "Perché l'interoperabilità tra Apple e Spotify nasce proprio in risposta al dominio di YouTube",
-   "Cosa verificare nel tuo hosting prima di affidarti a questa distribuzione automatica"
+   "Cosa significa per un podcaster indipendente che un grande broadcaster scommetta sul video podcast",
+   "Fare video podcast per TV/streaming vs farlo per YouTube o Spotify: differenze pratiche",
+   "Il video podcast ormai riconosciuto come genere, non più 'podcast con la webcam accesa'"
   ],
   "hooks": [
-   "Pubblichi lo stesso video podcast più volte su piattaforme diverse? Apple e Spotify stanno per farti risparmiare quel lavoro.",
-   "Hai paura che YouTube resti l'unico posto dove il tuo video podcast funziona bene? Apple e Spotify si sono alleate proprio per quello.",
-   "Ti blocchi sempre all'ultimo passaggio, l'esportazione per ogni piattaforma? Con questo protocollo condiviso basterà farlo una volta."
+   "Registri ancora solo audio perché 'tanto chi lo guarda'? Sky ha appena acceso un intero canale TV di video podcast, quindi forse qualcuno lo guarda eccome.",
+   "Se pensavi che il video podcast fosse una moda passeggera, ora c'è un canale Sky apposta: 118, giusto per darti un riferimento concreto.",
+   "Hai paura della telecamera? Pablo Trincia e Mia Ceran fanno video podcast in prima serata, tu puoi iniziare dal salotto senza troppa vergogna."
   ]
  },
  {
-  "id": "podcast-2026-11-15-youtube-domina-consumo-podcast",
-  "title": "YouTube resta la piattaforma più usata per i podcast, Spotify e Apple Podcasts in leggero calo",
-  "source": "Sounds Profitable (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-10-01",
-  "brief": "Un sondaggio Sounds Profitable pubblicato il 1 ottobre 2026 confirma YouTube come piattaforma più usata per ascoltare o guardare podcast (40%), davanti a Spotify (17%, in calo dal 18%), Apple Podcasts (8%, in calo dall'11%) e Netflix (5%). Il distacco di YouTube resta ampio nonostante le mosse recenti di Apple e Spotify sul video.",
-  "angles": [
-   "Perché conviene comunque pubblicare su YouTube anche se il tuo pubblico 'vero' è altrove",
-   "Cosa significa per un podcast nuovo scegliere la piattaforma di lancio principale nel 2026",
-   "Il calo di Apple Podcasts e Spotify come percentuale di preferenza: segnale di distrazione o normale frammentazione"
-  ],
-  "hooks": [
-   "Stai ancora decidendo se il tuo podcast deve avere una versione video su YouTube? Il 40% lo guarda proprio lì.",
-   "Pensi che Spotify sia ancora la piattaforma regina dei podcast? La sua quota di preferenza è scesa, e YouTube la stacca nettamente.",
-   "Ti sei focalizzato solo sull'audio puro? Netflix distribuisce già video podcast, e YouTube resta lontano davanti a tutti."
-  ]
- },
- {
-  "id": "podcast-2026-11-15-riverside-co-creator-podcastle-hosting",
-  "title": "Riverside integra l'agente IA Co-Creator e include l'hosting podcast in tutti i piani a pagamento con Podcastle",
-  "source": "Riverside.com (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": null,
-  "brief": "Riverside ha introdotto Co-Creator, un agente di editing basato su IA a cui si può chiedere in linguaggio naturale di pulire l'audio, tagliare solo i momenti migliori o aggiungere effetti sonori; grazie a una partnership con Podcastle, inoltre, l'hosting del podcast è ora incluso in tutti i piani a pagamento della piattaforma, senza costo separato.",
-  "angles": [
-   "Editing a comando vocale o testuale: quanto puoi davvero delegare a un assistente IA senza perdere il controllo",
-   "Hosting incluso nel prezzo dell'editor: cambia il calcolo di cosa pagare per iniziare un podcast",
-   "Cosa resta comunque da fare a mano anche con un agente IA di editing"
-  ],
-  "hooks": [
-   "Passi ancora ore a tagliare gli 'ehm' uno per uno? Riverside ha un agente IA a cui puoi semplicemente chiederlo.",
-   "Pensi che editor e hosting siano due spese separate per forza? Non più, almeno su Riverside con Podcastle incluso.",
-   "Hai paura che l'IA ti rubi il controllo del tuo episodio? Qui le chiedi un taglio e decidi tu se tenerlo."
-  ]
- },
- {
-  "id": "podcast-2026-11-15-audacity-4-redesign",
-  "title": "Audacity 4 in arrivo con interfaccia rifatta, clip sovrapposte e workspace: la revisione più grande in 25 anni",
-  "source": "Sonicstate, AphNetworks (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-16-nielsen-ascoltatori-italia",
+  "title": "In Italia 18,5 milioni di persone ascoltano podcast, secondo NielsenIQ per Audible",
+  "source": "ItaliaOggi, dati NielsenIQ per Audible 2026 (via ricerca web 2026-11-16)",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026-09-03",
-  "brief": "Audacity, l'editor audio gratuito più usato dai podcaster principianti, sta ricevendo la revisione più profonda della sua storia: Audacity 4 introduce clip sovrapposte, workspace personalizzabili e una nuova interfaccia, nel tentativo di modernizzare un programma che non cambiava sostanzialmente da oltre 25 anni.",
+  "date": null,
+  "brief": "Secondo il monitoraggio 2026 di NielsenIQ realizzato per Audible, in Italia 18,5 milioni di persone hanno ascoltato almeno un podcast nell'ultimo anno, con una media di 5 ascolti al mese e sessioni di circa 27 minuti. Tema, genere e voce del narratore risultano i criteri principali di scelta, e i social sono ormai il canale di scoperta più usato. Il dato segue i 18 milioni di ascoltatori riportati per il 2025 dalla stessa ricerca; una fonte diversa (AGI, 2025) parla invece di 15,5 milioni, segno che le metodologie non sono tutte comparabili.",
   "angles": [
-   "Perché Audacity resta il primo editor per chi inizia, anche con strumenti IA più 'comodi' in circolazione",
-   "Cosa cambia in pratica per chi ha già un flusso di lavoro impostato sulla vecchia interfaccia",
-   "Gratis vs IA a pagamento: quando ha senso restare su Audacity e quando no"
+   "Il pubblico podcast italiano continua a crescere: è il momento di iniziare, non di sentirsi arrivati tardi",
+   "I social come motore di scoperta: cosa cambia nella tua strategia di promozione",
+   "Durata media di ascolto di 27 minuti: cosa dice sulla lunghezza ideale di un episodio"
   ],
   "hooks": [
-   "Hai imparato a editare su Audacity e temi che cambi tutto? Sta per arrivare la revisione più grande in 25 anni di storia.",
-   "Pensi che un editor gratuito non possa stare al passo con Descript o Riverside? Audacity 4 ci sta provando con clip sovrapposte e workspace.",
-   "Ti blocchi ancora con l'interfaccia vecchia di Audacity? La versione 4 la rifà da zero, finalmente."
+   "Pensi che il podcast in Italia sia roba per quattro nerd? Sono 18,5 milioni di persone, più o meno quanti abitano Lombardia e Lazio messi insieme.",
+   "Hai paura che il tuo episodio da 27 minuti sia troppo corto o troppo lungo? Guarda caso è quasi esattamente la durata media di ascolto in Italia: cogli l'attimo.",
+   "Ti illudi che basti essere su Spotify per farti scoprire? I dati dicono che la gente trova i podcast soprattutto sui social, quindi quel reel che non volevi fare forse ti serve."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-16-youtube-partner-program-soglie",
+  "title": "YouTube raddoppia le soglie del Partner Program dal 2027",
+  "source": "NewscastStudio, TheNextWeb, Mediaweek, Metricool, Cartoon Brew (via ricerca web 2026-11-16)",
+  "affidabilita": "primaria",
+  "target": 7,
+  "date": "2026-08-10",
+  "brief": "Dal 1° febbraio 2027 chi farà domanda per la prima volta al Partner Program di YouTube dovrà avere 8.000 ore di visualizzazione qualificate nei 365 giorni precedenti, oppure 20 milioni di visualizzazioni Shorts in 90 giorni: il doppio delle soglie attuali (4.000 ore o 10 milioni di views Shorts). Chi è già nel programma non è toccato dal cambiamento. YouTube introduce in parallelo nuovi incentivi legati a shopping, brand deal e trend, non solo alle entrate pubblicitarie.",
+  "angles": [
+   "Se pensi di aprire un canale YouTube per il tuo video podcast, conviene muoversi prima di febbraio 2027",
+   "Monetizzazione su YouTube vs Spotify: due pesi e due misure sempre più divergenti",
+   "Le nuove soglie come filtro contro i canali 'usa e getta' di contenuto riciclato"
+  ],
+  "hooks": [
+   "Stavi aspettando il momento giusto per aprire un canale YouTube per il tuo podcast? Da febbraio 2027 la barra d'ingresso si raddoppia: il momento giusto era ieri.",
+   "Hai già 4.000 ore di visualizzazioni? Bene, perché presto ne serviranno 8.000, e no, guardare i tuoi episodi in loop non conta.",
+   "Pensavi che bastasse pubblicare per guadagnare su YouTube? Non è mai stato vero, e da febbraio 2027 lo è ancora meno."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-16-tool-editing-ai-segnale-debole",
+  "title": "Descript, Riverside, Adobe Podcast: nessun grande annuncio confermato a novembre 2026",
+  "source": "Ricerca web su changelog e blog ufficiali di Descript, Riverside, Adobe Podcast; nessuna fonte ufficiale datata trovata per novembre 2026 (via ricerca web 2026-11-16)",
+  "affidabilita": "segnale debole",
+  "target": 4,
+  "date": null,
+  "brief": "Nota di trasparenza: la ricerca non ha trovato annunci ufficiali e verificabili di novità rilevanti da Descript, Riverside o Adobe Podcast per novembre 2026. Circolano solo pagine di terze parti con date incerte o riferimenti a funzioni già note (export verso Premiere, integrazioni AI varie). Meglio controllare i changelog ufficiali (feedback.descript.com/changelog, pagina prodotto Riverside, podcast.adobe.com) prima di considerare vera una 'novità' letta altrove.",
+  "angles": [
+   "Perché conviene guardare il changelog ufficiale prima di cambiare tool ogni mese per l'ultima funzione AI",
+   "Il rischio di rincorrere notizie non verificate sui blog di settore",
+   "Checklist pratica per verificare da solo se una 'novità' software è vera"
+  ],
+  "hooks": [
+   "Hai letto in giro che Descript ha una funzione pazzesca in più? Forse sì, forse è una pagina scritta apposta per il SEO: controlla il changelog vero prima di cambiare flusso di lavoro.",
+   "Ti sei fatto un'opinione su Riverside o Adobe Podcast leggendo un 'confronto 2026' qualsiasi? Occhio, spesso sono scritti per vendere l'abbonamento affiliato, non per informarti.",
+   "Prima di migrare tutto il montaggio su un nuovo tool per 'la novità di novembre', chiediti: l'ho letta sul sito ufficiale o su un aggregatore che vive di click?"
+  ]
+ },
+ {
+  "id": "podcast-2026-11-16-microfoni-interfacce-2026",
+  "title": "Nuovi microfoni e interfacce per podcast: Shure MVX2U Gen 2 e RØDE Sonaura",
+  "source": "Shure Newsroom, Mixdown Mag, FutureFive (via ricerca web 2026-11-16)",
+  "affidabilita": "secondaria",
+  "target": 6,
+  "date": null,
+  "brief": "Shure ha lanciato il 3 marzo 2026 la MVX2U Gen 2, interfaccia USB-C a un canale per microfoni XLR con DAC e preamplificazione migliorati (circa 139 dollari). Al NAB 2026 (aprile) RØDE ha presentato Sonaura, una nuova tecnologia di capsula microfonica MEMS, insieme a un sistema wireless e a un'app di editing podcast basata su AI; anche Maono, Roland e Yamaha hanno lanciato nuove interfacce audio pensate per i creator nel corso del 2026.",
+  "angles": [
+   "Interfacce USB-C economiche: ha senso aggiornare il setup o il vecchio va ancora bene",
+   "Tecnologia MEMS nei microfoni: cosa cambia davvero per chi registra in casa",
+   "Come capire quando il gear attuale ti sta davvero limitando, prima di comprare altro"
+  ],
+  "hooks": [
+   "Hai comprato un microfono XLR e ora ti manca solo l'interfaccia giusta? Shure ne ha fatta una nuova a 139 dollari, ma prima controlla se non ti basta già quella che hai.",
+   "Ti ritrovi a guardare ogni fiera di settore sperando nel microfono definitivo? Al NAB ne hanno mostrati di nuovi, ma il tuo problema di audio probabilmente non è il microfono, è la stanza in cui registri.",
+   "Pensi che un microfono più caro ti farà sembrare più professionale? Spoiler: conta più il trattamento acustico della stanza che la sigla stampata sulla capsula."
   ]
  }
 ]
