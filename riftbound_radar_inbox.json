@@ -1,56 +1,47 @@
 [
  {
-  "id": "rift-2026-11-15-ban-friday-ancora-non-confermato",
-  "title": "Il teaser di Dave Guskin su un nuovo giro di ban resta senza seguito ufficiale",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
+  "id": "rift-2026-11-17-ban-decisione-in-sospeso",
+  "title": "Riot valuta nuovi ban dopo il dominio di Riven a Stoccarda, ma al 17 novembre il comunicato ufficiale non è ancora arrivato",
+  "source": "Polkastarter, riftbound.gg (via ricerca web 2026-11-17)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-11",
+  "brief": "Il report Best-Of pubblicato da Riot l'11 novembre segnala Riven al 49% del field del Day 2 al primo Regional Championship Europe di Stoccarda. Il game director Dave Guskin aveva lasciato intendere sui social un annuncio sui ban per venerdì 13 novembre, con entrata in vigore mirata al 23 novembre, ma a oggi nessun comunicato ufficiale con l'elenco delle carte è stato pubblicato su playriftbound.com.",
+  "rilevanza": "Chi gioca competitivo deve continuare a monitorare i canali ufficiali prima di investire tempo su un mazzo Riven che potrebbe diventare illegale già dal 23 novembre."
+ },
+ {
+  "id": "rift-2026-11-17-stoccarda-risultati",
+  "title": "Riftbound Regional Championship Europe: a Stoccarda vince ASC Evansrhim con Kennen, Top 8 dominato da Riven",
+  "source": "riftbound.gg, Polkastarter (via ricerca web 2026-11-17)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-08",
+  "brief": "Il primo Regional Championship europeo di Riftbound si è svolto dal 6 all'8 novembre alla Messe di Stoccarda, in formato Standard con le carte di Radiance. Ha vinto ASC Evansrhim giocando Kennen (mazzo \"Heart of the Tempest\"), ma il Top 8 ha visto comunque quattro mazzi Riven, tre Kennen e un Kai'Sa.",
+  "rilevanza": "Conferma che Kennen resta l'unica legend capace di battere Riven in un torneo importante, anche se la popolarità in Top 8 resta ancora a favore di Riven."
+ },
+ {
+  "id": "rift-2026-11-17-dazzling-aurora-dibattito",
+  "title": "La community continua a dividersi su Dazzling Aurora: \"disastro di design\" per alcuni, carta gestibile per altri",
+  "source": "riftmana.com e discussioni di community (via ricerca web 2026-11-17)",
   "affidabilita": "segnale debole",
-  "date": "2026-11-13",
-  "brief": "Il game director Dave Guskin aveva anticipato sui social un possibile annuncio sui ban in Constructed per venerdì 13 novembre, dopo la fine dell'Europe Regional Championship di Stoccarda. Alla data di questa ricerca non risulta ancora pubblicato un comunicato ufficiale con l'elenco delle carte coinvolte: il teaser resta un teaser, senza lista di ban confermata.",
-  "rilevanza": "Chi gioca competitivo deve continuare a monitorare i canali ufficiali Riftbound prima di investire tempo su un mazzo che potrebbe diventare illegale a breve."
- },
- {
-  "id": "rift-2026-11-15-settembre-resta-ultimo-ban-ufficiale",
-  "title": "L'ultimo ban ufficiale confermato resta quello di Ekko, Recurrent e Stacked Deck del 18 settembre",
-  "source": "playriftbound.com (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-09-18",
-  "brief": "In assenza di un nuovo comunicato, il riferimento ufficiale più recente resta il ban di Ekko, Recurrent e Stacked Deck in Standard e 2v2 Constructed, introdotto il 18 settembre 2026 per una combo giudicata troppo rischiosa per l'equilibrio del gioco.",
-  "rilevanza": "Base di partenza per chi deve costruire un mazzo oggi: finché non arriva un comunicato nuovo, le regole in vigore sono ancora queste."
- },
- {
-  "id": "rift-2026-11-15-tierlist-riven-s-kennen-sfidante",
-  "title": "Tier list riftbound.gg (torneo 30 ottobre-4 novembre): Riven domina il Tier S, Kennen si confirma la principale sfidante",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-04",
-  "brief": "L'ultima tier list di riftbound.gg, basata sui torneo della settimana 30 ottobre-4 novembre, mette Riven in Tier S con 5 vittorie e 16 top cut; Kennen resta in Tier 1 con 10 top cut (ma zero vittorie di torneo), descritta come la legend meglio posizionata per battere Riven grazie a mazzi costruiti apposta contro Kai'Sa.",
-  "rilevanza": "Segnale utile per chi deve scegliere un mazzo in vista dei prossimi eventi di dicembre: Riven resta il bersaglio da battere, Kennen la sfidante più solida sul piano dei top cut."
- },
- {
-  "id": "rift-2026-11-15-riftdecks-vs-riftboundgg-metashare",
-  "title": "Due fonti non sono d'accordo su chi domini il meta: Kennen prima per metashare, Riven per top cut",
-  "source": "RiftDecks, riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
   "date": null,
-  "brief": "RiftDecks, che pesa i mazzi per quota di metagame (metashare), indica Kennen come legend più giocata (circa 13% dei mazzi, 15 liste) davanti a Riven (circa 8%, 10 liste); riftbound.gg, che pesa invece le vittorie e i top cut nei torneo principali, mette Riven in testa. Le due classifiche misurano cose diverse e quindi non vanno lette come contraddittorie.",
-  "rilevanza": "Promemoria pratico per chi segue il meta: 'la legend più forte' dipende dalla metrica usata (quanti la giocano vs quanti vincono con lei), non è un dato unico e assoluto."
+  "brief": "Mentre si attende il nuovo giro di ban, resta aperto il dibattito su Dazzling Aurora: un'analisi la definisce un disastro di design perché costa quasi quanto le creature che genera, mentre un'altra voce della community ritiene che esistano già strumenti abbondanti per contrastarla e che non vada toccata.",
+  "rilevanza": "Utile per chi costruisce mazzi oggi: la carta non risulta tra i ban ufficiali finora, ma è tra le prime candidate se Riot deciderà di intervenire di nuovo sul meta."
  },
  {
-  "id": "rift-2026-11-15-legacy-data-discordante",
-  "title": "Due fonti diverse non concordano sulla data di uscita di Riftbound: Legacy (29 gennaio o 30 aprile 2027)",
-  "source": "Riot Games/playriftbound.com, Bleeding Cool (via ricerca web 2026-11-15)",
+  "id": "rift-2026-11-17-summoner-skirmish-ultime-finestre",
+  "title": "Riot ritira il formato Summoner Skirmish dopo Radiance: in arrivo Riftbound Challenge Series e Nexus Cup mensile nei negozi",
+  "source": "playriftbound.com e pagine eventi dei negozi locali (via ricerca web 2026-11-17)",
   "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Il sesto set, Riftbound: Legacy, viene indicato da fonti vicine a Riot come in uscita il 29 gennaio 2027, con prima anteprima al Convergence Fest (11-13 dicembre 2026); Bleeding Cool riporta invece la data del 30 aprile 2027, che secondo altre fonti sarebbe quella di un set successivo (The Reckoning). Le due date non sono state riconciliate nelle fonti consultate.",
-  "rilevanza": "Chi pianifica acquisti o un torneo legato a un nuovo set dovrebbe verificare la data sul canale ufficiale Riot prima di fare programmi, visto il disaccordo tra fonti."
+  "date": "2026-11-09",
+  "brief": "La finestra Radiance Skirmish I va dal 9 novembre al 13 dicembre 2026 (la Skirmish II dal 14 dicembre al 17 gennaio 2027): sono le ultime finestre previste per questo formato locale, perché la roadmap 2027 di Riot non ne elenca altre. Al loro posto arriveranno la Riftbound Challenge Series e un Nexus Cup mensile nei negozi, parte della nuova struttura dell'Organized Play.",
+  "rilevanza": "Chi frequenta eventi nei negozi locali deve approfittare delle ultime finestre Skirmish di novembre-dicembre prima del passaggio al nuovo formato Nexus Cup."
  },
  {
-  "id": "rift-2026-11-15-regional-nordamerica-dicembre",
-  "title": "Il Regional Championship del Nord America è fissato per dicembre 2026, dopo quello europeo di Stoccarda",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "rift-2026-11-17-carenza-box-radiance",
+  "title": "Le scorte dei booster box di Radiance restano introvabili in molti negozi, prezzi di rivendita ben sopra il retail",
+  "source": "Smoke & Mirrors Hobby, trackalacker.com (via ricerca web 2026-11-17)",
+  "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Dopo l'Europe Regional Championship di Stoccarda (6-8 novembre 2026), il prossimo grande evento del circuito competitivo è il Regional Championship del Nord America, in programma a dicembre 2026; non è stata reperita in questa ricerca una data esatta del giorno.",
-  "rilevanza": "Evento da seguire per chi vuole capire se il meta post-Riven/Kennen cambierà con un pool di giocatori diverso da quello europeo."
+  "brief": "Diversi rivenditori segnalano ancora box di Radiance (uscito il 23 ottobre, prezzo ufficiale 114,99 dollari) esauriti pochi giorni dopo l'uscita, con listing di rivendita che per i set precedenti erano arrivati fino a 450-569 dollari. Un articolo di un rivenditore francese segnala scorte azzerate anche in Europa, con un possibile restock atteso a dicembre.",
+  "rilevanza": "Chi vuole completare la collezione o aprire box per il collezionismo deve aspettarsi prezzi gonfiati finché Riot non comunica un restock ufficiale."
  }
 ]

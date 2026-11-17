@@ -1,38 +1,38 @@
 {
- "aggiornato": "2026-11-15",
+ "aggiornato": "2026-11-17",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.youmeteo.com/meteo/pesaro/", "https://www.3bmeteo.com/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723", "https://allertameteo.regione.marche.it", "https://meteo.regione.marche.it"],
+ "fonti": ["https://www.ilmeteo.it/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteo.it/meteo/pesaro-oggi-41044", "https://www.youmeteo.com/meteo/pesaro/", "https://www.3bmeteo.com/meteo/pesaro", "https://allertameteo.regione.marche.it"],
  "previsioni": [
   {
-   "data": "2026-11-15",
-   "giorno": "domenica",
-   "temp_min_c": 6,
-   "temp_max_c": 11,
-   "condizioni": "Giornata fresca con pioggia debole/cielo parzialmente nuvoloso. Dato convergente da più fonti (Youmeteo, 3BMeteo, Meteoeradar): min 6°C, max 10-11°C, pioggia debole o possibile pioggia da ovest.",
-   "vento": "Moderato, 9-15 km/h da NNE/WNW (3BMeteo) o ENE (Youmeteo), raffiche fino a 24 km/h",
+   "data": "2026-11-17",
+   "giorno": "martedì",
+   "temp_min_c": 9,
+   "temp_max_c": 12,
+   "condizioni": "Variabile/nuvoloso con pioggia debole o intermittente e qualche schiarita. Dato convergente da iLMeteo.it e meteo.it (min 9°C, max 12°C, cielo nuvoloso con pioggia debole in serata). Una fonte isolata (youmeteo.com) riporta valori molto più alti (10-19°C) in evidente contrasto con le altre, quindi scartata come outlier.",
+   "vento": "Forte da sud-ovest in serata (meteo.it), intensità esatta non reperita",
    "mare": "dato non reperito",
-   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per il 15 novembre 2026 nei risultati di ricerca disponibili"
+   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per il 17 novembre 2026 nei risultati di ricerca disponibili (portale allertameteo.regione.marche.it non raggiungibile da questa sessione per verifica diretta)"
   },
   {
-   "data": "2026-11-16",
-   "giorno": "lunedì",
+   "data": "2026-11-18",
+   "giorno": "mercoledì",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: le ricerche non hanno restituito uno snippet datato in modo inequivocabile al 16 novembre 2026 (i bollettini regionali trovati erano di anni precedenti)",
+   "condizioni": "Dato non reperito con sufficiente precisione: le ricerche non hanno restituito uno snippet datato in modo inequivocabile al 18 novembre 2026 (i bollettini regionali trovati erano del 2025)",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito per questa data specifica"
   },
   {
-   "data": "2026-11-17",
-   "giorno": "martedì",
+   "data": "2026-11-19",
+   "giorno": "giovedì",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: nessuna fonte consultata restituiva uno snippet datato in modo inequivocabile al 17 novembre 2026",
+   "condizioni": "Dato non reperito con sufficiente precisione: nessuna fonte consultata restituiva uno snippet datato in modo inequivocabile al 19 novembre 2026",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito per questa data specifica"
   }
  ],
- "note": "WebFetch non disponibile in questa sessione cloud per ilmeteo.it, 3bmeteo.com, meteoblue.com e ilrestodelcarlino.it (host non risolvibile per policy di rete), quindi i dati provengono solo da snippet di ricerca web. Per oggi (15 novembre) più fonti indipendenti convergono su una giornata fresca, 6-11°C, con pioggia debole e vento moderato. Per il 16 e il 17 novembre non è stato possibile reperire un dato numerico affidabile e datato con certezza: le pagine trovate erano bollettini di anni precedenti (2023, 2025) o pagine senza data chiara. Si raccomanda di consultare direttamente 3bmeteo.com, ilmeteo.it o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per questi due giorni."
+ "note": "WebFetch non disponibile in questa sessione cloud per 3bmeteo.com, ilmeteo.it e allertameteo.regione.marche.it (host non risolvibile per policy di rete), quindi i dati provengono solo da snippet di ricerca web. Per oggi (17 novembre) due fonti indipendenti (iLMeteo.it e meteo.it) convergono su una giornata fresca, 9-12°C, nuvolosa con pioggia debole/intermittente; un valore isolato e incoerente di youmeteo.com è stato scartato. Per il 18 e il 19 novembre non è stato possibile reperire un dato numerico affidabile e datato con certezza. Si raccomanda di consultare direttamente ilmeteo.it, 3bmeteo.com o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per questi due giorni."
 }

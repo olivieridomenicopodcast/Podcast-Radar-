@@ -1,56 +1,56 @@
 [
  {
-  "id": "nerd-2026-11-15-gta6-countdown",
-  "title": "GTA 6 a quattro giorni dal lancio: Rockstar confirma il 19 novembre 2026",
-  "source": "TechRadar, GamesRadar, Rockstar Games (via ricerca web 2026-11-15)",
+  "id": "nerd-2026-11-17-gta6-countdown-finale",
+  "title": "GTA 6 a due giorni dal lancio del 19 novembre: trailer di lancio uscito, dispute sindacali ancora in corso",
+  "source": "GTABoom, PCGamer, GTAVI O'Clock podcast (via ricerca web 2026-11-17)",
   "affidabilita": "primaria",
   "date": "2026-11-19",
   "tipo": "videogioco",
-  "brief": "Dopo due rinvii (da fine 2025 a maggio 2026, poi al 19 novembre 2026), Rockstar Games e Take-Two confermano che Grand Theft Auto 6 uscirà in questa data, ormai a pochi giorni di distanza: uno dei lanci videoludici più attesi degli ultimi anni entra nel countdown finale."
+  "brief": "Rockstar Games confirma ancora la data del 19 novembre 2026 per Grand Theft Auto 6 su PS5 e Xbox Series X|S, con il trailer di lancio già uscito circa cinque settimane prima. In parallelo prosegue la disputa sul licenziamento di una trentina di dipendenti, che Rockstar giustifica come 'grave scorrettezza' mentre un gruppo sindacale lo definisce union busting."
  },
  {
-  "id": "nerd-2026-11-15-lucca-comics-chiusura-60",
-  "title": "Lucca Comics & Games 2026 chiude la 60ª edizione 'Diamond/Legacy' con circa 345mila visitatori",
-  "source": "Finestre sull'Arte, Rolling Stone Italia (via ricerca web 2026-11-15)",
+  "id": "nerd-2026-11-17-bggcon-dallas-apertura",
+  "title": "BGG.Con 2026 apre domani a Dallas: cinque giorni di playtest e incontri tra autori ed editori",
+  "source": "BoardGameWire, BoardGameGeek (via ricerca web 2026-11-17)",
   "affidabilita": "secondaria",
-  "date": "2026-11-01",
+  "date": "2026-11-18",
   "tipo": "fiera",
-  "brief": "La 60ª edizione di Lucca Comics & Games (28 ottobre-1 novembre 2026) si è chiusa con circa 345mila presenze, oltre 60mila più del 2025, 900 ospiti e 14 mostre. Una fonte riporta una cifra molto più alta (800mila) in evidente contrasto con le altre, quindi va presa con cautela."
+  "brief": "La convention della community BoardGameGeek apre domani 18 novembre a Dallas e prosegue fino al 22, offrendo cinque giorni di playtest di prototipi, torneo e networking diretto tra autori indipendenti ed editori prima della stagione delle uscite natalizie: uno degli ultimi grandi appuntamenti di settore dell'anno."
  },
  {
-  "id": "nerd-2026-11-15-pokemon-team-rocket-board-game",
-  "title": "Pokémon annuncia un gioco da tavolo dedicato al Team Rocket, in arrivo in Giappone a novembre",
-  "source": "Archyde, Outlook India (via ricerca web 2026-11-15)",
+  "id": "nerd-2026-11-17-lucca-comics-2027-date-bilancio-contrastato",
+  "title": "Lucca Comics & Games annuncia le date 2027 (28 ottobre-1 novembre), ma il bilancio di presenze 2026 resta contrastato",
+  "source": "Senalnews, Finestre sull'Arte (via ricerca web 2026-11-17)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-02",
+  "tipo": "fiera",
+  "brief": "Dopo la chiusura della 60ª edizione 'Legacy', gli organizzatori hanno già fissato le date 2027 (28 ottobre-1 novembre). Sul bilancio dell'edizione appena conclusa restano due cifre in conflitto tra le fonti, 345mila e 800mila presenze: nessun comunicato ufficiale consultato chiarisce quale sia corretta, quindi il dato va preso con cautela fino a conferma diretta di Lucca Crea."
+ },
+ {
+  "id": "nerd-2026-11-17-essen-spiel-2027-date-non-confermate",
+  "title": "SPIEL Essen 2027: circolano le date 21-24 ottobre, ma l'organizzatore le indica ancora come da confermare",
+  "source": "Travel2fair, Showsbee, NRW Tourism (via ricerca web 2026-11-17)",
   "affidabilita": "segnale debole",
   "date": null,
-  "tipo": "gioco da tavolo",
-  "brief": "Un nuovo gioco da tavolo ufficiale Pokémon centrato sul Team Rocket (titolo giapponese riconducibile a 'Are You, Perhaps, a Rocket Grunt?') arriverà questo mese, ma le fonti non concordano sullo studio di sviluppo (Yoka Games citato da una fonte) né sull'eventuale distribuzione fuori dal Giappone."
+  "tipo": "fiera",
+  "brief": "Diversi siti di settore fieristico riportano già il 21-24 ottobre 2027 come date della prossima edizione di SPIEL Essen, la più grande fiera europea di giochi da tavolo, ma altre pagine della stessa rete di siti e la pagina turistica NRW segnalano ancora 'date da annunciare': da verificare direttamente su spiel-essen.de prima di darle per certe."
  },
  {
-  "id": "nerd-2026-11-15-stonemaier-braided-skies",
-  "title": "Stonemaier Games annuncia 'Braided Skies', nuovo titolo nell'universo di Smoking Bones, al retail a novembre",
-  "source": "ICv2 (via ricerca web 2026-11-15)",
+  "id": "nerd-2026-11-17-elder-scrolls-vi-sentinel",
+  "title": "The Elder Scrolls VI ha un titolo ufficiale: si chiamerà 'Sentinel' ed è ambientato a Hammerfell",
+  "source": "Rassegna settimanale Galaxus/Digitec (via ricerca web 2026-11-17)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-07",
+  "tipo": "videogioco",
+  "brief": "Todd Howard ha svelato che il sesto capitolo della saga The Elder Scrolls si chiamerà ufficialmente 'Sentinel' e sarà ambientato nella provincia di Hammerfell: una delle informazioni più attese dai fan della serie Bethesda, anche se non è stata indicata una finestra di uscita."
+ },
+ {
+  "id": "nerd-2026-11-17-stonemaier-braided-skies-retail",
+  "title": "Braided Skies di Stonemaier Games, debuttato a Essen Spiel 2026, arriva ora nei negozi",
+  "source": "ICv2 (via ricerca web 2026-11-17)",
   "affidabilita": "secondaria",
   "date": null,
   "tipo": "gioco da tavolo",
-  "brief": "Stonemaier Games ha presentato a Essen Spiel 2026 'Braided Skies', ambientato nello stesso universo di Smoking Bones: dopo la fiera tedesca il titolo arriva anche in retail nel corso di novembre 2026, ampliando il catalogo di uno degli editori indipendenti più seguiti dalla community."
- },
- {
-  "id": "nerd-2026-11-15-1984-unperson-boardova",
-  "title": "Boardova Games porta in retail '1984: Unperson', gioco ispirato al romanzo di Orwell",
-  "source": "ICv2 (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "tipo": "gioco da tavolo",
-  "brief": "Boardova Games ha distribuito dal 1° novembre 2026 '1984: Unperson', gioco da tavolo basato sul romanzo distopico di George Orwell: un esempio di adattamento ludico di un classico letterario rivolto a un pubblico adulto e tematico."
- },
- {
-  "id": "nerd-2026-11-15-lotr-circle-of-conflict",
-  "title": "Asmodee ed Office Dog pubblicano 'The Lord of the Rings: Circle of Conflict', dadi strategici nella Terra di Mezzo",
-  "source": "Asmodee Store, PCGames.de, Zatu (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-06",
-  "tipo": "gioco da tavolo",
-  "brief": "Dal 6 novembre 2026 è disponibile 'Circle of Conflict', gioco di dadi strategico per 2-4 giocatori firmato Office Dog e distribuito da Asmodee, in cui si controllano a turno i Popoli Liberi e le forze dell'Ombra nella Terza Era della Terra di Mezzo, con partite da circa un'ora."
+  "brief": "Dopo il debutto alla fiera di Essen 2026, Stonemaier Games porta in retail Braided Skies, nuovo titolo ambientato nell'universo di Smoking Bones: segnale di come l'editore gestisca il passaggio da anteprima fieristica a disponibilità generale per il pubblico che non ha potuto comprarlo di persona alla fiera."
  }
 ]
