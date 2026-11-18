@@ -1,116 +1,135 @@
 [
  {
-  "id": "podcast-2026-11-15-sky-voices-canale-video",
-  "title": "Sky lancia Sky Voices, canale tutto dedicato ai video podcast (canale 118 e Now)",
-  "source": "Sorrisi.com (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-18-apple-tv-video-podcast-test",
+  "title": "Apple inizia a testare i video podcast dentro l'app Apple TV",
+  "source": "TechRepublic, iPhoneinCanada, NewsBytesApp, IBC (via ricerca web 2026-11-18)",
   "affidabilita": "secondaria",
   "target": 6,
-  "date": "2026-11-02",
-  "brief": "Dal 2 novembre Sky ha attivato Sky Voices, un canale (118) dedicato interamente ai video podcast, disponibile anche in streaming su Now: prima volta che un broadcaster italiano tradizionale dedica un intero canale lineare a questo formato, segno che il video podcast sta uscendo dalla nicchia online.",
+  "date": "2026-11-16",
+  "brief": "Apple ha avviato tra gli sviluppatori il test di una sezione video podcast gratuita dentro l'app Apple TV, collegata al sistema HLS che da inizio 2026 permette di pubblicare audio e video nello stesso feed. L'arrivo pubblico, legato a un prossimo aggiornamento software, non è ancora confermato ufficialmente da Apple.",
   "angles": [
-   "Cosa significa per un podcaster indipendente competere (o collaborare) con un canale TV dedicato al formato",
-   "Il video podcast come genere riconosciuto dalla TV generalista, non solo dalle piattaforme online",
-   "Chi può proporre il proprio show a un canale come questo, e cosa cambia rispetto a YouTube"
+   "Perché conviene tenere pronto un export video HLS anche se oggi pubblichi solo audio",
+   "Apple Podcasts prova a inseguire YouTube anche fuori dalla sua app, dentro il salotto di casa",
+   "Cosa cambia per la distribuzione se il tuo hosting già supporta il protocollo HLS"
   ],
   "hooks": [
-   "Pensi che il video podcast sia roba da nicchia YouTube? Sky gli ha appena dato un canale tutto suo, il 118.",
-   "Hai un video podcast e ti chiedi se vale la pena farlo bene? C'è un canale TV italiano che adesso vive solo di questo.",
-   "Ti sei sempre chiesto se il podcast video 'conta' davvero? Quando la TV generalista gli dedica un canale, la risposta è sì."
+   "Pubblichi solo audio e pensi che il video podcast non ti riguardi? Apple lo sta per mettere pure dentro l'app della smart TV.",
+   "Hai già un video podcast ma nessuno lo guarda sul divano? Apple sta testando proprio quello, un posto apposta nell'app Apple TV.",
+   "Ti sei convinto che YouTube sia l'unico posto dove 'conta' il video podcast? Apple sta cercando di aprirne un altro, dentro casa tua."
   ]
  },
  {
-  "id": "podcast-2026-11-15-spotify-partner-program-italia",
-  "title": "Spotify porta in Italia il Partner Program e le Memberships per monetizzare i podcast",
-  "source": "La Voce di New York, askanews, Smartworld.it (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "podcast-2026-11-18-spotify-milestone-awards-semestrale",
+  "title": "Spotify rende semestrali i Creator Milestone Awards e premia 97 podcast",
+  "source": "ppc.land, Spotify Newsroom (via ricerca web 2026-11-18)",
+  "affidabilita": "segnale debole",
+  "target": 5,
+  "date": "2026-11-16",
+  "brief": "Nel nuovo giro di premi Spotify ha riconosciuto 97 show con soglie da 500, 250, 100 e 50 milioni di play cumulati (quest'ultima pensata per i mercati emergenti): da ora i Creator Milestone Awards verranno assegnati due volte l'anno invece che ogni trimestre, contando i play cumulativi secondo la nuova definizione introdotta da Spotify a giugno 2026.",
+  "angles": [
+   "Capire come Spotify conta davvero un 'play' prima di guardare le tue statistiche con ansia",
+   "Perché la soglia più bassa, 50 milioni, è pensata apposta per mercati come l'Italia",
+   "Un premio in meno all'anno non significa meno attenzione: cosa guardare comunque ogni mese"
+  ],
+  "hooks": [
+   "Controlli le statistiche Spotify aspettandoti un riconoscimento ogni tre mesi? Da oggi i premi arrivano solo due volte l'anno.",
+   "Pensi che 'play' voglia dire quello che pensi tu? Spotify li conta in un modo diverso da giugno, e cambia quello che vedi in dashboard.",
+   "Ti sembra impossibile arrivare alle soglie dei podcast americani? C'è una fascia pensata apposta per mercati come il nostro, 50 milioni di play."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-18-descript-update-novembre",
+  "title": "Descript aggiorna l'editor con Animate Text, layout generativi e ricerca nei clip",
+  "source": "Blog ufficiale Descript (via ricerca web 2026-11-18)",
+  "affidabilita": "primaria",
   "target": 7,
-  "date": "2026-10-20",
-  "brief": "Durante Spotify NEXT e il Video Podcast Club al Teatro Elfo Puccini di Milano, Spotify ha presentato le novità per i creator italiani: il Partner Program si espande a oltre 35 nuovi mercati inclusa l'Italia (sesto paese per adozione di video podcast, consumo +97% in un anno), mentre le Spotify Memberships sono già attive per gli abbonamenti diretti ai fan, con i creator che trattengono il 90% dei ricavi.",
+  "date": "2026-11-03",
+  "brief": "Descript ha rilasciato a inizio novembre quattro novità: Animate Text per titoli animati in stile kinetic typography, Generative Layouts per impaginare automaticamente le clip video, una ricerca che trova momenti precisi dentro tutti i file multimediali di un progetto, e nuove 'Underlord Skills' per l'assistente IA integrato.",
   "angles": [
-   "Partner Program vs Memberships: due strade diverse per monetizzare, quale ha senso per chi parte da zero",
-   "Perché l'Italia viene citata come mercato chiave per il video podcast e cosa significa per chi sceglie ora il formato",
-   "Cosa guardare nei requisiti di accesso prima di aspettarsi guadagni concreti"
+   "Quanto tempo si risparmia a ritrovare un momento preciso dentro ore di registrazione con la ricerca nei clip",
+   "Titoli animati automatici: quando aiutano la leggibilità sui social e quando distraggono",
+   "Cosa sono le 'Skills' dell'assistente IA e se vale la pena lasciargli in mano l'impaginazione"
   ],
   "hooks": [
-   "Pensi che monetizzare un podcast in Italia sia impossibile? Spotify ha appena portato qui il suo Partner Program.",
-   "Hai fan che ti seguirebbero anche a pagamento? Le Spotify Memberships in Italia ti lasciano il 90% di quello che pagano.",
-   "Ti sei fatto scoraggiare dai requisiti per guadagnare su Spotify? Sono stati abbassati a inizio 2026, forse li superi già."
+   "Passi ancora minuti a scorrere avanti e indietro per ritrovare quella frase che ti serve? Descript ora te la cerca dentro tutto il progetto.",
+   "Odi fare i titoli animati a mano per le clip social? Descript te li genera da solo, tu decidi se tenerli.",
+   "Hai paura che l'IA ti impagini il video a modo suo? Le nuove 'Skills' di Descript lo fanno, ma restano un suggerimento, non un ordine."
   ]
  },
  {
-  "id": "podcast-2026-11-15-spotify-apple-protocollo-video",
-  "title": "Spotify adotta il protocollo video di Apple Podcasts: un episodio pubblicato una volta arriverà su entrambe le app",
-  "source": "eMarketer, Sounds Profitable (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-18-pulp-podcast-fedez-caso-studio",
+  "title": "Pulp Podcast di Fedez diventa un caso di studio: dall'intervista a Meloni alla crescita social",
+  "source": "Il Foglio, Kolsquare (via ricerca web 2026-11-18)",
   "affidabilita": "secondaria",
   "target": 6,
   "date": null,
-  "brief": "Spotify ha annunciato l'adozione del protocollo HLS per i video podcast introdotto da Apple, permettendo ai creator di pubblicare un episodio video una sola volta e vederlo distribuito automaticamente sia su Apple Podcasts che su Spotify (via Spotify for Creators e Megaphone). Entrambe le aziende presentano la mossa come una risposta comune al controllo esercitato da YouTube sul formato video.",
+  "brief": "Pulp Podcast di Fedez è citato come caso di studio del 2026 dopo l'intervista alla premier Giorgia Meloni: secondo l'analisi di Kolsquare il suo 'Influencing Value' sui social è salito del 72,9%, con un pubblico a netta maggioranza maschile (80,8%) concentrato nella fascia 18-24 anni.",
   "angles": [
-   "Un solo export video per due piattaforme: quanto tempo risparmia davvero nel flusso di pubblicazione",
-   "Perché l'interoperabilità tra Apple e Spotify nasce proprio in risposta al dominio di YouTube",
-   "Cosa verificare nel tuo hosting prima di affidarti a questa distribuzione automatica"
+   "Un ospite 'pesante' come leva di crescita: cosa serve davvero per gestirlo bene in diretta",
+   "Pubblico giovane e maschile: cosa dice sul posizionamento di un podcast anche a chi parte da zero",
+   "Dalla puntata virale alla crescita stabile: cosa succede dopo il picco di attenzione"
   ],
   "hooks": [
-   "Pubblichi lo stesso video podcast più volte su piattaforme diverse? Apple e Spotify stanno per farti risparmiare quel lavoro.",
-   "Hai paura che YouTube resti l'unico posto dove il tuo video podcast funziona bene? Apple e Spotify si sono alleate proprio per quello.",
-   "Ti blocchi sempre all'ultimo passaggio, l'esportazione per ogni piattaforma? Con questo protocollo condiviso basterà farlo una volta."
+   "Pensi che il tuo podcast non interessi a nessuno fuori dalla tua nicchia? Pulp Podcast ha fatto il salto con una sola intervista pesante.",
+   "Hai paura di invitare un ospite 'troppo grande' per il tuo show? Fedez l'ha fatto con la premier, e i numeri social sono schizzati.",
+   "Ti chiedi chi ascolta davvero i podcast in Italia? Qui il pubblico è soprattutto maschile e giovanissimo, non quello che immagini."
   ]
  },
  {
-  "id": "podcast-2026-11-15-youtube-domina-consumo-podcast",
-  "title": "YouTube resta la piattaforma più usata per i podcast, Spotify e Apple Podcasts in leggero calo",
-  "source": "Sounds Profitable (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-10-01",
-  "brief": "Un sondaggio Sounds Profitable pubblicato il 1 ottobre 2026 confirma YouTube come piattaforma più usata per ascoltare o guardare podcast (40%), davanti a Spotify (17%, in calo dal 18%), Apple Podcasts (8%, in calo dall'11%) e Netflix (5%). Il distacco di YouTube resta ampio nonostante le mosse recenti di Apple e Spotify sul video.",
-  "angles": [
-   "Perché conviene comunque pubblicare su YouTube anche se il tuo pubblico 'vero' è altrove",
-   "Cosa significa per un podcast nuovo scegliere la piattaforma di lancio principale nel 2026",
-   "Il calo di Apple Podcasts e Spotify come percentuale di preferenza: segnale di distrazione o normale frammentazione"
-  ],
-  "hooks": [
-   "Stai ancora decidendo se il tuo podcast deve avere una versione video su YouTube? Il 40% lo guarda proprio lì.",
-   "Pensi che Spotify sia ancora la piattaforma regina dei podcast? La sua quota di preferenza è scesa, e YouTube la stacca nettamente.",
-   "Ti sei focalizzato solo sull'audio puro? Netflix distribuisce già video podcast, e YouTube resta lontano davanti a tutti."
-  ]
- },
- {
-  "id": "podcast-2026-11-15-riverside-co-creator-podcastle-hosting",
-  "title": "Riverside integra l'agente IA Co-Creator e include l'hosting podcast in tutti i piani a pagamento con Podcastle",
-  "source": "Riverside.com (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-18-bsmt-gazzoli-ricavi-sky-media",
+  "title": "BSMT di Gazzoli fa numeri record ma i ricavi non bastano: la pubblicità passa a Sky Media",
+  "source": "ItaliaOggi (via ricerca web 2026-11-18)",
   "affidabilita": "secondaria",
   "target": 6,
   "date": null,
-  "brief": "Riverside ha introdotto Co-Creator, un agente di editing basato su IA a cui si può chiedere in linguaggio naturale di pulire l'audio, tagliare solo i momenti migliori o aggiungere effetti sonori; grazie a una partnership con Podcastle, inoltre, l'hosting del podcast è ora incluso in tutti i piani a pagamento della piattaforma, senza costo separato.",
+  "brief": "Secondo ItaliaOggi il podcast BSMT di Gazzoli macina numeri record online ma i ricavi pubblicitari non sono ancora proporzionati all'audience: per questo la raccolta pubblicitaria è stata affidata a Sky Media, segno che anche chi ha numeri alti in Italia fatica a monetizzarli da solo.",
   "angles": [
-   "Editing a comando vocale o testuale: quanto puoi davvero delegare a un assistente IA senza perdere il controllo",
-   "Hosting incluso nel prezzo dell'editor: cambia il calcolo di cosa pagare per iniziare un podcast",
-   "Cosa resta comunque da fare a mano anche con un agente IA di editing"
+   "Tanti ascolti non sempre vuol dire tanti soldi: perché in Italia il gap tra audience e ricavi resta ampio",
+   "Affidarsi a un concessionario pubblicitario esterno: cosa cambia per un creator indipendente",
+   "Cosa imparare da un caso 'grande' per chi ha un podcast piccolo e vuole già pensare a monetizzare"
   ],
   "hooks": [
-   "Passi ancora ore a tagliare gli 'ehm' uno per uno? Riverside ha un agente IA a cui puoi semplicemente chiederlo.",
-   "Pensi che editor e hosting siano due spese separate per forza? Non più, almeno su Riverside con Podcastle incluso.",
-   "Hai paura che l'IA ti rubi il controllo del tuo episodio? Qui le chiedi un taglio e decidi tu se tenerlo."
+   "Pensi che basti avere tanti ascolti per guadagnare con un podcast? BSMT ne ha da record e ha dovuto chiamare Sky Media per i soldi.",
+   "Hai numeri in crescita ma ricavi piatti? Non sei tu che sbagli, è il mercato italiano della pubblicità podcast che fatica a star dietro agli ascolti.",
+   "Ti aspettavi che 'diventare grande' risolvesse il problema soldi? Anche ai piani alti serve un'agenzia che venda gli spazi per te."
   ]
  },
  {
-  "id": "podcast-2026-11-15-audacity-4-redesign",
-  "title": "Audacity 4 in arrivo con interfaccia rifatta, clip sovrapposte e workspace: la revisione più grande in 25 anni",
-  "source": "Sonicstate, AphNetworks (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-18-nielsen-18-5-milioni-ascoltatori",
+  "title": "In Italia 18,5 milioni di persone ascoltano podcast, dati NielsenIQ per Audible",
+  "source": "ItaliaOggi, 9Colonne, Festival del Podcasting (via ricerca web 2026-11-18)",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026-09-03",
-  "brief": "Audacity, l'editor audio gratuito più usato dai podcaster principianti, sta ricevendo la revisione più profonda della sua storia: Audacity 4 introduce clip sovrapposte, workspace personalizzabili e una nuova interfaccia, nel tentativo di modernizzare un programma che non cambiava sostanzialmente da oltre 25 anni.",
+  "date": "2026-10-02",
+  "brief": "Secondo la rilevazione NielsenIQ realizzata per Audible e presentata al Festival del Podcasting di Milano, in Italia gli ascoltatori di podcast nell'ultimo anno sono circa 18,5 milioni (+3% sul 2025), con una media di cinque ascolti al mese e sessioni da circa 27 minuti. Altre stime di mercato (OBE, AGI) indicano cifre diverse, segno che i metodi di misurazione non sono ancora standardizzati.",
   "angles": [
-   "Perché Audacity resta il primo editor per chi inizia, anche con strumenti IA più 'comodi' in circolazione",
-   "Cosa cambia in pratica per chi ha già un flusso di lavoro impostato sulla vecchia interfaccia",
-   "Gratis vs IA a pagamento: quando ha senso restare su Audacity e quando no"
+   "Cinque ascolti al mese, 27 minuti a sessione: cosa dice sul formato ideale per trattenere chi ascolta già",
+   "Perché le stime sul podcasting italiano sono tutte diverse tra loro e come leggerle con un minimo di scetticismo",
+   "Il mercato cresce ma lentamente (+3%): cosa significa per chi sta decidendo ora se iniziare"
   ],
   "hooks": [
-   "Hai imparato a editare su Audacity e temi che cambi tutto? Sta per arrivare la revisione più grande in 25 anni di storia.",
-   "Pensi che un editor gratuito non possa stare al passo con Descript o Riverside? Audacity 4 ci sta provando con clip sovrapposte e workspace.",
-   "Ti blocchi ancora con l'interfaccia vecchia di Audacity? La versione 4 la rifà da zero, finalmente."
+   "Ti chiedi se in Italia vale ancora la pena iniziare un podcast adesso? Gli ascoltatori sono 18,5 milioni e continuano a crescere, anche se piano.",
+   "Pensi che la gente ascolti un episodio e lo abbandoni lì? In media lo fa cinque volte al mese, quasi mezz'ora a sessione: c'è spazio per fidelizzare.",
+   "Hai letto tre numeri diversi sugli ascoltatori italiani e non capisci quale sia vero? Nessuno lo sa con certezza, ogni ricerca misura a modo suo."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-18-spreaker-distribuzione-un-clic",
+  "title": "Spreaker aggiunge la distribuzione con un clic nell'app mobile Spreaker Podcasts",
+  "source": "Podnews, YesPress (via ricerca web 2026-11-18)",
+  "affidabilita": "secondaria",
+  "target": 6,
+  "date": "2026-10-12",
+  "brief": "Spreaker, piattaforma di hosting nata in Italia e oggi parte di Triton Digital, ha aggiunto alla sua app mobile Spreaker Podcasts la distribuzione con un clic verso le principali piattaforme di ascolto, dopo aver portato a giugno 2026 anche il tool gratuito di registrazione da browser 'Create' a tutti gli utenti.",
+  "angles": [
+   "Registrare e distribuire dal telefono senza passare dal computer: per chi ha davvero senso",
+   "Un clic in meno nella pubblicazione: quanto conta per chi molla un podcast proprio in quella fase",
+   "Hosting gratuito più distribuzione semplificata: cosa resta comunque da controllare a mano prima di pubblicare"
+  ],
+  "hooks": [
+   "Molli sempre il podcast proprio al momento di pubblicarlo su mille piattaforme diverse? Spreaker ora lo fa con un clic dal telefono.",
+   "Pensi di aver bisogno del computer per registrare e pubblicare un episodio? Con l'app di Spreaker puoi farlo anche solo con lo smartphone.",
+   "Hai rimandato il primo episodio perché la distribuzione sembrava complicata? Un clic in meno non è più una scusa che ti resta."
   ]
  }
 ]

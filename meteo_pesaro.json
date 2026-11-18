@@ -1,38 +1,38 @@
 {
- "aggiornato": "2026-11-15",
+ "aggiornato": "2026-11-18",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.youmeteo.com/meteo/pesaro/", "https://www.3bmeteo.com/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723", "https://allertameteo.regione.marche.it", "https://meteo.regione.marche.it"],
+ "fonti": ["https://www.ilrestodelcarlino.it/pesaro/vento-marche-allerta-arancione-mh5pc5k3", "https://www.3bmeteo.com/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723", "https://allertameteo.regione.marche.it", "https://meteo.regione.marche.it", "https://www.meteoplanet.it/meteo/pesaro"],
  "previsioni": [
   {
-   "data": "2026-11-15",
-   "giorno": "domenica",
-   "temp_min_c": 6,
-   "temp_max_c": 11,
-   "condizioni": "Giornata fresca con pioggia debole/cielo parzialmente nuvoloso. Dato convergente da più fonti (Youmeteo, 3BMeteo, Meteoeradar): min 6°C, max 10-11°C, pioggia debole o possibile pioggia da ovest.",
-   "vento": "Moderato, 9-15 km/h da NNE/WNW (3BMeteo) o ENE (Youmeteo), raffiche fino a 24 km/h",
-   "mare": "dato non reperito",
-   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per il 15 novembre 2026 nei risultati di ricerca disponibili"
-  },
-  {
-   "data": "2026-11-16",
-   "giorno": "lunedì",
+   "data": "2026-11-18",
+   "giorno": "mercoledì",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: le ricerche non hanno restituito uno snippet datato in modo inequivocabile al 16 novembre 2026 (i bollettini regionali trovati erano di anni precedenti)",
-   "vento": "dato non reperito",
+   "condizioni": "Secondo Il Resto del Carlino (articolo datato 16/11/2026, fonte regionale Marche), per mercoledì 18 sono previsti deboli piovaschi nelle zone montane, più probabili nel settore meridionale della regione: sulla costa settentrionale (Pesaro) la pioggia appare quindi meno probabile. Meteoplanet riporta per Pesaro valori numerici di circa 17-21°C ma con colonne della tabella non chiaramente etichettate (min/max non distinguibili con certezza) e aggiornamento al 14/11/2026, quindi poco affidabile come previsione puntuale; non è stato possibile accedere direttamente a 3bmeteo.com, ilmeteo.it o meteoeradar.it (host non raggiungibili in questa sessione), quindi temperature non confermate: valori numerici impostati a null.",
+   "vento": "L'allerta arancione vento della Protezione Civile Marche era valida dalla mezzanotte di martedì 17 novembre fino alla mezzanotte successiva (quindi fino all'inizio del 18); non è stato reperito un bollettino che confermi un rinnovo dell'allerta vento per il 18 novembre. Vento comunque atteso ancora presente ma in attenuazione rispetto al 17.",
    "mare": "dato non reperito",
-   "allerta": "dato non reperito per questa data specifica"
+   "allerta": "Allerta arancione vento valida fino alla mezzanotte tra il 17 e il 18 novembre 2026 (Protezione Civile Marche, via Il Resto del Carlino); nessun bollettino ufficiale reperito che confermi un'allerta attiva per il 18 novembre stesso"
   },
   {
-   "data": "2026-11-17",
-   "giorno": "martedì",
+   "data": "2026-11-19",
+   "giorno": "giovedì",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: nessuna fonte consultata restituiva uno snippet datato in modo inequivocabile al 17 novembre 2026",
+   "condizioni": "Secondo Il Resto del Carlino (16/11/2026), giovedì 19 novembre il cielo sarà nuvoloso con una graduale diminuzione della copertura dal pomeriggio (miglioramento in corso). Nessuna fonte con dati numerici datati e verificabili con certezza per Pesaro su questa data; valori numerici impostati a null.",
+   "vento": "dato non reperito con precisione per questa data specifica",
+   "mare": "dato non reperito",
+   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per il 19 novembre 2026 nei risultati di ricerca disponibili"
+  },
+  {
+   "data": "2026-11-20",
+   "giorno": "venerdì",
+   "temp_min_c": null,
+   "temp_max_c": null,
+   "condizioni": "Dato non reperito con sufficiente precisione: le ricerche non hanno restituito una previsione datata in modo inequivocabile al 20 novembre 2026 per Pesaro. Un articolo trovato che menziona neve a 1.800 metri nell'Urbinate e mare agitato cita 'mercoledì 20 novembre', incompatibile con il calendario 2026 (il 20/11/2026 è venerdì), quindi è stato scartato come probabilmente riferito a un anno diverso (2024).",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito per questa data specifica"
   }
  ],
- "note": "WebFetch non disponibile in questa sessione cloud per ilmeteo.it, 3bmeteo.com, meteoblue.com e ilrestodelcarlino.it (host non risolvibile per policy di rete), quindi i dati provengono solo da snippet di ricerca web. Per oggi (15 novembre) più fonti indipendenti convergono su una giornata fresca, 6-11°C, con pioggia debole e vento moderato. Per il 16 e il 17 novembre non è stato possibile reperire un dato numerico affidabile e datato con certezza: le pagine trovate erano bollettini di anni precedenti (2023, 2025) o pagine senza data chiara. Si raccomanda di consultare direttamente 3bmeteo.com, ilmeteo.it o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per questi due giorni."
+ "note": "WebFetch non disponibile in questa sessione cloud per 3bmeteo.com, ilmeteo.it, meteoeradar.it, allertameteo.regione.marche.it e meteo.regione.marche.it (host non risolvibili per policy di rete), quindi i dati provengono solo da snippet di WebSearch. Le fonti climatiche generiche (meteohorizon.com, dove-e-quando.it, ou-et-quand.net) sono state scartate perché mostrano medie storiche mensili, non previsioni giornaliere reali. Meteoplanet forniva alcuni valori numerici ma con etichette di colonna ambigue e aggiornamento risalente al 14/11/2026, quindi non usati per i campi numerici (impostati a null per tutti i 3 giorni). Le uniche informazioni qualitative sufficientemente datate e attribuibili provengono da un articolo de Il Resto del Carlino del 16/11/2026 sull'allerta vento arancione regionale e sulle previsioni generali per le Marche (18-19 novembre); non riguardano Pesaro in modo specifico ma la regione nel suo complesso. Per il 20 novembre non è stato reperito alcun dato attendibile e correttamente datato. Si raccomanda di consultare direttamente 3bmeteo.com, ilmeteo.it o il bollettino della Protezione Civile Marche per dati aggiornati e puntuali su Pesaro."
 }
