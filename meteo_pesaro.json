@@ -1,38 +1,46 @@
 {
- "aggiornato": "2026-11-15",
+ "aggiornato": "2026-11-19",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.youmeteo.com/meteo/pesaro/", "https://www.3bmeteo.com/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro/domani", "https://www.meteoeradar.it/pagina-meteo/pesaro/7565723", "https://allertameteo.regione.marche.it", "https://meteo.regione.marche.it"],
+ "fonti": [
+  "https://www.ilrestodelcarlino.it/pesaro/vento-marche-allerta-arancione-mh5pc5k3",
+  "https://www.ilrestodelcarlino.it/meteo/maltempo-marche-neve-allerta-vento-38199ade",
+  "https://www.ilrestodelcarlino.it/meteo/piogge-nuova-allerta-marche-zone-maltempo-qhz0w6fl",
+  "https://www.meteoplanet.it/meteo/pesaro",
+  "https://www.3bmeteo.com/meteo/pesaro",
+  "https://www.ilmeteo.it/meteo/pesaro",
+  "https://allertameteo.regione.marche.it/"
+ ],
  "previsioni": [
   {
-   "data": "2026-11-15",
-   "giorno": "domenica",
-   "temp_min_c": 6,
-   "temp_max_c": 11,
-   "condizioni": "Giornata fresca con pioggia debole/cielo parzialmente nuvoloso. Dato convergente da più fonti (Youmeteo, 3BMeteo, Meteoeradar): min 6°C, max 10-11°C, pioggia debole o possibile pioggia da ovest.",
-   "vento": "Moderato, 9-15 km/h da NNE/WNW (3BMeteo) o ENE (Youmeteo), raffiche fino a 24 km/h",
+   "data": "2026-11-19",
+   "giorno": "giovedì",
+   "temp_min_c": 16,
+   "temp_max_c": 19,
+   "condizioni": "Cielo nuvoloso con tendenza a parziali schiarite dal pomeriggio (Il Resto del Carlino, articolo del 16/11/2026). Peggioramento del vento previsto in serata. Dato di temperatura da fonte singola (Meteoplanet), non incrociato con altri siti che risultavano non aggiornati alla data odierna.",
+   "vento": "In rinforzo dal pomeriggio/sera, teso o forte in serata; verso l'attivazione dell'allerta vento (Il Resto del Carlino / bollettino Protezione Civile Marche)",
    "mare": "dato non reperito",
-   "allerta": "Nessuna allerta ufficiale della Protezione Civile Marche reperita per il 15 novembre 2026 nei risultati di ricerca disponibili"
+   "allerta": "Allerta ARANCIONE per vento forte su tutte le province delle Marche, valida dalle ore 21:00 del 19/11/2026 alle ore 21:00 del 20/11/2026 (fonte: Il Resto del Carlino, che cita il bollettino della Protezione Civile Regione Marche)"
   },
   {
-   "data": "2026-11-16",
-   "giorno": "lunedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: le ricerche non hanno restituito uno snippet datato in modo inequivocabile al 16 novembre 2026 (i bollettini regionali trovati erano di anni precedenti)",
-   "vento": "dato non reperito",
+   "data": "2026-11-20",
+   "giorno": "venerdì",
+   "temp_min_c": 15,
+   "temp_max_c": 18,
+   "condizioni": "Allerta vento ancora attiva nelle prime ore della giornata, poi tendenza a miglioramento; neve in calo fino a quota 1800 m circa nelle zone interne, in particolare nell'Urbinate (Il Resto del Carlino). Dato di temperatura da fonte singola (Meteoplanet, aggiornamento di alcuni giorni precedente la data), da considerare indicativo.",
+   "vento": "Ancora forte da Nord/Nord-Ovest in attenuazione nel corso della giornata (Il Resto del Carlino)",
    "mare": "dato non reperito",
-   "allerta": "dato non reperito per questa data specifica"
+   "allerta": "Allerta arancione per vento attiva fino alle ore 21:00 del 20/11/2026; non è stato reperito un bollettino successivo che confermi un'eventuale proroga o revoca per il resto della giornata"
   },
   {
-   "data": "2026-11-17",
-   "giorno": "martedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "Dato non reperito con sufficiente precisione: nessuna fonte consultata restituiva uno snippet datato in modo inequivocabile al 17 novembre 2026",
+   "data": "2026-11-21",
+   "giorno": "sabato",
+   "temp_min_c": 13,
+   "temp_max_c": 17,
+   "condizioni": "dato non reperito con certezza: nessuna fonte giornalistica o meteorologica aggiornata a oggi copriva in modo specifico questa data; i soli valori di temperatura trovati provengono da un'unica fonte (Meteoplanet) con aggiornamento di alcuni giorni precedente, quindi a basso livello di confidenza",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito per questa data specifica"
   }
  ],
- "note": "WebFetch non disponibile in questa sessione cloud per ilmeteo.it, 3bmeteo.com, meteoblue.com e ilrestodelcarlino.it (host non risolvibile per policy di rete), quindi i dati provengono solo da snippet di ricerca web. Per oggi (15 novembre) più fonti indipendenti convergono su una giornata fresca, 6-11°C, con pioggia debole e vento moderato. Per il 16 e il 17 novembre non è stato possibile reperire un dato numerico affidabile e datato con certezza: le pagine trovate erano bollettini di anni precedenti (2023, 2025) o pagine senza data chiara. Si raccomanda di consultare direttamente 3bmeteo.com, ilmeteo.it o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per questi due giorni."
+ "note": "Ricerca condotta solo tramite WebSearch: in questa sessione il tool WebFetch non riusciva a raggiungere direttamente 3bmeteo.com, ilmeteo.it e allertameteo.regione.marche.it (errore di risoluzione host), quindi non è stato possibile leggere le pagine live di queste fonti ma solo gli estratti indicizzati da WebSearch, spesso non datati o riferiti a giorni/anni diversi (es. bollettini regionali di novembre 2025, pagine 3bmeteo/ilmeteo con dati estivi). Le informazioni più solide e corroborate riguardano l'allerta vento: un articolo de Il Resto del Carlino datato 19/11/2026 e uno del 16/11/2026 confermano un'allerta arancione per vento forte su tutte le province delle Marche dalle ore 21:00 del 19/11 alle ore 21:00 del 20/11/2026, con neve in calo fino a 1800 m nelle zone interne (Urbinate) nella giornata di venerdì 20. I valori di temperatura min/max per tutti e tre i giorni provengono da un'unica fonte (meteoplanet.it), con un aggiornamento di alcuni giorni precedente alla data odierna, e NON sono stati incrociati con altre fonti numeriche aggiornate: vanno quindi considerati indicativi e a bassa/media confidenza. Per il 21 novembre non è stata reperita nessuna informazione aggiornata su condizioni, vento o allerta oltre alla stima di temperatura. Non è stato possibile confermare lo stato dell'allerta dopo le ore 21:00 del 20/11. Dato il contesto (ondata di maltempo con piogge, esondazioni e allerte multiple nella prima metà di novembre 2026 nelle Marche, incluso il Pesarese), si raccomanda una verifica diretta e aggiornata sui siti ufficiali prima di qualunque decisione operativa."
 }

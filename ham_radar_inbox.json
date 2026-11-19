@@ -1,50 +1,58 @@
 [
- {
-  "id": "ham-2026-11-15-vk9xy-christmas-island-start",
-  "title": "VK9XY attiva da Christmas Island da domani 16 novembre fino al 4 dicembre",
-  "source": "Pacific Islands DXpedition Group, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-16",
-  "brief": "Il Pacific Islands DXpedition Group, con il programma Youth on the Air, inizia domani 16 novembre l'attivazione di Christmas Island (VK9X) con il nominativo VK9XY, in programma fino al 4 dicembre 2026: coprirà anche il weekend del CQ WW DX CW del 28-29 novembre."
- },
- {
-  "id": "ham-2026-11-15-zk3-tokelau-annuncio",
-  "title": "ZK3 Tokelau: Perseverance DX Group annuncia l'attivazione per le ultime due settimane di novembre",
-  "source": "DX-World.net, dxnews.com (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Il Perseverance DX Group insieme al Western Washington DX Club conferma che il team sarà sull'atollo di Tokelau nelle ultime due settimane di novembre 2026, ma le date esatte restano da fissare in base al calendario delle navi dell'ufficio trasporti locale: uno dei DXCC più richiesti al mondo."
- },
- {
-  "id": "ham-2026-11-15-v63jx-chuuk-micronesia",
-  "title": "V63JX attivo da Chuuk, Micronesia, dal 26 al 30 novembre",
-  "source": "cq.sk, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-26",
-  "brief": "L'operatore JR3RIU sarà attivo come V63JX da Chuuk, in Micronesia, dal 26 al 30 novembre 2026: nuova opportunità DX che si aggiunge al calendario già denso di operazioni Pacifiche di fine mese, nei giorni immediatamente precedenti al CQ WW DX CW."
- },
- {
-  "id": "ham-2026-11-15-kh8a-samoa-conclusione",
-  "title": "KH8A conclude oggi la sua attivazione da American Samoa iniziata il 29 ottobre",
-  "source": "cq.sk, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-13",
-  "brief": "Il team tedesco attivo come KH8A da American Samoa ha operato dal 29 ottobre al 13 novembre 2026; i log e la richiesta QSL saranno gestiti tramite il sito ufficiale della spedizione. Utile riferimento per chi deve ancora verificare i propri collegamenti prima della chiusura dei log."
- },
- {
-  "id": "ham-2026-11-15-cqww-cw-countdown",
-  "title": "CQ WW DX Contest CW: conto alla rovescia, si parte il 28 novembre alle 00:00 UTC",
-  "source": "cqww.com, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-28",
-  "brief": "Il regolamento ufficiale 2026 confirma che la sessione CW del CQ World Wide DX Contest si tiene dal 28 al 29 novembre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica: mancano meno di due settimane, periodo in cui diverse DXpedition Pacifiche (VK9XY, ZK3, V63JX) saranno ancora attive e raggiungibili."
- },
- {
-  "id": "ham-2026-11-15-kenwood-tm-d750e-date-contrastanti",
-  "title": "Kenwood TM-D750E: le date di uscita europea restano contrastanti tra i rivenditori",
-  "source": "cq.sk, Wimo, Limmared (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Sul nuovo mobile VHF/UHF Kenwood TM-D750E (doppio ricevitore, D-Star, APRS/GPS), i rivenditori europei danno indicazioni diverse: Wimo lo segnala 'disponibile a breve' senza prezzo fissato, mentre un altro negozio online indica settembre 2026 come finestra di arrivo, superata senza che il prodotto sia ancora regolarmente disponibile. La certificazione FCC per la versione USA risulta ottenuta a inizio 2026."
- }
+  {
+    "id": "ham-2026-11-19-c8k-mozambico",
+    "title": "DXpedition C8K in Mozambico in piena attività",
+    "source": "DXZone, 425 DX News, ARRL (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-12",
+    "brief": "Il team ceco (OK1BOA, OK1FCJ, OK1CRM, OK1GK, OK2ZA, OK2ZC, OK2ZI, OK6DJ) opera da C8K con focus sulle bande basse. Arrivo a Maputo il 9 novembre, piena operativita' indicata per il 12-18 novembre e partenza il 20, su CW/SSB/FT8/RTTY 160-6m e via QO-100. QSL via LoTW/OQRS."
+  },
+  {
+    "id": "ham-2026-11-19-kh8a-samoa",
+    "title": "DXpedition KH8A ad American Samoa verso la chiusura anticipata",
+    "source": "425 DX News, DXZone (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": null,
+    "brief": "Il team tedesco di nove operatori attivo come KH8A su Tutuila (OC-045) dal 29 ottobre, con piano originario fino al 13 novembre circa. Un bollettino 425 DX News segnala una permanenza ridotta di due giorni per un cambio di voli, ma non e' stata trovata una nuova data certa di chiusura."
+  },
+  {
+    "id": "ham-2026-11-19-tempesta-g1",
+    "title": "Allerta tempesta geomagnetica G1 e flusso solare in calo",
+    "source": "NOAA SWPC via SpaceWeatherLive e watchers.news (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-11-17",
+    "brief": "NOAA SWPC prevede tempeste geomagnetiche minori isolate (G1) tra la sera del 17 e la notte dell'18 novembre, con Kp planetario atteso fino a 4,67. Il flusso solare a 10,7 cm, osservato a 123 il 16 novembre, e' previsto in calo (120, 115, 100) nei giorni successivi: possibile peggioramento delle aperture DX su 10 e 12 metri."
+  },
+  {
+    "id": "ham-2026-11-19-cqww-cw",
+    "title": "CQ WW DX CW Contest 2026 confermato per il 28-29 novembre",
+    "source": "Regolamento ufficiale cqww.com (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-11-28",
+    "brief": "Il regolamento ufficiale pubblicato da CQ WW conferma la gara CW dal 28 al 29 novembre 2026, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica. Scambio RST + zona CQ, potenza massima 1500 W per la categoria high power, vietato qualsiasi aiuto esterno per individuare le stazioni (cluster, RBN, decoder)."
+  },
+  {
+    "id": "ham-2026-11-19-arrl-sweepstakes-ssb",
+    "title": "ARRL November Sweepstakes SSB dal 21 al 23 novembre",
+    "source": "ARRL Letter, edizione del 2026-11-12 (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-11-21",
+    "brief": "L'ARRL confirma il weekend SSB delle November Sweepstakes dalle 21:00 UTC del 21 novembre alle 02:59 UTC del 23 novembre 2026. L'evento e' indicato anche come occasione per accumulare ulteriori stati verso il traguardo America250 WAS."
+  },
+  {
+    "id": "ham-2026-11-19-w3a-special-event",
+    "title": "Stazione speciale W3A per l'anniversario degli Articoli della Confederazione",
+    "source": "ARRL Letter, edizione del 2026-11-12 (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-11-11",
+    "brief": "La stazione evento speciale W3A e' attiva da Towamencin Township, Pennsylvania, dall'11 al 18 novembre 2026 per commemorare l'anniversario degli Articles of Confederation. L'attivita' si chiude proprio in questi giorni."
+  },
+  {
+    "id": "ham-2026-11-19-pj7uk-sint-maarten",
+    "title": "Attivazione single-operator PJ7UK a Sint Maarten annunciata",
+    "source": "Bollettino DX (via ricerca web 2026-11-19)",
+    "affidabilita": "segnale debole",
+    "date": "2026-11-28",
+    "brief": "L'operatore N0UK ha annunciato un'attivazione come PJ7UK da Sint Maarten dal 28 novembre al 7 dicembre 2026. Si tratta di un'operazione singola, non di una DXpedition di gruppo; la notizia proviene da una sola fonte individuata e non e' stata confermata da un secondo bollettino indipendente."
+  }
 ]

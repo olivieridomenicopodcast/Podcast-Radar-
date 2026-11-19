@@ -1,56 +1,65 @@
 [
- {
-  "id": "rift-2026-11-15-ban-friday-ancora-non-confermato",
-  "title": "Il teaser di Dave Guskin su un nuovo giro di ban resta senza seguito ufficiale",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-13",
-  "brief": "Il game director Dave Guskin aveva anticipato sui social un possibile annuncio sui ban in Constructed per venerdì 13 novembre, dopo la fine dell'Europe Regional Championship di Stoccarda. Alla data di questa ricerca non risulta ancora pubblicato un comunicato ufficiale con l'elenco delle carte coinvolte: il teaser resta un teaser, senza lista di ban confermata.",
-  "rilevanza": "Chi gioca competitivo deve continuare a monitorare i canali ufficiali Riftbound prima di investire tempo su un mazzo che potrebbe diventare illegale a breve."
- },
- {
-  "id": "rift-2026-11-15-settembre-resta-ultimo-ban-ufficiale",
-  "title": "L'ultimo ban ufficiale confermato resta quello di Ekko, Recurrent e Stacked Deck del 18 settembre",
-  "source": "playriftbound.com (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-09-18",
-  "brief": "In assenza di un nuovo comunicato, il riferimento ufficiale più recente resta il ban di Ekko, Recurrent e Stacked Deck in Standard e 2v2 Constructed, introdotto il 18 settembre 2026 per una combo giudicata troppo rischiosa per l'equilibrio del gioco.",
-  "rilevanza": "Base di partenza per chi deve costruire un mazzo oggi: finché non arriva un comunicato nuovo, le regole in vigore sono ancora queste."
- },
- {
-  "id": "rift-2026-11-15-tierlist-riven-s-kennen-sfidante",
-  "title": "Tier list riftbound.gg (torneo 30 ottobre-4 novembre): Riven domina il Tier S, Kennen si confirma la principale sfidante",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-04",
-  "brief": "L'ultima tier list di riftbound.gg, basata sui torneo della settimana 30 ottobre-4 novembre, mette Riven in Tier S con 5 vittorie e 16 top cut; Kennen resta in Tier 1 con 10 top cut (ma zero vittorie di torneo), descritta come la legend meglio posizionata per battere Riven grazie a mazzi costruiti apposta contro Kai'Sa.",
-  "rilevanza": "Segnale utile per chi deve scegliere un mazzo in vista dei prossimi eventi di dicembre: Riven resta il bersaglio da battere, Kennen la sfidante più solida sul piano dei top cut."
- },
- {
-  "id": "rift-2026-11-15-riftdecks-vs-riftboundgg-metashare",
-  "title": "Due fonti non sono d'accordo su chi domini il meta: Kennen prima per metashare, Riven per top cut",
-  "source": "RiftDecks, riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "RiftDecks, che pesa i mazzi per quota di metagame (metashare), indica Kennen come legend più giocata (circa 13% dei mazzi, 15 liste) davanti a Riven (circa 8%, 10 liste); riftbound.gg, che pesa invece le vittorie e i top cut nei torneo principali, mette Riven in testa. Le due classifiche misurano cose diverse e quindi non vanno lette come contraddittorie.",
-  "rilevanza": "Promemoria pratico per chi segue il meta: 'la legend più forte' dipende dalla metrica usata (quanti la giocano vs quanti vincono con lei), non è un dato unico e assoluto."
- },
- {
-  "id": "rift-2026-11-15-legacy-data-discordante",
-  "title": "Due fonti diverse non concordano sulla data di uscita di Riftbound: Legacy (29 gennaio o 30 aprile 2027)",
-  "source": "Riot Games/playriftbound.com, Bleeding Cool (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Il sesto set, Riftbound: Legacy, viene indicato da fonti vicine a Riot come in uscita il 29 gennaio 2027, con prima anteprima al Convergence Fest (11-13 dicembre 2026); Bleeding Cool riporta invece la data del 30 aprile 2027, che secondo altre fonti sarebbe quella di un set successivo (The Reckoning). Le due date non sono state riconciliate nelle fonti consultate.",
-  "rilevanza": "Chi pianifica acquisti o un torneo legato a un nuovo set dovrebbe verificare la data sul canale ufficiale Riot prima di fare programmi, visto il disaccordo tra fonti."
- },
- {
-  "id": "rift-2026-11-15-regional-nordamerica-dicembre",
-  "title": "Il Regional Championship del Nord America è fissato per dicembre 2026, dopo quello europeo di Stoccarda",
-  "source": "riftbound.gg (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Dopo l'Europe Regional Championship di Stoccarda (6-8 novembre 2026), il prossimo grande evento del circuito competitivo è il Regional Championship del Nord America, in programma a dicembre 2026; non è stata reperita in questa ricerca una data esatta del giorno.",
-  "rilevanza": "Evento da seguire per chi vuole capire se il meta post-Riven/Kennen cambierà con un pool di giocatori diverso da quello europeo."
- }
+  {
+    "id": "rift-2026-11-19-ban-riven-radiance",
+    "title": "Riot banna Riven e altre carte/campi di battaglia in vista del 23 novembre",
+    "source": "playriftbound.com (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-11-13",
+    "brief": "Riot ha annunciato la quarta ondata di ban per Riftbound: otto carte (tra cui Riven, Broken Blade, Zhonya's Hourglass, Stellacorn Herder, Nocturne, Rhasa the Sunderer e Brynhir Thundersong) e due campi di battaglia escono dalle liste Standard e 2v2 Constructed. L'effetto scatta lunedi 23 novembre 2026.",
+    "rilevanza": "E il ban wave piu ampio dal lancio del gioco: chi gioca Riven o archetipi aggro legati a quelle carte dovra ricostruire il mazzo prima dei prossimi torneo ufficiali."
+  },
+  {
+    "id": "rift-2026-11-19-regional-banlist-split",
+    "title": "Riftbound passa da una ban list globale a liste separate per circuito/regione",
+    "source": "playriftbound.com e riftbound.gg (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-11-13",
+    "brief": "Insieme al ban wave di novembre, Riot ha annunciato un cambio strutturale: non esistera piu un'unica ban list globale, ma liste distinte per ciascun circuito competitivo, per tenere conto dei metagame regionali non ancora in parita (es. Corea e Cina tradizionale, dove Radiance non e ancora uscito).",
+    "rilevanza": "Cambia il modo in cui i giocatori competitivi devono informarsi: la lista valida dipende ora dalla propria regione/circuito e non piu da un'unica fonte globale."
+  },
+  {
+    "id": "rift-2026-11-19-riven-dominanza-stoccarda",
+    "title": "Riot motiva il ban citando il 43% dei mazzi Riven al Regional Championship Europe di Stoccarda",
+    "source": "Riot/playriftbound.com, ripreso da ICv2 e riftbound.gg (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-11-13",
+    "brief": "Nell'annuncio del ban, Riot ha specificato che i mazzi Riven rappresentavano il 43% delle liste registrate al Regional Championship Europe di Stoccarda, occupando 3 dei primi 4 posti e 8 dei primi 16; secondo Riot il deck manteneva un winrate stimato intorno al 60% (mirror esclusi).",
+    "rilevanza": "Fornisce il contesto statistico dietro la decisione: utile per capire quanto fosse fuori scala Riven prima di investire tempo o soldi nel craftarla o nel costruire counter."
+  },
+  {
+    "id": "rift-2026-11-19-stoccarda-risultati",
+    "title": "ASC Evansrhim vince il Regional Championship Europe di Stoccarda con Kennen 'Heart of the Tempest'",
+    "source": "riftbound.gg e Polkastarter (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-08",
+    "brief": "Al Regional Championship Europe (6-8 novembre, Messe Stuttgart, montepremi 50.000 dollari) la vittoria e andata ad ASC Evansrhim con un mazzo Kennen 'Heart of the Tempest'. Il Top 8 era composto da 4 Riven, 3 Kennen e 1 Kai'Sa, a conferma dello strapotere di Riven poi sanzionato da Riot pochi giorni dopo.",
+    "rilevanza": "Fotografa il meta pre-ban al suo livello piu alto: utile per capire quali archetipi (Kennen, Kai'Sa) restano competitivi dopo l'uscita di Riven dalla lista legale."
+  },
+  {
+    "id": "rift-2026-11-19-convergence-fest-vegas",
+    "title": "Convergence Fest a Las Vegas (11-13 dicembre): in vendita i biglietti per i side event",
+    "source": "Riot Games / riftbound.zone (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-18",
+    "brief": "Il 18 novembre sono partite le vendite dei biglietti per i side event di Convergence Fest, l'evento che unisce Teamfight Tactics e Riftbound a Las Vegas dall'11 al 13 dicembre 2026. Ospitera il prossimo Regional Championship nordamericano (formato Standard, con carte di Radiance) e offrira ai partecipanti USA un promo del campo di battaglia Ionic Spark.",
+    "rilevanza": "E il prossimo grande torneo ufficiale dopo il ban wave: la prima competizione Standard giocata con la nuova lista, da seguire per capire come si riassesta il meta."
+  },
+  {
+    "id": "rift-2026-11-19-tier-list-radiance",
+    "title": "Tier list Radiance: Riven ancora al top prima del ban, Master Yi, Jayce e Kennen i counter migliori",
+    "source": "riftbound.gg e Axeetech (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-04",
+    "brief": "Le tier list basate sui torneo di fine ottobre/inizio novembre confermano Riven come pick dominante del meta Radiance, con Kai'Sa e Kennen immediatamente dietro in Tier 1/A. Master Yi, Jayce e Kennen risultano i matchup piu favorevoli contro Riven. Le fonti divergono leggermente sul piazzamento esatto di Kai'Sa.",
+    "rilevanza": "E lo scatto del meta appena prima del ban del 23 novembre: utile come riferimento per capire quali archetipi potrebbero salire di tier una volta sparita Riven."
+  },
+  {
+    "id": "rift-2026-11-19-worlds-bundle-drawing",
+    "title": "Chiuse le iscrizioni per i bundle 'Worlds 2026 Edition' e 'T1 Player Bundle'",
+    "source": "playriftbound.com / riftbound.gg (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-17",
+    "brief": "La finestra di registrazione per il sorteggio dei bundle a tema Worlds 2026 (80 dollari) e T1 Player Bundle (70 dollari) e andata dal 13 al 16 novembre; le prime email ai vincitori sono partite il 17 novembre, con consegna dei prodotti prevista a meta dicembre.",
+    "rilevanza": "Riguarda soprattutto i collezionisti: chi ha partecipato al sorteggio deve controllare la mail per sapere se ha ottenuto il bundle a tema Worlds/T1."
+  }
 ]

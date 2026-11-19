@@ -1,47 +1,21 @@
 [
- {
-  "id": "creator-2026-11-15-lucca-comics-345mila-record",
-  "title": "Lucca Comics & Games chiude la 60ª edizione con 345mila partecipanti, oltre 60mila più del 2025",
-  "source": "Rolling Stone Italia, Editoriale Domani, Multiplayer.it (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "brief": "La 60ª edizione 'Legacy' di Lucca Comics & Games, chiusa il 1 novembre, ha registrato circa 345mila partecipanti (paganti più accreditati), oltre 60mila in più rispetto al 2025: un nuovo record secondo più fonti italiane, anche se un sito ha pubblicato per errore la cifra di 800mila poi non confermata altrove.",
-  "rilevanza": "Il bilancio record continua a circolare nei resoconti e nei contenuti dei creator italiani che hanno coperto l'evento, e resta un riferimento per chi valuta la portata della fiera come vetrina per contenuti nerd generalisti."
- },
- {
-  "id": "creator-2026-11-15-cicciogamer-franchino-giuliacrossbow",
-  "title": "Franchino, Giuliacrossbow e CiccioGamer89 al centro di un dibattito nella community gaming italiana su un format 'food'",
-  "source": "Kolsquare (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Una recensione negativa di Giuliacrossbow su un'iniziativa food legata a CiccioGamer89, storico YouTuber gaming italiano, seguita da una recensione molto positiva di Franchino, ha acceso un dibattito diffuso rapidamente nelle rispettive community. La data esatta dell'episodio non è determinabile con certezza dalla fonte trovata.",
-  "rilevanza": "Esempio di come dinamiche tra grandi nomi del gaming italiano su YouTube si spostino facilmente su temi extra-videoludici, generando dibattito trasversale nella fanbase nerd."
- },
- {
-  "id": "creator-2026-11-15-creator-indipendenza-sponsor",
-  "title": "Sempre più creator videoludici italiani rivendicano indipendenza da sponsor e codici review",
-  "source": "AnimeClick (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Un approfondimento di AnimeClick segnala una tendenza tra i creator italiani di videogiochi a rinunciare a sponsorizzazioni e codici review dei publisher per tutelare credibilità e autonomia critica agli occhi del proprio pubblico. Non è specificata una data precisa della pubblicazione.",
-  "rilevanza": "Tema diretto per chi analizza il rapporto tra creator nerd italiani e publisher: la scelta di indipendenza economica come leva di fiducia con la community."
- },
- {
-  "id": "creator-2026-11-15-milan-games-week-cartoomics-creator-programma",
-  "title": "Milan Games Week & Cartoomics 2026 (27-29 novembre): biglietti in vendita, programma con area creator e cosplay",
-  "source": "Multiplayer.it, TicketOne (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "brief": "Gli organizzatori di Milan Games Week & Cartoomics 2026, in programma dal 27 al 29 novembre a Fiera Milano Rho, hanno messo in vendita i biglietti e annunciato un programma con panel e meet & greet legati ai content creator, oltre a cosplay ed eSport; la lista completa degli ospiti creator non è ancora stata confermata nei risultati trovati.",
-  "rilevanza": "Appuntamento imminente che riguarda direttamente i content creator italiani nerd, molti dei quali partecipano abitualmente come ospiti o producono contenuti dedicati all'evento."
- },
- {
-  "id": "creator-2026-11-15-nota-streamer-polemiche",
-  "title": "Nessuna polemica recente e verificabile reperita su singoli streamer italiani datata alle ultime 48 ore",
-  "source": "Ricerca web 2026-11-15 (nessuna fonte editoriale recente trovata)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Nota di trasparenza: la ricerca mirata su eventuali polemiche o dichiarazioni recenti di streamer/content creator italiani del mondo gaming non ha restituito episodi datati con certezza alle ultime 48 ore; i casi emersi (es. episodi su Twitch Italia) risalgono a mesi o anni precedenti.",
-  "rilevanza": "Utile per non forzare una notizia di cronaca inesistente: meglio verificare direttamente i profili social dei creator per episodi dell'ultimo giorno."
- }
+  {
+    "id": "creator-2026-11-19-misu-yamaneko-intervista",
+    "title": "AnimeClick intervista Misu Yamaneko, regista italiana nell'industria anime giapponese",
+    "source": "AnimeClick.it (via ricerca web 2026-11-19)",
+    "affidabilita": "segnale debole",
+    "date": null,
+    "brief": "AnimeClick.it ha pubblicato un'intervista a Misu Yamaneko, animatrice e director italiana attiva in Giappone (ha lavorato su 'The Promised Neverland' e su 'Pokémon Horizons: The Series'), in cui parla del mercato dell'animazione giapponese e delle produzioni estere. L'articolo segnala anche la sua presenza al Milan Games Week & Cartoomics 2026 (27-29 novembre, Rho Fiera).",
+    "rilevanza": "È una delle pochissime professioniste italiane con un ruolo creativo riconosciuto nell'industria anime giapponese, e la sua testimonianza interessa direttamente la community nerd/manga italiana in vista di un grande evento di settore.",
+    "nota": "Trovata tramite ricerca web; non è stato possibile verificare la data esatta di pubblicazione dell'articolo (fonte unica), quindi non è certo che risalga esattamente alle ultime 48 ore."
+  },
+  {
+    "id": "creator-2026-11-19-nota-trasparenza",
+    "title": "Nota di trasparenza: ricerca notizie creator nerd italiani delle ultime 48 ore",
+    "source": "Nota del ricercatore (via ricerca web 2026-11-19)",
+    "affidabilita": "segnale debole",
+    "date": "2026-11-19",
+    "brief": "Ho condotto circa venti ricerche web (gaming YouTuber/streamer italiani, fumetti/manga, giochi da tavolo, eventi, polemiche) ma non ho trovato notizie VERE, verificabili e databili con certezza alle ultime 48 ore (17-19 novembre 2026) su content creator nerd italiani. I risultati erano quasi tutti classifiche di marketing (Heepsy, Kolsquare, Social Blade), pagine datate ad altri mesi del 2026, o notizie di anni precedenti riproposte dai motori di ricerca.",
+    "rilevanza": "Segnalo questo limite per onestà metodologica invece di inventare episodi di cronaca: preferisco un radar incompleto ma veritiero. Piste utili da monitorare nei prossimi giorni: il programma definitivo e gli ospiti/creator del Milan Games Week & Cartoomics 2026 (27-29 novembre, Fiera Milano Rho), dove sono già confermati gli ospiti manga Posuka Demizu e Jun Mayuzuki (quest'ultima alla sua prima visita in Italia, annuncio J-POP Manga) e dove la community streamer/creator italiana sarà molto presente."
+  }
 ]

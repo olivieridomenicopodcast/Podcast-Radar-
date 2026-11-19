@@ -1,56 +1,56 @@
 [
- {
-  "id": "nerd-2026-11-15-gta6-countdown",
-  "title": "GTA 6 a quattro giorni dal lancio: Rockstar confirma il 19 novembre 2026",
-  "source": "TechRadar, GamesRadar, Rockstar Games (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-19",
-  "tipo": "videogioco",
-  "brief": "Dopo due rinvii (da fine 2025 a maggio 2026, poi al 19 novembre 2026), Rockstar Games e Take-Two confermano che Grand Theft Auto 6 uscirà in questa data, ormai a pochi giorni di distanza: uno dei lanci videoludici più attesi degli ultimi anni entra nel countdown finale."
- },
- {
-  "id": "nerd-2026-11-15-lucca-comics-chiusura-60",
-  "title": "Lucca Comics & Games 2026 chiude la 60ª edizione 'Diamond/Legacy' con circa 345mila visitatori",
-  "source": "Finestre sull'Arte, Rolling Stone Italia (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "tipo": "fiera",
-  "brief": "La 60ª edizione di Lucca Comics & Games (28 ottobre-1 novembre 2026) si è chiusa con circa 345mila presenze, oltre 60mila più del 2025, 900 ospiti e 14 mostre. Una fonte riporta una cifra molto più alta (800mila) in evidente contrasto con le altre, quindi va presa con cautela."
- },
- {
-  "id": "nerd-2026-11-15-pokemon-team-rocket-board-game",
-  "title": "Pokémon annuncia un gioco da tavolo dedicato al Team Rocket, in arrivo in Giappone a novembre",
-  "source": "Archyde, Outlook India (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "tipo": "gioco da tavolo",
-  "brief": "Un nuovo gioco da tavolo ufficiale Pokémon centrato sul Team Rocket (titolo giapponese riconducibile a 'Are You, Perhaps, a Rocket Grunt?') arriverà questo mese, ma le fonti non concordano sullo studio di sviluppo (Yoka Games citato da una fonte) né sull'eventuale distribuzione fuori dal Giappone."
- },
- {
-  "id": "nerd-2026-11-15-stonemaier-braided-skies",
-  "title": "Stonemaier Games annuncia 'Braided Skies', nuovo titolo nell'universo di Smoking Bones, al retail a novembre",
-  "source": "ICv2 (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "tipo": "gioco da tavolo",
-  "brief": "Stonemaier Games ha presentato a Essen Spiel 2026 'Braided Skies', ambientato nello stesso universo di Smoking Bones: dopo la fiera tedesca il titolo arriva anche in retail nel corso di novembre 2026, ampliando il catalogo di uno degli editori indipendenti più seguiti dalla community."
- },
- {
-  "id": "nerd-2026-11-15-1984-unperson-boardova",
-  "title": "Boardova Games porta in retail '1984: Unperson', gioco ispirato al romanzo di Orwell",
-  "source": "ICv2 (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "tipo": "gioco da tavolo",
-  "brief": "Boardova Games ha distribuito dal 1° novembre 2026 '1984: Unperson', gioco da tavolo basato sul romanzo distopico di George Orwell: un esempio di adattamento ludico di un classico letterario rivolto a un pubblico adulto e tematico."
- },
- {
-  "id": "nerd-2026-11-15-lotr-circle-of-conflict",
-  "title": "Asmodee ed Office Dog pubblicano 'The Lord of the Rings: Circle of Conflict', dadi strategici nella Terra di Mezzo",
-  "source": "Asmodee Store, PCGames.de, Zatu (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-06",
-  "tipo": "gioco da tavolo",
-  "brief": "Dal 6 novembre 2026 è disponibile 'Circle of Conflict', gioco di dadi strategico per 2-4 giocatori firmato Office Dog e distribuito da Asmodee, in cui si controllano a turno i Popoli Liberi e le forze dell'Ombra nella Terza Era della Terra di Mezzo, con partite da circa un'ora."
- }
+  {
+    "id": "nerd-2026-11-19-game-awards-nominees",
+    "title": "The Game Awards 2026: annunciate le nomination, GTA VI guida con otto candidature",
+    "source": "Gematsu, Dexerto, GamesBeat, Nintendo Everything (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-17",
+    "tipo": "videogioco",
+    "brief": "Il 17 novembre sono state svelate le nomination dei Game Awards 2026: Grand Theft Auto VI guida la classifica con otto candidature ed è tra i sei titoli in corsa per Gioco dell'Anno, insieme a 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem e The Legend of Zelda: Ocarina of Time Remake. La cerimonia, condotta da Geoff Keighley, si terrà il 10 dicembre al Peacock Theater di Los Angeles."
+  },
+  {
+    "id": "nerd-2026-11-19-gta6-lancio",
+    "title": "GTA VI debutta oggi, 19 novembre 2026, su PS5 e Xbox Series X|S",
+    "source": "games.gg, Multiplayer.it, TechPrincess (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-19",
+    "tipo": "videogioco",
+    "brief": "Dopo il rinvio dalla data originaria di maggio, Grand Theft Auto VI di Rockstar Games arriva oggi su PlayStation 5 e Xbox Series X|S: la data è stata riconfermata più volte dal CEO di Take-Two Strauss Zelnick. Non è stata ancora annunciata una versione PC."
+  },
+  {
+    "id": "nerd-2026-11-19-dd-world-of-warcraft",
+    "title": "Dungeons & Dragons: World of Warcraft debutta il 17 novembre, prima espansione della linea Universes Beyond",
+    "source": "GodIsAGeek, Wargamer, TechRadar (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-17",
+    "tipo": "gioco da tavolo",
+    "brief": "Wizards of the Coast, in collaborazione con Blizzard Entertainment, ha pubblicato il 17 novembre il manuale D&D: World of Warcraft, che apre la 'Season of Champions'. L'espansione introduce nuove sottoclassi, specie ispirate a WoW e dungeon come Icecrown Citadel adattati al gioco di ruolo da tavolo."
+  },
+  {
+    "id": "nerd-2026-11-19-milan-games-week",
+    "title": "Milan Games Week & Cartoomics 2026: appuntamento dal 27 al 29 novembre a Fiera Milano Rho",
+    "source": "Multiplayer.it, TechPrincess (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-27",
+    "tipo": "fiera",
+    "brief": "Le date della fiera erano state fissate già a giugno 2026, ma l'evento è ormai imminente: dal 27 al 29 novembre a Fiera Milano (Rho) tornano Milan Games Week e Cartoomics con videogiochi, torneo e area fumetti. I biglietti sono in vendita dall'annuncio del programma."
+  },
+  {
+    "id": "nerd-2026-11-19-crowdfunding-tavolo",
+    "title": "Giochi da tavolo in crowdfunding: Wallguards of the East Empire e Samurai Empires chiudono questa settimana",
+    "source": "BoardGameQuest (via ricerca web 2026-11-19)",
+    "affidabilita": "segnale debole",
+    "date": "2026-11-16",
+    "tipo": "gioco da tavolo",
+    "brief": "Il riepilogo settimanale di BoardGameQuest segnala tra le campagne attive Wallguards of the East Empire su Gamefound (chiusura 18 novembre), l'espansione Eiyū per Samurai Empires e il bundle Hunt for the Bismarck su Kickstarter. Informazione da fonte unica, non ancora confermata da altri siti di settore."
+  },
+  {
+    "id": "nerd-2026-11-19-nota-trasparenza",
+    "title": "Nota di trasparenza sulla copertura di oggi",
+    "source": "Ricerca redazionale (via ricerca web 2026-11-19)",
+    "affidabilita": "segnale debole",
+    "date": null,
+    "tipo": "nota",
+    "brief": "Nelle ultime 48 ore non sono emersi ulteriori annunci freschi e doppiamente verificati su nuovi videogiochi o giochi da tavolo oltre a quelli qui raccolti, né date ufficiali inedite per fiere come Gen Con 2027, Essen Spiel 2027 o Lucca Comics 2027. Si è preferito segnalare la lacuna piuttosto che inventare dettagli."
+  }
 ]

@@ -1,50 +1,58 @@
 [
- {
-  "id": "metal-2026-11-15-iron-savior-deathbringer",
-  "title": "Iron Savior pubblicano \"Deathbringer\" per Frontiers Records",
-  "source": "Spirit of Metal, Frontiers Records (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-13",
-  "brief": "La power metal band tedesca Iron Savior ha pubblicato il 13 novembre \"Deathbringer\" tramite Frontiers Records, nuovo capitolo discografico della storica formazione fondata da Piet Sielck."
- },
- {
-  "id": "metal-2026-11-15-powerwolf-moral-madness-tour",
-  "title": "Powerwolf annunciano il tour arena 2027 \"Moral & Madness\" in Europa e UK",
-  "source": "Blabbermouth, Loudersound, comunicato stampa danese (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-09",
-  "brief": "I power metal tedeschi Powerwolf hanno annunciato il \"Moral & Madness World Tour\" 2027, le date più grandi della loro carriera tra cui Wembley Arena a Londra e Co-op Live a Manchester, con Apocalyptica e Majestica come ospiti in diverse tappe. I biglietti per le date UK sono andati in vendita venerdì 13 novembre."
- },
- {
-  "id": "metal-2026-11-15-ozzfest-2027-return",
-  "title": "Ozzfest torna nel 2027 con tre show in USA, UK e Messico",
-  "source": "Blabbermouth, Loudwire (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-05",
-  "brief": "Il 5 novembre è stato ufficializzato il ritorno di Ozzfest nel 2027: data USA l'11 settembre al Glen Helen Amphitheater in California (dove tutto nacque nel 1996), più le tappe di Milton Keynes (10 luglio) e Città del Messico (18 settembre). I primi biglietti sono andati in vendita il 6 novembre, lineup ancora da annunciare."
- },
- {
-  "id": "metal-2026-11-15-messa-unica-data-italiana",
-  "title": "Messa chiudono il loro primo tour headline UK/Europa con l'unica data italiana a Trezzo sull'Adda",
-  "source": "TicketOne, Mentelocale, Regioactive (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-21",
-  "brief": "La band doom italiana Messa suona il 21 novembre al Live Club di Trezzo sull'Adda (MI): è l'unica tappa italiana e la data conclusiva del loro primo tour da headliner in Europa e UK, partito il 27 ottobre da Marsiglia dopo l'album \"The Spin\"."
- },
- {
-  "id": "metal-2026-11-15-korn-unipol-forum-milano",
-  "title": "Korn all'Unipol Forum di Milano il 21 novembre nell'Euro Tour 2026",
-  "source": "Hypebot, aggregatori biglietteria (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-21",
-  "brief": "I Korn fanno tappa il 21 novembre all'Unipol Forum di Milano nell'ambito dell'Euro Tour 2026: una delle date nu metal/metalcore più attese del mese per il pubblico italiano."
- },
- {
-  "id": "metal-2026-11-15-monolord-legend-club",
-  "title": "Monolord in concerto al Legend Club di Milano il 13 novembre",
-  "source": "Concertful (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-13",
-  "brief": "La band doom/stoner svedese Monolord ha suonato il 13 novembre al Legend Club di Milano: dato riportato da un solo aggregatore di biglietteria, da verificare sui canali ufficiali del locale per eventuali variazioni."
- }
+  {
+    "id": "metal-2026-11-19-trivium-crown-in-the-grave",
+    "title": "Trivium, domani 20 novembre l'uscita del nuovo album \"Crown in the Grave\"",
+    "source": "Blabbermouth, Loudersound, mxdwn (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-20",
+    "brief": "Trivium pubblicano il loro undicesimo album \"Crown in the Grave\" via Roadrunner Records, annunciato l'8 ottobre 2026 insieme al video della title track. La band ha in programma un tour nordamericano da headliner e un co-headline europeo con In Flames a partire dal 29 marzo 2027."
+  },
+  {
+    "id": "metal-2026-11-19-download-festival-2027-lineup",
+    "title": "Download Festival 2027: blink-182, Bring Me The Horizon ed Evanescence headliner",
+    "source": "Official Charts, Music Week, Loudersound, TicketNews (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-12",
+    "brief": "Il Download Festival ha annunciato il 12 novembre 2026 la line-up 2027: a Donington Park (9-13 giugno 2027) headlineranno blink-182, Bring Me The Horizon ed Evanescence, con oltre 100 artisti nel primo annuncio tra cui Motley Crue, Faith No More, The Prodigy e Turnstile."
+  },
+  {
+    "id": "metal-2026-11-19-manowar-italia-2027",
+    "title": "Manowar tornano in Italia nel 2027 con due date a Bergamo",
+    "source": "Manowar.com, Rockol/Ticketone (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "date": "2026-07-16",
+    "brief": "Manowar hanno annunciato il ritorno in Italia dopo 14 anni con due serate alla nuova ChorusLife Arena di Bergamo: il 26 marzo 2027 (\"Kings of Metal\" integrale) e il 27 marzo 2027 (\"Fighting the World\"). L'annuncio e la vendita biglietti risalgono a metà luglio 2026, ma resta l'unica data italiana confermata per il tour 2027."
+  },
+  {
+    "id": "metal-2026-11-19-whitechapel-italia-2027",
+    "title": "Whitechapel in Italia a febbraio 2027 con Sylosis e 200 Stab Wounds",
+    "source": "Blabbermouth, Ticketone (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2027-02-09",
+    "brief": "Nell'ambito del \"Burn Forever European Tour 2027\" annunciato a marzo 2026, i deathcore statunitensi Whitechapel suoneranno il 9 febbraio 2027 ai Magazzini Generali di Milano, unica data italiana, con il supporto di Sylosis e 200 Stab Wounds."
+  },
+  {
+    "id": "metal-2026-11-19-walls-of-jericho-system-error",
+    "title": "Walls of Jericho pubblicano \"System Error: Humanity\"",
+    "source": "Blabbermouth (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-13",
+    "brief": "La band metalcore Walls of Jericho ha pubblicato il 13 novembre 2026 il nuovo album \"System Error: Humanity\" via Napalm Records, 15 tracce registrate da Kurt Ballou (Converge) ai GodCity Studio."
+  },
+  {
+    "id": "metal-2026-11-19-carnifex-more-than-misery",
+    "title": "Carnifex, uscito il nuovo album \"More Than Misery\"",
+    "source": "Blabbermouth (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-06",
+    "brief": "I deathcore Carnifex hanno pubblicato il 6 novembre 2026 il nuovo album \"More Than Misery\" via Sumerian Records, annunciato il 28 agosto con il rilascio della title track e del relativo video."
+  },
+  {
+    "id": "metal-2026-11-19-hatebreed-fatal-paradox",
+    "title": "Hatebreed pubblicano \"Fatal Paradox\"",
+    "source": "mxdwn (via ricerca web 2026-11-19)",
+    "affidabilita": "segnale debole",
+    "date": "2026-11-06",
+    "brief": "Hatebreed hanno fatto uscire il 6 novembre 2026 il nuovo album \"Fatal Paradox\", anticipato dal singolo e video \"Kill Count Increase\". La notizia è confermata da una sola fonte secondaria trovata nella ricerca, quindi va verificata su un secondo canale."
+  }
 ]

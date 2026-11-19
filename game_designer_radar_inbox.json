@@ -1,132 +1,182 @@
 [
- {
-  "id": "gd-2026-11-15-milan-games-week-cartoomics",
-  "title": "Milan Games Week & Cartoomics 2026: dal 27 al 29 novembre a Fiera Milano Rho, area Unplugged per il gioco da tavolo",
-  "source": "Multiplayer.it, TicketOne (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "fiera",
-  "date": "2026-11-27",
-  "brief": "L'edizione 2026, la sesta in formula combinata, si allarga a quattro padiglioni di Fiera Milano Rho dal 27 al 29 novembre. L'area Unplugged resta il punto di riferimento per il gioco da tavolo, con novità annunciate da Asmodee, Need Games, MS Edizioni, Pendragon, DV Games e Boose. Non è ancora stato trovato un elenco espositori ufficiale completo."
- },
- {
-  "id": "gd-2026-11-15-archimede-2027-saz-trofeo",
-  "title": "Premio Archimede 2027: confermato il legame con IdeaG Parma tramite il Trofeo SAZ Italia per il miglior autore",
-  "source": "studiogiochi.com (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "mercato": "italiana",
-  "tipo": "concorso",
-  "date": null,
-  "brief": "Il bando del Premio Archimede 2027 per prototipi inediti (invio entro il 28 febbraio 2027) specifica che il Trofeo SAZ Italia per il miglior autore italiano include come premio un ingresso gratuito di un giorno a IdeaG Parma: un dettaglio in più rispetto al semplice sconto già segnalato, che confirma quanto i due appuntamenti per autori restino collegati anche nel 2027."
- },
- {
-  "id": "gd-2026-11-15-ideag-data-non-trovata",
-  "title": "Nessuna data ufficiale ancora reperita per la prossima edizione di IdeaG Parma",
-  "source": "studiogiochi.com (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "nota",
-  "date": null,
-  "brief": "Nota di trasparenza confermata anche oggi: IdeaG Parma viene citato come riferimento vivo (premio incluso nel bando Archimede 2027), ma nessuna fonte consultata indica la data della prossima edizione dell'incontro nazionale di autori di giochi da tavolo. Va verificato direttamente sul sito dell'evento quando disponibile."
- },
- {
-  "id": "gd-2026-11-15-gateongames-nota",
-  "title": "Nessuna notizia verificabile reperita su GateOnGames o Mario Cortese nelle ultime 48 ore",
-  "source": "Ricerca web 2026-11-15 (nessuna fonte editoriale trovata)",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "nota",
-  "date": null,
-  "brief": "Nota di trasparenza: anche oggi la ricerca mirata su Mario Cortese e sull'attività editoriale di GateOnGames non ha restituito comunicati, interviste o annunci recenti. Nessuna notizia viene inventata su questo editore; conviene controllare direttamente i suoi canali ufficiali."
- },
- {
-  "id": "gd-2026-11-15-pendragon-mercato-italiano",
-  "title": "Pendragon: il mercato italiano del gioco da tavolo cresce, spinto dal traino del mercato tedesco",
-  "source": "Artribune (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "nota",
-  "date": null,
-  "brief": "In un'intervista, Silvio Negri-Clementi, amministratore delegato dello studio editoriale Pendragon, descrive un mercato ludico italiano in espansione, anche se ancora giovane come cultura rispetto ad altri paesi, soprattutto sulla scorta di mercati esteri come quello tedesco. Segnale utile per chi valuta se e come proporre un progetto a un editore italiano in crescita."
- },
- {
-  "id": "gd-2026-11-15-giochi-uniti-feudalesimo-liberta",
-  "title": "Giochi Uniti pubblica una nuova edizione su licenza di Feudalesimo e Libertà, debutto a Lucca Comics & Games",
-  "source": "Resoconti Lucca Comics & Games 2026 (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "catalogo",
-  "date": "2026-11-01",
-  "brief": "Giochi Uniti torna in autunno 2026 con una nuova edizione su licenza di Feudalesimo e Libertà, con debutto proprio a Lucca Comics & Games: un caso utile per chi segue come un editore italiano storico gestisce licenze e ristampe di titoli già noti al pubblico locale."
- },
- {
-  "id": "gd-2026-11-15-dv-giochi-dicendo-q4",
-  "title": "dV Giochi (DV Games) lista \"Dicendo\" tra le uscite previste per il quarto trimestre 2026",
-  "source": "Shop ufficiale DV Games/Asmodee Canada (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "catalogo",
-  "date": null,
-  "brief": "Un listing di un rivenditore ufficiale associato a DV Games (ex dV Giochi, dopo l'acquisizione di Ghenos nel 2021) indica \"Dicendo\" tra le uscite previste per il Q4 2026. È un'informazione da scheda prodotto, non un comunicato editoriale diretto, quindi va considerata un segnale debole fino a conferma ufficiale dell'editore."
- },
- {
-  "id": "gd-2026-11-15-restoration-games-chaos-old-world",
-  "title": "Restoration Games e Games Workshop: accordo pluriennale, Chaos in the Old World rinasce come Devastation in the Dread World",
-  "source": "GodIsAGeek, Gaming Trend, Wargamer (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "publisher",
-  "date": "2026-11-05",
-  "brief": "Annunciato il 5 novembre un accordo di licenza pluriennale tra Restoration Games e Games Workshop per riportare in catalogo tre giochi fuori produzione. Il classico di Eric Lang Chaos in the Old World (2009) torna rilavorato come Devastation in the Dread World, ambientato nel nuovo multiverso Talisman Realm di Games Workshop; la campagna di crowdfunding è prevista all'inizio del prossimo anno."
- },
- {
-  "id": "gd-2026-11-15-catan-netflix-nee-brothers",
-  "title": "Netflix affida ad Aaron e Adam Nee la scrittura e la regia del film live-action di Catan",
-  "source": "Deadline, Gizmodo (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "nota",
-  "date": "2026-11-10",
-  "brief": "Dopo l'accordo di licenza globale siglato da Netflix con Asmodee nell'ottobre 2025, emerge intorno al 10 novembre che i fratelli Nee (già co-sceneggiatori del film Masters of the Universe) scriveranno e dirigeranno l'adattamento live-action di Catan. Caso di scuola su come un gioco da tavolo diventa IP transmediale su licenza."
- },
- {
-  "id": "gd-2026-11-15-nemesis-legacy-gamefound",
-  "title": "Nemesis: Legacy di Awaken Realms supera i 5,7 milioni di euro su Gamefound, 114 volte l'obiettivo",
-  "source": "God Is A Geek, GamesRadar, Wargamer (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "crowdfunding",
-  "date": "2026-10-16",
-  "brief": "La campagna Gamefound per la versione legacy di Nemesis aveva raccolto circa 5,72 milioni di euro da oltre 16.600 backer al 16 ottobre, pari a 114 volte l'obiettivo di 50.000 euro, con la campagna poi proseguita fino a inizio novembre. Segnale forte sulla domanda ancora enorme di crowdfunding per titoli heavy già noti al pubblico, anche a fronte di costi di marketing in crescita per gli editori più piccoli."
- },
- {
-  "id": "gd-2026-11-15-game-store-day-anno-due",
-  "title": "Game Store Day torna il 6-7 novembre con più tempo e più publisher coinvolti nella sua seconda edizione",
-  "source": "BoardGameWire (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "nota",
-  "date": "2026-11-06",
-  "brief": "L'iniziativa promossa da GAMA per sostenere i negozi specializzati di giochi da tavolo è tornata il 6-7 novembre nella sua seconda edizione, con una finestra temporale più ampia e un numero maggiore di publisher partecipanti rispetto al debutto: segnale di consolidamento di un evento pensato per la filiera retail, non solo per i giocatori."
- },
- {
-  "id": "gd-2026-11-15-bggcon-dallas-networking-autori",
-  "title": "BGG.Con 2026 a Dallas dal 18 al 22 novembre: appuntamento per playtest e networking tra autori ed editori",
-  "source": "BoardGameWire, BoardGameGeek (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "fiera",
-  "date": "2026-11-18",
-  "brief": "Manca meno di una settimana a BGG.Con 2026, la convention della community BoardGameGeek a Dallas: resta uno degli appuntamenti più seguiti da autori ed editori internazionali per playtest di prototipi e incontri diretti prima della stagione delle uscite natalizie."
- },
- {
-  "id": "gd-2026-11-15-czge-hachette-distribuzione",
-  "title": "Czech Games Edition firma il suo primo accordo di distribuzione con Hachette",
-  "source": "Meeple Mountain (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "mercato": "straniera",
-  "tipo": "publisher",
-  "date": null,
-  "brief": "Secondo un titolo ripreso da Meeple Mountain, l'editore ceco Czech Games Edition (Galaxy Trucker, Through the Ages) avrebbe firmato il suo primo accordo di distribuzione con il grande gruppo editoriale Hachette. Non è stata reperita data precisa né il comunicato ufficiale completo: da trattare come segnale debole in attesa di conferma diretta dall'editore."
- }
+  {
+    "id": "gd-2026-11-19-bggcon-dallas",
+    "title": "BGG.Con 2026 apre a Dallas: cinque giorni di fiera per editori e autori",
+    "source": "tabletop.events / Meeple Mountain / BoardGameWire (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "fiera",
+    "date": "2026-11-18",
+    "brief": "BGG.Con 2026 si svolge al Hyatt Regency di Dallas dal 18 al 22 novembre 2026. L'evento include un'area espositori per publisher e una ProtoAlley dedicata al playtesting di prototipi, punto di interesse diretto per i game designer presenti."
+  },
+  {
+    "id": "gd-2026-11-19-spiel-essen-record",
+    "title": "Spiel Essen 2026 chiude con numeri record: fino a 230.000 visitatori",
+    "source": "ICv2 / Spielwarenmesse / World of Toys (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "fiera",
+    "date": "2026-10-22",
+    "brief": "La fiera di Essen (22-25 ottobre 2026) ha registrato cifre da record, con stime fino a 230.000 visitatori e l'aggiunta della Hall 8 per arrivare a 80.000 mq dedicati ai giochi da tavolo. Tutti gli stand per l'edizione 2026 erano esauriti, segnale della pressione di publisher internazionali per ottenere spazio in fiera."
+  },
+  {
+    "id": "gd-2026-11-19-stonemaier-braided-skies",
+    "title": "Stonemaier Games annuncia Braided Skies, nuovo euro fantasy ad alta complessità",
+    "source": "ICv2 / Gamingtrend / Wargamer (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "catalogo",
+    "date": null,
+    "brief": "Annunciato il 23 settembre 2026, Braided Skies è il primo di una trilogia ambientata nell'universo di Andrew Bosley (illustratore), progettato da Dan Germain. Mostrato a Essen Spiel come anteprima, il lancio retail mondiale è previsto per la fine di novembre 2026: un caso interessante di design ad alta complessità da un publisher noto per giochi più accessibili (Wingspan)."
+  },
+  {
+    "id": "gd-2026-11-19-allplay-zoo-vadis",
+    "title": "Allplay porterà Zoo Vadis di Reiner Knizia in retail tramite Asmodee",
+    "source": "ICv2 (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "publisher",
+    "date": "2026-12-31",
+    "brief": "Allplay distribuirà in retail, tramite Asmodee, il nuovo titolo di Reiner Knizia Zoo Vadis, con data fissata al 31 dicembre 2026. Operazione che conferma la strategia di Asmodee di aggregare la distribuzione di publisher di nicchia sotto il proprio canale retail."
+  },
+  {
+    "id": "gd-2026-11-19-nemesis-legacy-gamefound",
+    "title": "Nemesis: Legacy di Awaken Realms supera 114 volte l'obiettivo su Gamefound",
+    "source": "GodIsAGeek / Zatu / Gus&Co (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "crowdfunding",
+    "date": "2026-10-06",
+    "brief": "Lanciata il 6 ottobre 2026, la campagna Gamefound di Nemesis: Legacy (Awaken Realms) ha raggiunto il goal in 54 secondi; all'aggiornamento del 16 ottobre risultavano 5.723.059 euro raccolti da 16.611 backer, oltre 114 volte l'obiettivo di 50.000 euro. Spedizioni previste per novembre 2027."
+  },
+  {
+    "id": "gd-2026-11-19-joyride-full-throttle",
+    "title": "Rebellion Unplugged lancia su Gamefound Joyride: Full Throttle, terzo capitolo della serie racing",
+    "source": "Wargamer / Bleeding Cool / Beasts of War (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "crowdfunding",
+    "date": null,
+    "brief": "Joyride: Full Throttle è live su Gamefound con chiusura prevista per il 25 novembre 2026. Introduce fino a 6 giocatori, Team Mode 2v2, nuove miniature e portali compatibili con i titoli precedenti della serie Joyride: un esempio di design modulare pensato per allargare il pubblico di un franchise esistente."
+  },
+  {
+    "id": "gd-2026-11-19-modiphius-discworld-rpg",
+    "title": "Modiphius lancia su Gamefound il nuovo manuale GdR Discworld: Adventures in Lancre and Überwald",
+    "source": "ICv2 / GodIsAGeek (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "crowdfunding",
+    "date": "2026-11-03",
+    "brief": "Il 3 novembre 2026 Modiphius ha avviato su Gamefound il crowdfunding per il supplemento GdR dedicato a Lancre, Überwald e il Chalk del Discworld di Terry Pratchett, parte di una linea più ampia di prodotti Discworld annunciata per il 2026 che include anche due giochi da tavolo con licenza."
+  },
+  {
+    "id": "gd-2026-11-19-halo-campaign-evolved-retail",
+    "title": "Halo: Campaign Evolved di Mantic Games arriva in retail",
+    "source": "ICv2 (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "catalogo",
+    "date": "2026-11-14",
+    "brief": "Mantic Games ha portato in retail il 14 novembre 2026 Halo: Campaign Evolved, confermando l'interesse crescente dei publisher di giochi da tavolo per licenze videoludiche di grande richiamo."
+  },
+  {
+    "id": "gd-2026-11-19-carcassonne-labyrinth",
+    "title": "Ravensburger e Hans im Glück uniscono Carcassonne e Labyrinth in un crossover",
+    "source": "ICv2 (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "catalogo",
+    "date": null,
+    "brief": "Carcassonne Labyrinth, crossover tra due marchi storici di Hans im Glück e Ravensburger, è annunciato per il retail a dicembre 2026: un caso di co-branding fra due dei franchise più longevi del settore."
+  },
+  {
+    "id": "gd-2026-11-19-dc-superheroes-core-box",
+    "title": "CMON e Spin Master, distribuiti da Asmodee, lanciano il Core Box di DC Super Heroes United",
+    "source": "ICv2 (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "straniera",
+    "tipo": "catalogo",
+    "date": "2026-11-13",
+    "brief": "Il 13 novembre 2026 è arrivato in retail il Core Box di DC Super Heroes United, prodotto CMON/Spin Master distribuito da Asmodee: ulteriore conferma del ruolo di Asmodee come piattaforma di distribuzione per editori terzi su licenze di grande richiamo."
+  },
+  {
+    "id": "gd-2026-11-19-lucca-comics-2026",
+    "title": "Lucca Comics & Games 2026 festeggia i 60 anni con il tema \"Legacy\"",
+    "source": "AnimeClick / Cinefilos / SpazioGames (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "fiera",
+    "date": "2026-10-28",
+    "brief": "La 60ª edizione di Lucca Comics & Games si è svolta dal 28 ottobre al 1 novembre 2026 con il tema \"Legacy\", richiamo diretto al genere dei giochi legacy; al Padiglione Carducci è stata allestita un'installazione \"Lucca is a Legacy Game\" curata da Andrea Angiolino."
+  },
+  {
+    "id": "gd-2026-11-19-rebirth-gioco-anno-lucca",
+    "title": "Rebirth di Reiner Knizia nominato Gioco dell'Anno a Lucca Comics & Games 2026",
+    "source": "Gus&Co (via ricerca web 2026-11-19) — fonte unica, da verificare",
+    "affidabilita": "segnale debole",
+    "mercato": "italiana",
+    "tipo": "concorso",
+    "date": "2026-10-29",
+    "brief": "Secondo un solo blog francese (Gus&Co), il 29 ottobre 2026 Rebirth di Reiner Knizia avrebbe vinto il premio Gioco dell'Anno a Lucca Comics & Games, dopo aver già ottenuto il Kennerspiel des Jahres a luglio. Non ho trovato una seconda fonte indipendente o un comunicato ufficiale di Lucca Comics & Games: notizia da trattare con cautela."
+  },
+  {
+    "id": "gd-2026-11-19-cranio-creations-essen",
+    "title": "Cranio Creations porta a Essen Spiel 2026 Oil Rock, Music Nonsense e Mystery Chain",
+    "source": "Meeple Mountain (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "catalogo",
+    "date": "2026-10-22",
+    "brief": "Per Essen Spiel 2026 l'editore italiano Cranio Creations ha puntato su Oil Rock come titolo di punta, opera di un designer debuttante con lo sviluppo di Simone Luciani, affiancato da altri due nuovi titoli, Music Nonsense e Mystery Chain, secondo l'anteprima di Meeple Mountain."
+  },
+  {
+    "id": "gd-2026-11-19-horrible-guild-drops-of-evil",
+    "title": "Horrible Guild annuncia Drops of Evil, firmato da Hjalmar Hach e Lorenzo Silva",
+    "source": "ICv2 (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "catalogo",
+    "date": "2027-01-15",
+    "brief": "L'editore milanese Horrible Guild distribuirà in retail dal 15 gennaio 2027 Drops of Evil, gioco astratto firmato da Hjalmar Hach e dal fondatore Lorenzo Silva, in cui i giocatori interpretano streghe impegnate a preparare il veleno più potente."
+  },
+  {
+    "id": "gd-2026-11-19-giochi-uniti-spielwarenmesse",
+    "title": "Giochi Uniti presenta un titolo a tema Winx alla Spielwarenmesse di Norimberga",
+    "source": "Agrotoday (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "publisher",
+    "date": "2026-01-27",
+    "brief": "L'editore napoletano Giochi Uniti ha partecipato alla Spielwarenmesse di Norimberga (27-31 gennaio 2026) presentando un titolo a tema Winx; il direttore operativo Stefano De Carolis ha invitato le imprese italiane a \"valorizzare il gioco italiano insieme\". Notizia non recentissima ma utile per il quadro sulla presenza internazionale degli editori italiani."
+  },
+  {
+    "id": "gd-2026-11-19-asmodee-italia-fatturato",
+    "title": "Asmodee Italia: fatturato 2025 a 28,6 milioni di euro, +26%",
+    "source": "Money.it (via ricerca web 2026-11-19) — dato non confermato da comunicati ufficiali Asmodee",
+    "affidabilita": "segnale debole",
+    "mercato": "italiana",
+    "tipo": "nota",
+    "date": "2026-01-04",
+    "brief": "Secondo un articolo di Money.it del 4 gennaio 2026, Asmodee Italia ha chiuso il 2025 con un fatturato di 28,6 milioni di euro, in crescita del 26% sull'anno precedente. Non ho trovato conferma nei comunicati ufficiali del gruppo né dati Italia separati nei report trimestrali Asmodee."
+  },
+  {
+    "id": "gd-2026-11-19-hellbreak-asmodee-italia",
+    "title": "Hellbreak, il TCG horror di Asmodee/Spin Master, debutta anche in Italia senza localizzazione",
+    "source": "AnimeClick, comunicato Asmodee-Spin Master (via ricerca web 2026-11-19)",
+    "affidabilita": "primaria",
+    "mercato": "italiana",
+    "tipo": "publisher",
+    "date": "2026-08-25",
+    "brief": "Asmodee, in partnership con Spin Master, porta in Italia Hellbreak, trading card game a tema horror, con lancio globale previsto per l'autunno 2026; la versione italiana sarà distribuita da Asmodee ma solo in lingua inglese, prezzi e canali ancora da annunciare."
+  },
+  {
+    "id": "gd-2026-11-19-toys-baby-milano-2027",
+    "title": "Toys & Baby Milano 2027 confermata per il 9-10 maggio",
+    "source": "Regione Lombardia (calendario fiere internazionali 2027) / tradefairdates.com (via ricerca web 2026-11-19)",
+    "affidabilita": "secondaria",
+    "mercato": "italiana",
+    "tipo": "fiera",
+    "date": null,
+    "brief": "Il calendario ufficiale delle fiere internazionali in Lombardia per il 2027 fissa Toys & Baby Milano al 9-10 maggio 2027, presso Allianz MiCo, organizzata dal Salone Internazionale del Giocattolo in collaborazione con Assogiocattoli: rilevante anche per gli editori di giochi da tavolo per bambini e famiglia."
+  }
 ]
