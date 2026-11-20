@@ -1,47 +1,47 @@
 [
- {
-  "id": "creator-2026-11-15-lucca-comics-345mila-record",
-  "title": "Lucca Comics & Games chiude la 60ª edizione con 345mila partecipanti, oltre 60mila più del 2025",
-  "source": "Rolling Stone Italia, Editoriale Domani, Multiplayer.it (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "brief": "La 60ª edizione 'Legacy' di Lucca Comics & Games, chiusa il 1 novembre, ha registrato circa 345mila partecipanti (paganti più accreditati), oltre 60mila in più rispetto al 2025: un nuovo record secondo più fonti italiane, anche se un sito ha pubblicato per errore la cifra di 800mila poi non confermata altrove.",
-  "rilevanza": "Il bilancio record continua a circolare nei resoconti e nei contenuti dei creator italiani che hanno coperto l'evento, e resta un riferimento per chi valuta la portata della fiera come vetrina per contenuti nerd generalisti."
- },
- {
-  "id": "creator-2026-11-15-cicciogamer-franchino-giuliacrossbow",
-  "title": "Franchino, Giuliacrossbow e CiccioGamer89 al centro di un dibattito nella community gaming italiana su un format 'food'",
-  "source": "Kolsquare (via ricerca web 2026-11-15)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Una recensione negativa di Giuliacrossbow su un'iniziativa food legata a CiccioGamer89, storico YouTuber gaming italiano, seguita da una recensione molto positiva di Franchino, ha acceso un dibattito diffuso rapidamente nelle rispettive community. La data esatta dell'episodio non è determinabile con certezza dalla fonte trovata.",
-  "rilevanza": "Esempio di come dinamiche tra grandi nomi del gaming italiano su YouTube si spostino facilmente su temi extra-videoludici, generando dibattito trasversale nella fanbase nerd."
- },
- {
-  "id": "creator-2026-11-15-creator-indipendenza-sponsor",
-  "title": "Sempre più creator videoludici italiani rivendicano indipendenza da sponsor e codici review",
-  "source": "AnimeClick (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Un approfondimento di AnimeClick segnala una tendenza tra i creator italiani di videogiochi a rinunciare a sponsorizzazioni e codici review dei publisher per tutelare credibilità e autonomia critica agli occhi del proprio pubblico. Non è specificata una data precisa della pubblicazione.",
-  "rilevanza": "Tema diretto per chi analizza il rapporto tra creator nerd italiani e publisher: la scelta di indipendenza economica come leva di fiducia con la community."
- },
- {
-  "id": "creator-2026-11-15-milan-games-week-cartoomics-creator-programma",
-  "title": "Milan Games Week & Cartoomics 2026 (27-29 novembre): biglietti in vendita, programma con area creator e cosplay",
-  "source": "Multiplayer.it, TicketOne (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "brief": "Gli organizzatori di Milan Games Week & Cartoomics 2026, in programma dal 27 al 29 novembre a Fiera Milano Rho, hanno messo in vendita i biglietti e annunciato un programma con panel e meet & greet legati ai content creator, oltre a cosplay ed eSport; la lista completa degli ospiti creator non è ancora stata confermata nei risultati trovati.",
-  "rilevanza": "Appuntamento imminente che riguarda direttamente i content creator italiani nerd, molti dei quali partecipano abitualmente come ospiti o producono contenuti dedicati all'evento."
- },
- {
-  "id": "creator-2026-11-15-nota-streamer-polemiche",
-  "title": "Nessuna polemica recente e verificabile reperita su singoli streamer italiani datata alle ultime 48 ore",
-  "source": "Ricerca web 2026-11-15 (nessuna fonte editoriale recente trovata)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Nota di trasparenza: la ricerca mirata su eventuali polemiche o dichiarazioni recenti di streamer/content creator italiani del mondo gaming non ha restituito episodi datati con certezza alle ultime 48 ore; i casi emersi (es. episodi su Twitch Italia) risalgono a mesi o anni precedenti.",
-  "rilevanza": "Utile per non forzare una notizia di cronaca inesistente: meglio verificare direttamente i profili social dei creator per episodi dell'ultimo giorno."
- }
+  {
+    "id": "creator-2026-11-20-gta6-lancio-record-streaming",
+    "title": "GTA 6 è uscito il 19 novembre e polverizza i record di streaming mondiali",
+    "source": "Streams Charts, NotebookCheck.it, Multiplayer.it, dichiarazioni Take-Two (via ricerca web 2026-11-20)",
+    "affidabilita": "primaria",
+    "date": "2026-11-19",
+    "brief": "GTA 6 di Rockstar Games è uscito ufficialmente il 19 novembre 2026 su PS5 e Xbox Series X|S, dopo i rinvii dall'autunno 2025, data confermata più volte dal CEO di Take-Two Strauss Zelnick. Secondo Streams Charts il lancio ha toccato un picco di circa 7,9 milioni di spettatori simultanei su Twitch, YouTube e Kick, diventando il lancio in streaming più seguito di sempre; YouTube ha affiancato il lancio con una maratona globale di 24 ore con decine di creator.",
+    "rilevanza": "Un evento di questa portata genera per settimane dirette, recensioni e reaction da parte di praticamente tutti i principali content creator italiani di videogiochi: è il riferimento del momento per chi segue la scena gaming nerd in Italia."
+  },
+  {
+    "id": "creator-2026-11-20-mikeshowsha-maratona-youtube-gta6",
+    "title": "MikeShowSha nel cast della maratona YouTube x GTA VI, l'unico creator italiano citato",
+    "source": "Streamer.guide, KeenGamer (via ricerca web 2026-11-20)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-19",
+    "brief": "Nella diretta no-stop di 24 ore organizzata da YouTube insieme a Rockstar Games per il lancio di GTA 6 (circa 30 creator internazionali coinvolti), l'elenco pubblicato da Streamer.guide indica l'italiano MikeShowSha come unico rappresentante per l'Italia; KeenGamer confirma in modo più generico la presenza di \"personalità italiane\" nel cast dell'evento, senza nominarle.",
+    "rilevanza": "È una conferma concreta della crescente visibilità internazionale di alcuni creator gaming italiani dentro un evento mediatico globale, anche se il nome esatto resta verificato da una sola fonte di dettaglio."
+  },
+  {
+    "id": "creator-2026-11-20-youtube-rimozione-canali-gta6",
+    "title": "Scene di nudo in GTA 6: YouTube rimuove alcuni canali, streamer si spostano su Twitch",
+    "source": "NotebookCheck.it (via ricerca web 2026-11-20)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-19",
+    "brief": "Secondo NotebookCheck.it, in concomitanza con il lancio di GTA 6 del 19 novembre YouTube ha rimosso o penalizzato alcuni canali per la presenza di scene di nudo nel gioco, spingendo diversi streamer a spostare le proprie dirette su Twitch; i dati di mercato indicano che Kick ha comunque raccolto circa il 22% delle ore di visione complessive del weekend di lancio.",
+    "rilevanza": "Riguarda direttamente le regole di moderazione che i creator gaming italiani devono rispettare quando trasmettono o recensiscono il gioco più discusso del momento, e spiega eventuali spostamenti di pubblico tra piattaforme in questi giorni."
+  },
+  {
+    "id": "creator-2026-11-20-milan-games-week-cartoomics-2026",
+    "title": "Milan Games Week & Cartoomics torna dal 27 al 29 novembre a Fiera Milano Rho",
+    "source": "Multiplayer.it, TicketOne, Il Sole 24 Ore (via ricerca web 2026-11-20)",
+    "affidabilita": "secondaria",
+    "date": "2026-11-27",
+    "brief": "La sesta edizione combinata di Milan Games Week & Cartoomics si terrà dal 27 al 29 novembre alla Fiera di Milano Rho, estesa su quattro padiglioni con il tema \"l'acqua\". Tra gli ospiti già confermati l'illustratrice giapponese Posuka Demizu (autrice del poster ufficiale), il cast della serie live-action di One Piece e una mostra di Sergio Bonelli Editore per i 40 anni di Dylan Dog; gli organizzatori hanno annunciato che altri contenuti e nomi, incluso il programma creator, saranno rivelati nei prossimi giorni.",
+    "rilevanza": "È il principale evento fieristico nerd italiano delle prossime due settimane: nelle edizioni passate ha sempre coinvolto creator e streamer italiani nel programma pubblico, quindi è da monitorare per i prossimi annunci di presenze e collaborazioni."
+  },
+  {
+    "id": "creator-2026-11-20-stermy-pow3r-basement-cafe",
+    "title": "Stermy e Pow3r ospiti a Basement Café per una puntata dedicata agli esports italiani",
+    "source": "Tom's Hardware Italia (via ricerca web 2026-11-20)",
+    "affidabilita": "segnale debole",
+    "date": "2026-11-28",
+    "brief": "Un articolo di Tom's Hardware Italia riferisce che sabato 28 novembre il format Basement Café (brandizzato Lavazza) ospiterà Alessandro \"Stermy\" Avallone e Giorgio \"Pow3r\" Calandrelli per una puntata dedicata al mondo dell'esports e del gaming professionistico italiano.",
+    "rilevanza": "Riunisce due dei nomi più noti dello streaming competitivo italiano in un format diverso dal loro ambiente abituale; la notizia si basa però su una sola fonte reperita in questa ricerca e non risulta ancora confermata da altri outlet, quindi va trattata con cautela."
+  }
 ]

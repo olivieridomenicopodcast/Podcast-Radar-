@@ -1,50 +1,58 @@
 [
  {
-  "id": "ham-2026-11-15-vk9xy-christmas-island-start",
-  "title": "VK9XY attiva da Christmas Island da domani 16 novembre fino al 4 dicembre",
-  "source": "Pacific Islands DXpedition Group, DXZone (via ricerca web 2026-11-15)",
+  "id": "ham-2026-11-20-flusso-solare-in-calo",
+  "title": "Flusso solare in calo dopo il picco dell'11 novembre, attività solare bassa nel weekend",
+  "source": "SIDC (spaceweatherlive.com), bollettino congiunto USAF/NOAA (via ricerca web 2026-11-20)",
   "affidabilita": "secondaria",
   "date": "2026-11-16",
-  "brief": "Il Pacific Islands DXpedition Group, con il programma Youth on the Air, inizia domani 16 novembre l'attivazione di Christmas Island (VK9X) con il nominativo VK9XY, in programma fino al 4 dicembre 2026: coprirà anche il weekend del CQ WW DX CW del 28-29 novembre."
+  "brief": "Il bollettino SIDC dell'11 novembre registrava un flusso solare a 10 cm di 132 e un brillamento M1.7 dalla regione attiva 4566; le previsioni congiunte USAF/NOAA del 15 novembre indicavano invece un calo progressivo a 119, 113 e 108 per il 16-18 novembre, con attività solare bassa e minima probabilità di brillamenti di classe M fino al 19. Condizioni HF quindi in lieve flessione ma senza eventi estremi nelle ultime 48 ore."
  },
  {
-  "id": "ham-2026-11-15-zk3-tokelau-annuncio",
-  "title": "ZK3 Tokelau: Perseverance DX Group annuncia l'attivazione per le ultime due settimane di novembre",
-  "source": "DX-World.net, dxnews.com (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Il Perseverance DX Group insieme al Western Washington DX Club conferma che il team sarà sull'atollo di Tokelau nelle ultime due settimane di novembre 2026, ma le date esatte restano da fissare in base al calendario delle navi dell'ufficio trasporti locale: uno dei DXCC più richiesti al mondo."
- },
- {
-  "id": "ham-2026-11-15-v63jx-chuuk-micronesia",
-  "title": "V63JX attivo da Chuuk, Micronesia, dal 26 al 30 novembre",
-  "source": "cq.sk, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-26",
-  "brief": "L'operatore JR3RIU sarà attivo come V63JX da Chuuk, in Micronesia, dal 26 al 30 novembre 2026: nuova opportunità DX che si aggiunge al calendario già denso di operazioni Pacifiche di fine mese, nei giorni immediatamente precedenti al CQ WW DX CW."
- },
- {
-  "id": "ham-2026-11-15-kh8a-samoa-conclusione",
-  "title": "KH8A conclude oggi la sua attivazione da American Samoa iniziata il 29 ottobre",
-  "source": "cq.sk, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-13",
-  "brief": "Il team tedesco attivo come KH8A da American Samoa ha operato dal 29 ottobre al 13 novembre 2026; i log e la richiesta QSL saranno gestiti tramite il sito ufficiale della spedizione. Utile riferimento per chi deve ancora verificare i propri collegamenti prima della chiusura dei log."
- },
- {
-  "id": "ham-2026-11-15-cqww-cw-countdown",
-  "title": "CQ WW DX Contest CW: conto alla rovescia, si parte il 28 novembre alle 00:00 UTC",
-  "source": "cqww.com, DXZone (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-28",
-  "brief": "Il regolamento ufficiale 2026 confirma che la sessione CW del CQ World Wide DX Contest si tiene dal 28 al 29 novembre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica: mancano meno di due settimane, periodo in cui diverse DXpedition Pacifiche (VK9XY, ZK3, V63JX) saranno ancora attive e raggiungibili."
- },
- {
-  "id": "ham-2026-11-15-kenwood-tm-d750e-date-contrastanti",
-  "title": "Kenwood TM-D750E: le date di uscita europea restano contrastanti tra i rivenditori",
-  "source": "cq.sk, Wimo, Limmared (via ricerca web 2026-11-15)",
+  "id": "ham-2026-11-20-g1-storm-watch-17-18",
+  "title": "NOAA emette un watch per tempesta geomagnetica minore G1 nella notte tra il 17 e il 18 novembre",
+  "source": "previsione NOAA ripresa da dailygalaxy.com (via ricerca web 2026-11-20)",
   "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Sul nuovo mobile VHF/UHF Kenwood TM-D750E (doppio ricevitore, D-Star, APRS/GPS), i rivenditori europei danno indicazioni diverse: Wimo lo segnala 'disponibile a breve' senza prezzo fissato, mentre un altro negozio online indica settembre 2026 come finestra di arrivo, superata senza che il prodotto sia ancora regolarmente disponibile. La certificazione FCC per la versione USA risulta ottenuta a inizio 2026."
+  "date": "2026-11-17",
+  "brief": "Una sola fonte reperita riporta che NOAA avrebbe emesso un watch per una tempesta geomagnetica minore di classe G1 tra la tarda serata del 17 e le prime ore del 18 novembre 2026, con ritorno a condizioni 'unsettled' già dal 19. Nessuna conferma indipendente trovata su impatti reali sulla propagazione HF nelle ultime 48 ore: da verificare."
+ },
+ {
+  "id": "ham-2026-11-20-vk9xy-christmas-island-in-corso",
+  "title": "VK9XY resta attivo da Christmas Island, operazione in corso fino al 4 dicembre",
+  "source": "ARRL Letter, DXZone (via ricerca web 2026-11-20)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-16",
+  "brief": "La DXpedition del Pacific Islands DXpedition Group a Christmas Island (VK9X), nominativo VK9XY, prosegue come annunciato dal 16 novembre al 4 dicembre 2026, confermata sia da una ARRL Letter di ottobre sia dai calendari DX online. L'operazione resterà attiva anche durante il CQ WW DX CW del 28-29 novembre."
+ },
+ {
+  "id": "ham-2026-11-20-3x4u-guinea-in-corso",
+  "title": "3X4U attivo dal Lac de Koba in Guinea, licenza fino a 1 kW su tutte le bande",
+  "source": "DXZone, Rockall DX Group via DX-World.net (via ricerca web 2026-11-20)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-11",
+  "brief": "Il Rockall DX Group opera come 3X4U dal Lac de Koba, in Guinea, con licenza che consente fino a 1 kW su tutte le bande. Le date divergono leggermente tra le fonti (DXZone indica 10-24 novembre, l'annuncio del gruppo via DX-World.net indica 11-23 novembre), ma l'operazione è confermata da entrambe e risulta ancora in corso in queste ore."
+ },
+ {
+  "id": "ham-2026-11-20-arrl-sweepstakes-ssb-weekend",
+  "title": "ARRL November Sweepstakes SSB al via sabato 21 novembre",
+  "source": "ARRL Letter (edizione 2026-11-12), via ricerca web 2026-11-20",
+  "affidabilita": "primaria",
+  "date": "2026-11-21",
+  "brief": "La sessione Phone (SSB) dell'ARRL November Sweepstakes si svolge dalle 21:00 UTC di sabato 21 novembre alle 02:59 UTC di lunedì 23 novembre 2026, come confermato dalla ARRL Letter ufficiale: appuntamento imminente, utile anche per chi punta a completare i 50 stati nell'ambito delle iniziative America250."
+ },
+ {
+  "id": "ham-2026-11-20-hamlib-premio-software-2026",
+  "title": "Hamlib vince l'Amateur Radio Software Award 2026, prosegue il ramo stabile 4.7.x",
+  "source": "ARNewsline, ICQ Podcast, Debian e FreeBSD package tracker (via ricerca web 2026-11-20)",
+  "affidabilita": "secondaria",
+  "date": "2026-05-01",
+  "brief": "La libreria open source Hamlib, usata per il controllo remoto di ricetrasmettitori e SDR, è stata premiata come vincitrice dell'Amateur Radio Software Award 2026 (annuncio di inizio maggio). Sul fronte sviluppo la versione stabile 4.7.2 è stata distribuita su Debian e FreeBSD tra giugno e luglio 2026, mentre una futura versione 5.0 resta senza data definita."
+ },
+ {
+  "id": "ham-2026-11-20-pj7uk-sint-maarten-annuncio",
+  "title": "PJ7UK annunciato da Sint Maarten dal 28 novembre al 7 dicembre",
+  "source": "bollettino DX (via ricerca web 2026-11-20)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-28",
+  "brief": "Un bollettino DX reperito nella ricerca annuncia un'operazione come PJ7UK da Sint Maarten dal 28 novembre al 7 dicembre 2026, in parallelo al weekend del CQ WW DX CW. Al momento la notizia risulta riportata da una sola fonte individuata: da confermare con ulteriori bollettini nei prossimi giorni."
  }
 ]
