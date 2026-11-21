@@ -1,56 +1,65 @@
 [
  {
-  "id": "nerd-2026-11-15-gta6-countdown",
-  "title": "GTA 6 a quattro giorni dal lancio: Rockstar confirma il 19 novembre 2026",
-  "source": "TechRadar, GamesRadar, Rockstar Games (via ricerca web 2026-11-15)",
+  "id": "nerd-2026-11-21-gta6-lancio",
+  "title": "GTA 6 è uscito il 19 novembre su PS5 e Xbox Series X|S con recensioni da record (99/100)",
+  "source": "Metacritic, Punto Informatico, Enter.co, games.gg (via ricerca web 2026-11-21)",
   "affidabilita": "primaria",
   "date": "2026-11-19",
   "tipo": "videogioco",
-  "brief": "Dopo due rinvii (da fine 2025 a maggio 2026, poi al 19 novembre 2026), Rockstar Games e Take-Two confermano che Grand Theft Auto 6 uscirà in questa data, ormai a pochi giorni di distanza: uno dei lanci videoludici più attesi degli ultimi anni entra nel countdown finale."
+  "brief": "Dopo i rinvii degli ultimi anni, Grand Theft Auto 6 è arrivato il 19 novembre 2026 su PlayStation 5 e Xbox Series X|S (nessuna data PC ufficiale), con menu e sottotitoli in italiano al lancio. Le prime recensioni della stampa internazionale convergono su un punteggio Metacritic vicino a 99/100, tra i più alti mai registrati per un titolo Rockstar."
  },
  {
-  "id": "nerd-2026-11-15-lucca-comics-chiusura-60",
-  "title": "Lucca Comics & Games 2026 chiude la 60ª edizione 'Diamond/Legacy' con circa 345mila visitatori",
-  "source": "Finestre sull'Arte, Rolling Stone Italia (via ricerca web 2026-11-15)",
+  "id": "nerd-2026-11-21-binding-of-isaac-repentance-plus",
+  "title": "The Binding of Isaac: Repentance+ Online arriva il 19 novembre su PS5, Xbox Series X|S e Switch 2",
+  "source": "Instant Gaming (via ricerca web 2026-11-21)",
   "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "tipo": "fiera",
-  "brief": "La 60ª edizione di Lucca Comics & Games (28 ottobre-1 novembre 2026) si è chiusa con circa 345mila presenze, oltre 60mila più del 2025, 900 ospiti e 14 mostre. Una fonte riporta una cifra molto più alta (800mila) in evidente contrasto con le altre, quindi va presa con cautela."
+  "date": "2026-11-19",
+  "tipo": "videogioco",
+  "brief": "Nella rassegna settimanale delle uscite (16-22 novembre) viene segnalato l'arrivo, il 19 novembre, della versione online di Repentance+ di The Binding of Isaac su PS5, Xbox Series X|S e Nintendo Switch 2: aggiunge il multiplayer online a uno dei roguelike più longevi del mercato indie."
  },
  {
-  "id": "nerd-2026-11-15-pokemon-team-rocket-board-game",
-  "title": "Pokémon annuncia un gioco da tavolo dedicato al Team Rocket, in arrivo in Giappone a novembre",
-  "source": "Archyde, Outlook India (via ricerca web 2026-11-15)",
+  "id": "nerd-2026-11-21-milan-games-week-cartoomics-programma",
+  "title": "Milan Games Week & Cartoomics 2026: a Fiera Milano Rho dal 27 al 29 novembre, cast di One Piece live-action tra gli ospiti",
+  "source": "Multiplayer.it, AnimeClick, Techprincess (via ricerca web 2026-11-21)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-27",
+  "tipo": "fiera",
+  "brief": "La sesta edizione combinata dell'evento si allarga a quattro padiglioni di Fiera Milano Rho con il tema dell'acqua: tra gli ospiti annunciati il cast della serie live-action di One Piece, l'artista Posuka Demizu (autrice del poster ufficiale) e una mostra di Sergio Bonelli Editore per i 40 anni di Dylan Dog. L'edizione 2025 aveva superato i 130mila visitatori."
+ },
+ {
+  "id": "nerd-2026-11-21-bggcon-dallas-in-corso",
+  "title": "BGG.Con 2026 è in corso a Dallas (18-22 novembre), punto di incontro per autori ed editori",
+  "source": "BoardGameGeek, Boardgamewire (via ricerca web 2026-11-21)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-18",
+  "tipo": "fiera",
+  "brief": "La convention annuale della community BoardGameGeek si tiene in questi giorni a Dallas: resta uno degli appuntamenti più seguiti a livello internazionale per playtest di prototipi, incontri tra autori ed editori e tornei, proprio nella settimana che precede la corsa alle uscite natalizie."
+ },
+ {
+  "id": "nerd-2026-11-21-blancat-korea-board-games",
+  "title": "Korea Board Games porta in retail \"Blancat\", nuovo gioco di velocità/abbinamento per 2-4 giocatori",
+  "source": "ICv2 (via ricerca web 2026-11-21)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-20",
+  "tipo": "gioco da tavolo",
+  "brief": "Dal 20 novembre è disponibile Blancat, un gioco di velocità e abbinamento per 2-4 giocatori dagli 8 anni in su, con partite da circa 20 minuti e prezzo consigliato di 16,99 dollari: dato riportato da una sola fonte di settore, da trattare come segnale debole in attesa di conferme ulteriori."
+ },
+ {
+  "id": "nerd-2026-11-21-class-of-89-paverson",
+  "title": "Paverson Games distribuisce \"Class of '89\", nuovo gioco di piazzamento tessere",
+  "source": "ICv2 (via ricerca web 2026-11-21)",
+  "affidabilita": "segnale debole",
+  "date": "2026-11-20",
+  "tipo": "gioco da tavolo",
+  "brief": "Anche \"Class of '89\", gioco di piazzamento tessere di Paverson Games, arriva in retail il 20 novembre 2026: come per Blancat, l'informazione proviene da una sola fonte specializzata e va considerata un segnale ancora da confermare con l'editore."
+ },
+ {
+  "id": "nerd-2026-11-21-pokemon-team-rocket-teaser",
+  "title": "Pokémon: resta solo un teaser il gioco da tavolo dedicato al Team Rocket per il mercato giapponese",
+  "source": "OpenCritic, Outlook India (via ricerca web 2026-11-21)",
   "affidabilita": "segnale debole",
   "date": null,
   "tipo": "gioco da tavolo",
-  "brief": "Un nuovo gioco da tavolo ufficiale Pokémon centrato sul Team Rocket (titolo giapponese riconducibile a 'Are You, Perhaps, a Rocket Grunt?') arriverà questo mese, ma le fonti non concordano sullo studio di sviluppo (Yoka Games citato da una fonte) né sull'eventuale distribuzione fuori dal Giappone."
- },
- {
-  "id": "nerd-2026-11-15-stonemaier-braided-skies",
-  "title": "Stonemaier Games annuncia 'Braided Skies', nuovo titolo nell'universo di Smoking Bones, al retail a novembre",
-  "source": "ICv2 (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "tipo": "gioco da tavolo",
-  "brief": "Stonemaier Games ha presentato a Essen Spiel 2026 'Braided Skies', ambientato nello stesso universo di Smoking Bones: dopo la fiera tedesca il titolo arriva anche in retail nel corso di novembre 2026, ampliando il catalogo di uno degli editori indipendenti più seguiti dalla community."
- },
- {
-  "id": "nerd-2026-11-15-1984-unperson-boardova",
-  "title": "Boardova Games porta in retail '1984: Unperson', gioco ispirato al romanzo di Orwell",
-  "source": "ICv2 (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "tipo": "gioco da tavolo",
-  "brief": "Boardova Games ha distribuito dal 1° novembre 2026 '1984: Unperson', gioco da tavolo basato sul romanzo distopico di George Orwell: un esempio di adattamento ludico di un classico letterario rivolto a un pubblico adulto e tematico."
- },
- {
-  "id": "nerd-2026-11-15-lotr-circle-of-conflict",
-  "title": "Asmodee ed Office Dog pubblicano 'The Lord of the Rings: Circle of Conflict', dadi strategici nella Terra di Mezzo",
-  "source": "Asmodee Store, PCGames.de, Zatu (via ricerca web 2026-11-15)",
-  "affidabilita": "primaria",
-  "date": "2026-11-06",
-  "tipo": "gioco da tavolo",
-  "brief": "Dal 6 novembre 2026 è disponibile 'Circle of Conflict', gioco di dadi strategico per 2-4 giocatori firmato Office Dog e distribuito da Asmodee, in cui si controllano a turno i Popoli Liberi e le forze dell'Ombra nella Terza Era della Terra di Mezzo, con partite da circa un'ora."
+  "brief": "Il gioco da tavolo giapponese sul Team Rocket (titolo riconducibile a \"Are You, Perhaps, a Rocket Grunt?\"), già segnalato nei giorni scorsi, resta annunciato per novembre 2026 senza una data precisa né conferma su un'eventuale distribuzione fuori dal Giappone: le fonti restano le stesse della settimana precedente, nessun nuovo dettaglio ufficiale trovato in questa ricerca."
  }
 ]

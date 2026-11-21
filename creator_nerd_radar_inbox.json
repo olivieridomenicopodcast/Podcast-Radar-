@@ -1,47 +1,38 @@
 [
  {
-  "id": "creator-2026-11-15-lucca-comics-345mila-record",
-  "title": "Lucca Comics & Games chiude la 60ª edizione con 345mila partecipanti, oltre 60mila più del 2025",
-  "source": "Rolling Stone Italia, Editoriale Domani, Multiplayer.it (via ricerca web 2026-11-15)",
+  "id": "creator-2026-11-21-gta6-recensione-italiana-record",
+  "title": "GTA 6 esce il 19 novembre: la recensione italiana di Multiplayer.it e le prime recensioni internazionali da record (99/100 su Metacritic)",
+  "source": "Multiplayer.it (recensione di Pierpaolo Greco, 18/11/2026), Punto Informatico (via ricerca web 2026-11-21)",
   "affidabilita": "secondaria",
-  "date": "2026-11-01",
-  "brief": "La 60ª edizione 'Legacy' di Lucca Comics & Games, chiusa il 1 novembre, ha registrato circa 345mila partecipanti (paganti più accreditati), oltre 60mila in più rispetto al 2025: un nuovo record secondo più fonti italiane, anche se un sito ha pubblicato per errore la cifra di 800mila poi non confermata altrove.",
-  "rilevanza": "Il bilancio record continua a circolare nei resoconti e nei contenuti dei creator italiani che hanno coperto l'evento, e resta un riferimento per chi valuta la portata della fiera come vetrina per contenuti nerd generalisti."
+  "date": "2026-11-18",
+  "brief": "Multiplayer.it ha pubblicato il 18 novembre la sua recensione italiana di GTA 6, alla vigilia del lancio ufficiale del 19 novembre su PS5 e Xbox Series X|S; in parallelo Punto Informatico riporta le prime recensioni internazionali, con punteggi da record fino a 99/100 su Metacritic. È il contenuto gaming più grande della settimana ed è prevedibile che la stragrande maggioranza dei creator italiani di settore stia producendo reaction, let's play e approfondimenti sul gioco in questi giorni.",
+  "rilevanza": "Il lancio di GTA 6 è l'evento che sta polarizzando il calendario editoriale di tutti i creator gaming italiani in questo momento: utile per capire cosa il pubblico nerd italiano si aspetta di vedere sui canali che segue questa settimana."
  },
  {
-  "id": "creator-2026-11-15-cicciogamer-franchino-giuliacrossbow",
-  "title": "Franchino, Giuliacrossbow e CiccioGamer89 al centro di un dibattito nella community gaming italiana su un format 'food'",
-  "source": "Kolsquare (via ricerca web 2026-11-15)",
+  "id": "creator-2026-11-21-milan-games-week-cartoomics-nuovi-ospiti",
+  "title": "Milan Games Week & Cartoomics 2026 (27-29 novembre): annunciati come ospiti le illustratrici Posuka Demizu e Jun Mayuzuki",
+  "source": "AnimeClick.it (via ricerca web 2026-11-21)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "brief": "In vista della fiera milanese del 27-29 novembre, AnimeClick riporta due annunci ospiti: Posuka Demizu (illustratrice di The Promised Neverland, autrice del poster ufficiale dell'edizione 2026) ed edizioni BD-J-POP Manga che porta Jun Mayuzuki. Non è stato possibile reperire la data esatta di pubblicazione dei due annunci, quindi va considerato un segnale recente ma non databile con certezza al giorno.",
+  "rilevanza": "Molti content creator nerd italiani coprono abitualmente Milan Games Week & Cartoomics con vlog, interviste agli ospiti e contenuti dal pavimento fiera: utile anticipare chi sarà presente per chi pianifica contenuti sull'evento."
+ },
+ {
+  "id": "creator-2026-11-21-indipendenza-creator-sponsor-tema-ricorrente",
+  "title": "Resta aperto il dibattito tra i creator videoludici italiani sulla rinuncia a sponsorizzazioni e codici review dei publisher",
+  "source": "AnimeClick.it (via ricerca web 2026-11-21)",
   "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Una recensione negativa di Giuliacrossbow su un'iniziativa food legata a CiccioGamer89, storico YouTuber gaming italiano, seguita da una recensione molto positiva di Franchino, ha acceso un dibattito diffuso rapidamente nelle rispettive community. La data esatta dell'episodio non è determinabile con certezza dalla fonte trovata.",
-  "rilevanza": "Esempio di come dinamiche tra grandi nomi del gaming italiano su YouTube si spostino facilmente su temi extra-videoludici, generando dibattito trasversale nella fanbase nerd."
+  "brief": "Il tema, già segnalato in ricerche precedenti, torna a circolare senza una data di pubblicazione certa riconducibile alle ultime 48 ore: alcuni creator italiani di videogiochi scelgono di rinunciare a sponsor e codici review dei publisher per tutelare credibilità e autonomia critica agli occhi del pubblico, puntando su pubblicità generica, Patreon o donazioni.",
+  "rilevanza": "Tema di fondo utile per chi analizza il rapporto tra creator nerd italiani e publisher, ma da trattare come tendenza di sfondo e non come notizia fresca del giorno, in assenza di una data verificata."
  },
  {
-  "id": "creator-2026-11-15-creator-indipendenza-sponsor",
-  "title": "Sempre più creator videoludici italiani rivendicano indipendenza da sponsor e codici review",
-  "source": "AnimeClick (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Un approfondimento di AnimeClick segnala una tendenza tra i creator italiani di videogiochi a rinunciare a sponsorizzazioni e codici review dei publisher per tutelare credibilità e autonomia critica agli occhi del proprio pubblico. Non è specificata una data precisa della pubblicazione.",
-  "rilevanza": "Tema diretto per chi analizza il rapporto tra creator nerd italiani e publisher: la scelta di indipendenza economica come leva di fiducia con la community."
- },
- {
-  "id": "creator-2026-11-15-milan-games-week-cartoomics-creator-programma",
-  "title": "Milan Games Week & Cartoomics 2026 (27-29 novembre): biglietti in vendita, programma con area creator e cosplay",
-  "source": "Multiplayer.it, TicketOne (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "brief": "Gli organizzatori di Milan Games Week & Cartoomics 2026, in programma dal 27 al 29 novembre a Fiera Milano Rho, hanno messo in vendita i biglietti e annunciato un programma con panel e meet & greet legati ai content creator, oltre a cosplay ed eSport; la lista completa degli ospiti creator non è ancora stata confermata nei risultati trovati.",
-  "rilevanza": "Appuntamento imminente che riguarda direttamente i content creator italiani nerd, molti dei quali partecipano abitualmente come ospiti o producono contenuti dedicati all'evento."
- },
- {
-  "id": "creator-2026-11-15-nota-streamer-polemiche",
-  "title": "Nessuna polemica recente e verificabile reperita su singoli streamer italiani datata alle ultime 48 ore",
-  "source": "Ricerca web 2026-11-15 (nessuna fonte editoriale recente trovata)",
+  "id": "creator-2026-11-21-nota-nessuna-polemica-verificata-48h",
+  "title": "Nessuna polemica o dichiarazione di singoli creator nerd italiani verificabile e datata con certezza alle ultime 48 ore",
+  "source": "Ricerca web 2026-11-21 (nessuna fonte editoriale recente trovata)",
   "affidabilita": "segnale debole",
   "date": null,
-  "brief": "Nota di trasparenza: la ricerca mirata su eventuali polemiche o dichiarazioni recenti di streamer/content creator italiani del mondo gaming non ha restituito episodi datati con certezza alle ultime 48 ore; i casi emersi (es. episodi su Twitch Italia) risalgono a mesi o anni precedenti.",
-  "rilevanza": "Utile per non forzare una notizia di cronaca inesistente: meglio verificare direttamente i profili social dei creator per episodi dell'ultimo giorno."
+  "brief": "Nota di trasparenza: la ricerca mirata su eventuali nuove polemiche, dichiarazioni o episodi di crescita/canale riguardanti streamer e YouTuber italiani del mondo nerd (gaming, giochi da tavolo, fumetti/manga) non ha restituito fatti datati con certezza al 19-21 novembre 2026. I casi noti di cronaca (es. CiccioGamer89, Once Were Nerd) risultano tutti precedenti a questa finestra temporale.",
+  "rilevanza": "Meglio segnalare l'assenza di notizie fresche verificate che inventare un episodio: per contenuti legati a polemiche specifiche conviene controllare direttamente i profili social dei creator nelle prossime ore."
  }
 ]

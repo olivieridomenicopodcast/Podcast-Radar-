@@ -1,116 +1,116 @@
 [
  {
-  "id": "podcast-2026-11-15-sky-voices-canale-video",
-  "title": "Sky lancia Sky Voices, canale tutto dedicato ai video podcast (canale 118 e Now)",
-  "source": "Sorrisi.com (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": "2026-11-02",
-  "brief": "Dal 2 novembre Sky ha attivato Sky Voices, un canale (118) dedicato interamente ai video podcast, disponibile anche in streaming su Now: prima volta che un broadcaster italiano tradizionale dedica un intero canale lineare a questo formato, segno che il video podcast sta uscendo dalla nicchia online.",
+  "id": "podcast-2026-11-21-spotify-partner-program-italia-arrivato",
+  "title": "Lo Spotify Partner Program sbarca ufficialmente anche in Italia",
+  "source": "Spotify Newsroom, podnews.net, ppc.land (via ricerca web 2026-11-21)",
+  "affidabilita": "primaria",
+  "target": 8,
+  "date": "2026-09-17",
+  "brief": "Dal settembre 2026 Spotify ha estero il suo Partner Program a oltre 35 nuovi mercati, Italia compresa: i creator italiani eleggibili possono ora ricevere pagamenti legati all'engagement video dei abbonati Premium, oltre a monetizzare con pubblicità su Spotify Free e sulle altre piattaforme di ascolto. Prima di questa estensione il programma era attivo solo in pochi mercati pilota.",
   "angles": [
-   "Cosa significa per un podcaster indipendente competere (o collaborare) con un canale TV dedicato al formato",
-   "Il video podcast come genere riconosciuto dalla TV generalista, non solo dalle piattaforme online",
-   "Chi può proporre il proprio show a un canale come questo, e cosa cambia rispetto a YouTube"
+   "Cosa serve davvero per essere eleggibili al Partner Program, prima di aspettarsi un assegno",
+   "Perché Spotify lega i pagamenti all'engagement video e cosa significa per chi fa solo audio",
+   "Differenza pratica tra Partner Program e Memberships per chi deve scegliere come monetizzare"
   ],
   "hooks": [
-   "Pensi che il video podcast sia roba da nicchia YouTube? Sky gli ha appena dato un canale tutto suo, il 118.",
-   "Hai un video podcast e ti chiedi se vale la pena farlo bene? C'è un canale TV italiano che adesso vive solo di questo.",
-   "Ti sei sempre chiesto se il podcast video 'conta' davvero? Quando la TV generalista gli dedica un canale, la risposta è sì."
+   "Pensi che monetizzare un podcast in Italia richieda 100mila follower? Spotify ha appena abbassato l'asticella con il suo Partner Program.",
+   "Hai sempre fatto solo audio e temi di essere tagliato fuori dai soldi del video? Il programma paga anche in base all'engagement, non solo alle view.",
+   "Ti sei iscritto a tutto quello che Spotify offriva sperando in qualcosa? Da settembre il Partner Program è ufficialmente anche per te, se sei in Italia."
   ]
  },
  {
-  "id": "podcast-2026-11-15-spotify-partner-program-italia",
-  "title": "Spotify porta in Italia il Partner Program e le Memberships per monetizzare i podcast",
-  "source": "La Voce di New York, askanews, Smartworld.it (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-21-video-podcast-italia-crescita-97",
+  "title": "Il video podcast in Italia raddoppia: +97% di ore viste su Spotify in un anno",
+  "source": "askanews, adnkronos (via ricerca web 2026-11-21)",
   "affidabilita": "secondaria",
   "target": 7,
   "date": "2026-10-20",
-  "brief": "Durante Spotify NEXT e il Video Podcast Club al Teatro Elfo Puccini di Milano, Spotify ha presentato le novità per i creator italiani: il Partner Program si espande a oltre 35 nuovi mercati inclusa l'Italia (sesto paese per adozione di video podcast, consumo +97% in un anno), mentre le Spotify Memberships sono già attive per gli abbonamenti diretti ai fan, con i creator che trattengono il 90% dei ricavi.",
+  "brief": "Dati diffusi da Spotify a ottobre 2026 mostrano le ore di visione di video podcast in Italia in crescita del 97% nell'ultimo anno, con gli utenti mensili che scelgono il video in aumento di oltre il 40%; i podcast italiani che pubblicano anche in video sono cresciuti di oltre il 65%. Una fonte diversa (Adnkronos) riporta una percentuale di crescita delle ore ancora più alta (oltre il 175%), quindi il numero esatto resta da verificare sul comunicato originale.",
   "angles": [
-   "Partner Program vs Memberships: due strade diverse per monetizzare, quale ha senso per chi parte da zero",
-   "Perché l'Italia viene citata come mercato chiave per il video podcast e cosa significa per chi sceglie ora il formato",
-   "Cosa guardare nei requisiti di accesso prima di aspettarsi guadagni concreti"
+   "Perché continuare a fare solo audio in Italia nel 2026 comincia a essere una scelta, non una scorciatoia",
+   "True crime, politica e intrattenimento dominano il video podcast italiano: cosa significa per chi sceglie un formato nuovo",
+   "Quanto costa davvero passare dall'audio al video e quando conviene farlo"
   ],
   "hooks": [
-   "Pensi che monetizzare un podcast in Italia sia impossibile? Spotify ha appena portato qui il suo Partner Program.",
-   "Hai fan che ti seguirebbero anche a pagamento? Le Spotify Memberships in Italia ti lasciano il 90% di quello che pagano.",
-   "Ti sei fatto scoraggiare dai requisiti per guadagnare su Spotify? Sono stati abbassati a inizio 2026, forse li superi già."
+   "Stai ancora rimandando la versione video del tuo podcast? In Italia le ore di visione sono quasi raddoppiate in un anno.",
+   "Pensi che il video podcast sia solo una moda americana? I dati italiani di quest'autunno dicono il contrario, e di parecchio.",
+   "Hai scelto il true crime o la politica come genere? Sono proprio le categorie che stanno trainando il video podcast in Italia."
   ]
  },
  {
-  "id": "podcast-2026-11-15-spotify-apple-protocollo-video",
-  "title": "Spotify adotta il protocollo video di Apple Podcasts: un episodio pubblicato una volta arriverà su entrambe le app",
-  "source": "eMarketer, Sounds Profitable (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-21-nielseniq-audible-185-milioni-ascoltatori",
+  "title": "NielsenIQ per Audible: 18,5 milioni di ascoltatori di podcast in Italia nel 2026",
+  "source": "Italia Oggi, Techprincess, Libreriamo (via ricerca web 2026-11-21)",
   "affidabilita": "secondaria",
   "target": 6,
   "date": null,
-  "brief": "Spotify ha annunciato l'adozione del protocollo HLS per i video podcast introdotto da Apple, permettendo ai creator di pubblicare un episodio video una sola volta e vederlo distribuito automaticamente sia su Apple Podcasts che su Spotify (via Spotify for Creators e Megaphone). Entrambe le aziende presentano la mossa come una risposta comune al controllo esercitato da YouTube sul formato video.",
+  "brief": "Il monitoraggio 2026 realizzato da NielsenIQ per Audible stima in 18,5 milioni gli italiani che hanno ascoltato almeno un podcast nell'ultimo anno, +3% sul 2025 e +80% rispetto al 2018. Un'indagine diversa (Obe con Bva Doxa) dava per il 2025 una cifra più bassa, 15,5 milioni: le due ricerche usano metodologie diverse e non sono direttamente comparabili. Non è stato reperito un giorno esatto di pubblicazione del dato 2026.",
   "angles": [
-   "Un solo export video per due piattaforme: quanto tempo risparmia davvero nel flusso di pubblicazione",
-   "Perché l'interoperabilità tra Apple e Spotify nasce proprio in risposta al dominio di YouTube",
-   "Cosa verificare nel tuo hosting prima di affidarti a questa distribuzione automatica"
+   "Perché due ricerche serie sullo stesso mercato possono dare numeri diversi, e come leggerle senza farsi confondere",
+   "Cosa vuol dire per chi sta per lanciare un podcast italiano che il pubblico cresce ma a ritmo più lento del passato",
+   "Da dove viene davvero la crescita: nuovi ascoltatori o ascoltatori più fedeli"
   ],
   "hooks": [
-   "Pubblichi lo stesso video podcast più volte su piattaforme diverse? Apple e Spotify stanno per farti risparmiare quel lavoro.",
-   "Hai paura che YouTube resti l'unico posto dove il tuo video podcast funziona bene? Apple e Spotify si sono alleate proprio per quello.",
-   "Ti blocchi sempre all'ultimo passaggio, l'esportazione per ogni piattaforma? Con questo protocollo condiviso basterà farlo una volta."
+   "Ti chiedi se in Italia ci sia ancora spazio per un nuovo podcast? Gli ascoltatori sono 18,5 milioni, e continuano a crescere.",
+   "Hai letto numeri diversi su quanti italiani ascoltano podcast e non sai a chi credere? Normale, due ricerche serie misurano cose diverse.",
+   "Pensi che il boom del podcast in Italia sia già finito? Rispetto al 2018 gli ascoltatori sono aumentati dell'80%, altro che bolla."
   ]
  },
  {
-  "id": "podcast-2026-11-15-youtube-domina-consumo-podcast",
-  "title": "YouTube resta la piattaforma più usata per i podcast, Spotify e Apple Podcasts in leggero calo",
-  "source": "Sounds Profitable (via ricerca web 2026-11-15)",
+  "id": "podcast-2026-11-21-magellan-ai-spesa-pubblicitaria-q3",
+  "title": "Magellan AI: la spesa pubblicitaria sui podcast sale ancora, +18% nel terzo trimestre 2026",
+  "source": "Barrett Media, Podnews, rainnews.com (via ricerca web 2026-11-21)",
   "affidabilita": "secondaria",
-  "target": 6,
+  "target": 5,
   "date": "2026-10-01",
-  "brief": "Un sondaggio Sounds Profitable pubblicato il 1 ottobre 2026 confirma YouTube come piattaforma più usata per ascoltare o guardare podcast (40%), davanti a Spotify (17%, in calo dal 18%), Apple Podcasts (8%, in calo dall'11%) e Netflix (5%). Il distacco di YouTube resta ampio nonostante le mosse recenti di Apple e Spotify sul video.",
+  "brief": "Il report trimestrale di Magellan AI sul mercato USA segnala una spesa pubblicitaria sui podcast in crescita del 18% su base annua nel terzo trimestre 2026, con il carico pubblicitario medio salito all'8,86% (dall'8,75% del trimestre precedente). Il settore grocery cresce del 42%, e sono stati identificati 1.468 nuovi marchi che hanno investito per la prima volta in pubblicità podcast.",
   "angles": [
-   "Perché conviene comunque pubblicare su YouTube anche se il tuo pubblico 'vero' è altrove",
-   "Cosa significa per un podcast nuovo scegliere la piattaforma di lancio principale nel 2026",
-   "Il calo di Apple Podcasts e Spotify come percentuale di preferenza: segnale di distrazione o normale frammentazione"
+   "Cosa significa per chi ospita sponsor nel proprio show vedere il carico pubblicitario medio salire ancora",
+   "Nuovi settori come il grocery che entrano in pubblicità podcast: un'opportunità anche per show più piccoli",
+   "Perché i dati USA contano anche se il tuo podcast è italiano e locale"
   ],
   "hooks": [
-   "Stai ancora decidendo se il tuo podcast deve avere una versione video su YouTube? Il 40% lo guarda proprio lì.",
-   "Pensi che Spotify sia ancora la piattaforma regina dei podcast? La sua quota di preferenza è scesa, e YouTube la stacca nettamente.",
-   "Ti sei focalizzato solo sull'audio puro? Netflix distribuisce già video podcast, e YouTube resta lontano davanti a tutti."
+   "Hai paura che la pubblicità nei podcast sia già saturata? Negli USA la spesa è ancora in crescita, +18% in un trimestre.",
+   "Pensi che inserire sponsor nel tuo episodio sia diventato troppo invasivo? Il carico medio pubblicitario sale, ma sale per tutti.",
+   "Ti scoraggi perché i grandi marchi sembrano sempre gli stessi? Nel terzo trimestre quasi 1.500 brand hanno investito per la prima volta in podcast."
   ]
  },
  {
-  "id": "podcast-2026-11-15-riverside-co-creator-podcastle-hosting",
-  "title": "Riverside integra l'agente IA Co-Creator e include l'hosting podcast in tutti i piani a pagamento con Podcastle",
-  "source": "Riverside.com (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
-  "target": 6,
-  "date": null,
-  "brief": "Riverside ha introdotto Co-Creator, un agente di editing basato su IA a cui si può chiedere in linguaggio naturale di pulire l'audio, tagliare solo i momenti migliori o aggiungere effetti sonori; grazie a una partnership con Podcastle, inoltre, l'hosting del podcast è ora incluso in tutti i piani a pagamento della piattaforma, senza costo separato.",
-  "angles": [
-   "Editing a comando vocale o testuale: quanto puoi davvero delegare a un assistente IA senza perdere il controllo",
-   "Hosting incluso nel prezzo dell'editor: cambia il calcolo di cosa pagare per iniziare un podcast",
-   "Cosa resta comunque da fare a mano anche con un agente IA di editing"
-  ],
-  "hooks": [
-   "Passi ancora ore a tagliare gli 'ehm' uno per uno? Riverside ha un agente IA a cui puoi semplicemente chiederlo.",
-   "Pensi che editor e hosting siano due spese separate per forza? Non più, almeno su Riverside con Podcastle incluso.",
-   "Hai paura che l'IA ti rubi il controllo del tuo episodio? Qui le chiedi un taglio e decidi tu se tenerlo."
-  ]
- },
- {
-  "id": "podcast-2026-11-15-audacity-4-redesign",
-  "title": "Audacity 4 in arrivo con interfaccia rifatta, clip sovrapposte e workspace: la revisione più grande in 25 anni",
-  "source": "Sonicstate, AphNetworks (via ricerca web 2026-11-15)",
-  "affidabilita": "secondaria",
+  "id": "podcast-2026-11-21-descript-ricerca-clip-studio",
+  "title": "Descript aggiorna Podcast Studio con una ricerca che trova clip e file in tutti i progetti",
+  "source": "feedback.descript.com, blog Descript (via ricerca web 2026-11-21)",
+  "affidabilita": "primaria",
   "target": 7,
-  "date": "2026-09-03",
-  "brief": "Audacity, l'editor audio gratuito più usato dai podcaster principianti, sta ricevendo la revisione più profonda della sua storia: Audacity 4 introduce clip sovrapposte, workspace personalizzabili e una nuova interfaccia, nel tentativo di modernizzare un programma che non cambiava sostanzialmente da oltre 25 anni.",
+  "date": "2026-10-01",
+  "brief": "Descript ha introdotto in ottobre 2026 una nuova funzione di ricerca che permette di trovare clip e file multimediali, e i momenti specifici al loro interno, in tutti i progetti dell'account, senza dover riaprire ogni singolo episodio per cercare un frammento. La stessa pagina di changelog annuncia inoltre che i modelli di prompt salvati diventeranno \"skills\", con lo switch dei vecchi template previsto per fine novembre.",
   "angles": [
-   "Perché Audacity resta il primo editor per chi inizia, anche con strumenti IA più 'comodi' in circolazione",
-   "Cosa cambia in pratica per chi ha già un flusso di lavoro impostato sulla vecchia interfaccia",
-   "Gratis vs IA a pagamento: quando ha senso restare su Audacity e quando no"
+   "Quanto tempo si risparmia davvero a non dover riaprire ogni episodio per trovare una singola clip",
+   "Perché organizzare bene i progetti in Descript conta più ora che la ricerca li attraversa tutti",
+   "Cosa cambia con il passaggio dai vecchi template ai nuovi 'skills' prima che i primi vengano disattivati"
   ],
   "hooks": [
-   "Hai imparato a editare su Audacity e temi che cambi tutto? Sta per arrivare la revisione più grande in 25 anni di storia.",
-   "Pensi che un editor gratuito non possa stare al passo con Descript o Riverside? Audacity 4 ci sta provando con clip sovrapposte e workspace.",
-   "Ti blocchi ancora con l'interfaccia vecchia di Audacity? La versione 4 la rifà da zero, finalmente."
+   "Passi ancora minuti a riaprire vecchi episodi per ritrovare quella frase che ti serviva? Descript ora cerca in tutti i tuoi progetti insieme.",
+   "Hai un archivio di puntate che sembra un cassetto disordinato? La nuova ricerca di Descript lo attraversa tutto in un colpo.",
+   "Usi ancora i vecchi template di Descript? Stanno per essere sostituiti dalle 'skills', meglio dargli un'occhiata prima che spariscano."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-21-errori-principianti-microfono-posizionamento",
+  "title": "Posizionamento e trattamento acustico restano gli errori più comuni di chi inizia a registrare un podcast",
+  "source": "Rode (guida ufficiale), eMastered, Semrush (via ricerca web 2026-11-21)",
+  "affidabilita": "segnale debole",
+  "target": 8,
+  "date": null,
+  "brief": "Le guide più consultate per chi inizia a registrare audio in casa, tra cui quelle ufficiali di Rode ed eMastered, continuano a segnalare gli stessi due errori di base: posizionamento scorretto del microfono (che da solo peserebbe per circa l'80% della qualità finale secondo Rode) e assenza di un minimo trattamento acustico dell'ambiente. Semrush aggiunge un errore meno tecnico ma frequente: parlare a un pubblico diverso a ogni episodio invece di restare coerenti con chi si è scelto di servire.",
+  "angles": [
+   "Perché conviene sistemare la stanza prima di comprare il microfono più costoso",
+   "Il gain impostato male come causa nascosta di un audio che 'non si capisce perché suona male'",
+   "Coerenza del pubblico episodio per episodio: l'errore di contenuto che nessuno controlla mai in fase di montaggio"
+  ],
+  "hooks": [
+   "Hai appena comprato un microfono costoso e il tuo audio continua a fare schifo? Il colpevole è quasi sempre dove lo tieni, non quanto l'hai pagato.",
+   "Pensi che la stanza in cui registri non conti niente? Conta più del microfono stesso, e lo dicono gli stessi che il microfono te lo vendono.",
+   "Ti chiedi perché il tuo podcast non cresce anche se il suono è pulito? Forse parli a un pubblico diverso ogni episodio, e chi ascolta se ne accorge."
   ]
  }
 ]
