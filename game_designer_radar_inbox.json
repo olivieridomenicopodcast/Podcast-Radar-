@@ -1,192 +1,102 @@
 [
  {
-  "id": "gd-2026-11-21-halo-campaign-evolved-mantic",
-  "title": "Mantic Games porta HALO: Campaign Evolved al retail dal 14 novembre",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "catalogo",
-  "date": "2026-11-14",
-  "brief": "Mantic Games ha portato in retail dal 14 novembre 2026 HALO: Campaign Evolved, nuovo gioco da tavolo su licenza annunciato per la prima volta a giugno 2026: caso utile per chi segue come un publisher di giochi da tavolo gestisce una licenza videoludica importante dall'annuncio allo scaffale."
- },
- {
-  "id": "gd-2026-11-21-dc-superheroes-united-cmon-asmodee",
-  "title": "Asmodee distribuisce DC Super Heroes United Core Box di CMON e Spin Master Games dal 13 novembre",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "catalogo",
-  "date": "2026-11-13",
-  "brief": "Dal 13 novembre 2026 è in retail DC Super Heroes United Core Box, titolo co-firmato da CMON e Spin Master Games e distribuito da Asmodee: un altro esempio di co-produzione tra un publisher ludico specializzato e un grande gruppo giocattoli su licenza supereroistica."
- },
- {
-  "id": "gd-2026-11-21-the-thing-gamefound-relaunch",
-  "title": "The Thing: The Boardgame torna su Gamefound con un nuovo gioco di carte standalone",
-  "source": "GodIsAGeek (via ricerca web 2026-11-21)",
+  "id": "gd-2026-11-22-pvz-mantic-kickstarter",
+  "title": "Plants vs. Zombies: The Board Game (Mantic Games) sfiora 1,3 milioni di dollari su Kickstarter",
+  "source": "godisageek.com (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
   "mercato": "straniera",
   "tipo": "crowdfunding",
-  "date": null,
-  "brief": "Pendragon Game Studio (studio statunitense, non quello italiano) rilancia su Gamefound The Thing: The Boardgame con l'aggiunta di un nuovo gioco di carte standalone ambientato nello stesso universo: segnale di come un titolo già noto alla community venga rilanciato in crowdfunding con contenuti aggiuntivi per rinnovare l'interesse dei backer."
+  "date": "2026-11-03",
+  "brief": "La campagna Kickstarter di Plants vs. Zombies: The Board Game di Mantic Games aveva raccolto 1.304.090 dollari da 7.049 backer all'inizio di novembre, in chiusura di campagna: ennesima conferma della forza delle licenze videoludiche note nel crowdfunding ludico, in linea con altri casi recenti (Satisfactory, Origins of Light/Final Fantasy)."
  },
  {
-  "id": "gd-2026-11-21-satisfactory-gamefound-3-6m",
-  "title": "Satisfactory: The Board Game supera i 3,6 milioni di euro su Gamefound in fase di \"endgame\"",
-  "source": "GodIsAGeek (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "crowdfunding",
-  "date": "2026-11-17",
-  "brief": "La campagna Gamefound di Satisfactory: The Board Game, adattamento del videogioco di fabbrica Coffee Stain, ha raggiunto 3.622.288 euro di raccolta al 17 novembre 2026, confermando l'adattamento di IP videoludiche note come una delle leve di crowdfunding più solide del momento anche per publisher non specializzati in tabletop."
- },
- {
-  "id": "gd-2026-11-21-origins-of-light-final-fantasy-kickstarter",
-  "title": "Origins of Light, gioco da tavolo su Final Fantasy, supera 1,5 milioni di dollari su Kickstarter",
-  "source": "GodIsAGeek (via ricerca web 2026-11-21)",
+  "id": "gd-2026-11-22-origins-light-ff-kickstarter-chiuso",
+  "title": "Origins of Light: A Final Fantasy Board Game chiude la campagna Kickstarter il 18 novembre",
+  "source": "Kicktraq (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
   "mercato": "straniera",
   "tipo": "crowdfunding",
   "date": "2026-11-18",
-  "brief": "La campagna Kickstarter di Origins of Light: A Final Fantasy Board Game ha superato 1,5 milioni di dollari, con scadenza fissata alle 13:00 EST di mercoledì 18 novembre 2026: ulteriore conferma della forza commerciale delle licenze JRPG storiche quando tradotte in formato da tavolo."
+  "brief": "Aggiornamento rispetto al segnale di qualche giorno fa (allora oltre 1,5 milioni di dollari): la campagna di KessCo per il gioco da tavolo su licenza Final Fantasy si è chiusa il 18 novembre con 1.364 backer registrati su Kicktraq, confermando il traino delle IP JRPG storiche sul crowdfunding."
  },
  {
-  "id": "gd-2026-11-21-carcassonne-labyrinth-ravensburger",
-  "title": "Ravensburger e Hans im Glück annunciano Carcassonne Labyrinth, crossover in uscita a dicembre",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
+  "id": "gd-2026-11-22-stonemaier-fulfillment-novembre",
+  "title": "Stonemaier Games: le spedizioni di Braided Skies e Namiji arrivano ai centri di fulfillment, Europa dal 15 novembre",
+  "source": "aggiornamento ufficiale Stonemaier Games (via ricerca web 2026-11-22)",
+  "affidabilita": "primaria",
+  "mercato": "straniera",
+  "tipo": "catalogo",
+  "date": "2026-11-04",
+  "brief": "Nell'aggiornamento del 4 novembre, Stonemaier Games segnala l'arrivo ai centri di fulfillment dei carichi di Braided Skies, Namiji e dei nuovi accessori per Wingspan, con la spedizione europea prevista dal 15 novembre: dettaglio operativo utile per chi studia le tempistiche reali di fulfillment dopo una campagna di crowdfunding andata a buon fine. Lo stesso aggiornamento riporta un'asta di beneficenza che ha raccolto 37.891 dollari per 10 associazioni."
+ },
+ {
+  "id": "gd-2026-11-22-cge-kingdom-come-deliverance-tariffe",
+  "title": "Czech Games Edition e Warhorse Studios: il gioco da tavolo ufficiale di Kingdom Come: Deliverance in arrivo in autunno, con sovrapprezzo USA per i dazi",
+  "source": "BoardGameWire, digitec/galaxus (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
   "mercato": "straniera",
   "tipo": "catalogo",
   "date": null,
-  "brief": "Ravensburger e Hans im Glück porteranno in retail a dicembre 2026 Carcassonne Labyrinth, titolo crossover che unisce il meccanismo di piazzamento tessere di Carcassonne con elementi da gioco di percorso: esempio di come due editori collaborino su un mash-up tra IP proprie per rinfrescare un brand storico."
+  "brief": "CGE e Warhorse Studios stanno producendo il gioco da tavolo ufficiale ambientato nell'universo di Kingdom Come: Deliverance, atteso per l'autunno 2026 senza una data esatta reperita. Il CEO di CGE ha dichiarato che i dazi USA faranno costare il gioco circa 30 dollari in più ai compratori americani rispetto a quelli europei: un caso concreto di come le tariffe commerciali pesino sui prezzi finali di un publisher di medie dimensioni."
  },
  {
-  "id": "gd-2026-11-21-zoo-vadis-allplay-asmodee",
-  "title": "Allplay porta in retail Zoo Vadis di Reiner Knizia tramite Asmodee il 31 dicembre",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "catalogo",
-  "date": null,
-  "brief": "Allplay distribuirà tramite Asmodee, dal 31 dicembre 2026, Zoo Vadis, nuovo disegno di Reiner Knizia: un caso di publisher emergente che si appoggia alla rete distributiva di un grande gruppo per portare al retail il lavoro di un autore di fama internazionale."
- },
- {
-  "id": "gd-2026-11-21-joyride-full-throttle-rebellion",
-  "title": "Rebellion Unplugged annuncia Joyride: Full Throttle, gioco di corse standalone, per gennaio 2027",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "catalogo",
-  "date": null,
-  "brief": "Rebellion Unplugged ha fissato per il 6 gennaio 2027 l'uscita retail di Joyride: Full Throttle, titolo standalone di corse con 20 percorsi su due nuove mappe: segnale di un editore che costruisce una linea di prodotto indipendente attorno a un brand di corse automobilistiche."
- },
- {
-  "id": "gd-2026-11-21-bggcon-2026-dallas-regole-expo",
-  "title": "BGG.Con 2026 in corso a Dallas (18-22 novembre): regole espositori a tutela dei publisher partecipanti",
-  "source": "Tabletop.events, pagina ufficiale BGG.Con (via ricerca web 2026-11-21)",
+  "id": "gd-2026-11-22-bggcon-dallas-ultimo-giorno",
+  "title": "BGG.Con 2026 chiude oggi a Dallas dopo cinque giorni di playtest e incontri tra autori ed editori",
+  "source": "tabletop.events, pagina ufficiale BGG.Con (via ricerca web 2026-11-22)",
   "affidabilita": "primaria",
   "mercato": "straniera",
   "tipo": "fiera",
-  "date": "2026-11-18",
-  "brief": "La convention BGG.Con, in corso all'Hyatt Regency di Dallas dal 18 al 22 novembre 2026, impone ai rivenditori generalisti presenti di verificare l'elenco dei publisher espositori e di non vendere i loro giochi senza un accordo esplicito: una tutela concreta per piccoli editori ed autori che portano prototipi e novità in fiera."
+  "date": "2026-11-22",
+  "brief": "La convention BGG.Con all'Hyatt Regency di Dallas, in corso dal 18 novembre, chiude oggi 22 novembre 2026: uno degli ultimi grandi appuntamenti internazionali dell'anno per chi porta prototipi e cerca publisher prima della stagione delle fiere invernali USA (PAX Unplugged a dicembre)."
  },
  {
-  "id": "gd-2026-11-21-czge-hachette-wispwood-conferma",
-  "title": "Aggiornamento: l'accordo Czech Games Edition-Hachette per la distribuzione UK risulta datato dicembre 2025, non recentissimo",
-  "source": "BoardGameWire (via ricerca web 2026-11-21)",
+  "id": "gd-2026-11-22-lucca-gioco-anno-rebirth-knizia",
+  "title": "Rebirth di Reiner Knizia vince il Gioco dell'Anno 2026 a Lucca Comics & Games",
+  "source": "gusandco.net, SpazioGames (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
-  "mercato": "straniera",
-  "tipo": "publisher",
-  "date": "2025-12-02",
-  "brief": "Nota di correzione rispetto al segnale debole di qualche giorno fa: l'accordo tra Czech Games Edition e Hachette (tramite il marchio Wispwood) per la distribuzione nel Regno Unito, che chiude un decennio di distribuzione tramite Asmodee, risulta pubblicato da BoardGameWire già il 2 dicembre 2025, quindi non è una notizia dell'ultima settimana ma un accordo già in corso da tempo."
- },
- {
-  "id": "gd-2026-11-21-combo-festival-milano-prima-edizione",
-  "title": "Combo Festival di Pedine, Dadi e Carte: la prima edizione a Milano prova un formato alternativo alla fiera tradizionale",
-  "source": "MenteLocale, Fuorisalone, Il Sole 24 Ore (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "fiera",
-  "date": "2026-10-03",
-  "brief": "Ideato da Ludo Labo, Studiolabo e Cranio Creations, il Combo Festival ha debuttato al Morel di Milano il 3-4 ottobre 2026 con oltre 40 editori e 35 anteprime mondiali, biglietto unico a capacità limitata e un'installazione dedicata a 14 autrici di giochi: un modello diverso dalle grandi fiere, pensato apposta in vista di Spiel Essen. Utile riferimento per un game designer che valuta dove mostrare un prototipo fuori dai canali più battuti."
- },
- {
-  "id": "gd-2026-11-21-need-games-piano-2026-alien-need-bites",
-  "title": "Need Games conferma il piano 2026 con Alien Evolved Edition in italiano e la nuova collana compatta Need Bites!",
-  "source": "SpazioGames (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "catalogo",
-  "date": null,
-  "brief": "Need Games ha presentato il piano editoriale 2026, con al centro Alien Evolved Edition in collaborazione con Free League Publishing e il lancio di Need Bites!, nuova collana di giochi compatti, autosufficienti e facilmente trasportabili: segnale di un editore italiano che segmenta il catalogo per pubblici diversi (gdr hardcore vs titoli snack) senza indicare ancora date di uscita precise."
- },
- {
-  "id": "gd-2026-11-21-archimede-2027-iscrizioni-aperte",
-  "title": "Premio Archimede 2027: iscrizioni ora aperte, prototipi da spedire a Venezia entro il 28 febbraio 2027",
-  "source": "studiogiochi.com (via ricerca web 2026-11-21)",
-  "affidabilita": "primaria",
   "mercato": "italiana",
   "tipo": "concorso",
-  "date": null,
-  "brief": "Il bando del Premio Archimede 2027 per prototipi inediti è ora accessibile online con modulo di iscrizione dedicato; i prototipi fisici vanno spediti alla sede di Venezia (San Polo 3083) entro il 28 febbraio 2027, fa fede la data di spedizione. Il Trofeo SAZ Italia per il miglior autore italiano resta legato a un ingresso gratuito a IdeaG Parma, confermando il filo diretto tra concorso e incontro nazionale degli autori."
+  "date": "2026-10-29",
+  "brief": "Il 29 ottobre, durante Lucca Comics & Games 2026, Rebirth di Reiner Knizia è stato premiato come Gioco dell'Anno, battendo altri finalisti come Art Society, Bomb Busters, Echoes of Time e Thunder Road Vendetta: lo stesso titolo aveva già vinto il Kennerspiel des Jahres in Germania nell'estate 2026, doppio premio raro che mostra un design capace di funzionare sia per il pubblico 'kenner' tedesco che per quello italiano generalista. Reperita una sola fonte diretta per la cerimonia, da trattare come segnale da confermare su canali italiani ufficiali."
  },
  {
-  "id": "gd-2026-11-21-ideag-data-non-trovata",
-  "title": "Nessuna data ufficiale ancora reperita per la prossima edizione di IdeaG Parma",
-  "source": "studiogiochi.com (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "nota",
-  "date": null,
-  "brief": "Nota di trasparenza confermata anche oggi: IdeaG Parma resta un riferimento vivo (è legato al Premio Archimede 2027), ma nessuna fonte consultata indica ancora la data della prossima edizione dell'incontro nazionale di autori di giochi da tavolo. Da verificare direttamente sul sito dell'evento quando disponibile."
- },
- {
-  "id": "gd-2026-11-21-play-festival-bologna-nuove-date",
-  "title": "Play - Festival del Gioco: pagina \"nuove date annunciate\" individuata, dettagli ancora da confermare",
-  "source": "play-festival.it (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "mercato": "italiana",
-  "tipo": "fiera",
-  "date": null,
-  "brief": "Dopo il trasferimento da Modena a Bologna (edizione 2025 organizzata da BolognaFiere con ModenaFiere e Ludo Labo, motivato dalla crescita della manifestazione), il sito ufficiale di Play Festival ha una pagina dedicata a nuove date annunciate, ma i contenuti specifici non sono emersi nei risultati di ricerca: da controllare direttamente sul sito per la prossima edizione."
- },
- {
-  "id": "gd-2026-11-21-dv-games-nuovo-logo-25-anni",
-  "title": "DV Games presenta il nuovo logo per i 25 anni, parola del CEO Roberto Corbelli",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
+  "id": "gd-2026-11-22-paolo-mori-autore-anno",
+  "title": "Paolo Mori nominato Autore di Giochi dell'Anno 2026 a Lucca Comics & Games",
+  "source": "gusandco.net (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
+  "mercato": "italiana",
+  "tipo": "concorso",
+  "date": "2026-09-24",
+  "brief": "Il game designer italiano Paolo Mori è stato nominato Autore di Giochi dell'Anno 2026 nell'ambito dei riconoscimenti legati a Lucca Comics & Games, annuncio del 24 settembre: premio distinto dal Gioco dell'Anno vinto da Rebirth, e riferimento diretto per chi segue il lavoro degli autori italiani sulla scena internazionale."
+ },
+ {
+  "id": "gd-2026-11-22-dv-ghenos-evento-mondadori-29-novembre",
+  "title": "DV Games e Ghenos Games in un evento di gioco libero da Mondadori Store il 29 novembre",
+  "source": "mondadoristore.it (via ricerca web 2026-11-22)",
+  "affidabilita": "segnale debole",
   "mercato": "italiana",
   "tipo": "publisher",
-  "date": "2026-09-16",
-  "brief": "L'editore italiano DV Games (ex dV Giochi, fondata nel 2001 come daVinci Editrice, diventata DV Games dopo l'acquisizione di Ghenos nel 2021) ha presentato un nuovo logo per celebrare i 25 anni di attività: il CEO Roberto Corbelli ha parlato di cosa è stato costruito finora e della direzione futura del marchio. Non è una notizia dell'ultima settimana, ma resta il riferimento più recente sul riposizionamento del publisher."
+  "date": null,
+  "brief": "Una pagina evento di Mondadori Store annuncia per il 29 novembre alle 10:00 una sessione di gioco libero con le novità e i bestseller di DV Games e Ghenos Games (tra cui Taco Gatto Capra Cacio Pizza, Flip 7 e Procioni in Cassa 4): la pagina non indica l'anno in modo inequivocabile né la sede esatta, quindi va considerata un segnale da verificare prima di darla per certa 2026. Format ricorrente di promozione in libreria per i due publisher, che condividono la stessa rete distributiva."
  },
  {
-  "id": "gd-2026-11-21-asmodee-italia-fatturato-2025",
-  "title": "Asmodee Italia chiude il 2025 a 28,6 milioni di euro di fatturato, +26%",
-  "source": "Articolo di settore datato 4 gennaio 2026 (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "mercato": "italiana",
-  "tipo": "nota",
-  "date": "2026-01-04",
-  "brief": "Dato di contesto non recentissimo ma rilevante per chi valuta il peso dei singoli editori sul mercato italiano: secondo un articolo di settore del 4 gennaio 2026, Asmodee Italia ha chiuso il 2025 con un fatturato di 28,6 milioni di euro, in crescita del 26% sull'anno precedente."
- },
- {
-  "id": "gd-2026-11-21-gateongames-nota",
-  "title": "Nessuna notizia verificabile reperita su GateOnGames o Mario Cortese nelle ultime 48 ore",
-  "source": "Ricerca web 2026-11-21 (nessuna fonte editoriale trovata)",
+  "id": "gd-2026-11-22-gateongames-nota-castle-combo",
+  "title": "GateOnGames: unico titolo reperito resta Castle Combo, nessuna notizia editoriale fresca su Mario Cortese",
+  "source": "Meeple.it, FroGames (via ricerca web 2026-11-22)",
   "affidabilita": "segnale debole",
   "mercato": "italiana",
   "tipo": "nota",
   "date": null,
-  "brief": "Nota di trasparenza: anche oggi la ricerca mirata su Mario Cortese e sull'attività editoriale di GateOnGames non ha restituito comunicati, interviste o annunci recenti. Nessuna notizia viene inventata su questo editore; conviene controllare direttamente i suoi canali ufficiali."
+  "brief": "Nota di trasparenza confermata anche oggi: la ricerca su GateOnGames e su Mario Cortese non ha restituito comunicati o interviste recenti. L'unico titolo collegato all'editore reperito nei database è Castle Combo (gioco di costruzione tableau per 2-5 giocatori, voto 7,6 su BoardGameGeek), con un'espansione minore ('Fuori dalle Segrete!') in vendita su FroGames. Nessuna notizia viene inventata; da verificare sui canali ufficiali dell'editore."
  },
  {
-  "id": "gd-2026-11-21-pendragon-studio-italia-date-estere",
-  "title": "Pendragon Game Studio (Italia): per i nuovi titoli Chaosium circolano solo date in inglese (Q2/Q3 2026), nessuna uscita italiana ancora annunciata",
-  "source": "Asmodee Canada shop, nobleknight.com (via ricerca web 2026-11-21)",
+  "id": "gd-2026-11-22-ideag-parma-nota-ripetuta",
+  "title": "IdeaG Parma: nessuna data per la prossima edizione ancora reperibile, il Premio Archimede 2027 resta il solo filo diretto",
+  "source": "studiogiochi.com (via ricerca web 2026-11-22)",
   "affidabilita": "segnale debole",
   "mercato": "italiana",
   "tipo": "nota",
   "date": null,
-  "brief": "I rivenditori nordamericani elencano Pendragon: The Sauvage King (Q2 2026) e Pendragon: Noble's Handbook (Q3 2026) solo in edizione inglese: nessuna fonte consultata indica finora una data di localizzazione italiana da parte di Pendragon Game Studio, lo studio editoriale italiano che cura il brand Chaosium nel mercato locale."
+  "brief": "Confermato anche oggi: nessuna fonte consultata indica una data per la prossima edizione dell'incontro nazionale IdeaG a Parma. Il legame resta quello già noto con il Premio Archimede 2027 (iscrizioni aperte, prototipi da spedire entro il 28 febbraio 2027), il cui vincitore riceve un ingresso gratuito a IdeaG. Utile continuare a monitorare il sito Studiogiochi/SAZ Italia per l'annuncio ufficiale."
  }
 ]

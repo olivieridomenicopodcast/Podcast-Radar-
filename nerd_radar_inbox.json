@@ -1,65 +1,56 @@
 [
  {
-  "id": "nerd-2026-11-21-gta6-lancio",
-  "title": "GTA 6 è uscito il 19 novembre su PS5 e Xbox Series X|S con recensioni da record (99/100)",
-  "source": "Metacritic, Punto Informatico, Enter.co, games.gg (via ricerca web 2026-11-21)",
+  "id": "nerd-2026-11-22-gta6-stime-vendite-sensor-tower",
+  "title": "GTA 6: Sensor Tower stima 17 milioni di copie vendute per 1,65 miliardi di dollari",
+  "source": "Fox5NY, 80.lv, GGRecon (via ricerca web 2026-11-22)",
+  "affidabilita": "secondaria",
+  "date": "2026-11-20",
+  "tipo": "videogioco",
+  "brief": "A pochi giorni dal lancio del 19 novembre, la società di analisi Sensor Tower stima che GTA 6 abbia già venduto circa 17 milioni di copie per oltre 1,65 miliardi di dollari, con le azioni di Take-Two salite di oltre il 6%. Sono stime di terze parti: Rockstar e Take-Two non hanno ancora confermato cifre ufficiali, che arriveranno probabilmente con i risultati trimestrali."
+ },
+ {
+  "id": "nerd-2026-11-22-game-awards-2026-nomination-gta6",
+  "title": "The Game Awards 2026: annunciate le nomination, GTA VI in testa",
+  "source": "Gematsu, Dexerto, GamesBeat (via ricerca web 2026-11-22)",
   "affidabilita": "primaria",
-  "date": "2026-11-19",
+  "date": "2026-11-17",
   "tipo": "videogioco",
-  "brief": "Dopo i rinvii degli ultimi anni, Grand Theft Auto 6 è arrivato il 19 novembre 2026 su PlayStation 5 e Xbox Series X|S (nessuna data PC ufficiale), con menu e sottotitoli in italiano al lancio. Le prime recensioni della stampa internazionale convergono su un punteggio Metacritic vicino a 99/100, tra i più alti mai registrati per un titolo Rockstar."
+  "brief": "Il 17 novembre sono state rivelate le nomination di The Game Awards 2026: 155 nomination su 30 categorie, con GTA VI in testa (le fonti divergono tra 7 e 8 nomination). La cerimonia si terrà il 10 dicembre al Peacock Theater di Los Angeles; la categoria fan-only Players' Voice sarà annunciata il 30 novembre."
  },
  {
-  "id": "nerd-2026-11-21-binding-of-isaac-repentance-plus",
-  "title": "The Binding of Isaac: Repentance+ Online arriva il 19 novembre su PS5, Xbox Series X|S e Switch 2",
-  "source": "Instant Gaming (via ricerca web 2026-11-21)",
+  "id": "nerd-2026-11-22-chocobo-scout-frenzy-square-enix",
+  "title": "Square Enix annuncia \"Chocobo's Scout Frenzy\", nuovo gioco da tavolo Final Fantasy",
+  "source": "ICv2 (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
   "date": "2026-11-19",
-  "tipo": "videogioco",
-  "brief": "Nella rassegna settimanale delle uscite (16-22 novembre) viene segnalato l'arrivo, il 19 novembre, della versione online di Repentance+ di The Binding of Isaac su PS5, Xbox Series X|S e Nintendo Switch 2: aggiunge il multiplayer online a uno dei roguelike più longevi del mercato indie."
+  "tipo": "gioco da tavolo",
+  "brief": "ICv2 riporta il 19 novembre l'annuncio di Chocobo's Scout Frenzy, nuovo gioco da tavolo Square Enix ambientato nell'universo Final Fantasy: i giocatori controllano i chocobo alla ricerca di Gysahl Greens evitando i mostri. Uscita retail prevista per il terzo trimestre 2027."
  },
  {
-  "id": "nerd-2026-11-21-milan-games-week-cartoomics-programma",
-  "title": "Milan Games Week & Cartoomics 2026: a Fiera Milano Rho dal 27 al 29 novembre, cast di One Piece live-action tra gli ospiti",
-  "source": "Multiplayer.it, AnimeClick, Techprincess (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "tipo": "fiera",
-  "brief": "La sesta edizione combinata dell'evento si allarga a quattro padiglioni di Fiera Milano Rho con il tema dell'acqua: tra gli ospiti annunciati il cast della serie live-action di One Piece, l'artista Posuka Demizu (autrice del poster ufficiale) e una mostra di Sergio Bonelli Editore per i 40 anni di Dylan Dog. L'edizione 2025 aveva superato i 130mila visitatori."
- },
- {
-  "id": "nerd-2026-11-21-bggcon-dallas-in-corso",
-  "title": "BGG.Con 2026 è in corso a Dallas (18-22 novembre), punto di incontro per autori ed editori",
-  "source": "BoardGameGeek, Boardgamewire (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
+  "id": "nerd-2026-11-22-bggcon-2026-chiusura-dallas",
+  "title": "BGG.Con 2026 si chiude oggi a Dallas dopo cinque giorni di playtest e incontri tra autori ed editori",
+  "source": "tabletop.events, pagina ufficiale BGG.Con (via ricerca web 2026-11-22)",
+  "affidabilita": "primaria",
   "date": "2026-11-18",
   "tipo": "fiera",
-  "brief": "La convention annuale della community BoardGameGeek si tiene in questi giorni a Dallas: resta uno degli appuntamenti più seguiti a livello internazionale per playtest di prototipi, incontri tra autori ed editori e tornei, proprio nella settimana che precede la corsa alle uscite natalizie."
+  "brief": "La convention BoardGameGeek all'Hyatt Regency di Dallas, iniziata il 18 novembre, chiude oggi 22 novembre: tra le regole di quest'edizione, i prodotti degli espositori dovevano arrivare al magazzino BGG entro il 6 novembre e i rivenditori generalisti non possono vendere giochi di publisher espositori senza accordo esplicito."
  },
  {
-  "id": "nerd-2026-11-21-blancat-korea-board-games",
-  "title": "Korea Board Games porta in retail \"Blancat\", nuovo gioco di velocità/abbinamento per 2-4 giocatori",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-20",
-  "tipo": "gioco da tavolo",
-  "brief": "Dal 20 novembre è disponibile Blancat, un gioco di velocità e abbinamento per 2-4 giocatori dagli 8 anni in su, con partite da circa 20 minuti e prezzo consigliato di 16,99 dollari: dato riportato da una sola fonte di settore, da trattare come segnale debole in attesa di conferme ulteriori."
- },
- {
-  "id": "nerd-2026-11-21-class-of-89-paverson",
-  "title": "Paverson Games distribuisce \"Class of '89\", nuovo gioco di piazzamento tessere",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-20",
-  "tipo": "gioco da tavolo",
-  "brief": "Anche \"Class of '89\", gioco di piazzamento tessere di Paverson Games, arriva in retail il 20 novembre 2026: come per Blancat, l'informazione proviene da una sola fonte specializzata e va considerata un segnale ancora da confermare con l'editore."
- },
- {
-  "id": "nerd-2026-11-21-pokemon-team-rocket-teaser",
-  "title": "Pokémon: resta solo un teaser il gioco da tavolo dedicato al Team Rocket per il mercato giapponese",
-  "source": "OpenCritic, Outlook India (via ricerca web 2026-11-21)",
+  "id": "nerd-2026-11-22-pokemon-board-game-teaser-promo-image",
+  "title": "Pokémon: circola un'immagine promozionale di un nuovo gioco da tavolo in uscita a novembre, ancora senza conferma ufficiale",
+  "source": "OpenCritic/Screen Rant (via ricerca web 2026-11-22)",
   "affidabilita": "segnale debole",
   "date": null,
   "tipo": "gioco da tavolo",
-  "brief": "Il gioco da tavolo giapponese sul Team Rocket (titolo riconducibile a \"Are You, Perhaps, a Rocket Grunt?\"), già segnalato nei giorni scorsi, resta annunciato per novembre 2026 senza una data precisa né conferma su un'eventuale distribuzione fuori dal Giappone: le fonti restano le stesse della settimana precedente, nessun nuovo dettaglio ufficiale trovato in questa ricerca."
+  "brief": "Dopo il teaser già segnalato nei giorni scorsi sul gioco da tavolo dedicato al Team Rocket per il mercato giapponese, circola ora un'immagine promozionale di un nuovo gioco da tavolo Pokémon atteso a novembre 2026, con 'maggiori dettagli in arrivo'. Nessuna fonte ufficiale The Pokémon Company ha confermato finora i dettagli."
+ },
+ {
+  "id": "nerd-2026-11-22-milan-games-week-cartoomics-countdown",
+  "title": "Countdown per Milan Games Week & Cartoomics 2026: si apre tra cinque giorni a Fiera Milano Rho",
+  "source": "Multiplayer.it, AnimeClick (via ricerca web 2026-11-22)",
+  "affidabilita": "secondaria",
+  "date": null,
+  "tipo": "fiera",
+  "brief": "Manca una settimana scarsa all'apertura (27-29 novembre) della sesta edizione combinata di Milan Games Week & Cartoomics a Fiera Milano Rho, quattro padiglioni con tema l'acqua: tra gli ospiti confermati Posuka Demizu (poster ufficiale), il cast della serie live-action di One Piece e una mostra Sergio Bonelli Editore per i 40 anni di Dylan Dog."
  }
 ]

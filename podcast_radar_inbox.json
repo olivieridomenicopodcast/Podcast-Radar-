@@ -1,116 +1,135 @@
 [
  {
-  "id": "podcast-2026-11-21-spotify-partner-program-italia-arrivato",
-  "title": "Lo Spotify Partner Program sbarca ufficialmente anche in Italia",
-  "source": "Spotify Newsroom, podnews.net, ppc.land (via ricerca web 2026-11-21)",
-  "affidabilita": "primaria",
-  "target": 8,
-  "date": "2026-09-17",
-  "brief": "Dal settembre 2026 Spotify ha estero il suo Partner Program a oltre 35 nuovi mercati, Italia compresa: i creator italiani eleggibili possono ora ricevere pagamenti legati all'engagement video dei abbonati Premium, oltre a monetizzare con pubblicità su Spotify Free e sulle altre piattaforme di ascolto. Prima di questa estensione il programma era attivo solo in pochi mercati pilota.",
-  "angles": [
-   "Cosa serve davvero per essere eleggibili al Partner Program, prima di aspettarsi un assegno",
-   "Perché Spotify lega i pagamenti all'engagement video e cosa significa per chi fa solo audio",
-   "Differenza pratica tra Partner Program e Memberships per chi deve scegliere come monetizzare"
-  ],
-  "hooks": [
-   "Pensi che monetizzare un podcast in Italia richieda 100mila follower? Spotify ha appena abbassato l'asticella con il suo Partner Program.",
-   "Hai sempre fatto solo audio e temi di essere tagliato fuori dai soldi del video? Il programma paga anche in base all'engagement, non solo alle view.",
-   "Ti sei iscritto a tutto quello che Spotify offriva sperando in qualcosa? Da settembre il Partner Program è ufficialmente anche per te, se sei in Italia."
-  ]
- },
- {
-  "id": "podcast-2026-11-21-video-podcast-italia-crescita-97",
-  "title": "Il video podcast in Italia raddoppia: +97% di ore viste su Spotify in un anno",
-  "source": "askanews, adnkronos (via ricerca web 2026-11-21)",
+  "id": "podcast-2026-11-22-audacity-4-0-2-bugfix",
+  "title": "Audacity 4.0.2 corregge crash e corruzioni di progetto dopo il grande redesign",
+  "source": "ubuntuhandbook.org, audacityteam.org (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
   "target": 7,
-  "date": "2026-10-20",
-  "brief": "Dati diffusi da Spotify a ottobre 2026 mostrano le ore di visione di video podcast in Italia in crescita del 97% nell'ultimo anno, con gli utenti mensili che scelgono il video in aumento di oltre il 40%; i podcast italiani che pubblicano anche in video sono cresciuti di oltre il 65%. Una fonte diversa (Adnkronos) riporta una percentuale di crescita delle ore ancora più alta (oltre il 175%), quindi il numero esatto resta da verificare sul comunicato originale.",
+  "date": "2026-11-02",
+  "brief": "Dopo il rifacimento radicale Audacity 4.0 di settembre (interfaccia Qt, nuovo formato progetto .aup4, Workspaces), la versione di manutenzione 4.0.2 uscita il 2 novembre corregge diversi bug che potevano danneggiare i progetti salvati e tre crash distinti. La pagina changelog ufficiale risultava però ancora fermata alla 4.0.1 al momento della ricerca, quindi conviene verificare la versione esatta direttamente nell'app prima di aggiornare un progetto in corso.",
   "angles": [
-   "Perché continuare a fare solo audio in Italia nel 2026 comincia a essere una scelta, non una scorciatoia",
-   "True crime, politica e intrattenimento dominano il video podcast italiano: cosa significa per chi sceglie un formato nuovo",
-   "Quanto costa davvero passare dall'audio al video e quando conviene farlo"
+   "Perché aggiornare Audacity ora conviene, ma non a metà di un episodio in lavorazione",
+   "Cosa cambia davvero nel passaggio dal formato .aup3 al nuovo .aup4",
+   "Il redesign Qt di Audacity 4 spiegato a chi è rimasto fermo alla versione 3"
   ],
   "hooks": [
-   "Stai ancora rimandando la versione video del tuo podcast? In Italia le ore di visione sono quasi raddoppiate in un anno.",
-   "Pensi che il video podcast sia solo una moda americana? I dati italiani di quest'autunno dicono il contrario, e di parecchio.",
-   "Hai scelto il true crime o la politica come genere? Sono proprio le categorie che stanno trainando il video podcast in Italia."
+   "Hai ancora Audacity 3 apertissimo mentre leggi questo? Sappi che la 4.0.2 ha appena tappato i buchi che facevano sparire i progetti.",
+   "Ti sei mai ritrovato un progetto corrotto proprio mentre stavi per esportare? Il bug che lo causava è stato sistemato pochi giorni fa, ma solo se aggiorni.",
+   "Pensi che un editor gratuito non possa reggere un episodio serio? Audacity si è appena rifatto da capo e ora sta anche sistemando i suoi stessi difetti."
   ]
  },
  {
-  "id": "podcast-2026-11-21-nielseniq-audible-185-milioni-ascoltatori",
-  "title": "NielsenIQ per Audible: 18,5 milioni di ascoltatori di podcast in Italia nel 2026",
-  "source": "Italia Oggi, Techprincess, Libreriamo (via ricerca web 2026-11-21)",
+  "id": "podcast-2026-11-22-descript-generative-layouts-media-search",
+  "title": "Descript aggiunge animazioni cinetiche del testo, Generative Layouts e ricerca media tra i progetti",
+  "source": "descript.com/blog (via ricerca web 2026-11-22)",
+  "affidabilita": "primaria",
+  "target": 7,
+  "date": "2026-11-03",
+  "brief": "Il changelog ufficiale di Descript datato 3 novembre introduce quattro novità: Animate Text per titoli con animazione cinetica tipografica, Generative Layouts per generare automaticamente layout video, una funzione di ricerca media estesa a tutti i progetti dell'account, e gli 'Underlord Skills' annunciati nello stesso aggiornamento.",
+  "angles": [
+   "Quanto tempo risparmi davvero se non devi più animare i titoli a mano",
+   "Generative Layouts: comodo per chi inizia, rischioso per chi vuole un'identità visiva riconoscibile",
+   "Perché la ricerca trasversale tra progetti conta più ora che hai decine di episodi archiviati"
+  ],
+  "hooks": [
+   "Passi ancora ore a sistemare a mano i titoli animati sui tuoi video? Descript te li genera da solo adesso, con un clic.",
+   "Hai paura che il tuo podcast sembri uguale a tutti gli altri se usi i layout automatici? Giusto, ma almeno ora puoi scegliere quando usarli e quando no.",
+   "Ti sei mai perso in mezzo a vent'episodi di progetti per ritrovare una clip? Ora la ricerca li attraversa tutti insieme."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-22-sky-voices-canale-video-podcast",
+  "title": "Sky lancia Sky Voices, primo canale interamente dedicato ai video podcast in Italia",
+  "source": "Sky TG24, Sorrisi.com (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
   "target": 6,
-  "date": null,
-  "brief": "Il monitoraggio 2026 realizzato da NielsenIQ per Audible stima in 18,5 milioni gli italiani che hanno ascoltato almeno un podcast nell'ultimo anno, +3% sul 2025 e +80% rispetto al 2018. Un'indagine diversa (Obe con Bva Doxa) dava per il 2025 una cifra più bassa, 15,5 milioni: le due ricerche usano metodologie diverse e non sono direttamente comparabili. Non è stato reperito un giorno esatto di pubblicazione del dato 2026.",
+  "date": "2026-11-02",
+  "brief": "Dal 2 novembre è attivo su Sky e NOW, canale 118, Sky Voices: palinsesto che unisce produzioni Sky Original e contenuti di partner come Corax, OnePodcast, Vois e BSMT, con nomi noti come Pablo Trincia e Mia Ceran. È il primo canale televisivo italiano pensato specificamente per il video podcast.",
   "angles": [
-   "Perché due ricerche serie sullo stesso mercato possono dare numeri diversi, e come leggerle senza farsi confondere",
-   "Cosa vuol dire per chi sta per lanciare un podcast italiano che il pubblico cresce ma a ritmo più lento del passato",
-   "Da dove viene davvero la crescita: nuovi ascoltatori o ascoltatori più fedeli"
+   "Cosa significa per un podcast indipendente italiano l'arrivo di un grande player TV nel video podcast",
+   "Che tipo di produzione serve per essere 'broadcast-ready' su un canale come questo",
+   "Perché i nomi già noti (Trincia, Ceran) aprono la porta, ma lo spazio resta aperto anche ad altri"
   ],
   "hooks": [
-   "Ti chiedi se in Italia ci sia ancora spazio per un nuovo podcast? Gli ascoltatori sono 18,5 milioni, e continuano a crescere.",
-   "Hai letto numeri diversi su quanti italiani ascoltano podcast e non sai a chi credere? Normale, due ricerche serie misurano cose diverse.",
-   "Pensi che il boom del podcast in Italia sia già finito? Rispetto al 2018 gli ascoltatori sono aumentati dell'80%, altro che bolla."
+   "Pensi che il video podcast in Italia sia roba solo da YouTuber? Sky ci ha appena aperto un canale tutto suo, il 118.",
+   "Hai paura che il tuo video podcast fatto in cameretta non regga il confronto con la tv? Nessuno ti chiede di diventare Sky, ma guarda cosa considerano 'pronto per il pubblico'.",
+   "Ti chiedi se in Italia c'è davvero fame di video podcast? Un canale satellitare dedicato apre proprio ora, e non è un test."
   ]
  },
  {
-  "id": "podcast-2026-11-21-magellan-ai-spesa-pubblicitaria-q3",
-  "title": "Magellan AI: la spesa pubblicitaria sui podcast sale ancora, +18% nel terzo trimestre 2026",
-  "source": "Barrett Media, Podnews, rainnews.com (via ricerca web 2026-11-21)",
+  "id": "podcast-2026-11-22-obe-pubblico-podcast-italia-dati",
+  "title": "L'osservatorio OBE al Festival del Podcasting: pubblico colto ma diffidente verso i branded podcast troppo commerciali",
+  "source": "Osservatorio Branded Entertainment (OBE), Milano Finanza (via ricerca web 2026-11-22)",
   "affidabilita": "secondaria",
-  "target": 5,
+  "target": 6,
   "date": "2026-10-01",
-  "brief": "Il report trimestrale di Magellan AI sul mercato USA segnala una spesa pubblicitaria sui podcast in crescita del 18% su base annua nel terzo trimestre 2026, con il carico pubblicitario medio salito all'8,86% (dall'8,75% del trimestre precedente). Il settore grocery cresce del 42%, e sono stati identificati 1.468 nuovi marchi che hanno investito per la prima volta in pubblicità podcast.",
+  "brief": "Secondo i dati presentati all'ultima edizione del Festival del Podcasting di Milano, il 46% degli ascoltatori di podcast in Italia è laureato, un pubblico mediamente colto e fedele. Lo stesso osservatorio segnala però che il 42% considera alcuni branded podcast troppo commerciali: un campanello d'allarme per chi lavora su contenuti sponsorizzati.",
   "angles": [
-   "Cosa significa per chi ospita sponsor nel proprio show vedere il carico pubblicitario medio salire ancora",
-   "Nuovi settori come il grocery che entrano in pubblicità podcast: un'opportunità anche per show più piccoli",
-   "Perché i dati USA contano anche se il tuo podcast è italiano e locale"
+   "Perché conoscere il profilo culturale di chi ascolta cambia il modo in cui scrivi un episodio sponsorizzato",
+   "Dove sta il confine tra branded podcast fatto bene e pubblicità travestita da episodio",
+   "Cosa imparare dal caso Lampi (Banca Investis) presentato allo stesso festival"
   ],
   "hooks": [
-   "Hai paura che la pubblicità nei podcast sia già saturata? Negli USA la spesa è ancora in crescita, +18% in un trimestre.",
-   "Pensi che inserire sponsor nel tuo episodio sia diventato troppo invasivo? Il carico medio pubblicitario sale, ma sale per tutti.",
-   "Ti scoraggi perché i grandi marchi sembrano sempre gli stessi? Nel terzo trimestre quasi 1.500 brand hanno investito per la prima volta in podcast."
+   "Pensi che chi ascolta podcast si accontenti di qualsiasi cosa? Quasi la metà ha una laurea, e se la sponsorizzazione puzza se ne accorge subito.",
+   "Hai appena accettato uno sponsor e temi di aver venduto l'anima del tuo show? Quasi 4 ascoltatori su 10 pensano lo stesso di contenuti fatti male, quindi la paura è giustificata ma evitabile.",
+   "Ti stai chiedendo se il tuo pubblico è 'abbastanza' per attirare sponsor seri? I dati dicono che è più colto e più critico di quanto immagini: trattalo di conseguenza."
   ]
  },
  {
-  "id": "podcast-2026-11-21-descript-ricerca-clip-studio",
-  "title": "Descript aggiorna Podcast Studio con una ricerca che trova clip e file in tutti i progetti",
-  "source": "feedback.descript.com, blog Descript (via ricerca web 2026-11-21)",
-  "affidabilita": "primaria",
-  "target": 7,
-  "date": "2026-10-01",
-  "brief": "Descript ha introdotto in ottobre 2026 una nuova funzione di ricerca che permette di trovare clip e file multimediali, e i momenti specifici al loro interno, in tutti i progetti dell'account, senza dover riaprire ogni singolo episodio per cercare un frammento. La stessa pagina di changelog annuncia inoltre che i modelli di prompt salvati diventeranno \"skills\", con lo switch dei vecchi template previsto per fine novembre.",
-  "angles": [
-   "Quanto tempo si risparmia davvero a non dover riaprire ogni episodio per trovare una singola clip",
-   "Perché organizzare bene i progetti in Descript conta più ora che la ricerca li attraversa tutti",
-   "Cosa cambia con il passaggio dai vecchi template ai nuovi 'skills' prima che i primi vengano disattivati"
-  ],
-  "hooks": [
-   "Passi ancora minuti a riaprire vecchi episodi per ritrovare quella frase che ti serviva? Descript ora cerca in tutti i tuoi progetti insieme.",
-   "Hai un archivio di puntate che sembra un cassetto disordinato? La nuova ricerca di Descript lo attraversa tutto in un colpo.",
-   "Usi ancora i vecchi template di Descript? Stanno per essere sostituiti dalle 'skills', meglio dargli un'occhiata prima che spariscano."
-  ]
- },
- {
-  "id": "podcast-2026-11-21-errori-principianti-microfono-posizionamento",
-  "title": "Posizionamento e trattamento acustico restano gli errori più comuni di chi inizia a registrare un podcast",
-  "source": "Rode (guida ufficiale), eMastered, Semrush (via ricerca web 2026-11-21)",
+  "id": "podcast-2026-11-22-spreaker-distribuzione-un-tocco-app",
+  "title": "Spreaker aggiunge la distribuzione con un tocco nella sua app mobile, ma la fonte resta da confermare",
+  "source": "yespress.io, blog ufficiale news.spreaker.com (via ricerca web 2026-11-22)",
   "affidabilita": "segnale debole",
-  "target": 8,
-  "date": null,
-  "brief": "Le guide più consultate per chi inizia a registrare audio in casa, tra cui quelle ufficiali di Rode ed eMastered, continuano a segnalare gli stessi due errori di base: posizionamento scorretto del microfono (che da solo peserebbe per circa l'80% della qualità finale secondo Rode) e assenza di un minimo trattamento acustico dell'ambiente. Semrush aggiunge un errore meno tecnico ma frequente: parlare a un pubblico diverso a ogni episodio invece di restare coerenti con chi si è scelto di servire.",
+  "target": 5,
+  "date": "2026-10-12",
+  "brief": "Secondo un profilo di terze parti, il 12 ottobre è stata aggiunta alla app mobile Spreaker Podcasts la distribuzione con un solo tocco verso le principali piattaforme di ascolto; la stessa fonte riporta anche il lancio della versione gratuita per browser di Spreaker Create risalente a giugno. Non è stato trovato un annuncio diretto sul blog ufficiale di Spreaker che confermi la data di ottobre, quindi il dato va trattato con cautela.",
   "angles": [
-   "Perché conviene sistemare la stanza prima di comprare il microfono più costoso",
-   "Il gain impostato male come causa nascosta di un audio che 'non si capisce perché suona male'",
-   "Coerenza del pubblico episodio per episodio: l'errore di contenuto che nessuno controlla mai in fase di montaggio"
+   "Quanto tempo si risparmia davvero a pubblicare da mobile con un tocco, se lo confermi",
+   "Perché conviene verificare sempre la fonte primaria prima di cambiare flusso di lavoro di pubblicazione",
+   "Spreaker Create per il web, gratuito: un'opzione in più per chi inizia senza budget"
   ],
   "hooks": [
-   "Hai appena comprato un microfono costoso e il tuo audio continua a fare schifo? Il colpevole è quasi sempre dove lo tieni, non quanto l'hai pagato.",
-   "Pensi che la stanza in cui registri non conti niente? Conta più del microfono stesso, e lo dicono gli stessi che il microfono te lo vendono.",
-   "Ti chiedi perché il tuo podcast non cresce anche se il suono è pulito? Forse parli a un pubblico diverso ogni episodio, e chi ascolta se ne accorge."
+   "Pubblichi ancora da computer perché da telefono ti sembra macchinoso? Spreaker promette la distribuzione con un tocco, ma verificala prima di fidarti al 100%.",
+   "Hai paura di dover comprare software costoso per registrare la prima puntata? Spreaker Create gratuito da browser esiste già, prova quello prima di spendere.",
+   "Ti sei mai fidato di una notizia letta su un sito di aggregazione senza controllare la fonte? Fallo sempre, specialmente quando cambi il tuo flusso di pubblicazione."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-22-youtube-clip-editor-podcast-shorts",
+  "title": "YouTube Studio rende più facile ritagliare un podcast orizzontale in Short verticali senza penalizzazioni",
+  "source": "PPC Land, eMarketer (via ricerca web 2026-11-22)",
+  "affidabilita": "segnale debole",
+  "target": 7,
+  "date": null,
+  "brief": "Secondo PPC Land, il clip editor di YouTube Studio permette ora di scegliere un momento di un episodio in formato orizzontale e riquadrarlo automaticamente in uno Short con sottotitoli generati, un'operazione finora più macchinosa. eMarketer segnala inoltre che YouTube ha reso la pratica di ritagliare podcast in clip 'penalty-free', cioè senza le penalizzazioni che in passato colpivano i contenuti derivati. Nessuna delle due fonti consultate indica una data precisa di rilascio.",
+  "angles": [
+   "Perché fino a ieri ritagliare il proprio podcast in clip verticali ti faceva rischiare penalizzazioni, e ora no",
+   "Cosa cambia in pratica nel flusso di montaggio se lo short si genera quasi da solo",
+   "Verticale o orizzontale: la domanda sta diventando meno urgente se un tool fa la conversione per te"
+  ],
+  "hooks": [
+   "Ti sei mai bloccato prima di tagliare una clip dal tuo episodio per paura che YouTube ti penalizzasse? Pare che quella paura non serva più.",
+   "Passi la domenica a ritagliare a mano i momenti migliori del tuo podcast per i Reels? YouTube Studio ora prova a farlo lui, direttamente dall'orizzontale.",
+   "Hai scelto di girare solo in verticale per paura di complicarti la vita dopo? Forse puoi tornare all'orizzontale e lasciare che il riquadro lo faccia il software."
+  ]
+ },
+ {
+  "id": "podcast-2026-11-22-video-scopre-audio-fidelizza",
+  "title": "Edison Research: il video porta nuovi ascoltatori ma è l'audio a fidelizzarli, mentre Reddit testa podcast letti dall'IA",
+  "source": "Edison Research (report gennaio 2026), B&T, absolutegeeks.com (via ricerca web 2026-11-22)",
+  "affidabilita": "secondaria",
+  "target": 7,
+  "date": "2026-01-01",
+  "brief": "Un report di Edison Research mostra che il 77% di chi ascolta un podcast per la prima volta lo fa in video, ma la maggioranza passa poi alla versione solo audio per seguire gli episodi successivi (72% dei nuovi ascoltatori e 68% di quelli di lunga data). In parallelo Reddit sta testando conversioni audio e video generate dall'IA di alcuni thread popolari, segno che il confine tra testo, audio e video nei contenuti continua a muoversi. La data del report è di inizio 2026, non recentissima, ma resta il riferimento più solido trovato sul tema formati.",
+  "angles": [
+   "Perché il video serve a farti scoprire e l'audio a farti restare, non il contrario",
+   "Cosa significa per chi deve decidere se investire prima in video o in audio di qualità",
+   "Il test di Reddit con thread trasformati in podcast dall'IA: curiosità o futuro flusso di contenuti"
+  ],
+  "hooks": [
+   "Hai paura che se non fai video nessuno scoprirà mai il tuo podcast? Hai ragione sulla scoperta, ma sbagli su cosa li fa restare: quello lo fa l'audio.",
+   "Pensi che l'audio puro sia superato dal video? La maggior parte di chi ti scopre in video poi passa ad ascoltarti, non a guardarti.",
+   "Ti chiedi se un giorno un'IA leggerà i thread di Reddit al posto tuo? Sta già succedendo, in test, e vale la pena capire cosa significa prima che diventi normale."
   ]
  }
 ]

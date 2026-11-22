@@ -1,38 +1,38 @@
 {
- "aggiornato": "2026-11-21",
+ "aggiornato": "2026-11-22",
  "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.meteoplanet.it/meteo/pesaro", "https://www.3bmeteo.com/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro", "https://meteo.regione.marche.it", "https://allertameteo.regione.marche.it", "https://www.ilrestodelcarlino.it/pesaro/vento-marche-allerta-arancione-mh5pc5k3"],
+ "fonti": ["https://www.meteoplanet.it/meteo/pesaro", "https://www.3bmeteo.com/meteo/pesaro", "https://www.meteohorizon.com/europe/italy/the-marches/provincia-di-pesaro-e-urbino/november", "https://www.ilrestodelcarlino.it/meteo/piogge-nuova-allerta-marche-zone-maltempo-qhz0w6fl", "https://www.ilrestodelcarlino.it/pesaro/vento-marche-allerta-arancione-mh5pc5k3", "https://allertameteo.regione.marche.it", "https://www.meteoblue.com/en/weather/week/pesaro_italy_3171173"],
  "previsioni": [
-  {
-   "data": "2026-11-21",
-   "giorno": "sabato",
-   "temp_min_c": 13,
-   "temp_max_c": 17,
-   "condizioni": "Tempo asciutto, cielo da poco nuvoloso a nuvoloso. Dato principale da Meteoplanet (previsione a 7 giorni aggiornata il 14 novembre): min 13,3°C, max 17,1°C. Nessuna fonte indica precipitazioni per oggi.",
-   "vento": "Moderato/tendente a rinforzare da sud-ovest, più sostenuto lungo la costa",
-   "mare": "dato non reperito",
-   "allerta": "Nessuna allerta attiva reperita per il 21 novembre 2026: l'ultima allerta vento (arancione) della Protezione Civile Marche risultava valida dalla mezzanotte del 17 novembre e non più in vigore oggi"
-  },
   {
    "data": "2026-11-22",
    "giorno": "domenica",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "Miglioramento generale atteso nel weekend secondo un articolo del 14 novembre sull'ondata di maltempo marchigiana, ma senza valori numerici specifici per Pesaro; nessun dato di temperatura trovato con sufficiente affidabilità per questa data",
-   "vento": "Possibile prosecuzione di venti da sud-ovest, moderati",
+   "temp_min_c": 4,
+   "temp_max_c": 10,
+   "condizioni": "Dato non confermato con certezza: una sola fonte (Meteohorizon, pagina senza data di aggiornamento chiara) indica piogge leggere per oggi, min 4°C / max 10°C. Un articolo del 14 novembre (Il Resto del Carlino) indicava invece un miglioramento generale atteso nel weekend, senza valori numerici. Da trattare come segnale debole in attesa di conferma su 3bmeteo.it o meteoplanet.it, non raggiungibili da questa sessione.",
+   "vento": "Possibile prosecuzione di venti moderati/forti da sud-ovest secondo gli ultimi bollettini disponibili (metà novembre); nessun dato odierno confermato",
    "mare": "dato non reperito",
-   "allerta": "Nessuna allerta reperita per questa data"
+   "allerta": "Nessuna allerta attiva confermata per il 22 novembre 2026: l'ultima allerta nota (rischio vento, idrogeologico e temporali) risultava valida dalla mezzanotte del 19 novembre a quella del 20 novembre. Verificare su allertameteo.regione.marche.it, non raggiungibile da questa sessione per conferma diretta."
   },
   {
    "data": "2026-11-23",
    "giorno": "lunedì",
+   "temp_min_c": 2,
+   "temp_max_c": 8,
+   "condizioni": "Dato non confermato: stessa unica fonte (Meteohorizon, senza data di aggiornamento verificabile) indica cielo coperto, min 2°C / max 8°C. Nessuna seconda fonte indipendente trovata per questa data specifica.",
+   "vento": "dato non reperito",
+   "mare": "dato non reperito",
+   "allerta": "Nessuna allerta reperita per questa data"
+  },
+  {
+   "data": "2026-11-24",
+   "giorno": "martedì",
    "temp_min_c": null,
    "temp_max_c": null,
-   "condizioni": "Dato non reperito: nessuna fonte consultata forniva una previsione datata con certezza al 23 novembre 2026",
+   "condizioni": "Dato non reperito: nessuna fonte consultata forniva una previsione datata con certezza al 24 novembre 2026",
    "vento": "dato non reperito",
    "mare": "dato non reperito",
    "allerta": "dato non reperito per questa data specifica"
   }
  ],
- "note": "WebFetch non disponibile in questa sessione cloud per 3bmeteo.com e ilmeteo.it (host non risolvibili per policy di rete), quindi i dati provengono solo da snippet di ricerca web. Per oggi (21 novembre) l'unico dato numerico reperito è una previsione Meteoplanet vecchia di una settimana (aggiornata il 14/11), da considerare indicativa. Per il 22 e 23 novembre non è stato possibile reperire valori numerici affidabili e datati con certezza: molte fonti trovate erano bollettini di anni precedenti (2023, 2025) o pagine senza data chiara. Si raccomanda di consultare direttamente 3bmeteo.com, ilmeteo.it o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per questi due giorni."
+ "note": "WebFetch non disponibile in questa sessione cloud per meteoplanet.it, 3bmeteo.com, meteoblue.com e meteohorizon.com (host non risolvibili per policy di rete), quindi tutti i dati provengono solo da snippet di ricerca web. I valori per il 22 e 23 novembre vengono da un'unica fonte (Meteohorizon) la cui pagina sembra un outlook generico più che una previsione datata con certezza al giorno: vanno quindi considerati indicativi/segnale debole, non un dato verificato da due fonti indipendenti. Per il 24 novembre non è stato possibile reperire alcun valore numerico. Si raccomanda di consultare direttamente 3bmeteo.com, meteoplanet.it o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per dati affidabili su questi tre giorni."
 }
