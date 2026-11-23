@@ -1,38 +1,53 @@
-[
- {
-  "id": "creator-2026-11-21-gta6-recensione-italiana-record",
-  "title": "GTA 6 esce il 19 novembre: la recensione italiana di Multiplayer.it e le prime recensioni internazionali da record (99/100 su Metacritic)",
-  "source": "Multiplayer.it (recensione di Pierpaolo Greco, 18/11/2026), Punto Informatico (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-18",
-  "brief": "Multiplayer.it ha pubblicato il 18 novembre la sua recensione italiana di GTA 6, alla vigilia del lancio ufficiale del 19 novembre su PS5 e Xbox Series X|S; in parallelo Punto Informatico riporta le prime recensioni internazionali, con punteggi da record fino a 99/100 su Metacritic. È il contenuto gaming più grande della settimana ed è prevedibile che la stragrande maggioranza dei creator italiani di settore stia producendo reaction, let's play e approfondimenti sul gioco in questi giorni.",
-  "rilevanza": "Il lancio di GTA 6 è l'evento che sta polarizzando il calendario editoriale di tutti i creator gaming italiani in questo momento: utile per capire cosa il pubblico nerd italiano si aspetta di vedere sui canali che segue questa settimana."
- },
- {
-  "id": "creator-2026-11-21-milan-games-week-cartoomics-nuovi-ospiti",
-  "title": "Milan Games Week & Cartoomics 2026 (27-29 novembre): annunciati come ospiti le illustratrici Posuka Demizu e Jun Mayuzuki",
-  "source": "AnimeClick.it (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "In vista della fiera milanese del 27-29 novembre, AnimeClick riporta due annunci ospiti: Posuka Demizu (illustratrice di The Promised Neverland, autrice del poster ufficiale dell'edizione 2026) ed edizioni BD-J-POP Manga che porta Jun Mayuzuki. Non è stato possibile reperire la data esatta di pubblicazione dei due annunci, quindi va considerato un segnale recente ma non databile con certezza al giorno.",
-  "rilevanza": "Molti content creator nerd italiani coprono abitualmente Milan Games Week & Cartoomics con vlog, interviste agli ospiti e contenuti dal pavimento fiera: utile anticipare chi sarà presente per chi pianifica contenuti sull'evento."
- },
- {
-  "id": "creator-2026-11-21-indipendenza-creator-sponsor-tema-ricorrente",
-  "title": "Resta aperto il dibattito tra i creator videoludici italiani sulla rinuncia a sponsorizzazioni e codici review dei publisher",
-  "source": "AnimeClick.it (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Il tema, già segnalato in ricerche precedenti, torna a circolare senza una data di pubblicazione certa riconducibile alle ultime 48 ore: alcuni creator italiani di videogiochi scelgono di rinunciare a sponsor e codici review dei publisher per tutelare credibilità e autonomia critica agli occhi del pubblico, puntando su pubblicità generica, Patreon o donazioni.",
-  "rilevanza": "Tema di fondo utile per chi analizza il rapporto tra creator nerd italiani e publisher, ma da trattare come tendenza di sfondo e non come notizia fresca del giorno, in assenza di una data verificata."
- },
- {
-  "id": "creator-2026-11-21-nota-nessuna-polemica-verificata-48h",
-  "title": "Nessuna polemica o dichiarazione di singoli creator nerd italiani verificabile e datata con certezza alle ultime 48 ore",
-  "source": "Ricerca web 2026-11-21 (nessuna fonte editoriale recente trovata)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Nota di trasparenza: la ricerca mirata su eventuali nuove polemiche, dichiarazioni o episodi di crescita/canale riguardanti streamer e YouTuber italiani del mondo nerd (gaming, giochi da tavolo, fumetti/manga) non ha restituito fatti datati con certezza al 19-21 novembre 2026. I casi noti di cronaca (es. CiccioGamer89, Once Were Nerd) risultano tutti precedenti a questa finestra temporale.",
-  "rilevanza": "Meglio segnalare l'assenza di notizie fresche verificate che inventare un episodio: per contenuti legati a polemiche specifiche conviene controllare direttamente i profili social dei creator nelle prossime ore."
- }
-]
+{
+  "generato_il": "2026-11-23",
+  "notizie": [
+    {
+      "titolo": "Milan Games Week & Cartoomics 2026 apre tra pochi giorni a Fiera Milano: programma e ospiti confermati",
+      "fonte": "Multiplayer.it, AnimeClick.it, Il Sole 24 Ore",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-27",
+      "brief": "La fiera italiana di videogiochi, fumetti e cultura pop si tiene dal 27 al 29 novembre 2026 a Fiera Milano Rho. Tra gli ospiti annunciati nelle settimane precedenti ci sono la disegnatrice Posuka Demizu (autrice del poster ufficiale), la mangaka Jun Mayuzuki per J-POP Manga, il cast della serie live-action Netflix di One Piece e autori comics internazionali come Mark Waid e John Romita Jr. Nell'edizione 2025 l'evento aveva già ospitato talk e contenuti con creator e streamer italiani sul canale MGW-X Games.",
+      "rilevanza": "E' il più grande evento italiano dedicato contemporaneamente a videogiochi e fumetti/manga, punto di riferimento annuale per la community nerd italiana e per i content creator che lo seguono o vi partecipano; è imminente rispetto alla data odierna (23 novembre 2026)."
+    },
+    {
+      "titolo": "AnimeClick Awards 2026: premiati a Lucca Comics & Games i titoli e gli editori scelti dalla community",
+      "fonte": "AnimeClick.it",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-29",
+      "brief": "La cerimonia della nuova edizione degli AnimeClick Awards si è svolta il 29 ottobre 2026 a Palazzo Guinigi durante Lucca Comics & Games. J-POP Manga ha vinto ancora come miglior editore manga secondo il voto degli utenti, 'Chainsaw Man - Il film: La storia di Reze' è stato votato miglior film arrivato in Italia, e il Premio Speciale AnimeClick è andato a Keiko Ichiguchi.",
+      "rilevanza": "Mostra come una community/piattaforma italiana di settore (AnimeClick) organizzi premi votati direttamente dai fan, un indicatore diretto dei gusti e delle dinamiche della fanbase nerd/manga italiana; non è notizia delle ultime 48 ore ma resta l'esito più recente e verificabile di questo tipo nel panorama italiano."
+    },
+    {
+      "titolo": "Tomodachi Press: la casa editrice fondata da content creator italiani continua la sua attività tra carte, fumetti e giochi da tavolo",
+      "fonte": "Artribune, La Nazione",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2025-11-01",
+      "brief": "Dario Moccia, Davide Masella e Luca Molinaro - content creator italiani attivi tra streaming, fumetto e doppiaggio - hanno fondato Tomodachi Press, debuttata a Lucca Comics & Games a inizio novembre 2025 con il primo progetto, il gioco di carte collezionabili 'Cuphead - Out of the Cards'. Il progetto ha avuto seguiti pubblici anche nel corso del 2026.",
+      "rilevanza": "E' un esempio concreto di content creator italiani che si trasformano in editori/produttori, un trend rilevante per la cultura nerd italiana anche se il fatto fondante non risale alle ultime 48 ore; lo segnaliamo come contesto ancora attivo."
+    },
+    {
+      "titolo": "Comicon Napoli 2026 chiude con numeri da record, crescita dell'area dedicata ai creator digitali",
+      "fonte": "Multiplayer.it, Napolike.it",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-05-03",
+      "brief": "L'edizione 2026 di Comicon Napoli (30 aprile - 3 maggio 2026) si è chiusa con oltre 183.000 visitatori e più di 480 ospiti internazionali. Diverse testate hanno sottolineato come l'area dedicata ai creator digitali sia tra quelle con maggiore affluenza del festival.",
+      "rilevanza": "Conferma quanto il pubblico nerd italiano segua in presenza i content creator durante le grandi fiere di settore, anche se il fatto risale a maggio 2026 e non alle ultime 48 ore."
+    },
+    {
+      "titolo": "Zerocalcare torna su Netflix con 'Due Spicci', la sua terza serie animata",
+      "fonte": "Netflix, Rolling Stone Italia, AGI",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-05-27",
+      "brief": "'Due Spicci', la nuova serie animata scritta e diretta da Zerocalcare (fumettista e content creator romano), è uscita su Netflix il 27 maggio 2026 con 8 episodi; Valerio Mastandrea torna a doppiare l'Armadillo. Il titolo era stato svelato a Lucca Comics & Games 2025.",
+      "rilevanza": "Zerocalcare è uno dei content creator/fumettisti italiani più seguiti e la sua produzione Netflix resta un riferimento continuo nelle conversazioni della community nerd italiana, pur non essendo un fatto delle ultime 48 ore."
+    },
+    {
+      "titolo": "Twitch Italia: la classifica dei creator con la maggiore crescita di follower nell'ultimo mese rilevato",
+      "fonte": "Kolsquare",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-04-09",
+      "brief": "Secondo un report di Kolsquare, lollolacustre ha guidato la classifica degli streamer italiani per crescita di follower su Twitch nei 30 giorni precedenti, con circa 27.700 nuovi follower. Il mercato italiano di Twitch viene stimato da Kolsquare in circa 8,3 milioni di utenti mensili.",
+      "rilevanza": "Dà un'indicazione concreta (anche se non aggiornata alle ultime 48 ore) delle dinamiche di crescita tra gli streamer italiani, utile per capire chi sta guadagnando terreno nella community gaming/nerd italiana."
+    }
+  ]
+}

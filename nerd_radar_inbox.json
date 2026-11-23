@@ -1,65 +1,61 @@
-[
- {
-  "id": "nerd-2026-11-21-gta6-lancio",
-  "title": "GTA 6 è uscito il 19 novembre su PS5 e Xbox Series X|S con recensioni da record (99/100)",
-  "source": "Metacritic, Punto Informatico, Enter.co, games.gg (via ricerca web 2026-11-21)",
-  "affidabilita": "primaria",
-  "date": "2026-11-19",
-  "tipo": "videogioco",
-  "brief": "Dopo i rinvii degli ultimi anni, Grand Theft Auto 6 è arrivato il 19 novembre 2026 su PlayStation 5 e Xbox Series X|S (nessuna data PC ufficiale), con menu e sottotitoli in italiano al lancio. Le prime recensioni della stampa internazionale convergono su un punteggio Metacritic vicino a 99/100, tra i più alti mai registrati per un titolo Rockstar."
- },
- {
-  "id": "nerd-2026-11-21-binding-of-isaac-repentance-plus",
-  "title": "The Binding of Isaac: Repentance+ Online arriva il 19 novembre su PS5, Xbox Series X|S e Switch 2",
-  "source": "Instant Gaming (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-19",
-  "tipo": "videogioco",
-  "brief": "Nella rassegna settimanale delle uscite (16-22 novembre) viene segnalato l'arrivo, il 19 novembre, della versione online di Repentance+ di The Binding of Isaac su PS5, Xbox Series X|S e Nintendo Switch 2: aggiunge il multiplayer online a uno dei roguelike più longevi del mercato indie."
- },
- {
-  "id": "nerd-2026-11-21-milan-games-week-cartoomics-programma",
-  "title": "Milan Games Week & Cartoomics 2026: a Fiera Milano Rho dal 27 al 29 novembre, cast di One Piece live-action tra gli ospiti",
-  "source": "Multiplayer.it, AnimeClick, Techprincess (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-27",
-  "tipo": "fiera",
-  "brief": "La sesta edizione combinata dell'evento si allarga a quattro padiglioni di Fiera Milano Rho con il tema dell'acqua: tra gli ospiti annunciati il cast della serie live-action di One Piece, l'artista Posuka Demizu (autrice del poster ufficiale) e una mostra di Sergio Bonelli Editore per i 40 anni di Dylan Dog. L'edizione 2025 aveva superato i 130mila visitatori."
- },
- {
-  "id": "nerd-2026-11-21-bggcon-dallas-in-corso",
-  "title": "BGG.Con 2026 è in corso a Dallas (18-22 novembre), punto di incontro per autori ed editori",
-  "source": "BoardGameGeek, Boardgamewire (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-18",
-  "tipo": "fiera",
-  "brief": "La convention annuale della community BoardGameGeek si tiene in questi giorni a Dallas: resta uno degli appuntamenti più seguiti a livello internazionale per playtest di prototipi, incontri tra autori ed editori e tornei, proprio nella settimana che precede la corsa alle uscite natalizie."
- },
- {
-  "id": "nerd-2026-11-21-blancat-korea-board-games",
-  "title": "Korea Board Games porta in retail \"Blancat\", nuovo gioco di velocità/abbinamento per 2-4 giocatori",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-20",
-  "tipo": "gioco da tavolo",
-  "brief": "Dal 20 novembre è disponibile Blancat, un gioco di velocità e abbinamento per 2-4 giocatori dagli 8 anni in su, con partite da circa 20 minuti e prezzo consigliato di 16,99 dollari: dato riportato da una sola fonte di settore, da trattare come segnale debole in attesa di conferme ulteriori."
- },
- {
-  "id": "nerd-2026-11-21-class-of-89-paverson",
-  "title": "Paverson Games distribuisce \"Class of '89\", nuovo gioco di piazzamento tessere",
-  "source": "ICv2 (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "date": "2026-11-20",
-  "tipo": "gioco da tavolo",
-  "brief": "Anche \"Class of '89\", gioco di piazzamento tessere di Paverson Games, arriva in retail il 20 novembre 2026: come per Blancat, l'informazione proviene da una sola fonte specializzata e va considerata un segnale ancora da confermare con l'editore."
- },
- {
-  "id": "nerd-2026-11-21-pokemon-team-rocket-teaser",
-  "title": "Pokémon: resta solo un teaser il gioco da tavolo dedicato al Team Rocket per il mercato giapponese",
-  "source": "OpenCritic, Outlook India (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "tipo": "gioco da tavolo",
-  "brief": "Il gioco da tavolo giapponese sul Team Rocket (titolo riconducibile a \"Are You, Perhaps, a Rocket Grunt?\"), già segnalato nei giorni scorsi, resta annunciato per novembre 2026 senza una data precisa né conferma su un'eventuale distribuzione fuori dal Giappone: le fonti restano le stesse della settimana precedente, nessun nuovo dettaglio ufficiale trovato in questa ricerca."
- }
-]
+{
+  "generato_il": "2026-11-23",
+  "notizie": [
+    {
+      "titolo": "GTA 6 è uscito il 19 novembre 2026 su PS5 e Xbox Series X|S",
+      "fonte": "ESPN, Tom's Guide, TechRadar, Sortiraparis",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-19",
+      "brief": "Dopo vari rinvii, Rockstar Games ha pubblicato Grand Theft Auto VI il 19 novembre 2026 su PlayStation 5 e Xbox Series X|S, con i preload partiti dal 10 novembre. La versione PC non ha ancora una data ufficiale: si parla del primo trimestre 2027.",
+      "tipo": "annuncio videogioco"
+    },
+    {
+      "titolo": "The Game Awards 2026: GTA VI guida le nomination, cerimonia il 10 dicembre",
+      "fonte": "Gematsu, GamesBeat, Dexerto",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-17",
+      "brief": "Il 17 novembre 2026 sono state annunciate le nomination di The Game Awards 2026: Grand Theft Auto VI guida con otto candidature. Tra i papabili Gioco dell'Anno figurano anche Resident Evil Requiem e un nuovo Zelda. La cerimonia si terrà il 10 dicembre al Peacock Theater di Los Angeles, in streaming gratuito su oltre 40 piattaforme.",
+      "tipo": "fiera"
+    },
+    {
+      "titolo": "Square Enix annuncia Chocobo's Scout Frenzy, nuovo gioco da tavolo di Final Fantasy",
+      "fonte": "ICv2",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-19",
+      "brief": "Square Enix ha presentato Chocobo's Scout Frenzy, un nuovo gioco da tavolo ambientato nell'universo di Final Fantasy, con uscita nei negozi prevista per il terzo trimestre del 2027. L'annuncio arriva pochi giorni fa tramite comunicato ufficiale ripreso dalla stampa di settore.",
+      "tipo": "annuncio gioco da tavolo"
+    },
+    {
+      "titolo": "Pokémon annuncia un gioco da tavolo di deduzione sociale sul Team Rocket",
+      "fonte": "Account ufficiale Pokémon Japan (X), ripreso da Outlook India",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-11-20",
+      "brief": "L'account giapponese ufficiale di Pokémon ha svelato un nuovo gioco da tavolo di deduzione sociale a tema Team Rocket, con lancio in Giappone previsto a novembre 2026. La notizia arriva solo da un post social ripreso da pochi siti, quindi mancano ancora dettagli ufficiali su regole e distribuzione internazionale.",
+      "tipo": "annuncio gioco da tavolo"
+    },
+    {
+      "titolo": "Confermate le date di gamescom 2027: 23-29 agosto a Colonia",
+      "fonte": "Insider Gaming, Gameswelt, trade.gov",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-18",
+      "brief": "Le date della prossima edizione di gamescom sono state confermate per il periodo dal 23 al 29 agosto 2027 a Colonia, con i giorni apertura al pubblico dal 26 al 29 agosto. L'informazione è emersa da materiale promozionale esposto durante l'edizione 2026 e ripresa da più testate di settore nei giorni scorsi.",
+      "tipo": "fiera"
+    },
+    {
+      "titolo": "Lucca Comics & Games chiude l'edizione dei 60 anni con 800.000 visitatori e annuncia le date 2027",
+      "fonte": "SenalNews",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-02",
+      "brief": "La 'Diamond Edition' di Lucca Comics & Games (28 ottobre - 1 novembre 2026) si è chiusa con circa 800.000 visitatori. Gli organizzatori hanno già fissato le date della prossima edizione, dal 28 ottobre all'1 novembre 2027.",
+      "tipo": "fiera"
+    },
+    {
+      "titolo": "SPIEL Essen 2026 stabilisce il record di visitatori e usa per la prima volta tutti i padiglioni",
+      "fonte": "ICv2, godisageek",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-25",
+      "brief": "La fiera tedesca SPIEL Essen, la più grande al mondo dedicata ai giochi da tavolo, ha chiuso l'edizione 2026 (22-25 ottobre) con circa 230.000 visitatori, il dato più alto nella storia della manifestazione, occupando per la prima volta anche il nuovo padiglione 8 di Messe Essen.",
+      "tipo": "fiera"
+    }
+  ]
+}

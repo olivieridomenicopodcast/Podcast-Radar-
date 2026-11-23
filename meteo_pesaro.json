@@ -1,38 +1,31 @@
 {
- "aggiornato": "2026-11-21",
- "citta": "Pesaro (PU), Marche, Italia",
- "fonti": ["https://www.meteoplanet.it/meteo/pesaro", "https://www.3bmeteo.com/meteo/pesaro", "https://www.ilmeteo.it/meteo/pesaro", "https://meteo.regione.marche.it", "https://allertameteo.regione.marche.it", "https://www.ilrestodelcarlino.it/pesaro/vento-marche-allerta-arancione-mh5pc5k3"],
- "previsioni": [
-  {
-   "data": "2026-11-21",
-   "giorno": "sabato",
-   "temp_min_c": 13,
-   "temp_max_c": 17,
-   "condizioni": "Tempo asciutto, cielo da poco nuvoloso a nuvoloso. Dato principale da Meteoplanet (previsione a 7 giorni aggiornata il 14 novembre): min 13,3°C, max 17,1°C. Nessuna fonte indica precipitazioni per oggi.",
-   "vento": "Moderato/tendente a rinforzare da sud-ovest, più sostenuto lungo la costa",
-   "mare": "dato non reperito",
-   "allerta": "Nessuna allerta attiva reperita per il 21 novembre 2026: l'ultima allerta vento (arancione) della Protezione Civile Marche risultava valida dalla mezzanotte del 17 novembre e non più in vigore oggi"
-  },
-  {
-   "data": "2026-11-22",
-   "giorno": "domenica",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "Miglioramento generale atteso nel weekend secondo un articolo del 14 novembre sull'ondata di maltempo marchigiana, ma senza valori numerici specifici per Pesaro; nessun dato di temperatura trovato con sufficiente affidabilità per questa data",
-   "vento": "Possibile prosecuzione di venti da sud-ovest, moderati",
-   "mare": "dato non reperito",
-   "allerta": "Nessuna allerta reperita per questa data"
-  },
-  {
-   "data": "2026-11-23",
-   "giorno": "lunedì",
-   "temp_min_c": null,
-   "temp_max_c": null,
-   "condizioni": "Dato non reperito: nessuna fonte consultata forniva una previsione datata con certezza al 23 novembre 2026",
-   "vento": "dato non reperito",
-   "mare": "dato non reperito",
-   "allerta": "dato non reperito per questa data specifica"
-  }
- ],
- "note": "WebFetch non disponibile in questa sessione cloud per 3bmeteo.com e ilmeteo.it (host non risolvibili per policy di rete), quindi i dati provengono solo da snippet di ricerca web. Per oggi (21 novembre) l'unico dato numerico reperito è una previsione Meteoplanet vecchia di una settimana (aggiornata il 14/11), da considerare indicativa. Per il 22 e 23 novembre non è stato possibile reperire valori numerici affidabili e datati con certezza: molte fonti trovate erano bollettini di anni precedenti (2023, 2025) o pagine senza data chiara. Si raccomanda di consultare direttamente 3bmeteo.com, ilmeteo.it o il bollettino della Protezione Civile Marche (allertameteo.regione.marche.it) per questi due giorni."
+  "generato_il": "2026-11-23",
+  "citta": "Pesaro",
+  "fonte": "iLMeteo.it e 3BMeteo.com (ricerca web); verifica allerte su Il Resto del Carlino e portale Regione Marche (allertameteo.regione.marche.it)",
+  "previsioni": [
+    {
+      "data": "2026-11-23",
+      "temp_min_c": 10,
+      "temp_max_c": 14,
+      "condizioni": "Nuvoloso, con possibili precipitazioni (temperatura intorno a 13°C a metà giornata)",
+      "vento": "Moderato, variabile/da NE, circa 15-20 km/h",
+      "allerta": "Nessuna allerta attiva risultante dalle fonti consultate per questa data (ultime allerte meteo Marche note risalgono alla settimana precedente, 16-18 novembre, per vento e rischio idrogeologico, non più in vigore)"
+    },
+    {
+      "data": "2026-11-24",
+      "temp_min_c": 9,
+      "temp_max_c": 13,
+      "condizioni": "Nuvoloso o poco nuvoloso",
+      "vento": "Da NE/NW, stimato 15-40 km/h (dati discordanti tra fonti consultate, da verificare in giornata)",
+      "allerta": "nessuna"
+    },
+    {
+      "data": "2026-11-25",
+      "temp_min_c": 10,
+      "temp_max_c": 12,
+      "condizioni": "Nuvoloso con possibili rovesci/piogge leggere",
+      "vento": "Moderato",
+      "allerta": "nessuna"
+    }
+  ]
 }

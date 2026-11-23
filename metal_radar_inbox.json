@@ -1,50 +1,54 @@
-[
- {
-  "id": "metal-2026-11-21-killer-be-killed-reluctant-hero",
-  "title": "Killer Be Killed pubblicano \"Reluctant Hero\", primo album in sei anni",
-  "source": "Metal Injection (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-20",
-  "brief": "Il supergruppo formato da membri di Mastodon, Soulfly, Dillinger Escape Plan e Konkhra ha pubblicato il 20 novembre \"Reluctant Hero\", primo disco nuovo dal 2020, anticipato dai singoli \"Deconstructing Self Destruction\" e \"Inner Calm From Outer Storms\"."
- },
- {
-  "id": "metal-2026-11-21-down-volume-v",
-  "title": "Down pubblicano \"Down IV - Part V\" (Volume V) via Nuclear Blast",
-  "source": "Premier Guitar (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-20",
-  "brief": "La band sludge/southern metal formata da Phil Anselmo (Pantera) e Pepper Keenan (Corrosion of Conformity) ha pubblicato il 20 novembre il nuovo capitolo della serie \"Down IV\", atteso da tempo dai fan del genere."
- },
- {
-  "id": "metal-2026-11-21-underoath-europe-tour-2027",
-  "title": "Underoath annunciano il tour europeo primavera 2027 con Saosin e I Promised The World",
-  "source": "Blabbermouth (via ricerca web 2026-11-21)",
-  "affidabilita": "primaria",
-  "date": "2026-11-16",
-  "brief": "Underoath hanno annunciato il 16 novembre un tour europeo per la primavera 2027 con Saosin e I Promised The World come supporto; la prevendita artista è partita il 17 novembre e la vendita generale biglietti il 20 novembre."
- },
- {
-  "id": "metal-2026-11-21-carpenter-brut-health-milano",
-  "title": "Carpenter Brut e Health in concerto all'Alcatraz di Milano nel tour \"Conflict: Europe 2026\"",
-  "source": "Rockol, Stereoboard, Eventworld (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-20",
-  "brief": "La doppia data co-headliner di Carpenter Brut (synth/dark electro con forte seguito nel pubblico metal) e Health si è tenuta il 20 novembre all'Alcatraz di Milano, con Vowws come supporto, nell'ambito del tour europeo \"Conflict: Europe 2026\"."
- },
- {
-  "id": "metal-2026-11-21-messa-trezzo-adda-chiusura-tour",
-  "title": "Messa chiudono oggi a Trezzo sull'Adda il loro primo tour headline EU/UK",
-  "source": "Mentelocale, TicketOne (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-21",
-  "brief": "La band doom italiana Messa conclude oggi, 21 novembre, al Live Club di Trezzo sull'Adda (MI) il suo primo tour da headliner in Europa e UK, partito a fine ottobre da Marsiglia dopo l'album \"The Spin\": unica tappa italiana del tour."
- },
- {
-  "id": "metal-2026-11-21-korn-unipol-forum-assago",
-  "title": "Korn suonano oggi all'Unipol Forum di Assago (Milano) nell'Euro Tour 2026",
-  "source": "Il Sole 24 Ore, aggregatori biglietteria (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-21",
-  "brief": "I Korn fanno tappa oggi, 21 novembre, all'Unipol Forum di Assago (Milano) nell'ambito dell'Euro Tour 2026: una delle date nu metal più attese del mese per il pubblico italiano."
- }
-]
+{
+  "generato_il": "2026-11-23",
+  "notizie": [
+    {
+      "titolo": "Trivium pubblicano il nuovo album \"Crown in the Grave\"",
+      "fonte": "Blabbermouth.net / Loudersound",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-20",
+      "brief": "I Trivium hanno pubblicato il 20 novembre 2026, via Roadrunner Records, l'undicesimo album in studio \"Crown in the Grave\". È il primo disco della band con il nuovo batterista Alex Rudinger (ex Whitechapel), che ha preso il posto di Alex Bent. L'annuncio era arrivato l'8 ottobre 2026 con il video della title track."
+    },
+    {
+      "titolo": "Carnifex, uscito \"More Than Misery\" per Sumerian Records",
+      "fonte": "Blabbermouth.net",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-06",
+      "brief": "È uscito il 6 novembre 2026 \"More Than Misery\", decimo album in studio dei Carnifex e primo full-length per la nuova etichetta Sumerian Records. Il cantante Scott Lewis lo descrive come un disco scritto dall'altra parte della sopravvivenza; la recensione di Blabbermouth gli assegna 8/10."
+    },
+    {
+      "titolo": "King 810 verso il nuovo album \"La Grande Mort (Or, Silence of God)\"",
+      "fonte": "The Metallist",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-27",
+      "brief": "La band di Flint (Michigan) pubblicherà il 27 novembre 2026 \"La Grande Mort (Or, Silence of God)\", presentato come seguito concettuale di \"La Petite Mort\" a dieci anni di distanza. Sarebbe il quarto full-length originale del gruppo in diciotto mesi; l'annuncio risale ad agosto 2026, la data di uscita è imminente rispetto a oggi."
+    },
+    {
+      "titolo": "Mystic Prophecy annunciano il nuovo album \"In Metal\"",
+      "fonte": "Blabbermouth.net",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-27",
+      "brief": "I power/heavy metal tedeschi Mystic Prophecy hanno in uscita il 27 novembre 2026 il nuovo disco \"In Metal\". L'annuncio era stato dato ad agosto 2026; mancano pochi giorni all'uscita effettiva rispetto a oggi."
+    },
+    {
+      "titolo": "Manowar tornano in Italia a Bergamo nel marzo 2027",
+      "fonte": "Rockol / TicketOne",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-07-16",
+      "brief": "I Manowar suoneranno due serate speciali alla ChorusLife Arena di Bergamo, il 26 marzo 2027 (integrale di \"Kings of Metal\") e il 27 marzo 2027 (integrale di \"Fighting the World\"), nell'ambito del tour \"Kings of Metal / Fighting the World 2027\". L'annuncio e l'apertura delle vendite risalgono a metà luglio 2026, ma restano le prossime date italiane della band."
+    },
+    {
+      "titolo": "Megadeth, tappa italiana del tour d'addio nell'aprile 2027",
+      "fonte": "TicketOne",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-08-06",
+      "brief": "Nella gamba europea indoor del loro tour di addio, i Megadeth faranno tappa il 6 aprile 2027 all'Unipol Forum di Assago (Milano). La band aveva già suonato in Italia nell'estate 2026 al Ferrara Summer Festival; la prevendita per la nuova data era partita il 6 agosto 2026."
+    },
+    {
+      "titolo": "Parkway Drive e Lorna Shore insieme al Ferrara Summer Festival 2027",
+      "fonte": "Rockol / Mentelocale",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-09",
+      "brief": "È stata confermata per domenica 20 giugno 2027, in Piazza Ariostea a Ferrara, la data che segna il ritorno dei Parkway Drive in Italia dopo otto anni, con Lorna Shore, The Amity Affliction e Fit For A King in scaletta. L'annuncio e l'apertura della prevendita (via MC2Live) risalgono al 9 ottobre 2026; le fonti non concordano del tutto sul canale di vendita ufficiale, quindi va verificato sui siti biglietteria prima dell'acquisto."
+    }
+  ]
+}

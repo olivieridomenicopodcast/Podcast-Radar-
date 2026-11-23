@@ -1,58 +1,54 @@
-[
- {
-  "id": "ham-2026-11-21-vk9xy-christmas-island-attiva",
-  "title": "VK9XY è attiva da Christmas Island fino al 4 dicembre",
-  "source": "Wireless Institute of Australia, Pacific Islands DXpedition Group (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-16",
-  "brief": "Il Pacific Islands DXpedition Group, in collaborazione con il programma Youth on the Air, ha attivato Christmas Island (VK9X) con il nominativo VK9XY dal 16 novembre: l'operazione resta in corso fino al 4 dicembre 2026 e coprirà anche il weekend del CQ WW DX CW del 28-29 novembre."
- },
- {
-  "id": "ham-2026-11-21-v63jx-chuuk-countdown",
-  "title": "V63JX da Chuuk, Micronesia, parte tra pochi giorni: dal 26 al 30 novembre",
-  "source": "cq.sk, DXZone (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-26",
-  "brief": "L'operatore JR3RIU confirma l'attivazione come V63JX da Chuuk, in Micronesia, dal 26 al 30 novembre 2026: mancano pochi giorni all'inizio, proprio nella settimana del CQ WW DX CW."
- },
- {
-  "id": "ham-2026-11-21-zk3-tokelau-in-corso",
-  "title": "ZK3 Tokelau: l'attivazione del Perseverance DX Group dovrebbe essere in corso in queste ultime due settimane di novembre",
-  "source": "DX-World.net, dxnews.com (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": null,
-  "brief": "Il Perseverance DX Group, insieme al Western Washington DX Club, aveva annunciato l'attivazione di Tokelau per le ultime due settimane di novembre 2026, con date esatte legate al calendario delle navi locali: non è stato reperito un bollettino più recente che confermi l'inizio effettivo, quindi va verificato sui canali ufficiali della spedizione se è già on air."
- },
- {
-  "id": "ham-2026-11-21-cqww-cw-countdown-una-settimana",
-  "title": "CQ WW DX Contest CW: manca una settimana esatta, si parte il 28 novembre alle 00:00 UTC",
-  "source": "cqww.com, DXZone (via ricerca web 2026-11-21)",
-  "affidabilita": "primaria",
-  "date": "2026-11-28",
-  "brief": "Il regolamento ufficiale 2026 confirma la sessione CW del CQ World Wide DX Contest dal 28 al 29 novembre, dalle 00:00 UTC di sabato alle 23:59 UTC di domenica: a una settimana esatta dall'inizio, diverse DXpedition del Pacifico (VK9XY, ZK3, V63JX) saranno ancora attive e lavorabili durante il contest."
- },
- {
-  "id": "ham-2026-11-21-propagazione-flusso-elettroni-miglioramento",
-  "title": "Propagazione HF: evento di flusso elettronico a metà novembre, condizioni comunque in miglioramento",
-  "source": "NOAA SWPC, eHam, ARRL Solar Update (via ricerca web 2026-11-21)",
-  "affidabilita": "secondaria",
-  "date": "2026-11-13",
-  "brief": "Il bollettino geofisico NOAA segnalava un evento di flusso di elettroni in corso, con il flusso a 2 MeV al picco di 3235 pfu il 12 novembre, senza tempeste geomagnetiche o da radiazione solare in atto. Gli aggiornamenti ARRL/W3LPL di inizio mese indicavano comunque un miglioramento delle condizioni ionosferiche sulle bande basse, con apertura dei 30 metri nel pomeriggio: utile contesto per chi si prepara al CQ WW CW della settimana prossima."
- },
- {
-  "id": "ham-2026-11-21-ari-marconi-memorial-144mhz",
-  "title": "ARI: il Marconi Memorial Contest 144 MHz CW (Sezione di Bologna) si tiene a novembre, premiazioni al Convegno Romagna",
-  "source": "contest.ari.it, ari.it (via ricerca web 2026-11-21)",
-  "affidabilita": "primaria",
-  "date": null,
-  "brief": "Tra i trofei e contest sezionali ARI 2026 rientra il Marconi Memorial Contest 144 MHz CW, sponsorizzato dalla Sezione di Bologna e in programma nel mese di novembre; secondo il regolamento le premiazioni dei contest sezionali VHF/UHF avverranno durante il Convegno Romagna di novembre, con luogo e data esatta comunicati direttamente ai vincitori."
- },
- {
-  "id": "ham-2026-11-21-kenwood-tm-d750e-ancora-non-disponibile",
-  "title": "Kenwood TM-D750E: il target di settembre 2026 è passato senza che il mobile VHF/UHF sia regolarmente disponibile",
-  "source": "cq.sk, Wimo, Kenwood Communications UK (via ricerca web 2026-11-21)",
-  "affidabilita": "segnale debole",
-  "date": null,
-  "brief": "Il nuovo mobile Kenwood TM-D750E (doppio ricevitore, D-Star, APRS/GPS) resta segnalato come 'coming soon' dal rivenditore ufficiale UK e 'disponibile a breve' da Wimo, senza prezzo fissato; l'ultima finestra di uscita indicata da un rivenditore svedese (settembre 2026) è ormai passata senza conferma di disponibilità regolare, dopo analoghi rinvii già visti in precedenza nel 2026."
- }
-]
+{
+  "generato_il": "2026-11-23",
+  "notizie": [
+    {
+      "titolo": "ARRL November Sweepstakes SSB in corso in questo weekend",
+      "fonte": "ARRL Letter (arrl.org, edizione del 12 novembre 2026)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-21",
+      "brief": "Il contest ARRL November Sweepstakes fase SSB si svolge dalle 2100 UTC del 21 novembre alle 0259 UTC del 23 novembre 2026, quindi è attivo proprio in questi giorni. L'ARRL ha inoltre annunciato una diretta streaming correlata per il 24 novembre presso l'ARRL Learning Center."
+    },
+    {
+      "titolo": "Flusso solare elevato favorisce la propagazione su 17 e 15 metri",
+      "fonte": "ARRL Solar Update (arrl.org)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-05",
+      "brief": "Il bollettino ARRL Solar Update ha previsto per i primi giorni di novembre 2026 un flusso solare superiore a 100, con condizioni F2 definite eccellenti sui 17 e 15 metri. Un bollettino precedente, del 23 ottobre, segnalava invece che il prossimo incremento di attività solare era atteso solo nella seconda metà di novembre, quindi le due previsioni divergono leggermente sui tempi."
+    },
+    {
+      "titolo": "Condizioni HF correnti: flusso solare moderato, nessuna anomalia magnetica rilevante",
+      "fonte": "Australian Bureau of Meteorology, pagina HF Systems",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-21",
+      "brief": "La pagina HF Systems del BoM australiano, aggiornata al 21 novembre 2026, indica un livello di attività solare 'Moderato' (giallo) mentre le condizioni magnetiche e ionosferiche risultano 'Normali' (verde). La pagina segnala comunque un avviso di possibile fadeout HF, da monitorare per le prossime ore."
+    },
+    {
+      "titolo": "DX-pedition a Tokelau (ZK3) prevista nelle ultime due settimane di novembre",
+      "fonte": "DXNews.com (forum), comunicato del team Tokelau 2026",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-04-03",
+      "brief": "Il team della DX-pedition a Tokelau ha annunciato (comunicato di aprile 2026, non ancora aggiornato con conferma definitiva) che l'attivazione sull'atollo avverrà nelle ultime due settimane di novembre 2026, con le date esatte da confermare in base al calendario delle navi dell'ufficio trasporti locale. Non risultano al momento comunicati più recenti con le date finali."
+    },
+    {
+      "titolo": "DX-pedition VK9XY a Christmas Island fino al 4 dicembre",
+      "fonte": "DXZone.com, pagina evento DXpedition",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-16",
+      "brief": "L'operazione VK9XY da Christmas Island (prefisso VK9X) è in corso dal 16 novembre al 4 dicembre 2026. È quindi una delle attivazioni DX attualmente attive, interessante per chi cerca questo DXCC su HF."
+    },
+    {
+      "titolo": "Kenwood lancia i nuovi transceiver dual-band TM-D750S e TM-D750",
+      "fonte": "Comunicato stampa JVCKenwood (kenwood.com/jvckenwood.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-07-30",
+      "brief": "JVCKenwood ha annunciato due nuovi ricetrasmettitori veicolari dual-band 144/430 MHz, TM-D750S e TM-D750, presentati come modello di punta della gamma radioamatoriale Kenwood con supporto APRS e modalità D-STAR diretta via WLAN integrata. I modelli sono stati messi in vendita in Giappone da fine agosto 2026 e mostrati a Hamfair 2026 (Tokyo, 29-30 agosto) per l'80° anniversario dell'azienda."
+    },
+    {
+      "titolo": "IARU al lavoro su una nuova ripartizione di banda per i 23 cm, decisione attesa alla Conferenza Generale di Vienna",
+      "fonte": "IARU Region 1 Newsletter VHF+ (iaru-r1.org)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-01-30",
+      "brief": "La newsletter IARU Region 1 ha riferito che è stata preparata una nuova proposta di band plan per la banda dei 23 cm, da sottoporre per approvazione alla Conferenza Generale IARU (GC 2026) tenutasi a Vienna a settembre 2026. Non è stato possibile verificare con la ricerca l'esito finale del voto di settembre, quindi lo stato definitivo resta da confermare sul sito IARU."
+    }
+  ]
+}
