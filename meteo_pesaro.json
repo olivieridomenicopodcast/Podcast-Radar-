@@ -1,30 +1,30 @@
 {
-  "generato_il": "2026-11-23",
+  "generato_il": "2026-11-24",
   "citta": "Pesaro",
-  "fonte": "iLMeteo.it e 3BMeteo.com (ricerca web); verifica allerte su Il Resto del Carlino e portale Regione Marche (allertameteo.regione.marche.it)",
+  "fonte": "iLMeteo.it, TempoItalia.it e 3BMeteo.com (ricerca web); verifica allerte su Il Resto del Carlino e portale Regione Marche (allertameteo.regione.marche.it)",
   "previsioni": [
     {
-      "data": "2026-11-23",
-      "temp_min_c": 10,
-      "temp_max_c": 14,
-      "condizioni": "Nuvoloso, con possibili precipitazioni (temperatura intorno a 13°C a metà giornata)",
-      "vento": "Moderato, variabile/da NE, circa 15-20 km/h",
-      "allerta": "Nessuna allerta attiva risultante dalle fonti consultate per questa data (ultime allerte meteo Marche note risalgono alla settimana precedente, 16-18 novembre, per vento e rischio idrogeologico, non più in vigore)"
-    },
-    {
       "data": "2026-11-24",
-      "temp_min_c": 9,
+      "temp_min_c": 8,
       "temp_max_c": 13,
-      "condizioni": "Nuvoloso o poco nuvoloso",
-      "vento": "Da NE/NW, stimato 15-40 km/h (dati discordanti tra fonti consultate, da verificare in giornata)",
-      "allerta": "nessuna"
+      "condizioni": "Nuvoloso con possibile debole pioggia (probabilita' di precipitazione circa 70%, accumulo stimato inferiore a 1mm)",
+      "vento": "Debole, da NW, circa 5 km/h",
+      "allerta": "nessuna (ultima allerta Protezione Civile Marche, arancione per vento, risale al 17-18 novembre e non e' piu' in vigore)"
     },
     {
       "data": "2026-11-25",
       "temp_min_c": 10,
       "temp_max_c": 12,
-      "condizioni": "Nuvoloso con possibili rovesci/piogge leggere",
-      "vento": "Moderato",
+      "condizioni": "Pioggia, a tratti moderata (probabilita' di precipitazione circa 90%, accumulo stimato 6-8mm)",
+      "vento": "Moderato, da S/SE, circa 13 km/h",
+      "allerta": "nessuna"
+    },
+    {
+      "data": "2026-11-26",
+      "temp_min_c": 9,
+      "temp_max_c": 13,
+      "condizioni": "Molto nuvoloso con pioggia debole o intermittente (probabilita' di precipitazione circa 56-70%); fonti leggermente discordanti su temperatura massima (9-15°C)",
+      "vento": "Moderato, da NW, circa 18 km/h",
       "allerta": "nessuna"
     }
   ]

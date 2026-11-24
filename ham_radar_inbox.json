@@ -1,54 +1,47 @@
 {
-  "generato_il": "2026-11-23",
+  "generato_il": "2026-11-24",
   "notizie": [
     {
-      "titolo": "ARRL November Sweepstakes SSB in corso in questo weekend",
-      "fonte": "ARRL Letter (arrl.org, edizione del 12 novembre 2026)",
+      "titolo": "CQ World Wide DX Contest CW 2026 al via il weekend del 28-29 novembre",
+      "fonte": "CQWW (cqww.com, regolamento ufficiale 2026) e ContestCalendar.com",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-11-21",
-      "brief": "Il contest ARRL November Sweepstakes fase SSB si svolge dalle 2100 UTC del 21 novembre alle 0259 UTC del 23 novembre 2026, quindi è attivo proprio in questi giorni. L'ARRL ha inoltre annunciato una diretta streaming correlata per il 24 novembre presso l'ARRL Learning Center."
+      "data_fatto": "2026-11-28",
+      "brief": "Il regolamento ufficiale pubblicato da CQWW fissa l'edizione CW del CQ World Wide DX Contest 2026 dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre. La data è confermata in modo indipendente anche da un calendario contest di terze parti (ContestCalendar.com), quindi è una scadenza imminente e certa per chi opera in HF nei prossimi giorni."
     },
     {
-      "titolo": "Flusso solare elevato favorisce la propagazione su 17 e 15 metri",
-      "fonte": "ARRL Solar Update (arrl.org)",
+      "titolo": "DXpedition da Lesotho attiva in queste ore, ma con sigla incerta tra 7P8EA e 7P9EA",
+      "fonte": "DXZone.com, pagine evento DXpedition",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-11-24",
+      "brief": "DXZone riporta un'attivazione in corso da Lesotho da parte dell'operatore HB9CCS, in CW/SSB, con fine operazioni indicata al 25 novembre 2026. Due pagine dello stesso sito indicano però sigle diverse (7P8EA e 7P9EA) con QSL route differenti, quindi il dato non è verificato in modo indipendente: da confermare tramite il bollettino 425 DX News o l'annuncio originale dell'operatore."
+    },
+    {
+      "titolo": "DXpedition C8K da Mozambico conclusa il 20 novembre",
+      "fonte": "cq.sk, pagina evento DXpedition",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-20",
+      "brief": "La pagina dedicata di cq.sk indica per l'operazione C8K dal Mozambico un arrivo del team il 9 novembre e una partenza il 20 novembre 2026, quindi l'attivazione risulta terminata pochi giorni fa. Il DXCC resta comunque di interesse per chi non avesse ancora effettuato il collegamento nella finestra operativa."
+    },
+    {
+      "titolo": "NOAA: dopo il G1 minore del 17-18 novembre, condizioni geomagnetiche tornate quiete",
+      "fonte": "NOAA Space Weather Prediction Center (mirror SpaceWeatherLive/Watchers.news)",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-11-05",
-      "brief": "Il bollettino ARRL Solar Update ha previsto per i primi giorni di novembre 2026 un flusso solare superiore a 100, con condizioni F2 definite eccellenti sui 17 e 15 metri. Un bollettino precedente, del 23 ottobre, segnalava invece che il prossimo incremento di attività solare era atteso solo nella seconda metà di novembre, quindi le due previsioni divergono leggermente sui tempi."
+      "data_fatto": "2026-11-19",
+      "brief": "NOAA aveva emesso un'allerta per tempeste geomagnetiche minori G1 (Kp previsto 4.67) tra la sera del 17 e la mattina del 18 novembre, causate da un flusso da buco coronale e da un possibile effetto marginale di una CME. La previsione a 3 giorni emessa il 19 novembre per la finestra 20-22 novembre indicava invece un ritorno a condizioni quiete, con Kp massimo atteso di 3.67 e nessuna tempeta G1 prevista: utile contesto per chi valuta le aperture HF nei giorni scorsi la settimana del contest CQWW."
     },
     {
-      "titolo": "Condizioni HF correnti: flusso solare moderato, nessuna anomalia magnetica rilevante",
-      "fonte": "Australian Bureau of Meteorology, pagina HF Systems",
+      "titolo": "eBay limita la vendita di apparati radio trasmittenti dopo le nuove regole FCC",
+      "fonte": "ARRL (arrl.org), notizia del 16 ottobre 2026",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-16",
+      "brief": "Secondo ARRL, eBay ha introdotto restrizioni sulle inserzioni di apparati radio trasmittenti in risposta a nuove regole FCC, esentando però gli apparati che operano esclusivamente sulle bande radioamatoriali. La notizia non è delle ultime 48 ore ma resta rilevante per chi compra o vende transceiver di seconda mano online, essendo tuttora in vigore."
+    },
+    {
+      "titolo": "Hamlib 4.7.2 corregge una vulnerabilità di sicurezza in rigctld",
+      "fonte": "Note di rilascio del progetto Hamlib (mailing list SourceForge, ripresa dal port FreeBSD)",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-11-21",
-      "brief": "La pagina HF Systems del BoM australiano, aggiornata al 21 novembre 2026, indica un livello di attività solare 'Moderato' (giallo) mentre le condizioni magnetiche e ionosferiche risultano 'Normali' (verde). La pagina segnala comunque un avviso di possibile fadeout HF, da monitorare per le prossime ore."
-    },
-    {
-      "titolo": "DX-pedition a Tokelau (ZK3) prevista nelle ultime due settimane di novembre",
-      "fonte": "DXNews.com (forum), comunicato del team Tokelau 2026",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-04-03",
-      "brief": "Il team della DX-pedition a Tokelau ha annunciato (comunicato di aprile 2026, non ancora aggiornato con conferma definitiva) che l'attivazione sull'atollo avverrà nelle ultime due settimane di novembre 2026, con le date esatte da confermare in base al calendario delle navi dell'ufficio trasporti locale. Non risultano al momento comunicati più recenti con le date finali."
-    },
-    {
-      "titolo": "DX-pedition VK9XY a Christmas Island fino al 4 dicembre",
-      "fonte": "DXZone.com, pagina evento DXpedition",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-16",
-      "brief": "L'operazione VK9XY da Christmas Island (prefisso VK9X) è in corso dal 16 novembre al 4 dicembre 2026. È quindi una delle attivazioni DX attualmente attive, interessante per chi cerca questo DXCC su HF."
-    },
-    {
-      "titolo": "Kenwood lancia i nuovi transceiver dual-band TM-D750S e TM-D750",
-      "fonte": "Comunicato stampa JVCKenwood (kenwood.com/jvckenwood.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-07-30",
-      "brief": "JVCKenwood ha annunciato due nuovi ricetrasmettitori veicolari dual-band 144/430 MHz, TM-D750S e TM-D750, presentati come modello di punta della gamma radioamatoriale Kenwood con supporto APRS e modalità D-STAR diretta via WLAN integrata. I modelli sono stati messi in vendita in Giappone da fine agosto 2026 e mostrati a Hamfair 2026 (Tokyo, 29-30 agosto) per l'80° anniversario dell'azienda."
-    },
-    {
-      "titolo": "IARU al lavoro su una nuova ripartizione di banda per i 23 cm, decisione attesa alla Conferenza Generale di Vienna",
-      "fonte": "IARU Region 1 Newsletter VHF+ (iaru-r1.org)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-01-30",
-      "brief": "La newsletter IARU Region 1 ha riferito che è stata preparata una nuova proposta di band plan per la banda dei 23 cm, da sottoporre per approvazione alla Conferenza Generale IARU (GC 2026) tenutasi a Vienna a settembre 2026. Non è stato possibile verificare con la ricerca l'esito finale del voto di settembre, quindi lo stato definitivo resta da confermare sul sito IARU."
+      "data_fatto": "2026-06-21",
+      "brief": "La versione 4.7.2 della libreria Hamlib, usata da molti software di controllo rig (CAT), corregge un bug di scrittura fuori dai limiti nel comando send_raw di rigctld, catalogato come CVE-2026-54634. Non è una novità delle ultimissime ore, ma è il più recente aggiornamento di sicurezza verificabile del progetto e resta pertinente per chi non abbia ancora aggiornato il proprio software di stazione."
     }
   ]
 }

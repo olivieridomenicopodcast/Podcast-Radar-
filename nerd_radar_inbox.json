@@ -1,60 +1,44 @@
 {
-  "generato_il": "2026-11-23",
+  "generato_il": "2026-11-24",
   "notizie": [
     {
-      "titolo": "GTA 6 è uscito il 19 novembre 2026 su PS5 e Xbox Series X|S",
-      "fonte": "ESPN, Tom's Guide, TechRadar, Sortiraparis",
+      "titolo": "G-STAR 2026 chiude a Busan con 1.237 aziende da 41 paesi",
+      "fonte": "The Korea Times (koreatimes.co.kr), Inven Global (invenglobal.com), The Korea Herald (heraldcorp.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-22",
+      "brief": "G-STAR 2026, la principale fiera videoludica della Corea del Sud, si è svolta dal 19 al 22 novembre al BEXCO di Busan con 1.237 aziende da 41 paesi su oltre 3.400 stand complessivi tra area B2C e B2B. La notizia è confermata da più testate coreane e internazionali di settore.",
+      "tipo": "fiera"
+    },
+    {
+      "titolo": "G-STAR 2026 parte senza i grandi publisher coreani Nexon, NCSoft e Netmarble",
+      "fonte": "Korea JoongAng Daily (koreajoongangdaily.com)",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-11-19",
-      "brief": "Dopo vari rinvii, Rockstar Games ha pubblicato Grand Theft Auto VI il 19 novembre 2026 su PlayStation 5 e Xbox Series X|S, con i preload partiti dal 10 novembre. La versione PC non ha ancora una data ufficiale: si parla del primo trimestre 2027.",
-      "tipo": "annuncio videogioco"
-    },
-    {
-      "titolo": "The Game Awards 2026: GTA VI guida le nomination, cerimonia il 10 dicembre",
-      "fonte": "Gematsu, GamesBeat, Dexerto",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-17",
-      "brief": "Il 17 novembre 2026 sono state annunciate le nomination di The Game Awards 2026: Grand Theft Auto VI guida con otto candidature. Tra i papabili Gioco dell'Anno figurano anche Resident Evil Requiem e un nuovo Zelda. La cerimonia si terrà il 10 dicembre al Peacock Theater di Los Angeles, in streaming gratuito su oltre 40 piattaforme.",
+      "brief": "All'apertura dell'edizione 2026 di G-STAR, a Busan, sono risultati assenti per la prima volta i tre maggiori publisher coreani Nexon, NCSoft e Netmarble, segno di un peso decrescente della fiera verso i colossi domestici. La notizia, ripresa anche da altra stampa coreana di settore, segnala un cambio di strategia promozionale dei grandi gruppi verso fiere internazionali come gamescom.",
       "tipo": "fiera"
     },
     {
-      "titolo": "Square Enix annuncia Chocobo's Scout Frenzy, nuovo gioco da tavolo di Final Fantasy",
-      "fonte": "ICv2",
+      "titolo": "Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red tra gli espositori internazionali di G-STAR 2026",
+      "fonte": "Inven Global (invenglobal.com), Khan Sports (sports.khan.co.kr)",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-11-19",
-      "brief": "Square Enix ha presentato Chocobo's Scout Frenzy, un nuovo gioco da tavolo ambientato nell'universo di Final Fantasy, con uscita nei negozi prevista per il terzo trimestre del 2027. L'annuncio arriva pochi giorni fa tramite comunicato ufficiale ripreso dalla stampa di settore.",
-      "tipo": "annuncio gioco da tavolo"
-    },
-    {
-      "titolo": "Pokémon annuncia un gioco da tavolo di deduzione sociale sul Team Rocket",
-      "fonte": "Account ufficiale Pokémon Japan (X), ripreso da Outlook India",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-20",
-      "brief": "L'account giapponese ufficiale di Pokémon ha svelato un nuovo gioco da tavolo di deduzione sociale a tema Team Rocket, con lancio in Giappone previsto a novembre 2026. La notizia arriva solo da un post social ripreso da pochi siti, quindi mancano ancora dettagli ufficiali su regole e distribuzione internazionale.",
-      "tipo": "annuncio gioco da tavolo"
-    },
-    {
-      "titolo": "Confermate le date di gamescom 2027: 23-29 agosto a Colonia",
-      "fonte": "Insider Gaming, Gameswelt, trade.gov",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-18",
-      "brief": "Le date della prossima edizione di gamescom sono state confermate per il periodo dal 23 al 29 agosto 2027 a Colonia, con i giorni apertura al pubblico dal 26 al 29 agosto. L'informazione è emersa da materiale promozionale esposto durante l'edizione 2026 e ripresa da più testate di settore nei giorni scorsi.",
+      "brief": "Nonostante l'assenza dei big coreani, G-STAR 2026 ha ospitato stand di publisher internazionali come Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red, confermando l'appeal della fiera di Busan per l'industria globale. I dettagli della mappa espositiva e dei contenuti presentati sono stati confermati da più testate di settore coreane prima e durante l'evento.",
       "tipo": "fiera"
     },
     {
-      "titolo": "Lucca Comics & Games chiude l'edizione dei 60 anni con 800.000 visitatori e annuncia le date 2027",
-      "fonte": "SenalNews",
+      "titolo": "BGG.CON 2026 si chiude a Dallas dopo cinque giorni",
+      "fonte": "tabletop.events (piattaforma ufficiale dell'evento), RPGGeek (rpggeek.com)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-02",
-      "brief": "La 'Diamond Edition' di Lucca Comics & Games (28 ottobre - 1 novembre 2026) si è chiusa con circa 800.000 visitatori. Gli organizzatori hanno già fissato le date della prossima edizione, dal 28 ottobre all'1 novembre 2027.",
+      "data_fatto": "2026-11-22",
+      "brief": "Si è conclusa il 22 novembre a Dallas, all'Hyatt Regency, l'edizione 2026 di BGG.CON, una delle convention di giochi da tavolo più seguite negli Stati Uniti, iniziata il 18 novembre. L'evento resta un punto di riferimento per publisher ed editori indipendenti che presentano novità e prototipi direttamente ai giocatori.",
       "tipo": "fiera"
     },
     {
-      "titolo": "SPIEL Essen 2026 stabilisce il record di visitatori e usa per la prima volta tutti i padiglioni",
-      "fonte": "ICv2, godisageek",
+      "titolo": "Milan Games Week & Cartoomics 2026: programma e ospiti confermati per il 27-29 novembre",
+      "fonte": "Il Sole 24 Ore (ilsole24ore.com), Multiplayer.it (multiplayer.it), AnimeClick (animeclick.it)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-25",
-      "brief": "La fiera tedesca SPIEL Essen, la più grande al mondo dedicata ai giochi da tavolo, ha chiuso l'edizione 2026 (22-25 ottobre) con circa 230.000 visitatori, il dato più alto nella storia della manifestazione, occupando per la prima volta anche il nuovo padiglione 8 di Messe Essen.",
+      "data_fatto": "2026-11-27",
+      "brief": "La sesta edizione di Milan Games Week & Cartoomics si terrà dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni, con tema l'acqua. Tra gli ospiti confermati figurano l'illustratrice Posuka Demizu (autrice del poster ufficiale) e il cast della serie live-action di One Piece, mentre per i giochi da tavolo l'area Unplugged ospiterà editori come Asmodee, Need Games e Boose.",
       "tipo": "fiera"
     }
   ]

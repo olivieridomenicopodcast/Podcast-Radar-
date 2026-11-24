@@ -1,53 +1,45 @@
 {
-  "generato_il": "2026-11-23",
+  "generato_il": "2026-11-24",
   "notizie": [
     {
-      "titolo": "Riot vara la prima vera ondata di ban competitivi in Riftbound: Radiance, effettiva dal 23 novembre 2026",
-      "fonte": "playriftbound.com (annuncio ufficiale \"Radiance Ban List Updates\"), riftbound.gg, ICV2",
-      "affidabilita": "Primaria",
-      "data_fatto": "2026-11-23",
-      "brief": "Riot ha aggiunto 8 carte e 2 battlefield alle liste di ban dei formati Standard e Constructed 2v2, tra cui Riven - Broken Blade, Nocturne - Horrifying, Zhonya's Hourglass e Stellacorn Herder. Riot ha dichiarato di agire ora per la salute del meta e ha annunciato che in futuro le liste di ban potranno differenziarsi tra i vari circuiti regionali, abbandonando una lista globale unica.",
-      "rilevanza": "E' la prima svolta di balance 'dura' nella storia del gioco: chi gioca competitivo deve ricostruire i mazzi basati su Riven o sulle altre carte colpite prima dei prossimi eventi, mentre per i collezionisti le carte bandite perdono (almeno temporaneamente) valore agonistico pur restando da collezione."
-    },
-    {
-      "titolo": "Kennen vince il Riftbound Regional Championship Europe a Stoccarda, ma è Riven a dominare il campo",
-      "fonte": "riftbound.gg, riftdecks.com, playriftbound.com (\"All Eyes on RC Europe\"), copertura locale Stuttgarter Zeitung",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-08",
-      "brief": "Il primo Campionato Regionale Europeo si è svolto alla Messe Stuttgart dal 6 all'8 novembre 2026 con oltre 300 giocatori. La vittoria è andata a un mazzo Kennen, Heart of the Tempest, ma Riven ha rappresentato tra il 43% e il 49% dei mazzi registrati nel Day 2, occupando più posizioni nel Top 8. Questo squilibrio è stato citato da Riot come motivazione diretta per il ban del 23 novembre.",
-      "rilevanza": "Mostra il nesso diretto tra risultati dei torneo e decisioni di balance: utile per chi gioca competitivo per capire quali archetipi hanno dominato e quali sono stati colpiti subito dopo dai cambi ufficiali."
-    },
-    {
-      "titolo": "Annunciato \"The Reckoning\", nuovo set booster di Riftbound in arrivo nel 2027",
-      "fonte": "ICV2",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-05",
-      "brief": "UVS Games e Riot Games porteranno nei negozi il nuovo set booster \"The Reckoning\" il 30 aprile 2027. Al momento non sono stati rivelati dettagli su carte, meccaniche o Legend presenti nel set.",
-      "rilevanza": "Primo segnale concreto sul calendario prodotti 2027: utile ai collezionisti per iniziare a pianificare budget e preordini con largo anticipo, anche se i dettagli sono ancora minimi."
-    },
-    {
-      "titolo": "Svelato \"Riftbound: Legacy\", il sesto set e il primo pensato per il draft, in uscita il 29 gennaio 2027",
-      "fonte": "Starcitygames, Bleeding Cool, Nerdsnack, TheOuterhaven",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-05",
-      "brief": "Riftbound: Legacy sarà il primo set Riftbound pensato specificamente per il draft, con uscita mondiale il 29 gennaio 2027. Sostituirà uno slot di common nelle buste con uno slot dedicato a Legend/Battlefield. Le prime anteprime sono previste al Convergence Fest (11-13 dicembre 2026, Las Vegas); finora Riot ha rivelato 8 degli 12 Legend totali, tra cui Ashe, Garen e Lux. Le fonti divergono sul conteggio esatto delle carte (239 contro 346), quindi il dato numerico resta da confermare.",
-      "rilevanza": "E' la prima espansione orientata al draft nella storia del gioco: cambia le dinamiche di apertura delle buste per i collezionisti e introdurrà nuovi Legend/meccaniche che ridisegneranno il meta competitivo all'inizio del 2027."
-    },
-    {
-      "titolo": "Secondo \"State of the Game\": Riot annuncia ranked ladder, Riftbound Challenge Series e i primi Mondiali nel 2027",
-      "fonte": "playriftbound.com, GamesBeat, Starcitygames",
-      "affidabilita": "Primaria",
-      "data_fatto": "2026-08-04",
-      "brief": "Nel secondo aggiornamento ufficiale \"State of the Game\", Riot ha annunciato che dal 2027 tutti gli eventi competitivi assegneranno Ladder Points per una classifica Ranked, l'introduzione della nuova \"Riftbound Challenge Series\" che sostituirà i Summoner Skirmish, e la conferma dei primi Campionati Mondiali di Riftbound nel 2027 (data e sede non ancora annunciate).",
-      "rilevanza": "Definisce la struttura competitiva di lungo periodo del gioco: informazione chiave per chi punta a qualificarsi ai futuri Mondiali o segue la scena esport di Riftbound, anche se l'annuncio è di qualche mese fa e non delle ultime 48 ore."
-    },
-    {
-      "titolo": "La community discute se il ban a Riven sia giustificato o una reazione eccessiva",
-      "fonte": "riftbound.gg, cardgamer.com, blog Polkastarter (copertura di settore, non Reddit/Discord ufficiale verificato)",
+      "titolo": "riftbound.gg pubblica le prime previsioni sul metagame dopo i ban: Ezreal, LeBlanc e Rengar indicati come possibili vincitori",
+      "fonte": "riftbound.gg (\"Early Post-Ban Metagame Possibilities\")",
       "affidabilita": "Segnale debole",
       "data_fatto": "2026-11-23",
-      "brief": "Dopo l'annuncio del ban, diverse fonti di settore riportano pareri contrastanti: alcuni osservatori sottolineano che il matchup contro Riven era in pratica più equilibrato di quanto il tasso di rappresentanza (43-49%) suggerisse, soprattutto se giocato da avversari di alto livello; altri sostengono che la decisione di Riot fosse necessaria per la salute del meta Standard. Non è stato possibile verificare discussioni dirette su Reddit o sul Discord ufficiale nelle fonti raccolte.",
-      "rilevanza": "Riflette il sentiment della community attorno a una decisione di balance molto impattante, utile per chi deve decidere se continuare a investire in mazzi/carte Riven o reindirizzare la propria collezione verso altri archetipi."
+      "brief": "Subito dopo l'entrata in vigore del ban del 23 novembre, riftbound.gg ha pubblicato un'analisi speculativa su come potrebbe evolvere il meta Standard: Ezreal avrebbe più margine nelle partite lunghe senza la pressione di Riven, mentre LeBlanc e Rengar potrebbero risalire grazie alla minore presenza del dominio Chaos. L'autore stesso definisce queste ipotesi previsioni, non dati di torneo verificati, e segnala che altri analisti hanno letture diverse.",
+      "rilevanza": "Offre ai giocatori competitivi le prime indicazioni (non confermate) su quali legend provare nella settimana immediatamente successiva al ban, prima che arrivino i primi risultati reali di torneo nel nuovo formato."
+    },
+    {
+      "titolo": "La CCS Riftbound Qualifier 5 letta a ritroso come indizio del metagame post-ban",
+      "fonte": "riftbound.gg (\"What does the CCS Riftbound Qualifier 5 tell us about the post-ban metagame\")",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-11-23",
+      "brief": "Un secondo articolo di riftbound.gg torna sui risultati della CCS Riftbound Qualifier 5, giocata prima dei ban, per individuare quali archetipi stavano già guadagnando terreno indipendentemente da Riven e che potrebbero quindi emergere più rapidamente ora che le carte bandite sono fuori rotazione. Non è stato possibile verificare l'analisi con una seconda fonte indipendente.",
+      "rilevanza": "Utile a chi si prepara agli eventi di dicembre: offre uno spunto, ancora non verificato da un torneo realmente giocato post-ban, su quali mazzi testare con il nuovo pool di carte legali."
+    },
+    {
+      "titolo": "Riot chiarisce i dettagli tecnici del ban: colpita anche l'alternate art di Riven, Corea e Cina Tradizionale esentate per ora",
+      "fonte": "playriftbound.com (annuncio ufficiale \"Radiance Ban List Updates\"), confermato da cardgamer.com e copertura di settore aggregata",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-23",
+      "brief": "Riot ha precisato che il ban su Riven - Broken Blade riguarda tutte le stampe della carta, incluse le versioni alternate art, perché un ban si applica per nome carta e non per singola stampa. Le fonti indicano inoltre che Corea e la regione di Cina Tradizionale non sono toccate dalla nuova lista finché Riftbound: Radiance non uscirà anche in quei mercati.",
+      "rilevanza": "Per i collezionisti è una precisazione concreta: anche le copie più costose e da vetrina di Riven perdono l'uso competitivo ovunque il ban sia attivo, mentre chi gioca in Corea o Cina Tradizionale resta temporaneamente escluso dal cambiamento."
+    },
+    {
+      "titolo": "Il mercato secondario reagisce: i prezzi di Riven e delle altre carte colpite continuano a scendere su TCGplayer",
+      "fonte": "GamesRadar, Polkastarter (che cita un'inchiesta precedente di TheGamer sul crollo di prezzo di Riven - Broken Blade alternate art)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-23",
+      "brief": "Diverse fonti di settore segnalano che il valore di Riven - Broken Blade sul mercato secondario, già in calo nelle settimane precedenti in previsione del ban, ha continuato a scendere nei giorni immediatamente successivi all'annuncio del 23 novembre. Le cifre esatte del post-ban non sono state confermate da fonti indipendenti, quindi il dato va preso come tendenza e non come valore puntuale verificato.",
+      "rilevanza": "Chi colleziona o specula sulle carte Riftbound deve sapere che un ban competitivo si riflette quasi subito sul prezzo di mercato delle carte coinvolte, anche per le versioni più rare e costose."
+    },
+    {
+      "titolo": "Perché proprio quelle carte: emergono i dettagli tecnici dietro le scelte di ban di Riot",
+      "fonte": "cardgamer.com, GamesRadar",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-23",
+      "brief": "Oltre all'elenco ufficiale, la stampa di settore ha aggiunto dettagli sul perché specifiche carte secondarie siano state bandite insieme a Riven: Stellacorn Herder viene citata come problematica perché permette ai mazzi Riven di autosostituirsi con grande efficienza, rendendo il motore della carta ancora più consistente. Non tutte le fonti concordano sui dettagli di ogni singola carta della lista.",
+      "rilevanza": "Per chi gioca a livello competitivo capire la logica dietro ogni singolo ban aiuta a prevedere quali altre combinazioni di carte Riot potrebbe considerare a rischio nei prossimi aggiornamenti."
     }
   ]
 }
