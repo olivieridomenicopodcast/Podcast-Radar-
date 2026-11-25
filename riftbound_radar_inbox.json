@@ -1,45 +1,53 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-25",
   "notizie": [
     {
-      "titolo": "riftbound.gg pubblica le prime previsioni sul metagame dopo i ban: Ezreal, LeBlanc e Rengar indicati come possibili vincitori",
-      "fonte": "riftbound.gg (\"Early Post-Ban Metagame Possibilities\")",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-23",
-      "brief": "Subito dopo l'entrata in vigore del ban del 23 novembre, riftbound.gg ha pubblicato un'analisi speculativa su come potrebbe evolvere il meta Standard: Ezreal avrebbe più margine nelle partite lunghe senza la pressione di Riven, mentre LeBlanc e Rengar potrebbero risalire grazie alla minore presenza del dominio Chaos. L'autore stesso definisce queste ipotesi previsioni, non dati di torneo verificati, e segnala che altri analisti hanno letture diverse.",
-      "rilevanza": "Offre ai giocatori competitivi le prime indicazioni (non confermate) su quali legend provare nella settimana immediatamente successiva al ban, prima che arrivino i primi risultati reali di torneo nel nuovo formato."
-    },
-    {
-      "titolo": "La CCS Riftbound Qualifier 5 letta a ritroso come indizio del metagame post-ban",
-      "fonte": "riftbound.gg (\"What does the CCS Riftbound Qualifier 5 tell us about the post-ban metagame\")",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-23",
-      "brief": "Un secondo articolo di riftbound.gg torna sui risultati della CCS Riftbound Qualifier 5, giocata prima dei ban, per individuare quali archetipi stavano già guadagnando terreno indipendentemente da Riven e che potrebbero quindi emergere più rapidamente ora che le carte bandite sono fuori rotazione. Non è stato possibile verificare l'analisi con una seconda fonte indipendente.",
-      "rilevanza": "Utile a chi si prepara agli eventi di dicembre: offre uno spunto, ancora non verificato da un torneo realmente giocato post-ban, su quali mazzi testare con il nuovo pool di carte legali."
-    },
-    {
-      "titolo": "Riot chiarisce i dettagli tecnici del ban: colpita anche l'alternate art di Riven, Corea e Cina Tradizionale esentate per ora",
-      "fonte": "playriftbound.com (annuncio ufficiale \"Radiance Ban List Updates\"), confermato da cardgamer.com e copertura di settore aggregata",
+      "titolo": "A Lille vince un mazzo Azir: il meta dopo i ban si mostra più vario",
+      "fonte": "Pagina ufficiale Riftbound Organized Play (riftbound.leagueoflegends.com/playriftbound.com, \"Lille's Top Decks\"), confermato da Escapist Magazine e Mobalytics",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-11-23",
-      "brief": "Riot ha precisato che il ban su Riven - Broken Blade riguarda tutte le stampe della carta, incluse le versioni alternate art, perché un ban si applica per nome carta e non per singola stampa. Le fonti indicano inoltre che Corea e la regione di Cina Tradizionale non sono toccate dalla nuova lista finché Riftbound: Radiance non uscirà anche in quei mercati.",
-      "rilevanza": "Per i collezionisti è una precisazione concreta: anche le copie più costose e da vetrina di Riven perdono l'uso competitivo ovunque il ban sia attivo, mentre chi gioca in Corea o Cina Tradizionale resta temporaneamente escluso dal cambiamento."
+      "data_fatto": "2026-11-22",
+      "brief": "Al Regional Qualifier di Lille (circa 1800 giocatori) a vincere è stato un mazzo Azir, con un Top 8 più variegato rispetto a quello di Las Vegas: tre Irelia e due Master Yi tra i finalisti. Escapist Magazine nota che l'uscita dal meta dei mazzi Draven e Miracle Ezreal, colpiti dal giro di ban precedente, ha aperto spazio ad Azir.",
+      "rilevanza": "Per chi gioca a livello competitivo è un dato concreto, non speculativo come le previsioni pubblicate subito dopo il ban del 23 novembre: mostra quali mazzi stanno davvero performando nei torneo reali di queste settimane."
     },
     {
-      "titolo": "Il mercato secondario reagisce: i prezzi di Riven e delle altre carte colpite continuano a scendere su TCGplayer",
-      "fonte": "GamesRadar, Polkastarter (che cita un'inchiesta precedente di TheGamer sul crollo di prezzo di Riven - Broken Blade alternate art)",
+      "titolo": "DSG Prismaticism vince anche l'ultimo Regional Qualifier 2026 di Los Angeles con Rengar",
+      "fonte": "Articolo ufficiale Riot (riftbound.leagueoflegends.com) ripreso da copertura di settore",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-23",
-      "brief": "Diverse fonti di settore segnalano che il valore di Riven - Broken Blade sul mercato secondario, già in calo nelle settimane precedenti in previsione del ban, ha continuato a scendere nei giorni immediatamente successivi all'annuncio del 23 novembre. Le cifre esatte del post-ban non sono state confermate da fonti indipendenti, quindi il dato va preso come tendenza e non come valore puntuale verificato.",
-      "rilevanza": "Chi colleziona o specula sulle carte Riftbound deve sapere che un ban competitivo si riflette quasi subito sul prezzo di mercato delle carte coinvolte, anche per le versioni più rare e costose."
+      "data_fatto": "2026-11-22",
+      "brief": "Il giocatore DSG Prismaticism ha vinto il suo secondo Regional Qualifier dell'anno pilotando un mazzo Rengar, in quello che la stessa Riot definisce l'ultimo Regional Qualifier del 2026 a Los Angeles. Non è stato possibile reperire la decklist completa in questa ricerca.",
+      "rilevanza": "Rengar si confirma un archetipo costante ai vertici nel 2026: utile per chi si prepara ai prossimi eventi di dicembre a sapere quali legend restano temibili anche dopo i cambi al ban list."
     },
     {
-      "titolo": "Perché proprio quelle carte: emergono i dettagli tecnici dietro le scelte di ban di Riot",
-      "fonte": "cardgamer.com, GamesRadar",
+      "titolo": "Riftbound: Legacy, il sesto set, sarà il primo pensato per il draft: annunciati 8 Legend su 12",
+      "fonte": "Riot Games (annuncio ufficiale ripreso da Bleeding Cool, CardCosmos e StarCityGames)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-23",
-      "brief": "Oltre all'elenco ufficiale, la stampa di settore ha aggiunto dettagli sul perché specifiche carte secondarie siano state bandite insieme a Riven: Stellacorn Herder viene citata come problematica perché permette ai mazzi Riven di autosostituirsi con grande efficienza, rendendo il motore della carta ancora più consistente. Non tutte le fonti concordano sui dettagli di ogni singola carta della lista.",
-      "rilevanza": "Per chi gioca a livello competitivo capire la logica dietro ogni singolo ban aiuta a prevedere quali altre combinazioni di carte Riot potrebbe considerare a rischio nei prossimi aggiornamenti."
+      "data_fatto": "2026-11-18",
+      "brief": "Riot ha confermato che Riftbound: Legacy, in uscita il 29 gennaio 2027 (Pre-Rift dal 22 gennaio), sarà il primo set della storia del gioco progettato pensando al draft: le bustine sostituiranno una carta comune con uno slot dedicato a Legend o Battlefield. Sono già stati svelati 8 Legend su 12 previsti (tra cui Ashe, Garen, Lux e Vladimir); le fonti divergono sul numero totale di carte del set (239 contro 346), dato non ancora verificabile.",
+      "rilevanza": "Per i giocatori collezionisti è il primo segnale concreto di come cambierà l'esperienza di apertura bustine nel 2027, con un formato draft che potrebbe aprire un intero nuovo modo di giocare il TCG."
+    },
+    {
+      "titolo": "Il preview di Legacy parte a Convergence Fest, Las Vegas, l'11-13 dicembre",
+      "fonte": "Comunicato ufficiale Riot ripreso da GameDeveloper.com e dai canali regionali di Teamfight Tactics/Riftbound",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-13",
+      "brief": "Convergence Fest, il primo evento che unisce Teamfight Tactics e Riftbound, si terrà a Las Vegas dall'11 al 13 dicembre 2026 e ospiterà anche il Riftbound North American Regional Championship, oltre al primo assaggio pubblico delle carte di Legacy. Ulteriori rivelazioni del set arriveranno a gennaio 2027.",
+      "rilevanza": "È la prossima data chiave sul calendario per chi segue le novità di prodotto: il primo sguardo reale alle carte del prossimo set arriverà proprio da questo evento."
+    },
+    {
+      "titolo": "Secondo fonte francese, Riven compariva nel 43% dei mazzi al Campionato Regionale Europeo prima del ban",
+      "fonte": "LorenZone.fr (sito francese dedicato a TCG)",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-11-13",
+      "brief": "Il sito francese LorenZone riporta che, secondo le proprie analisi, la carta Riven - Broken Blade era presente nel 43% dei mazzi schierati al recente Campionato Regionale Europeo di Stoccarda, dato citato come motivazione di fondo del ban del 23 novembre. Non è stato possibile verificare questa percentuale su una seconda fonte indipendente.",
+      "rilevanza": "Se confermato, è il numero che spiega meglio di ogni altro perché Riot sia intervenuta con un ban così netto: una presenza vicina alla metà dei mazzi di un torneo di alto livello è un segnale di squilibrio del meta molto concreto."
+    },
+    {
+      "titolo": "In arrivo il 4 dicembre il Gift of the Rift Bundle con promo alternativa di Akali",
+      "fonte": "Comunicato ufficiale Riot (ripreso da GamesPress.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-13",
+      "brief": "Riot ha annunciato per il 4 dicembre 2026 il \"Gift of the Rift Bundle\", un prodotto natalizio con booster di set diversi e una carta promozionale alternativa dedicata ad Akali. Le iscrizioni ai sorteggi (drawings) legati alla collezione Worlds 2026 si erano già aperte il 13 novembre e chiuse il 16 novembre.",
+      "rilevanza": "Per i collezionisti è un prodotto stagionale da tenere d'occhio per il periodo natalizio, con una carta esclusiva che potrebbe avere domanda alta per via del personaggio."
     }
   ]
 }

@@ -1,53 +1,37 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-25",
   "notizie": [
     {
-      "titolo": "Zerocalcare nella bufera per i compensi degli animatori di 'Due Spicci': la vicenda arriva anche in Parlamento",
-      "fonte": "Il Post, Open, Dire, AGI, Movieplayer, Unione Sarda (ilpost.it, open.online, dire.it)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-06-02",
-      "brief": "Dopo l'uscita su Netflix di 'Due Spicci' (27 maggio 2026), alcuni animatori anonimi hanno denunciato sui social paghe basse (circa 6 euro l'ora) e carichi di lavoro pesanti sulla produzione, gestita da Movimenti Production. La polemica è stata ripresa da diverse testate ed è arrivata in Parlamento, con il senatore Maurizio Gasparri che ha chiesto un'ispezione del Ministero del Lavoro. Zerocalcare ha risposto con un video su Instagram il 2 giugno, dicendo di essere solo l'autore e di non gestire i contratti dei collaboratori, e lamentando che nessuno gli avesse mai chiesto di intervenire prima.",
-      "rilevanza": "E' uno dei dibattiti più seguiti degli ultimi mesi nella community nerd/fumettistica italiana, perché mette in discussione il rapporto tra un content creator/fumettista molto popolare e le condizioni di lavoro dietro una produzione animata di grande visibilità; non è degli ultimi due giorni ma resta un contesto ancora citato e rilevante."
-    },
-    {
-      "titolo": "Lucca Comics & Games chiude l'edizione del 60° anniversario con circa 800.000 visitatori e annuncia un nuovo Museo Internazionale del Fumetto",
-      "fonte": "SenalNews, Multiplayer.it, Quotidiano.net (senalnews.com, multiplayer.it)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-01",
-      "brief": "L'edizione 2026 di Lucca Comics & Games, a tema 'Legacy' per il 60° anniversario della manifestazione, si è chiusa il 1° novembre con circa 800.000 visitatori. Gli organizzatori hanno annunciato la nascita di un nuovo International Comics Museum e già fissato le date dell'edizione 2027 (28 ottobre - 1 novembre).",
-      "rilevanza": "Lucca Comics & Games è l'evento di riferimento per tutta la community nerd/fumetto/manga italiana, e i suoi numeri di chiusura e i nuovi progetti (come il museo) restano un argomento di conversazione diffuso tra creator e fan anche a distanza di settimane dalla fiera."
-    },
-    {
-      "titolo": "Lucca Comics & Games Community Awards 2026: la community ha votato manga, film, videogiochi e personaggi preferiti dell'anno",
-      "fonte": "AnimeClick.it, SpazioGames.it (comunicato ufficiale ripreso dalle due testate)",
+      "titolo": "GTA 6 polverizza i record di spettatori in streaming: ogni content creator gaming ne parla ancora questa settimana",
+      "fonte": "ANSA (lavocedinewyork.com/ansa), StreamsCharts, Instant Gaming News",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-10-08",
-      "brief": "Per la quarta edizione dei Community Awards di Lucca Comics & Games, il pubblico ha potuto votare online (fino a tre preferenze per categoria, votazioni chiuse il 25 ottobre) per scegliere le opere e i personaggi più amati dell'anno in otto categorie. I vincitori sono stati annunciati in diretta streaming sui canali ufficiali della manifestazione durante il festival; non è stato possibile verificare l'elenco completo dei vincitori nelle fonti consultate.",
-      "rilevanza": "E' uno dei pochi premi italiani di cultura pop decisi direttamente dal voto popolare e non da una giuria di esperti, quindi è un indicatore diretto di cosa sta appassionando davvero la fanbase nerd italiana in questo momento."
+      "data_fatto": "2026-11-19",
+      "brief": "Al lancio mondiale del 19 novembre 2026, GTA 6 ha superato ogni record di visualizzazione in streaming: oltre 3,3 milioni di spettatori simultanei solo su Twitch secondo ANSA, fino a quasi 8 milioni considerando tutte le piattaforme secondo StreamsCharts, battendo il primato che apparteneva a Valorant. Non è stato possibile trovare dati specifici sui canali italiani, ma l'evento resta il tema dominante nei contenuti di ogni creator gaming italiano in questi giorni.",
+      "rilevanza": "È l'evento videoludico più grande dell'anno e sta riempiendo i palinsesti di ogni creator italiano che fa contenuti gaming: dirette, reaction, guide e video di confronto con GTA 5 sono ovunque, anche a distanza di giorni dal lancio."
     },
     {
-      "titolo": "Milan Games Week & Cartoomics 2026: Sergio Bonelli Editore porterà una mostra speciale per i 40 anni di Dylan Dog",
-      "fonte": "Il Sole 24 Ore, Multiplayer.it (en.ilsole24ore.com, multiplayer.it)",
+      "titolo": "Esce oggi \"Parola di mangaka\" di Davide Castellazzi, saggio italiano sul mestiere del fumettista giapponese",
+      "fonte": "Libreria Universitaria (catalogo Edizioni Clichy)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-25",
+      "brief": "Il catalogo di Edizioni Clichy indica per oggi, 25 novembre 2026, la disponibilità di \"Parola di mangaka\", libro italiano di Davide Castellazzi sul mondo e il mestiere dei mangaka. Non è stato possibile verificare i dettagli editoriali su una seconda fonte indipendente, quindi il dato va preso con cautela.",
+      "rilevanza": "Per chi segue o produce contenuti su manga e cultura nerd giapponese in Italia è una nuova uscita editoriale di approfondimento, utile come spunto di discussione o recensione."
+    },
+    {
+      "titolo": "Cresce tra i creator videoludici italiani il fronte di chi rifiuta sponsorizzazioni e codici review dai publisher",
+      "fonte": "AnimeClick Gaming (animeclick.it)",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-01-10",
+      "brief": "Un articolo di AnimeClick Gaming, la cui data esatta non è stata possibile confermare con precisione (indizi nei commenti suggeriscono inizio 2026), segnala che dopo Falconero, storica figura dello YouTube videoludico italiano, anche Player Inside e Sabaku no Maiku hanno dichiarato pubblicamente di rinunciare a sponsorizzazioni dirette e codici review dei publisher, per tutelare l'indipendenza critica. Nei commenti alcuni lettori mettono in dubbio quanto sia sostenibile economicamente questa scelta. Segnaliamo la notizia come contesto ancora dibattuto nella community, non come fatto delle ultime 48 ore.",
+      "rilevanza": "Riguarda direttamente l'etica e il modello di business dei content creator italiani che recensiscono videogiochi, un tema che chi fa contenuti nerd/gaming in Italia continua a discutere."
+    },
+    {
+      "titolo": "Milan Games Week & Cartoomics 2026 apre tra due giorni a Fiera Milano Rho, con aree dedicate a creator e cosplay",
+      "fonte": "Techprincess, Multiplayer.it, Milanofree.it",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-11-27",
-      "brief": "In occasione del 40° anniversario del personaggio, Sergio Bonelli Editore parteciperà a Milan Games Week & Cartoomics (27-29 novembre, Fiera Milano Rho) con un'esposizione speciale dedicata a Dylan Dog, 'l'Indagatore dell'Incubo'. L'evento, tra i più grandi d'Italia per videogiochi e fumetti, si tiene tra pochissimi giorni rispetto a oggi.",
-      "rilevanza": "E' un dettaglio nuovo e specifico (non emerso nei resoconti generali della fiera) che riguarda uno dei fumetti italiani più iconici e che richiama direttamente content creator e fan di fumetti alla manifestazione imminente."
-    },
-    {
-      "titolo": "Rebirth di Reiner Knizia nominato Gioco dell'Anno 2026 a Lucca Comics & Games",
-      "fonte": "Gus & Co (blog francese di giochi da tavolo) - gusandco.net",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-10-29",
-      "brief": "Secondo un'unica fonte estera consultata, la giuria di Lucca Comics & Games avrebbe assegnato il titolo di Gioco dell'Anno 2026 a 'Rebirth' di Reiner Knizia il 29 ottobre, lo stesso gioco che nel 2026 aveva già vinto il Kennerspiel des Jahres in Germania. Non è stato trovato un riscontro su fonti italiane o sul sito ufficiale della manifestazione, quindi il dato resta da verificare.",
-      "rilevanza": "Se confermato, riguarderebbe il premio italiano più seguito dalla community dei giochi da tavolo; lo segnaliamo come segnale debole perché proviene da una sola fonte non italiana e non verificata altrove."
-    },
-    {
-      "titolo": "Classifica dei canali YouTube italiani più seguiti: tra i primi posti restano creator gaming come Lionfield e mercuri_88",
-      "fonte": "VidIQ (vidiq.com/youtube-stats/top/country/it)",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-17",
-      "brief": "Una classifica automatica dei canali YouTube italiani per numero di iscritti, aggiornata a metà novembre 2026, conferma tra i primi posti due creator legati al mondo gaming: Lionfield (circa 17 milioni di iscritti) e mercuri_88 (circa 15,4 milioni). Il dato proviene da un solo strumento di tracciamento automatico e non da una fonte editoriale, quindi va preso con cautela.",
-      "rilevanza": "Indica, anche se con una fonte unica e automatizzata, che i creator gaming restano tra i canali italiani più seguiti in assoluto su YouTube, un segnale della forza persistente della community gaming/nerd italiana sulla piattaforma."
+      "brief": "La sesta edizione di Milan Games Week & Cartoomics, a tema 'acqua' per il 60° di Lucca Comics (evento collegato ma distinto), apre il 27 novembre e chiude il 29 su quattro padiglioni di Fiera Milano Rho, con aree strutturali dedicate a creator, cosplay e incontri oltre a videogiochi e fumetti. Gli organizzatori non hanno ancora pubblicato l'elenco nominale di streamer e YouTuber ospiti per il 2026, annunciato di solito nei giorni immediatamente precedenti l'evento.",
+      "rilevanza": "È il principale appuntamento fieristico italiano dove la community nerd e i content creator italiani si incontrano fisicamente: molti pubblicheranno contenuti dedicati nei prossimi giorni, quindi è un evento da monitorare per chi segue il settore."
     }
   ]
 }

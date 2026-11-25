@@ -1,95 +1,122 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-25",
   "notizie": [
     {
-      "titolo": "CD Projekt Red starebbe costruendo un team tabletop interno, valuta titoli Witcher/Cyberpunk più piccoli",
-      "fonte": "BoardGameWire (boardgamewire.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-20",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Secondo BoardGameWire, CD Projekt Red starebbe mettendo in piedi un team dedicato al tabletop, valutando versioni Witcher e Cyberpunk di formato più contenuto rispetto alle grandi campagne crowdfunding fatte finora con Go On Board, insieme a nuove partnership editoriali. Per i designer è un possibile nuovo canale IP-holder che potrebbe commissionare progetti di design più piccoli e meno legati al solo crowdfunding."
-    },
-    {
-      "titolo": "Nasce Moona Games, nuovo publisher francese fondato da ex dirigenti Lucky Duck Games focalizzato sulla localizzazione",
-      "fonte": "BoardGameWire (boardgamewire.com)",
-      "affidabilita": "Secondaria",
+      "titolo": "Ares Games annuncia Sieges of Middle-earth, quarta espansione di War of the Ring",
+      "fonte": "ICv2 (icv2.com/articles/news/view/63431), confermato da Zatu Games e GamingTrend",
+      "affidabilita": "Primaria",
       "data_fatto": "2026-11-18",
       "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Ex dirigenti di Lucky Duck Games hanno fondato Moona Games, nuovo editore con sede ad Angoulême che costruisce la propria strategia attorno alla localizzazione di titoli già pubblicati altrove, proprio nel segmento che Lucky Duck ha ridimensionato. Per i designer con un gioco già uscito su un mercato estero è un nuovo interlocutore potenziale per l'edizione francofona."
+      "categoria": "catalogo",
+      "brief": "Ares Games ha annunciato Sieges of Middle-earth, quarta espansione per War of the Ring Seconda Edizione (designer Roberto Di Meglio, Marco Maggi, Francesco Nepitello), con uscita stimata nel quarto trimestre 2026. Introduce meccaniche inedite sugli assedi (Helm's Deep, Minas Tirith), i Fellowship token per i Popoli Liberi che si trasformano in Palantir token per l'Ombra, azioni eroiche e sortite, più miniature e un'edizione limitata da collezione. Per i designer è un caso di studio su come espandere un gioco pluripremiato senza alterarne il motore base, aggiungendo un sottosistema tematico (l'assedio) riconoscibile e separato."
     },
     {
-      "titolo": "Osprey Games licenzia l'intero team board/card game e cancella lo stand a Essen",
-      "fonte": "BoardGameWire / Cards Realm",
+      "titolo": "The Thing: The Boardgame torna su Gamefound con uno spin-off standalone, finanziato in pochi secondi",
+      "fonte": "GodIsAGeek (godisageek.com), pagina ufficiale del progetto su Gamefound",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
+      "data_fatto": "2026-11-10",
       "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Osprey Games (di proprietà Bloomsbury) ha licenziato tutto lo staff dedicato esclusivamente ai giochi da tavolo e di carte e ha rinunciato allo stand a Spiel Essen, cinque mesi dopo l'annuncio della messa in vendita del ramo boardgame. I titoli già sotto contratto restano in stand-by senza una decisione su chi li pubblicherà: un avvertimento concreto per i designer con progetti in pipeline presso editori in fase di cessione o ristrutturazione."
+      "categoria": "crowdfunding",
+      "brief": "Pendragon Game Studio ha rilanciato su Gamefound The Thing: The Boardgame, affiancandolo a un nuovo spin-off standalone, The Thing: The Cardgame, con la campagna finanziata quasi istantaneamente e oltre 398.000 euro raccolti. Per chi progetta giochi è un segnale di come un IP horror già noto, riproposto in formato più leggero e autonomo (cardgame) accanto al titolo principale, continui a performare molto bene sul crowdfunding anche a fronte di un mercato generale più cauto."
     },
     {
-      "titolo": "Nemesis: Legacy di Awaken Realms supera 114 volte l'obiettivo su Gamefound",
-      "fonte": "Zatu Games / GodIsAGeek",
+      "titolo": "Jamey Stegmaier (Stonemaier Games): le vendite dirette 'pre-order ready' restano solo il 5% delle copie stampate",
+      "fonte": "Gus & Co (gusandco.net/2026/10/25), che riprende il blog ufficiale di Jamey Stegmaier",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
+      "data_fatto": "2026-10-22",
       "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "La campagna Gamefound di Nemesis: Legacy (Awaken Realms) ha superato 5,7 milioni di euro da oltre 16.600 backer, più di 114 volte l'obiettivo di 50.000 euro, finanziandosi in pochi secondi dall'apertura. Per i designer di giochi horror/cooperativi/legacy è un'ulteriore conferma della tenuta di questo segmento nel crowdfunding, in un periodo in cui altri publisher segnalano invece difficoltà."
+      "categoria": "business/design",
+      "brief": "Il co-fondatore di Stonemaier Games Jamey Stegmaier ha pubblicato dati secondo cui le vendite dirette tramite lanci 'pre-order ready' (senza vera campagna di crowdfunding) rappresentano solo circa il 5% delle copie stampate dal 2024 a oggi, molto meno di quanto sperato. Per i designer che valutano se autoprodursi o affidarsi a Kickstarter/Gamefound è un dato concreto e raro (gli editori pubblicano pochissimo sui numeri reali) su quanto resti centrale il crowdfunding per generare volume di vendita anche per un publisher consolidato."
     },
     {
-      "titolo": "Mantic Games porta in retail Halo: Campaign Evolved",
-      "fonte": "ICv2 (icv2.com)",
+      "titolo": "Asmodee porta Hellbreak, TCG horror, in Italia in versione inglese",
+      "fonte": "AnimeClick (animeclick.it/news/110287)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-14",
+      "data_fatto": "2026-11-12",
       "paese": "Estero",
       "categoria": "catalogo",
-      "brief": "Mantic Games ha pubblicato in retail Halo: Campaign Evolved, gioco da tavolo su licenza del franchise Microsoft/343 Industries. Esempio recente di come un publisher specializzato in miniature/wargame rafforzi il catalogo con licenze videoludiche ad alto riconoscimento: un canale di cui i designer con competenze skirmish/miniature possono tenere conto nel proporre progetti."
+      "brief": "Asmodee distribuirà in Italia, nel corso dell'autunno 2026, il trading card game a tema horror Hellbreak, ma senza localizzazione: sarà disponibile solo nella versione originale in inglese. Per i designer e per chi segue le scelte di publishing è un esempio di come anche un grande distributore scelga, per prodotti di nicchia come un TCG, di non investire nella localizzazione linguistica e puntare comunque sul mercato italiano in lingua originale."
     },
     {
-      "titolo": "Nessuna data ufficiale ancora individuata per la prossima edizione di IdeaG a Parma",
-      "fonte": "SAZ Italia / spieleautorenzunft.de (pagine storiche IDeAG)",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-24",
-      "paese": "Italia",
+      "titolo": "Asmodee porta in retail Unlock! Short Adventures: Assassin's Creed",
+      "fonte": "ICv2 (icv2.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-06",
+      "paese": "Estero",
+      "categoria": "catalogo",
+      "brief": "Space Cowboys/Asmodee ha pubblicato in retail, dal 6 novembre 2026, un nuovo episodio della serie Unlock! con licenza Assassin's Creed, confermando l'uso del formato 'short adventure' (partite brevi, scatola compatta) per sfruttare licenze videoludiche senza il costo produttivo di un gioco completo. Per chi progetta escape game da scatola è un riferimento diretto su come dosare durata e licenza per un prodotto a basso costo di sviluppo."
+    },
+    {
+      "titolo": "Spiel Essen 2026 chiude con record di affluenza, circa 230.000 visitatori",
+      "fonte": "ICv2 (icv2.com/articles/news/view/63726)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-25",
+      "paese": "Estero",
       "categoria": "fiera/evento",
-      "brief": "La ricerca non ha trovato, sui canali di SAZ Italia (organizzatore di IDeAG a Parma dal 2018) né su studiogiochi.com, l'annuncio di data e sede della prossima edizione di IdeaG, l'incontro nazionale italiano tra autori di giochi, playtester e rappresentanti di case editrici. L'ultima edizione documentata nelle fonti consultate è la 18ª, svoltasi il 1-2 aprile 2023. Chi progetta giochi e vuole pianificare la partecipazione dovrebbe monitorare direttamente i canali di SAZ Italia e studiogiochi.com, dove in genere compaiono i primi annunci; è il bando del Premio Archimede 2027 (già segnalato) a confermare che l'evento è comunque attivo, offrendo come premio un ingresso omaggio a IdeaG Parma."
+      "brief": "La fiera di Essen, la più grande piazza europea per il gioco da tavolo, ha chiuso l'edizione 2026 con un nuovo record di affluenza, circa 230.000 visitatori. Per i designer italiani che puntano all'estero resta il termometro più immediato della salute del settore B2C europeo e il principale banco di prova per presentare prototipi e cercare editori stranieri, nonostante le difficoltà di mercato segnalate da più publisher nel corso dell'anno."
     },
     {
-      "titolo": "IDEAG 2027 confermato: 22ª edizione il 15-17 gennaio a Parma, aperte le iscrizioni per prototipi",
-      "fonte": "idea-g.it (sito ufficiale IDEAG) / ilgiocointavolo.it",
+      "titolo": "Czech Games Edition conferma l'accordo per portare Codenames su Netflix",
+      "fonte": "BoardGameWire (newsletter del 13 ottobre 2026)",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-10-13",
+      "paese": "Estero",
+      "categoria": "licenze",
+      "brief": "Una newsletter di settore accenna, senza dettagli completi, a un accordo in evoluzione tra Czech Games Edition e Netflix per portare il marchio Codenames su piattaforma streaming (dopo l'uscita di Codenames: Critical Role Adventures). Il dato è riportato da una sola fonte e senza i termini dell'operazione, quindi va considerato un segnale ancora da verificare, ma potenzialmente interessante per chi guarda alle licenze cross-media dei giochi di carte/party game."
+    },
+    {
+      "titolo": "IDEAG 2027: aperte le iscrizioni ai prototipi, dettagli sul bando Premio Archimede legato all'evento",
+      "fonte": "idea-g.it (sito ufficiale) e studiogiochi.com (bando Archimede 2027)",
       "affidabilita": "Primaria",
       "data_fatto": "2026-11-22",
       "paese": "Italia",
       "categoria": "fiera/evento",
-      "brief": "Il sito ufficiale di IDEAG (idea-g.it) ha pubblicato il calendario della 22ª edizione dell'Incontro Nazionale degli Autori di Giochi: 15-17 gennaio 2027, presso il voco by IHG Hotel Parma & Congressi. Il calendario iscrizioni prevede apertura riservata ai soci SAZ il 2 novembre, apertura generale per autori/playtester/blogger/stampa/editori l'8 novembre, apertura iscrizioni prototipi il 22 novembre (appena avvenuta), apertura iscrizioni TalkG/IDEAG Night/La Cialtronata il 6 dicembre, chiusura iscrizioni il 2 gennaio 2027 alle 23:00. È l'aggiornamento diretto, con fonte primaria, dell'informazione lasciata aperta su questo stesso evento: per i designer italiani è il momento di candidare i propri prototipi per il pitch agli editori presenti."
+      "brief": "Oltre al calendario già confermato della 22ª edizione di IDEAG (15-17 gennaio 2027 a Parma, iscrizioni prototipi aperte dal 22 novembre), lo Studio Giochi ha pubblicato il bando del Premio Archimede 2027 per giochi da tavolo inediti italiani: consegna prototipi entro il 28 febbraio 2027, finale a metà settembre 2027 a Venezia, con tra i premi un ingresso omaggio a IdeaG Parma per il vincitore. Per i designer italiani è un doppio appuntamento da calendarizzare: il pitch diretto agli editori a IDEAG di gennaio e il concorso Archimede con scadenza a fine febbraio."
     },
     {
-      "titolo": "Ares Games pubblicherà in inglese Yonder, gioco di piazzamento lavoratori di Sinister Fish Games",
-      "fonte": "ICv2 (icv2.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-17",
+      "titolo": "Rebirth di Reiner Knizia è il Gioco dell'Anno 2026 a Lucca Comics & Games, Paolo Mori Designer of the Year",
+      "fonte": "SpazioGames (spaziogames.it), confermato da Mojo-Nation e dai resoconti del Teatro del Giglio",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-10-29",
       "paese": "Italia",
-      "categoria": "publisher",
-      "brief": "ICv2 riporta che l'editore italiano Ares Games pubblicherà e distribuirà l'edizione inglese di Yonder, gioco fantasy di piazzamento lavoratori ideato e illustrato da Haakon Gaarder (già autore di Villagers e Moon) e originariamente pubblicato da Sinister Fish Games su Kickstarter. Ares porterà il titolo in distribuzione retail in tarda primavera, dopo il fulfillment della campagna. Per i designer è un'ulteriore conferma che un publisher italiano come Ares sta usando la propria rete distributiva per acquisire e lanciare sul mercato anglofono titoli nati altrove, un canale potenzialmente interessante anche per progetti italiani con ambizioni internazionali."
+      "categoria": "premio",
+      "brief": "Alla cerimonia di Lucca Comics & Games 2026, tra 70 titoli candidati da 29 editori, la giuria ha assegnato il Gioco dell'Anno 2026 a Rebirth di Reiner Knizia (già Kennerspiel des Jahres in Germania), battendo finalisti come Bomb Busters ed Echoes of Time; il designer italiano Paolo Mori è stato nominato Autore di Giochi dell'Anno 2026. Per chi fa game design in Italia è il premio italiano più seguito dalla community, un indicatore diretto di quali meccaniche e autori la giuria italiana sta premiando quest'anno."
     },
     {
-      "titolo": "Ares Games estende la distribuzione europea con un accordo con lo spagnolo Draco Ideas/Eclipse Editorial",
-      "fonte": "BoardGameWire / ICv2",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-12",
-      "paese": "Italia",
-      "categoria": "publisher",
-      "brief": "Ares Games (editore italiano con sede a Roma e magazzino UE in Italia) ha ampliato la propria attività di distribuzione europea firmando un accordo con l'editore spagnolo Draco Ideas/Eclipse Editorial (le due etichette, una dedicata a giochi storici e l'altra a giochi narrativi/familiari, si sono fuse nel 2023), confermato sia da BoardGameWire che da ICv2. L'accordo si aggiunge ai partner già esistenti (Galakta Games in Polonia, Tabula Games in Italia, Albi in Repubblica Ceca, Nuts! Publishing in Francia). Per i designer è un segnale di come un editore italiano stia costruendo un hub distributivo paneuropeo, un canale potenziale per la diffusione di titoli al di fuori del solo mercato nazionale."
-    },
-    {
-      "titolo": "Giochi Uniti pubblica The Social Contract, primo gioco da tavolo di Factanza Media, presentato a Lucca Comics & Games 2026",
-      "fonte": "AGI (agi.it) / SpazioGames",
+      "titolo": "Giochi Uniti rilancia Assalto al Castello su licenza Feudalesimo e Libertà, debutto a Lucca",
+      "fonte": "AGI (agi.it/cronaca/news/2026-08-26/assalto-castello-lucca)",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-10-28",
       "paese": "Italia",
       "categoria": "catalogo",
-      "brief": "Giochi Uniti ha pubblicato The Social Contract, il primo gioco da tavolo prodotto da Factanza Media, nato come risposta alla polarizzazione sociale e pensato per portare il tema della convivenza civile al tavolo da gioco. Il game design è di Dario Massa, mentre Factanza ha curato ambientazione, testi, grafica e direzione artistica (illustrazioni di Carlo Esposito/Carlo Dowggy); Giochi Uniti ha gestito sviluppo, stesura del regolamento, produzione e rapporti con i fornitori. Il gioco, per 2-6 giocatori dai 12 anni in su (circa 50 minuti), è stato messo in pre-ordine dal 28 ottobre e presentato a Lucca Comics & Games (28 ottobre-1 novembre). Per i designer è un esempio concreto di un editore generalista italiano che si apre a una collaborazione editoriale con un media brand per un gioco a tema civico/divulgativo, un genere ancora poco esplorato nel catalogo mainstream italiano."
+      "brief": "Giochi Uniti ha pubblicato una nuova edizione del gioco di destrezza Assalto al Castello, su licenza del programma TV Feudalesimo e Libertà, con debutto a Lucca Comics & Games. Il direttore operativo Stefano De Carolis lo presenta come un titolo dalle regole rapide da spiegare, pensato per un pubblico ampio anche non abituale. Per i designer è un esempio di come un editore generalista italiano scelga una licenza da format televisivo per un gioco di destrezza semplice, puntando sulla notorietà del brand più che sulla complessità del design."
+    },
+    {
+      "titolo": "Need Games presenta il piano 2026 al Live'N'Play: Alien in italiano, Lancer, Shadowdark e la nuova linea 'Need Bites!'",
+      "fonte": "SpazioGames (spaziogames.it/articoli/need-games-uscite-2026)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-02",
+      "paese": "Italia",
+      "categoria": "publisher",
+      "brief": "Need Games ha dettagliato il proprio piano editoriale con la localizzazione italiana di Alien, Lancer e Shadowdark, insieme a una nuova collana 'Need Bites!' dedicata a giochi compatti, autosufficienti e facilmente trasportabili per ampliare il pubblico oltre il core gamer. L'editore milanese continua inoltre la collaborazione con Panini sul Marvel Multiverse Roleplaying Game. Per i designer italiani (soprattutto di RPG) è un indicatore di quali formati (titoli brevi, licenze internazionali) un editore di peso sta cercando in questo momento."
+    },
+    {
+      "titolo": "Milan Games Week & Cartoomics 2026 apre tra pochi giorni: quattro padiglioni e spazio dedicato ai micro-editori indipendenti",
+      "fonte": "Il Sole 24 Ore (en.ilsole24ore.com) e Multiplayer.it",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-27",
+      "paese": "Italia",
+      "categoria": "fiera/evento",
+      "brief": "La fiera, in programma dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni (9, 11, 22 e 24), prevede secondo Il Sole 24 Ore spazio specifico per micro-editori indipendenti di giochi da tavolo, oltre ai grandi marchi. Per designer e piccoli editori italiani è una delle ultime occasioni dell'anno, dopo Lucca ed Essen, per farsi notare in fiera su scala nazionale, anche senza lo stand di un grande publisher."
+    },
+    {
+      "titolo": "Il Festival Play si trasferisce stabilmente a Bologna, lasciando Modena",
+      "fonte": "play-festival.it (comunicato ufficiale)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-05-22",
+      "paese": "Italia",
+      "categoria": "fiera/evento",
+      "brief": "La 17ª edizione di Play - Festival del Gioco si è svolta a BolognaFiere, confermando lo spostamento stabile della manifestazione da Modena a Bologna; non risulta più una data Play a Modena per il 2027. Non è una notizia delle ultime 48 ore, ma è un cambiamento strutturale del calendario fieristico italiano dei giochi da tavolo che i designer devono conoscere per pianificare la propria partecipazione futura."
     }
   ]
 }

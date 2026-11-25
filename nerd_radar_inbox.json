@@ -1,45 +1,53 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-25",
   "notizie": [
     {
-      "titolo": "G-STAR 2026 chiude a Busan con 1.237 aziende da 41 paesi",
-      "fonte": "The Korea Times (koreatimes.co.kr), Inven Global (invenglobal.com), The Korea Herald (heraldcorp.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "G-STAR 2026, la principale fiera videoludica della Corea del Sud, si è svolta dal 19 al 22 novembre al BEXCO di Busan con 1.237 aziende da 41 paesi su oltre 3.400 stand complessivi tra area B2C e B2B. La notizia è confermata da più testate coreane e internazionali di settore.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "G-STAR 2026 parte senza i grandi publisher coreani Nexon, NCSoft e Netmarble",
-      "fonte": "Korea JoongAng Daily (koreajoongangdaily.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "All'apertura dell'edizione 2026 di G-STAR, a Busan, sono risultati assenti per la prima volta i tre maggiori publisher coreani Nexon, NCSoft e Netmarble, segno di un peso decrescente della fiera verso i colossi domestici. La notizia, ripresa anche da altra stampa coreana di settore, segnala un cambio di strategia promozionale dei grandi gruppi verso fiere internazionali come gamescom.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red tra gli espositori internazionali di G-STAR 2026",
-      "fonte": "Inven Global (invenglobal.com), Khan Sports (sports.khan.co.kr)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "Nonostante l'assenza dei big coreani, G-STAR 2026 ha ospitato stand di publisher internazionali come Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red, confermando l'appeal della fiera di Busan per l'industria globale. I dettagli della mappa espositiva e dei contenuti presentati sono stati confermati da più testate di settore coreane prima e durante l'evento.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "BGG.CON 2026 si chiude a Dallas dopo cinque giorni",
-      "fonte": "tabletop.events (piattaforma ufficiale dell'evento), RPGGeek (rpggeek.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "Si è conclusa il 22 novembre a Dallas, all'Hyatt Regency, l'edizione 2026 di BGG.CON, una delle convention di giochi da tavolo più seguite negli Stati Uniti, iniziata il 18 novembre. L'evento resta un punto di riferimento per publisher ed editori indipendenti che presentano novità e prototipi direttamente ai giocatori.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "Milan Games Week & Cartoomics 2026: programma e ospiti confermati per il 27-29 novembre",
-      "fonte": "Il Sole 24 Ore (ilsole24ore.com), Multiplayer.it (multiplayer.it), AnimeClick (animeclick.it)",
+      "titolo": "Milan Games Week & Cartoomics 2026 apre tra due giorni a Fiera Milano Rho, biglietti già in vendita",
+      "fonte": "Multiplayer.it (multiplayer.it), Techprincess (techprincess.it), AnimeClick (animeclick.it), Il Sole 24 Ore (en.ilsole24ore.com)",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-11-27",
-      "brief": "La sesta edizione di Milan Games Week & Cartoomics si terrà dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni, con tema l'acqua. Tra gli ospiti confermati figurano l'illustratrice Posuka Demizu (autrice del poster ufficiale) e il cast della serie live-action di One Piece, mentre per i giochi da tavolo l'area Unplugged ospiterà editori come Asmodee, Need Games e Boose.",
+      "brief": "La sesta edizione della fiera combinata videogiochi/fumetti si terrà dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni, con il tema dell'acqua. I biglietti sono già in vendita (Priority con ingresso dalle 9:00, General dalle 10:30) e l'edizione 2025 aveva superato i 130.000 visitatori, dato che alimenta le attese per quest'anno.",
       "tipo": "fiera"
+    },
+    {
+      "titolo": "Steam lancia il suo primo vero Black Friday dal 26 al 30 novembre, in parallelo alle nomination dei Steam Awards",
+      "fonte": "Digitalcitizen.life, PCGamesHardware.de, TechRadar",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-26",
+      "brief": "Dopo l'esperimento del 2025, Valve ripete il Black Friday su Steam dal 26 al 30 novembre 2026, sovrapposto alle candidature per gli Steam Awards. Le fonti non sono del tutto concordi: alcune parlano di un saldo generalizzato dello store, altre di una semplice vetrina 'Special Offers' senza un evento ufficiale strutturato come i saldi stagionali. Il prossimo saldo certo resta il Winter Sale dal 17 dicembre.",
+      "tipo": "videogioco"
+    },
+    {
+      "titolo": "Your Name di Makoto Shinkai torna nei cinema italiani in 4K per il 10° anniversario, ultimo giorno oggi",
+      "fonte": "AnimeClick (animeclick.it), Cinefilos.it, MYmovies.it",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-23",
+      "brief": "Dynit porta per la prima volta Your Name sul grande schermo italiano in versione restaurata 4K, in sala dal 23 al 25 novembre 2026 (oggi l'ultima data) nei circuiti The Space Cinema, UCI Cinemas, Notorious Cinemas e altri. L'iniziativa celebra i dieci anni dal debutto del film che ha aperto l'epoca post-Ghibli dell'animazione giapponese.",
+      "tipo": "anime"
+    },
+    {
+      "titolo": "Esports Nations Cup 2026 a Riyadh: l'Italia partecipa con un team nazionale costruito da IIDEA",
+      "fonte": "Techprincess.it",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-02",
+      "brief": "IIDEA (associazione italiana editori videogiochi) è stata scelta come National Team Partner per rappresentare l'Italia alla Esports Nations Cup 2026, in corso a Riyadh dal 2 al 29 novembre (quindi ancora attiva in questi giorni). Il roster italiano è composto con il contributo di realtà del settore come PG Esports ed Exeed.",
+      "tipo": "videogioco/esports"
+    },
+    {
+      "titolo": "Riot Games annuncia League of Legends: New Dawn, il restyling totale del gioco in arrivo nel 2027",
+      "fonte": "InvenGlobal (invenglobal.com), GamesBeat, Engadget, Techloy",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-14",
+      "brief": "Durante la finale dei Worlds 2026, Riot ha svelato New Dawn: client completamente rifatto, Summoner's Rift con grafica rinnovata, gameplay evoluto e chat vocale di squadra integrata. Riot ha confermato solo l'arrivo nel 2027, con una presentazione più completa prevista per gennaio; la notizia, di qualche giorno fa, resta uno degli argomenti più discussi nella community competitiva in questi giorni.",
+      "tipo": "videogioco"
+    },
+    {
+      "titolo": "Fortnite lancia la collaborazione con Overwatch: bundle con Genji, Tracer, D.Va e Mercy",
+      "fonte": "Esports.gg",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-21",
+      "brief": "Epic Games ha introdotto nello shop di Fortnite un bundle a tema Overwatch con le skin di Genji, Tracer, D.Va e Mercy, arrivato il 21 novembre. La collaborazione si inserisce nella strategia di Epic di moltiplicare i crossover (oltre 30 annunciati nel corso del 2026) per rilanciare l'interesse attorno al gioco.",
+      "tipo": "videogioco"
     }
   ]
 }

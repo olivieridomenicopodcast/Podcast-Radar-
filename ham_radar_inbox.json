@@ -1,47 +1,40 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-25",
   "notizie": [
     {
-      "titolo": "CQ World Wide DX Contest CW 2026 al via il weekend del 28-29 novembre",
-      "fonte": "CQWW (cqww.com, regolamento ufficiale 2026) e ContestCalendar.com",
+      "titolo": "DXpedition VK9XY da Christmas Island in corso, con 40 giovani operatori da tutto il mondo in collegamento remoto",
+      "fonte": "Pacific Islands DXpedition Group / qsl.net/vk9xy (pagina ufficiale), confermato da 425 DX News",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-16",
+      "brief": "Il Pacific Islands DXpedition Group, in collaborazione con Youth on the Air (YOTA), sta attivando Christmas Island (VK9X) con la sigla VK9XY dal 16 novembre al 4 dicembre 2026, quindi l'operazione è attiva in queste ore. Il team copre tutte le bande HF in CW, SSB e FT8, oltre al satellite QO-100, e ha offerto a circa 40 giovani radioamatori nel mondo la possibilità di operare da remoto durante la spedizione."
+    },
+    {
+      "titolo": "CQ World Wide DX Contest CW 2026 al via sabato: log entro 48 ore e divieto esplicito di operazione robotica",
+      "fonte": "cqww.com (regolamento ufficiale 2026, cqww.com/rules/2026_rules_cqww.pdf)",
       "affidabilita": "Primaria",
       "data_fatto": "2026-11-28",
-      "brief": "Il regolamento ufficiale pubblicato da CQWW fissa l'edizione CW del CQ World Wide DX Contest 2026 dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre. La data è confermata in modo indipendente anche da un calendario contest di terze parti (ContestCalendar.com), quindi è una scadenza imminente e certa per chi opera in HF nei prossimi giorni."
+      "brief": "Il weekend CW del CQ World Wide DX Contest 2026 si terrà dalle 0000 UTC di sabato 28 alle 2359 UTC di domenica 29 novembre. Tra le novità regolamentari 2026 confermate dagli organizzatori, la scadenza per l'invio dei log è stata ridotta da 5 giorni a 48 ore (entro le 2359 UTC del 1° dicembre) e l'operazione autonoma tramite robot è ora formalmente vietata, allineando CQ WW alle regole già in vigore per WPX e per i contest digitali."
     },
     {
-      "titolo": "DXpedition da Lesotho attiva in queste ore, ma con sigla incerta tra 7P8EA e 7P9EA",
-      "fonte": "DXZone.com, pagine evento DXpedition",
+      "titolo": "ARRL November Sweepstakes: si è appena concluso il weekend SSB, in attesa dei risultati ufficiali",
+      "fonte": "ARRL (arrl.org/sweepstakes)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-23",
+      "brief": "Il weekend fonia dell'ARRL November Sweepstakes si è chiuso alle 0259 UTC del 23 novembre 2026 (il weekend CW si era tenuto il 7-9 novembre). I risultati ufficiali non sono ancora stati pubblicati sul portale contest di ARRL al momento della scrittura; l'edizione 2025 aveva raccolto circa 1.449 log, un numero pressoché identico a quello del 2024."
+    },
+    {
+      "titolo": "NOAA prevede un nuovo episodio di tempesta geomagnetica minore G1 proprio nel weekend del CQ WW CW",
+      "fonte": "NOAA Space Weather Prediction Center, 27-day outlook del 9 novembre 2026 (ripreso da watchers.news)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-09",
+      "brief": "L'outlook a 27 giorni diffuso da NOAA SWPC il 9 novembre 2026 indica una possibile tempesta geomagnetica minore di classe G1 nella finestra del 27-28 novembre, oltre a periodi da instabili ad attivi tra il 26 e il 28 novembre. La previsione, se confermata nei bollettini più recenti, è rilevante perché coincide proprio con il weekend del CQ World Wide DX Contest CW (28-29 novembre) e potrebbe influenzare la propagazione HF durante la gara."
+    },
+    {
+      "titolo": "DXpedition VK1AX da Deal Island (OC-195) verso la conclusione a fine novembre",
+      "fonte": "425 DX News, bollettino #1846 del 19 settembre 2026",
       "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-24",
-      "brief": "DXZone riporta un'attivazione in corso da Lesotho da parte dell'operatore HB9CCS, in CW/SSB, con fine operazioni indicata al 25 novembre 2026. Due pagine dello stesso sito indicano però sigle diverse (7P8EA e 7P9EA) con QSL route differenti, quindi il dato non è verificato in modo indipendente: da confermare tramite il bollettino 425 DX News o l'annuncio originale dell'operatore."
-    },
-    {
-      "titolo": "DXpedition C8K da Mozambico conclusa il 20 novembre",
-      "fonte": "cq.sk, pagina evento DXpedition",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-20",
-      "brief": "La pagina dedicata di cq.sk indica per l'operazione C8K dal Mozambico un arrivo del team il 9 novembre e una partenza il 20 novembre 2026, quindi l'attivazione risulta terminata pochi giorni fa. Il DXCC resta comunque di interesse per chi non avesse ancora effettuato il collegamento nella finestra operativa."
-    },
-    {
-      "titolo": "NOAA: dopo il G1 minore del 17-18 novembre, condizioni geomagnetiche tornate quiete",
-      "fonte": "NOAA Space Weather Prediction Center (mirror SpaceWeatherLive/Watchers.news)",
-      "affidabilita": "Primaria",
-      "data_fatto": "2026-11-19",
-      "brief": "NOAA aveva emesso un'allerta per tempeste geomagnetiche minori G1 (Kp previsto 4.67) tra la sera del 17 e la mattina del 18 novembre, causate da un flusso da buco coronale e da un possibile effetto marginale di una CME. La previsione a 3 giorni emessa il 19 novembre per la finestra 20-22 novembre indicava invece un ritorno a condizioni quiete, con Kp massimo atteso di 3.67 e nessuna tempeta G1 prevista: utile contesto per chi valuta le aperture HF nei giorni scorsi la settimana del contest CQWW."
-    },
-    {
-      "titolo": "eBay limita la vendita di apparati radio trasmittenti dopo le nuove regole FCC",
-      "fonte": "ARRL (arrl.org), notizia del 16 ottobre 2026",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "brief": "Secondo ARRL, eBay ha introdotto restrizioni sulle inserzioni di apparati radio trasmittenti in risposta a nuove regole FCC, esentando però gli apparati che operano esclusivamente sulle bande radioamatoriali. La notizia non è delle ultime 48 ore ma resta rilevante per chi compra o vende transceiver di seconda mano online, essendo tuttora in vigore."
-    },
-    {
-      "titolo": "Hamlib 4.7.2 corregge una vulnerabilità di sicurezza in rigctld",
-      "fonte": "Note di rilascio del progetto Hamlib (mailing list SourceForge, ripresa dal port FreeBSD)",
-      "affidabilita": "Primaria",
-      "data_fatto": "2026-06-21",
-      "brief": "La versione 4.7.2 della libreria Hamlib, usata da molti software di controllo rig (CAT), corregge un bug di scrittura fuori dai limiti nel comando send_raw di rigctld, catalogato come CVE-2026-54634. Non è una novità delle ultimissime ore, ma è il più recente aggiornamento di sicurezza verificabile del progetto e resta pertinente per chi non abbia ancora aggiornato il proprio software di stazione."
+      "data_fatto": "2026-09-19",
+      "brief": "Secondo un bollettino di 425 DX News non più recentissimo, l'operatore John, VK1AX, è attivo da Deal Island (riferimento OC-195) con operazioni previste fino a fine novembre 2026. Non è stato possibile trovare un aggiornamento più fresco sullo stato reale dell'operazione in questi giorni, quindi il dato va preso con cautela e verificato su DX cluster o canali ufficiali più recenti prima di tentare il collegamento."
     }
   ]
 }
