@@ -1,47 +1,47 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-26",
   "notizie": [
     {
-      "titolo": "CQ World Wide DX Contest CW 2026 al via il weekend del 28-29 novembre",
-      "fonte": "CQWW (cqww.com, regolamento ufficiale 2026) e ContestCalendar.com",
+      "titolo": "CQ World Wide DX Contest CW 2026 parte il 28 novembre",
+      "fonte": "CQWW (cqww.com/rules/2026_rules_cqww.pdf, regolamento ufficiale 2026)",
       "affidabilita": "Primaria",
       "data_fatto": "2026-11-28",
-      "brief": "Il regolamento ufficiale pubblicato da CQWW fissa l'edizione CW del CQ World Wide DX Contest 2026 dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre. La data è confermata in modo indipendente anche da un calendario contest di terze parti (ContestCalendar.com), quindi è una scadenza imminente e certa per chi opera in HF nei prossimi giorni."
+      "brief": "Il regolamento ufficiale 2026 di CQWW confirma che l'edizione CW del CQ World Wide DX Contest si tiene dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre, su sei bande (160-10m), con potenza massima 1500W per i singoli operatori high power e divieto di utilizzo di DX cluster, CW Skimmer e Reverse Beacon Network per la categoria assistita esclusa. E' l'appuntamento contest HF più imminente per chi legge in questi giorni."
     },
     {
-      "titolo": "DXpedition da Lesotho attiva in queste ore, ma con sigla incerta tra 7P8EA e 7P9EA",
-      "fonte": "DXZone.com, pagine evento DXpedition",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-24",
-      "brief": "DXZone riporta un'attivazione in corso da Lesotho da parte dell'operatore HB9CCS, in CW/SSB, con fine operazioni indicata al 25 novembre 2026. Due pagine dello stesso sito indicano però sigle diverse (7P8EA e 7P9EA) con QSL route differenti, quindi il dato non è verificato in modo indipendente: da confermare tramite il bollettino 425 DX News o l'annuncio originale dell'operatore."
-    },
-    {
-      "titolo": "DXpedition C8K da Mozambico conclusa il 20 novembre",
-      "fonte": "cq.sk, pagina evento DXpedition",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-20",
-      "brief": "La pagina dedicata di cq.sk indica per l'operazione C8K dal Mozambico un arrivo del team il 9 novembre e una partenza il 20 novembre 2026, quindi l'attivazione risulta terminata pochi giorni fa. Il DXCC resta comunque di interesse per chi non avesse ancora effettuato il collegamento nella finestra operativa."
-    },
-    {
-      "titolo": "NOAA: dopo il G1 minore del 17-18 novembre, condizioni geomagnetiche tornate quiete",
-      "fonte": "NOAA Space Weather Prediction Center (mirror SpaceWeatherLive/Watchers.news)",
+      "titolo": "DXpedition VK9XY da Christmas Island in corso fino al 4 dicembre",
+      "fonte": "ARRL Letter (arrl.org, edizione del 12 novembre 2026) e sito ufficiale vk9xy2026.com",
       "affidabilita": "Primaria",
+      "data_fatto": "2026-11-16",
+      "brief": "Il team guidato dal Pacific Islands DXpedition Group, con focus sul coinvolgimento di giovani radioamatori, opera da Christmas Island (OC) con il nominativo VK9XY dal 16 novembre al 4 dicembre 2026. L'operazione è quindi ancora attiva in questi giorni e resta una delle DXpedition più significative del periodo per chi caccia entità rare."
+    },
+    {
+      "titolo": "DXpedition VK9NA da Norfolk Island conclusa il 19 novembre",
+      "fonte": "DXZone.com (pagina evento DXpedition VK9NA)",
+      "affidabilita": "Secondaria",
       "data_fatto": "2026-11-19",
-      "brief": "NOAA aveva emesso un'allerta per tempeste geomagnetiche minori G1 (Kp previsto 4.67) tra la sera del 17 e la mattina del 18 novembre, causate da un flusso da buco coronale e da un possibile effetto marginale di una CME. La previsione a 3 giorni emessa il 19 novembre per la finestra 20-22 novembre indicava invece un ritorno a condizioni quiete, con Kp massimo atteso di 3.67 e nessuna tempeta G1 prevista: utile contesto per chi valuta le aperture HF nei giorni scorsi la settimana del contest CQWW."
+      "brief": "VK3XPD e VK3RU hanno operato da Norfolk Island dal 14 al 19 novembre 2026 su 10-6 metri in CW, FT8 e SSB. L'attivazione è terminata da pochi giorni: resta di interesse per chi non avesse completato il collegamento con questo DXCC entity nella finestra operativa, ma non è stato possibile confermare l'informazione con una seconda fonte indipendente."
     },
     {
-      "titolo": "eBay limita la vendita di apparati radio trasmittenti dopo le nuove regole FCC",
-      "fonte": "ARRL (arrl.org), notizia del 16 ottobre 2026",
+      "titolo": "DXpedition ZK3 Tokelau annunciata per le ultime due settimane di novembre, date esatte non ancora fissate",
+      "fonte": "Bollettino DX citato da cq.sk/DXZone (fonte originale risalente alla primavera 2026)",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-11-15",
+      "brief": "Un team ha annunciato che sarà attivo dall'atollo di Tokelau nella seconda metà di novembre 2026, ma il bollettino con l'annuncio risale alla primavera e non è stato possibile verificare se le date siano state confermate o aggiornate più di recente. Chi è interessato a questo DXCC raro dovrebbe controllare 425 DX News o il sito ufficiale della spedizione per la conferma definitiva."
+    },
+    {
+      "titolo": "ARRL Solar Update: attività solare bassa, buona propagazione notturna sulle bande basse, aperture est-ovest ancora scarse",
+      "fonte": "ARRL Solar Update (arrl.org, edizione del 6 novembre 2026) e W3LPL Propagation Forecast (The Daily DX)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "brief": "Secondo ARRL, eBay ha introdotto restrizioni sulle inserzioni di apparati radio trasmittenti in risposta a nuove regole FCC, esentando però gli apparati che operano esclusivamente sulle bande radioamatoriali. La notizia non è delle ultime 48 ore ma resta rilevante per chi compra o vende transceiver di seconda mano online, essendo tuttora in vigore."
+      "data_fatto": "2026-11-06",
+      "brief": "L'ultimo aggiornamento solare ufficiale disponibile di ARRL segnala attività solare bassa con possibilità di brillamenti di classe M, in un contesto di ciclo solare in discesa. Il forecast W3LPL conferma buone aperture nord-sud su 10 e 12 metri, aperture est-ovest ancora deboli per il basso numero di macchie solari, e propagazione notturna eccellente sulle bande basse: un quadro di base utile per valutare le condizioni HF in vista del CQWW CW del weekend."
     },
     {
-      "titolo": "Hamlib 4.7.2 corregge una vulnerabilità di sicurezza in rigctld",
-      "fonte": "Note di rilascio del progetto Hamlib (mailing list SourceForge, ripresa dal port FreeBSD)",
-      "affidabilita": "Primaria",
-      "data_fatto": "2026-06-21",
-      "brief": "La versione 4.7.2 della libreria Hamlib, usata da molti software di controllo rig (CAT), corregge un bug di scrittura fuori dai limiti nel comando send_raw di rigctld, catalogato come CVE-2026-54634. Non è una novità delle ultimissime ore, ma è il più recente aggiornamento di sicurezza verificabile del progetto e resta pertinente per chi non abbia ancora aggiornato il proprio software di stazione."
+      "titolo": "ARRL November Sweepstakes SSB conclusa il 23 novembre",
+      "fonte": "The ARRL Letter (arrl.org, edizione del 12 novembre 2026)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-23",
+      "brief": "Il weekend SSB del contest ARRL November Sweepstakes si è svolto dalle 2100 UTC del 21 novembre alle 0259 UTC del 23 novembre 2026, promosso anche come occasione per accumulare stati verso il traguardo America250 WAS. E' uno degli ultimi grandi contest nordamericani prima del CQWW CW di fine mese."
     }
   ]
 }

@@ -1,45 +1,45 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-26",
   "notizie": [
     {
-      "titolo": "riftbound.gg pubblica le prime previsioni sul metagame dopo i ban: Ezreal, LeBlanc e Rengar indicati come possibili vincitori",
-      "fonte": "riftbound.gg (\"Early Post-Ban Metagame Possibilities\")",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-23",
-      "brief": "Subito dopo l'entrata in vigore del ban del 23 novembre, riftbound.gg ha pubblicato un'analisi speculativa su come potrebbe evolvere il meta Standard: Ezreal avrebbe più margine nelle partite lunghe senza la pressione di Riven, mentre LeBlanc e Rengar potrebbero risalire grazie alla minore presenza del dominio Chaos. L'autore stesso definisce queste ipotesi previsioni, non dati di torneo verificati, e segnala che altri analisti hanno letture diverse.",
-      "rilevanza": "Offre ai giocatori competitivi le prime indicazioni (non confermate) su quali legend provare nella settimana immediatamente successiva al ban, prima che arrivino i primi risultati reali di torneo nel nuovo formato."
-    },
-    {
-      "titolo": "La CCS Riftbound Qualifier 5 letta a ritroso come indizio del metagame post-ban",
-      "fonte": "riftbound.gg (\"What does the CCS Riftbound Qualifier 5 tell us about the post-ban metagame\")",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-23",
-      "brief": "Un secondo articolo di riftbound.gg torna sui risultati della CCS Riftbound Qualifier 5, giocata prima dei ban, per individuare quali archetipi stavano già guadagnando terreno indipendentemente da Riven e che potrebbero quindi emergere più rapidamente ora che le carte bandite sono fuori rotazione. Non è stato possibile verificare l'analisi con una seconda fonte indipendente.",
-      "rilevanza": "Utile a chi si prepara agli eventi di dicembre: offre uno spunto, ancora non verificato da un torneo realmente giocato post-ban, su quali mazzi testare con il nuovo pool di carte legali."
-    },
-    {
-      "titolo": "Riot chiarisce i dettagli tecnici del ban: colpita anche l'alternate art di Riven, Corea e Cina Tradizionale esentate per ora",
-      "fonte": "playriftbound.com (annuncio ufficiale \"Radiance Ban List Updates\"), confermato da cardgamer.com e copertura di settore aggregata",
+      "titolo": "Confermato il dettaglio della terza ondata di ban Riftbound: 8 carte e 2 campi di battaglia fuori da Standard e 2v2 Constructed",
+      "fonte": "playriftbound.com (annuncio ufficiale \"Radiance Ban List Updates\", effettivo dal 23 novembre 2026), confermato da icv2.com",
       "affidabilita": "Primaria",
       "data_fatto": "2026-11-23",
-      "brief": "Riot ha precisato che il ban su Riven - Broken Blade riguarda tutte le stampe della carta, incluse le versioni alternate art, perché un ban si applica per nome carta e non per singola stampa. Le fonti indicano inoltre che Corea e la regione di Cina Tradizionale non sono toccate dalla nuova lista finché Riftbound: Radiance non uscirà anche in quei mercati.",
-      "rilevanza": "Per i collezionisti è una precisazione concreta: anche le copie più costose e da vetrina di Riven perdono l'uso competitivo ovunque il ban sia attivo, mentre chi gioca in Corea o Cina Tradizionale resta temporaneamente escluso dal cambiamento."
+      "brief": "Riot ha chiarito nei giorni successivi all'annuncio che la terza ondata di ban per Riftbound riguarda 8 carte più 2 campi di battaglia (alcune fonti di settore come icv2 arrotondavano a \"10 elementi\" contando anche i campi di battaglia, generando un po' di confusione). Tra le carte bandite risultano confermate Riven - Broken Blade, Zhonya's Hourglass, Stellacorn Herder, Nocturne - Horrifying, Rhasa the Sunderer e Brynhir Thundersong; gli altri due nomi e i due campi di battaglia non sono stati confermati in modo completo dalle fonti consultate.",
+      "rilevanza": "Per chi gioca competitivo è importante avere il conteggio esatto e i nomi precisi delle carte bandite, visto che nei giorni scorsi circolavano cifre diverse (8 vs 10) tra le fonti di settore."
     },
     {
-      "titolo": "Il mercato secondario reagisce: i prezzi di Riven e delle altre carte colpite continuano a scendere su TCGplayer",
-      "fonte": "GamesRadar, Polkastarter (che cita un'inchiesta precedente di TheGamer sul crollo di prezzo di Riven - Broken Blade alternate art)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-23",
-      "brief": "Diverse fonti di settore segnalano che il valore di Riven - Broken Blade sul mercato secondario, già in calo nelle settimane precedenti in previsione del ban, ha continuato a scendere nei giorni immediatamente successivi all'annuncio del 23 novembre. Le cifre esatte del post-ban non sono state confermate da fonti indipendenti, quindi il dato va preso come tendenza e non come valore puntuale verificato.",
-      "rilevanza": "Chi colleziona o specula sulle carte Riftbound deve sapere che un ban competitivo si riflette quasi subito sul prezzo di mercato delle carte coinvolte, anche per le versioni più rare e costose."
+      "titolo": "Riftbound: Legacy, il sesto set e primo del 2027, rivela 8 delle 12 leggende: tornano Ashe, Garen, Lux e Vladimir in stile League Classic",
+      "fonte": "riftbound.gg e sito ufficiale Riftbound (riftbound.leagueoflegends.com)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-24",
+      "brief": "Riot ha confermato 8 delle 12 leggende previste per Riftbound: Legacy, il sesto set del gioco e primo del 2027: Ashe, Garen, Heimerdinger, Illaoi, Karma, Lux, Tryndamere e Vladimir, con un'estetica delle carte ispirata al \"League of Legends Classic\". Il set uscirà il 29 gennaio 2027, con le prime anteprime previste al Convergence Fest di dicembre.",
+      "rilevanza": "Per chi colleziona e segue l'evoluzione del gioco è la prima indicazione concreta su chi e cosa troveremo nel prossimo set, utile per pianificare acquisti e aspettative di meta già da ora."
     },
     {
-      "titolo": "Perché proprio quelle carte: emergono i dettagli tecnici dietro le scelte di ban di Riot",
-      "fonte": "cardgamer.com, GamesRadar",
+      "titolo": "Convergence Fest a Las Vegas: fonti discordanti sulle date esatte (11-13 o 13-15 dicembre)",
+      "fonte": "comunicati ufficiali Riot/gamespress.com (11-13 dicembre) vs riftbound.gg (13-15 dicembre)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-23",
-      "brief": "Oltre all'elenco ufficiale, la stampa di settore ha aggiunto dettagli sul perché specifiche carte secondarie siano state bandite insieme a Riven: Stellacorn Herder viene citata come problematica perché permette ai mazzi Riven di autosostituirsi con grande efficienza, rendendo il motore della carta ancora più consistente. Non tutte le fonti concordano sui dettagli di ogni singola carta della lista.",
-      "rilevanza": "Per chi gioca a livello competitivo capire la logica dietro ogni singolo ban aiuta a prevedere quali altre combinazioni di carte Riot potrebbe considerare a rischio nei prossimi aggiornamenti."
+      "data_fatto": "2026-11-24",
+      "brief": "Il Convergence Fest, primo evento che unisce il TFT Vegas Open e il Riftbound North American Regional Championship a Las Vegas, ha date discordanti tra le fonti: i comunicati ufficiali Riot indicano 11-13 dicembre 2026, mentre una pagina di riftbound.gg parla di 13-15 dicembre. Non è stato possibile risolvere la discrepanza con le fonti consultate.",
+      "rilevanza": "Chi pianifica di partecipare o seguire l'evento (incluse le prime anteprime di Legacy) deve verificare la data esatta direttamente sul sito ufficiale prima di organizzarsi, vista la discrepanza tra le fonti."
+    },
+    {
+      "titolo": "Tier list riftbound.gg su torneo 30 ottobre-4 novembre: Riven resta la leggenda più forte, Kai'Sa e Kennen la inseguono",
+      "fonte": "riftbound.gg (\"Riftbound meta tier list - best decks for Radiance week 2\")",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-11-04",
+      "brief": "Una tier list pubblicata da riftbound.gg sui risultati dei tornei tra il 30 ottobre e il 4 novembre 2026 pone Riven saldamente in cima al meta, con Kai'Sa e Kennen in Tier 1 subito dietro. Il dato arriva da un'unica fonte e si riferisce al periodo precedente al ban del 23 novembre che ha colpito proprio Riven, quindi è probabile che il quadro sia già cambiato.",
+      "rilevanza": "Interessante soprattutto come fotografia del meta pre-ban: utile per capire perché Riot sia intervenuta con il ban, ma da non usare per scegliere il mazzo da giocare oggi."
+    },
+    {
+      "titolo": "Riot annuncia il programma Organized Play 2027 di Riftbound: Nexus Cup, Challenge Series, Regionals e Continentals",
+      "fonte": "State of the Game update ufficiale, ripreso da gamesbeat.com e gamedeveloper.com",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-20",
+      "brief": "Nel suo primo \"State of the Game\" Riot ha delineato come evolverà il circuito competitivo di Riftbound nel 2027: nasce la Nexus Cup, affiancata da Riftbound Challenge Series, Riftbound Regionals e Riftbound Continentals, una struttura più articolata rispetto al 2026. Riot ha inoltre specificato che, a partire dai ban più recenti, userà liste di ban separate per circuito competitivo invece di una lista globale unica.",
+      "rilevanza": "Per chi gioca o vuole iniziare a giocare competitivo è importante capire la nuova struttura dei circuiti 2027 e il fatto che da ora in poi una carta potrebbe essere bandita in un formato ma non in un altro."
     }
   ]
 }

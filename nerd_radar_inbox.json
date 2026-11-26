@@ -1,44 +1,52 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-26",
   "notizie": [
     {
-      "titolo": "G-STAR 2026 chiude a Busan con 1.237 aziende da 41 paesi",
-      "fonte": "The Korea Times (koreatimes.co.kr), Inven Global (invenglobal.com), The Korea Herald (heraldcorp.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "G-STAR 2026, la principale fiera videoludica della Corea del Sud, si è svolta dal 19 al 22 novembre al BEXCO di Busan con 1.237 aziende da 41 paesi su oltre 3.400 stand complessivi tra area B2C e B2B. La notizia è confermata da più testate coreane e internazionali di settore.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "G-STAR 2026 parte senza i grandi publisher coreani Nexon, NCSoft e Netmarble",
-      "fonte": "Korea JoongAng Daily (koreajoongangdaily.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "All'apertura dell'edizione 2026 di G-STAR, a Busan, sono risultati assenti per la prima volta i tre maggiori publisher coreani Nexon, NCSoft e Netmarble, segno di un peso decrescente della fiera verso i colossi domestici. La notizia, ripresa anche da altra stampa coreana di settore, segnala un cambio di strategia promozionale dei grandi gruppi verso fiere internazionali come gamescom.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red tra gli espositori internazionali di G-STAR 2026",
-      "fonte": "Inven Global (invenglobal.com), Khan Sports (sports.khan.co.kr)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "Nonostante l'assenza dei big coreani, G-STAR 2026 ha ospitato stand di publisher internazionali come Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red, confermando l'appeal della fiera di Busan per l'industria globale. I dettagli della mappa espositiva e dei contenuti presentati sono stati confermati da più testate di settore coreane prima e durante l'evento.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "BGG.CON 2026 si chiude a Dallas dopo cinque giorni",
-      "fonte": "tabletop.events (piattaforma ufficiale dell'evento), RPGGeek (rpggeek.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "Si è conclusa il 22 novembre a Dallas, all'Hyatt Regency, l'edizione 2026 di BGG.CON, una delle convention di giochi da tavolo più seguite negli Stati Uniti, iniziata il 18 novembre. L'evento resta un punto di riferimento per publisher ed editori indipendenti che presentano novità e prototipi direttamente ai giocatori.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "Milan Games Week & Cartoomics 2026: programma e ospiti confermati per il 27-29 novembre",
-      "fonte": "Il Sole 24 Ore (ilsole24ore.com), Multiplayer.it (multiplayer.it), AnimeClick (animeclick.it)",
+      "titolo": "Milan Games Week & Cartoomics 2026 apre venerdì a Fiera Milano Rho: programma e ospiti confermati",
+      "fonte": "Il Sole 24 Ore (ilsole24ore.com), Multiplayer.it, AnimeClick.it, Techprincess.it",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-11-27",
-      "brief": "La sesta edizione di Milan Games Week & Cartoomics si terrà dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni, con tema l'acqua. Tra gli ospiti confermati figurano l'illustratrice Posuka Demizu (autrice del poster ufficiale) e il cast della serie live-action di One Piece, mentre per i giochi da tavolo l'area Unplugged ospiterà editori come Asmodee, Need Games e Boose.",
+      "brief": "La sesta edizione di Milan Games Week & Cartoomics si tiene dal 27 al 29 novembre a Fiera Milano Rho, con tema l'acqua. Confermati come ospiti l'illustratrice Posuka Demizu (autrice del poster ufficiale) e il cast della serie live-action di One Piece; Sergio Bonelli Editore porta una mostra per i 40 anni di Dylan Dog. L'edizione 2025 aveva superato i 130.000 visitatori.",
+      "tipo": "fiera"
+    },
+    {
+      "titolo": "GTA 6 esce il 19 novembre con Metacritic a 99: è il punteggio più alto mai registrato per un gioco",
+      "fonte": "Smartworld.it, Punto Informatico, Euronews Italia",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-19",
+      "brief": "Grand Theft Auto VI è uscito il 19 novembre 2026 dopo tredici anni di attesa, con le prime recensioni che portano il voto medio su Metacritic a 99/100. Alcune fonti parlano di oltre 17 milioni di copie vendute e 1,65 miliardi di dollari incassati prima del lancio, ma questi dati commerciali non sono confermati ufficialmente da Take-Two e vanno presi come stime di stampa.",
+      "tipo": "videogioco"
+    },
+    {
+      "titolo": "The Game Awards 2026: GTA VI guida le nomination con 8 candidature, cerimonia il 10 dicembre",
+      "fonte": "Videogameschronicle.com, Gematsu.com, Dexerto.com",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-17",
+      "brief": "Le nomination di The Game Awards 2026 sono state annunciate il 17 novembre: Grand Theft Auto VI è il titolo più nominato con otto candidature, davanti a Control Resonant e Resident Evil Requiem. La cerimonia si terrà il 10 dicembre al Peacock Theater di Los Angeles; le nomination della categoria Player's Voice, votata dal pubblico, saranno rivelate il 30 novembre.",
+      "tipo": "fiera/evento"
+    },
+    {
+      "titolo": "The Thing: The Boardgame torna su Gamefound come nuovo gioco di carte standalone",
+      "fonte": "GodIsAGeek.com",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-24",
+      "brief": "Pendragon Game Studio ha rilanciato su Gamefound, il 24 novembre, una nuova campagna per The Thing: The Boardgame, questa volta in un formato standalone di solo gioco di carte basato sulla licenza del film di John Carpenter, dopo la precedente campagna del gioco da tavolo principale.",
+      "tipo": "gioco da tavolo"
+    },
+    {
+      "titolo": "gamescom asia x Thailand Game Show tornerà a Bangkok dal 21 al 24 ottobre 2027",
+      "fonte": "Comunicato ufficiale degli organizzatori ripreso da tradefairdates.com e showsbee.com",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-01",
+      "brief": "Gli organizzatori di gamescom asia, fusa con il Thailand Game Show, hanno annunciato alla chiusura dell'edizione 2026 che il prossimo appuntamento a Bangkok si terrà dal 21 al 24 ottobre 2027. Da non confondere con gamescom di Colonia, che nel 2027 si terrà invece dal 23 al 29 agosto.",
+      "tipo": "fiera"
+    },
+    {
+      "titolo": "Lucca Comics & Games conferma le date 2027: 28 ottobre - 1 novembre",
+      "fonte": "Senalnews.com, Tabletopgaming.co.uk",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-01",
+      "brief": "Alla chiusura della sua edizione del 60° anniversario (\"Diamond Edition\"), che ha registrato circa 800.000 visitatori, Lucca Comics & Games ha annunciato che la prossima edizione si terrà dal 28 ottobre al 1° novembre 2027.",
       "tipo": "fiera"
     }
   ]
