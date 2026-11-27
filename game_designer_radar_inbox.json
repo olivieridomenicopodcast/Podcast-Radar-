@@ -1,95 +1,86 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-27",
   "notizie": [
     {
-      "titolo": "CD Projekt Red starebbe costruendo un team tabletop interno, valuta titoli Witcher/Cyberpunk più piccoli",
-      "fonte": "BoardGameWire (boardgamewire.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-20",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Secondo BoardGameWire, CD Projekt Red starebbe mettendo in piedi un team dedicato al tabletop, valutando versioni Witcher e Cyberpunk di formato più contenuto rispetto alle grandi campagne crowdfunding fatte finora con Go On Board, insieme a nuove partnership editoriali. Per i designer è un possibile nuovo canale IP-holder che potrebbe commissionare progetti di design più piccoli e meno legati al solo crowdfunding."
-    },
-    {
-      "titolo": "Nasce Moona Games, nuovo publisher francese fondato da ex dirigenti Lucky Duck Games focalizzato sulla localizzazione",
-      "fonte": "BoardGameWire (boardgamewire.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-18",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Ex dirigenti di Lucky Duck Games hanno fondato Moona Games, nuovo editore con sede ad Angoulême che costruisce la propria strategia attorno alla localizzazione di titoli già pubblicati altrove, proprio nel segmento che Lucky Duck ha ridimensionato. Per i designer con un gioco già uscito su un mercato estero è un nuovo interlocutore potenziale per l'edizione francofona."
-    },
-    {
-      "titolo": "Osprey Games licenzia l'intero team board/card game e cancella lo stand a Essen",
-      "fonte": "BoardGameWire / Cards Realm",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Osprey Games (di proprietà Bloomsbury) ha licenziato tutto lo staff dedicato esclusivamente ai giochi da tavolo e di carte e ha rinunciato allo stand a Spiel Essen, cinque mesi dopo l'annuncio della messa in vendita del ramo boardgame. I titoli già sotto contratto restano in stand-by senza una decisione su chi li pubblicherà: un avvertimento concreto per i designer con progetti in pipeline presso editori in fase di cessione o ristrutturazione."
-    },
-    {
-      "titolo": "Nemesis: Legacy di Awaken Realms supera 114 volte l'obiettivo su Gamefound",
-      "fonte": "Zatu Games / GodIsAGeek",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "La campagna Gamefound di Nemesis: Legacy (Awaken Realms) ha superato 5,7 milioni di euro da oltre 16.600 backer, più di 114 volte l'obiettivo di 50.000 euro, finanziandosi in pochi secondi dall'apertura. Per i designer di giochi horror/cooperativi/legacy è un'ulteriore conferma della tenuta di questo segmento nel crowdfunding, in un periodo in cui altri publisher segnalano invece difficoltà."
-    },
-    {
-      "titolo": "Mantic Games porta in retail Halo: Campaign Evolved",
-      "fonte": "ICv2 (icv2.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-14",
-      "paese": "Estero",
-      "categoria": "catalogo",
-      "brief": "Mantic Games ha pubblicato in retail Halo: Campaign Evolved, gioco da tavolo su licenza del franchise Microsoft/343 Industries. Esempio recente di come un publisher specializzato in miniature/wargame rafforzi il catalogo con licenze videoludiche ad alto riconoscimento: un canale di cui i designer con competenze skirmish/miniature possono tenere conto nel proporre progetti."
-    },
-    {
-      "titolo": "Nessuna data ufficiale ancora individuata per la prossima edizione di IdeaG a Parma",
-      "fonte": "SAZ Italia / spieleautorenzunft.de (pagine storiche IDeAG)",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-24",
-      "paese": "Italia",
-      "categoria": "fiera/evento",
-      "brief": "La ricerca non ha trovato, sui canali di SAZ Italia (organizzatore di IDeAG a Parma dal 2018) né su studiogiochi.com, l'annuncio di data e sede della prossima edizione di IdeaG, l'incontro nazionale italiano tra autori di giochi, playtester e rappresentanti di case editrici. L'ultima edizione documentata nelle fonti consultate è la 18ª, svoltasi il 1-2 aprile 2023. Chi progetta giochi e vuole pianificare la partecipazione dovrebbe monitorare direttamente i canali di SAZ Italia e studiogiochi.com, dove in genere compaiono i primi annunci; è il bando del Premio Archimede 2027 (già segnalato) a confermare che l'evento è comunque attivo, offrendo come premio un ingresso omaggio a IdeaG Parma."
-    },
-    {
-      "titolo": "IDEAG 2027 confermato: 22ª edizione il 15-17 gennaio a Parma, aperte le iscrizioni per prototipi",
-      "fonte": "idea-g.it (sito ufficiale IDEAG) / ilgiocointavolo.it",
+      "titolo": "IDEAG 2027 confermato: 22ª edizione il 15-17 gennaio a Parma, aperte le iscrizioni per i prototipi",
+      "fonte": "idea-g.it (sito ufficiale IDEAG)",
       "affidabilita": "Primaria",
       "data_fatto": "2026-11-22",
       "paese": "Italia",
       "categoria": "fiera/evento",
-      "brief": "Il sito ufficiale di IDEAG (idea-g.it) ha pubblicato il calendario della 22ª edizione dell'Incontro Nazionale degli Autori di Giochi: 15-17 gennaio 2027, presso il voco by IHG Hotel Parma & Congressi. Il calendario iscrizioni prevede apertura riservata ai soci SAZ il 2 novembre, apertura generale per autori/playtester/blogger/stampa/editori l'8 novembre, apertura iscrizioni prototipi il 22 novembre (appena avvenuta), apertura iscrizioni TalkG/IDEAG Night/La Cialtronata il 6 dicembre, chiusura iscrizioni il 2 gennaio 2027 alle 23:00. È l'aggiornamento diretto, con fonte primaria, dell'informazione lasciata aperta su questo stesso evento: per i designer italiani è il momento di candidare i propri prototipi per il pitch agli editori presenti."
+      "brief": "Il sito ufficiale di IDEAG ha confermato il calendario della 22ª edizione dell'Incontro Nazionale degli Autori di Giochi, 15-17 gennaio 2027 presso il voco by IHG Hotel Parma & Congressi. Il 22 novembre si sono aperte le iscrizioni dei prototipi per autori e playtester; seguiranno il 6 dicembre le iscrizioni a TalkG, IDEAG Night e La Cialtronata, con chiusura generale il 2 gennaio 2027. Per chi progetta giochi in Italia è il momento concreto di candidare i propri prototipi per il pitch agli editori presenti."
     },
     {
-      "titolo": "Ares Games pubblicherà in inglese Yonder, gioco di piazzamento lavoratori di Sinister Fish Games",
-      "fonte": "ICv2 (icv2.com)",
+      "titolo": "Milan Games Week & Cartoomics 2026: l'area Unplugged porta in fiera Asmodee, Need Games, MS Edizioni, Pendragon, DV Games e Boose",
+      "fonte": "Il Sole 24 Ore (ilsole24ore.com)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-17",
+      "data_fatto": "2026-11-27",
       "paese": "Italia",
-      "categoria": "publisher",
-      "brief": "ICv2 riporta che l'editore italiano Ares Games pubblicherà e distribuirà l'edizione inglese di Yonder, gioco fantasy di piazzamento lavoratori ideato e illustrato da Haakon Gaarder (già autore di Villagers e Moon) e originariamente pubblicato da Sinister Fish Games su Kickstarter. Ares porterà il titolo in distribuzione retail in tarda primavera, dopo il fulfillment della campagna. Per i designer è un'ulteriore conferma che un publisher italiano come Ares sta usando la propria rete distributiva per acquisire e lanciare sul mercato anglofono titoli nati altrove, un canale potenzialmente interessante anche per progetti italiani con ambizioni internazionali."
+      "categoria": "fiera/evento",
+      "brief": "La sesta edizione di Milan Games Week & Cartoomics si tiene dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni. Nell'area dedicata ai giochi da tavolo, Unplugged, sono presenti gli editori Asmodee, Need Games, MS Edizioni, Pendragon, DV Games e Boose, oltre a un'area dedicata a Magic. Per i designer è un'occasione diretta per osservare quali editori italiani e internazionali presidiano il retail generalista in questo momento, utile per orientare a chi proporre un progetto."
     },
     {
-      "titolo": "Ares Games estende la distribuzione europea con un accordo con lo spagnolo Draco Ideas/Eclipse Editorial",
-      "fonte": "BoardGameWire / ICv2",
+      "titolo": "Asmodee Italia porta oggi in uscita Il Signore degli Anelli: La Sfida, DC Super Heroes United - Batman Hush e Taco VS Burrito",
+      "fonte": "Geek.pizza e pagina eventi ufficiale Asmodee Italia (asmodee.it/events)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-12",
+      "data_fatto": "2026-11-27",
       "paese": "Italia",
-      "categoria": "publisher",
-      "brief": "Ares Games (editore italiano con sede a Roma e magazzino UE in Italia) ha ampliato la propria attività di distribuzione europea firmando un accordo con l'editore spagnolo Draco Ideas/Eclipse Editorial (le due etichette, una dedicata a giochi storici e l'altra a giochi narrativi/familiari, si sono fuse nel 2023), confermato sia da BoardGameWire che da ICv2. L'accordo si aggiunge ai partner già esistenti (Galakta Games in Polonia, Tabula Games in Italia, Albi in Repubblica Ceca, Nuts! Publishing in Francia). Per i designer è un segnale di come un editore italiano stia costruendo un hub distributivo paneuropeo, un canale potenziale per la diffusione di titoli al di fuori del solo mercato nazionale."
+      "categoria": "catalogo",
+      "brief": "Secondo la pagina eventi ufficiale di Asmodee Italia, oggi 27 novembre escono in contemporanea Il Signore degli Anelli: La Sfida, DC Super Heroes United - Batman Hush e il party game Taco VS Burrito, in un mese di novembre particolarmente carico di uscite per l'editore. Per i designer è un indicatore di quanto spazio di scaffale un grande distributore generalista dedichi in questo periodo a licenze (Tolkien, DC) rispetto a titoli party/filler."
     },
     {
-      "titolo": "Giochi Uniti pubblica The Social Contract, primo gioco da tavolo di Factanza Media, presentato a Lucca Comics & Games 2026",
-      "fonte": "AGI (agi.it) / SpazioGames",
+      "titolo": "Cranio Creations annuncia quattro nuovi titoli per l'autunno, tra cui Greenwood e Kingdom Legacy - Il Regno Feudale",
+      "fonte": "Nerdgames.it (nerdgames.it)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-26",
+      "paese": "Italia",
+      "categoria": "catalogo",
+      "brief": "Cranio Creations ha annunciato quattro nuovi titoli in uscita per l'autunno 2026, tra cui Greenwood e Kingdom Legacy - Il Regno Feudale, gioco di campagna in solitario con forte componente esplorativa. Per i designer italiani è un segnale di quali generi (campagna/legacy, giochi solitario-friendly) un editore generalista come Cranio sta scegliendo di rafforzare in catalogo in questa fase."
+    },
+    {
+      "titolo": "Gioco dell'Anno 2026 a Lucca Comics & Games: in gara 70 titoli presentati da 29 editori",
+      "fonte": "SpazioGames (spaziogames.it)",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-10-28",
       "paese": "Italia",
+      "categoria": "premio/evento",
+      "brief": "Per l'edizione 2026 del premio Gioco dell'Anno, assegnato durante Lucca Comics & Games, sono stati presentati in gara 70 titoli (50 giochi da tavolo e 20 di ruolo) da 29 editori diversi. Per chi fa game design è un termometro utile di quanti editori italiani sono attivi e dispostia sottoporre novità a un premio di questo peso, e su quali generi si concentra l'offerta dell'anno."
+    },
+    {
+      "titolo": "Chaosium ferma il remake crowdfunded di Forbidden Stars dopo la condanna del designer Samuel Bailey per reati sessuali su minori",
+      "fonte": "BoardGameWire (buttondown.com/boardgamewire)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-16",
+      "paese": "Estero",
+      "categoria": "publisher",
+      "brief": "Chaosium ha sospeso tutti i lavori sul remake crowdfunded di Forbidden Stars (Old Ones Origins) dopo che il designer coinvolto nel progetto, Samuel Bailey, è stato condannato per reati sessuali su minori. L'editore ha dichiarato a BoardGameWire di aver fermato ogni attività sul progetto e di essere in consulenza legale sui prossimi passi. Per chi lavora come designer o freelance è un caso che mostra quanto in fretta un publisher possa dover congelare un intero progetto per fatti legati a una singola persona del team creativo."
+    },
+    {
+      "titolo": "Allplay (Asmodee) pubblicherà Zoo Vadis, nuovo gioco di Reiner Knizia, il 31 dicembre",
+      "fonte": "ICv2 (icv2.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-03",
+      "paese": "Estero",
       "categoria": "catalogo",
-      "brief": "Giochi Uniti ha pubblicato The Social Contract, il primo gioco da tavolo prodotto da Factanza Media, nato come risposta alla polarizzazione sociale e pensato per portare il tema della convivenza civile al tavolo da gioco. Il game design è di Dario Massa, mentre Factanza ha curato ambientazione, testi, grafica e direzione artistica (illustrazioni di Carlo Esposito/Carlo Dowggy); Giochi Uniti ha gestito sviluppo, stesura del regolamento, produzione e rapporti con i fornitori. Il gioco, per 2-6 giocatori dai 12 anni in su (circa 50 minuti), è stato messo in pre-ordine dal 28 ottobre e presentato a Lucca Comics & Games (28 ottobre-1 novembre). Per i designer è un esempio concreto di un editore generalista italiano che si apre a una collaborazione editoriale con un media brand per un gioco a tema civico/divulgativo, un genere ancora poco esplorato nel catalogo mainstream italiano."
+      "brief": "ICv2 riporta che Allplay, tramite la rete distributiva Asmodee, porterà in retail Zoo Vadis, nuovo titolo di Reiner Knizia, con uscita fissata al 31 dicembre 2026. Per i designer è un'ulteriore conferma di quanto gli editori di piazzamento/area-majority continuino a puntare su autori di fama consolidata come Knizia per aprire nuove linee in retail generalista."
+    },
+    {
+      "titolo": "Dice Throne espande la localizzazione europea con nuovi partner: edizione francese e maggiore distribuzione retail nel Regno Unito",
+      "fonte": "License Global (licenseglobal.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-11",
+      "paese": "Estero",
+      "categoria": "distribuzione/localizzazione",
+      "brief": "Il publisher di Dice Throne ha annunciato nuove partnership che portano un'edizione in lingua francese del gioco e una distribuzione retail più ampia nel Regno Unito, oltre a un negozio online dedicato per il mercato europeo. Per chi progetta giochi è un caso concreto di come un titolo nato come crowdfunding/nicchia costruisca, passo dopo passo, una rete di localizzazione europea separata dal mercato americano d'origine."
+    },
+    {
+      "titolo": "BGG.CON 2026 si chiude a Dallas dopo cinque giorni, tra le convention più seguite dagli editori indipendenti USA",
+      "fonte": "tabletop.events (piattaforma ufficiale dell'evento)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-22",
+      "paese": "Estero",
+      "categoria": "fiera/evento",
+      "brief": "Si è conclusa il 22 novembre a Dallas, all'Hyatt Regency, l'edizione 2026 di BGG.CON, iniziata il 18 novembre: una delle convention statunitensi dove publisher indipendenti ed emergenti presentano novità e prototipi direttamente al pubblico di giocatori, senza il filtro della grande distribuzione. Per i designer che guardano al mercato americano è un punto di osservazione diretto su quali piccoli editori stanno guadagnando visibilità."
     }
   ]
 }

@@ -1,47 +1,47 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-27",
   "notizie": [
     {
-      "titolo": "CQ World Wide DX Contest CW 2026 al via il weekend del 28-29 novembre",
-      "fonte": "CQWW (cqww.com, regolamento ufficiale 2026) e ContestCalendar.com",
+      "titolo": "CQ World Wide DX Contest CW 2026 parte questo weekend, 28-29 novembre",
+      "fonte": "CQWW (cqww.com, regolamento ufficiale 2026) e DXZone.com",
       "affidabilita": "Primaria",
       "data_fatto": "2026-11-28",
-      "brief": "Il regolamento ufficiale pubblicato da CQWW fissa l'edizione CW del CQ World Wide DX Contest 2026 dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre. La data è confermata in modo indipendente anche da un calendario contest di terze parti (ContestCalendar.com), quindi è una scadenza imminente e certa per chi opera in HF nei prossimi giorni."
+      "brief": "Il regolamento ufficiale pubblicato da CQWW confirma l'edizione CW 2026 del CQ World Wide DX Contest dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre. È uno dei contest HF più seguiti al mondo e cade nel fine settimana immediatamente successivo a oggi, quindi è una scadenza imminente per chi vuole prepararsi."
     },
     {
-      "titolo": "DXpedition da Lesotho attiva in queste ore, ma con sigla incerta tra 7P8EA e 7P9EA",
-      "fonte": "DXZone.com, pagine evento DXpedition",
-      "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-24",
-      "brief": "DXZone riporta un'attivazione in corso da Lesotho da parte dell'operatore HB9CCS, in CW/SSB, con fine operazioni indicata al 25 novembre 2026. Due pagine dello stesso sito indicano però sigle diverse (7P8EA e 7P9EA) con QSL route differenti, quindi il dato non è verificato in modo indipendente: da confermare tramite il bollettino 425 DX News o l'annuncio originale dell'operatore."
-    },
-    {
-      "titolo": "DXpedition C8K da Mozambico conclusa il 20 novembre",
-      "fonte": "cq.sk, pagina evento DXpedition",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-20",
-      "brief": "La pagina dedicata di cq.sk indica per l'operazione C8K dal Mozambico un arrivo del team il 9 novembre e una partenza il 20 novembre 2026, quindi l'attivazione risulta terminata pochi giorni fa. Il DXCC resta comunque di interesse per chi non avesse ancora effettuato il collegamento nella finestra operativa."
-    },
-    {
-      "titolo": "NOAA: dopo il G1 minore del 17-18 novembre, condizioni geomagnetiche tornate quiete",
-      "fonte": "NOAA Space Weather Prediction Center (mirror SpaceWeatherLive/Watchers.news)",
+      "titolo": "DXpedition VK9XY da Christmas Island in corso fino al 4 dicembre, con giovani operatori YOTA da remoto",
+      "fonte": "Wireless Institute of Australia (wia.org.au, comunicato del 27 luglio 2026)",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-11-19",
-      "brief": "NOAA aveva emesso un'allerta per tempeste geomagnetiche minori G1 (Kp previsto 4.67) tra la sera del 17 e la mattina del 18 novembre, causate da un flusso da buco coronale e da un possibile effetto marginale di una CME. La previsione a 3 giorni emessa il 19 novembre per la finestra 20-22 novembre indicava invece un ritorno a condizioni quiete, con Kp massimo atteso di 3.67 e nessuna tempeta G1 prevista: utile contesto per chi valuta le aperture HF nei giorni scorsi la settimana del contest CQWW."
+      "data_fatto": "2026-11-16",
+      "brief": "Il Pacific Islands DXpedition Group, in collaborazione con il programma Youth on the Air, sta attivando Christmas Island (VK9X) con il nominativo VK9XY dal 16 novembre al 4 dicembre 2026. L'operazione coinvolge anche 30-40 giovani operatori da tutto il mondo che partecipano da remoto, un modello interessante per chi segue sia il DX che la formazione dei nuovi radioamatori."
     },
     {
-      "titolo": "eBay limita la vendita di apparati radio trasmittenti dopo le nuove regole FCC",
-      "fonte": "ARRL (arrl.org), notizia del 16 ottobre 2026",
+      "titolo": "DXpedition da Tokelau (ZK3) attesa nelle ultime due settimane di novembre, date esatte ancora da confermare",
+      "fonte": "Bollettini 425 DX News e cq.sk; permesso ufficiale riportato da ARNewsline (arnewsline.org, 6 agosto 2026)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "brief": "Secondo ARRL, eBay ha introdotto restrizioni sulle inserzioni di apparati radio trasmittenti in risposta a nuove regole FCC, esentando però gli apparati che operano esclusivamente sulle bande radioamatoriali. La notizia non è delle ultime 48 ore ma resta rilevante per chi compra o vende transceiver di seconda mano online, essendo tuttora in vigore."
+      "data_fatto": "2026-11-27",
+      "brief": "Il team che punta a Tokelau, uno dei DXCC più richiesti, ha ottenuto il permesso scritto delle autorità locali in agosto e ha annunciato di voler operare nelle ultime due settimane di novembre 2026, con partenza da Apia (Samoa) e circa 30 ore di traghetto. Le date esatte dipendono ancora dal calendario dei traghetti locali e non sono state confermate da una fonte primaria indipendente al momento di questa ricerca."
     },
     {
-      "titolo": "Hamlib 4.7.2 corregge una vulnerabilità di sicurezza in rigctld",
-      "fonte": "Note di rilascio del progetto Hamlib (mailing list SourceForge, ripresa dal port FreeBSD)",
+      "titolo": "Kenwood TM-D750A, mobile tribanda APRS/D-STAR, in spedizione negli USA dall'11 novembre",
+      "fonte": "DX Engineering (dxengineering.com, pagina prenotazioni) e JVCKenwood (comunicato ufficiale)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-11",
+      "brief": "Dopo l'annuncio in Giappone dei modelli TM-D750/TM-D750S a fine luglio 2026, la versione statunitense tribanda TM-D750A ha ricevuto la certificazione FCC ed è entrata in produzione; il rivenditore DX Engineering indicava come data stimata di spedizione delle prenotazioni l'11 novembre 2026. È una delle novità hardware più concrete della stagione per chi usa APRS e D-STAR in mobile."
+    },
+    {
+      "titolo": "Hamlib, libreria di controllo rig (CAT) alla base di molti software, punta a una versione 5.0 con rottura di API/ABI",
+      "fonte": "Mailing list sviluppatori Hamlib (SourceForge) e TWIAR (twiar.net)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-01",
+      "brief": "Dopo essere stata premiata nel 2026 come miglior software radioamatoriale dell'anno, Hamlib resta la libreria di riferimento per il controllo remoto (CAT) dei ricetrasmettitori usata da moltissimi programmi di stazione. Il mantenitore ha indicato che una versione 5.0, che romperà compatibilità API/ABI con i programmi che la usano direttamente, potrebbe arrivare entro un anno; chi sviluppa o usa software di stazione dovrebbe monitorare l'evoluzione prima di aggiornamenti importanti."
+    },
+    {
+      "titolo": "NOAA: nessuna nuova tempesta geomagnetica rilevante dopo i G1 minori dell'8-9 novembre, condizioni attese stabili per il weekend del CQWW",
+      "fonte": "NOAA Space Weather Prediction Center (mirror SpaceWeatherLive)",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-06-21",
-      "brief": "La versione 4.7.2 della libreria Hamlib, usata da molti software di controllo rig (CAT), corregge un bug di scrittura fuori dai limiti nel comando send_raw di rigctld, catalogato come CVE-2026-54634. Non è una novità delle ultimissime ore, ma è il più recente aggiornamento di sicurezza verificabile del progetto e resta pertinente per chi non abbia ancora aggiornato il proprio software di stazione."
+      "data_fatto": "2026-11-09",
+      "brief": "I bollettini NOAA più recenti reperiti segnalano condizioni geomagnetiche minori (G1) l'8 e il 9 novembre, legate a un flusso da buco coronale, senza nuovi eventi rilevanti annunciati per la settimana del 24-27 novembre. In assenza di allerte più recenti, le condizioni HF per il weekend del CQ World Wide DX Contest CW (28-29 novembre) risultano al momento senza criticità note, ma va verificato il bollettino aggiornato a 3 giorni su swpc.noaa.gov a ridosso del contest."
     }
   ]
 }

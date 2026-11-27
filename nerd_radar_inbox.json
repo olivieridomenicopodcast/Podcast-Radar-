@@ -1,45 +1,53 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-27",
   "notizie": [
     {
-      "titolo": "G-STAR 2026 chiude a Busan con 1.237 aziende da 41 paesi",
-      "fonte": "The Korea Times (koreatimes.co.kr), Inven Global (invenglobal.com), The Korea Herald (heraldcorp.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "G-STAR 2026, la principale fiera videoludica della Corea del Sud, si è svolta dal 19 al 22 novembre al BEXCO di Busan con 1.237 aziende da 41 paesi su oltre 3.400 stand complessivi tra area B2C e B2B. La notizia è confermata da più testate coreane e internazionali di settore.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "G-STAR 2026 parte senza i grandi publisher coreani Nexon, NCSoft e Netmarble",
-      "fonte": "Korea JoongAng Daily (koreajoongangdaily.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "All'apertura dell'edizione 2026 di G-STAR, a Busan, sono risultati assenti per la prima volta i tre maggiori publisher coreani Nexon, NCSoft e Netmarble, segno di un peso decrescente della fiera verso i colossi domestici. La notizia, ripresa anche da altra stampa coreana di settore, segnala un cambio di strategia promozionale dei grandi gruppi verso fiere internazionali come gamescom.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red tra gli espositori internazionali di G-STAR 2026",
-      "fonte": "Inven Global (invenglobal.com), Khan Sports (sports.khan.co.kr)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "Nonostante l'assenza dei big coreani, G-STAR 2026 ha ospitato stand di publisher internazionali come Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red, confermando l'appeal della fiera di Busan per l'industria globale. I dettagli della mappa espositiva e dei contenuti presentati sono stati confermati da più testate di settore coreane prima e durante l'evento.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "BGG.CON 2026 si chiude a Dallas dopo cinque giorni",
-      "fonte": "tabletop.events (piattaforma ufficiale dell'evento), RPGGeek (rpggeek.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "Si è conclusa il 22 novembre a Dallas, all'Hyatt Regency, l'edizione 2026 di BGG.CON, una delle convention di giochi da tavolo più seguite negli Stati Uniti, iniziata il 18 novembre. L'evento resta un punto di riferimento per publisher ed editori indipendenti che presentano novità e prototipi direttamente ai giocatori.",
-      "tipo": "fiera"
-    },
-    {
-      "titolo": "Milan Games Week & Cartoomics 2026: programma e ospiti confermati per il 27-29 novembre",
-      "fonte": "Il Sole 24 Ore (ilsole24ore.com), Multiplayer.it (multiplayer.it), AnimeClick (animeclick.it)",
+      "titolo": "Milan Games Week & Cartoomics 2026 apre oggi a Fiera Milano Rho, tra One Piece e Dylan Dog",
+      "fonte": "Italia.it, Multiplayer.it, Il Sole 24 Ore, AnimeClick.it",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-11-27",
-      "brief": "La sesta edizione di Milan Games Week & Cartoomics si terrà dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni, con tema l'acqua. Tra gli ospiti confermati figurano l'illustratrice Posuka Demizu (autrice del poster ufficiale) e il cast della serie live-action di One Piece, mentre per i giochi da tavolo l'area Unplugged ospiterà editori come Asmodee, Need Games e Boose.",
+      "brief": "Da oggi al 29 novembre, Fiera Milano Rho ospita la sesta edizione di Milan Games Week & Cartoomics su quattro padiglioni, con il cast della serie live-action di One Piece tra gli ospiti e il poster ufficiale firmato dall'illustratrice Posuka Demizu. Sergio Bonelli Editore porta una mostra speciale per i 40 anni di Dylan Dog, mentre l'area Unplugged ospita editori di giochi da tavolo come Asmodee, Need Games e Boose. L'edizione 2025 aveva superato i 130.000 visitatori.",
       "tipo": "fiera"
+    },
+    {
+      "titolo": "The Elder Scrolls VI si chiama ufficialmente Sentinel ed è ambientato a Hammerfell",
+      "fonte": "Bethesda Game Studios/Xbox Game Studios, ripreso da playnews.gg, Gematsu, Digital Citizen",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-03",
+      "brief": "Bethesda ha confermato in un breve teaser, in coda al video per i 40 anni dello studio, il sottotitolo ufficiale del prossimo Elder Scrolls: Sentinel, ambientato nella provincia di Hammerfell. Non è stata annunciata ancora nessuna data di uscita né le piattaforme. La notizia è di qualche settimana fa ma resta uno degli annunci più discussi del mese nella community videoludica.",
+      "tipo": "annuncio videogioco"
+    },
+    {
+      "titolo": "PAX Unplugged 2026 confermato a Philadelphia dal 4 al 6 dicembre",
+      "fonte": "sito ufficiale PAX (paxsite.com), GamingTrend, PhillyVoice",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-20",
+      "brief": "La convention dedicata ai giochi da tavolo PAX Unplugged tornerà al Pennsylvania Convention Center di Philadelphia dal 4 al 6 dicembre 2026, con orari dalle 10 a mezzanotte venerdì e sabato. È uno dei principali eventi nordamericani del settore, di riferimento per editori indipendenti e publisher che presentano novità e prototipi al pubblico.",
+      "tipo": "fiera"
+    },
+    {
+      "titolo": "GTA VI batte ogni record di preordini: secondo Sensor Tower oltre 9,7 milioni di copie prima del lancio",
+      "fonte": "Sensor Tower, ripreso da Tech4Gamers, GTAboom, TechRadar",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-18",
+      "brief": "Secondo le stime di Sensor Tower (non confermate ufficialmente da Rockstar o Take-Two), GTA VI avrebbe superato i 9,7 milioni di copie preordinate, scavalcando il primato di Cyberpunk 2077 come gioco più preordinato di sempre. Sony ha confermato separatamente che il titolo ha battuto il record di preordini dello store PlayStation.",
+      "tipo": "annuncio videogioco"
+    },
+    {
+      "titolo": "The Game Awards 2026: GTA VI guida le nomination, votazione pubblica dal 30 novembre",
+      "fonte": "Gematsu, Dexerto, HollywoodLife",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-17",
+      "brief": "The Game Awards ha reso note le nomination per l'edizione 2026 (cerimonia il 10 dicembre a Los Angeles): GTA VI guida con otto candidature, in corsa per Gioco dell'Anno insieme a 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem e The Legend of Zelda: Ocarina of Time. Le fonti divergono sul numero esatto di giurati coinvolti nella selezione.",
+      "tipo": "evento"
+    },
+    {
+      "titolo": "Nemesis: Legacy di Awaken Realms chiude la campagna Gamefound oltre i 5,7 milioni di euro",
+      "fonte": "Gamefound, ripreso da Zatu Games e GodIsAGeek",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-25",
+      "brief": "La campagna di crowdfunding di Nemesis: Legacy, nuovo gioco horror/cooperativo di Awaken Realms, ha chiuso la raccolta sopra i 5,7 milioni di euro da oltre 16.600 backer, più di 114 volte l'obiettivo iniziale di 50.000 euro. La consegna ai backer è prevista per novembre 2027.",
+      "tipo": "gioco da tavolo"
     }
   ]
 }

@@ -1,118 +1,118 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-27",
   "notizie": [
     {
-      "titolo": "Spotify testa un bottone per saltare le pubblicità dei podcast, tranne le sue",
-      "fonte": "Podnews (podnews.net/article/spotify-threat-ad-skipping) e pagina di supporto ufficiale Spotify per i creator, confermato da Semafor, TechRadar, Android Authority e Digital Music News",
+      "titolo": "Apple porta i video podcast gratis anche su Apple TV: li guarderanno su smart TV e console",
+      "fonte": "Digital Trends, Gizmodo, 9to5Mac, iPhone in Canada (basati su un report del New York Times)",
       "affidabilita": "Primaria",
-      "voto_in_target": 8,
-      "data_fatto": "2026-08-04",
+      "voto_in_target": 7,
+      "data_fatto": "2026-11-16",
       "mercato": "Internazionale",
-      "brief": "Spotify ha introdotto, per alcuni abbonati Premium in mercati selezionati come USA e UK, un pulsante \"Skip ahead\" che fa saltare con un solo tap interi blocchi pubblicitari, intro e sponsorizzazioni dirette dentro gli episodi. Il pulsante non si applica alle inserzioni vendute direttamente da Spotify, che restano non saltabili anche per i Premium: una scelta che l'industria ha definito una minaccia concreta per chi vive di sponsor diretti. Spotify dichiara che è un test e che raccoglie feedback da editori e inserzionisti.",
+      "brief": "Apple ha iniziato il 16 novembre 2026, nella beta 27.3, il test di una nuova sezione gratuita dedicata ai video podcast dentro l'app Apple TV, pensata per raggiungere oltre un miliardo di dispositivi (smart TV, Roku, console, chiavette streaming) senza bisogno di un abbonamento Apple TV+. Gli episodi pubblicati su Apple Podcasts dovrebbero comparire in automatico, tranne quelli riservati agli abbonati. Apple non ha ancora detto quando uscirà per tutti né come remunererà le visualizzazioni video dei creator.",
       "angoli_contenuto": [
-        "Perché affidarsi solo alla pubblicità per monetizzare un podcast oggi è più fragile di un anno fa",
-        "Cosa cambia tra un annuncio venduto da Spotify e una sponsorizzazione diretta nel tuo episodio",
-        "Diversificare le entrate (membership, affiliazioni, prodotti propri): perché non puoi dipendere da un solo canale"
+        "Cosa significa per chi fa video podcast avere una vetrina gratuita sulle smart TV di tutto il mondo",
+        "Perché Apple insegue YouTube sul salotto di casa, e cosa cambia per chi pubblica solo audio",
+        "Come preparare oggi un episodio perché sia pronto quando la sezione video arriverà anche sulla tua TV"
       ],
       "hook_tiktok": [
-        "Hai passato ore a scrivere il copy perfetto per lo sponsor del tuo episodio? Su Spotify c'è un bottone nuovo che lo salta con un tap solo, a meno che la pubblicità non la venda Spotify stessa. Indovina chi ci guadagna.",
-        "Vivi di sponsorizzazioni dirette nel tuo podcast? Spotify ha appena reso più facile ignorarle del tutto per chi ascolta, mentre le sue pubblicità restano intoccabili. Capito l'andazzo?",
-        "Pensavi che il problema del tuo podcast fosse la qualità audio? Forse, ma ora c'è pure un bottone che fa sparire la tua pubblicità in un secondo. Parliamone prima che tu scopra i numeri in calo."
+        "Hai sempre pensato che il tuo podcast con video valesse solo per chi lo guarda sul telefono mentre lava i piatti? Apple sta testando una sezione gratis dentro Apple TV che lo porta dritto sulla smart TV di salotto, senza abbonamento.",
+        "Fai ancora solo audio perché 'chi se lo guarda il podcast'? Apple ha appena messo in beta un posto apposito per i video podcast su un miliardo di dispositivi, dalla console alla chiavetta. Ripensaci.",
+        "Pensavi che per finire in TV ti serviva un contratto con Sky? Apple sta testando una scorciatoia gratuita per chiunque pubblichi video podcast, anche tu, anche dal salotto di casa tua."
       ]
     },
     {
-      "titolo": "Spotify lancia le Memberships in 34 mercati: ai creator resta il 90% degli incassi",
-      "fonte": "Spotify Newsroom/Creators (creators.spotify.com/resources/news/investor-day-2026) e GSMArena, PPC Land, Digital Trends, Betanews",
-      "affidabilita": "Primaria",
-      "voto_in_target": 8,
-      "data_fatto": "2026-10-20",
-      "mercato": "Internazionale",
-      "brief": "Il 20 ottobre 2026 Spotify ha avviato il rollout globale delle Memberships, un abbonamento diretto fan-to-creator in stile Patreon integrato nell'app, disponibile in 34 mercati. Chi aderisce trattiene il 90% dei ricavi generati dagli iscritti, e lo strumento si affianca a pubblicità, sponsorizzazioni dirette e Spotify Partner Program come ulteriore fonte di reddito per chi fa podcast.",
-      "angoli_contenuto": [
-        "Come funzionano davvero le Memberships di Spotify e a chi convengono rispetto a Patreon",
-        "90% a chi crea contenuti: perché questa percentuale è più generosa della media del settore",
-        "Pubblicità, sponsor o membership: come scegliere la fonte di reddito giusta in base al tuo pubblico"
-      ],
-      "hook_tiktok": [
-        "Hai sempre avuto paura a chiedere soldi direttamente ai tuoi ascoltatori più fedeli? Spotify ha appena messo uno strumento per farlo dentro l'app, e tiene per sé solo il 10%. Il resto resta tuo.",
-        "Ti sei sempre chiesto se aprire un Patreon per il podcast ne valesse la pena? Ora la domanda cambia, perché lo stesso meccanismo esiste già dentro Spotify, in 34 paesi, con una commissione bassissima.",
-        "Pensi che solo i podcast enormi possano chiedere un abbonamento ai fan? Spotify ha appena abbassato la soglia d'ingresso per tutti: la domanda vera è se il tuo pubblico è pronto a pagarti direttamente."
-      ]
-    },
-    {
-      "titolo": "Maono lancia il PD500W, microfono ibrido wireless per chi registra video podcast in giro",
-      "fonte": "Notebookcheck (notebookcheck.net), confermato da NewsShooter, TVBEurope e MusicTech",
+      "titolo": "Apple sceglie 'Baby, this is Keke Palmer' come podcast dell'anno 2026: vince un'intervista, non un true crime",
+      "fonte": "Apple Newsroom, ripreso da testate di settore internazionali",
       "affidabilita": "Secondaria",
       "voto_in_target": 5,
-      "data_fatto": "2026-11-09",
+      "data_fatto": "2026-11-17",
       "mercato": "Internazionale",
-      "brief": "Dopo una campagna Kickstarter che ha più che raddoppiato l'obiettivo di raccolta, il microfono Maono PD500W è diventato disponibile a livello globale all'inizio di novembre 2026. Registra in 32-bit float, supporta connessione USB-C, XLR e wireless 2,4GHz, e il ricevitore può gestire due microfoni insieme, pensato per interviste o conversazioni in movimento.",
+      "brief": "Il 17 novembre 2026 Apple ha nominato 'Baby, this is Keke Palmer' Show of the Year 2026 nel suo riconoscimento annuale, premiando un programma di interviste condotto dall'attrice e content creator per qualità e impatto culturale. La scelta confirma che il formato intervista, spesso considerato meno 'spettacolare' di true crime o narrativa, resta uno dei generi premiati dalle piattaforme.",
       "angoli_contenuto": [
-        "32-bit float su un microfono accessibile: perché questa tecnologia ti salva da un audio clippato per sempre",
-        "Microfono wireless vs cablato per registrare fuori studio: quando ha senso l'investimento",
-        "Prima di comprare un microfono nuovo, chiediti se il problema è davvero il microfono"
+        "Perché un podcast di interviste ben fatto batte ancora i generi più 'rumorosi' come true crime",
+        "Cosa rende un'intervista podcast memorabile secondo chi la giudica a livello editoriale",
+        "Costruire un format intervista riconoscibile: lezioni da un podcast premiato come show dell'anno"
       ],
       "hook_tiktok": [
-        "Hai rovinato una registrazione perché l'ospite ha riso troppo forte e il microfono ha clippato tutto? Il 32-bit float esiste apposta per quello, e ora arriva anche su un microfono wireless pensato per chi gira fuori dallo studio.",
-        "Fai interviste in giro e sei stufo dei cavi che si impigliano ovunque? È uscito un microfono che fa wireless, USB-C e XLR insieme, con due capsule che si sincronizzano se parlano due persone insieme.",
-        "Prima di aggiungere un altro microfono al cassetto di quelli che non usi mai, guarda questo: registrazione a prova di errore anche se qualcuno ti urla dentro il microfono."
+        "Pensi che per vincere bisogna fare true crime o liti urlate? Apple ha appena premiato come podcast dell'anno un programma di sole interviste. La sostanza batte il rumore, sempre.",
+        "Hai paura che il tuo format 'solo chiacchiere con un ospite' sia troppo semplice per emergere? Il podcast dell'anno secondo Apple è esattamente questo: due persone che parlano bene.",
+        "Stai pensando di abbandonare le interviste per qualcosa di più 'acchiappa click'? Prima guarda cosa ha appena premiato Apple come miglior podcast del 2026."
       ]
     },
     {
-      "titolo": "Il mercato globale dei podcast vale 9,2 miliardi di dollari: la crescita arriva soprattutto dal video",
-      "fonte": "Owl & Co., 2025 Global Podcast Economy Report, ripreso da Podnews, Bloomberg, Tubefilter e Barrett Media",
-      "affidabilita": "Secondaria",
-      "voto_in_target": 6,
-      "data_fatto": "2026-05-20",
-      "mercato": "Internazionale",
-      "brief": "Il report annuale di Owl & Co. stima i ricavi globali del settore podcast a 9,2 miliardi di dollari nel 2025, +23% sul 2024 (7,5 miliardi). La pubblicità diretta resta la voce principale (5,3 miliardi, +28%), ma secondo l'analisi di Bloomberg il 73% della crescita del mercato USA nel 2025 è arrivata da ricavi legati al video. In Europa, Medio Oriente e Africa il podcast pesa invece solo circa il 2% della spesa pubblicitaria digitale totale.",
-      "angoli_contenuto": [
-        "Perché il video sta diventando la parte che cresce di più nei ricavi podcast, e cosa significa se fai solo audio",
-        "Il podcast come business è ancora piccolo rispetto alla pubblicità digitale totale: aspettative realistiche sui guadagni",
-        "Pubblicità diretta vs programmatica: dove vanno davvero i soldi nel settore oggi"
-      ],
-      "hook_tiktok": [
-        "Pensi che il video podcast sia solo una moda per chi ha tempo da perdere con la telecamera? Nei dati del settore, quasi tre quarti della crescita dei ricavi passa proprio da lì.",
-        "Ti aspettavi di vivere di solo podcast entro un anno? I numeri del settore dicono che il business esiste e cresce, ma resta ancora piccolissimo rispetto alla pubblicità digitale in generale. Gestisci le aspettative.",
-        "Fai ancora solo audio e pensi che basti? I dati globali sui ricavi podcast raccontano un'altra storia, e la differenza la fa quasi sempre chi ha anche una telecamera puntata addosso."
-      ]
-    },
-    {
-      "titolo": "Il Festival del Podcasting festeggia dieci anni a Milano, tra industry e creator",
-      "fonte": "Sky TG24 (tg24.sky.it), Il Sole 24 Ore, ItaliaOggi e MilanoFinanza, confermato dal comunicato ufficiale ripreso da Podnews",
-      "affidabilita": "Secondaria",
-      "voto_in_target": 5,
-      "data_fatto": "2026-10-02",
-      "mercato": "Italia",
-      "brief": "Il 2 e 3 ottobre 2026 Milano ha ospitato la decima edizione del Festival del Podcasting, diretto da Ester Memeo e organizzato da Podstar, a Cascina Triulza (MIND): Industry Day il venerdì per brand, piattaforme e produttori, Creator Day il sabato aperto a chi fa podcast. Tra gli sponsor figurano Acast, Audible, Steady e Yamaha Pro Audio, con Sony come sponsor tecnico; nell'occasione è stata presentata anche la nuova ricerca NielsenIQ per Audible sulle abitudini d'ascolto in Italia.",
-      "angoli_contenuto": [
-        "Perché andare a un evento di settore conviene anche se il tuo podcast è piccolissimo",
-        "Cosa dicono le marche audio pro (Yamaha, Sony) quando sponsorizzano un festival di podcast",
-        "Networking reale vs gruppi Facebook: cosa ti porti a casa da due giorni pensati solo per chi fa podcast"
-      ],
-      "hook_tiktok": [
-        "Fai podcast da casa e pensi che gli eventi di settore siano solo per chi ha già successo? A Milano da dieci anni esiste un festival nato apposta per metterti nella stessa stanza di chi i podcast li fa per lavoro.",
-        "Ti senti solo mentre monti il tuo episodio alle due di notte? In Italia c'è un festival dedicato interamente a questo, con una giornata pensata solo per i creator come te, non solo per i brand.",
-        "Pensi che il podcasting italiano sia ancora un hobby di nicchia? Un festival dedicato è arrivato alla decima edizione, con sponsor come Yamaha e Sony che ci mettono la faccia. Qualcosa vorrà dire."
-      ]
-    },
-    {
-      "titolo": "Spreaker aggiunge la distribuzione con un tocco e rende gratuito per tutti il tool di registrazione da browser",
-      "fonte": "Spreaker/iHeartMedia (news.spreaker.com)",
+      "titolo": "Sky lancia Voices, il primo canale tutto dedicato ai video podcast in Italia",
+      "fonte": "Sky TG24, Sorrisi.com",
       "affidabilita": "Primaria",
       "voto_in_target": 6,
-      "data_fatto": "2026-10-12",
+      "data_fatto": "2026-11-02",
       "mercato": "Italia",
-      "brief": "Spreaker, piattaforma di hosting podcast nata in Italia e oggi parte di iHeartMedia, ha aggiunto il 12 ottobre 2026 la distribuzione con un solo tocco nella sua app mobile. La novità arriva dopo che, già a giugno 2026, era stato reso gratuito per tutti \"Spreaker Create for Web\": uno strumento da browser per registrare la voce, aggiungere musica di sottofondo, fare montaggi rapidi ed esportare l'episodio senza installare software.",
+      "brief": "Dal 2 novembre 2026 è attivo su Sky (canale 118) e su NOW 'Sky Voices', il primo canale televisivo italiano dedicato interamente ai video podcast, con un palinsesto che mescola produzioni Sky Original e titoli di studi come Corax, OnePodcast, Vois e BSMT. È un segnale diretto di come il video podcast in Italia stia passando dallo smartphone al telecomando del salotto.",
       "angoli_contenuto": [
-        "Registrare e pubblicare un episodio senza installare niente: cosa puoi fare davvero solo dal browser",
-        "Distribuzione con un tocco: quanto tempo risparmi rispetto al caricamento manuale su ogni piattaforma",
-        "Spreaker non è solo l'app finita nello scandalo dei feed copiati: cosa offre oggi a chi parte da zero"
+        "Cosa significa per un podcast italiano finire su un canale TV dedicato, non solo su YouTube",
+        "Produzioni come Corax, OnePodcast, Vois: come lavorano gli studi che riforniscono un canale così",
+        "Il video podcast italiano non è più solo 'YouTube con la webcam': a che standard ti devi allineare ora"
       ],
       "hook_tiktok": [
-        "Hai rimandato il primo episodio solo perché non sapevi quale software di registrazione scaricare? Ora puoi registrare, montare ed esportare direttamente dal browser, gratis, senza installare niente.",
-        "Passi più tempo a caricare lo stesso episodio su cinque piattaforme diverse che a scriverlo? Una delle app più usate dai podcaster italiani ha appena aggiunto la distribuzione con un tap solo.",
-        "Pensi che per iniziare un podcast serva uno studio pieno di roba? Il tool gratuito che registra dal browser dice il contrario, e ora ha reso anche la pubblicazione un gesto solo."
+        "Registri ancora il tuo video podcast con la webcam del laptop appoggiata sul libro? In Italia è appena nato un canale TV, Sky Voices, fatto solo di video podcast. Il livello sta salendo, e in fretta.",
+        "Pensavi che il tuo pubblico massimo fosse YouTube? C'è un canale Sky, il 118, che da inizio novembre trasmette solo video podcast italiani. Il salotto di casa è il prossimo posto dove farsi notare.",
+        "Hai sempre detto 'io faccio solo audio, il video non serve'? Da quando esiste un canale TV dedicato ai video podcast in Italia, quella frase inizia a scadere più in fretta di prima."
+      ]
+    },
+    {
+      "titolo": "In Italia il podcast ha 18,5 milioni di ascoltatori nel 2026: cresce anche la voglia di intrattenimento",
+      "fonte": "NielsenIQ per Audible, ripreso da ItaliaOggi e 9Colonne",
+      "affidabilita": "Secondaria",
+      "voto_in_target": 6,
+      "data_fatto": "2026-11-16",
+      "mercato": "Italia",
+      "brief": "Secondo il monitoraggio NielsenIQ realizzato per Audible, nel 2026 il podcast in Italia raggiunge 18,5 milioni di ascoltatori, con una media di 5 ascolti al mese e sessioni da circa 27 minuti. Informarsi (43%) e approfondire (42%) restano i motivi principali, ma cresce la ricerca di intrattenimento puro (41%). Il dato non è direttamente comparabile con altre rilevazioni (es. OBE/BVA Doxa, che nel 2025 indicava 15,5 milioni), perché le metodologie di rilevazione differiscono.",
+      "angoli_contenuto": [
+        "Cosa significa per chi fa podcast italiano che il pubblico cerchi sempre più intrattenimento, non solo approfondimento",
+        "Perché confrontare dati di ricerche diverse sugli ascolti podcast è quasi sempre scorretto",
+        "Sessioni da 27 minuti: cosa dice questa durata media sul formato giusto per un episodio"
+      ],
+      "hook_tiktok": [
+        "Pensi che il tuo podcast debba sempre insegnare qualcosa per avere successo in Italia? I dati 2026 dicono che il pubblico italiano cerca sempre più anche solo intrattenimento puro. Rilassati un po'.",
+        "Hai letto tre numeri diversi sugli ascoltatori di podcast in Italia e non sai più a chi credere? Ogni ricerca misura cose diverse: la prossima volta prima di citarla, guarda bene la metodologia.",
+        "Pensi di dover fare episodi lunghissimi per sembrare serio? I dati dicono che la sessione media di ascolto in Italia dura 27 minuti. Forse il problema non è la durata, è dove metti le cose più interessanti."
+      ]
+    },
+    {
+      "titolo": "Negli USA il video podcast supera per la prima volta l'ascolto solo audio",
+      "fonte": "Edison Research, \"The Podcast Consumer 2026\", ripreso da Podnews e Sounds Profitable",
+      "affidabilita": "Primaria",
+      "voto_in_target": 7,
+      "data_fatto": "2026-06-04",
+      "mercato": "Internazionale",
+      "brief": "Il report \"The Podcast Consumer 2026\" di Edison Research certifica che, per la prima volta nel terzo trimestre del 2025, il consumo video dei podcast ha superato quello solo audio tra gli ascoltatori settimanali USA: 82% guarda attivamente il video contro il 78% che ascolta solo audio. È una conferma, con dati di una fonte di ricerca indipendente, della transizione del mezzo verso il video.",
+      "angoli_contenuto": [
+        "Perché continuare a fare 'solo audio' nel 2026 è una scelta sempre più di nicchia, non la norma",
+        "Cosa cambia in pratica nella produzione se sai che la maggioranza del pubblico potenziale guarda, non solo ascolta",
+        "Come iniziare con il video senza stravolgere il setup attuale, partendo da una sola telecamera"
+      ],
+      "hook_tiktok": [
+        "Dici ancora 'io faccio podcast, non video'? Secondo Edison Research la maggioranza di chi ascolta podcast ogni settimana negli USA ormai guarda il video, non solo ascolta. Il pubblico ha deciso prima di te.",
+        "Pensi che il video sia solo un plus opzionale per il tuo podcast? I dati dicono che ha già superato l'audio puro come modalità di consumo preferita. Non è più il futuro, è il presente.",
+        "Hai paura della telecamera più che del microfono? Statisticamente stai scegliendo di restare nella minoranza di chi ascolta podcast ormai solo in audio."
+      ]
+    },
+    {
+      "titolo": "ItaliaOggi lancia un podcast fiscale tre volte a settimana per i professionisti",
+      "fonte": "ItaliaOggi",
+      "affidabilita": "Segnale debole",
+      "voto_in_target": 4,
+      "data_fatto": "2026-11-16",
+      "mercato": "Italia",
+      "brief": "ItaliaOggi ha avviato 'Fisco News', un podcast di approfondimento fiscale pensato per commercialisti e professionisti, con tre puntate settimanali (lunedì, mercoledì, venerdì). È un esempio di testata italiana di settore che usa il podcast come prodotto editoriale verticale e ricorrente, non come contenuto occasionale. Fonte unica consultata, quindi il dato resta un segnale da verificare nel tempo con la tenuta della pubblicazione.",
+      "angoli_contenuto": [
+        "Un podcast verticale tre volte a settimana per una nicchia precisa (commercialisti): perché può funzionare meglio di uno generalista",
+        "Testate giornalistiche che lanciano podcast di nicchia: un canale di lavoro per chi li produce o li coacha",
+        "La costanza (3 episodi a settimana) come scelta editoriale: cosa serve in termini di tempo e organizzazione"
+      ],
+      "hook_tiktok": [
+        "Pensi che un podcast debba parlare di tutto per trovare pubblico? Una testata italiana ne ha appena lanciato uno solo sul fisco, tre volte a settimana, dritto per i commercialisti. Nicchia stretta, pubblico preciso.",
+        "Hai paura che il tuo argomento sia 'troppo di nicchia' per un podcast? C'è chi ha aperto un podcast fiscale per professionisti con tre episodi a settimana. Se funziona quello, puoi provarci anche tu.",
+        "Ti sembra impossibile pubblicare tre episodi a settimana senza bruciarti in un mese? Prima di dire che non si può fare, guarda chi lo sta già facendo su un argomento arido come il fisco."
       ]
     }
   ]
