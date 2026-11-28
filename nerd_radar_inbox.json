@@ -1,45 +1,61 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-28",
   "notizie": [
     {
-      "titolo": "G-STAR 2026 chiude a Busan con 1.237 aziende da 41 paesi",
-      "fonte": "The Korea Times (koreatimes.co.kr), Inven Global (invenglobal.com), The Korea Herald (heraldcorp.com)",
+      "titolo": "SPIEL Essen 2026 chiude con un record di 230.000 visitatori e occupa per la prima volta tutti gli otto padiglioni",
+      "fonte": "ICv2 (icv2.com/articles/news/view/63726), GodisaGeek (godisageek.com/2026/10/spiel-essen-2026-record-visitors), Meeple Mountain",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "G-STAR 2026, la principale fiera videoludica della Corea del Sud, si è svolta dal 19 al 22 novembre al BEXCO di Busan con 1.237 aziende da 41 paesi su oltre 3.400 stand complessivi tra area B2C e B2B. La notizia è confermata da più testate coreane e internazionali di settore.",
+      "data_fatto": "2026-10-26",
+      "brief": "L'edizione 2026 della fiera tedesca SPIEL Essen, la più grande fiera di giochi al mondo, ha registrato circa 230.000 visitatori, 10.000 in più del record dell'anno precedente (220.000), occupando per la prima volta nella sua storia tutti gli otto padiglioni di Messe Essen. Il dato è confermato da più fonti di settore indipendenti.",
       "tipo": "fiera"
     },
     {
-      "titolo": "G-STAR 2026 parte senza i grandi publisher coreani Nexon, NCSoft e Netmarble",
-      "fonte": "Korea JoongAng Daily (koreajoongangdaily.com)",
+      "titolo": "SPIEL Essen 2027 confermata dal 21 al 24 ottobre, la fiera resta a Essen",
+      "fonte": "Showsbee, Cantonfair, Travel2Fair",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "All'apertura dell'edizione 2026 di G-STAR, a Busan, sono risultati assenti per la prima volta i tre maggiori publisher coreani Nexon, NCSoft e Netmarble, segno di un peso decrescente della fiera verso i colossi domestici. La notizia, ripresa anche da altra stampa coreana di settore, segnala un cambio di strategia promozionale dei grandi gruppi verso fiere internazionali come gamescom.",
+      "data_fatto": "2026-10-26",
+      "brief": "Dopo il record di visitatori del 2026, gli organizzatori hanno confermato che la prossima edizione di SPIEL Essen si terrà dal 21 al 24 ottobre 2027, sempre a Messe Essen, in Germania. Più fonti indipendenti indicano le stesse date, segno che l'evento continuerà nella sede storica.",
       "tipo": "fiera"
     },
     {
-      "titolo": "Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red tra gli espositori internazionali di G-STAR 2026",
-      "fonte": "Inven Global (invenglobal.com), Khan Sports (sports.khan.co.kr)",
+      "titolo": "Lucca Comics & Games annuncia le date dell'edizione 2027 dopo gli 800.000 visitatori del 60° anniversario",
+      "fonte": "SenalNews (senalnews.com), TicketOne, Quotidiano.net",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-19",
-      "brief": "Nonostante l'assenza dei big coreani, G-STAR 2026 ha ospitato stand di publisher internazionali come Capcom, Koei Tecmo, Sega, NetEase e CD Projekt Red, confermando l'appeal della fiera di Busan per l'industria globale. I dettagli della mappa espositiva e dei contenuti presentati sono stati confermati da più testate di settore coreane prima e durante l'evento.",
+      "data_fatto": "2026-11-01",
+      "brief": "Alla chiusura dell'edizione 2026 di Lucca Comics & Games (tema \"Legacy\" per il 60° anniversario, circa 800.000 visitatori), gli organizzatori hanno annunciato che l'edizione 2027 si terrà dal 28 ottobre al 1° novembre. È stato annunciato anche un nuovo International Comics Museum a Lucca.",
       "tipo": "fiera"
     },
     {
-      "titolo": "BGG.CON 2026 si chiude a Dallas dopo cinque giorni",
-      "fonte": "tabletop.events (piattaforma ufficiale dell'evento), RPGGeek (rpggeek.com)",
+      "titolo": "The Game Awards 2026 confermati per il 10 dicembre al Peacock Theater di Los Angeles",
+      "fonte": "GamingBolt (gamingbolt.com), Softonic, Insider Gaming",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-22",
-      "brief": "Si è conclusa il 22 novembre a Dallas, all'Hyatt Regency, l'edizione 2026 di BGG.CON, una delle convention di giochi da tavolo più seguite negli Stati Uniti, iniziata il 18 novembre. L'evento resta un punto di riferimento per publisher ed editori indipendenti che presentano novità e prototipi direttamente ai giocatori.",
-      "tipo": "fiera"
+      "data_fatto": "2026-12-10",
+      "brief": "Geoff Keighley ha confermato che la cerimonia The Game Awards 2026 si terrà dal vivo il 10 dicembre al Peacock Theater di Los Angeles, in un formato ibrido con diretta streaming su più piattaforme (YouTube, Twitch, Steam, TikTok). Le nomination sono già state annunciate, ma la lista completa dei candidati non è stata verificata da fonte indipendente nei risultati consultati.",
+      "tipo": "videogioco"
     },
     {
-      "titolo": "Milan Games Week & Cartoomics 2026: programma e ospiti confermati per il 27-29 novembre",
-      "fonte": "Il Sole 24 Ore (ilsole24ore.com), Multiplayer.it (multiplayer.it), AnimeClick (animeclick.it)",
+      "titolo": "Steve Jackson Games cambia CEO: Sabrina Gonzalez al vertice, Allison Page promossa COO",
+      "fonte": "GodisaGeek (godisageek.com/2026/09/sabrina-gonzalez-ceo-steve-jackson-games), ICv2 (icv2.com/articles/news/view/63353)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-27",
-      "brief": "La sesta edizione di Milan Games Week & Cartoomics si terrà dal 27 al 29 novembre a Fiera Milano Rho su quattro padiglioni, con tema l'acqua. Tra gli ospiti confermati figurano l'illustratrice Posuka Demizu (autrice del poster ufficiale) e il cast della serie live-action di One Piece, mentre per i giochi da tavolo l'area Unplugged ospiterà editori come Asmodee, Need Games e Boose.",
-      "tipo": "fiera"
+      "data_fatto": "2026-09-11",
+      "brief": "Steve Jackson Games, storico editore texano di giochi da tavolo e di ruolo, ha annunciato che il fondatore Steve Jackson lascia la carica di CEO (che occupava temporaneamente dopo le dimissioni di Meredith Placko nel 2025) per tornare a dedicarsi a design e sviluppo giochi. Sabrina Gonzalez diventa la nuova CEO, Allison Page è promossa COO.",
+      "tipo": "gioco da tavolo"
+    },
+    {
+      "titolo": "Pokémon lancia in Giappone \"Are You, Perhaps, a Rocket Grunt?\", gioco da tavolo di deduzione sociale a tema Team Rocket",
+      "fonte": "Respawn/Outlook India (respawn.outlookindia.com), OpenCritic",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-01",
+      "brief": "The Pokémon Company ha pubblicato in Giappone, a novembre 2026, un nuovo gioco da tavolo di deduzione sociale ambientato nel Team Rocket, al momento confermato solo per il mercato giapponese. Non è stata confermata una data per un'eventuale uscita internazionale.",
+      "tipo": "gioco da tavolo"
+    },
+    {
+      "titolo": "Stonemaier Games annuncia \"Braided Skies\", nuovo gioco ambientato nell'universo di Smoking Bones, debutto a Essen Spiel",
+      "fonte": "ICv2 (icv2.com/articles/news/view/63451)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-20",
+      "brief": "Stonemaier Games ha annunciato Braided Skies, nuovo titolo ambientato nello stesso universo narrativo di Smoking Bones, presentato in anteprima a SPIEL Essen 2026 con uscita retail a seguire entro novembre 2026. L'informazione arriva da una sola fonte di settore consultata, quindi va considerata un segnale da confermare con l'editore.",
+      "tipo": "gioco da tavolo"
     }
   ]
 }

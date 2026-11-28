@@ -1,95 +1,119 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-28",
   "notizie": [
     {
-      "titolo": "CD Projekt Red starebbe costruendo un team tabletop interno, valuta titoli Witcher/Cyberpunk più piccoli",
+      "titolo": "GAMA, l'associazione di settore USA, perde quasi metà del board in pochi giorni",
+      "fonte": "BoardGameWire (boardgamewire.com) e GeekNative (geeknative.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-25",
+      "paese": "Estero",
+      "categoria": "associazione di settore",
+      "brief": "Durante il ritiro di pianificazione del board, la presidente Meredith Placko, la segretaria Tiffany Reid e il rappresentante dei retailer John Stephens si sono dimessi da GAMA, l'associazione che riunisce publisher e distributori del gioco da tavolo americano. L'organizzazione ha promesso di ricostruire la fiducia dei membri e sta selezionando una società di ricerca executive, con un aggiornamento atteso al meeting di dicembre. Per i designer che lavorano con publisher nordamericani è un segnale di instabilità nell'ente che organizza GAMA Expo e definisce diverse pratiche di settore."
+    },
+    {
+      "titolo": "Take Time (Asmodee) vince il Gouden Ludo fiammingo come gioco dell'anno per famiglie",
       "fonte": "BoardGameWire (boardgamewire.com)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-20",
+      "data_fatto": "2026-11-25",
       "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Secondo BoardGameWire, CD Projekt Red starebbe mettendo in piedi un team dedicato al tabletop, valutando versioni Witcher e Cyberpunk di formato più contenuto rispetto alle grandi campagne crowdfunding fatte finora con Go On Board, insieme a nuove partnership editoriali. Per i designer è un possibile nuovo canale IP-holder che potrebbe commissionare progetti di design più piccoli e meno legati al solo crowdfunding."
+      "categoria": "premio",
+      "brief": "Il gioco cooperativo di carte Take Time, pubblicato da Asmodee, ha vinto il Gouden Ludo nella categoria family game in Belgio, aggiungendo un ulteriore riconoscimento a una serie di premi già raccolti nel 2026. Per chi progetta giochi cooperativi leggeri è un dato su quanto questo formato continui a convincere le giurie dei premi family in Europa.",
+      "nota": "Una sola fonte indipendente trovata: da trattare come segnale, non come dato definitivo."
     },
     {
-      "titolo": "Nasce Moona Games, nuovo publisher francese fondato da ex dirigenti Lucky Duck Games focalizzato sulla localizzazione",
+      "titolo": "PAX Unplugged 2026 apre a Philadelphia con un programma dedicato ai professionisti del settore",
       "fonte": "BoardGameWire (boardgamewire.com)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-18",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Ex dirigenti di Lucky Duck Games hanno fondato Moona Games, nuovo editore con sede ad Angoulême che costruisce la propria strategia attorno alla localizzazione di titoli già pubblicati altrove, proprio nel segmento che Lucky Duck ha ridimensionato. Per i designer con un gioco già uscito su un mercato estero è un nuovo interlocutore potenziale per l'edizione francofona."
-    },
-    {
-      "titolo": "Osprey Games licenzia l'intero team board/card game e cancella lo stand a Essen",
-      "fonte": "BoardGameWire / Cards Realm",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "Osprey Games (di proprietà Bloomsbury) ha licenziato tutto lo staff dedicato esclusivamente ai giochi da tavolo e di carte e ha rinunciato allo stand a Spiel Essen, cinque mesi dopo l'annuncio della messa in vendita del ramo boardgame. I titoli già sotto contratto restano in stand-by senza una decisione su chi li pubblicherà: un avvertimento concreto per i designer con progetti in pipeline presso editori in fase di cessione o ristrutturazione."
-    },
-    {
-      "titolo": "Nemesis: Legacy di Awaken Realms supera 114 volte l'obiettivo su Gamefound",
-      "fonte": "Zatu Games / GodIsAGeek",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "paese": "Estero",
-      "categoria": "publisher",
-      "brief": "La campagna Gamefound di Nemesis: Legacy (Awaken Realms) ha superato 5,7 milioni di euro da oltre 16.600 backer, più di 114 volte l'obiettivo di 50.000 euro, finanziandosi in pochi secondi dall'apertura. Per i designer di giochi horror/cooperativi/legacy è un'ulteriore conferma della tenuta di questo segmento nel crowdfunding, in un periodo in cui altri publisher segnalano invece difficoltà."
-    },
-    {
-      "titolo": "Mantic Games porta in retail Halo: Campaign Evolved",
-      "fonte": "ICv2 (icv2.com)",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-14",
-      "paese": "Estero",
-      "categoria": "catalogo",
-      "brief": "Mantic Games ha pubblicato in retail Halo: Campaign Evolved, gioco da tavolo su licenza del franchise Microsoft/343 Industries. Esempio recente di come un publisher specializzato in miniature/wargame rafforzi il catalogo con licenze videoludiche ad alto riconoscimento: un canale di cui i designer con competenze skirmish/miniature possono tenere conto nel proporre progetti."
-    },
-    {
-      "titolo": "Nessuna data ufficiale ancora individuata per la prossima edizione di IdeaG a Parma",
-      "fonte": "SAZ Italia / spieleautorenzunft.de (pagine storiche IDeAG)",
-      "affidabilita": "Segnale debole",
       "data_fatto": "2026-11-24",
-      "paese": "Italia",
-      "categoria": "fiera/evento",
-      "brief": "La ricerca non ha trovato, sui canali di SAZ Italia (organizzatore di IDeAG a Parma dal 2018) né su studiogiochi.com, l'annuncio di data e sede della prossima edizione di IdeaG, l'incontro nazionale italiano tra autori di giochi, playtester e rappresentanti di case editrici. L'ultima edizione documentata nelle fonti consultate è la 18ª, svoltasi il 1-2 aprile 2023. Chi progetta giochi e vuole pianificare la partecipazione dovrebbe monitorare direttamente i canali di SAZ Italia e studiogiochi.com, dove in genere compaiono i primi annunci; è il bando del Premio Archimede 2027 (già segnalato) a confermare che l'evento è comunque attivo, offrendo come premio un ingresso omaggio a IdeaG Parma."
+      "paese": "Estero",
+      "categoria": "evento",
+      "brief": "BoardGameWire ha pubblicato la guida ai talk, panel e occasioni di networking per professionisti del settore alla PAX Unplugged 2026, la fiera generalista di Philadelphia che si tiene nei primi giorni di dicembre. È uno degli eventi B2B più seguiti del calendario nordamericano di fine anno per designer e publisher che cercano contatti e feedback diretto dal pubblico hobbistico."
     },
     {
-      "titolo": "IDEAG 2027 confermato: 22ª edizione il 15-17 gennaio a Parma, aperte le iscrizioni per prototipi",
-      "fonte": "idea-g.it (sito ufficiale IDEAG) / ilgiocointavolo.it",
+      "titolo": "Dice Throne si espande in Europa con nuovi partner per la lingua francese e un negozio online dedicato all'UE",
+      "fonte": "License Global (licenseglobal.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-11",
+      "paese": "Estero",
+      "categoria": "localizzazione",
+      "brief": "Il publisher di Dice Throne ha annunciato nuovi accordi per prodotti in lingua francese, una distribuzione retail più ampia nel Regno Unito e l'apertura di uno store online dedicato al mercato europeo. È un caso concreto di come un gioco nato in inglese costruisca, anni dopo il lancio, un'infrastruttura di localizzazione e distribuzione pensata apposta per l'Europa continentale.",
+      "nota": "Non è degli ultimissimi giorni, ma resta rilevante come caso studio di localizzazione in corso."
+    },
+    {
+      "titolo": "Steamforged Games sotto accusa dai backer: nove progetti crowdfunded in ritardo, quattro oltre la data promessa",
+      "fonte": "Wargamer (wargamer.com), SpikeyBits (spikeybits.com) e BoardGameWire (boardgamewire.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-10-26",
+      "paese": "Estero",
+      "categoria": "publisher",
+      "brief": "Più testate di settore riportano che Steamforged Games ha in corso nove progetti crowdfunded non consegnati, quattro dei quali oltre la data promessa senza una nuova data comunicata, con pledge complessivi superiori a 12,8 milioni di dollari su due soli progetti. Il publisher ha dichiarato di avere ancora le risorse necessarie per onorare gli impegni; l'investitore Foresight ha comunque svalutato la propria quota in Steamforged di quasi il 74% nel primo semestre 2026. Per i designer è un campanello d'allarme su cosa verificare prima di affidare un progetto in crowdfunding a un publisher in difficoltà."
+    },
+    {
+      "titolo": "CMON cerca fino a 17,5 milioni di dollari da investitori esterni dopo un aumento di capitale andato sotto le attese",
+      "fonte": "GodIsAGeek (godisageek.com) e BoardGameWire (boardgamewire.com)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-09-10",
+      "paese": "Estero",
+      "categoria": "publisher",
+      "brief": "Dopo perdite annuali vicine ai 20 milioni di dollari e un rights issue che non ha raccolto quanto sperato, CMON (Zombicide, Cthulhu: Death May Die) sta cercando capitale esterno aggiuntivo e ha già venduto alcune proprietà, tra cui Zombicide stesso ad Asmodee e Blood Rage a Tabletop Tycoon. La crisi finanziaria di uno dei publisher crowdfunding più noti resta un riferimento per chi valuta la salute del canale Kickstarter/Gamefound nel 2026.",
+      "nota": "Ultimo aggiornamento verificato risale a settembre 2026; la situazione potrebbe essere evoluta."
+    },
+    {
+      "titolo": "Greater Than Games rilancia Sentinels of the Multiverse su Gamefound dopo aver riacquistato il marchio",
+      "fonte": "Opinionated Gamers (opinionatedgamers.com)",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-10-04",
+      "paese": "Estero",
+      "categoria": "publisher",
+      "brief": "Dopo la vendita del marchio Greater Than Games/Sentinels of the Multiverse allo sviluppatore digitale Handelabra da parte di Flat River, i fondatori originali ne hanno riacquisito il controllo e stanno rilanciando il gioco con una nuova campagna di crowdfunding su Gamefound. Per chi segue il mercato dei giochi cooperativi a carte è un caso di brand che torna sotto il controllo dei creatori originali dopo un passaggio societario complicato.",
+      "nota": "Dettagli e tempistiche esatte della campagna non verificati con una seconda fonte indipendente."
+    },
+    {
+      "titolo": "Call aperta per designer: CMU Press raccoglie giochi su scienza, tecnologia e ambiente, scadenza 30 novembre",
+      "fonte": "pagina ufficiale CMU Press (cmu.edu/university-press/games)",
       "affidabilita": "Primaria",
-      "data_fatto": "2026-11-22",
-      "paese": "Italia",
-      "categoria": "fiera/evento",
-      "brief": "Il sito ufficiale di IDEAG (idea-g.it) ha pubblicato il calendario della 22ª edizione dell'Incontro Nazionale degli Autori di Giochi: 15-17 gennaio 2027, presso il voco by IHG Hotel Parma & Congressi. Il calendario iscrizioni prevede apertura riservata ai soci SAZ il 2 novembre, apertura generale per autori/playtester/blogger/stampa/editori l'8 novembre, apertura iscrizioni prototipi il 22 novembre (appena avvenuta), apertura iscrizioni TalkG/IDEAG Night/La Cialtronata il 6 dicembre, chiusura iscrizioni il 2 gennaio 2027 alle 23:00. È l'aggiornamento diretto, con fonte primaria, dell'informazione lasciata aperta su questo stesso evento: per i designer italiani è il momento di candidare i propri prototipi per il pitch agli editori presenti."
+      "data_fatto": "2026-11-30",
+      "paese": "Estero",
+      "categoria": "call per designer",
+      "brief": "Carnegie Mellon University Press sta raccogliendo proposte di giochi a tema scienza, tecnologia e ambiente per la sua antologia Promptuary, con scadenza di invio fissata al 30 novembre 2026. È una delle pochissime finestre di submission ancora aperte in questo momento per designer con progetti a tema STEM/educativo."
     },
     {
-      "titolo": "Ares Games pubblicherà in inglese Yonder, gioco di piazzamento lavoratori di Sinister Fish Games",
-      "fonte": "ICv2 (icv2.com)",
+      "titolo": "Paolo Mori nominato Miglior Autore di Giochi 2026 a Lucca Comics & Games",
+      "fonte": "gusandco.net e SpazioGames (spaziogames.it)",
       "affidabilita": "Secondaria",
-      "data_fatto": "2026-11-17",
+      "data_fatto": "2026-10-29",
       "paese": "Italia",
-      "categoria": "publisher",
-      "brief": "ICv2 riporta che l'editore italiano Ares Games pubblicherà e distribuirà l'edizione inglese di Yonder, gioco fantasy di piazzamento lavoratori ideato e illustrato da Haakon Gaarder (già autore di Villagers e Moon) e originariamente pubblicato da Sinister Fish Games su Kickstarter. Ares porterà il titolo in distribuzione retail in tarda primavera, dopo il fulfillment della campagna. Per i designer è un'ulteriore conferma che un publisher italiano come Ares sta usando la propria rete distributiva per acquisire e lanciare sul mercato anglofono titoli nati altrove, un canale potenzialmente interessante anche per progetti italiani con ambizioni internazionali."
+      "categoria": "persona",
+      "brief": "Il designer italiano Paolo Mori ha ricevuto il titolo di Autore dell'Anno a Lucca Comics & Games 2026, pochi mesi dopo aver vinto l'As d'Or francese con Toy Battle (co-disegnato con Alessandro Zucchini). Il riconoscimento premia la sua capacità di muoversi tra registri di design molto diversi, dal party game al gioco più strutturato.",
+      "nota": "Le fonti divergono sulla data esatta dell'annuncio (settembre a Milano vs. 29 ottobre a Lucca); il premio stesso è comunque confermato da più fonti."
     },
     {
-      "titolo": "Ares Games estende la distribuzione europea con un accordo con lo spagnolo Draco Ideas/Eclipse Editorial",
-      "fonte": "BoardGameWire / ICv2",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-12",
+      "titolo": "Rebirth di Reiner Knizia vince il Gioco dell'Anno 2026 a Lucca Comics & Games",
+      "fonte": "gusandco.net, con finalisti confermati da SpazioGames (spaziogames.it)",
+      "affidabilita": "Segnale debole",
+      "data_fatto": "2026-10-29",
       "paese": "Italia",
-      "categoria": "publisher",
-      "brief": "Ares Games (editore italiano con sede a Roma e magazzino UE in Italia) ha ampliato la propria attività di distribuzione europea firmando un accordo con l'editore spagnolo Draco Ideas/Eclipse Editorial (le due etichette, una dedicata a giochi storici e l'altra a giochi narrativi/familiari, si sono fuse nel 2023), confermato sia da BoardGameWire che da ICv2. L'accordo si aggiunge ai partner già esistenti (Galakta Games in Polonia, Tabula Games in Italia, Albi in Repubblica Ceca, Nuts! Publishing in Francia). Per i designer è un segnale di come un editore italiano stia costruendo un hub distributivo paneuropeo, un canale potenziale per la diffusione di titoli al di fuori del solo mercato nazionale."
+      "categoria": "premio",
+      "brief": "Il gioco tile-laying Rebirth, già Kennerspiel des Jahres in Germania nell'estate 2026, è stato premiato come Gioco dell'Anno alla cerimonia di Lucca Comics & Games al Teatro del Giglio, battendo finalisti come Art Society, Bomb Busters, Echoes of Time e Thunder Road Vendetta. La vittoria risulta da una sola fonte in lingua francese; i finalisti sono confermati anche da stampa italiana, ma non il vincitore finale.",
+      "nota": "Vincitore da verificare con una seconda fonte indipendente prima di darlo per certo."
     },
     {
-      "titolo": "Giochi Uniti pubblica The Social Contract, primo gioco da tavolo di Factanza Media, presentato a Lucca Comics & Games 2026",
-      "fonte": "AGI (agi.it) / SpazioGames",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-28",
+      "titolo": "Need Games presenta il piano 2026: Alien in italiano, Lancer, Shadowdark e la nuova collana Need Bites",
+      "fonte": "SpazioGames (spaziogames.it, articolo sulle uscite Need Games 2026)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-20",
       "paese": "Italia",
-      "categoria": "catalogo",
-      "brief": "Giochi Uniti ha pubblicato The Social Contract, il primo gioco da tavolo prodotto da Factanza Media, nato come risposta alla polarizzazione sociale e pensato per portare il tema della convivenza civile al tavolo da gioco. Il game design è di Dario Massa, mentre Factanza ha curato ambientazione, testi, grafica e direzione artistica (illustrazioni di Carlo Esposito/Carlo Dowggy); Giochi Uniti ha gestito sviluppo, stesura del regolamento, produzione e rapporti con i fornitori. Il gioco, per 2-6 giocatori dai 12 anni in su (circa 50 minuti), è stato messo in pre-ordine dal 28 ottobre e presentato a Lucca Comics & Games (28 ottobre-1 novembre). Per i designer è un esempio concreto di un editore generalista italiano che si apre a una collaborazione editoriale con un media brand per un gioco a tema civico/divulgativo, un genere ancora poco esplorato nel catalogo mainstream italiano."
+      "categoria": "localizzazione",
+      "brief": "Durante il primo Live'N'Play, Need Games! ha presentato la propria linea 2026, che include la localizzazione italiana di Alien, Lancer e Shadowdark e due nuove collane, tra cui Need Bites dedicata a giochi compatti e facilmente trasportabili. Per le licenze internazionali l'editore cura traduzione, editing e distribuzione esclusiva sul territorio italiano, mantenendo l'etichetta originale del gioco."
+    },
+    {
+      "titolo": "Lucca Comics & Games chiude il 60° anniversario con circa 800.000 visitatori e annuncia un nuovo Museo Internazionale del Fumetto",
+      "fonte": "SenalNews e Multiplayer.it (senalnews.com, multiplayer.it)",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-01",
+      "paese": "Italia",
+      "categoria": "evento",
+      "brief": "L'edizione 2026 di Lucca Comics & Games, a tema \"Legacy\" per i 60 anni della manifestazione, si è chiusa il 1° novembre con circa 800.000 visitatori e l'annuncio di un nuovo International Comics Museum; le date 2027 (28 ottobre - 1 novembre) sono già fissate. Per i designer e i publisher italiani resta la fiera generalista con il maggior bacino di pubblico su cui presentare novità di gioco da tavolo in Italia."
     }
   ]
 }

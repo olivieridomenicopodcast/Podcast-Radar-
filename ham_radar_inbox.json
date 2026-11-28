@@ -1,47 +1,40 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-28",
   "notizie": [
     {
-      "titolo": "CQ World Wide DX Contest CW 2026 al via il weekend del 28-29 novembre",
-      "fonte": "CQWW (cqww.com, regolamento ufficiale 2026) e ContestCalendar.com",
+      "titolo": "Il CQ World Wide DX Contest CW 2026 è in corso in queste ore",
+      "fonte": "Regolamento ufficiale CQWW (cqww.com) e DXZone.com",
       "affidabilita": "Primaria",
       "data_fatto": "2026-11-28",
-      "brief": "Il regolamento ufficiale pubblicato da CQWW fissa l'edizione CW del CQ World Wide DX Contest 2026 dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre. La data è confermata in modo indipendente anche da un calendario contest di terze parti (ContestCalendar.com), quindi è una scadenza imminente e certa per chi opera in HF nei prossimi giorni."
+      "brief": "Il regolamento ufficiale 2026 di CQWW conferma che l'edizione CW del contest si svolge dalle 0000 UTC di sabato 28 novembre alle 2359 UTC di domenica 29 novembre, con potenza massima 1500W per la categoria high power e scambio RST + zona CQ. Per chi opera in HF è un weekend intenso, con bande affollate su tutte le frequenze contest."
     },
     {
-      "titolo": "DXpedition da Lesotho attiva in queste ore, ma con sigla incerta tra 7P8EA e 7P9EA",
-      "fonte": "DXZone.com, pagine evento DXpedition",
+      "titolo": "DXpedition VK9XY da Christmas Island attiva fino al 4 dicembre",
+      "fonte": "Sito ufficiale vk9xy2026.com, ripreso da un podcast di news radioamatoriali del 13 novembre 2026",
+      "affidabilita": "Secondaria",
+      "data_fatto": "2026-11-16",
+      "brief": "Il team Pacific Islands DXpedition Group, con un focus dichiarato su giovani operatori, è attivo da Christmas Island dal 16 novembre al 4 dicembre 2026. È quindi ancora in corso in questi giorni: un'occasione per collezionare un DXCC spesso difficile da agganciare."
+    },
+    {
+      "titolo": "DXpedition 3B9 da Rodrigues Island annunciata tra fine novembre e inizio dicembre, ma la conferma dell'anno è incerta",
+      "fonte": "Bollettino DX ripreso da LABRE (labre.org.br)",
       "affidabilita": "Segnale debole",
-      "data_fatto": "2026-11-24",
-      "brief": "DXZone riporta un'attivazione in corso da Lesotho da parte dell'operatore HB9CCS, in CW/SSB, con fine operazioni indicata al 25 novembre 2026. Due pagine dello stesso sito indicano però sigle diverse (7P8EA e 7P9EA) con QSL route differenti, quindi il dato non è verificato in modo indipendente: da confermare tramite il bollettino 425 DX News o l'annuncio originale dell'operatore."
+      "data_fatto": "2026-11-22",
+      "brief": "Un bollettino DX indica un'operazione 3B9 da Rodrigues Island nella finestra 22 novembre - 2 dicembre, ma lo stesso schema di date compare anche in un bollettino dell'anno precedente, quindi non è possibile confermare con certezza che si riferisca al 2026. Da verificare sul bollettino 425 DX News o sull'annuncio originale dell'operatore prima di considerarla attiva ora."
     },
     {
-      "titolo": "DXpedition C8K da Mozambico conclusa il 20 novembre",
-      "fonte": "cq.sk, pagina evento DXpedition",
+      "titolo": "Calendario ARRL di dicembre 2026: 160 Meter Contest il 5-6, 10 Meter Contest il 12-13",
+      "fonte": "ARRL Contest Calendar (arrl.org)",
+      "affidabilita": "Primaria",
+      "data_fatto": "2026-11-27",
+      "brief": "Le regole generali ARRL fissano l'ARRL 160 Meter Contest nel primo weekend intero di dicembre (5-6 dicembre 2026, dalle 2200 UTC del venerdì alle 1559 UTC della domenica) e l'ARRL 10 Meter Contest il weekend successivo, 12-13 dicembre, con lo stesso formato di 42 ore. Utile per pianificare in anticipo le prossime uscite in HF."
+    },
+    {
+      "titolo": "Wavelet Lab torna con due nuovi SDR open source, xSDR e sSDR",
+      "fonte": "Hackster.io (hackster.io/news)",
       "affidabilita": "Secondaria",
       "data_fatto": "2026-11-20",
-      "brief": "La pagina dedicata di cq.sk indica per l'operazione C8K dal Mozambico un arrivo del team il 9 novembre e una partenza il 20 novembre 2026, quindi l'attivazione risulta terminata pochi giorni fa. Il DXCC resta comunque di interesse per chi non avesse ancora effettuato il collegamento nella finestra operativa."
-    },
-    {
-      "titolo": "NOAA: dopo il G1 minore del 17-18 novembre, condizioni geomagnetiche tornate quiete",
-      "fonte": "NOAA Space Weather Prediction Center (mirror SpaceWeatherLive/Watchers.news)",
-      "affidabilita": "Primaria",
-      "data_fatto": "2026-11-19",
-      "brief": "NOAA aveva emesso un'allerta per tempeste geomagnetiche minori G1 (Kp previsto 4.67) tra la sera del 17 e la mattina del 18 novembre, causate da un flusso da buco coronale e da un possibile effetto marginale di una CME. La previsione a 3 giorni emessa il 19 novembre per la finestra 20-22 novembre indicava invece un ritorno a condizioni quiete, con Kp massimo atteso di 3.67 e nessuna tempeta G1 prevista: utile contesto per chi valuta le aperture HF nei giorni scorsi la settimana del contest CQWW."
-    },
-    {
-      "titolo": "eBay limita la vendita di apparati radio trasmittenti dopo le nuove regole FCC",
-      "fonte": "ARRL (arrl.org), notizia del 16 ottobre 2026",
-      "affidabilita": "Secondaria",
-      "data_fatto": "2026-10-16",
-      "brief": "Secondo ARRL, eBay ha introdotto restrizioni sulle inserzioni di apparati radio trasmittenti in risposta a nuove regole FCC, esentando però gli apparati che operano esclusivamente sulle bande radioamatoriali. La notizia non è delle ultime 48 ore ma resta rilevante per chi compra o vende transceiver di seconda mano online, essendo tuttora in vigore."
-    },
-    {
-      "titolo": "Hamlib 4.7.2 corregge una vulnerabilità di sicurezza in rigctld",
-      "fonte": "Note di rilascio del progetto Hamlib (mailing list SourceForge, ripresa dal port FreeBSD)",
-      "affidabilita": "Primaria",
-      "data_fatto": "2026-06-21",
-      "brief": "La versione 4.7.2 della libreria Hamlib, usata da molti software di controllo rig (CAT), corregge un bug di scrittura fuori dai limiti nel comando send_raw di rigctld, catalogato come CVE-2026-54634. Non è una novità delle ultimissime ore, ma è il più recente aggiornamento di sicurezza verificabile del progetto e resta pertinente per chi non abbia ancora aggiornato il proprio software di stazione."
+      "brief": "Wavelet Lab ha presentato due nuovi moduli SDR open source, xSDR (successore del modulo uSDR) e sSDR in formato scheda M.2 con copertura dichiarata fino a 11 GHz. Non è stato possibile confermare la data esatta di disponibilità commerciale con una seconda fonte indipendente, quindi il dato va considerato un annuncio preliminare."
     }
   ]
 }

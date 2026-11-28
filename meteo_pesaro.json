@@ -1,30 +1,30 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-28",
   "citta": "Pesaro",
-  "fonte": "iLMeteo.it, TempoItalia.it e 3BMeteo.com (ricerca web); verifica allerte su Il Resto del Carlino e portale Regione Marche (allertameteo.regione.marche.it)",
+  "fonte": "iLMeteo.it e 3BMeteo.com (ricerca web); verifica allerte su portale Regione Marche (allertameteo.regione.marche.it) e Il Resto del Carlino",
   "previsioni": [
     {
-      "data": "2026-11-24",
-      "temp_min_c": 8,
-      "temp_max_c": 13,
-      "condizioni": "Nuvoloso con possibile debole pioggia (probabilita' di precipitazione circa 70%, accumulo stimato inferiore a 1mm)",
-      "vento": "Debole, da NW, circa 5 km/h",
-      "allerta": "nessuna (ultima allerta Protezione Civile Marche, arancione per vento, risale al 17-18 novembre e non e' piu' in vigore)"
+      "data": "2026-11-28",
+      "temp_min_c": 9,
+      "temp_max_c": 10,
+      "condizioni": "Cielo coperto, nubi sparse nel corso della giornata (probabilita' di precipitazione circa 50-53%)",
+      "vento": "Moderato/forte, da NNE, circa 20-26 km/h con raffiche piu' intense in giornata",
+      "allerta": "nessuna (ultima allerta Protezione Civile Marche, arancione per vento, risale al 17-20 novembre e non e' piu' in vigore; nessun nuovo bollettino di allerta trovato per il 28-30 novembre)"
     },
     {
-      "data": "2026-11-25",
-      "temp_min_c": 10,
-      "temp_max_c": 12,
-      "condizioni": "Pioggia, a tratti moderata (probabilita' di precipitazione circa 90%, accumulo stimato 6-8mm)",
-      "vento": "Moderato, da S/SE, circa 13 km/h",
+      "data": "2026-11-29",
+      "temp_min_c": 7,
+      "temp_max_c": 10,
+      "condizioni": "Cielo coperto al mattino presto, poi variabile (probabilita' di precipitazione circa 22%); fonti leggermente discordanti sulla minima (7-8°C)",
+      "vento": "Moderato, da N, circa 19-30 km/h",
       "allerta": "nessuna"
     },
     {
-      "data": "2026-11-26",
-      "temp_min_c": 9,
-      "temp_max_c": 13,
-      "condizioni": "Molto nuvoloso con pioggia debole o intermittente (probabilita' di precipitazione circa 56-70%); fonti leggermente discordanti su temperatura massima (9-15°C)",
-      "vento": "Moderato, da NW, circa 18 km/h",
+      "data": "2026-11-30",
+      "temp_min_c": 6,
+      "temp_max_c": 8,
+      "condizioni": "Dati parziali dalle fonti consultate, tendenza a tempo piu' freddo e stabile rispetto ai giorni precedenti",
+      "vento": "Dato non disponibile con certezza dalle fonti consultate",
       "allerta": "nessuna"
     }
   ]

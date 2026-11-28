@@ -1,118 +1,118 @@
 {
-  "generato_il": "2026-11-24",
+  "generato_il": "2026-11-28",
   "notizie": [
     {
-      "titolo": "Spotify testa un bottone per saltare le pubblicità dei podcast, tranne le sue",
-      "fonte": "Podnews (podnews.net/article/spotify-threat-ad-skipping) e pagina di supporto ufficiale Spotify per i creator, confermato da Semafor, TechRadar, Android Authority e Digital Music News",
-      "affidabilita": "Primaria",
-      "voto_in_target": 8,
-      "data_fatto": "2026-08-04",
-      "mercato": "Internazionale",
-      "brief": "Spotify ha introdotto, per alcuni abbonati Premium in mercati selezionati come USA e UK, un pulsante \"Skip ahead\" che fa saltare con un solo tap interi blocchi pubblicitari, intro e sponsorizzazioni dirette dentro gli episodi. Il pulsante non si applica alle inserzioni vendute direttamente da Spotify, che restano non saltabili anche per i Premium: una scelta che l'industria ha definito una minaccia concreta per chi vive di sponsor diretti. Spotify dichiara che è un test e che raccoglie feedback da editori e inserzionisti.",
-      "angoli_contenuto": [
-        "Perché affidarsi solo alla pubblicità per monetizzare un podcast oggi è più fragile di un anno fa",
-        "Cosa cambia tra un annuncio venduto da Spotify e una sponsorizzazione diretta nel tuo episodio",
-        "Diversificare le entrate (membership, affiliazioni, prodotti propri): perché non puoi dipendere da un solo canale"
-      ],
-      "hook_tiktok": [
-        "Hai passato ore a scrivere il copy perfetto per lo sponsor del tuo episodio? Su Spotify c'è un bottone nuovo che lo salta con un tap solo, a meno che la pubblicità non la venda Spotify stessa. Indovina chi ci guadagna.",
-        "Vivi di sponsorizzazioni dirette nel tuo podcast? Spotify ha appena reso più facile ignorarle del tutto per chi ascolta, mentre le sue pubblicità restano intoccabili. Capito l'andazzo?",
-        "Pensavi che il problema del tuo podcast fosse la qualità audio? Forse, ma ora c'è pure un bottone che fa sparire la tua pubblicità in un secondo. Parliamone prima che tu scopra i numeri in calo."
-      ]
-    },
-    {
-      "titolo": "Spotify lancia le Memberships in 34 mercati: ai creator resta il 90% degli incassi",
-      "fonte": "Spotify Newsroom/Creators (creators.spotify.com/resources/news/investor-day-2026) e GSMArena, PPC Land, Digital Trends, Betanews",
-      "affidabilita": "Primaria",
-      "voto_in_target": 8,
-      "data_fatto": "2026-10-20",
-      "mercato": "Internazionale",
-      "brief": "Il 20 ottobre 2026 Spotify ha avviato il rollout globale delle Memberships, un abbonamento diretto fan-to-creator in stile Patreon integrato nell'app, disponibile in 34 mercati. Chi aderisce trattiene il 90% dei ricavi generati dagli iscritti, e lo strumento si affianca a pubblicità, sponsorizzazioni dirette e Spotify Partner Program come ulteriore fonte di reddito per chi fa podcast.",
-      "angoli_contenuto": [
-        "Come funzionano davvero le Memberships di Spotify e a chi convengono rispetto a Patreon",
-        "90% a chi crea contenuti: perché questa percentuale è più generosa della media del settore",
-        "Pubblicità, sponsor o membership: come scegliere la fonte di reddito giusta in base al tuo pubblico"
-      ],
-      "hook_tiktok": [
-        "Hai sempre avuto paura a chiedere soldi direttamente ai tuoi ascoltatori più fedeli? Spotify ha appena messo uno strumento per farlo dentro l'app, e tiene per sé solo il 10%. Il resto resta tuo.",
-        "Ti sei sempre chiesto se aprire un Patreon per il podcast ne valesse la pena? Ora la domanda cambia, perché lo stesso meccanismo esiste già dentro Spotify, in 34 paesi, con una commissione bassissima.",
-        "Pensi che solo i podcast enormi possano chiedere un abbonamento ai fan? Spotify ha appena abbassato la soglia d'ingresso per tutti: la domanda vera è se il tuo pubblico è pronto a pagarti direttamente."
-      ]
-    },
-    {
-      "titolo": "Maono lancia il PD500W, microfono ibrido wireless per chi registra video podcast in giro",
-      "fonte": "Notebookcheck (notebookcheck.net), confermato da NewsShooter, TVBEurope e MusicTech",
-      "affidabilita": "Secondaria",
-      "voto_in_target": 5,
-      "data_fatto": "2026-11-09",
-      "mercato": "Internazionale",
-      "brief": "Dopo una campagna Kickstarter che ha più che raddoppiato l'obiettivo di raccolta, il microfono Maono PD500W è diventato disponibile a livello globale all'inizio di novembre 2026. Registra in 32-bit float, supporta connessione USB-C, XLR e wireless 2,4GHz, e il ricevitore può gestire due microfoni insieme, pensato per interviste o conversazioni in movimento.",
-      "angoli_contenuto": [
-        "32-bit float su un microfono accessibile: perché questa tecnologia ti salva da un audio clippato per sempre",
-        "Microfono wireless vs cablato per registrare fuori studio: quando ha senso l'investimento",
-        "Prima di comprare un microfono nuovo, chiediti se il problema è davvero il microfono"
-      ],
-      "hook_tiktok": [
-        "Hai rovinato una registrazione perché l'ospite ha riso troppo forte e il microfono ha clippato tutto? Il 32-bit float esiste apposta per quello, e ora arriva anche su un microfono wireless pensato per chi gira fuori dallo studio.",
-        "Fai interviste in giro e sei stufo dei cavi che si impigliano ovunque? È uscito un microfono che fa wireless, USB-C e XLR insieme, con due capsule che si sincronizzano se parlano due persone insieme.",
-        "Prima di aggiungere un altro microfono al cassetto di quelli che non usi mai, guarda questo: registrazione a prova di errore anche se qualcuno ti urla dentro il microfono."
-      ]
-    },
-    {
-      "titolo": "Il mercato globale dei podcast vale 9,2 miliardi di dollari: la crescita arriva soprattutto dal video",
-      "fonte": "Owl & Co., 2025 Global Podcast Economy Report, ripreso da Podnews, Bloomberg, Tubefilter e Barrett Media",
-      "affidabilita": "Secondaria",
-      "voto_in_target": 6,
-      "data_fatto": "2026-05-20",
-      "mercato": "Internazionale",
-      "brief": "Il report annuale di Owl & Co. stima i ricavi globali del settore podcast a 9,2 miliardi di dollari nel 2025, +23% sul 2024 (7,5 miliardi). La pubblicità diretta resta la voce principale (5,3 miliardi, +28%), ma secondo l'analisi di Bloomberg il 73% della crescita del mercato USA nel 2025 è arrivata da ricavi legati al video. In Europa, Medio Oriente e Africa il podcast pesa invece solo circa il 2% della spesa pubblicitaria digitale totale.",
-      "angoli_contenuto": [
-        "Perché il video sta diventando la parte che cresce di più nei ricavi podcast, e cosa significa se fai solo audio",
-        "Il podcast come business è ancora piccolo rispetto alla pubblicità digitale totale: aspettative realistiche sui guadagni",
-        "Pubblicità diretta vs programmatica: dove vanno davvero i soldi nel settore oggi"
-      ],
-      "hook_tiktok": [
-        "Pensi che il video podcast sia solo una moda per chi ha tempo da perdere con la telecamera? Nei dati del settore, quasi tre quarti della crescita dei ricavi passa proprio da lì.",
-        "Ti aspettavi di vivere di solo podcast entro un anno? I numeri del settore dicono che il business esiste e cresce, ma resta ancora piccolissimo rispetto alla pubblicità digitale in generale. Gestisci le aspettative.",
-        "Fai ancora solo audio e pensi che basti? I dati globali sui ricavi podcast raccontano un'altra storia, e la differenza la fa quasi sempre chi ha anche una telecamera puntata addosso."
-      ]
-    },
-    {
-      "titolo": "Il Festival del Podcasting festeggia dieci anni a Milano, tra industry e creator",
-      "fonte": "Sky TG24 (tg24.sky.it), Il Sole 24 Ore, ItaliaOggi e MilanoFinanza, confermato dal comunicato ufficiale ripreso da Podnews",
-      "affidabilita": "Secondaria",
-      "voto_in_target": 5,
-      "data_fatto": "2026-10-02",
-      "mercato": "Italia",
-      "brief": "Il 2 e 3 ottobre 2026 Milano ha ospitato la decima edizione del Festival del Podcasting, diretto da Ester Memeo e organizzato da Podstar, a Cascina Triulza (MIND): Industry Day il venerdì per brand, piattaforme e produttori, Creator Day il sabato aperto a chi fa podcast. Tra gli sponsor figurano Acast, Audible, Steady e Yamaha Pro Audio, con Sony come sponsor tecnico; nell'occasione è stata presentata anche la nuova ricerca NielsenIQ per Audible sulle abitudini d'ascolto in Italia.",
-      "angoli_contenuto": [
-        "Perché andare a un evento di settore conviene anche se il tuo podcast è piccolissimo",
-        "Cosa dicono le marche audio pro (Yamaha, Sony) quando sponsorizzano un festival di podcast",
-        "Networking reale vs gruppi Facebook: cosa ti porti a casa da due giorni pensati solo per chi fa podcast"
-      ],
-      "hook_tiktok": [
-        "Fai podcast da casa e pensi che gli eventi di settore siano solo per chi ha già successo? A Milano da dieci anni esiste un festival nato apposta per metterti nella stessa stanza di chi i podcast li fa per lavoro.",
-        "Ti senti solo mentre monti il tuo episodio alle due di notte? In Italia c'è un festival dedicato interamente a questo, con una giornata pensata solo per i creator come te, non solo per i brand.",
-        "Pensi che il podcasting italiano sia ancora un hobby di nicchia? Un festival dedicato è arrivato alla decima edizione, con sponsor come Yamaha e Sony che ci mettono la faccia. Qualcosa vorrà dire."
-      ]
-    },
-    {
-      "titolo": "Spreaker aggiunge la distribuzione con un tocco e rende gratuito per tutti il tool di registrazione da browser",
-      "fonte": "Spreaker/iHeartMedia (news.spreaker.com)",
+      "titolo": "Shure lancia l'MV360, microfono USB-C spatial audio da 349 dollari per creator",
+      "fonte": "TechPowerUp (techpowerup.com), comunicato Shure",
       "affidabilita": "Primaria",
       "voto_in_target": 6,
-      "data_fatto": "2026-10-12",
-      "mercato": "Italia",
-      "brief": "Spreaker, piattaforma di hosting podcast nata in Italia e oggi parte di iHeartMedia, ha aggiunto il 12 ottobre 2026 la distribuzione con un solo tocco nella sua app mobile. La novità arriva dopo che, già a giugno 2026, era stato reso gratuito per tutti \"Spreaker Create for Web\": uno strumento da browser per registrare la voce, aggiungere musica di sottofondo, fare montaggi rapidi ed esportare l'episodio senza installare software.",
+      "data_fatto": "2026-11-17",
+      "mercato": "Internazionale",
+      "brief": "Shure ha presentato il 17 novembre 2026 l'MV360, un microfono USB-C pensato per rendere accessibile anche ai creator alle prime armi la registrazione in spatial audio, con un ricevitore wireless che controlla solo il microfono mentre l'audio viene registrato on-device. Il prezzo è di 349 dollari e l'annuncio anticipa anche una variante MV360+, di cui non sono stati diffusi dettagli.",
       "angoli_contenuto": [
-        "Registrare e pubblicare un episodio senza installare niente: cosa puoi fare davvero solo dal browser",
-        "Distribuzione con un tocco: quanto tempo risparmi rispetto al caricamento manuale su ogni piattaforma",
-        "Spreaker non è solo l'app finita nello scandalo dei feed copiati: cosa offre oggi a chi parte da zero"
+        "Spatial audio sì o no per un podcast: quando ha davvero senso e quando è solo marketing",
+        "On-device recording: perché registrare direttamente sul microfono ti salva da un Wi-Fi che cade a metà intervista",
+        "Quanto costa davvero entrare nel podcasting oggi, microfono per microfono"
       ],
       "hook_tiktok": [
-        "Hai rimandato il primo episodio solo perché non sapevi quale software di registrazione scaricare? Ora puoi registrare, montare ed esportare direttamente dal browser, gratis, senza installare niente.",
-        "Passi più tempo a caricare lo stesso episodio su cinque piattaforme diverse che a scriverlo? Una delle app più usate dai podcaster italiani ha appena aggiunto la distribuzione con un tap solo.",
-        "Pensi che per iniziare un podcast serva uno studio pieno di roba? Il tool gratuito che registra dal browser dice il contrario, e ora ha reso anche la pubblicazione un gesto solo."
+        "Hai 349 dollari da investire e non sai se buttarli su un microfono normale o su uno spatial audio? Fermati un secondo prima di decidere, perché la risposta dipende da una cosa che quasi nessuno controlla.",
+        "Registri sempre con l'ansia che il Wi-Fi ti freghi l'intervista a metà? Il nuovo microfono di Shure salva l'audio direttamente dentro di sé, e no, non è fantascienza, è solo buon senso applicato tardi.",
+        "Pensi che spatial audio sia roba da film Marvel e non da podcast tuo? Da oggi costa quanto un buon dinamico USB, quindi la domanda vera è se il tuo contenuto ne ha davvero bisogno."
+      ]
+    },
+    {
+      "titolo": "YouTube estende a Shorts il tool di clip per i podcast, con suggerimenti AI sui momenti migliori",
+      "fonte": "PPC Land (ppc.land), ripreso da eMarketer e TechCrunch",
+      "affidabilita": "Secondaria",
+      "voto_in_target": 8,
+      "data_fatto": "2026-11-20",
+      "mercato": "Internazionale",
+      "brief": "YouTube Studio ha estendo il suo strumento di estrazione clip in modo che un segmento di un episodio lungo diventi automaticamente uno Short verticale con sottotitoli generati in automatico, con suggerimenti AI su quali momenti tagliare (per ora limitati ad alcuni paesi e lingue). La piattaforma vuole però che questi short restino separati dal feed podcast, dove deve comparire solo l'episodio completo.",
+      "angoli_contenuto": [
+        "Perché un episodio orizzontale e i suoi tagli verticali non sono la stessa cosa, e vanno pensati separatamente",
+        "Affidarsi ai suggerimenti AI per i clip: comodo, ma non toglie il lavoro di capire cosa funziona davvero",
+        "Pubblicare lo short senza intaccare il feed podcast: una distinzione che molti principianti ignorano"
+      ],
+      "hook_tiktok": [
+        "Registri in orizzontale e poi non sai come diavolo tagliarlo per i Reels? YouTube ora lo fa quasi da solo, sottotitoli compresi, ma occhio a dove finisce nel tuo feed, perché non è automatico come pensi.",
+        "Hai un episodio di un'ora e zero tempo per editarlo in dieci clip? Lo strumento che YouTube ha appena allargato agli Shorts ti suggerisce lui i momenti migliori. Tu devi solo avere il coraggio di fidarti poco.",
+        "Pensavi che bastasse ritagliare un pezzo a caso del podcast per farne un Short decente? YouTube ti dà ora un aiuto in più, ma il montaggio buono resta un lavoro tuo, non dell'algoritmo."
+      ]
+    },
+    {
+      "titolo": "Debutta su Sky e NOW 'Sky Voices', il primo canale italiano dedicato ai video podcast",
+      "fonte": "Sky TG24 (tg24.sky.it), Sorrisi.com",
+      "affidabilita": "Primaria",
+      "voto_in_target": 7,
+      "data_fatto": "2026-11-02",
+      "mercato": "Italia",
+      "brief": "Dal 2 novembre 2026 è disponibile su Sky (canale 118) e in streaming su NOW il canale Sky Voices, il primo in Italia interamente dedicato ai video podcast. La notizia è confermata da due fonti indipendenti (Sky TG24 e Sorrisi) e segna il primo canale televisivo italiano pensato apposta per questo formato.",
+      "angoli_contenuto": [
+        "Il video podcast non è più solo una cosa da YouTube: ora ha un canale TV tutto suo in Italia",
+        "Cosa cambia per chi produce podcast quando il formato video diventa 'da televisione' e non più solo 'da piattaforma'",
+        "Vale la pena adattare il proprio show a un canale come questo, o è ancora troppo presto?"
+      ],
+      "hook_tiktok": [
+        "Fai ancora solo audio perché 'il video podcast è una moda'? In Italia è appena nato un canale TV che trasmette solo video podcast, quindi forse è il momento di aggiornare quella convinzione.",
+        "Hai paura che mostrarti in video rovini il tuo podcast audio? C'è chi ha appena lanciato un intero canale Sky dedicato proprio a questo, quindi qualcuno ci crede parecchio più di te.",
+        "Pensi che il tuo pubblico guardi solo Spotify o YouTube? Da inizio novembre esiste anche un canale 118 su Sky fatto solo di video podcast. Il pubblico si sta spostando, tu dove sei?"
+      ]
+    },
+    {
+      "titolo": "NielsenIQ per Audible: 18,5 milioni di ascoltatori di podcast in Italia nel 2026",
+      "fonte": "ItaliaOggi (italiaoggi.it), 9Colonne, Libreriamo",
+      "affidabilita": "Secondaria",
+      "voto_in_target": 6,
+      "data_fatto": "2026-10-01",
+      "mercato": "Italia",
+      "brief": "Secondo il monitoraggio NielsenIQ commissionato da Audible e presentato al Festival del Podcasting di Milano, in Italia ci sono 18,5 milioni di ascoltatori di podcast: in media si ascolta 5 volte al mese, per una durata media di 26,9 minuti a sessione. Tema, genere e narratore restano i criteri principali di scelta, e i social sono ormai il primo canale di scoperta di nuovi show.",
+      "angoli_contenuto": [
+        "26,9 minuti medi di ascolto: cosa significa per come devi strutturare la durata dei tuoi episodi",
+        "I social come primo canale di scoperta: perché non puoi più contare solo sulle piattaforme audio per farti trovare",
+        "Il pubblico italiano dei podcast esiste davvero, la domanda è se il tuo show lo sta raggiungendo"
+      ],
+      "hook_tiktok": [
+        "Fai episodi da un'ora convinto che 'tanto chi ascolta podcast ha tempo'? La sessione media in Italia dura 27 minuti, quindi forse stai perdendo metà pubblico prima della fine.",
+        "Pensi che il tuo podcast non trovi pubblico perché 'in Italia nessuno ascolta podcast'? Sono 18,5 milioni le persone che lo fanno, il problema è un altro e va cercato altrove.",
+        "Continui a promuovere il tuo show solo dentro Spotify? Il pubblico italiano scopre i podcast soprattutto sui social, quindi se non sei lì stai parlando a chi ti ha già trovato."
+      ]
+    },
+    {
+      "titolo": "Descript aggiorna la ricerca multi-progetto e sostituisce i template con le nuove 'Skills'",
+      "fonte": "Blog ufficiale Descript (descript.com), changelog Descript",
+      "affidabilita": "Primaria",
+      "voto_in_target": 6,
+      "data_fatto": "2026-11-03",
+      "mercato": "Internazionale",
+      "brief": "Nel riepilogo di ottobre 2026, aggiornato il 3 novembre, Descript annuncia una nuova funzione di ricerca che trova clip e file media (e i momenti dentro di essi) attraverso tutti i progetti, non solo in quello aperto. Il changelog segnala inoltre che i vecchi template a prompt vengono sostituiti dalle nuove 'Skills', con lo spegnimento dei template salvati fissato per il 30 novembre 2026.",
+      "angoli_contenuto": [
+        "Cercare un momento preciso in mesi di registrazioni senza ricordare in che progetto sta: perché questa funzione risolve un problema reale di editing",
+        "Template vs Skills: cosa cambia davvero nel flusso di lavoro di chi edita podcast con l'AI",
+        "Perché conviene sempre salvare in locale prima che una piattaforma cambi formato ai tuoi strumenti salvati"
+      ],
+      "hook_tiktok": [
+        "Hai passato mezz'ora a cercare 'quella frase' dentro ore di registrazioni sparse in dieci progetti diversi? Descript ora la trova in tutti i progetti insieme, non solo in quello aperto.",
+        "Usi ancora i vecchi template di Descript per editare? Dal 30 novembre spariscono e diventano 'Skills': se non li controlli prima, rischi di perdere flussi di lavoro che usi da mesi.",
+        "Pensi che l'editing audio con l'AI sia sempre uguale a sé stesso? Ogni due mesi cambia nome, cambia logica, cambia bottone. L'unica costante è che tu devi restare aggiornato."
+      ]
+    },
+    {
+      "titolo": "Spreaker, RSS.com, Transistor e RedCircle firmano un codice condiviso per le migrazioni tra piattaforme podcast",
+      "fonte": "Podnews (podnews.net), dati Magellan AI",
+      "affidabilita": "Secondaria",
+      "voto_in_target": 5,
+      "data_fatto": "2026-11-10",
+      "mercato": "Internazionale",
+      "brief": "Diverse piattaforme di hosting podcast, tra cui Spreaker (molto usata anche in Italia), RSS.com, Transistor e RedCircle, hanno aderito a un impegno condiviso su come gestire in modo corretto la migrazione degli show da una piattaforma all'altra, evitando perdite di feed o di dati. Nello stesso periodo, dati Magellan AI indicano una crescita della spesa pubblicitaria sui podcast del 18% su base annua nel terzo trimestre 2026.",
+      "angoli_contenuto": [
+        "Cambiare hosting podcast senza perdere il feed e gli iscritti: cosa cambia con questo codice condiviso",
+        "La pubblicità sui podcast cresce ancora: cosa significa per chi punta a monetizzare con gli sponsor",
+        "Perché la piattaforma che scegli oggi per ospitare il tuo show non dovrebbe essere una prigione per sempre"
+      ],
+      "hook_tiktok": [
+        "Hai paura di cambiare piattaforma di hosting per il tuo podcast perché pensi di perdere tutti gli ascoltatori? Le piattaforme più usate si sono appena messe d'accordo su come farlo senza disastri.",
+        "Pensi che la pubblicità nei podcast sia un mercato morto? È cresciuta del 18% in un anno, quindi se stai ancora decidendo se aprire alle sponsorizzazioni, i numeri ti stanno dicendo qualcosa.",
+        "Scegli l'hosting del tuo podcast come se fosse per sempre? Le piattaforme principali hanno appena firmato regole comuni per farti cambiare casa senza perdere nulla. Usa questa libertà, non ignorarla."
       ]
     }
   ]
